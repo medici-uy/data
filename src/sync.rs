@@ -32,7 +32,7 @@ pub async fn sync(
         for course_evaluation_data in course_data.evaluations.drain(..) {
             match sync_metadata
                 .course_evaluations_metadata
-                .remove(&course_evaluation_data.key)
+                .remove(&course_evaluation_data.full_key())
             {
                 Some(question_option_hash)
                     if question_option_hash == course_evaluation_data.hash => {}
@@ -139,6 +139,7 @@ async fn sync_data(client: &reqwest::Client, engine_url: Url, data: SyncData) ->
 }
 
 async fn sync_images(images_path: PathBuf, bucket_name: &str) -> Result<()> {
+    println!("{:?}, {}", images_path, bucket_name);
     tokio::process::Command::new("aws")
         .arg("s3")
         .arg("sync")
