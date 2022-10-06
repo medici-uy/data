@@ -316,7 +316,7 @@ impl QuestionData {
     }
 
     pub fn full_evaluation_key(&self) -> String {
-        CourseEvaluationData::full_key(
+        CourseEvaluationData::do_full_key(
             self.course_key.as_ref().expect("course key not set"),
             &self.evaluation,
         )
@@ -479,7 +479,14 @@ impl CourseEvaluationData {
         self.course_key = Some(course_key.clone());
     }
 
-    pub fn full_key(course_key: &str, key: &str) -> String {
+    pub fn full_key(&self) -> String {
+        Self::do_full_key(
+            self.course_key.as_ref().expect("course key not set"),
+            &self.key,
+        )
+    }
+
+    pub fn do_full_key(course_key: &str, key: &str) -> String {
         format!("{}{COURSE_EVALUATION_KEY_SEPARATOR}{}", course_key, key)
     }
 }
