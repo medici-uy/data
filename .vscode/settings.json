@@ -1,0 +1,16 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "editor.rulers": [100],
+  "search.exclude": {
+    "**/target": true
+  },
+  "files.exclude": {
+    "**/target": true
+  },
+  "files.watcherExclude": {
+    "**/target": true
+  }
+}
