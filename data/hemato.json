@@ -4547,6 +4547,784 @@
       ]
     },
     {
+      "id": "37a6cff8-6cc6-4ab9-8e17-2f88ecb07e14",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2016-10-22",
+      "text": "Acerca de las etapas en la Reacción de Hipersensibilidad Inmediata o tipo I, señale la opción correcta:",
+      "options": [
+        {
+          "id": "87bed7ff-9791-4b2e-b145-db4f6e3afc7f",
+          "text": "En la etapa de sensibilización ocurre el cambio de clase de inmunoglobulinas al subtipo IgE.",
+          "correct": true
+        },
+        {
+          "id": "bf8e6ac1-8a9f-4bd3-8ab7-692c4bb6e3e1",
+          "text": "En la etapa de sensibilización los mastocitos y basófilos se activan y liberan sus mediadores preformados."
+        },
+        {
+          "id": "c527538c-8340-47aa-805f-36f05ebbb766",
+          "text": "En la fase tardía de la etapa de sensibilización predominan las respuestas vasodilatadoras frente a los mediadores primarios."
+        },
+        {
+          "id": "3e1c0111-efe0-4bb7-8699-74bd154639c0",
+          "text": "Los linfocitos CD4 Th1 son el principal tipo linfocitario presente en este tipo de hipersensibilidad."
+        },
+        {
+          "id": "14a76b1f-297e-42bc-9a30-eb3c3ba1c059",
+          "text": "Los neutrófilos son las principales células involucradas en la fase tardía de la etapa de desencadenamiento."
+        }
+      ]
+    },
+    {
+      "id": "9f589055-d39b-4c18-9cf3-471a55157307",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2016-10-22",
+      "text": "Con respecto a la tuberculosis y la prueba de la tuberculina, señale la opción correcta:",
+      "options": [
+        {
+          "id": "db25cd88-a345-4e02-b3f6-3353f080505a",
+          "text": "Una prueba de tuberculina positiva implica que el individuo está sensibilizado para ciertos antígenos del bacilo tuberculoso.",
+          "correct": true
+        },
+        {
+          "id": "b10bae28-ef86-48a4-af86-6d9b071dfd68",
+          "text": "Una prueba de tuberculina negativa descarta que el individuo ha sido infectado por Mycobacterium tuberculosis."
+        },
+        {
+          "id": "722edd7f-a92b-4757-b1af-2ad638c291c7",
+          "text": "Una prueba de tuberculina positiva confirma que un individuo padece la enfermedad tuberculosis, sin necesidad de realizar otros estudios paraclínicos."
+        },
+        {
+          "id": "1d1c428f-a787-4f98-aa16-fdf421dcb6b4",
+          "text": "Una reacción de hipersensibilidad mediada por el complemento está en la base patogénica de la tuberculosis."
+        },
+        {
+          "id": "9e6541c0-41fe-40b1-afe2-9792b959df4c",
+          "text": "Una reacción de hipersensibilidad mediada por eosinófilos está en la base de la prueba de la tuberculina."
+        }
+      ]
+    },
+    {
+      "id": "4de34eb8-c538-4dec-92a8-564ae262a7f8",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2016-10-22",
+      "text": "Con respecto al asma, señale la opción correcta:",
+      "options": [
+        {
+          "id": "60ad062b-53c8-4a54-b731-6c4e3e5e87f7",
+          "text": "La hiperreactividad bronquial es uno de sus tres pilares patogénicos.",
+          "correct": true
+        },
+        {
+          "id": "e059dac6-8dd4-4fe7-9c7e-f71d5b17318f",
+          "text": "En la fase de sensibilización se produce la degranulación de los mastocitos."
+        },
+        {
+          "id": "ccfc6bd9-a696-48db-9e8c-53347d000c5f",
+          "text": "La IL-12 induce el cambio de isotipo en la producción de anticuerpos hacia IgE."
+        },
+        {
+          "id": "4558f87d-4517-446e-bc33-5385e0f1db98",
+          "text": "La fase de desencadenamiento se caracteriza por la síntesis de IgE."
+        },
+        {
+          "id": "e7bce583-65f6-4d93-a11a-0111a2bd858c",
+          "text": "Se caracteriza por una obstrucción irreversible de la vía aérea."
+        }
+      ]
+    },
+    {
+      "id": "e6b9019c-51c4-4e28-9fe9-07fb85894772",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2016-10-22",
+      "text": "Cuál de los siguientes eventos es factor de riesgo para la aloinmunización HLA del receptor:",
+      "options": [
+        {
+          "id": "f96eb9f2-2b33-42be-a86c-581d642d8559",
+          "text": "Trasplante previo del receptor.",
+          "correct": true
+        },
+        {
+          "id": "813d5ffd-16da-40f7-924f-7dd54c010a09",
+          "text": "Embarazo en una donante."
+        },
+        {
+          "id": "e0e8746a-36aa-4276-bbbc-01664c1f6510",
+          "text": "Infección por citomegalovirus."
+        },
+        {
+          "id": "749069f0-85af-4449-9274-56444201847f",
+          "text": "Transfusión sanguínea en el donante."
+        },
+        {
+          "id": "4f6cb3f9-dc59-455f-832b-9b93db0ddc2c",
+          "text": "Trauma."
+        }
+      ]
+    },
+    {
+      "id": "871d0c3a-a213-4b38-a3f5-468290b47c1b",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2016-10-22",
+      "text": "El fenotipo MLSB de expresión inducible, pone en manifiesto un mecanismo de resistencia a macrólidos, lincosaminas y estreptograminas de clase B. ¿De qué tipo de mecanismo de resistencia estamos hablando?",
+      "options": [
+        {
+          "id": "415f1378-8017-4f64-8465-41c77516b679",
+          "text": "Alteración del sitio blanco.",
+          "correct": true
+        },
+        {
+          "id": "988e6e36-adb4-46ad-89a9-95007538fbd9",
+          "text": "Bombas de eflujo."
+        },
+        {
+          "id": "071acbc8-9aca-43bd-b2ff-b787599f9373",
+          "text": "Desarrollo de vías metabólicas alternativas."
+        },
+        {
+          "id": "3378892a-0939-497a-a190-f283c0859630",
+          "text": "Inactivación enzimática."
+        }
+      ]
+    },
+    {
+      "id": "a2fc3202-2f1f-4368-bffc-0b15cfa31c72",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2016-10-22",
+      "text": "En el trasplante hematopoyético:",
+      "options": [
+        {
+          "id": "b17b30fb-4ddc-49d9-ac9c-a99824931e42",
+          "text": "Puede haber una reacción inmune en dirección inversa al rechazo conocida como reacción injerto versus huésped.",
+          "correct": true
+        },
+        {
+          "id": "b4e96cbf-08b7-46ab-8ee1-23087485baab",
+          "text": "La compatibilidad HLA es menos relevante."
+        },
+        {
+          "id": "56249d20-7c88-4837-affb-928bedb313a9",
+          "text": "La compatibilidad en grupo sanguíneo sistema ABO entre donante y receptor resulta imprescindible."
+        },
+        {
+          "id": "7b5801a9-79d9-41d0-b2fb-18dca922f701",
+          "text": "La presencia de anticuerpos HLA en el receptor resulta intrascendente."
+        },
+        {
+          "id": "ba743151-3059-4215-ac7f-99746482c08f",
+          "text": "Los padres y los hijos son los donantes ideales."
+        }
+      ]
+    },
+    {
+      "id": "137caaec-1d5e-4325-9e11-3c8ebe785ead",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2016-10-22",
+      "text": "En las reacciones de hipersensibilidad retardada, la IL-12 secretada por células dendríticas y macrófagos en respuesta a productos microbianos, es el principal inductor de (señale la opción correcta):",
+      "options": [
+        {
+          "id": "1dab6916-be30-4f84-b456-cd67d63878b1",
+          "text": "La diferenciación de los LTh0 vírgenes hacia LTh1.",
+          "correct": true
+        },
+        {
+          "id": "b83eaebe-f1c0-48c8-8e4d-84f5a455ef01",
+          "text": "La activación de los macrófagos."
+        },
+        {
+          "id": "19551e54-7a9a-4d58-925a-03e654220993",
+          "text": "La estimulación autócrina de los LTh1."
+        },
+        {
+          "id": "41899989-36ec-4023-9909-5091965e045b",
+          "text": "La transformación de los macrófagos en células presentadoras de antígeno más eficientes."
+        },
+        {
+          "id": "9ee1e89e-f9f2-45c2-8d27-16c4ea0e967d",
+          "text": "Los procesos de reparación tisular."
+        }
+      ]
+    },
+    {
+      "id": "92221f82-8c3a-4f40-a3c0-d538eb0f5cda",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2016-10-22",
+      "text": "La búsqueda de antígenos rápidos en faringe para Streptococo beta hemolítico del grupo A (S. pyogenes), tiene como objetivo poner en evidencia mediante reacción antígenoanticuerpo, marque la opción correcta:",
+      "options": [
+        {
+          "id": "d565fae5-c252-403e-b2a2-dc1e216d254c",
+          "text": "Carbohidrato de pared celular.",
+          "correct": true
+        },
+        {
+          "id": "e88257c2-2ea3-449f-9098-c197a8512c24",
+          "text": "Anticuerpos contra estreptolisina O (AELO)."
+        },
+        {
+          "id": "511038e3-a58a-45c8-915c-bac4f0e8d01e",
+          "text": "Antígenos fimbriales."
+        },
+        {
+          "id": "65fa6e30-0251-4c3c-8c50-057e072682a0",
+          "text": "Lipopolisacárido de la bacteria."
+        }
+      ]
+    },
+    {
+      "id": "8c9ba841-09c0-4fa3-8228-e1c61ec557e3",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2016-10-22",
+      "text": "La infección de la mucosa intestinal por parte de Salmonella enterica desencadena una respuesta inflamatoria aguda que resulta en diarrea. Indique qué mecanismo del sistema inmune desempeña un rol fundamental en dicha respuesta inflamatoria:",
+      "options": [
+        {
+          "id": "443a4ebe-efaa-4732-835c-a67e926e72c9",
+          "text": "El reclutamiento de neutrófilos a la zona de infección.",
+          "correct": true
+        },
+        {
+          "id": "5a915293-d100-4624-a196-c3d88ad5ee30",
+          "text": "El reconocimiento de Salmonella por parte de anticuerpos específicos."
+        },
+        {
+          "id": "743f792c-2f42-453f-b962-8f63e5c8a1ac",
+          "text": "La captura de Salmonella por linfocitos intraepiteliales."
+        },
+        {
+          "id": "26b171df-00bc-4a6b-ae4b-3b45292ed314",
+          "text": "La descamación epitelial."
+        },
+        {
+          "id": "68fd3a8b-f769-439f-89a3-5e4306d45991",
+          "text": "La efferocytosis, o eliminación de células apoptóticas por fagocitos."
+        }
+      ]
+    },
+    {
+      "id": "20d64df3-d140-46a6-a517-15a8186d28ad",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2016-10-22",
+      "text": "La microbiota se adquiere desde el momento del nacimiento y cumple un rol relevante en el desarrollo del sistema inmune. Alteraciones tempranas en la microbiota intestinal (disbiosis) pueden reducir la respuesta del hospedero a las vacunas orales porque:",
+      "options": [
+        {
+          "id": "7d333d12-b56d-44a9-83da-32f750a73aba",
+          "text": "La inflamación persistente mantiene al sistema inmune activado frente a bacterias de la microbiota.",
+          "correct": true
+        },
+        {
+          "id": "40d2f412-b1de-4a62-9d71-f5044dc64fd0",
+          "text": "Algunas bacterias de la microbiota tienen efectos antiinflamatorios con inducción de células Tregs."
+        },
+        {
+          "id": "93d6d9e7-1ba1-444c-958c-80155be4e176",
+          "text": "Los PAMPs de la microbiota actúan como adyuvantes naturales para las vacunas orales."
+        },
+        {
+          "id": "b3224436-5a73-4cb4-a660-1013ebac3689",
+          "text": "Los metabolitos producidos por la microbiota actúan sobre el epitelio inhibiendo la respuesta de células B."
+        },
+        {
+          "id": "9a9f737a-0463-420f-b143-f925c49c12ea",
+          "text": "Un desbalance entre los anaerobios estrictos de la microbiota y los aerobios afecta la presentación antigénica."
+        }
+      ]
+    },
+    {
+      "id": "91bbe5e3-7172-49c4-95c9-1a8ce6838099",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2016-10-22",
+      "text": "La vacuna contra HPV es una vacuna compuesta por:",
+      "options": [
+        {
+          "id": "9f37ea77-d43b-4a1d-9e93-daa5b91a2089",
+          "text": "Partículas similares a virus.",
+          "correct": true
+        },
+        {
+          "id": "f1b3e6c9-c351-4dca-a215-78fc9f3bb99a",
+          "text": "Antígeno purificado."
+        },
+        {
+          "id": "fcd2468b-733e-4668-8828-d98891b9405e",
+          "text": "Virus HPV atenuado."
+        },
+        {
+          "id": "8a32af92-96a5-4643-8d58-22218c5dce50",
+          "text": "Virus HPV muerto."
+        },
+        {
+          "id": "d1e34f98-ab39-4f0a-9ed3-bfb42441e483",
+          "text": "Virus de una especie relacionada."
+        }
+      ]
+    },
+    {
+      "id": "c7f87162-8a9b-4d46-8186-79c81fcfebd4",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2016-10-22",
+      "text": "Las inmunodeficiencias se establecen cuando un individuo no es capaz de desarrollar respuestas inmunes efectoras adecuadas. El mieloma múltiple genera (señale la opción correcta):",
+      "options": [
+        {
+          "id": "2360ce24-3570-4c7a-ac44-a18dde5e64d0",
+          "text": "Un tipo de inmunodeficiencia secundaria donde predomina la pérdida de la diversidad de las respuestas inmunes humorales.",
+          "correct": true
+        },
+        {
+          "id": "229baf25-36b6-49a1-8217-d1d6a2ee17b0",
+          "text": "Un tipo de inmunodeficiencia primaria porque se desarrolla en individuos jóvenes."
+        },
+        {
+          "id": "e4b81bb0-f59d-4f6f-8a6c-8d3ec88e8b43",
+          "text": "Un tipo de inmunodeficiencia primaria porque se encuentra afectada la inmunidad innata."
+        },
+        {
+          "id": "1ef12c53-6ae4-4c59-a0d7-502f6fca689a",
+          "text": "Un tipo de inmunodeficiencia secundaria donde predomina la pérdida de la actividad fagocítica de las células NK."
+        },
+        {
+          "id": "90e15312-b3e7-4022-8620-87893c892197",
+          "text": "Un tipo de inmunodeficiencia secundaria donde predomina principalmente la afectación de los eosinófilos."
+        }
+      ]
+    },
+    {
+      "id": "6e7d29cd-d2af-45eb-8a24-90c21d0298e6",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2016-10-22",
+      "text": "Los criterios de asignación en trasplante de órganos:",
+      "options": [
+        {
+          "id": "b4278476-3892-4a5f-8267-e27296ad7c83",
+          "text": "Deben contemplar criterios de eficiencia y de equidad.",
+          "correct": true
+        },
+        {
+          "id": "8e53d70a-e0e6-4789-b023-84df26d1cf89",
+          "text": "Consideran principalmente el sistema Rh."
+        },
+        {
+          "id": "4f3a0301-85f3-4b25-947a-6baaef1092f4",
+          "text": "No contemplan criterio clínico de urgencia."
+        },
+        {
+          "id": "edefb866-2202-4b6f-9422-9d41b413c3ad",
+          "text": "No contemplan ninguna característica del donante."
+        },
+        {
+          "id": "127ee4f8-f295-4d23-b617-7c1d8e2599e9",
+          "text": "Son iguales para los diferentes programas de trasplante."
+        }
+      ]
+    },
+    {
+      "id": "f77f0c47-e6b1-4fe0-a335-4666690683b6",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2016-10-22",
+      "text": "Los hemocultivos constituyen muestras clínicas de gran importancia en los laboratorios clínicos, marque la opción correcta en cuanto a la obtención de los mismos:",
+      "options": [
+        {
+          "id": "6b975db8-ae5c-4cec-ab04-239816483bdc",
+          "text": "La variable más crítica para la recuperación de microorganismos es el volumen total de sangre cultivada.",
+          "correct": true
+        },
+        {
+          "id": "9e765055-fb9f-49ea-abff-32f7f0769485",
+          "text": "Dado que la sangre es un fluido normalmente estéril, no es necesario realizar antisepsia previa a su extracción."
+        },
+        {
+          "id": "583f6033-a1e7-4944-815c-161d7b9a3769",
+          "text": "La sangre para hemocultivo debe enviarse en tubo seco (sin anticoagulante) y transportarse refrigerada."
+        },
+        {
+          "id": "70aaa7ef-74f1-4cc6-89e6-21dc1cf2d3b1",
+          "text": "Se encuentra demostrado que para que su rendimiento sea aceptable deben obtenerse al menos 4 muestras en las primeras 24 horas de internación."
+        },
+        {
+          "id": "63bc1e97-d54e-4010-9aba-0a039e73ae7a",
+          "text": "Se obtienen para establecer rápidamente si un paciente se encuentra o no séptico."
+        }
+      ]
+    },
+    {
+      "id": "3320c093-9ebe-4aeb-9dc2-25724b3edc69",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2016-10-22",
+      "text": "Los linfocitos T citotóxicos son las células efectoras en (señale la opción correcta):",
+      "options": [
+        {
+          "id": "7c701659-6c25-493f-8e9b-efc3abaca5f3",
+          "text": "Las reacciones de hipersensibilidad de tipo IVc.",
+          "correct": true
+        },
+        {
+          "id": "cc26b553-d2a8-4b56-99fb-c9b13a78b215",
+          "text": "Las reacciones de hipersensibilidad de tipo III."
+        },
+        {
+          "id": "c1e824a5-c69c-413e-8841-0c85144abf0a",
+          "text": "Las reacciones de hipersensibilidad de tipo IVa."
+        },
+        {
+          "id": "0f526688-57b7-49f5-a4f4-3752b1a916aa",
+          "text": "Las reacciones de hipersensibilidad de tipo IVb."
+        },
+        {
+          "id": "85c17202-6287-43ea-96a5-b134724e913a",
+          "text": "Las reacciones de hipersensibilidad de tipo IVd."
+        }
+      ]
+    },
+    {
+      "id": "7d39ce20-0ffd-4e10-87af-f90df09f6977",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2016-10-22",
+      "text": "Los virus envueltos, como es el caso del VIH o VHB, poseen insertas en la envoltura espículas glicoproteicas que:",
+      "options": [
+        {
+          "id": "0fdcafee-7c0b-488c-8e7c-98cf1df68a9f",
+          "text": "Están codificadas por el genoma viral y determinan el tipo de células que el virus puede infectar.",
+          "correct": true
+        },
+        {
+          "id": "28882321-2468-49eb-bee9-22e15287e97c",
+          "text": "Están codificadas por el genoma celular y determinan el tipo de células que el virus puede infectar."
+        },
+        {
+          "id": "1c5d334c-52d8-4b2f-a705-1fc44806995c",
+          "text": "Están codificadas por el genoma celular y determinan si el virus establecerá ciclo lítico o lisogénico en la célula infectada."
+        },
+        {
+          "id": "581a2f5f-b7ef-46f2-adbc-8918be50b8b3",
+          "text": "Están codificadas por el genoma viral y determinan si el virus establecerá ciclo lítico o lisogénico en la célula infectada."
+        }
+      ]
+    },
+    {
+      "id": "b1e7620b-96cf-4e96-88a2-25e6bdf3774a",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2016-10-22",
+      "text": "Para el estudio de las infecciones causadas por bacterias y virus, pueden utilizarse métodos que se denominan directos o indirectos. ¿Cuál de los siguientes indica un método indirecto de diagnóstico?",
+      "options": [
+        {
+          "id": "84d1dedd-05ff-468a-9acb-bf1d3fb98c23",
+          "text": "Enzimo inmuno ensayo para detectar anticuerpos específicos contra el agente causal.",
+          "correct": true
+        },
+        {
+          "id": "1dd8f397-9c85-437f-aedf-f19b6799472c",
+          "text": "Inmuno fluorescencia indirecta para detectar proteínas específicas del agente causal."
+        },
+        {
+          "id": "b4a7c1a1-ce0a-453a-8215-abbd12e221b7",
+          "text": "PCR para detectar una secuencia específica del genoma del agente causal."
+        },
+        {
+          "id": "e104a7b5-3d23-4af1-ae83-31913d8c7a12",
+          "text": "Southern blot para detectar genes específicos de bacterias y virus."
+        }
+      ]
+    },
+    {
+      "id": "1d79edf4-c58d-4311-b413-da747b4cc100",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2016-10-22",
+      "text": "Para investigar un brote de gastroenterocolitis que se sospecha asociado al consumo de un salpicón de ave en una fiesta, se decide realizar coprocultivo a un número de personas afectadas. ¿Qué tipo de medios de cultivo será conveniente utilizar?",
+      "options": [
+        {
+          "id": "0ffc25ea-9d81-4130-b214-1785d428f7e1",
+          "text": "Medios sólidos, selectivos y diferenciales.",
+          "correct": true
+        },
+        {
+          "id": "a81b6926-5e14-4bf6-b14b-0806d7339c72",
+          "text": "Medios líquidos, de enriquecimiento no selectivo."
+        },
+        {
+          "id": "56dc7242-c3a4-4027-bf59-215afd2024d5",
+          "text": "Medios líquidos, selectivos y diferenciales."
+        },
+        {
+          "id": "5159ec36-abd5-4163-a2cb-6f2520ecb549",
+          "text": "Medios sólidos, muy ricos, no selectivos pero diferenciales."
+        }
+      ]
+    },
+    {
+      "id": "3ba4504e-2fa5-4850-a3ff-1c3d222c9537",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2016-10-22",
+      "text": "Qué es innecesario para establecer la compatibilidad donante-receptor en trasplante renal:",
+      "options": [
+        {
+          "id": "06bd939a-81ed-446f-b23b-608f2f58dac6",
+          "text": "Estudio de anticuerpos HLA del donante.",
+          "correct": true
+        },
+        {
+          "id": "e3054c61-f10d-4e52-857c-48d3d599af50",
+          "text": "Estudio de anticuerpos HLA en el receptor."
+        },
+        {
+          "id": "0a2ff76d-c25b-456d-8d8e-b9875b9d13b3",
+          "text": "Prueba cruzada entre linfocitos del donante y suero del receptor."
+        },
+        {
+          "id": "305bd430-2ade-45de-9a03-2de91340b44c",
+          "text": "Tipificación HLA del donante."
+        },
+        {
+          "id": "ab6ecb47-6dba-4906-b38e-6d54e3f93bcb",
+          "text": "Tipificación HLA del receptor."
+        }
+      ]
+    },
+    {
+      "id": "d22c6d0b-7493-4398-8c91-e3dd97a66dea",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2016-10-22",
+      "text": "Si bien Streptococcus pneumoniae ha evolucionado diversos mecanismos de evasión, la activación del sistema complemento es una parte central de las defensas contra este patógeno. ¿Cuál es la principal vía del complemento que se activa durante las etapas tempranas, en una primo-infección?",
+      "options": [
+        {
+          "id": "70f410cc-3f6e-4077-a661-fa9578c71383",
+          "text": "La vía clásica, por unión de la proteína C reactiva o anticuerpos naturales.",
+          "correct": true
+        },
+        {
+          "id": "fa3b6f6e-8343-4a05-9ad2-8a1cd32f0af3",
+          "text": "La vía alterna por unión a la proteína PspA."
+        },
+        {
+          "id": "3e62f222-b6ad-4e0c-a48c-c5d4c371a1bb",
+          "text": "La vía clásica por unión de anticuerpos serotipo-específicos."
+        },
+        {
+          "id": "d905c6af-876a-4a16-97a1-6bbd8292df41",
+          "text": "La vía de las lectinas por unión de la proteína C reactiva."
+        }
+      ]
+    },
+    {
+      "id": "a2213fba-f4f8-46fb-a328-5a6ed9e7a29d",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2016-10-22",
+      "text": "Sobre el tratamiento de la Trombocitopenia Inmune (TI), señale la opción correcta:",
+      "options": [
+        {
+          "id": "dca0bf2d-2096-4d2b-9425-67ee27858de0",
+          "text": "La observación y seguimiento constituye una opción adecuada para aquellos pacientes con más de 30.000 plaquetas/mm3 que no presentan sangrados.",
+          "correct": true
+        },
+        {
+          "id": "c151df18-c816-4307-8fc7-5b133d4d2fe9",
+          "text": "Cifras menores a 50.000 plaquetas/mm3 son indicación de iniciar tratamiento con corticoides."
+        },
+        {
+          "id": "7972ee7b-abe9-4551-b803-dc01c4b5ff3a",
+          "text": "El Rituximab es un medicamento financiado por el Fondo Nacional de Recursos (FNR) para el tratamiento de la TI en Uruguay."
+        },
+        {
+          "id": "fcd0ee0e-7e29-4a72-af38-52f446e43177",
+          "text": "Los agonistas de la trombopoyetina constituyen actualmente una opción de primera línea."
+        },
+        {
+          "id": "a9d31040-06fa-4b8c-b245-54d26e4eba9c",
+          "text": "Todos los pacientes diagnosticados presentan indicación de tratamiento farmacológico."
+        }
+      ]
+    },
+    {
+      "id": "3ae2e262-10ac-4e4a-a59c-0f287e305d76",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2016-10-22",
+      "text": "Sobre las reacciones de hipersensibilidad de tipo I, señale la opción correcta:",
+      "options": [
+        {
+          "id": "10bab512-daa1-454d-a3b2-3e2d6b1c34f2",
+          "text": "Son procesos con una elevada prevalencia.",
+          "correct": true
+        },
+        {
+          "id": "e9a824b6-57e5-4687-94b1-4547830093e6",
+          "text": "Se caracterizan por el daño provocado por la activación del complemento durante la fase inicial de la etapa de desencadenamiento."
+        },
+        {
+          "id": "fe2ebe45-cd3f-42f2-b313-a92d080af0c1",
+          "text": "Se encuentran asociadas al desarrollo de asma no atópica."
+        },
+        {
+          "id": "80d3de62-2b43-4106-ac1d-b08be832b517",
+          "text": "Se encuentran en la base patogénica de la diabetes mellitus tipo 1."
+        },
+        {
+          "id": "54bf243b-f662-41a6-98ed-85f3345b1f0e",
+          "text": "Se manifiestan clínicamente durante la etapa de sensibilización."
+        }
+      ]
+    },
+    {
+      "id": "29a4ede0-b5b4-462c-a04b-6df7c7c5e895",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2016-10-22",
+      "text": "Streptococcus pneumoniae es un importante patógeno humano, para el cual se han desarrollado distintas vacunas hasta el momento. Considerando la vacuna 13-valente, que se aplica actualmente en el marco del Certificado Esquema de Vacunación, ¿cuál de las siguientes afirmaciones NO es correcta?",
+      "options": [
+        {
+          "id": "ecf46bf3-292a-40bb-b68b-dbbfb9ce24a9",
+          "text": "No provoca re-emplazo de serotipos circulantes.",
+          "correct": true
+        },
+        {
+          "id": "a0a53460-ada3-4571-8786-78f239c59e5d",
+          "text": "Es inmunogénica en niños menores de 2 años."
+        },
+        {
+          "id": "424c4201-6bb1-462c-8705-6369f421f54b",
+          "text": "Genera memoria inmunológica."
+        },
+        {
+          "id": "9942897b-521f-4752-ab40-64481f1f8964",
+          "text": "Genera protección en personas no vacunadas, por lo que se conoce como inmunidad indirecta o de rebaño."
+        },
+        {
+          "id": "df1d7ddf-fddc-4bb1-ac6d-8841d8382708",
+          "text": "Induce reducción en la colonización nasofaríngea por serotipos vacunales."
+        }
+      ]
+    },
+    {
+      "id": "cb6f5448-7e24-44d4-9a33-cf092ee2173b",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2016-10-22",
+      "text": "¿Cuál de estas vacunas NO es de uso profiláctico?",
+      "options": [
+        {
+          "id": "91538fd5-dff3-4416-8cc9-d04d9022945d",
+          "text": "Vacuna Provenge.",
+          "correct": true
+        },
+        {
+          "id": "65e52829-7953-434b-93cc-a68508cfab59",
+          "text": "Bacilo Calmette-Guérin."
+        },
+        {
+          "id": "0483d65a-a074-4425-bfab-484fbdecb0c3",
+          "text": "Fiebre amarilla."
+        },
+        {
+          "id": "aa8a1d20-4cd6-4486-bdd4-80a837510518",
+          "text": "Vacuna polio oral."
+        },
+        {
+          "id": "784b709d-9aa1-469d-8236-8b3d6066d037",
+          "text": "Vacuna rotavirus."
+        }
+      ]
+    },
+    {
+      "id": "6d148668-a4e0-4040-857f-bfb79a7c9eed",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2016-10-22",
+      "text": "¿Cuál de las siguientes combinaciones de antibióticos e inhibidores de beta-lactamasas utilizaría para detectar una beta-lactamasa de espectro extendido (BLEE)?",
+      "options": [
+        {
+          "id": "8fa3a942-24f2-4709-93a4-9df78a630880",
+          "text": "Ceftazidime / ácido clavulánico / Cefotaxime.",
+          "correct": true
+        },
+        {
+          "id": "861287e2-ffbd-488f-a317-5a70e0e6e540",
+          "text": "Ceftazidime / ácido borónico / Cefotaxime."
+        },
+        {
+          "id": "0c77575a-70bc-4f9d-9214-2d868f4edd06",
+          "text": "Imipenem / EDTA / Meropenem."
+        },
+        {
+          "id": "71630301-ffad-4cdf-a886-2439ccabaf52",
+          "text": "Imipenem / ácido borónico / Ceftazidime."
+        }
+      ]
+    },
+    {
+      "id": "c0227d0c-9013-49a2-ac82-9e4764b19e3e",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2016-10-22",
+      "text": "¿Que colonias estudiaría en un exudado faringeo realizado en un paciente con sospecha de faringitis bacteriana? Marque la opción correcta:",
+      "options": [
+        {
+          "id": "5f2a7ab8-b375-4cfd-ae39-ac6573a981d7",
+          "text": "Colonias beta hemolíticas.",
+          "correct": true
+        },
+        {
+          "id": "49d109ef-8081-4653-86c9-c811fe192d93",
+          "text": "Colonias alfa hemolíticas."
+        },
+        {
+          "id": "458b4239-22dd-47ec-976a-1abc8ccd8284",
+          "text": "Colonias gama hemolíticas."
+        },
+        {
+          "id": "e42e51aa-9bcf-4563-8d3a-4694aa0c866c",
+          "text": "Todas las colonias."
+        }
+      ]
+    },
+    {
+      "id": "ea808aaa-feea-4f66-b2bf-2a000f7e7951",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2016-10-22",
+      "text": "¿Qué etapa en el desarrollo de una vacuna se debe superar para habilitar su comercialización?",
+      "options": [
+        {
+          "id": "9915d00a-873e-49c9-b35f-137bfe505432",
+          "text": "Ensayo clínico fase III.",
+          "correct": true
+        },
+        {
+          "id": "07d0a0ae-98e3-4c9e-b41f-9818b7d7541f",
+          "text": "Ensayo clínico fase I."
+        },
+        {
+          "id": "30b9435e-5651-4873-90a4-48da17088059",
+          "text": "Ensayo clínico fase II."
+        },
+        {
+          "id": "d7afe544-c3ff-48a2-a64c-bba4cb017dcd",
+          "text": "Ensayo clínico fase IV."
+        },
+        {
+          "id": "ead3c59d-c4c4-41ff-8d10-586d09292d3d",
+          "text": "Ensayos pre-clínicos."
+        }
+      ]
+    },
+    {
       "id": "7a302155-a680-4417-8268-7a79c6a1a3b8",
       "evaluation": "parcial_3",
       "source": "partial",
