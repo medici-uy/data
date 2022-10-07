@@ -28,8 +28,16 @@ impl Synchronizer {
                 images_path,
                 engine_url,
                 engine_key,
+                sync_images_bucket,
             } => {
-                sync::sync(data_path, images_path, engine_url, engine_key).await?;
+                sync::sync(
+                    data_path,
+                    images_path,
+                    engine_url,
+                    engine_key,
+                    sync_images_bucket,
+                )
+                .await?;
             }
             Command::Format {
                 data_path,
@@ -82,6 +90,9 @@ enum Command {
             default_value = "./images"
         )]
         images_path: PathBuf,
+
+        #[clap(long)]
+        sync_images_bucket: bool,
 
         #[clap(long, value_parser, value_name = "ENGINE_URL", env = "ENGINE_URL")]
         engine_url: Url,

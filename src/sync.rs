@@ -11,6 +11,7 @@ pub async fn sync(
     images_path: PathBuf,
     engine_url: Url,
     engine_key: Secret<String>,
+    sync_images_bucket: bool,
 ) -> Result<()> {
     let engine_client = engine_client(engine_key)?;
     let mut sync_metadata = sync_metadata(&engine_client, engine_url.clone()).await?;
@@ -101,7 +102,9 @@ pub async fn sync(
     )
     .await?;
 
-    sync_images(images_path, &sync_metadata.images_bucket_name).await?;
+    if sync_images_bucket {
+        sync_images(images_path, &sync_metadata.images_bucket_name).await?;
+    }
 
     Ok(())
 }
@@ -139,7 +142,6 @@ async fn sync_data(client: &reqwest::Client, engine_url: Url, data: SyncData) ->
 }
 
 async fn sync_images(images_path: PathBuf, bucket_name: &str) -> Result<()> {
-    println!("{:?}, {}", images_path, bucket_name);
     tokio::process::Command::new("aws")
         .arg("s3")
         .arg("sync")
