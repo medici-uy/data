@@ -4547,6 +4547,1266 @@
       ]
     },
     {
+      "id": "1ead6022-5f1a-4eed-b463-e33eadcc7c14",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "Basándonos en la patogenia del asma atópica podemos asumir que el mecanismo de acción mayoritario de los corticoides en esta enfermedad es:",
+      "options": [
+        {
+          "id": "c59bed6d-6a15-4bd9-8778-9d6dc086df34",
+          "text": "Antiinflamatorio.",
+          "correct": true,
+          "explanation": "Los corticoides son los más potentes antinflamatorios. Se consideran la piedra angular en el tratamiento del asma, son utilizados en el mantenimiento de forma inhalada (lo cual evita los efectos adversos sistémicos)."
+        },
+        {
+          "id": "5e0b9a33-c068-48a0-ba3a-3d693e1780ac",
+          "text": "Anti IL-6."
+        },
+        {
+          "id": "511320dc-a00f-42c2-a688-355e374937b3",
+          "text": "Bloqueo del TNF beta."
+        },
+        {
+          "id": "958d6412-4f82-44f1-95d8-a1c5f9683322",
+          "text": "Estabilizar el mastocito."
+        },
+        {
+          "id": "1d5c506c-9430-440d-be14-fbae6e47e6a5",
+          "text": "Evitar la sensibilización."
+        }
+      ]
+    },
+    {
+      "id": "d1366f27-6474-4b44-829e-80a4dbec21fc",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "En cuanto al asma no atópica, señale la opción correcta:",
+      "options": [
+        {
+          "id": "56ca839a-195d-4886-a5e5-9d5fc7f72c1d",
+          "text": "Es mediada por neutrófilos.",
+          "correct": true,
+          "explanation": "El asma no atópica esta mediado por neutrófilos, los Th17 tienen un rol importante en la misma. El asma no atópica no se explica por las mismas bases patogénicas que el asma atópica, por lo cual clínicamente son asmas más severas y más resistentes a los tratamientos convencionales. El omalizumab (anti-IgE) no es una opción en el tratamiento dado que patogénicamente en este tipo de asma no interviene la IgE."
+        },
+        {
+          "id": "ea2dc654-4ed6-4bd0-bbae-7616d1f441b2",
+          "text": "El omalizumab es un tratamiento eficaz considerando la patogenia de este tipo de asma."
+        },
+        {
+          "id": "623385d9-39cd-4b83-a712-cba0735c2c3d",
+          "text": "Es el tipo de asma más frecuente."
+        },
+        {
+          "id": "8dcd8c5f-9efc-4b6e-a3d1-99bb7cc95a65",
+          "text": "Es mediada por linfocitos Th2."
+        },
+        {
+          "id": "d087bc1b-0da4-42ac-ba5f-ce087f8eb86a",
+          "text": "Se caracteriza por presentar una excelente respuesta terapéutica a los corticoides."
+        }
+      ]
+    },
+    {
+      "id": "0fc73bef-6991-45dd-84a8-132d5f7f424c",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "En las reacciones de hipersensibilidad tipo I la célula principal es:",
+      "options": [
+        {
+          "id": "28e87b5b-e3f8-4474-997b-4c5653ca755f",
+          "text": "El mastocito.",
+          "correct": true,
+          "explanation": "El mastocito se considera una de las células principales en las reacciones de hipersensibilidad tipo I intervienen tanto en la etapa de sensibilización como en las etapas iniciales del desencadenamiento."
+        },
+        {
+          "id": "efdf342a-90a6-4358-8c4f-38abe724772f",
+          "text": "El linfocito T citotóxico."
+        },
+        {
+          "id": "d0502c2d-1cf8-484e-90ea-e1283e3bf235",
+          "text": "El linfocito Th1."
+        },
+        {
+          "id": "f48ee8b8-a82d-4370-a008-cccf8f78297e",
+          "text": "El linfocito Th17."
+        },
+        {
+          "id": "e42faa72-3a64-4431-8d9b-295a36ae051e",
+          "text": "El macrófago."
+        }
+      ]
+    },
+    {
+      "id": "8f96772a-844c-467e-881c-2d31e0c2cc8c",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "La base patogénica de la prueba de la tuberculina (PPD) se explica por:",
+      "options": [
+        {
+          "id": "d48a168a-6c86-403a-b2cb-0eeaf3965ba5",
+          "text": "Una reacción de hipersensibilidad tipo IVa.",
+          "correct": true,
+          "explanation": "En la base patogénica del PPD se encuentra una reacción de hipersensibilidad tipo IVa o retardada. La cual, luego de la inyección del derivado proteico purificado (tuberculina) se debe medir la induración (pápula) a las 48 hs (tiempo que demora la hipersensibilidad retardada, lo cual explica su nombre)."
+        },
+        {
+          "id": "ed52c7b3-3710-41cb-a94c-9730e3da50f3",
+          "text": "Una reacción de hipersensibilidad tipo I."
+        },
+        {
+          "id": "30179bdf-7418-4827-b739-477113691ff3",
+          "text": "Una reacción de hipersensibilidad tipo IVb."
+        },
+        {
+          "id": "906377a1-ee37-4261-aacc-e200389913a8",
+          "text": "Una reacción de hipersensibilidad tipo IVc."
+        },
+        {
+          "id": "81494a66-7d29-4884-921c-3a7873b8ee5f",
+          "text": "Una reacción de hipersensibilidad tipo IVd."
+        }
+      ]
+    },
+    {
+      "id": "0014929b-4bb1-4221-b9bc-094846b15162",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "La etapa inicial de la fase de desencadenamiento en las reacciones de hipersensibilidad de tipo I se caracteriza por (señale la opción correcta):",
+      "options": [
+        {
+          "id": "d3e7edab-4e84-41c7-b07d-e66afd5c1f17",
+          "text": "La activación de mastocitos con liberación rápida de mediadores preformados y síntesis de nuevos mediadores.",
+          "correct": true,
+          "explanation": "El desencadenamiento consta de dos fases, la fase inicial y la fase tardía. Luego de la re-exposición al antígeno ocurre la activación del mastocito, la cual genera señales para: la desgranulación (mediadores preformados), activación de la fosfolipasa A2, activación de genes de citosinas (mediadores de novo)."
+        },
+        {
+          "id": "8095683f-e718-4a4e-a7bf-84aedd413d98",
+          "text": "El daño mediado por activación de la cascada del complemento."
+        },
+        {
+          "id": "75b145ce-0eb3-46a8-98c6-a85c9b6da288",
+          "text": "La activación de los eosinófilos por medio de entrecruzamiento de sus receptores Fc para IgG."
+        },
+        {
+          "id": "21d107e0-7db1-4032-a2d6-90c2e02f40f6",
+          "text": "La producción de IgE."
+        },
+        {
+          "id": "af01c538-6995-4b33-a526-1aa388e52146",
+          "text": "La secreción de IFN-gamma por linfocitos Th1 activados."
+        }
+      ]
+    },
+    {
+      "id": "1400cbec-c93a-43e0-b560-58fd55d43ecc",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "La formación de granulomas comúnmente ocurre en los pacientes con tuberculosis. La reacción de hipersensibilidad que se encuentra en su base patogénica es (señale la opción correcta):",
+      "options": [
+        {
+          "id": "6488761f-a810-4979-9c4f-a90ceb7c447c",
+          "text": "La tipo IVa o hipersensibilidad retardada.",
+          "correct": true,
+          "explanation": "La formación del granuloma es un ejemplo de reacción de hipersensibilidad tipo IVa que explica en la clínica la hipersensibilidad granulomatosa crónica."
+        },
+        {
+          "id": "d6a7fa09-8174-439b-a4ec-b15f9f7466a3",
+          "text": "La tipo I o hipersensibilidad inmediata."
+        },
+        {
+          "id": "bef58766-62b4-4a3e-a487-56c3b06d8a08",
+          "text": "La tipo II o mediada por anticuerpos."
+        },
+        {
+          "id": "7cfbb53d-64c0-4688-81e4-6cb63dfeff2b",
+          "text": "La tipo III o mediada por el complemento."
+        },
+        {
+          "id": "c5e9315e-7549-42f2-93d3-6b74895a90c9",
+          "text": "La tipo IVc o mediada por linfocitos T citotóxicos."
+        }
+      ]
+    },
+    {
+      "id": "0c97a25b-de86-40a5-88a0-4ce3d14d4e7e",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "Las células activadas que forman parte de los granulomas que se observan en la tuberculosis y que se denominan células epitelioides, se desarrollan a partir de:",
+      "options": [
+        {
+          "id": "c3703a8a-f55c-4afa-bacb-8a9e6e1d5eb5",
+          "text": "Macrófagos.",
+          "correct": true,
+          "explanation": "En la tuberculosis existe una persistencia del antígeno, lo cual lleva a que los macrófagos activados persistan secretando citoquinas y factores de crecimiento. A largo plazo va a generarse cambios morfológicos en estos macrófagos, formando las células epiteloides, posteriormente los mismos se fusionan y se transforman en células gigantes multinucleadas, lo cual lleva a la formación del granuloma."
+        },
+        {
+          "id": "0864214d-a555-4398-bcd7-000bb7e51030",
+          "text": "Eosinófilos."
+        },
+        {
+          "id": "58521b3e-8e9e-4593-a519-af6c9853e3c3",
+          "text": "Linfocitos B."
+        },
+        {
+          "id": "76ab05db-aeee-4dc0-ae17-41ebdf83af2d",
+          "text": "Linfocitos T CD4+."
+        },
+        {
+          "id": "994695a8-2f0b-4184-ae14-1c25fbd12a48",
+          "text": "Linfocitos T CD8+."
+        }
+      ]
+    },
+    {
+      "id": "4c824591-7baf-486d-b685-a55de48c17c8",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "Las reacciones de hipersensibilidad de tipo I constituyen reacciones inmunitarias de desarrollo rápido que se desencadenan luego de:",
+      "options": [
+        {
+          "id": "57f87609-2bb3-4ee7-a562-a62093ba4fb2",
+          "text": "A unión de un antígeno a un anticuerpo específico de tipo IgE unido a mastocitos en sujetos previamente sensibilizados para ese antígeno.",
+          "correct": true,
+          "explanation": "La fase de desencadenamiento se inicia luego de la re-exposición al antígeno (alérgeno) al cual el individuo fue sensibilizado previamente. El primer paso, es la unión del antígeno (alérgeno) al anticuerpo (IgE) que oficia de receptor inmunogéno en los mastocitos. Luego de esta unión se produce el entrecruzamiento de dos receptores adyacentes con la posterior activación del mastocito."
+        },
+        {
+          "id": "c58ea1c3-a540-4356-9eea-5e9eef866486",
+          "text": "El daño tisular por fagocitos que se activan por reconocer antígenos opsonizados."
+        },
+        {
+          "id": "975685c8-3b38-47f0-9ac0-b7ae3e6bbfec",
+          "text": "La activación de un linfocito T citotóxico previamente sensibilizado para el antígeno específico."
+        },
+        {
+          "id": "b226fb69-7014-48fb-8aad-c9713612c937",
+          "text": "La activación de un linfocito Th1 previamente sensibilizado para el antígeno específico."
+        },
+        {
+          "id": "549b15f1-c78d-46da-89b6-81729433e951",
+          "text": "La activación del complemento por depósito de inmunocomplejos."
+        }
+      ]
+    },
+    {
+      "id": "31817ee0-ff86-409e-81f9-756a1d920c59",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "Los mastocitos liberan mediadores preformados y sintetizan mediadores de novo que son fundamentales para el desarrollo de la fase inicial de la etapa de desencadenamiento en las reacciones de hipersensibilidad de tipo I. ¿Cuál de los siguientes es un mediador preformado por los mastocitos?",
+      "options": [
+        {
+          "id": "81da18f2-6f41-489d-869a-69d68b940125",
+          "text": "Histamina.",
+          "correct": true,
+          "explanation": "La histamina se considera un mediador preformado o primario. Es el componente principal de los gránulos, genera vasodilatación y broncoconstricción. El resto de los mediadores nombrados en esta pregunta se consideran mediadores secundarios o sintetizados de novo."
+        },
+        {
+          "id": "10438a55-7c13-4812-8976-b202657dbeef",
+          "text": "Acido araquidónico."
+        },
+        {
+          "id": "a0c93ccd-2e4b-4ded-a57d-f928e47b7993",
+          "text": "Factor activador de las plaquetas."
+        },
+        {
+          "id": "c10eb6b3-6526-49fb-b184-9359b1e95da5",
+          "text": "Leucotrienos."
+        },
+        {
+          "id": "25cc8baa-214c-434f-aea2-73ca0fec8577",
+          "text": "Prostaglandinas."
+        }
+      ]
+    },
+    {
+      "id": "72ef4f29-40ba-4080-85be-308d4ff7e037",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "Respecto de la reacción a la tuberculina o PPD, señale la opción correcta:",
+      "options": [
+        {
+          "id": "aa3b901f-c10b-46fc-b1a5-2519ade3cd68",
+          "text": "Se utiliza como prueba para determinar si un individuo ha sido infectado por Mycobacterium tuberculosis.",
+          "correct": true,
+          "explanation": "El PPD se utiliza para diagnosticar infección tuberculosa, nos informa cuando un individuo fue sensibilizado para ese antígeno. Es importante diferenciar infección de enfermedad tuberculosa. Existen pruebas que presentan mayor especificidad que el PPD para diagnosticar infección tuberculosa, estos son los test IGRAs."
+        },
+        {
+          "id": "e9763b09-b488-4588-b404-28ae084e9c52",
+          "text": "Constituye el gold-standard para el diagnóstico de enfermedad tuberculosa activa."
+        },
+        {
+          "id": "b6f25da9-7e0d-4155-aa29-f4a870b1496f",
+          "text": "Constituye la prueba de mayor especificidad para el diagnóstico de infección tuberculosa."
+        },
+        {
+          "id": "4ec2e29c-1053-41ce-87f4-5dde102b1810",
+          "text": "Es el prototipo de las reacciones de hipersensibilidad de tipo IVd."
+        },
+        {
+          "id": "33aef0ab-eca4-44ea-87c9-456ada4c23c4",
+          "text": "Permite detectar y cuantificar el interferón gamma liberado por los linfocitos del paciente."
+        }
+      ]
+    },
+    {
+      "id": "00f8810a-1d46-4957-8d1a-b1b54a6d2759",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "Sexo masculino, 60 años. Tabaquista intenso. Vive en refugio. Se diagnostica recientemente neoplasia hematológica por lo que se está realizando corticoides a dosis altas desde hace 3 meses. Actualmente está asintomático. Se realiza PPD de 12 mm. radiografía de tórax normal y cultivo de expectoración con técnica de Ziehl Neelsen (para detección de bacilo acido alcohol resistentes) negativa. Su diagnóstico es:",
+      "options": [
+        {
+          "id": "6c820a1b-e5f8-4261-8973-c01944faa469",
+          "text": "Tuberculosis latente o infección tuberculosa.",
+          "correct": true,
+          "explanation": "Un individuo con infección tuberculosa o tuberculosis latente es aquel que presenta: un PPD positivo, esta asintomático, presenta baciloscopias y radiografía de tórax normal, este individuo no contagia. Un individuo con enfermedad tuberculosa es aquel que: esta sintomático, presenta baciloscopias y radiografía de tórax alteradas, este individuo contagia (siempre que sea una forma pulmonar). Los distintos tipos de tuberculosis que se nombran en la pregunta (a excepción de la tuberculosis latente) son ejemplos de enfermedad tuberculosa."
+        },
+        {
+          "id": "4196025a-edf5-47a3-a4f7-2868e89c826e",
+          "text": "Tuberculosis miliar."
+        },
+        {
+          "id": "aaebadae-7d4e-4105-81f0-b128c56ea7f3",
+          "text": "Tuberculosis pulmonar de reactivación."
+        },
+        {
+          "id": "28a64210-52d6-423a-87e4-c624dda71b2b",
+          "text": "Tuberculosis pulmonar primaria."
+        },
+        {
+          "id": "e37a8930-56bf-4b41-a7b6-51e1148ddc7d",
+          "text": "Tuberculosis secundaria."
+        }
+      ]
+    },
+    {
+      "id": "ba0d66ab-b0f2-4f70-80ca-8154dd6aae77",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "¿Cuál de las siguientes es la célula efectora de las reacciones de hipersensibilidad tipo IVa?",
+      "options": [
+        {
+          "id": "93a2c482-17cf-4860-bccf-a4962670bf2d",
+          "text": "Macrófagos.",
+          "correct": true,
+          "explanation": "La célula efectora principal en las reacciones de hipersensibilidad tipo IVa es el macrófago. La activación del mismo con la consiguiente liberación de citoquinas (TNF, IL-1, IL-6, IL-12) van a explicar la fase efectora en el desencadenamiento."
+        },
+        {
+          "id": "8bd1d386-b786-4df1-b6bc-801e82aea0d2",
+          "text": "Eosinófilos."
+        },
+        {
+          "id": "1942ff90-da8e-4023-9c68-216c7da50001",
+          "text": "Linfocitos T CD8+."
+        },
+        {
+          "id": "6c1eb831-89ae-42d9-861b-10e387365785",
+          "text": "Linfocitos Th2."
+        },
+        {
+          "id": "6767d851-c1af-4bbb-9e1b-c75578080f59",
+          "text": "Mastocitos."
+        }
+      ]
+    },
+    {
+      "id": "87a4d4c1-6d11-473b-8173-d82ddb0a69e4",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2013-10-19",
+      "text": "Actualmente existen vacunas contra Streptococcus pneumoniae que han mostrado buena eficacia en la prevención de la enfermedad invasiva. ¿Cuál de estas vacunas se aplica a los niños menores de 2 años en Uruguay?",
+      "options": [
+        {
+          "id": "55787d70-db6d-4ef4-a995-6dc90dd83ddc",
+          "text": "Vacuna conjugada 13-valente.",
+          "correct": true
+        },
+        {
+          "id": "84bfc983-6d85-476d-872f-d4f92471358a",
+          "text": "Vacuna conjugada 10-valente."
+        },
+        {
+          "id": "e543f169-6fa0-45fe-9845-027f842556f1",
+          "text": "Vacuna conjugada 7-valente."
+        },
+        {
+          "id": "d33fa234-eb9d-4e4d-97af-deaa0aff3f03",
+          "text": "Vacuna polisacarídica 13-valente."
+        },
+        {
+          "id": "f1df4e64-83e4-437b-a1dd-f4ad6defa9e1",
+          "text": "Vacuna polisacarídica 23-valente."
+        }
+      ]
+    },
+    {
+      "id": "fe7f7b1c-0358-41bb-ac03-940a392811b9",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2013-10-19",
+      "text": "Con respecto a Streptococcus pyogenes:",
+      "options": [
+        {
+          "id": "3bed4427-3c4c-4f35-b775-cbaad812032c",
+          "text": "Posee una proteína M., que le ofrece resistencia a la fagocitosis constituyendo uno de los principales mecanismos de virulencia.",
+          "correct": true
+        },
+        {
+          "id": "48596f4d-b588-40ba-a152-326e92e8d2ea",
+          "text": "Dado que es un microorganismo no exigente, crece fácilmente en medios pobres."
+        },
+        {
+          "id": "c25fd572-5a7f-4976-afd7-434121b6a4ee",
+          "text": "Es un diplococo gram negativo."
+        },
+        {
+          "id": "14954c79-f2e4-4941-b0e0-9f996a4dd179",
+          "text": "La hemolisina que presenta es responsable de la erupción observada en la fiebre escarlatina."
+        },
+        {
+          "id": "9f464044-6ba2-4636-9ac5-bdd2c6b17869",
+          "text": "Streptococcus pyogenes suele ser resistente a penicilina por producción de beta-lactamasas."
+        }
+      ]
+    },
+    {
+      "id": "45c9075c-4b63-4f69-9d64-6b6c14360283",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2013-10-19",
+      "text": "Con respecto a la evolución del Lupus Eritematoso Sistémico, señale la opción correcta:",
+      "options": [
+        {
+          "id": "f36309ec-9f35-40a0-be07-78ffde9f3a32",
+          "text": "Las mujeres con Lupus Eritematoso Sistémico entre 35 y 44 años tienen un riesgo mucho mayor de sufrir un infarto agudo de miocardio que las mujeres de edad similar sin lupus.",
+          "correct": true
+        },
+        {
+          "id": "33c2c755-e6b8-46e3-9e00-e9c6d55bc0c0",
+          "text": "El tratamiento habitual no implica mayor afectación de la respuesta inmune, más allá de las alteraciones causadas por la propia enfermedad."
+        },
+        {
+          "id": "a457f8a8-0fa9-4231-a4cf-40e05add6523",
+          "text": "Llamativamente la tasa de sobrevida es mayor cuando se desarrolla una nefropatía debida al Lupus que cuando ésta no se presenta."
+        },
+        {
+          "id": "0b37be17-598d-49c8-a585-a83a2fc4c4d8",
+          "text": "No se han descrito factores de riesgo cardiovasculares no tradicionales asociados a la enfermedad lúpica."
+        },
+        {
+          "id": "1cca7966-39e1-4970-9358-c7fedee83ba2",
+          "text": "Pese a la afectación del sistema inmune no se ha visto un mayor riesgo de infecciones en pacientes con Lupus Eritematoso Sistémico."
+        }
+      ]
+    },
+    {
+      "id": "5442014e-7452-40bc-9e63-f3b03096efd2",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2013-10-19",
+      "text": "Con respecto a la tuberculosis, señale la opción correcta:",
+      "options": [
+        {
+          "id": "8190038c-f4aa-4588-b3a6-a04f42721141",
+          "text": "La minoría de los individuos infectados con Mycobacterium tuberculosis desarrollarán tuberculosis.",
+          "correct": true
+        },
+        {
+          "id": "ac0fcb04-a75a-4672-8543-adb28d33002f",
+          "text": "El pulmón es el único órgano afectado en los pacientes con tuberculosis."
+        },
+        {
+          "id": "05e5279a-1191-495c-803d-40dd9e1ce7cb",
+          "text": "En la base de los granulomas que presentan los pacientes con tuberculosis se encuentra una reacción de hipersensibilidad mediada por anticuerpos."
+        },
+        {
+          "id": "c530c8a5-c37a-469d-9b44-73c34d34d96c",
+          "text": "Los macrófagos no participan en la formación de granulomas."
+        },
+        {
+          "id": "19ba1882-6052-4661-bfcf-39a4212e20f4",
+          "text": "Solamente es necesaria una prueba de la tuberculina positiva para confirmar el diagnóstico de tuberculosis."
+        }
+      ]
+    },
+    {
+      "id": "2f714b7d-f5f4-47a4-bf77-abeebff84352",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2013-10-19",
+      "text": "Con respecto a las reacciones de hipersensibilidad mediadas por células, señale la opción correcta:",
+      "options": [
+        {
+          "id": "caeabe59-95e4-458f-bad6-1574e9a6e221",
+          "text": "En las formas agudas de rechazo a trasplantes, se postula que la acción mediada por linfocitos T citotóxicos es de particular importancia.",
+          "correct": true
+        },
+        {
+          "id": "cd2dd87b-e3ad-4eb3-bf78-37c81b1a95d1",
+          "text": "La enfermedad de Behçet es una vasculitis cuya base patogénica se puede explicar por una reacción de hipersensibilidad retardada."
+        },
+        {
+          "id": "8087e721-5d2e-41bd-baeb-6affc04bebda",
+          "text": "La rinitis alérgica crónica tiene en su base patogénica una reacción de hipersensibilidad retardada."
+        },
+        {
+          "id": "31d51f73-308e-43d0-839f-fb5c8bb0ebcc",
+          "text": "Las manifestaciones clínicas de la dermatitis de contacto pueden ser explicadas por la acción de eosinófilos."
+        },
+        {
+          "id": "bd1d897e-d41a-4147-b5b2-e15c92f858e4",
+          "text": "Las principales células efectoras del daño tisular producido por la tuberculosis son los basófilos."
+        }
+      ]
+    },
+    {
+      "id": "a21ed508-020b-4f5d-b4ff-b9aca814e815",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2013-10-19",
+      "text": "Con respecto al Lupus Eritematoso Sistémico, señale la opción correcta:",
+      "options": [
+        {
+          "id": "19794eb3-b396-4ced-b0ae-ed26a63822b8",
+          "text": "La base patogénica del daño renal es una reacción de hipersensibilidad mediada por inmunocomplejos.",
+          "correct": true
+        },
+        {
+          "id": "4503319f-aeb4-4e58-8fca-11bf0e658e42",
+          "text": "Durante los brotes (“empujes”) de la enfermedad el complemento se encuentra aumentado."
+        },
+        {
+          "id": "9c99052d-8c37-4d22-90ed-a7f97ebdcef6",
+          "text": "Es una enfermedad autoinmune sistémica órgano-específica."
+        },
+        {
+          "id": "4b1b583b-4536-489f-b398-ff99757dcf82",
+          "text": "Los rayos UV no participan en la génesis de las lesiones cutáneas."
+        },
+        {
+          "id": "d52cba54-4ebc-4d51-aa3a-66cfca177186",
+          "text": "Se observa con mayor frecuencia en el sexo masculino."
+        }
+      ]
+    },
+    {
+      "id": "beacd9be-499e-4619-aabc-fe30bb390c9a",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2013-10-19",
+      "text": "De las familias de fármacos antirretrovirales que actúan en la infección por VIH, hay un grupo que inhibe a:",
+      "options": [
+        {
+          "id": "dcd597a8-ebed-4226-88e1-525e63854ae9",
+          "text": "La enzima Integrasa (IN) viral en el núcleo celular.",
+          "correct": true
+        },
+        {
+          "id": "89303733-e9e7-468a-ab7b-c9a4105d7347",
+          "text": "La etapa de decapsidación en el citoplasma celular."
+        },
+        {
+          "id": "9ef7c592-ba0b-4dbd-83d9-8235d92088d4",
+          "text": "La polimerasa celular en la etapa de transcripción."
+        },
+        {
+          "id": "0c3cc426-4281-4c2a-adfd-76c1dccb629f",
+          "text": "Los ARNm que codifican las glicoproteínas gp120 y gp41."
+        },
+        {
+          "id": "ef00490b-20bb-4701-9bd8-da93121a8a54",
+          "text": "Los receptores del retículo endoplásmico celular."
+        }
+      ]
+    },
+    {
+      "id": "ae6b80f5-48ed-476b-aa9b-69e7bcb54cb0",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2013-10-19",
+      "text": "El IGRA (Interferon Gamma Release Assay) es positivo cuando existe (señale la opción correcta):",
+      "options": [
+        {
+          "id": "efc115f3-2e86-489a-97f3-c71bf13bd6aa",
+          "text": "Secreción de IFN gamma producido por los linfocitos Th1 previamente sensibilizados contra antígenos del complejo Mycobacterium tuberculosis.",
+          "correct": true
+        },
+        {
+          "id": "1e638ab2-86b1-44e6-a826-bd506e679d1c",
+          "text": "Induración cutánea mayor a 15 mm a las 48-72 horas luego de la inyección de antígenos de Mycobacterium tuberculosis."
+        },
+        {
+          "id": "7ed90be4-5e34-442f-b3f4-2451f667fcdf",
+          "text": "Inmunodepresión severa con muy bajos recuentos de CD4+."
+        },
+        {
+          "id": "2fb4627c-1e92-47af-b767-4f92a2f578bc",
+          "text": "Producción por parte del sistema inmune de anticuerpos contra antígenos de Mycobacterium tuberculosis."
+        },
+        {
+          "id": "94a61739-c9ef-42a6-a06c-c91eb950fa45",
+          "text": "Secreción de IFN gamma producido por los linfocitos Th2 previamente sensibilizados contra antígenos del complejo Mycobacterium tuberculosis."
+        }
+      ]
+    },
+    {
+      "id": "05e6a13b-e604-4d56-ae8b-e196a2274599",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2013-10-19",
+      "text": "El Mac Conkey lactosa es un medio de cultivo sólido nutricionalmente pobre, selectivo y diferencial que se utiliza para sembrar muestras que contienen mezclas complejas de microorganismos. ¿Cuál de las siguientes especies bacterianas pueden desarrollar en este medio?",
+      "options": [
+        {
+          "id": "a7a7ed5b-f34d-4007-9fa6-217331fca8b5",
+          "text": "Salmonella enterica y Escherichia coli.",
+          "correct": true
+        },
+        {
+          "id": "a3182ff7-66e4-4acb-a3ca-e3b59d45afa5",
+          "text": "Salmonella enterica y Streptococcus pneumoniae."
+        },
+        {
+          "id": "5b7e48a1-29b2-48a8-9030-fe17fd52673f",
+          "text": "Staphylococcus aureus y Escherichia coli."
+        },
+        {
+          "id": "5020a31b-807e-4492-989e-b61ec7154ac6",
+          "text": "Streptococcus pneumoniae y Streptococcus pyogenes."
+        },
+        {
+          "id": "66e64841-bd04-4cb9-aaec-5c3f183ff22f",
+          "text": "Streptococcus pyogenes y Staphylococcus aureus."
+        }
+      ]
+    },
+    {
+      "id": "3046a84d-b2cf-45b3-829a-852529147340",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2013-10-19",
+      "text": "El sistema inmune innato de la mucosa intestinal, a través de los receptores de reconocimiento de patrones (PRRs), es capaz de discriminar entre bacterias patógenas y las comensales que componen la microbiota. Esa discriminación se logra gracias a que:",
+      "options": [
+        {
+          "id": "eccd31cd-57c9-4305-9eb3-874669ede82d",
+          "text": "Las bacterias patógenas pueden inyectar PAMPs en el citosol de la célula hospedadora.",
+          "correct": true
+        },
+        {
+          "id": "6522971d-4248-46e5-8f8f-dba00c50d1c2",
+          "text": "La infección induce la producción de receptores específicos para las bacterias patógenas."
+        },
+        {
+          "id": "9f6624d6-4600-47ac-a95b-3214c4d21ecb",
+          "text": "Las bacterias de la microbiota no poseen PAMPs en su superficie celular."
+        },
+        {
+          "id": "6875b2fe-7e50-4dc4-9817-6445abca7670",
+          "text": "Los PRRs son insensibles a los PAMPs de las bacterias de la microbiota."
+        },
+        {
+          "id": "3171a688-2152-4656-add9-5c9edbd46a31",
+          "text": "Patógenos y comensales son reconocidos por distintos receptores celulares."
+        }
+      ]
+    },
+    {
+      "id": "3db58220-88bd-4252-9c7c-3888dfe70d4d",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2013-10-19",
+      "text": "En 1994 la OMS certificó que la poliomielitis fue erradicada definitivamente de Uruguay.  En el año 2012 el Ministerio de Salud decide sustituir la vacuna Sabin (OPV) por la Salk (IPV). ¿Cuál es el principal motivo de dicho cambio?",
+      "options": [
+        {
+          "id": "4a4590f7-24b1-4617-82c3-ed5660fefc92",
+          "text": "Evitar seguir introduciendo el virus vivo por riesgo a la reversión.",
+          "correct": true
+        },
+        {
+          "id": "1e289624-f610-4fd3-a264-491813ea7d20",
+          "text": "Conferir mayor grado de protección a la población."
+        },
+        {
+          "id": "feab03ff-8879-496b-aa55-32e00699f42f",
+          "text": "Facilitar la logística en la vacunación para alcanzar mayor cobertura."
+        },
+        {
+          "id": "76c1b162-28b1-4aae-b1ee-3babe8bb9db2",
+          "text": "Inducir inmunidad de mucosa en la población, a fin de evitar el estado portador."
+        },
+        {
+          "id": "c2ca6284-0fa7-4e8f-82f8-4ccdce2dcc45",
+          "text": "Reducir costos de vacunación."
+        }
+      ]
+    },
+    {
+      "id": "b4f71bda-1a22-4cf8-883a-f81d99815fb9",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2013-10-19",
+      "text": "En el Sistema de Asignación Renal vigente en nuestro país:",
+      "options": [
+        {
+          "id": "a1623354-fa94-43d7-9979-4cb39489a6cc",
+          "text": "Se toma en cuenta la edad de los donantes.",
+          "correct": true
+        },
+        {
+          "id": "3ec8ec7c-a56f-49b7-b5e0-dcbebedce3ea",
+          "text": "La Fase de Flujo considera en forma prioritaria la alta compatibilidad e hiperinmunización pero no las emergencias clínicas."
+        },
+        {
+          "id": "60728eaf-eca6-4059-81f6-969dc6ef39fe",
+          "text": "Se asigna exclusivamente por la compatibilidad HLA."
+        },
+        {
+          "id": "26c59fd7-8a82-4bf3-abc0-2262464c22ce",
+          "text": "Se asigna por criterio de compatibilidad ABO solamente."
+        },
+        {
+          "id": "92bb7c1b-e3f7-4638-91ad-f519471cf53e",
+          "text": "Se prioriza siempre el diagnóstico etiológico de la insuficiencia renal."
+        }
+      ]
+    },
+    {
+      "id": "7268fb3b-677b-4f49-ba5c-79bd75541128",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2013-10-19",
+      "text": "En la base patogénica de la prueba de la tuberculina se encuentra (señale la opción correcta):",
+      "options": [
+        {
+          "id": "eaa8b525-f08e-4031-99eb-a51fe801edd1",
+          "text": "Una reacción de hipersensibilidad retardada (tipo IVa).",
+          "correct": true
+        },
+        {
+          "id": "cf9ecd69-88de-41df-bb61-df0efd64f0c5",
+          "text": "Una reacción de hipersensibilidad de tipo inmediata (tipo I)."
+        },
+        {
+          "id": "7f62d2ef-e4b0-4273-9c37-638148c21c27",
+          "text": "Una reacción de hipersensibilidad mediada por anticuerpos (tipo II)."
+        },
+        {
+          "id": "b4e7dc0c-8143-4974-a221-9e10db11bb8b",
+          "text": "Una reacción de hipersensibilidad mediada por el complemento (tipo III)."
+        },
+        {
+          "id": "7387aaee-5a40-425f-8142-49b97e41d99c",
+          "text": "Una reacción de hipersensibilidad mediada por linfocitos citotóxicos (tipo IVc)."
+        }
+      ]
+    },
+    {
+      "id": "5d7befa1-66c9-4f4c-b29d-fcfc406d2f19",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2013-10-19",
+      "text": "En relación a la patogénesis viral señale la opción correcta:",
+      "options": [
+        {
+          "id": "72d3d113-10bf-4d77-8acc-bad351070a67",
+          "text": "En la diseminación por vía sanguínea, la viremia secundaria es habitualmente de mayor duración que la viremia primaria.",
+          "correct": true
+        },
+        {
+          "id": "c84589a6-3475-46e9-8ea8-4a108c4c47dd",
+          "text": "En la infección persistente latente se produce excreción viral constante y cuantificable."
+        },
+        {
+          "id": "3540eae6-251d-4e22-b015-6cf5785e28a1",
+          "text": "En la infección viral persistente crónica, el virus es detectable sólo en los episodios de reactivación."
+        },
+        {
+          "id": "bde94d15-ca0b-4633-aef9-ec8abc58592c",
+          "text": "La infección secundaria se caracteriza por una rápida aparición de los anticuerpos IgM, como consecuencia de la memoria inmunológica humoral del paciente."
+        },
+        {
+          "id": "42c17f11-39e2-48eb-b7ad-9082bb225a5b",
+          "text": "La presencia de un receptor para un virus, sobre la superficie de una célula es condición suficiente para asegurar la producción de partículas virales infectivas."
+        }
+      ]
+    },
+    {
+      "id": "af049276-ac7b-41ba-976f-0cfdedb1f1ce",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2013-10-19",
+      "text": "En relación a las citoquinas estimuladoras de los distintos subtipos celulares en las reacciones de hipersensibilidad (RHS) de tipo IV, señale la opción correcta:",
+      "options": [
+        {
+          "id": "ae22f73d-7092-40cd-afe6-d882e77e9dac",
+          "text": "El sistema perforina/granzima utilizado por los linfocitos T es un mecanismo fundamental en la generación de apoptosis en las RHS de tipo IVc.",
+          "correct": true
+        },
+        {
+          "id": "b35a0cf6-d722-4bb7-b6ee-609ff4f8cbe7",
+          "text": "El IFN gamma y el TNF alfa secretados por los linfocitos Th2 son los principales activadores de macrófagos en las RHS de tipo IVa."
+        },
+        {
+          "id": "72875371-f74b-447a-8394-132aca31c7de",
+          "text": "La IL-5 secretada por los linfocitos Th1 es un importante activador de los eosinófilos en las RHS de tipo IVd."
+        },
+        {
+          "id": "c984bdda-9518-409b-8cd7-2b24c9d26a07",
+          "text": "La IL-6 no forma parte de las citoquinas denominadas pirógenos endógenos responsables de la respuesta inflamatoria sistémica."
+        },
+        {
+          "id": "d92a1241-6e25-4185-a448-edc930497aa7",
+          "text": "Las citoquinas secretadas por los eosinófilos son las principales responsables de la aparición de los fenómenos celulares que se observan en las RHS de tipo IVd."
+        }
+      ]
+    },
+    {
+      "id": "9c2129b9-4dc1-4d78-bbc8-68b2eeaf0be4",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2013-10-19",
+      "text": "En relación a los siguientes antibióticos o familias de antibióticos, señale cuál no es activa sobre bacilos Gram negativos de la familia Enterobacteriaceae:",
+      "options": [
+        {
+          "id": "9c1801a5-b088-4387-966c-b632407ccf40",
+          "text": "Glicopéptidos.",
+          "correct": true
+        },
+        {
+          "id": "27ed6973-b447-49d7-8ad8-f47944c347be",
+          "text": "Aminoglucósidos."
+        },
+        {
+          "id": "84700a3d-3450-4a58-a431-bfd57a8bf66c",
+          "text": "Beta-lactámicos."
+        },
+        {
+          "id": "729d6004-e40d-4cf8-8ad5-47b73e1414cf",
+          "text": "Quinolonas."
+        },
+        {
+          "id": "75add298-b4e6-4ea6-a0f8-52364303c372",
+          "text": "Trimetoprim-sulfametoxazole."
+        }
+      ]
+    },
+    {
+      "id": "45528547-5521-46e0-87f8-13ab9e6f415c",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2013-10-19",
+      "text": "La Asignación en Trasplante Cardíaco tiene en cuenta:",
+      "options": [
+        {
+          "id": "2af00314-55bb-41c9-b62e-6bd3a431a82b",
+          "text": "Correspondencia de peso corporal e isogrupo sanguíneo ABO entre receptor y donante.",
+          "correct": true
+        },
+        {
+          "id": "6f33c195-0da2-445d-83cb-5ca3f144a3d2",
+          "text": "Compatibilidad Rh."
+        },
+        {
+          "id": "0faaf58b-8dfd-428c-848a-2fafed826923",
+          "text": "En forma prioritaria la localización geográfica del receptor."
+        },
+        {
+          "id": "e060b451-288f-4190-a7f5-7eea67f93593",
+          "text": "Isogrupo HLA."
+        },
+        {
+          "id": "20e98669-9235-47ba-935e-93d3d9079c9d",
+          "text": "Prueba cruzada por microlinfocitotoxicidad positiva."
+        }
+      ]
+    },
+    {
+      "id": "a76399ac-b175-4cc5-8f5b-6718dbf074ef",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2013-10-19",
+      "text": "La etiología de las enfermedades autoinmunes es desconocida si bien se han identificado factores intrínsecos y extrínsecos al individuo que favorecen su desarrollo. En este sentido se ha reconocido que (señale la opción correcta):",
+      "options": [
+        {
+          "id": "949616ba-11c2-4c68-85c0-5d3c8dee484f",
+          "text": "La activación de los TLR (Toll-Like Receptors) podría contribuir en la pérdida de la tolerancia.",
+          "correct": true
+        },
+        {
+          "id": "d3cf5e8a-352e-4128-831d-6b7c304d9b71",
+          "text": "Hasta el momento no se han identificado modificaciones epigenéticas en células del sistema inmunológico que estén asociadas a enfermedades autoinmunes."
+        },
+        {
+          "id": "ffc226c8-a3de-490c-a715-e2aca22623a8",
+          "text": "Las modificaciones post-traduccionales de las proteínas es un evento que define la autoinmunidad."
+        },
+        {
+          "id": "b17cd077-c75c-4610-a4b3-c1195a406ed8",
+          "text": "Los cambios cualitativos y/o cuantitativos de los linfocitos T reguladores no se han asociado con la pérdida de la autotolerancia."
+        },
+        {
+          "id": "27ec4277-3fc4-4af7-8b85-ad07f1d784b0",
+          "text": "Los estrógenos pueden participar en la inhibición de clones de linfocitos autorreactivos."
+        }
+      ]
+    },
+    {
+      "id": "6f908fa8-0a01-4569-b1f3-d51cb79c4ac5",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2013-10-19",
+      "text": "La infección productiva del linfocito CD4 por el virus VIH requiere (señale la opción correcta):",
+      "options": [
+        {
+          "id": "90e28cee-23d6-4b15-b1f1-ad56ed605871",
+          "text": "Integración del ADN pro-viral en el genoma de la célula huésped.",
+          "correct": true
+        },
+        {
+          "id": "42a9fe1a-f088-4e19-8901-3ab4900e9efd",
+          "text": "La interacción entre linfocitos B infectados y linfocitos T CD4+."
+        },
+        {
+          "id": "8391ac97-bb48-48d3-bd95-c08fe6fb5b1d",
+          "text": "La unión simultánea con la molécula CD4 y TLR (Toll-Like Receptor) de superficie."
+        },
+        {
+          "id": "e8230a75-781a-4218-bb2e-77673ec503f3",
+          "text": "Sólo de la presencia de unión entre la gp120 viral y la molécula CD4."
+        },
+        {
+          "id": "cd57398e-14d4-4929-9dd2-10e579a32872",
+          "text": "Sólo de la presencia de unión entre la gp120 y un receptor de quimioquina (CCR5 o CXCR4)."
+        }
+      ]
+    },
+    {
+      "id": "fc3b46e4-1175-44ee-8433-cd1bbdf2fc19",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2013-10-19",
+      "text": "La prueba cruzada HLA donante específica:",
+      "options": [
+        {
+          "id": "ba6770ed-71a9-44e6-9453-8a56d97e2815",
+          "text": "Identifica al receptor portador de anticuerpos HLA contra el donante y si ellos existen está contraindicado el trasplante con ese receptor.",
+          "correct": true
+        },
+        {
+          "id": "95e620f4-ba92-46a9-b493-4f69ffa74c69",
+          "text": "Para poder realizarse requiere células muertas del donante y suero del receptor."
+        },
+        {
+          "id": "9e03c32e-8d0d-4dfd-a58f-7ebc2880f70e",
+          "text": "Puede no realizarse en receptores hiperinmunizados contra el sistema HLA."
+        },
+        {
+          "id": "35abe191-243b-41ca-b88e-d1fd77bb703b",
+          "text": "Se hace poniendo en contacto suero del donante y linfocitos del receptor."
+        },
+        {
+          "id": "90147512-003b-44f3-91a0-96f5e9e4ebe4",
+          "text": "Si da negativa contra un receptor implica que todos los receptores seleccionados pueden trasplantarse con ese donante."
+        }
+      ]
+    },
+    {
+      "id": "18128e5c-7999-4cd8-80ac-2caa6c315174",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2013-10-19",
+      "text": "La prueba de reacción cutánea a la tuberculina puede dar falsos negativos en caso de (señale la opción correcta):",
+      "options": [
+        {
+          "id": "ecd598b1-9c90-4b7f-9a7f-cb41b740fb0d",
+          "text": "Inmunodepresión severa.",
+          "correct": true
+        },
+        {
+          "id": "bde97af7-3ac9-423b-9a37-676932ad1423",
+          "text": "Administración previa de antígenos de PPD."
+        },
+        {
+          "id": "92c1ceb9-cffa-4559-819e-6eadc60fbb06",
+          "text": "Individuo no sensibilizado con antígenos del complejo de Mycobacterium tuberculosis."
+        },
+        {
+          "id": "4e0b336e-601c-4c9a-82e9-05863923a310",
+          "text": "Vacunación con BCG."
+        },
+        {
+          "id": "56d2cdbc-3ff0-43fc-9c21-34d9212e1f9b",
+          "text": "Vacunación contra neumococo."
+        }
+      ]
+    },
+    {
+      "id": "98672d50-223d-4541-9672-2c4f9dd1b62e",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2013-10-19",
+      "text": "La resistencia a meticilina en Staphylococcus aureus se debe a (marque la opción correcta):",
+      "options": [
+        {
+          "id": "2e206cb8-8dcb-4b69-a685-2db70f89c117",
+          "text": "Adquisición de un sitio blanco de baja afinidad por el antibiótico.",
+          "correct": true
+        },
+        {
+          "id": "c101f641-b1e6-4ac4-b7d8-1af20be88fc6",
+          "text": "Adquisición de proteínas que ocultan el sitio blanco."
+        },
+        {
+          "id": "9c63cf26-dc00-403d-8a62-7eb620a28e40",
+          "text": "Presencia de bombas de eflujo."
+        },
+        {
+          "id": "62025515-ef92-4cdd-bebf-97f2697cc264",
+          "text": "Producción de beta-lactamasas."
+        },
+        {
+          "id": "812d8ec0-d348-4ae2-9626-628a7e142b57",
+          "text": "Pérdida de porinas."
+        }
+      ]
+    },
+    {
+      "id": "e2e3286b-d29f-41a2-8fcb-72e753b61b6c",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2013-10-19",
+      "text": "Las citoquinas que actúan en la fase de sensibilización de las reacciones de hipersensibilidad tipo I son (señale la opción correcta):",
+      "options": [
+        {
+          "id": "f5dc64a1-af1e-4581-bb14-a865a6d4bd13",
+          "text": "IL-4 e IL-13.",
+          "correct": true
+        },
+        {
+          "id": "6c9a1a54-87fc-4590-b484-25ff45542cdb",
+          "text": "IL-12 e IFN."
+        },
+        {
+          "id": "61768ac3-2770-4f66-b7ab-268b3b0a8d8b",
+          "text": "IL-2 e IL- 12."
+        },
+        {
+          "id": "08574195-490a-4813-bd88-a34768c5e260",
+          "text": "IL-3 e IL-5."
+        },
+        {
+          "id": "f261cb74-5196-42c8-8354-f738584a49aa",
+          "text": "IL-4 e IL-2."
+        }
+      ]
+    },
+    {
+      "id": "9db64183-e459-4dcd-9665-782b83adeeed",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2013-10-19",
+      "text": "Las reacciones de hipersensibilidad de tipo I constituyen reacciones inmunitarias de desarrollo rápido que se desencadenan luego de (señale la opción correcta):",
+      "options": [
+        {
+          "id": "ca558ea9-1f7a-4e0f-ae0f-a5f1caab2d44",
+          "text": "El reconocimiento del antígeno por una IgE que se encuentra unida a su receptor en mastocitos de sujetos previamente sensibilizados para ese antígeno.",
+          "correct": true
+        },
+        {
+          "id": "3b649b81-9ccf-4246-a18d-555c5bb57786",
+          "text": "El daño tisular por fagocitos que se activan por reconocer antígenos opsonizados."
+        },
+        {
+          "id": "30411713-7307-4624-bf91-566cc9d8a921",
+          "text": "La activación de un linfocito T citotóxico previamente sensibilizado que reconoce el antígeno para el cual es especifico."
+        },
+        {
+          "id": "814ec9e4-5c01-4384-a98c-b49aa548ed55",
+          "text": "La activación de un linfocito Th1 previamente sensibilizado que reconoce el antígeno para el cual es especifico."
+        },
+        {
+          "id": "fe38e5b8-1078-4521-9df2-3685d4ada567",
+          "text": "La activación del complemento por depósito de inmunocomplejos."
+        }
+      ]
+    },
+    {
+      "id": "8e99fc49-1435-460a-9462-7cd03db97b50",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2013-10-19",
+      "text": "Marque la opción correcta en relación a la infección por el Virus de la Inmunodeficiencia Humana (VIH):",
+      "options": [
+        {
+          "id": "f21b9555-c54d-4a3d-80ff-0c8bff5e1991",
+          "text": "Para que comience la infección por el VIH es necesario que las glicoproteínas de la envoltura viral tomen contacto con el receptor CD4 y los co-receptores de la célula blanco.",
+          "correct": true
+        },
+        {
+          "id": "3786b624-3075-4b32-97a3-34b342d7dee9",
+          "text": "Durante la replicación del VIH, los ARN mensajeros son sintetizados utilizando como molde una molécula de ARN genómico viral."
+        },
+        {
+          "id": "9d90ee52-d3da-40a9-8a41-396fe63cbcb9",
+          "text": "En el proceso de replicación, se produce la retrotranscripción de genoma viral (ARN) a ADN en el núcleo de la célula infectada."
+        },
+        {
+          "id": "fc04b8b1-c66b-4596-acd2-452deed8547b",
+          "text": "En la etapa de primoinfección por VIH el nivel de células CD4+ se incrementa proporcionalmente al aumento de la carga viral en dicha etapa."
+        },
+        {
+          "id": "0eb3ee52-a95a-47fd-a85c-f01f1d46b116",
+          "text": "La epidemia de VIH en Uruguay presenta una prevalencia distribuida homogéneamente en todos los departamentos."
+        }
+      ]
+    },
+    {
+      "id": "ea14ba51-498a-4c5b-80de-6917037b99fa",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2013-10-19",
+      "text": "Para el desarrollo de una enfermedad autoinmune es necesario (señale la opción correcta):",
+      "options": [
+        {
+          "id": "7ff73665-d517-4d43-bcee-807d082141db",
+          "text": "Presentar susceptibilidad genética asociada a una pérdida de la autotolerancia inmunológica y un desencadenante ambiental.",
+          "correct": true
+        },
+        {
+          "id": "16f6479e-3323-40ad-af8e-8895ac44a73f",
+          "text": "La presencia de autoanticuerpos monoespecíficos pero no de linfocitos autorreactivos."
+        },
+        {
+          "id": "b130a968-3030-453a-be4f-01146564fa7e",
+          "text": "La sola alteración de un gen, en el caso de las enfermedades denominadas monogénicas."
+        },
+        {
+          "id": "82803e43-4753-4138-acaf-ec8c2dc1f881",
+          "text": "Ser mujer en edad reproductiva."
+        },
+        {
+          "id": "6256e339-633c-442e-a1a6-6b1ee6fbd99d",
+          "text": "Una infección bacteriana pero no viral, ya que no se ha visto asociación entre virus y enfermedades autoinmunes."
+        }
+      ]
+    },
+    {
+      "id": "04900e7e-a33d-4180-b258-60e085363f96",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2013-10-19",
+      "text": "¿Cuál de las siguientes características y funciones es propia de la microbiota intestinal humana?",
+      "options": [
+        {
+          "id": "ee00654d-e2e6-4955-922a-6bae4a55aa5c",
+          "text": "Induce la activación de mecanismos anti/inflamatorios en la mucosa.",
+          "correct": true
+        },
+        {
+          "id": "ca63bd75-51c9-436d-b6fd-9fc43b99486a",
+          "text": "Induce endocitosis mediada por el microorganismo."
+        },
+        {
+          "id": "1f6fcf33-be77-4de3-a4a4-7ba6004958d6",
+          "text": "Induce susceptibilidad a las infecciones intestinales."
+        },
+        {
+          "id": "51f476e7-47a2-45f1-a232-2c8b3a6bf185",
+          "text": "Inhibe la producción de IgA secretoria a la luz intestinal."
+        },
+        {
+          "id": "18307c1f-b507-4cab-89a1-5daf24e5b57a",
+          "text": "Inhibe la producción de péptidos antimicrobianos al mucus."
+        }
+      ]
+    },
+    {
+      "id": "52c77e60-9971-4333-a5f5-6677a8f10508",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2013-10-19",
+      "text": "¿Cuál de las siguientes estructuras de la pared celular bacteriana se encuentran en Salmonella enterica pero no en Streptococcus pneumoniae?",
+      "options": [
+        {
+          "id": "323f3eaa-10c7-4a18-83f6-4934abac766d",
+          "text": "Lipopolisacárido.",
+          "correct": true
+        },
+        {
+          "id": "5a7b3c5b-8a39-4fab-a9c4-2f78fced7190",
+          "text": "Cápsula polisacarídica."
+        },
+        {
+          "id": "3184c96a-f0ec-44f8-b7d5-6352a34c9c95",
+          "text": "Fimbrias."
+        },
+        {
+          "id": "be8f2396-fbc8-4424-90a4-900ce0903a2f",
+          "text": "Péptidoglicano."
+        },
+        {
+          "id": "e7c665ad-eeac-469e-afc0-8ff807c325d3",
+          "text": "Ácidos teicoicos."
+        }
+      ]
+    },
+    {
+      "id": "b9bd11d8-61b8-49aa-8707-e8895b54ec4e",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2013-10-19",
+      "text": "¿Cuál de los siguientes mediadores es el principal responsable del broncoespasmo en la crisis asmática? Señale la opción correcta:",
+      "options": [
+        {
+          "id": "6a04f924-832f-4cfd-abcf-dece6fb68526",
+          "text": "Histamina.",
+          "correct": true
+        },
+        {
+          "id": "19057bf4-3fd9-4f58-8253-cea6244015d4",
+          "text": "IL-13."
+        },
+        {
+          "id": "ab666f4c-3dc6-48af-98b2-35d4e0c566f0",
+          "text": "IL-4."
+        },
+        {
+          "id": "0fc2bda8-bee3-4980-a4a6-b7d3fbf63c46",
+          "text": "IL-5."
+        },
+        {
+          "id": "ebd603b1-0beb-4bd9-a008-f4cf882ef728",
+          "text": "PAF (factor activador de plaquetas)."
+        }
+      ]
+    },
+    {
+      "id": "0007360c-374c-48f2-8820-16cc9262ee44",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2013-10-19",
+      "text": "¿Cuál es el principal atributo de virulencia de Streptococcus pneumoniae?",
+      "options": [
+        {
+          "id": "a8bc4ec7-d633-467c-b7a2-36c4c7b4ef81",
+          "text": "Polisacárido capsular.",
+          "correct": true
+        },
+        {
+          "id": "7ee1b090-5ed0-4c5f-881c-86ea3d338efe",
+          "text": "Lipopolisacárido (LPS)."
+        },
+        {
+          "id": "d4b67306-0c10-4dcf-bd14-39ee66ae9454",
+          "text": "Neumolisina."
+        },
+        {
+          "id": "8c2e859b-6d19-4e15-93ff-6b652fd4b738",
+          "text": "Proteína de superficie PspA."
+        },
+        {
+          "id": "5f17947f-f0d9-4377-b323-88a3d0741838",
+          "text": "Proteína de superficie PspC."
+        }
+      ]
+    },
+    {
       "id": "37a6cff8-6cc6-4ab9-8e17-2f88ecb07e14",
       "evaluation": "parcial_3",
       "source": "partial",
@@ -7446,7 +8706,7 @@
         },
         {
           "id": "9083d46b-b959-409a-acb3-add539934050",
-          "text": "La tuberculosis, a través de la activación e hiperestimulación demacrófagos."
+          "text": "La tuberculosis, a través de la activación e hiperestimulación de macrófagos."
         }
       ]
     },
