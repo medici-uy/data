@@ -4577,6 +4577,95 @@
       ]
     },
     {
+      "id": "d192601e-04ec-45e2-8688-2182f97e8855",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "Con respecto a la estrategia de \"one health\" y las vacunas, indique  la opción correcta:",
+      "options": [
+        {
+          "id": "a0d249ac-46c1-43ac-a476-11bbe946b646",
+          "text": "Las vacunas influyen en la seguridad alimentaria.",
+          "correct": true
+        },
+        {
+          "id": "81d50857-32cc-4b88-831b-f0bb814dc4f5",
+          "text": "Las enfermedades humanas zoonóticas,  son una gran minoría entre las enfermedades humanas, por eso el poco desarrollo de vacunas enfocadas en animales transmisores."
+        },
+        {
+          "id": "1c2c57a5-1803-4660-94fc-3586f7cb9759",
+          "text": "Los animales salvajes que transmiten enfermedades al humano, no son objetivo de vacunación debido a su naturaleza salvaje y por lo tanto la imposibilidad de vacunarlos."
+        },
+        {
+          "id": "5d7f4a59-4b00-4c0d-bc10-d8a836e849ce",
+          "text": "Todas las enfermedades zoonóticas pueden ser  prevenibles por vacunación del  animal transmisor."
+        },
+        {
+          "id": "12f34dd3-f825-4395-be52-2e01250b8321",
+          "text": "Todas las otras opciones son incorrectas."
+        }
+      ]
+    },
+    {
+      "id": "13a6ec77-2ca5-439c-87a4-231c17ed3367",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "Cuál de los siguientes aspectos no se toman en cuenta a la hora de definir la dosis óptima de una vacuna:",
+      "options": [
+        {
+          "id": "30199628-5957-45c3-8132-5063f9c0a966",
+          "text": "La efectividad.",
+          "correct": true
+        },
+        {
+          "id": "f45cecbe-be91-4104-8cdc-5b660535a28d",
+          "text": "El mayor rendimiento de producción.",
+          "explanation": "No, se selecciona la menor dosis que genera la mayor respuesta con el fin de obtener mayor cantidad de dosis por lote de producción: mayor rendimiento, menor costo, más dosis disponibles, mayor ganancia."
+        },
+        {
+          "id": "674bb3a5-13fd-4363-b50f-8861c87489bf",
+          "text": "La respuesta inmune inducida."
+        },
+        {
+          "id": "137b19d8-d5a7-40bf-acc3-79fe694f0e01",
+          "text": "Los efectos adversos."
+        },
+        {
+          "id": "92876fea-876d-45e4-b7e8-c0f959d28cb7",
+          "text": "Ninguna de las otras respuestas."
+        }
+      ]
+    },
+    {
+      "id": "38aece7d-08f1-4fd1-afbb-df35ab55d91c",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "En Uruguay, la vacuna contra N. meningitidis (meningococo) no está incluida en el CEV. La razón para ellos es:",
+      "options": [
+        {
+          "id": "be821081-dfd1-4541-87b9-e5f40e284913",
+          "text": "No es costo-efectiva como herramienta de salud.",
+          "correct": true
+        },
+        {
+          "id": "24222773-225f-45ea-b7f0-9b70f6fcdc1a",
+          "text": "Existe un desbalance entre riesgo-beneficio, debido a la gran proporción de efectos adversos."
+        },
+        {
+          "id": "ce09e785-386a-433e-b298-94b52ecc54a8",
+          "text": "No existen datos de eficacia de las mismas, ya que es imposible llevar a cabo un ensayo clínico fase III con una enfermedad con tan baja endemicidad.",
+          "explanation": "Las vacunas contra meningococo son muy efectivas, a pesar de que los ensayos clínicos para determinar su potencial se basen en la determinación de títulos de anticuerpos desarrollados, por la imposibilidad de medir reducción de casos en un ensayo clínico debido a la baja endemicidad de la enfermedad."
+        },
+        {
+          "id": "6acaf302-1113-48f1-a568-1a5ace845131",
+          "text": "No existen vacunas desarrolladas contra meningococo."
+        },
+        {
+          "id": "ba649eff-3b43-4f92-a70d-74e63fdcd5a3",
+          "text": "Uruguay no tiene casos de meningococo."
+        }
+      ]
+    },
+    {
       "id": "d1366f27-6474-4b44-829e-80a4dbec21fc",
       "evaluation": "parcial_3",
       "source": "self_assessment",
@@ -4603,6 +4692,35 @@
         {
           "id": "d087bc1b-0da4-42ac-ba5f-ce087f8eb86a",
           "text": "Se caracteriza por presentar una excelente respuesta terapéutica a los corticoides."
+        }
+      ]
+    },
+    {
+      "id": "61dbd5aa-be8b-4ed7-a00a-d1a3572a7d74",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "En la fase 4 de farmacovigilancia, se evalúa:",
+      "options": [
+        {
+          "id": "6d05c721-d647-4ef9-90aa-f7f27484567d",
+          "text": "Todas las respuestas son correctas.",
+          "correct": true
+        },
+        {
+          "id": "4db5bbe3-7c2f-4fcb-85b3-3aaf875ee987",
+          "text": "Interacciones con otras drogas o vacunas."
+        },
+        {
+          "id": "41f2d4d1-a808-40d5-8739-435feeed2073",
+          "text": "La duración de la inmunidad inducida por la vacuna."
+        },
+        {
+          "id": "080a364d-9326-4754-8e8b-6f7156e28a8c",
+          "text": "La efectividad de la vacuna."
+        },
+        {
+          "id": "13450fbb-9360-4fbc-a282-0a783cadb4aa",
+          "text": "La seguridad de las vacuna."
         }
       ]
     },
@@ -4663,6 +4781,61 @@
         {
           "id": "81494a66-7d29-4884-921c-3a7873b8ee5f",
           "text": "Una reacción de hipersensibilidad tipo IVd."
+        }
+      ]
+    },
+    {
+      "id": "df6fafa2-3bdd-443f-89cd-1ff5ef12f56e",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "La efectividad de algunas vacunas orales es menor en países de menos ingresos. Esto puede deberse a que (marque la opción correcta):",
+      "options": [
+        {
+          "id": "f8970929-b5c9-474b-bacd-f3aa155e3fe2",
+          "text": "Las deficientes condiciones sanitarias llevan a disbiosis e inflamación crónica intestinal, afectando las respuestas inmunes a las vacunas.",
+          "correct": true,
+          "explanation": "La enteropatía medioambiental (EA) es una condición subclínica que se observa con alta prevalencia en niños de países o regiones con deficientes condiciones sanitarias. Esta condición se caracteriza por disbiosis intestinal e inflamación crónica debido a la aumentada exposición a microorganismos patógenos. La EA se ha asociado con efectividad disminuída de las vacunas orales. Una hipótesis es que el sistema inmune de la mucosa intestinal está continuamente \"activado\" respondiendo a esa disbiosis y tendría menos efectividad por tanto para responder al encontrarse con los antígenos vacunales. También se ha asociado EA con un aumento de células Treg a nivel del intestino, las cuales suprimen las respuestas de células T colaboradoras específicas para el antígeno vacunal."
+        },
+        {
+          "id": "2b941480-02b3-40ea-b349-ebcf7d24af60",
+          "text": "Ciertas características genéticas determinan que los adyuvantes utilizados en las vacunas orales sean menos efectivos en dichos países."
+        },
+        {
+          "id": "293e3eb5-2fb1-414e-b67b-6b7b16a1773c",
+          "text": "El tratamiento con antibióticos es más frecuente en dichos países y por tanto también la disbiosis de la microbiota intestinal."
+        },
+        {
+          "id": "90a2f07d-1114-4375-be08-a91efecf86f1",
+          "text": "En dichos países es complicado mantener la cadena de frío y por tanto las vacunas pierden efectividad."
+        }
+      ]
+    },
+    {
+      "id": "f8f93716-23c9-417c-83b1-88fe642780c9",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "La eficacia de una vacuna se determina en:",
+      "options": [
+        {
+          "id": "069a33d0-4612-466e-b050-2261703b2445",
+          "text": "Ensayo clínico fase III.",
+          "correct": true
+        },
+        {
+          "id": "0dfa472e-2264-4f04-99b9-9022d8b51eaa",
+          "text": "Ensayo clínico fase I."
+        },
+        {
+          "id": "2c84bf4d-819d-4acd-b8e4-c58e5d560317",
+          "text": "Ensayo clínico fase II."
+        },
+        {
+          "id": "508572b1-739a-45c9-9d3d-e9452cadcb1e",
+          "text": "Ensayo clínico fase IV (farmacovigilancia)."
+        },
+        {
+          "id": "7af4cefb-f742-4c51-9c49-a8e6935abec5",
+          "text": "Ensayos pre-clínicos."
         }
       ]
     },
@@ -4817,6 +4990,36 @@
       ]
     },
     {
+      "id": "421a5628-5844-49b1-9506-15256f64d3c0",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "Los motivos para recomendar la vacunación pueden estar fundados en:",
+      "options": [
+        {
+          "id": "416bb38b-8049-40a4-9809-63101330c301",
+          "text": "Todas las respuestas son correctas.",
+          "correct": true,
+          "explanation": "Efectivamente, la vacunación tiene impacto en diversos aspectos de la sociedad (salud, economía, social)."
+        },
+        {
+          "id": "2924c23a-cf09-4d0b-b4f9-292a0ca72c4c",
+          "text": "Ayudar a reducir el uso de antibióticos, y por tanto la aparición de microorganismos resistentes."
+        },
+        {
+          "id": "5680a7c2-62d8-4017-8dc5-a486014c01dc",
+          "text": "Brindar protección a otras personas que no pueden o no quieren vacunarse."
+        },
+        {
+          "id": "8cad92a1-1050-4e69-b663-7782b2f38ee5",
+          "text": "Evitar enfermarse por enfermedades prevenibles a la vacunación."
+        },
+        {
+          "id": "59e1e373-39bd-4100-a8ca-f4dee5850989",
+          "text": "Fortalece la infraestructura de los sistemas de salud."
+        }
+      ]
+    },
+    {
       "id": "72ef4f29-40ba-4080-85be-308d4ff7e037",
       "evaluation": "parcial_3",
       "source": "self_assessment",
@@ -4903,6 +5106,36 @@
         {
           "id": "6767d851-c1af-4bbb-9e1b-c75578080f59",
           "text": "Mastocitos."
+        }
+      ]
+    },
+    {
+      "id": "a87cc721-4d75-4cc4-afb9-f81c6710b079",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "¿Cuál de las siguientes vacunas no está incluida en nuestro CEV?",
+      "options": [
+        {
+          "id": "a23ac82e-b61a-492e-870c-5b660981a1f9",
+          "text": "Virus de la influenza.",
+          "correct": true,
+          "explanation": "Si, la vacunación anual contra la gripe está recomendada pero no incluida en el CEV."
+        },
+        {
+          "id": "14bee91a-6dc2-424d-8cf9-44997225fe71",
+          "text": "Bordetella Pertussis."
+        },
+        {
+          "id": "8e0ddd66-2607-41d9-b18c-576d7c7bd16c",
+          "text": "Haemophilus influenzae."
+        },
+        {
+          "id": "d58299ca-1535-4fb2-9493-6ca720877806",
+          "text": "Poliovirus I."
+        },
+        {
+          "id": "e4606b69-22ad-470c-a1de-cde381d1090f",
+          "text": "Virus de Hepatitis B."
         }
       ]
     },
