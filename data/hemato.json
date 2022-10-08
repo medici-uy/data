@@ -4907,6 +4907,906 @@
       ]
     },
     {
+      "id": "6981e463-649d-4bd8-b1cd-6cf058789baf",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2012-10-19",
+      "text": "Algunos estudios sugieren que hasta un 20% de los pacientes que reciben terapias con antimicrobianos de amplio espectro pueden sufrir cuadros denominados \"diarrea postantibiótico\". Una explicación posible a la existencia de esta asociación (tratamiento con antibióticos y diarrea) es que los antibióticos:",
+      "options": [
+        {
+          "id": "2753bd30-3ca0-485f-a959-4797375c11c9",
+          "text": "Inducen un desequilibrio en el número y la composición de la microbiota intestinal.",
+          "correct": true
+        },
+        {
+          "id": "a15f8440-505a-4b86-8828-de7c0281d944",
+          "text": "Actúan como molécula osmóticamente activa desde la luz intestinal."
+        },
+        {
+          "id": "ddd9496c-95c4-4963-86f1-bdcd113cf43b",
+          "text": "Actúan sobre los enterocitos aumentando la salida de iones y agua."
+        },
+        {
+          "id": "4b1c0f64-2da3-46da-a468-7678379fe0cb",
+          "text": "Eliminan la microbiota del tracto gastrointestinal."
+        },
+        {
+          "id": "986f7c4d-ac77-45de-bcd4-3b871cb604b2",
+          "text": "Impiden la metabolización de ciertos nutrientes por parte de los enterocitos."
+        }
+      ]
+    },
+    {
+      "id": "89750f13-8408-463b-b579-83aef8970af6",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2012-10-19",
+      "text": "Con respecto a la anemia hemolítica inmune, señale la opción correcta:",
+      "options": [
+        {
+          "id": "677ae799-5190-4493-aa28-c37db759d341",
+          "text": "La determinación de la amplitud térmica de los anticuerpos involucrados en la enfermedad es un método fundamental para la valoración etiológica y terapéutica.",
+          "correct": true
+        },
+        {
+          "id": "80cba461-c0e6-4b3d-b0bd-d8c65d3c3585",
+          "text": "La anemia hemolítica autoinmune por anticuerpos calientes es habitualmente por anticuerpos IgM."
+        },
+        {
+          "id": "5c06f10b-c3c4-433e-8d72-cfd09c3caafb",
+          "text": "La anemia hemolítica autoinmune por anticuerpos fríos es habitualmente por anticuerpos IgG y responden habitualmente a corticoides."
+        },
+        {
+          "id": "c3b73e60-7529-4ef8-a5b6-b899025b8e2c",
+          "text": "La anemia hemolítica extravascular se debe fundamentalmente a la acción directa del complemento sobre los eritrocitos."
+        },
+        {
+          "id": "1e61543f-816e-44d0-a27f-6b68826be59f",
+          "text": "Los eritrocitos opsonizados son fagocitados fundamentalmente a nivel del glomérulo renal."
+        }
+      ]
+    },
+    {
+      "id": "af34b89e-4067-4fb5-a511-25dbe5b9a939",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2012-10-19",
+      "text": "Con respecto a la hipersensibilidad (HS) de tipo IV, señale la opción correcta:",
+      "options": [
+        {
+          "id": "75ad87c1-0fa6-4592-96ff-062a7b35fe62",
+          "text": "Durante la etapa de desencadenamiento la IL-2 induce la proliferación autócrina y parácrina de los LT.",
+          "correct": true
+        },
+        {
+          "id": "a3f6a3dc-1ec5-489d-bd56-792dd2a5efff",
+          "text": "A diferencia de otros tipos de reacciones de hipersensibilidad los mecanismos inmunes que participan de la HS tipo IV no generan injuria tisular."
+        },
+        {
+          "id": "2d11a4c0-2935-48b1-8c9e-f8dce111e757",
+          "text": "Dentro de este tipo de respuesta se pueden diferenciar 2 subtipos."
+        },
+        {
+          "id": "d7d675a5-e54e-4a88-91f7-4f83b03dbfb0",
+          "text": "En este tipo de respuesta los LT CD4+ se diferencian principalmente hacia el subtipo efector Th2."
+        },
+        {
+          "id": "b0208f71-9cd2-438b-94fc-31d2e256a49a",
+          "text": "La presentación del antígeno a los LT vírgenes durante la etapa de sensibilización ocurre en la circulación sanguínea."
+        }
+      ]
+    },
+    {
+      "id": "770207bd-e91d-4116-a789-b7a324ef3476",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2012-10-19",
+      "text": "Con respecto a las bases de las enfermedades autoinmunitarias, señale la opción correcta:",
+      "options": [
+        {
+          "id": "4338ede9-bd60-446b-b4ad-f9bfb775a8f5",
+          "text": "La anergia clonal es el principal mecanismo de tolerancia periférica.",
+          "correct": true
+        },
+        {
+          "id": "14c1cc72-16e2-48d0-84bf-6986ae7222ec",
+          "text": "La mutación del gen Fas determina el síndrome APECED (Autoimmune Polyendocrinopathy Candidiasis Ectodermal Dystrophy)."
+        },
+        {
+          "id": "17d2544b-b3bf-403a-b682-58bbb24b3db9",
+          "text": "La pérdida de la anergia clonal es una causa de rotura de la tolerancia central."
+        },
+        {
+          "id": "db96b1a5-3a71-456c-b790-233373e57a1e",
+          "text": "La tolerancia central ocurre en linfocitos maduros."
+        },
+        {
+          "id": "5ad76c3d-d2c6-4dd2-821d-579a67b25c36",
+          "text": "Se define por la presencia de auto-anticuerpos."
+        }
+      ]
+    },
+    {
+      "id": "8f2e348e-9ac4-482f-b4b3-529d26044b96",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2012-10-19",
+      "text": "Con respecto a las inmunodeficiencias primarias, señale la opción correcta:",
+      "options": [
+        {
+          "id": "c706531f-2a95-4418-a7e7-241a08824168",
+          "text": "Aumentan el riesgo de padecer tanto infecciones como enfermedades autoinmunes.",
+          "correct": true
+        },
+        {
+          "id": "f4e18728-3491-4a4f-808a-36e25698a4b5",
+          "text": "Incluye sólo alteraciones en la inmunidad adaptativa dado que es la que determina la especificidad inmunológica."
+        },
+        {
+          "id": "301e251d-f3ad-458e-a7e2-98c6e4cc0b1c",
+          "text": "No incluyen alteraciones en la inmunidad innata."
+        },
+        {
+          "id": "34bccf8a-ef03-43e7-9d23-debddeff84fb",
+          "text": "Se deben a alteraciones inmunitarias adquiridas durante la vida del individuo."
+        },
+        {
+          "id": "229cf140-5a25-4f14-92a8-3fc813cb26a3",
+          "text": "Una vez que se plantean clínicamente no deben buscarse causas secundarias de inmunodeficiencia."
+        }
+      ]
+    },
+    {
+      "id": "e12d1d1d-cf3f-485b-be55-0689e8e13e09",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2012-10-19",
+      "text": "Con respecto a las inmunodeficiencias secundarias, señale la opción correcta:",
+      "options": [
+        {
+          "id": "e6b8076f-1a64-466a-91b0-c2b94b32ad37",
+          "text": "Es frecuente que coexistan más de una causa de inmunodeficiencia secundaria en el mismo paciente.",
+          "correct": true
+        },
+        {
+          "id": "704c0e04-5cdd-4fec-91cb-2b267da2a01b",
+          "text": "El efecto de los glucocorticoides sobre el sistema inmune es independiente de la dosis."
+        },
+        {
+          "id": "a55cf50a-5b14-4189-bea6-caf9e070fc06",
+          "text": "En el anciano existe una alteración en la respuesta inmune pero se encuentra conservada la capacidad de respuesta frente a nuevos antígenos."
+        },
+        {
+          "id": "fa0890b2-59c8-474d-9ed6-bc80b099642e",
+          "text": "Los pacientes esplenectomizados son más propensos a infecciones especialmente virales o por gérmenes intracelulares."
+        },
+        {
+          "id": "22b5b615-a024-44b2-aca4-579fdc8ef5c5",
+          "text": "Se comienza a considerar como neutropenia un recuento de neutrófilos en sangre periférica inferior a 500/mm3."
+        }
+      ]
+    },
+    {
+      "id": "eaf3b530-3db3-4b87-b174-7bf6573ba794",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2012-10-19",
+      "text": "Con respecto a las inmunodeficiencias secundarias, señale la opción correcta:",
+      "options": [
+        {
+          "id": "07303a18-37be-4db7-84b7-e22e018a251b",
+          "text": "Ocurren en individuos con el sistema inmune previamente sano.",
+          "correct": true
+        },
+        {
+          "id": "d2a65fe8-2e34-448c-9872-2438342b31a4",
+          "text": "A diferencia de las inmunodeficiencias primarias, es raro que se manifiesten clínicamente por infecciones frecuentes."
+        },
+        {
+          "id": "4139288a-c80e-4fa4-9488-7ed349866e48",
+          "text": "No se asocian a un aumento en la incidencia de tumores."
+        },
+        {
+          "id": "930c0914-1f1b-4329-bd87-52e4e7ab5e3d",
+          "text": "No se presentan en situaciones fisiológicas."
+        },
+        {
+          "id": "de03589e-c1ed-4feb-8c24-bac79702da73",
+          "text": "Por lo general se identifica el defecto en el funcionamiento de un sólo componente del sistema inmune."
+        }
+      ]
+    },
+    {
+      "id": "9ec84dea-f732-4079-933c-6a26a496abd1",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2012-10-19",
+      "text": "Con respecto a las reacciones de Hipersensibilidad (HS) tipo I, señale la opción correcta:",
+      "options": [
+        {
+          "id": "bed888c4-5796-45e4-bf9f-28f7e1e6a8d0",
+          "text": "Los antígenos capaces de desencadenar reacciones de hipersensibilidad tipo I son proteínas o sustancias químicas unidas a proteínas.",
+          "correct": true
+        },
+        {
+          "id": "e056289b-7d80-4fe8-95cf-7701d4e542af",
+          "text": "El término atopía y el término alergia tienen ambos el mismo significado y se definen como la predisposición hereditaria a producir IgE."
+        },
+        {
+          "id": "4994abc7-9955-43b6-987b-1c684cf9340f",
+          "text": "En la sensibilización ocurre: el segundo contacto con el antígeno, la diferenciación de los linfocitos Th0 (vírgenes) en TH2 y la síntesis de Ig de tipo M."
+        },
+        {
+          "id": "3d995bd1-a588-4780-b13f-330e17467ce8",
+          "text": "La reacción de hipersensibilidad de tipo I o inmediata puede definirse como una reacción inmunitaria de desarrollo lento, que se desencadena días después de la combinación de un antígeno con un anticuerpo de tipo IgE."
+        },
+        {
+          "id": "b631cc32-0b14-46dc-98e3-8e527dd28716",
+          "text": "Para que se produzcan este tipo de reacciones no es necesario que el individuo esté previamente sensibilizado."
+        }
+      ]
+    },
+    {
+      "id": "577f7630-5749-4e3d-9351-476a64857fd0",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2012-10-19",
+      "text": "Con respecto a las reacciones de hipersensibilidad (HS) de tipo II y III, señale la opción correcta:",
+      "options": [
+        {
+          "id": "64b5e56d-3906-44a5-80c9-0e436fcf6646",
+          "text": "Un mecanismo involucrado en las reacciones de HS de tipo II es la alteración funcional de receptores por la unión de anticuerpos a los mismos.",
+          "correct": true
+        },
+        {
+          "id": "f554a88c-73ea-4d8f-a201-c2f3873a103f",
+          "text": "La activación de la cascada del complemento sólo genera daño tisular mediante opsonización y fagocitosis."
+        },
+        {
+          "id": "e8b0686a-d9ac-48b4-9949-32cdf1caf7bb",
+          "text": "Las reacciones de HS de tipo II están mediadas por la formación de inmunocomplejos a nivel tisular."
+        },
+        {
+          "id": "e48d3f39-59b4-46af-9236-b476dbf5dae7",
+          "text": "Las reacciones de HS de tipo II y III se caracterizan por anticuerpos que sólo reconocen antígenos exógenos."
+        },
+        {
+          "id": "6fa331e4-2346-4482-9e32-56432acc9abe",
+          "text": "Son el tipo de reacciones involucradas fundamentalmente en la patogenia de la tuberculosis."
+        }
+      ]
+    },
+    {
+      "id": "ac421671-ca1e-4837-96ea-10c98e976f68",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2012-10-19",
+      "text": "Con respecto a las reacciones de hipersensibilidad, señale la opción correcta:",
+      "options": [
+        {
+          "id": "a37abad3-a7ea-4ff6-ba6e-7dd76d3d72bf",
+          "text": "Las manifestaciones clínicas se producen sólo si el individuo se encuentra sensibilizado para el antígeno.",
+          "correct": true
+        },
+        {
+          "id": "15bb8a96-cb60-4cba-a0d6-5b684037ba91",
+          "text": "El contacto del sistema inmune con un antígeno siempre lleva a la sensibilización."
+        },
+        {
+          "id": "85cbd2df-9949-40f9-94c4-d47ef4492f58",
+          "text": "En las reacciones de tipo II o mediadas por anticuerpos participa la IgE."
+        },
+        {
+          "id": "2b519097-2500-4df6-a339-fe588fa2736c",
+          "text": "Los componentes de la inmunidad innata no participan de la lesión dado que carecen de especificidad antigénica."
+        },
+        {
+          "id": "54d0506d-a0fe-4099-8c5e-50fb9d9331cf",
+          "text": "No existen enfermedades que se expliquen por más de un tipo de estas reacciones."
+        }
+      ]
+    },
+    {
+      "id": "df9a17a0-2ae7-42e6-b817-b2d47692c13b",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2012-10-19",
+      "text": "Con respecto a las reacciones de hipersensiblidad retardada, señale la opción correcta:",
+      "options": [
+        {
+          "id": "d0e7f0dd-9c44-475f-85a6-f99a3b132801",
+          "text": "Son mediadas por linfocitos T sensibilizados.",
+          "correct": true
+        },
+        {
+          "id": "dc0a1adf-847c-41a1-924c-112bcb3a19a1",
+          "text": "La IL-3 es un potente activador de los macrófagos."
+        },
+        {
+          "id": "09fe6e43-0b5a-44b0-8197-dc8333806435",
+          "text": "La activación del complemento es uno de los principales mecanismos de lesión tisular."
+        },
+        {
+          "id": "6f6d9716-950d-42b6-96ca-fd8163442c94",
+          "text": "La contracción del músculo liso bronquial es característica de este tipo de reacción."
+        },
+        {
+          "id": "90ba422e-82d7-4345-b1f0-2e4007c286c8",
+          "text": "Los linfocitos T presentan los antígenos a los linfocitos B en la fase de desencadenamiento."
+        }
+      ]
+    },
+    {
+      "id": "0889cb9c-7926-4526-9e43-f058da1f27bb",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2012-10-19",
+      "text": "Con respecto a los sujetos seropositivos para el VIH clasificados como Controladores de Élite (no progresores de élite), señale la opción correcta:",
+      "options": [
+        {
+          "id": "5b0ebe51-fcaf-492f-ba17-fadd0e9d5927",
+          "text": "Poseen un bajo grado de activación inmune.",
+          "correct": true
+        },
+        {
+          "id": "74c67c44-5f4a-4a7b-bf97-704c99e3d348",
+          "text": "Representan más del 90% de los pacientes."
+        },
+        {
+          "id": "b43f4b69-f2e9-4eaf-8e4b-7deaaeb144bb",
+          "text": "Se caracterizan por tener una destrucción masiva del tejido linfoide asociado a mucosa intestinal."
+        },
+        {
+          "id": "63c54942-24f1-4c90-8693-f354007e2f63",
+          "text": "Sin tratamiento la mayoría evolucionan al SIDA."
+        },
+        {
+          "id": "5196f84b-0990-4f31-9cac-09ab8afc12eb",
+          "text": "Tienen una destrucción selectiva de poblaciones de linfocitos Th17."
+        }
+      ]
+    },
+    {
+      "id": "d24cca07-efda-4b28-b8fa-671a4020771d",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2012-10-19",
+      "text": "Con respecto al Lupus Eritematoso Sistémico (LES), señale la opción correcta:",
+      "options": [
+        {
+          "id": "5040aab7-4f1c-4fd0-a13e-370378ee19ba",
+          "text": "En la base patogénica de la nefritis lúpica se encuentra la formación y depósito de inmunocomplejos.",
+          "correct": true
+        },
+        {
+          "id": "9ce6cb23-ce3b-432a-9a9a-bb4f3c206914",
+          "text": "En la base de la patogenia del LES no se han descrito factores epigenéticos."
+        },
+        {
+          "id": "47506a16-b9b0-408e-a23d-a84656ace9e4",
+          "text": "La base patogénica de la anemia hemolítica en el LES es una reacción de hipersensibilidad de tipo IV."
+        },
+        {
+          "id": "12bd005e-6b80-454e-9a47-f870c76e960c",
+          "text": "Los niveles altos de complementemia y bajos de anticuerpos anti-ADN nativo o bicatenario nos orientan a una activación de la enfermedad."
+        },
+        {
+          "id": "bca9b44f-8c64-4b11-b2e9-ee4edf17489e",
+          "text": "Los pacientes con LES no tienen una mayor predisposición a padecer enfermedades infecciosas."
+        }
+      ]
+    },
+    {
+      "id": "0daead9e-e42a-4621-aae4-470c447304be",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2012-10-19",
+      "text": "Con respecto al asma bronquial, señale la opción correcta:",
+      "options": [
+        {
+          "id": "f363fbd3-4db0-41a0-b076-a777caf262f5",
+          "text": "Algunos de los cambios designados como remodelación de la vía aérea son: edema e infiltrado inflamatorio, aumento del tamaño de glándulas mucosas e hipertrofia del músculo liso.",
+          "correct": true
+        },
+        {
+          "id": "5fd004e0-5735-47b3-91a1-1264108676fb",
+          "text": "La base patogénica de la crisis asmática se explica por una reacción de hipersensibilidad tipo III."
+        },
+        {
+          "id": "b20d35ea-ddaf-4be8-a5c6-f8b624cc5d88",
+          "text": "Los LT CD4+ del subtipo Th1 tienen un papel preponderante en la crisis de asma."
+        },
+        {
+          "id": "b9d9979f-8782-49cb-8a88-49f79f0dc3e7",
+          "text": "Los LT subtipo Th17 se asocian a inflamación de la vía aérea a predominio eosinofílico."
+        },
+        {
+          "id": "6adcd367-7064-4dd7-8fd6-ca5409e131d1",
+          "text": "Se caracteriza por 3 pilares: obstrucción irreversible de la vía aérea, hiperreactividad bronquial e inflamación aguda."
+        }
+      ]
+    },
+    {
+      "id": "53117cce-0274-4684-b029-eb8b9e5cd546",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2012-10-19",
+      "text": "Con respecto al mecanismo celular de infección por el virus de la inmunodeficiencia humana (VIH), señale la opción correcta:",
+      "options": [
+        {
+          "id": "ffa39275-cc00-4c1b-a8bb-dd8bc9c9aa01",
+          "text": "Los co-receptores de quimioquinas facilitan la fusión de membranas virales y celulares permitiendo la entrada del virión a la célula infectada.",
+          "correct": true
+        },
+        {
+          "id": "1fdff2ba-7276-4292-9cf5-a56bde9dbe65",
+          "text": "Durante una infección productiva de linfocitos CD4+, el ARN genómico viral es capaz de integrarse como tal al genoma de la célula."
+        },
+        {
+          "id": "3a0ca585-b66d-4ed7-8c22-40e4f69d8d8e",
+          "text": "El VIH es capaz de infectar preferencialmente linfocitos T CD4+ y CD8+."
+        },
+        {
+          "id": "f23ec756-31bf-4d06-877e-d475274444ea",
+          "text": "La infección de una célula blanco por el VIH requiere sólo de la presencia de la molécula CD4."
+        },
+        {
+          "id": "4d198cef-33fb-46dd-a3b0-e99869f34f68",
+          "text": "Los precursores linfoides de médula ósea no son susceptibles a la infección por el VIH."
+        }
+      ]
+    },
+    {
+      "id": "cbee991b-5fd0-4660-b526-d7c21248b220",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2012-10-19",
+      "text": "Con respecto al mecanismo de acción de los antibióticos, marque la opción correcta:",
+      "options": [
+        {
+          "id": "b7edd8b1-a4bd-42ef-a00b-d48e5a5ba419",
+          "text": "Las quinolonas actúan uniéndose a las topoisomerasas bacterianas.",
+          "correct": true
+        },
+        {
+          "id": "67f428f2-692b-4b41-b398-224c7647a6d3",
+          "text": "Los aminoglucósidos impiden la síntesis de ARN bacteriano."
+        },
+        {
+          "id": "2f4c586d-9fe1-4984-8faf-6dd464521332",
+          "text": "Los macrólidos generan poros en la pared bacteriana que llevan a la lisis osmótica."
+        },
+        {
+          "id": "4eabe2ad-e796-4219-973b-67ab325fa94f",
+          "text": "Los macrólidos y los β-lactámicos comparten el mismo sitio blanco."
+        },
+        {
+          "id": "312e767c-a6d5-44ec-80b4-5ea1a8637c65",
+          "text": "Los β-lactámicos actúan inhibiendo la cadena transportadora de electrones."
+        }
+      ]
+    },
+    {
+      "id": "e0f795f8-137b-44bc-b1c9-2a73c5615a29",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2012-10-19",
+      "text": "Con respecto de los mecanismos de plaquetopenia en la ITP (inmunotrombocitopenia), señale la opción correcta:",
+      "options": [
+        {
+          "id": "8a7933a3-e60b-4dc7-b0dc-73988e1d09cb",
+          "text": "Las reacciones de hipersensibilidad de tipo II juegan un rol fundamental, principalmente por la promoción de la opsonización y fagocitosis a nivel del sistema mononuclear fagocítico.",
+          "correct": true
+        },
+        {
+          "id": "3938bce0-88dc-45ff-8c34-31a82b28c85e",
+          "text": "Dado que generalmente el mielograma muestra una médula ósea rica en megacariocitos, la alteración en la producción de plaquetas no está involucrada como causa de ITP."
+        },
+        {
+          "id": "faff449a-3173-45e1-835b-82b97579ef69",
+          "text": "El mecanismo fundamental de plaquetopenia es el daño mediado por inmunocomplejos."
+        },
+        {
+          "id": "1baad857-580f-4292-9946-c87aa4c8212d",
+          "text": "La activación del sistema del complemento no está involucrada."
+        },
+        {
+          "id": "049996ed-8186-475d-aeb6-18613e07fb3d",
+          "text": "La alteración funcional por interferencia ocasionada por la unión de anticuerpos a glicoproteínas plaquetarias configura una reacción de hipersensibilidad de tipo III."
+        }
+      ]
+    },
+    {
+      "id": "379511db-f79d-48d8-8899-ee6446def417",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2012-10-19",
+      "text": "El Sistema de Trasplante de Organos, Tejidos y Células en Uruguay:",
+      "options": [
+        {
+          "id": "3bd4641e-39cf-4f9e-a00a-fdafd7fda5b5",
+          "text": "En relación al trasplante de médula ósea, permite la donación de células hematopoyéticas en vida entre personas no emparentadas con condiciones adecuadas de compatibilidad HLA.",
+          "correct": true
+        },
+        {
+          "id": "83d7555c-406c-41ff-81d3-bccc5bdafb28",
+          "text": "Contempla programas de trasplante de órganos sólidos con donante cadavérico pero no con donante vivo."
+        },
+        {
+          "id": "de70e8cf-07d0-4bda-9d16-84a8ff3950d1",
+          "text": "Las listas de espera, serotecas y criterios de asignación son de exclusivo manejo del Fondo Nacional de Recursos."
+        },
+        {
+          "id": "8972de42-4697-4142-9081-9ba5974bab7c",
+          "text": "No es posible el trasplante renal entre esposo y esposa si son ABO compatibles y tienen prueba cruzada negativa."
+        },
+        {
+          "id": "c93257d5-59a2-461b-8be5-0c0849fd3fd7",
+          "text": "Tiene listas de espera donde no está incluido el trasplante reno-pancreático."
+        }
+      ]
+    },
+    {
+      "id": "fa7f5e89-741d-42eb-836a-a1a96a201e0b",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2012-10-19",
+      "text": "El principal mecanismo involucrado en el control de la neumonía por Streptococcus pneumoniae es:",
+      "options": [
+        {
+          "id": "647d79be-3d5b-4fba-9c36-db21b80e2067",
+          "text": "Opsonofagocitosis mediada por neutrófilos.",
+          "correct": true
+        },
+        {
+          "id": "7f0444ca-b66a-4385-8e30-b0a1059d8123",
+          "text": "Citotoxicidad mediada por linfocitos T."
+        },
+        {
+          "id": "7d2fb12f-4407-42f7-9fbb-002fb844afed",
+          "text": "Inmunidad celular mediada por células Th1."
+        },
+        {
+          "id": "a46cad75-5895-495c-8a9f-c70db8e406e8",
+          "text": "Inmunidad celular mediada por células Th17."
+        },
+        {
+          "id": "6a6e28c5-d10a-4660-a78d-468bebef9baa",
+          "text": "Inmunidad celular mediada por células Th2."
+        }
+      ]
+    },
+    {
+      "id": "4f8f9529-88f7-4021-9fff-251a06885ec0",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2012-10-19",
+      "text": "El sistema de asignación de órganos en Uruguay considera:",
+      "options": [
+        {
+          "id": "89817c21-7531-4794-a56e-120c13fdfc2f",
+          "text": "Que es posible realizar trasplante de riñón con donante vivo emparentado bajo determinadas condiciones legales.",
+          "correct": true
+        },
+        {
+          "id": "8c9f3d0a-a16b-41ee-a6d5-28784edb9698",
+          "text": "Contempla programas de trasplante de glándula suprarrenal."
+        },
+        {
+          "id": "dfe7854c-ce74-42ff-8384-b23e2cf9e35e",
+          "text": "El factor Rh del donante y receptor en forma preponderante."
+        },
+        {
+          "id": "aab6cfa7-a5f7-4081-93df-dde7e9d6e088",
+          "text": "Que la buena compatibilidad en sistema ABO de donante y receptor excluye la posibilidad de trasplante de pulmón."
+        },
+        {
+          "id": "eb0eec67-37bf-491a-bd13-5fa48f95abd6",
+          "text": "Viable un trasplante cardíaco con compatibilidad en: masa corporal, ABO,y prueba cruzada positiva."
+        }
+      ]
+    },
+    {
+      "id": "91e7725b-931c-4113-a8a2-7ab57bf4aa9e",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2012-10-19",
+      "text": "En relación a la respuesta alogénica en el trasplante indique lo correcto:",
+      "options": [
+        {
+          "id": "f5dc2374-99df-4afa-990a-bd5d0fd2f024",
+          "text": "Involucra mecanismos de reconocimiento inmune en los cuales participan moléculas HLA.",
+          "correct": true
+        },
+        {
+          "id": "201ccc97-2596-4e7a-8d3b-f811325bcce7",
+          "text": "Es debida a inmunidad natural."
+        },
+        {
+          "id": "6551bee7-6c23-42d2-a085-2f1a601cd334",
+          "text": "Es mediada por anticuerpos y células vinculados al citomegalovirus."
+        },
+        {
+          "id": "fc0b4940-b586-41d6-b22b-c6a56fdcd74c",
+          "text": "Participan componentes celulares pero no humorales."
+        },
+        {
+          "id": "1e0c1fdb-a374-4a9b-9285-61851885b2d3",
+          "text": "Se debe a la presencia de anticuerpos anti-Trypanosoma cruzi y anti-toxoplásmicos."
+        }
+      ]
+    },
+    {
+      "id": "46072e5d-49f9-4364-a2cd-a2677573987a",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2012-10-19",
+      "text": "La invasión de la mucosa intestinal por parte de Salmonella enterica desencadena una respuesta inflamatoria aguda tendiente a controlar la infección. Indique qué elemento bacteriano es relevante para desencadenar esa respuesta inflamatoria:",
+      "options": [
+        {
+          "id": "214d18da-4a8a-44ce-99f6-833eaee851fb",
+          "text": "La proteína flagelina que compone el flagelo bacteriano.",
+          "correct": true
+        },
+        {
+          "id": "a2b79708-07d4-4ef0-b22e-fda4fe65f594",
+          "text": "El ácido lipoteicoico de la pared celular bacteriana."
+        },
+        {
+          "id": "0d86de31-470d-40d0-b3cd-8a21dc631027",
+          "text": "La salmoquelina, un sideróforo que capta hierro."
+        },
+        {
+          "id": "9cfe7a52-55c0-4957-9b3c-2328b526978b",
+          "text": "Las enzimas que le permiten a Salmonella realizar respiración anaerobia."
+        },
+        {
+          "id": "f48933da-374f-4001-a083-ce5e23d05824",
+          "text": "Las toxinas que causan la auto-lisis de la bacteria."
+        }
+      ]
+    },
+    {
+      "id": "b18d7f90-08b5-48fe-84c5-852ddcc0abf5",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2012-10-19",
+      "text": "La prueba cruzada donante específica:",
+      "options": [
+        {
+          "id": "2dc1dd47-1137-4a98-b3c0-f731981cf2d4",
+          "text": "Con resultado negativo habilita la realización de trasplante de órgano sólido.",
+          "correct": true
+        },
+        {
+          "id": "427f4e97-a532-423b-a083-e16e2f18dd5c",
+          "text": "No es útil para evaluar la respuesta inmune humoral pre y post trasplante de órganos sólidos."
+        },
+        {
+          "id": "e40d7511-f5f7-4b56-bcca-6abf7f6a8725",
+          "text": "No sirve para estudiar el rechazo hiperagudo mediado por anticuerpo."
+        },
+        {
+          "id": "a4ec4301-ecbf-475e-880c-287937bff298",
+          "text": "Se realiza con la finalidad de conocer la respuesta inmune celular exclusivamente."
+        },
+        {
+          "id": "1439fa87-0bed-4f45-b1ab-c7e7b0054f28",
+          "text": "Se utiliza como elemento imprescindible para saber si el donante tiene anticuerpos contra el sistema HLA."
+        }
+      ]
+    },
+    {
+      "id": "6b5986bc-1ee5-4f5e-865b-9013833f8b7b",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2012-10-19",
+      "text": "La vacuna contra Streptococcus pneumoniae a polisacárido 23 valente NO se recomienda para niños menores de 2 años debido a que en este grupo de edad:",
+      "options": [
+        {
+          "id": "48830bf3-08b6-4ff8-8e52-6a3561d50d44",
+          "text": "Induce respuestas T independientes que no son eficientes.",
+          "correct": true
+        },
+        {
+          "id": "296a1e16-0abb-43d4-a078-712ebd528f07",
+          "text": "Genera reacciones adversas importantes."
+        },
+        {
+          "id": "12a98307-28b7-46aa-ab25-4f962107e702",
+          "text": "Las infecciones por S. pneumoniae no son importantes."
+        },
+        {
+          "id": "4b796f4c-23db-4f0f-a2f7-453c4a782460",
+          "text": "No es posible montar respuesta contra tantos tipos antigénicos."
+        },
+        {
+          "id": "0599c1b1-3486-45e9-9d6b-63b0ed41c1e0",
+          "text": "Previene contra la neumonía pero no contra la meningitis."
+        }
+      ]
+    },
+    {
+      "id": "fb8185d5-1d6d-4361-9d0d-469b292487b5",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2012-10-19",
+      "text": "Las especies de bacterias Gram negativas, particularmente aquellas pertenecientes a la familia Enterobacteriaceae, pueden clasificarse por debajo del nivel de especie en distintos serotipos o serovariedades. Esto se realiza evidenciando propiedades antigénicas propias de:",
+      "options": [
+        {
+          "id": "dfb37a02-d20b-482a-b6f0-ae0f5c37aae7",
+          "text": "Antígenos del LPS (somáticos) y antígenos flagelares.",
+          "correct": true
+        },
+        {
+          "id": "80841895-a423-40fd-a0dd-89c145609eb9",
+          "text": "Antígenos polisacarídicos del peptidoglicano."
+        },
+        {
+          "id": "dfe1c0e6-f469-42c9-8024-216537ddff78",
+          "text": "Antígenos proteicos y polisacarídicos fimbriales."
+        },
+        {
+          "id": "e756b068-464f-454f-98f4-919c5013f5a7",
+          "text": "Estructuras del sistema de secreción de tipo III y adhesinas."
+        },
+        {
+          "id": "47c37adf-3d52-4779-827b-cb422d8396ec",
+          "text": "Ácidos teicoicos y proteínas de la membrana externa."
+        }
+      ]
+    },
+    {
+      "id": "8da7f05a-d289-43dd-8cb9-f91f03a83161",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2012-10-19",
+      "text": "Salmonella enterica es una especie bacteriana con capacidades patogénicas. Uno de los factores de virulencia que presenta son los sistemas de secreción de tipo III. Estos le permiten a la bacteria:",
+      "options": [
+        {
+          "id": "d5f7dfb5-4195-4748-aa89-ec18fe1c9f20",
+          "text": "Translocar proteínas bacterianas al citosol de una célula hospedadora.",
+          "correct": true
+        },
+        {
+          "id": "f803b3e8-1cc1-4a11-a6aa-35ba6c7143ab",
+          "text": "Secretar proteínas al medio extracelular con actividad tóxica para el epitelio."
+        },
+        {
+          "id": "27426c34-5f15-4f4d-a5c4-45ba39042af5",
+          "text": "Secretar péptidos antimicrobianos activos contra la microbiota."
+        },
+        {
+          "id": "5370a7a1-0890-4bf7-9129-de3e2fa4ae53",
+          "text": "Secretar sideróforos esenciales para capturar hierro en los tejidos del hospedador."
+        },
+        {
+          "id": "17dfdfb6-a109-4049-8c33-a4fafd8932e8",
+          "text": "Translocar proteínas eucariotas al interior de la célula bacteriana."
+        }
+      ]
+    },
+    {
+      "id": "c2a1c9fc-86ce-4b20-941f-c619de6f5dfb",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2012-10-19",
+      "text": "Se ha demostrado que el sistema complemento juega un rol importante en las defensas frente a Streptococcus pneumoniae, ¿cuál es el mecanismo de acción más importante de este sistema en las defensas innatas contra este patógeno?",
+      "options": [
+        {
+          "id": "5cbb9d2d-41de-42aa-889e-d89cab060be1",
+          "text": "La activación de la vía clásica, por unión de la proteína C reactiva o anticuerpos naturales.",
+          "correct": true
+        },
+        {
+          "id": "c902989e-7c3a-4ece-a052-df773dcd4b33",
+          "text": "La activación de la vía alterna por el polisacárido capsular de neumococo."
+        },
+        {
+          "id": "2536ac10-138c-4ab1-9cbd-52fc14d0cc0c",
+          "text": "La activación de la vía clásica por unión de anticuerpos serotipo-específicos."
+        },
+        {
+          "id": "1605bc7d-9cb1-4f95-bbca-d056a1189d3b",
+          "text": "La activación de la vía de las lectinas por unión de la proteína C reactiva."
+        },
+        {
+          "id": "1a3c2905-8859-4e43-b2eb-d0aa7994f25f",
+          "text": "La formación del complejo de ataque a membrana."
+        }
+      ]
+    },
+    {
+      "id": "9ba78d97-8372-4802-ae05-e1193795995b",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2012-10-19",
+      "text": "Se siembra en agar sangre un exudado faríngeo de un niño de 8 años que presenta sintomatología compatible con faringitis. De acuerdo a lo que podría observar en la placa luego de 24 horas de incubación marque la opción correcta:",
+      "options": [
+        {
+          "id": "a1484cfb-1242-4125-abba-223b12b1dc1d",
+          "text": "De observarse colonias beta hemolíticas deben estudiarse por ser sospechosas de corresponder a Streptococcus pyogenes.",
+          "correct": true
+        },
+        {
+          "id": "46bbad41-4f47-4f44-b7e1-de9a8a6242dd",
+          "text": "De observar colonias alfa hemolíticas deben ser estudiadas por sospechar que el agente etiológico es Streptococcus pneumoniae."
+        },
+        {
+          "id": "d55165ef-29a3-44c7-9661-fcc5e228678c",
+          "text": "La ausencia de desarrollo de colonias bacterianas descarta el origen infeccioso del cuadro."
+        },
+        {
+          "id": "7df5eb1e-1e4e-4117-a53d-414b94899b4d",
+          "text": "La observación de colonias alfa y gama hemolíticas descarta el origen infeccioso del cuadro."
+        },
+        {
+          "id": "9c1f012f-ec7d-4d1b-8854-b3470e390192",
+          "text": "Se deben estudiar las colonias alfa hemolíticas para confirmar que pertenecen a la flora normal de la nasofaringe."
+        }
+      ]
+    },
+    {
+      "id": "96e3b68d-8383-4eb0-b074-e7d494ac8955",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2012-10-19",
+      "text": "Una de las funciones beneficiosas de la microbiota intestinal es la de protección frente a infecciones por patógenos, efecto conocido como \"resistencia a la colonización\". Esto se consigue gracias a que las bacterias de la microbiota:",
+      "options": [
+        {
+          "id": "d2cb1095-2612-4c07-8cbc-25e7d0b07b7b",
+          "text": "Compiten con los patógenos por el espacio y los nutrientes, limitando así su crecimiento.",
+          "correct": true
+        },
+        {
+          "id": "227d59d6-4977-4d93-b16b-5d69cde1262f",
+          "text": "Establecen un contacto íntimo con las células epiteliales formando así una barrera física que impide el acceso de los patógenos."
+        },
+        {
+          "id": "b60f2677-3de3-4035-a898-45c2cec44430",
+          "text": "No expresan PAMPs, promoviendo así el reconocimiento de los PAMPs de los patógenos por el sistema inmune."
+        },
+        {
+          "id": "221cd382-49a2-4fba-a332-9beba2bade37",
+          "text": "Secretan glicoproteínas que conforman la capa de mucus que recubre el epitelio intestinal."
+        },
+        {
+          "id": "902890a6-6245-4028-8987-f7f98f581a57",
+          "text": "Son resistentes a los péptidos antimicrobianos producidos por el epitelio, quedando éstos disponibles para actuar sobre los patógenos."
+        }
+      ]
+    },
+    {
+      "id": "6b4a326f-30ce-4f8a-9603-5cf988ef88eb",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2012-10-19",
+      "text": "¿Cuál de las siguientes afirmaciones es la correcta en relación a la resistencia de S.  pneumoniae frente a los β-lactámicos?",
+      "options": [
+        {
+          "id": "46816e5b-ee05-43fa-96ff-015168285d3d",
+          "text": "Se debe a generación de PBPs mosaico con afinidad disminuida por los β-lactámicos.",
+          "correct": true
+        },
+        {
+          "id": "4d0e71b7-b29c-4661-9bdc-96a37d849f57",
+          "text": "Confiere además resistencia cruzada a otros grupos de antibióticos."
+        },
+        {
+          "id": "10c8053e-20ce-4959-b4b6-cb9d3459f797",
+          "text": "Está dada por bombas de eflujo que extraen activamente al antibiótico."
+        },
+        {
+          "id": "03380d75-16b4-4b14-a246-573dd83218f5",
+          "text": "La resistencia está mediada por β-lactamasas"
+        },
+        {
+          "id": "c96be55d-c829-4f4d-a1dd-3ea08706bd31",
+          "text": "Se debe a la adquisición de un nuevo gen que codifica para nueva PBP que no posee afinidad por los β-lactámicos."
+        }
+      ]
+    },
+    {
       "id": "87a4d4c1-6d11-473b-8173-d82ddb0a69e4",
       "evaluation": "parcial_3",
       "source": "partial",
