@@ -909,7 +909,7 @@
       "evaluation": "parcial_2",
       "source": "partial",
       "asked_at": "2016-09-24",
-      "text": "En la evaluación de la respuesta inmune de un paciente con lepra se obtiene la información siguiente: nivel aumentado de anticuerpos circulantes específicos para M. leprae, respuestas inmunes anti-M. leprae caracterizadas por alta producción de IL-4 y baja producción de interferón-γ (INF-γ). Indique lo correcto:",
+      "text": "En la evaluación de la respuesta inmune de un paciente con lepra se obtiene la información siguiente: nivel aumentado de anticuerpos circulantes específicos para M. leprae, respuestas inmunes anti-M. leprae caracterizadas por alta producción de IL-4 y baja producción de interferón-γ (IFN-γ). Indique lo correcto:",
       "options": [
         {
           "id": "c85ee9c5-e2b2-4d79-9b71-092212d6423a",
@@ -2288,7 +2288,7 @@
         },
         {
           "id": "13bcf532-2eef-4de0-8141-49efff0567c2",
-          "text": "La respuesta Th2 es muy importante y está mediada principalmente por INF-g (interferón gamma) que aumenta las capacidades líticas de los macrófagos."
+          "text": "La respuesta Th2 es muy importante y está mediada principalmente por IFN-γ (interferón gamma) que aumenta las capacidades líticas de los macrófagos."
         },
         {
           "id": "7bdccd12-e82b-49e5-b51a-d5dc7d8044f3",
@@ -2866,7 +2866,7 @@
         },
         {
           "id": "5c36d9f0-f7e6-444f-bc64-3f9c98033ffe",
-          "text": "Los macrófagos que se encuentran en la lámina propia de la mucosa en condiciones de homeostasis, presentan un fenotipo M1 caracterizado por la secreción de citoquinas pro-inflamatorias (TNF-alfa, IL-1β, IL-6, etc.)."
+          "text": "Los macrófagos que se encuentran en la lámina propia de la mucosa en condiciones de homeostasis, presentan un fenotipo M1 caracterizado por la secreción de citoquinas pro-inflamatorias (TNF-α, IL-1β, IL-6, etc.)."
         }
       ]
     },
@@ -3882,7 +3882,7 @@
         },
         {
           "id": "b37216ad-0fae-45a2-a6a4-a613e326d040",
-          "text": "Se activa en monocitos o macrófagos bajos señales como el IFN gamma."
+          "text": "Se activa en monocitos o macrófagos bajos señales como el IFN-γ."
         },
         {
           "id": "f3a58145-3c06-4ac5-819d-f6c8f769b3a7",
@@ -4075,7 +4075,7 @@
       "evaluation": "parcial_2",
       "source": "partial",
       "asked_at": "2021-09-18",
-      "text": "Indique la opción correcta sobre el IFN-gamma.",
+      "text": "Indique la opción correcta sobre el IFN-γ.",
       "options": [
         {
           "id": "f14942b5-919c-49f7-8071-a0ce66f4a9b9",
@@ -4865,7 +4865,7 @@
         },
         {
           "id": "af01c538-6995-4b33-a526-1aa388e52146",
-          "text": "La secreción de IFN-gamma por linfocitos Th1 activados."
+          "text": "La secreción de IFN-γ por linfocitos Th1 activados."
         }
       ]
     },
@@ -6258,7 +6258,7 @@
       "options": [
         {
           "id": "efc115f3-2e86-489a-97f3-c71bf13bd6aa",
-          "text": "Secreción de IFN gamma producido por los linfocitos Th1 previamente sensibilizados contra antígenos del complejo Mycobacterium tuberculosis.",
+          "text": "Secreción de IFN-γ producido por los linfocitos Th1 previamente sensibilizados contra antígenos del complejo Mycobacterium tuberculosis.",
           "correct": true
         },
         {
@@ -6275,7 +6275,7 @@
         },
         {
           "id": "94a61739-c9ef-42a6-a06c-c91eb950fa45",
-          "text": "Secreción de IFN gamma producido por los linfocitos Th2 previamente sensibilizados contra antígenos del complejo Mycobacterium tuberculosis."
+          "text": "Secreción de IFN-γ producido por los linfocitos Th2 previamente sensibilizados contra antígenos del complejo Mycobacterium tuberculosis."
         }
       ]
     },
@@ -6473,7 +6473,7 @@
         },
         {
           "id": "b35a0cf6-d722-4bb7-b6ee-609ff4f8cbe7",
-          "text": "El IFN gamma y el TNF alfa secretados por los linfocitos Th2 son los principales activadores de macrófagos en las RHS de tipo IVa."
+          "text": "El IFN-γ y el TNF-α secretados por los linfocitos Th2 son los principales activadores de macrófagos en las RHS de tipo IVa."
         },
         {
           "id": "72875371-f74b-447a-8394-132aca31c7de",
@@ -8650,6 +8650,10 @@
           "correct": true
         },
         {
+          "id": "e89f02ea-cf46-4d0f-a1e4-01cba886a14e",
+          "text": "IFN-γ."
+        },
+        {
           "id": "3cdced54-c75d-4193-9e7f-4f66943fc8b7",
           "text": "IL-1."
         },
@@ -8658,12 +8662,8 @@
           "text": "IL-5."
         },
         {
-          "id": "e89f02ea-cf46-4d0f-a1e4-01cba886a14e",
-          "text": "INF gamma ."
-        },
-        {
           "id": "24dfe708-c878-49f2-9be0-8be17307a507",
-          "text": "TNF alfa."
+          "text": "TNF-α."
         }
       ]
     },
@@ -9127,7 +9127,7 @@
         },
         {
           "id": "ea7149d6-4b55-406e-8981-db4cc2b0ef9b",
-          "text": "El bloqueo de TNF-alfa controlaría efectos locales pero no sistémicos."
+          "text": "El bloqueo de TNF-α controlaría efectos locales pero no sistémicos."
         },
         {
           "id": "24d25d9b-0cc1-4cd9-b933-2c4917084574",
@@ -9449,7 +9449,7 @@
         },
         {
           "id": "1ef5cdcf-f399-4bfc-9867-3817e1df6f79",
-          "text": "Inhibición de TNF alfa."
+          "text": "Inhibición de TNF-α."
         }
       ]
     },
@@ -9647,7 +9647,7 @@
         },
         {
           "id": "d086a2e5-62d4-47ff-9094-8ad506b6241c",
-          "text": "IFN gamma."
+          "text": "IFN-γ."
         },
         {
           "id": "1a2fd24b-abb6-42c8-8669-62955826eb75",
@@ -9779,7 +9779,7 @@
         },
         {
           "id": "741f0486-f1ac-42cb-a5e4-e52904103106",
-          "text": "Se define como el aumento de TNF-alfa en suero."
+          "text": "Se define como el aumento de TNF-α en suero."
         }
       ]
     },
