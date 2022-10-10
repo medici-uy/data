@@ -1,10 +1,7 @@
 {
   "name": "Hematología e Inmunología",
   "short_name": "Hemato",
-  "aliases": [
-    "hemato",
-    "inmuno"
-  ],
+  "aliases": ["hemato", "inmuno"],
   "year": 3,
   "questions": [
     {
@@ -4937,7 +4934,7 @@
       "options": [
         {
           "id": "57f87609-2bb3-4ee7-a562-a62093ba4fb2",
-          "text": "A unión de un antígeno a un anticuerpo específico de tipo IgE unido a mastocitos en sujetos previamente sensibilizados para ese antígeno.",
+          "text": "La unión de un antígeno a un anticuerpo específico de tipo IgE unido a mastocitos en sujetos previamente sensibilizados para ese antígeno.",
           "correct": true,
           "explanation": "La fase de desencadenamiento se inicia luego de la re-exposición al antígeno (alérgeno) al cual el individuo fue sensibilizado previamente. El primer paso, es la unión del antígeno (alérgeno) al anticuerpo (IgE) que oficia de receptor inmunogéno en los mastocitos. Luego de esta unión se produce el entrecruzamiento de dos receptores adyacentes con la posterior activación del mastocito."
         },
@@ -7894,7 +7891,7 @@
       "evaluation": "parcial_3",
       "source": "partial",
       "asked_at": "2017-10-21",
-      "text": "En el artículo \"TLR5-Mediated Sensing of Gut Microbiotals Necessary for Antibody Responses To Seasonal Influenza Vaccination\" los autores demuestran la importancia de la microbiota intestinal en los títulos de anticuerpos específicos anti influenza en ratones inmunizados con la vacuna TIV (vacuna anti influenza, trivalente, inactivada, sin adyuvante). En que otro tipo de vacunas los autores encuentran el mismo efecto de la microbiota sobre el título de anticuerpos:",
+      "text": "En el artículo \"TLR5-Mediated Sensing of Gut Microbiota is Necessary for Antibody Responses to Seasonal Influenza Vaccination\" los autores demuestran la importancia de la microbiota intestinal en los títulos de anticuerpos específicos anti influenza en ratones inmunizados con la vacuna TIV (vacuna anti influenza, trivalente, inactivada, sin adyuvante). En que otro tipo de vacunas los autores encuentran el mismo efecto de la microbiota sobre el título de anticuerpos:",
       "options": [
         {
           "id": "7740c5ce-268a-4919-8ecc-09442d3e1b42",
@@ -8225,7 +8222,7 @@
         },
         {
           "id": "52b6e038-198a-4414-87ef-cf47e6954698",
-          "text": "Permiten la multiplicación de todos los agentes aún los exigentes,ya que son muy ricos."
+          "text": "Permiten la multiplicación de todos los agentes aún los exigentes, ya que son muy ricos."
         }
       ]
     },
@@ -8599,7 +8596,7 @@
         },
         {
           "id": "8e7083ab-851d-4d0f-a02e-1d666811e9b8",
-          "text": "Presencia de Bombas de eflujo."
+          "text": "Presencia de bombas de eflujo."
         },
         {
           "id": "a277d0d6-d434-44e3-a7b8-6adb5620de77",
@@ -8908,7 +8905,7 @@
       "options": [
         {
           "id": "f5ae73f9-7fec-445d-96ba-729202b5a38c",
-          "text": "Poseen elevada prevalencia afectando entre un 15 y 30 % de la poblacióngeneral.",
+          "text": "Poseen elevada prevalencia afectando entre un 15 y 30 % de la población general.",
           "correct": true
         },
         {
