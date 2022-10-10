@@ -4561,7 +4561,7 @@
         },
         {
           "id": "511320dc-a00f-42c2-a688-355e374937b3",
-          "text": "Bloqueo del TNF beta."
+          "text": "Bloqueo del TNF-β."
         },
         {
           "id": "958d6412-4f82-44f1-95d8-a1c5f9683322",
@@ -6688,7 +6688,7 @@
         },
         {
           "id": "62025515-ef92-4cdd-bebf-97f2697cc264",
-          "text": "Producción de beta-lactamasas."
+          "text": "Producción de β-lactamasas."
         },
         {
           "id": "812d8ec0-d348-4ae2-9626-628a7e142b57",
@@ -8880,7 +8880,7 @@
         },
         {
           "id": "7a5ce4b2-cfdd-4ec1-b484-9076151bdaad",
-          "text": "La IL-1alfa es clivada por la caspasa 1 para dar lugar a la IL-1beta."
+          "text": "La IL-1α es clivada por la caspasa 1 para dar lugar a la IL-1β."
         },
         {
           "id": "9955cd0f-0295-41c6-8fb9-d5f3ab445a72",
@@ -9699,7 +9699,7 @@
       "options": [
         {
           "id": "a17d6584-54b9-4121-b365-21127e2905f7",
-          "text": "El bloqueo de IL-1beta puede mejorar la evolución de pacientes con enfermedad cardiovascular.",
+          "text": "El bloqueo de IL-1β puede mejorar la evolución de pacientes con enfermedad cardiovascular.",
           "correct": true
         },
         {
@@ -9712,7 +9712,7 @@
         },
         {
           "id": "2bf59208-2ea4-4c19-ad5b-82cddd76bfc7",
-          "text": "El inflamasoma cliva la caspasa-1 para inhibir la forma activa de la IL-1beta e IL-18."
+          "text": "El inflamasoma cliva la caspasa-1 para inhibir la forma activa de la IL-1β e IL-18."
         },
         {
           "id": "5e4176f3-2cd8-4f45-ab28-221b02f777dc",
@@ -9965,7 +9965,7 @@
       "evaluation": "parcial_3",
       "source": "partial",
       "asked_at": "2019-10-19",
-      "text": "¿Cuál de las siguientes combinaciones de antibióticos e inhibidores de betalactamasas utilizaría para detectar una beta-lactamasa de espectro extendido (BLEE) en un antibiograma? Marque la opción correcta.",
+      "text": "¿Cuál de las siguientes combinaciones de antibióticos e inhibidores de beta-lactamasas utilizaría para detectar una beta-lactamasa de espectro extendido (BLEE) en un antibiograma? Marque la opción correcta.",
       "options": [
         {
           "id": "9b13f79d-ba1f-4f96-b398-e09090d2f7b9",
