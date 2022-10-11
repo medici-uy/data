@@ -8,6 +8,808 @@
   "year": 3,
   "questions": [
     {
+      "id": "bace1e3f-ad29-47f8-b4cf-e020b4aa9a64",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-08-24",
+      "text": "A continuación se muestra un experimento con plaquetas incubadas con distintas concentraciones de aspirina y luego colocadas en un agregómetro donde se adicionó ácido araquidónico (AA) a una concentración de 50 uM. ¿Cuál es el mecanismo molecular que está participando en este fenómeno?",
+      "image": "bace1e3f-ad29-47f8-b4cf-e020b4aa9a64.webp",
+      "options": [
+        {
+          "id": "26d62abf-7f55-4fec-8ccd-c4da03dbd18e",
+          "text": "El AA se transforma en tromboxano A2 dentro de la plaqueta.",
+          "correct": true
+        },
+        {
+          "id": "b3ae668f-2a35-43d7-b9e8-b0d4c20d30a8",
+          "text": "El AA estimula directamente la proteinquinasa C intraplaquetaria."
+        },
+        {
+          "id": "74f642c0-22f1-45cd-8a13-bd471f3141c4",
+          "text": "El AA se une a receptores específicos de la membrana plaquetaria que median su efecto pro-agregante."
+        },
+        {
+          "id": "e5d1adf4-b186-4ab7-a56d-a38aca2cb856",
+          "text": "En las condiciones con aspirina aumenta la formación de prostaciclina en las plaquetas."
+        },
+        {
+          "id": "f7fd8f68-db17-40e7-8b9a-fde3c505ea77",
+          "text": "La aspirina inhibe la fosfodiesterasa y aumenta la concentración de AMPc."
+        }
+      ]
+    },
+    {
+      "id": "ec66b360-7ca0-4796-b6ad-5c3d47c8ce81",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-08-24",
+      "text": "A un paciente se le realiza una electroforesis en acetato de celulosa de las proteínas plasmáticas obteniéndose los siguientes resultados. En base a los datos aportados podemos afirmar en forma correcta que:",
+      "image": "ec66b360-7ca0-4796-b6ad-5c3d47c8ce81.webp",
+      "options": [
+        {
+          "id": "6eb18f71-34b3-4f0d-9896-0ece120f6ad7",
+          "text": "En el paciente la concentración totales de proteínas plasmáticas es 9.25 g/dl.",
+          "correct": true
+        },
+        {
+          "id": "09b2b436-d068-4fa4-84ca-546e64655336",
+          "text": "En el paciente la relación albúmina/gama globulina es normal."
+        },
+        {
+          "id": "faefec05-a4fa-4174-b321-ca80cfda2611",
+          "text": "Los datos corresponden a una típica respuesta inflamatoria aguda."
+        },
+        {
+          "id": "b653a025-8914-4184-b116-2c115b14b1d7",
+          "text": "Los datos corresponden a una típica respuesta o reacción de fase aguda."
+        },
+        {
+          "id": "b4e2649a-27c6-466c-b0b5-f9e91cdf9f11",
+          "text": "No se puede determinar la concentración total de proteínas en el paciente."
+        }
+      ]
+    },
+    {
+      "id": "41ece7a6-c39e-44ea-9137-47714110ed9a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-08-24",
+      "text": "Ante la sospecha clínica de déficit de hierro, ¿qué exámenes, además del hemograma, debe solicitar para confirmar el diagnóstico? Marque lo correcto:",
+      "options": [
+        {
+          "id": "7a683c25-735e-4365-9e90-e3b373d73954",
+          "text": "Sideremia, índice de saturación de la transferrina, transferrina y ferritina sérica.",
+          "correct": true
+        },
+        {
+          "id": "7227d085-9321-4a36-bd2e-e5ed4bb2da4b",
+          "text": "Función renal y determinación de TSH en sangre para descartar otras causas de anemia."
+        },
+        {
+          "id": "21240ea6-595b-451e-8fac-6e3d40f6f2a2",
+          "text": "Reticulocitosis y mielograma."
+        },
+        {
+          "id": "4ebf8cdf-e2a3-4434-8184-c3b961bb478f",
+          "text": "Se solicita solamente el estudio de ferritina sérica."
+        },
+        {
+          "id": "63b73e19-4525-4035-92f5-557be2cc79a9",
+          "text": "Sideremia, ácido fólico y vitamina B12."
+        }
+      ]
+    },
+    {
+      "id": "7c5affa6-4efa-4628-9615-e17d9c8eef97",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-08-24",
+      "text": "Con respecto a la médula ósea del adulto normal, señale lo correcto:",
+      "options": [
+        {
+          "id": "635517b9-f560-463e-9010-6cc2f4769d7e",
+          "text": "La eritropoyesis es estimulada en respuesta a la hipoxia.",
+          "correct": true
+        },
+        {
+          "id": "b35bac82-4379-429e-a18a-b1b38631dde1",
+          "text": "En el adulto está presente a nivel distal en los huesos largos."
+        },
+        {
+          "id": "0cab1c1b-dab1-4365-9757-1f7a55a53eec",
+          "text": "Las células del estroma medular secretan eritropoyetina la cual estimula la maduración de los eritrocitos."
+        },
+        {
+          "id": "f593b11f-4624-4031-b583-e0b5f301cf65",
+          "text": "Los progenitores eritroides secretan eritropoyetina, la cual estimula la maduración de los eritrocitos."
+        }
+      ]
+    },
+    {
+      "id": "a772ca8b-10d5-4551-9cd4-d4de80970f21",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-08-24",
+      "text": "Con respecto a la presentación clínica de los trastornos de la hemostasia, marque lo correcto:",
+      "options": [
+        {
+          "id": "0108f223-2928-432e-88ca-4d92229ce31b",
+          "text": "Los defectos en la etapa vasculo-plaquetaria de la hemostasia característicamente se presentan con petequias y equimosis.",
+          "correct": true
+        },
+        {
+          "id": "82ce95ef-cac8-4397-92e8-77315cf4c9d8",
+          "text": "Las coagulopatías congénitas se manifiestan clínicamente antes del mes de vida."
+        },
+        {
+          "id": "b811afed-5e00-4a40-afb1-b9d241ec68b2",
+          "text": "Los defectos de la coagulación se presentan, característicamente, con petequias y equimosis."
+        },
+        {
+          "id": "577f3a67-31ec-40ba-82c1-ea052cd24f5f",
+          "text": "Los defectos en la etapa vasculo-plaquetaria de la hemostasia se presentan, característicamente, con hemartrosis y hematomas musculares."
+        }
+      ]
+    },
+    {
+      "id": "65fdc0d8-3a06-47f4-b3e0-0b53829b15cc",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-08-24",
+      "text": "Con respecto al proceso de la eritropoyesis, señale lo correcto:",
+      "options": [
+        {
+          "id": "0b805fcb-49ed-4d99-a410-3d71f5915df7",
+          "text": "La vitamina B12 y el ácido fólico son necesarios para que ocurra eficazmente.",
+          "correct": true
+        },
+        {
+          "id": "3ffeb2bd-29b6-4169-9a12-2c00315b87a3",
+          "text": "Algunas etapas ocurren a nivel del hígado."
+        },
+        {
+          "id": "931b3e45-b384-4f4f-8eb1-0c95afcc4cf4",
+          "text": "El reticulocito es el último elemento con capacidad mitótica."
+        },
+        {
+          "id": "f979fe29-09e9-4cc5-bdad-a0618dbfc644",
+          "text": "La síntesis de hemoglobina ocurre precozmente a nivel del proeritroblasto."
+        },
+        {
+          "id": "684e3456-bab4-4921-9951-feebf3dd6351",
+          "text": "La trombopoyetina es el principal regulador de este proceso."
+        }
+      ]
+    },
+    {
+      "id": "26788c41-6bb2-4a0c-a034-646d6a9a8d0e",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-08-24",
+      "text": "Con respecto al proceso de la granulopoyesis, señale lo correcto:",
+      "options": [
+        {
+          "id": "f3daba7d-a86c-4389-88b1-60fbfa605fe7",
+          "text": "El mielocito es el último elemento con capacidad mitótica.",
+          "correct": true
+        },
+        {
+          "id": "07378d7c-abe8-4ecd-8ba4-bab9c49edcd2",
+          "text": "Algunas etapas ocurren a nivel del bazo."
+        },
+        {
+          "id": "4455152b-fdd7-4ec1-b394-e235205170dc",
+          "text": "El metamielocito es el elemento más maduro que circula en sangre periférica."
+        },
+        {
+          "id": "352cabde-0b25-46e7-8a67-e8c784662258",
+          "text": "El neutrófilo segmentado es el primer elemento morfológicamente identificable en la médula ósea."
+        },
+        {
+          "id": "c67c33f1-edf6-430e-9223-d6029cfc739e",
+          "text": "Los neutrófilos presentan nucleolos y no contienen gránulos en su citoplasma."
+        }
+      ]
+    },
+    {
+      "id": "85989568-eb75-47ec-8dd3-d5fab8c72348",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-08-24",
+      "text": "Con respecto al proceso de la megacariopoyesis, señale lo correcto:",
+      "options": [
+        {
+          "id": "1a9e3dac-644d-4d04-80e1-e6b37a030c60",
+          "text": "Entre los factores que regulan este proceso, la trombopoyetina cumple un rol primordial.",
+          "correct": true
+        },
+        {
+          "id": "911f894c-1d00-48f0-81ad-f32cf90e8788",
+          "text": "La endomitosis es la fragmentación del citoplasma del megacariocito sin la correspondiente división nuclear."
+        },
+        {
+          "id": "a4c492aa-3827-4b56-9d4a-74005f36f065",
+          "text": "La granulogénesis ocurre a nivel de sangre periférica durante la maduración de las plaquetas."
+        },
+        {
+          "id": "da2bc330-c3c3-4c9e-a444-8c2418f6e892",
+          "text": "Las plaquetas son células con núcleo irregular y gránulos en su citoplasma que contienen sustancias bioactivas."
+        },
+        {
+          "id": "21e038cb-9a47-4725-9045-2ee5bfa47dde",
+          "text": "Lo megacariocitos son las células más pequeñas identificadas en la médula ósea."
+        }
+      ]
+    },
+    {
+      "id": "ed019111-51a0-4e05-8777-7e7a5b1dc4a2",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-08-24",
+      "text": "El 2,3-difosfoglicerato es uno de los principales moduladores de la hemoglobina. La unión de esta molécula a la hemoglobina provoca:",
+      "options": [
+        {
+          "id": "0fe0c4ee-1aa5-4bdd-858a-4e889dc22e6f",
+          "text": "Una estabilización de la conformación T con un decremento de la afinidad de la hemoglobina por el oxígeno.",
+          "correct": true
+        },
+        {
+          "id": "930de360-b29a-4d02-8c69-c5771a0cf9db",
+          "text": "Un descenso del P50 o (K0.5) de la hemoglobina."
+        },
+        {
+          "id": "e05a47f9-a363-493f-a8b7-93f9a141e567",
+          "text": "Un incremento de la afinidad de la hemoglobina por el oxígeno mediante la estabilización de la conformación R."
+        },
+        {
+          "id": "9176ce62-2e52-40ad-8fd2-2f89dc457102",
+          "text": "Una activación de la unión del oxígeno a la hemoglobina."
+        }
+      ]
+    },
+    {
+      "id": "aa1ae59d-a222-4ce1-926b-934afec23e22",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-08-24",
+      "text": "El hierro es un nutriente esencial y debe ser aportado en la dieta, sobre las características metabólicas de este metal, todas las afirmaciones son correctas excepto una, márquela:",
+      "options": [
+        {
+          "id": "d82cc512-aaed-476f-9aa4-124f56079411",
+          "text": "Se absorbe fundamentalmente como hierro férrico ya que así se encuentra en los nutrientes.",
+          "correct": true
+        },
+        {
+          "id": "1ccd1524-0d90-4c92-94cc-a916dec7fd29",
+          "text": "Aproximadamente las ¾ partes del contenido total de hierro del organismo se encuentra formando parte de hemoproteínas."
+        },
+        {
+          "id": "2fbd96ff-2287-4387-8bd1-862c44da820e",
+          "text": "El aporte mínimo requerido en la dieta de la mujer en etapa reproductiva es de 20 mg/día."
+        },
+        {
+          "id": "0d896189-5976-47e0-994c-39502aa531de",
+          "text": "La biodisponibilidad del hierro en los alimentos de origen animal es mayor que en los de origen vegetal."
+        },
+        {
+          "id": "82e53295-b1d9-40f4-9a3c-dd6028273486",
+          "text": "La cantidad de hierro absorbida está regulada a través de la expresión de la ferroportina en la membrana del enterocito."
+        }
+      ]
+    },
+    {
+      "id": "ea0612ed-2b28-47c1-8a1e-d8fd636b6ff1",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-08-24",
+      "text": "El tapón hemostático primario consiste en:",
+      "options": [
+        {
+          "id": "537e0279-58c3-4929-8b5e-bada9a144109",
+          "text": "Agregados plaquetarios.",
+          "correct": true
+        },
+        {
+          "id": "d6b03287-bfcd-4e29-9ae0-d7c5fdd87c1d",
+          "text": "Agregados de leucocitos, eritrocitos y fibrina."
+        },
+        {
+          "id": "90f3978c-ac56-42ed-ad2f-343deb8b5968",
+          "text": "Agregados leucocitarios y ertitrocitarios."
+        },
+        {
+          "id": "73f6a1f4-f9bf-4dd3-b4b0-7b1d3a7223fc",
+          "text": "Plaquetas más fibrina."
+        }
+      ]
+    },
+    {
+      "id": "b741d26c-a99a-4274-8712-030e41de7d5c",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-08-24",
+      "text": "En relación con la respuesta inmune primaria y la secundaria, indique lo correcto:",
+      "options": [
+        {
+          "id": "373a73c4-d51f-45b6-a290-cfb972eee027",
+          "text": "En la respuesta secundaria se observa la producción de anticuerpos con mayor afinidad por el antígeno con respecto a la respuesta primaria.",
+          "correct": true
+        },
+        {
+          "id": "eb73e95b-eced-4f91-905c-982dca952b59",
+          "text": "En la primaria predominan los anticuerpos de isotipo IgG mientras que en la secundaria los anticuerpos IgM."
+        },
+        {
+          "id": "d4fb14bd-d567-45aa-8b65-29d776402fb9",
+          "text": "Los antígenos de tipo proteico suelen producir respuestas inmunes primarias y secundarias muy similares."
+        },
+        {
+          "id": "a79410da-2780-41c6-b1f3-0e79d4c8e514",
+          "text": "Los carbohidratos inducen respuestas primarias con mayor producción de anticuerpos con respecto a la secundaria."
+        },
+        {
+          "id": "703b665c-f6b7-462d-8545-c8ffe5e6a061",
+          "text": "Una de las diferencias más importantes se observa en el grado de activación del sistema complemento."
+        }
+      ]
+    },
+    {
+      "id": "3bbeb8c5-a701-494f-bbb5-6e8f28b7a150",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-08-24",
+      "text": "Frente a un tiempo de coagulación alargado (PT o aPTT), cuál es la conducta a seguir:",
+      "options": [
+        {
+          "id": "69d1d17d-6a3d-4e8d-8ae5-e208442d79cb",
+          "text": "Realizar prueba de mezcla para determinar la presencia de déficit o inhibidores de la coagulación.",
+          "correct": true
+        },
+        {
+          "id": "86590753-097e-445d-818a-e2e35fefb44d",
+          "text": "Dosificación de los distintos factores de la coagulación."
+        },
+        {
+          "id": "d25de54e-cee4-4249-aa00-7e20aa250697",
+          "text": "No es importante el dato clínico en la boleta de solicitud."
+        },
+        {
+          "id": "6d599d81-77f5-40b4-ac55-53c1e1380fcd",
+          "text": "Solicitar dosificación de proteina C y S de la coagulación."
+        },
+        {
+          "id": "3b7d4ba4-b9ad-40f9-8eab-fe80cf6c7dae",
+          "text": "Solicitar el estudio de inhibidor lúpico."
+        }
+      ]
+    },
+    {
+      "id": "48996c1d-965b-47cb-8ff4-2a6dbebd791e",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-08-24",
+      "text": "Indique cuál de las enzimas que se presentan a continuación es necesaria para mantener reducido el glutatión (GS-H) en el eritrocito:",
+      "options": [
+        {
+          "id": "02a6845e-0a40-4a25-bf8e-21b2303451f0",
+          "text": "Glucosa-6-fosfato deshidrogenasa.",
+          "correct": true
+        },
+        {
+          "id": "abcda4ea-3f0c-4d97-9658-680fc27081bf",
+          "text": "2,3-difosfoglicerato mutasa."
+        },
+        {
+          "id": "e9bc0438-f7a3-479b-9e7e-ff358f8e25ed",
+          "text": "Gliceraldheído-3-fosfato deshidrogenasa."
+        },
+        {
+          "id": "3a60f618-40f9-4265-9f89-a47ddbe5bb33",
+          "text": "Glucosa-6 fosfatasa."
+        },
+        {
+          "id": "d47b9d64-52bf-4c21-adbc-df348ab90b19",
+          "text": "Piruvato quinasa."
+        }
+      ]
+    },
+    {
+      "id": "851b5124-5624-42fb-9070-444ef17ecc7f",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-08-24",
+      "text": "Indique cuál de los siguientes grupos químicos establece un enlace covalente con el Fe++ de la hemoglobina:",
+      "options": [
+        {
+          "id": "06b0be45-5063-44a1-8650-e949d8e4ac61",
+          "text": "El nitrógeno de los pirroles del anillo de porfirina.",
+          "correct": true
+        },
+        {
+          "id": "1a2b6387-76bc-4dfa-9d76-e7cc3425bbdc",
+          "text": "El fosfato del 2,3 difosfoglicerato."
+        },
+        {
+          "id": "03c8e0dd-0d96-40b1-8c02-dd181752bdb3",
+          "text": "El grupo SH de la cisteína de la hélice F de la cadena de globina."
+        },
+        {
+          "id": "05956f8c-58bd-49a9-a83e-6d5f413b6964",
+          "text": "El nitrógeno del grupo amino terminal de la hemoglobina."
+        },
+        {
+          "id": "d055d696-62e8-4a75-b8b9-e423a77593cc",
+          "text": "La llamada \"histidina distal\" de la hemoglobina."
+        }
+      ]
+    },
+    {
+      "id": "2ac35056-92dd-4c0d-a0c3-c079bb1ad95d",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-08-24",
+      "text": "Indique lo que espera observar en un animal con un sistema inmune sin linfocitos T:",
+      "options": [
+        {
+          "id": "183da591-f2a0-4946-942d-781b9af512b2",
+          "text": "Aumento de la susceptibilidad a infecciones por virus.",
+          "correct": true
+        },
+        {
+          "id": "a6b25a98-97f9-495b-a11a-b276e20d7d88",
+          "text": "Aumento de la actividad fagocítica por parte de los macrófagos."
+        },
+        {
+          "id": "f4c82d5d-ce9c-4015-8dad-ef238158bd16",
+          "text": "Aumento de la producción de anticuerpos con cadena pesada γ."
+        },
+        {
+          "id": "7ca61150-23ff-4057-bfdd-81c1c565d4a2",
+          "text": "Disminución de la susceptibilidad a infecciones por parásitos."
+        },
+        {
+          "id": "7db5e314-43f9-472a-8703-6b0ca3791247",
+          "text": "No se modifica la presencia de células con actividad citotóxica."
+        }
+      ]
+    },
+    {
+      "id": "d63e3dc2-c255-42cf-bd8d-fa682a3c81da",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-08-24",
+      "text": "La entrada de hierro al citosol celular transcurre a través de un mecanismo de endocitosis en el que participan las siguientes proteínas (señale la opción correcta):",
+      "options": [
+        {
+          "id": "80fc4ee0-7521-4af8-9008-9db4f3b00c92",
+          "text": "Transferrina, receptor de transferrina, DMT-1.",
+          "correct": true
+        },
+        {
+          "id": "d45fe989-20db-4010-b5ec-2aef20c41ed3",
+          "text": "Albúmina, ceruloplasmina."
+        },
+        {
+          "id": "1cc5891e-f1f4-4ed2-8a38-c01dbd507f65",
+          "text": "Ferroportina, hefastina, DMT-1."
+        },
+        {
+          "id": "c4cd80e3-6a2c-46a2-8a47-701bec16d816",
+          "text": "Receptor de transferrina, ferritina."
+        },
+        {
+          "id": "6bc484be-1690-48e1-befb-6f4db8522d37",
+          "text": "Transferrina, ferroportina."
+        }
+      ]
+    },
+    {
+      "id": "653b0256-5d86-41c1-b5a5-30d7f4891f27",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-08-24",
+      "text": "La enzima 5-aminolevulínico sintasa (ALA sintasa) presenta dos isoformas, la 1 y la 2.  Señale la opción correcta en relación a sus diferencias y/o similitudes:",
+      "options": [
+        {
+          "id": "8a6d3c32-5a6d-40b6-bbd5-df446c9cdc08",
+          "text": "La ALA sintasa 1 no presenta elementos IRE en su ARNm mientras que la ALA sintasa 2 presenta un elemento IRE en el extremo 5' del ARNm.",
+          "correct": true
+        },
+        {
+          "id": "f6da00c5-a26d-42d8-9044-55fd87ff8ad1",
+          "text": "La ALA sintasa 1 es una enzima mitocondrial y la ALA sintasa 2 es citosólica."
+        },
+        {
+          "id": "200053d3-0dd9-4225-a8ec-4b38a4a033bb",
+          "text": "La ALA sintasa 1 se expresa exclusivamente en los precursores eritroides y la ALA sintasa 2 en la mayoría de las células nucleadas."
+        },
+        {
+          "id": "6158f773-43df-4839-b4bb-c6b817371f91",
+          "text": "La ALA sintasa 1 y la 2 forman el mismo producto pero utilizan distintos sustratos."
+        }
+      ]
+    },
+    {
+      "id": "355e099a-2d56-47f7-be4a-f28185ca765c",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-08-24",
+      "text": "La heparina es una droga ampliamente utilizada para afectar la hemostasis. Señale la opción correcta sobre las características farmacológicas y/o el mecanismo de acción de la heparina:",
+      "options": [
+        {
+          "id": "86b37d15-76f3-4f7f-843d-edcf6ab874ea",
+          "text": "Acelera la inactivación de la trombina mediada por la antitrombina III.",
+          "correct": true
+        },
+        {
+          "id": "c372d85a-13a6-4ee0-83d7-08f7c4556e70",
+          "text": "Afecta la formación de residuos de gama-carboxiglutamato en los factores vitamina K dependientes."
+        },
+        {
+          "id": "303b1dcc-304d-49f3-9c65-f25b8f839809",
+          "text": "Como es un quelante de ion calcio, se puede utilizar tanto in vivo como in vitro."
+        },
+        {
+          "id": "faa795ce-6e0a-46f9-b512-75574687d419",
+          "text": "Debido a su mecanismo de acción, su efecto en los pacientes demora unos 5 días en detectarse."
+        },
+        {
+          "id": "6d2d6249-2448-44be-b01c-8dedb24a129b",
+          "text": "Se administra a los pacientes por vía oral."
+        }
+      ]
+    },
+    {
+      "id": "e4461a3b-9301-4907-be4e-9b3eae513836",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-08-24",
+      "text": "Los genes que codifican para las cadenas polipeptídicas de la proteína hemoglobina se caracterizan por:",
+      "options": [
+        {
+          "id": "ebcce74e-235d-486f-8ca1-aeac508f54b1",
+          "text": "Para sintetizar hemoglobina A o A1, se requiere la selección de clones de células que expresen los genes alfa y beta.",
+          "correct": true
+        },
+        {
+          "id": "3fb73512-a0f2-4338-b899-dd683a978269",
+          "text": "Hay igual número de genes que codifican para las cadenas tipo alfa que para las cadenas tipo beta."
+        },
+        {
+          "id": "ef4d2a9c-4363-4ab2-9bd9-99113e362c1e",
+          "text": "Los genes tipo alfa ζ (zeta) y tipo beta ε (épsilon) tienen una expresión baja en la etapa adulta."
+        },
+        {
+          "id": "cbb46caf-bc8c-4acf-8647-ddb26c97b90a",
+          "text": "Para sintetizar hemoglobina A2, se requiere la selección de clones de células que expresen los genes alfa y gama."
+        },
+        {
+          "id": "7b39c88b-0103-4183-a39e-52ba5fc288a3",
+          "text": "Todos los genes forman un grupo o cluster en el cromosoma 11."
+        }
+      ]
+    },
+    {
+      "id": "1c6da37e-a1e9-4157-b9e7-a601c5b2d8cd",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-08-24",
+      "text": "Se presenta a continuación una relación entre proteínas plasmáticas y función. Señale la opción correcta:",
+      "options": [
+        {
+          "id": "a268571e-1430-4e4c-998e-f53bfc213bd2",
+          "text": "α1-antiproteasa - inhibidor de serinoproteasas.",
+          "correct": true
+        },
+        {
+          "id": "600dc983-06fb-4929-9710-bd0be03c5862",
+          "text": "Albúmina - transporte de bilirrubina conjugada."
+        },
+        {
+          "id": "af4d2b69-a96c-4cd2-bd90-a44f45c89488",
+          "text": "Ceruloplasmina - transporte de hierro."
+        },
+        {
+          "id": "ae687e1d-2b0c-4e9f-af54-05db9160bc44",
+          "text": "Haptoglobina - transporte de hemo."
+        },
+        {
+          "id": "9e11bad4-a5ed-4574-add7-f87fdff9fe88",
+          "text": "Hemopexia - transporte de hemoglobina."
+        }
+      ]
+    },
+    {
+      "id": "b52f2a39-e071-4227-bbfd-6c911b79347c",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-08-24",
+      "text": "Una mujer se admite en el hospital con una coloración azulada (cianosis) en labios, mucosas y piel. La electroforesis en acetato de celulosa de la hemoglobina fue normal. En el hemograma se cuantifica una proporción de metahemoglobina de 33% (el porcentaje normal es menor al 1%). Al recibir tratamiento con ácido ascórbico la proporción de metahemoglobina baja a 5%. Con los datos aportados podemos afirmar en forma correcta que:",
+      "options": [
+        {
+          "id": "07cf9740-0fde-4a0e-8844-c0539bf4b675",
+          "text": "El caso se puede deber a un déficit de la enzima metahemoglobina reductasa eritrocitaria.",
+          "correct": true
+        },
+        {
+          "id": "7f48d12e-55ab-44e4-83ac-397752f57bf0",
+          "text": "El caso podría corresponder a una mutación en las cadenas beta de la hemoglobina con formación de HbS."
+        },
+        {
+          "id": "602f0999-545d-4412-b753-b6b3330974f7",
+          "text": "El caso se puede deber a un déficit genético de la enzima glucosa-6-fosfato deshidrogenasa eritrocitaria."
+        },
+        {
+          "id": "25e86c28-0f9d-4cb3-b16a-f96886ebf5bb",
+          "text": "El ácido ascórbico probablemente aumente la concentración de GS-H dentro de los eritrocitos que reduce el átomo de hierro a Fe2+ en la Hb."
+        },
+        {
+          "id": "d40708dd-a15a-4ca8-a0c4-f3c108badd12",
+          "text": "En el paciente no debería haber un déficit en la concentración de oxígeno tisular."
+        }
+      ]
+    },
+    {
+      "id": "d5bde8cc-0766-41ff-919f-b8d499112a16",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-08-24",
+      "text": "Una prolongación en crasis del tiempo de tromboplastina parcial activado (aPTT) aislado, con el resto de los parámetros normales puede observarse en:",
+      "options": [
+        {
+          "id": "9eb95878-9c9f-4988-b076-5b7b007d49ba",
+          "text": "Déficit del factor von Willebrand.",
+          "correct": true
+        },
+        {
+          "id": "4abe8d23-e1d2-4beb-b183-fedbe57a4dea",
+          "text": "Déficit de vitamina K."
+        },
+        {
+          "id": "29d74594-3fa4-43c6-a7ec-104e30ba616f",
+          "text": "Déficit del factor VII."
+        },
+        {
+          "id": "a5865534-65ea-4c8e-b2fe-7a97bf4b515c",
+          "text": "Plaquetopenias menores a 50x10^3/mL."
+        }
+      ]
+    },
+    {
+      "id": "307a8a3f-40fe-4352-be51-57141054291a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-08-24",
+      "text": "¿Cuál de los siguientes patrones hematimétricos corresponde al de una anemia ferropénica? (VCM: volumen corpuscular medio; ADE: ancho de distribución eritrocitaria). Valores normales de VCM 80 a 96 fL.",
+      "options": [
+        {
+          "id": "6fb18738-217a-4212-9b2f-114f5aa1ee37",
+          "text": "VCM menor de 78 fL, reticulocitosis baja, ADE alta.",
+          "correct": true
+        },
+        {
+          "id": "1645e763-c4c9-42c3-9d7f-03418886ff0d",
+          "text": "VCM mayor de 100 fL, reticulocitosis bajo, ADE alta."
+        },
+        {
+          "id": "b5c3224b-f008-4636-90f6-d1633c3ce8dc",
+          "text": "VCM mayor de 78 fL, reticulocitosis baja, ADE baja."
+        },
+        {
+          "id": "8d574b9e-dcd5-4819-98b4-9a25d68be2f5",
+          "text": "VCM menor de 100 fL, reticulocitosis alta, ADE alta."
+        }
+      ]
+    },
+    {
+      "id": "3db5c0ce-573e-4688-b3cf-b16b5e2f48aa",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-08-24",
+      "text": "¿Cuál es la causa más frecuente de ferropenia en un hombre adulto procedente de un país desarrollado?",
+      "options": [
+        {
+          "id": "c2620c9f-81b5-4cb7-88ae-af9cdc0d358f",
+          "text": "Pérdida sanguínea crónica.",
+          "correct": true
+        },
+        {
+          "id": "0b0a897b-d82d-4ef3-8a31-e1128825b5b5",
+          "text": "Deficiencia dietética."
+        },
+        {
+          "id": "503fea28-bcda-487c-ba0f-8c807db879f7",
+          "text": "Enfermedad celíaca."
+        },
+        {
+          "id": "702202a6-4b97-46f1-be05-1a663d87a98d",
+          "text": "Incremento de los requerimientos de hierro."
+        }
+      ]
+    },
+    {
+      "id": "63c23912-1407-4964-be39-c669b3dc8e25",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-08-24",
+      "text": "¿Cúal de los siguientes procesos, no es parte de la hemostasis primaria?",
+      "options": [
+        {
+          "id": "d914d7fa-3605-4c42-a22f-bf7f8d2087a5",
+          "text": "Formación de fibrina.",
+          "correct": true
+        },
+        {
+          "id": "63b70916-754e-4126-a50d-4a22b9c2fd02",
+          "text": "Adhesión plaquetaria."
+        },
+        {
+          "id": "bd99ad8a-013d-4799-ae75-eec77dfb4600",
+          "text": "Agregación plaquetaria."
+        },
+        {
+          "id": "07dbe15e-5948-41fb-a893-eaaa0f7950e5",
+          "text": "Vasoconstricción."
+        }
+      ]
+    },
+    {
+      "id": "257a1335-d113-4038-ac58-e9e5d875f5fa",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-08-24",
+      "text": "¿Qué es el ancho de distribución eritrocitaria (ADE)?",
+      "options": [
+        {
+          "id": "bd5fe4ab-b265-450d-ae4b-96ec96c19356",
+          "text": "Parámetro que se relaciona con la anisocitosis en la lámina periférica.",
+          "correct": true
+        },
+        {
+          "id": "d72e1f7a-40a3-46b5-b937-a592b7fcc184",
+          "text": "Mide el tamaño promedio de los eritrocitos."
+        },
+        {
+          "id": "96ba1066-b1f5-4375-ae88-f63eec8e11ee",
+          "text": "Mide la cantidad de Hb de los eritrocitos."
+        },
+        {
+          "id": "f5d5b3ad-9a8e-4ee3-b365-f7dcb2c8a841",
+          "text": "Mide la concentración de Hb que tienen los eritrocitos."
+        },
+        {
+          "id": "8662fe24-ccaf-4f28-8369-00e1c69bda73",
+          "text": "Porcentaje de eritrocitos en relación al volumen sanguíneo."
+        }
+      ]
+    },
+    {
+      "id": "5e799d45-d8f9-4bd8-b622-c29d7a7d80f9",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-08-24",
+      "text": "¿Qué mide el valor del hematocrito, incluido en el hemograma?",
+      "options": [
+        {
+          "id": "90c94ed4-660a-4fae-b689-c3a3946e98f9",
+          "text": "El porcentaje del volumen de toda la sangre que está compuesta por eritrocitos.",
+          "correct": true
+        },
+        {
+          "id": "1b69d8a9-1f6f-43fa-bd25-54beeb76d598",
+          "text": "El porcentaje del volumen de toda la sangre que está compuesta por las células nucleadas."
+        },
+        {
+          "id": "4e026013-6d98-4426-aed3-cf5d112bccd1",
+          "text": "El porcentaje del volumen de toda la sangre que está compuesta por todas las células (leucocitos + plaquetas + eritrocitos)."
+        },
+        {
+          "id": "8ceee891-c350-4622-85d1-f9d276888efa",
+          "text": "El tamaño de los eritrocitos."
+        }
+      ]
+    },
+    {
       "id": "cb7baf97-2e31-4327-8dec-bd8485f6d660",
       "evaluation": "parcial_1",
       "source": "partial",
