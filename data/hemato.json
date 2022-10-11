@@ -1,9 +1,823 @@
 {
   "name": "Hematología e Inmunología",
   "short_name": "Hemato",
-  "aliases": ["hemato", "inmuno"],
+  "aliases": [
+    "hemato",
+    "inmuno"
+  ],
   "year": 3,
   "questions": [
+    {
+      "id": "cb7baf97-2e31-4327-8dec-bd8485f6d660",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-08-24",
+      "text": "A continuación se analiza el efecto de una mutación en la proteína ferroportina comparando con la proteína nativa (Wt). ¿Qué conclusión sobre el efecto de la mutación en la ferroportina se puede extraer de los datos aportados?",
+      "image": "cb7baf97-2e31-4327-8dec-bd8485f6d660.webp",
+      "options": [
+        {
+          "id": "ef81824a-5fe2-46ad-81cb-cf066aff44a0",
+          "text": "La mutación no permite la degradación de la ferroportina inducida por la hepcidina.",
+          "correct": true
+        },
+        {
+          "id": "5c3fb7e6-543f-438a-bd69-f998e05dab5f",
+          "text": "Esta mutación en la ferroportina induciría anemia microcítica en el paciente."
+        },
+        {
+          "id": "c7a17aed-6169-4a35-8a51-2b48f930995a",
+          "text": "La ferroportina mutada no reconoce a la hepcidina."
+        },
+        {
+          "id": "e6870dcd-bacc-48a3-90e0-9aefa75b94ea",
+          "text": "La mutación en la ferroportina impide que esta transporte el Fe2+ fuera de las células."
+        },
+        {
+          "id": "a07d4b32-d25c-486c-9c05-054e2407c363",
+          "text": "Probablemente la saturación de la transferrina en el mutante de ferroportina es baja."
+        }
+      ]
+    },
+    {
+      "id": "8f33b5d0-ed39-4b5a-beed-48a22339b435",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-08-24",
+      "text": "A continuación se muestra los espectros de absorción de la hemoglobina cuando se hace reaccionar con nitrito de sodio, las flechas muestran la dirección del tiempo. Señale la opción correcta en relación a estas gráficas:",
+      "image": "8f33b5d0-ed39-4b5a-beed-48a22339b435.webp",
+      "options": [
+        {
+          "id": "a6ac660d-4733-486c-8fdc-2be2e1c64592",
+          "text": "El punto inicial de este experimento es la oxihemoglobina.",
+          "correct": true
+        },
+        {
+          "id": "31021aad-ef5e-4a3b-b759-190319e5bba9",
+          "text": ""
+        },
+        {
+          "id": "95b145b8-a6d9-4c42-93ab-5d8a89e995f5",
+          "text": "El nitrito promueve la formación de desoxihemoglobina."
+        },
+        {
+          "id": "d532c389-9238-410c-9fed-57caddd16495",
+          "text": "El punto inicial de este experimento es la metahemoglobina."
+        },
+        {
+          "id": "ada47974-c16d-459a-ac57-6e8df7c18ee1",
+          "text": "En los distintos espectros se observa la banda de Soret característica de las porfirinas."
+        }
+      ]
+    },
+    {
+      "id": "5f49d29b-07b9-45bf-a35e-a2174a779e4c",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-08-24",
+      "text": "Con respecto a la hemostasia primaria, señale la opción correcta:",
+      "options": [
+        {
+          "id": "0e4a56a6-ed7b-4e99-9d32-4700635265cb",
+          "text": "El colágeno es un agonista plaquetario potente, que interacciona con diferentes receptores en la superficie plaquetaria.",
+          "correct": true
+        },
+        {
+          "id": "b861c824-6a2b-487c-9b69-41c32316582c",
+          "text": "El óxido nítrico interacciona con glicoproteínas de membrana de la plaqueta, conduciendo a la síntesis de tromboxano A2."
+        },
+        {
+          "id": "034f2a1e-d793-4cc1-8e9b-fbd9a1477f95",
+          "text": "La trombina interacciona con la glicoproteína IIb/IIIa promoviendo la agregación plaquetaria."
+        },
+        {
+          "id": "01f8bb28-fce3-43b4-ae7f-6db4646c7078",
+          "text": "Las plaquetas activadas producen prostaciclina (PGI2)."
+        },
+        {
+          "id": "3a47c3ae-0ca9-4574-a67a-31f9ae510a0c",
+          "text": "Los agonistas plaquetarios producen incrementos en la concentración celular de AMPc."
+        }
+      ]
+    },
+    {
+      "id": "f0fa0a87-57e6-4096-b995-7d8b4a17de67",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-08-24",
+      "text": "Con respecto al proceso de la granulopoyesis, señale lo correcto:",
+      "options": [
+        {
+          "id": "9d9a7ad7-572a-472f-8661-d516172ced08",
+          "text": "Se inicia a partir de un progenitor común mieloide (CMP).",
+          "correct": true
+        },
+        {
+          "id": "b63a0fc2-9c6f-4c70-b0f2-3556b2865e90",
+          "text": "Algunas etapas ocurren a nivel de la región para-aortica."
+        },
+        {
+          "id": "fd529eff-847e-4efa-9c17-c37af01eac02",
+          "text": "El metamielocito es el elemento más maduro que circula en sangre periférica."
+        },
+        {
+          "id": "78609558-fcd9-43d1-9c8e-e2754485bc19",
+          "text": "El neutrófilo es el primer elemento con capacidad mitótica."
+        },
+        {
+          "id": "15e6601c-9d41-45bf-a5de-d5eb4cae92f0",
+          "text": "Se inicia en zonas de tejido linfoide asociado a mucosas (MALT)."
+        }
+      ]
+    },
+    {
+      "id": "f608f20d-4dd0-4b47-ad78-d07e2df136c2",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-08-24",
+      "text": "Con respecto al tiempo de protrombina y su determinación, señale la opción correcta:",
+      "options": [
+        {
+          "id": "23186806-5a22-40e2-9b6b-fcdb851c6bf5",
+          "text": "De esta determinación surge el INR para el control de tratamiento de pacientes con anticoagulantes anti-vitamina K (por ejemplo warfarina).",
+          "correct": true
+        },
+        {
+          "id": "0b33205d-54f3-4911-8884-742b9fe8a111",
+          "text": "Es un parámetro incluido dentro del hemograma."
+        },
+        {
+          "id": "2d8027db-68f7-4dcb-9577-23ce97855af1",
+          "text": "No se ve afectado por la presencia de coágulos en lamuestra."
+        },
+        {
+          "id": "10143418-aa4d-4d05-98ba-93a2b0e5e6f2",
+          "text": "Sirve para el control y seguimiento de pacientes bajo tratamiento con anticoagulantes orales directos (por ejemplo dabigatrán)."
+        },
+        {
+          "id": "135356bf-fb7a-4226-b56a-3bae58a0189c",
+          "text": "Su prolongación refleja una alteración en los factores de la vía intrínseca."
+        }
+      ]
+    },
+    {
+      "id": "4480620a-becc-417b-ba88-1643012d4964",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-08-24",
+      "text": "Considerando los diferentes genes que codifican para globinas:",
+      "image": "4480620a-becc-417b-ba88-1643012d4964.webp",
+      "options": [
+        {
+          "id": "abf24ec1-40c1-4144-8fe4-654203a2cb18",
+          "text": "La expresión de los genes γG (gammaG) y γA (gammaA) se encuentra mayoritariamente reprimida en adultos normales.",
+          "correct": true
+        },
+        {
+          "id": "d66ce27e-6eb6-4dee-96b3-45310340ab16",
+          "text": "En el adulto, los sitios principales de síntesis de globina son el hígado y el bazo."
+        },
+        {
+          "id": "25ad01f3-ea5e-4dba-b3b3-f3d6fc6d23ec",
+          "text": "La hemoglobina S posee dos cadenas polipeptídicas codificadas por el pseudogen Ψβ1 y dos cadenas alfa."
+        },
+        {
+          "id": "6c186419-7308-4011-95a4-910ef05bb7d2",
+          "text": "La hemoglobina mayoritaria del adulto, HbA, posee dos cadenas polipeptídicas codificadas por los genes α2 (alfa2) y otras dos por los genes α1 (alfa1)."
+        }
+      ]
+    },
+    {
+      "id": "eeb3a790-17ea-41d7-a71c-4195e6bbc2ee",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-08-24",
+      "text": "Durante la eritropoyesis, ¿cuál es la última célula con capacidad de mitosis?",
+      "options": [
+        {
+          "id": "e9031dc9-871e-4372-b1e7-6968a51598df",
+          "text": "Eritroblasto policromatófilo.",
+          "correct": true
+        },
+        {
+          "id": "2499064a-5d42-411e-b7c6-8a42fd048293",
+          "text": "Eritroblasto basófilo."
+        },
+        {
+          "id": "708f38af-ea2d-4709-8fe1-42b98de76985",
+          "text": "Linfoblasto eritroide."
+        },
+        {
+          "id": "24a52c1c-349d-4d5e-8130-9c60d228ba61",
+          "text": "Proeritroblasto."
+        },
+        {
+          "id": "61c429af-d36e-4a80-9988-7041c7355afa",
+          "text": "Reticulocito."
+        }
+      ]
+    },
+    {
+      "id": "9b941097-1099-4b3a-970d-1ad23cee39be",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-08-24",
+      "text": "El grupo hemo constituye la principal porfirina natural en el ser humano y es esencial para la función de diversas proteínas, como la hemoglobina y los citocromos. Acerca del metabolismo de dicha molécula, indique la opción correcta:",
+      "options": [
+        {
+          "id": "9a75c405-9b94-4bf5-8944-d2e6db2a4263",
+          "text": "La oxidación del grupo hemo por acción de la hemo-oxigenasa requiere de NADPH y O2, generando como productos biliverdina, CO y Fe2+.",
+          "correct": true
+        },
+        {
+          "id": "d6208143-fcfc-4e10-a6c8-bb1d2f9ee370",
+          "text": "El grupo de trastornos ocasionado por anormalidades de la vía de biosíntesis del grupo hemo se conoce como hemofilias, y puede tener causas tanto genéticas como adquiridas."
+        },
+        {
+          "id": "e08b4913-dd9f-4db1-90a4-1113a558c0e5",
+          "text": "El principal producto final de degradación del grupo hemo es la bilirrubina, que es eliminado principalmente en la orina luego de su conjugación con ácido glucurónico."
+        },
+        {
+          "id": "49453db9-a145-4e13-b9d5-665480bcd5e8",
+          "text": "La condensación de 4 moléculas de porfobilinógeno genera un tetrapirrol lineal que luego se transforma en el tetrapirrol cíclico uroporfirinógeno III, un compuesto que tiene color."
+        },
+        {
+          "id": "9dceb9b7-ba6d-4b8f-95ee-cc8f992e785c",
+          "text": "La síntesis del grupo hemo puede ocurrir en cualquier célula nucleada a partir de los precursores glutamato y acetil-CoA."
+        }
+      ]
+    },
+    {
+      "id": "594adf9a-7e2d-4677-bf0e-07e84150616e",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-08-24",
+      "text": "En cuanto a la concentración de hemoglobina, señale la opción correcta:",
+      "options": [
+        {
+          "id": "e43a6195-f301-43d3-8054-e825c3819f81",
+          "text": "Define la presencia de anemia y su severidad.",
+          "correct": true
+        },
+        {
+          "id": "ee95641d-9f1d-4495-9545-4f692b7c7827",
+          "text": "Establece el carácter regenerativo/arregenerativo de una anemia."
+        },
+        {
+          "id": "fee1733c-cb3f-4c53-9762-1af159a1f865",
+          "text": "Los rangos de referencia son independientes a la edad y sexo delpaciente."
+        },
+        {
+          "id": "e80729ed-183b-4bd9-a31f-c36b069d1d1e",
+          "text": "Se determina por método coagulométrico automatizado."
+        },
+        {
+          "id": "ce365dcd-0c7d-40a9-961c-708ec3605eb0",
+          "text": "Un valor por debajo de 13 g/dl define anemia en una mujer embarazada."
+        }
+      ]
+    },
+    {
+      "id": "e3b1fe12-f473-47e8-94f8-5a7bb16df11a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-08-24",
+      "text": "En cuanto al estudio de crasis básica, marque la opción correcta:",
+      "options": [
+        {
+          "id": "c5c6fd4a-c0c9-4e64-90c3-0af9a37e16a6",
+          "text": "La relación volumen de muestra/anticoagulante debe ser respetada (enrase crítico).",
+          "correct": true
+        },
+        {
+          "id": "d2cf932a-d20e-4d6e-9bc7-1db5cdf2c0cb",
+          "text": "La muestra puede conservarse a temperatura ambiente hasta por 3 días previo a su procesamiento."
+        },
+        {
+          "id": "25b60bad-567c-42cd-ac72-5a9749b9a8c1",
+          "text": "La presencia de un coágulo pequeño en la muestra no altera el resultado."
+        },
+        {
+          "id": "86c540a9-1326-4fc2-aba7-714b2e08bc57",
+          "text": "Los resultados no se ven afectados por los anticoagulantes orales directos."
+        },
+        {
+          "id": "0d4215b4-bbb6-46a5-9c61-374a80a11979",
+          "text": "Valora la funcionalidad de las plaquetas."
+        }
+      ]
+    },
+    {
+      "id": "9c3a7217-19a7-4f31-b64f-b20bcb9d3bf1",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-08-24",
+      "text": "En la etapa embrionaria temprana la hematopoyesis ocurre en:",
+      "options": [
+        {
+          "id": "58f84d54-900b-406c-b5df-92267f3bc8cf",
+          "text": "El saco vitelino y sectores para-aórticos.",
+          "correct": true
+        },
+        {
+          "id": "694e2576-b4ff-4072-9b50-cd81fc7ae11e",
+          "text": "El esqueleto axial y el bazo."
+        },
+        {
+          "id": "0e4fbc7b-fc9b-437e-9237-e69a5b2b2183",
+          "text": "El esqueleto axial y el hígado."
+        },
+        {
+          "id": "28046cdc-1a32-40b9-8865-840ac0486bd1",
+          "text": "El saco vitelino y esqueleto axial."
+        },
+        {
+          "id": "54651027-05f4-4b7d-90d2-21686e327631",
+          "text": "Las diáfisis de huesos largos."
+        }
+      ]
+    },
+    {
+      "id": "b800142d-0910-4f17-a400-402f8179bab7",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-08-24",
+      "text": "En referencia al recuento plaquetario automatizado marque la opción correcta:",
+      "options": [
+        {
+          "id": "aacfbd77-03df-4f72-876f-bd3ec6cd4929",
+          "text": "Debe realizarse a partir de sangre anticoagulada con EDTA, ya que es el quemejor conserva la morfología celular.",
+          "correct": true
+        },
+        {
+          "id": "66801357-b8f1-4d9b-acb1-d8f167d38f32",
+          "text": "Debe realizarse a partir de sangre sin anticoagulante."
+        },
+        {
+          "id": "54c17872-22d5-46c0-9d78-f6041ef50851",
+          "text": "El método de elección es la agregación plaquetaria con distintos inductores."
+        },
+        {
+          "id": "ce9d860e-834a-4262-8eb1-0bb10fa1bbb3",
+          "text": "Recuentos mayores a 150.000/mm3 descartan alteraciones en la funcionalidad plaquetaria."
+        },
+        {
+          "id": "7406b4d8-9bcf-4dac-9e57-7b8d056f09d6",
+          "text": "Requiere un ayuno estricto de 8 a 12 horas."
+        }
+      ]
+    },
+    {
+      "id": "9218f832-2e58-4f4e-bbb7-b78223cdfea5",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-08-24",
+      "text": "En relación a la eliminación de CO2 señale la opción correcta:",
+      "options": [
+        {
+          "id": "bf24d840-e362-4f90-abee-252717aeb674",
+          "text": "En cada ciclo circulatorio se transporta 10-20% de CO2 como carbamino-Hb y el resto como CO2/HCO3- en el plasma.",
+          "correct": true
+        },
+        {
+          "id": "56bfecea-5119-49e9-8c92-8a4365723bab",
+          "text": "50% del CO2 eliminado en cada ciclo circulatorio es transportado en la hemoglobina en forma de carbamatos."
+        },
+        {
+          "id": "3021fc05-6f17-4ebb-9842-3a0a7a8bddb7",
+          "text": "El anhídrido carbónico se une a la hemoglobina formando carbamatos con los extremos carboxilo terminales de las globinas."
+        },
+        {
+          "id": "2ccee0db-6aa3-4fc4-8e89-f90c2a91ff0f",
+          "text": "El dióxido de carbono tiene mayor afinidad que el oxígeno por su sitio de unión."
+        },
+        {
+          "id": "add82534-6b03-4918-a01a-985b1027f50e",
+          "text": "El principal efecto del monóxido de carbono es la disminución de la afinidad de la hemoglobina por el CO2."
+        }
+      ]
+    },
+    {
+      "id": "c58a43e0-408b-4640-b0bf-e2194d082c06",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-08-24",
+      "text": "En relación a la valoración del status férrico existen diferentes estudios de laboratorio de utilidad. Marque la opción correcta:",
+      "options": [
+        {
+          "id": "0a036157-1465-4b73-8f74-915975e0ee41",
+          "text": "El porcentaje de glóbulosrojos hipocrómicos evalúa el estado de hemoglobinización de los eritrocitos en los últimos 120 días.",
+          "correct": true
+        },
+        {
+          "id": "9d26d359-5c6c-4084-8827-8bab540ab985",
+          "text": "El porcentaje de glóbulos rojos hipocrómicos se ve alterado en respuesta a procesos inflamatorios crónicos, resultando un reactante de fase aguda."
+        },
+        {
+          "id": "da8f6f0a-6da2-4e04-9038-3f939585e537",
+          "text": "La sideremia es el analito que mejor refleja la disponibilidad de hierro parala eritropoyesis."
+        },
+        {
+          "id": "7e083a1d-a12f-4c0e-83fa-f0ea890bffd3",
+          "text": "La transferrina es un indicador de los depósitos de hierro en el organismo."
+        },
+        {
+          "id": "b013bc80-907b-4ebf-b783-870225e82bcb",
+          "text": "Un valor de ferritina normal descarta ferropenia como causa de anemia."
+        }
+      ]
+    },
+    {
+      "id": "a7e07ee6-044d-4a86-82f1-d83b1b4b4573",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-08-24",
+      "text": "En un paciente con anemia ferropénica es posible encontrar un hemograma con las siguientes características: hemoglobina (Hb), volumen corpuscular medio (VCM), hemoglobina corpuscular media (HCM), ancho de distribución eritrocitario (ADE):",
+      "options": [
+        {
+          "id": "b2ccfce9-7346-4302-9e55-3f05d579014d",
+          "text": "Hb descendida, VCM descendido, HCM descendido, ADE aumentado.",
+          "correct": true
+        },
+        {
+          "id": "a7448b00-77db-4ec4-aa15-114b2af646db",
+          "text": "Hb aumentada, VCM normal, HCM normal, ADE aumentado."
+        },
+        {
+          "id": "d572b318-d83b-41b3-85c0-2c82a9fa2d05",
+          "text": "Hb descendida, VCM aumentado, HCM aumentado, ADE aumentado."
+        },
+        {
+          "id": "58d48c38-9ece-4ad8-8fb3-c023c75058ae",
+          "text": "Hb descendida, VCM normal, HCM normal, ADE aumentado."
+        },
+        {
+          "id": "6a6e8445-96b8-4073-8c2f-ec49c1ba879c",
+          "text": "Hb normal, VCM descendido, HCM descendido, ADE normal."
+        }
+      ]
+    },
+    {
+      "id": "7f16f3a3-49c3-4712-b793-4cca5ba84a7a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-08-24",
+      "text": "La cascada de coagulación sanguínea es un proceso que tiene como punto final la formación del coágulo de fibrina. Sobre este proceso, señale la opción correcta:",
+      "options": [
+        {
+          "id": "2fa61656-58be-41e9-8501-e4a866762c47",
+          "text": "La trombina, además de convertir el fibrinógeno en fibrina, se encarga de convertir al factor XIII en su forma activa, factor XIIIa.",
+          "correct": true
+        },
+        {
+          "id": "015291b7-fc6b-43b4-9b7d-3d822557a990",
+          "text": "El activador del plasminógeno tisular (tPA) es una serino proteasa cuyo rol es la degradación directa de la fibrina, disolviendo así el coágulo."
+        },
+        {
+          "id": "3168b2cf-2602-4887-ba09-b88e8df8f1b9",
+          "text": "El factor X activado (Xa) es el encargado de convertir el fibrinógeno a fibrina gracias a su actividad serino proteasa."
+        },
+        {
+          "id": "b8d24f5c-6e63-40db-a583-ca55773f7df5",
+          "text": "La síntesis de residuos de γ-carboxiglutamato en diversos factores de coagulación es un proceso dependiente de vitamina A necesario para la correcta activación de dichos factores."
+        },
+        {
+          "id": "41a49b93-4f53-4e7e-8f02-4800037bc842",
+          "text": "Puede ocurrir mediante dos vías (extrínseca e intrínseca) que son completamente independientes y no guardan ningún tipo de conexión."
+        }
+      ]
+    },
+    {
+      "id": "7f430edd-6c9e-4419-85db-15dc0c92ca77",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-08-24",
+      "text": "La eritropoyetina es producida principalmente por:",
+      "options": [
+        {
+          "id": "f13e6525-3aca-463f-9ddd-ba7889572a09",
+          "text": "Células intersticiales peritubulares renales.",
+          "correct": true
+        },
+        {
+          "id": "0142a6b0-9ab7-49e2-9112-138b371ad9c4",
+          "text": "Células epiteliales del intestino."
+        },
+        {
+          "id": "37a7c7a3-a242-4084-9cf2-0df4437e63b0",
+          "text": "Células madres."
+        },
+        {
+          "id": "2e87e32e-b40e-40df-9325-626493cc29da",
+          "text": "Hepatocitos."
+        },
+        {
+          "id": "5d0771bb-06a3-459a-bf3d-d79e957d7254",
+          "text": "Pro-eritroblastos."
+        }
+      ]
+    },
+    {
+      "id": "9156163a-e1b9-41e7-849f-b3e7c2e0e05f",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-08-24",
+      "text": "La hematopoyesis normal en la etapa adulta ocurre en:",
+      "options": [
+        {
+          "id": "00baee4f-f3de-403c-87c1-d8c1d8ab7da0",
+          "text": "El esqueleto axial.",
+          "correct": true
+        },
+        {
+          "id": "4f65277d-a802-4e18-bdb6-0199c3efc66c",
+          "text": "El esqueleto axial y el bazo."
+        },
+        {
+          "id": "f9c302c6-a3ff-4da9-8e77-56737fea955a",
+          "text": "El esqueleto axial y el hígado."
+        },
+        {
+          "id": "0eef92ba-7acb-452e-a76b-6d620d1cb44e",
+          "text": "Las diáfisis de huesos largos y el hígado."
+        },
+        {
+          "id": "4eb4277a-51c0-4942-bd83-0b44fb394193",
+          "text": "Las diáfisis de huesos largos."
+        }
+      ]
+    },
+    {
+      "id": "f353723b-7dff-472a-8edb-3f3f44f8c074",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-08-24",
+      "text": "La principal función de la glutatión peroxidasa del glúbulo rojo es:",
+      "options": [
+        {
+          "id": "c98f7aa0-a053-44ce-a5cf-e41da3d2e2bd",
+          "text": "Convertir al H2O2 en agua.",
+          "correct": true
+        },
+        {
+          "id": "2c15d725-7312-4721-965a-9450340d3edb",
+          "text": "Convertir al O2- en H2O2."
+        },
+        {
+          "id": "a3f38ed8-c783-4975-b66c-906b71f1975d",
+          "text": "Convertir al O2- en agua."
+        },
+        {
+          "id": "ab8f2474-9ea3-41ae-b707-a21af7fc2c0f",
+          "text": "Mantener oxidados los puentes disulfuro de la hemoglobina."
+        },
+        {
+          "id": "a45bfd35-28c6-437c-9c49-5221e1cb9dd0",
+          "text": "Mantener reducidos los puentes disulfuro de la hemoglobina."
+        }
+      ]
+    },
+    {
+      "id": "93ca2ef9-aec1-43d4-96dd-0fd182edd4d4",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-08-24",
+      "text": "La sustitución de un glutamato por una valina en la hemoglobina S determina la agregación en largos filamentos de las moléculas de hemoglobina debido a que, en el estado desoxi, las mismas interactúan entre sí mediante enlaces:",
+      "options": [
+        {
+          "id": "4a3a977a-1b47-40c3-ac48-0dd3e1827c98",
+          "text": "Hidrofóbicos.",
+          "correct": true
+        },
+        {
+          "id": "ebb17c0d-4519-4ae7-bd1a-ad8480db469f",
+          "text": "Covalentes."
+        },
+        {
+          "id": "17e571f6-bdbf-46bd-8b0a-e765b372a1ab",
+          "text": "Disulfuros."
+        },
+        {
+          "id": "6396b719-d671-4dd3-9034-865f751f9597",
+          "text": "Iónicos."
+        },
+        {
+          "id": "023ec6ac-9207-4104-b2e2-e1d5de3af697",
+          "text": "Puntes de hidrógeno."
+        }
+      ]
+    },
+    {
+      "id": "937a8da6-8207-48dc-bfa2-f3fc1d6dd7db",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-08-24",
+      "text": "Se generó una cepa de ratón knockout para la proteína talina (-/-) y se analizó la unión de fibrinógeno las plaquetas de estos ratones en comparación con los ratones salvajes (+/+). Las plaquetas se expusieron a ADP, ADP/U46 y CRP. Siendo U46 un análogo del tromboxano A2 y CRP péptidos derivados del colágeno. ¿Qué conclusión se pueden sacar de estos datos?",
+      "image": "937a8da6-8207-48dc-bfa2-f3fc1d6dd7db.webp",
+      "options": [
+        {
+          "id": "b310fab6-ec8f-4d76-930e-568996ea48c0",
+          "text": "En los ratones knockout para talina no se activa la formación del receptor GP IIb/IIIa inducida por los agonistas utilizados.",
+          "correct": true
+        },
+        {
+          "id": "ff64a401-edf5-4162-8d71-e1273cfebf93",
+          "text": "El ADP y el análogo del tromboxano A2 activan el mismo receptor en la superficie de las plaquetas."
+        },
+        {
+          "id": "de5e58ef-ba18-47bf-ab4b-516575c4aa8c",
+          "text": "El fibrinógeno es capaz de actuar como agonista plaquetario en los ratones control y no en los ratones knockout para la talina."
+        },
+        {
+          "id": "0bdfd301-a1c1-499c-aad1-3edf2bfc2efd",
+          "text": "En los ratones knockout para talina se inhibe la coagulación y por tanto la formación de fibrina asociada a las plaquetas."
+        },
+        {
+          "id": "6c719eb5-8c3a-4e95-aa58-c6b2d6fd4776",
+          "text": "En los ratones knockout para talina se inhibe la coagulación y por tanto la unión del fibrinógeno a las plaquetas."
+        }
+      ]
+    },
+    {
+      "id": "046fe726-6ce3-4bd0-92d8-aab7298e9fde",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-08-24",
+      "text": "Señale cuál de las siguientes corresponde a propiedades de las células madre o tronco hematopoyéticas:",
+      "options": [
+        {
+          "id": "fe31388e-2605-4696-8140-23ee0c1a8ab0",
+          "text": "Es indiferenciada.",
+          "correct": true
+        },
+        {
+          "id": "5f6e296c-9628-4a10-8494-15a743919e03",
+          "text": "Es totipotente."
+        },
+        {
+          "id": "3dc9f665-bd92-41f4-96db-7c1966890983",
+          "text": "La mayoría están en sangre periférica."
+        },
+        {
+          "id": "0a83a8a3-d0b2-44b5-8f0b-6c4d9bddf528",
+          "text": "Se cuantifican en el hemograma."
+        },
+        {
+          "id": "c0d732d2-c440-43f4-9cb5-dc39d99660a3",
+          "text": "Se encuentra en continua mitosis."
+        }
+      ]
+    },
+    {
+      "id": "b95076bc-e4dd-416b-bb74-0d7a88641b68",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-08-24",
+      "text": "Señale cuál de las siguientes corresponde una causaposmedular o periférica de alteraciones de la hematopoyesis:",
+      "options": [
+        {
+          "id": "559b6f38-9124-47f6-a669-05a26aa4117a",
+          "text": "Hemólisis.",
+          "correct": true
+        },
+        {
+          "id": "8cf70c60-04e6-4191-8e09-5948ce3b78e4",
+          "text": "Carencia de hierro."
+        },
+        {
+          "id": "d4958db2-df5c-4c03-9b07-c1241c2eb30b",
+          "text": "Disfunción medular."
+        },
+        {
+          "id": "9474fdc5-37d9-44bb-bfed-63f86f6cc728",
+          "text": "Hipoproducción medular."
+        },
+        {
+          "id": "90489115-c319-4db9-aabd-ab0daeca5f02",
+          "text": "Sustitución medular."
+        }
+      ]
+    },
+    {
+      "id": "de421180-e4ff-4f76-9274-d4feeaee89c1",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-08-24",
+      "text": "Señale cuál de los siguientes elementos pertenece a linaje linfoide:",
+      "options": [
+        {
+          "id": "21d88c14-0148-4a84-9a9e-a6a04e830741",
+          "text": "Célula Natural Killer.",
+          "correct": true
+        },
+        {
+          "id": "a29f07ed-1bd4-401a-872e-9397a1786b20",
+          "text": "Eosinófilo."
+        },
+        {
+          "id": "e36aa634-18b5-4e23-801c-e8daf7784403",
+          "text": "Macrófago."
+        },
+        {
+          "id": "ec20d3b8-9839-48a3-9d81-7702a489911a",
+          "text": "Mieloblasto."
+        },
+        {
+          "id": "8ab17ffa-9e15-49c3-a731-d4d4f79f05f7",
+          "text": "Monocito."
+        }
+      ]
+    },
+    {
+      "id": "467a7212-90fd-4e16-a39d-b0c7505616ed",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-08-24",
+      "text": "Un paciente consulta por edemas de miembros inferiores. Al examen físico se constata que presenta también ascitis (matidez de flancos desplazable). Se realiza un proteinograma electroforético cuya densitometría se muestra a continuación (sombreado gris) en comparación con la de un proteinograma normal (línea negra).  De acuerdo a la densitometría del proteinograma del plasma del paciente, señale la opción correcta:",
+      "image": "467a7212-90fd-4e16-a39d-b0c7505616ed.webp",
+      "options": [
+        {
+          "id": "ec8491a1-889e-442e-a1e1-09d202f42ad6",
+          "text": "Muestra que el mismo presenta incremento en la concentración de alfa 2 macroglobulina, y descensos en las concentraciones de albúmina, alfa 1 globulinas y beta globulinas.",
+          "correct": true
+        },
+        {
+          "id": "0dcd093f-c267-429b-92f1-338adec7b004",
+          "text": "Muestra que el mismo presenta una proliferación monoclonal de células productoras de gama globulinas."
+        },
+        {
+          "id": "074eb51d-30a5-40ef-83d1-709c8c31bd49",
+          "text": "Muestra una disminución en la concentración de albúmina, alfa 1 globulinas, y un incremento en la concentración de beta globulinas con respecto al plasma normal."
+        },
+        {
+          "id": "573beb6a-f3f0-4154-be83-ffdce481a442",
+          "text": "Sugiere que el mismo presenta hemólisis intravascular."
+        },
+        {
+          "id": "e0d83940-69ca-440d-a85e-e4d936d44fc6",
+          "text": "Sugiere que el mismo presenta una grave alteración de la funcionalidad hepática."
+        }
+      ]
+    },
+    {
+      "id": "71bb1ce3-56d2-4686-899b-c68ddfba2fa6",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-08-24",
+      "text": "¿Cuál es, cuantitativamente, la principal fuente de hierro para la eritropoyesis en el hombre en condiciones normales?",
+      "options": [
+        {
+          "id": "98aa6b3f-23e4-4732-bdd4-adba26585cb8",
+          "text": "La salida del Fe2+ por la ferroportina de los macrófagos y células del sistema reticuloendotelial.",
+          "correct": true
+        },
+        {
+          "id": "10a2c694-e091-4773-836f-1756c2061751",
+          "text": "El total de hierro obtenido por la dieta."
+        },
+        {
+          "id": "6ad507aa-9818-4faf-af6d-0f56e26e5fe2",
+          "text": "La degradación de la mioglobina muscular y liberación del hierro hacia la circulación."
+        },
+        {
+          "id": "b94e3a2e-f33d-4135-940b-d4062f6397b6",
+          "text": "La movilización de hierro de la ferritina del hígado."
+        },
+        {
+          "id": "3e62e978-c25a-489c-9dbd-3de1ab39dacf",
+          "text": "La salida del Fe2+ por la ferroportina de los enterocitos intestinales."
+        }
+      ]
+    },
+    {
+      "id": "bd04ce85-4285-4a52-90e3-a6a838546702",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-08-24",
+      "text": "¿En cuál de los siguientes procesos del glóbulo rojo se utiliza el NADH para mantener el estado reducido del hierro de la hemoglobina?",
+      "options": [
+        {
+          "id": "7e1733b3-de99-46c4-8004-b88efb37b624",
+          "text": "La reacción catalizada por la metahemoglobina reductasa.",
+          "correct": true
+        },
+        {
+          "id": "45e3dd05-dc13-4a08-a07f-fafa255719df",
+          "text": "El desvío de Rapoport-Luebering."
+        },
+        {
+          "id": "6293213f-82f9-47c9-86e9-2ce52758ab4b",
+          "text": "La reacción catalizada por la glutatión peroxidasa."
+        },
+        {
+          "id": "c4ea132e-3933-413e-bba1-862932bf2c59",
+          "text": "La reacción catalizada por la superóxido dismutasa."
+        },
+        {
+          "id": "b1c9c4bc-3e34-48b3-bad1-b7504ad7dbf5",
+          "text": "La vía de las pentosas."
+        }
+      ]
+    },
     {
       "id": "a1ace1ea-26cf-4d66-b8b1-c648debc5b66",
       "evaluation": "parcial_1",

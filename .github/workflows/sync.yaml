@@ -41,4 +41,4 @@ jobs:
           args: --release
 
       - name: Sync
-        run: ./target/release/data-sync sync
+        run: ./target/release/data-sync sync --sync-images-bucket
