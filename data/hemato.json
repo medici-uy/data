@@ -8,6 +8,839 @@
   "year": 3,
   "questions": [
     {
+      "id": "b2f7fd8a-23f8-4cf1-be97-5fcabaccb474",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-08-27",
+      "text": "Cada unidad de sangre desplasmatizada transfundida debería elevar la concentración de hemoglobina en un adulto de 70 Kg sin sangrados en:",
+      "options": [
+        {
+          "id": "66c57929-cc16-4141-ac25-a880c0ee3216",
+          "text": "1 g/dl.",
+          "correct": true
+        },
+        {
+          "id": "87636d84-8d8b-4390-94d8-821ae74c06c6",
+          "text": "2 g/dl."
+        },
+        {
+          "id": "1c1648df-37ef-4afe-b1a1-212e16283b5a",
+          "text": "3 g/dl."
+        },
+        {
+          "id": "f4823342-0049-426e-a30d-cb2fc01fc14c",
+          "text": "4 g/dl."
+        },
+        {
+          "id": "463ee9e8-c77b-4b95-a715-a21019c71f50",
+          "text": "6 g/dl."
+        }
+      ]
+    },
+    {
+      "id": "a4c0ceff-3c76-4eaa-9e79-9b1baa049845",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-08-27",
+      "text": "Con respecto a la regulación de la síntesis del grupo hemo señale la opción correcta:",
+      "options": [
+        {
+          "id": "45a558ac-f6d4-4bc3-84e4-1a014fb1d17e",
+          "text": "El ARNm de la ALA sintasa 2, o isoforma eritroide, tiene un elemento IRE en el extremo 5'.",
+          "correct": true
+        },
+        {
+          "id": "3b9128b6-4cb7-4577-b139-261b3f41b129",
+          "text": "El ARNm de la ALA sintasa 1, o isoforma hepática, tiene un elemento IRE en el extremo 5'."
+        },
+        {
+          "id": "cc0db1a5-173c-4cd8-b824-6181a90188a6",
+          "text": "El plomo estimula la ALA deshidratasa."
+        },
+        {
+          "id": "becd3181-dc17-4c8f-840f-1c6ed3c550eb",
+          "text": "En el hígado el pool de hemo libre estimula la ALA sintasa 1."
+        },
+        {
+          "id": "2d6316c7-1afb-4460-abe1-7bdc1f180a05",
+          "text": "La etapa regulada fundamental es la catalizada por la ferroquelasa."
+        }
+      ]
+    },
+    {
+      "id": "8eea321d-6365-46f0-82bc-bba4ae1813a2",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-08-27",
+      "text": "Durante la megacariopoyesis es característico (indique lo correcto):",
+      "options": [
+        {
+          "id": "3422ed10-0542-42a4-b1e7-3bb57e5544a1",
+          "text": "La presencia de mitosis sin división celular.",
+          "correct": true
+        },
+        {
+          "id": "c8354247-5174-47ff-89a0-aa5f0c59b345",
+          "text": "La presencia de gránulos en el megacarioblasto."
+        },
+        {
+          "id": "90a7a449-32e1-4fa3-a9ba-7c8422c6b654",
+          "text": "La vida media de las plaquetas es de 120 días."
+        },
+        {
+          "id": "487747a3-3930-4971-b888-586759f2a69f",
+          "text": "Que la liberación de plaquetas ocurra en sangre periférica."
+        },
+        {
+          "id": "5a21938d-52d3-4a0a-9418-b1dfefa1cbaa",
+          "text": "Que las plaquetas se dispongan aisladas sin formar acúmulos."
+        }
+      ]
+    },
+    {
+      "id": "1c318548-1302-4e6d-848a-edb8f55aead3",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-08-27",
+      "text": "El daño del endotelio y capa íntima actúa como estímulo a la hemostasis, este fenómeno depende de:",
+      "options": [
+        {
+          "id": "883bb1c7-b4c3-4dbc-91ea-fc0bafaf9f20",
+          "text": "La unión de las plaquetas al colágeno a través del factor de von Willebrand.",
+          "correct": true
+        },
+        {
+          "id": "2e9b605d-20cf-4bbf-8889-c9e0004b582f",
+          "text": "Formación de óxido nítrico a partir del aminoácido arginina."
+        },
+        {
+          "id": "207ecfce-5ee7-4a1b-b353-95c3bca5097e",
+          "text": "La generación de PGI2 o prostaciclina."
+        },
+        {
+          "id": "aa19a526-eeef-468d-a8df-ae3aa9f45067",
+          "text": "La unión de heparina a las estructuras subendoteliales."
+        },
+        {
+          "id": "2dd4f826-a6f0-48fd-a7fc-2d8879e3777b",
+          "text": "Los receptores de trombomodulina que unen trombina libre."
+        }
+      ]
+    },
+    {
+      "id": "956fd4eb-1f09-4425-8a66-9cdc06eecb54",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-08-27",
+      "text": "El fibrinógeno cumple distintas funciones en el proceso de la hemostasis, señale correctamente una de ellas:",
+      "options": [
+        {
+          "id": "ac242622-461e-491f-9e81-a09669ef0028",
+          "text": "Se une al receptor plaquetario Gp IIb/IIIa.",
+          "correct": true
+        },
+        {
+          "id": "a04abc39-c010-4135-b5a3-ab3330ea9a6b",
+          "text": "Activa el factor XIII."
+        },
+        {
+          "id": "3c57dcd2-3545-4378-8558-ed2596f3b5bc",
+          "text": "Es una proteína vitamina K dependiente."
+        },
+        {
+          "id": "ea7b9e4b-a760-4a91-bcef-68d5c6e031e3",
+          "text": "Se une al colágeno subendotelial."
+        },
+        {
+          "id": "b23aaaea-3501-406f-bbcd-4568c28d464e",
+          "text": "Se une al receptor de trombomodulina."
+        }
+      ]
+    },
+    {
+      "id": "be17e611-94f8-42bd-9971-606c6c7bc482",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-08-27",
+      "text": "En el laboratorio se logró purificar una molécula derivada de patógenos. Se pudo determinar que es reconocida por el TLR-4. ¿Qué espera observar si esa molécula se agrega a un cultivo de macrófagos?",
+      "options": [
+        {
+          "id": "c95453a1-8539-40bb-99de-c81239edea10",
+          "text": "Que se active el factor de transcripción NF-kB.",
+          "correct": true
+        },
+        {
+          "id": "1729250c-6988-4755-b73e-910230533b1c",
+          "text": "No es esperable observar grandes cambios, ya que los macrófagos no expresan TLR-4."
+        },
+        {
+          "id": "80651472-a12c-408f-ac2d-3e60429a7d62",
+          "text": "Que los macrófagos mueran rapidamente por apoptosis."
+        },
+        {
+          "id": "c227513b-a869-4409-a461-24df19a07c70",
+          "text": "Que los macrófagos se diferencien a linfocitos B."
+        },
+        {
+          "id": "89e59504-d6b8-4069-872b-9ebe4fdb78b2",
+          "text": "Que los macrófagos sean incapaces de producir citoquinas pro-inflamatorias."
+        }
+      ]
+    },
+    {
+      "id": "14aa1d5a-4c48-4690-9852-6f0b6c38bf40",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-08-27",
+      "text": "En el musculo esquelético durante la contracción se genera una producción importante de protones (el pH pasa de 7.4 a 7.2), además se calcula una pO2 en los capilares musculares de 20 mmHg. ¿Cuál es el comportamiento de la hemoglobina dentro de los eritrocitos que circulan por los capitales musculares?",
+      "options": [
+        {
+          "id": "c4f49b51-29de-4396-8ba1-fd58d4797044",
+          "text": "El aumento de protones favorece el desplazamiento de la curva de disociación de la oxihemoglobina hacia la derecha.",
+          "correct": true
+        },
+        {
+          "id": "31e6bc2d-c1de-4ddf-8dd0-0ff0f0a2cac7",
+          "text": "El aumento de los protones favorece la formación de CO2, el cual desplaza el oxígeno de la oxihemoglobina."
+        },
+        {
+          "id": "0e2d0f12-0ab0-40a8-aa10-0e05ef28366c",
+          "text": "El aumento de protones favorece el desplazamiento de la curva de disociación de la oxihemoglobina hacia la derecha."
+        },
+        {
+          "id": "be510ed4-45b0-49bd-a609-d7d3e3dae818",
+          "text": "El aumento de protones favorece la conformación R de la hemoglobina aumentando su afinidad por el oxígeno."
+        },
+        {
+          "id": "8298f7bf-6c0c-4efc-8e5d-14fa7e364967",
+          "text": "La hemoglobina no cambia su afinidad por el oxígeno porque los protones son amortiguados por los sistemas buffers de la sangre."
+        }
+      ]
+    },
+    {
+      "id": "76864565-b9f4-42ac-9b4e-3b5c65d24d56",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-08-27",
+      "text": "En la linfopoyesis T indique la opción correcta:",
+      "options": [
+        {
+          "id": "be69308d-e4c7-4043-a752-a2a0d5ab275e",
+          "text": "En el timo se seleccionan las células precursoras de linfocitos T que tienen capacidad de reconocer con afinidad intermedia a proteínas del complejo mayor de histocompatibilidad propio.",
+          "correct": true
+        },
+        {
+          "id": "a2647b02-1c20-441e-b76e-f42366b67944",
+          "text": "El proceso de cambio de clase de los receptores T sucede sólo a nivel de los centros germinativos de los ganglios linfáticos."
+        },
+        {
+          "id": "92ed4c76-411a-4c83-8354-23499053c197",
+          "text": "La linfopoyesis T ocurre mayoritariamente en la médula ósea."
+        },
+        {
+          "id": "6089f0f6-8407-4241-b985-0192f081f18e",
+          "text": "La población de precursores T dobles positivos co-expresan en sus membranas receptores T de tipo alfa-beta con inmunoglobulinas de tipo IgM."
+        },
+        {
+          "id": "b476dee9-c06c-4422-baab-f4bdab34ce52",
+          "text": "La selección positiva a nivel del timo implica la activación del linfocito T y su diferenciación a plasmocito."
+        }
+      ]
+    },
+    {
+      "id": "254b2a24-faf0-444c-a2c7-e6b910b94bd8",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-08-27",
+      "text": "En relación a las características de la inmunidad innata y de la inmunidad adaptativa, indique la opción correcta:",
+      "options": [
+        {
+          "id": "79cceac8-64a9-41a1-8984-c4aeccad274b",
+          "text": "Los receptores de la inmunidad innata decodifican información relativa a las características del patógeno, lo que conduce a una activación de la inmunidad adaptativa frente a dicho patógeno.",
+          "correct": true
+        },
+        {
+          "id": "463b9143-31bc-4663-a86e-2b0e22319024",
+          "text": "Los receptores de reconocimiento de la inmunidad innata son de origen clonal."
+        },
+        {
+          "id": "7f6577d4-dd48-4beb-b3c3-ad2dce9b6dd8",
+          "text": "Tanto la inmunidad adaptativa como la innata se encuentran altamente reguladas, pero únicamente la inmunidad innata es capaz de generar memoria inmunológica."
+        },
+        {
+          "id": "5ea7da75-9681-49b3-9622-78930f2a78e9",
+          "text": "Tanto la inmunidad innata como la adaptativa se ponen en funcionamiento rápidamente en respuesta a la entrada de un organismo patógeno."
+        },
+        {
+          "id": "4e46501e-e1b4-4233-a949-19edb050ad35",
+          "text": "Únicamente la inmunidad adaptativa posee receptores capaces de reconocer porciones de patógenos."
+        }
+      ]
+    },
+    {
+      "id": "1f09f8a4-1048-49f1-9289-a5d574fd2942",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-08-27",
+      "text": "En relación a las células innatas linfoides, marque la opción correcta:",
+      "options": [
+        {
+          "id": "8dde0de8-2efe-48da-9e55-182c2678237e",
+          "text": "Secretan diferentes perfiles de citoquinas en función de la expresión o no de factores de transcripción.",
+          "correct": true
+        },
+        {
+          "id": "8d58ff6f-98c0-4f50-8e8c-30f38c75c908",
+          "text": "Cuando reconocen el antígeno para el que son específicas, producen diferentes citoquinas."
+        },
+        {
+          "id": "58c6469c-d5ba-4886-b9c0-793c4d0a16f2",
+          "text": "De un punto de vista morfológico, son indistinguibles de los neutrófilos."
+        },
+        {
+          "id": "2ff1bc40-c39f-49fa-9549-186d2f294168",
+          "text": "Son células que se localizan mayoritariamente en los ganglios linfáticos."
+        },
+        {
+          "id": "149b1bfb-cc36-4aac-922e-94bbc8420fc8",
+          "text": "Tienen propiedades efectoras a través de la liberación de granzima y perforina."
+        }
+      ]
+    },
+    {
+      "id": "55c50d52-2ff0-4c66-90e9-b01495bcde21",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-08-27",
+      "text": "En relación a los anticuerpos indique la opción correcta:",
+      "options": [
+        {
+          "id": "0f4a896f-8455-47f1-89fa-0ebbb7bb08b6",
+          "text": "El fragmento Fab de un anticuerpo tiene la capacidad de interaccionar con su antígeno.",
+          "correct": true
+        },
+        {
+          "id": "4f347836-7851-4f74-9d80-a7f0d4ff53ce",
+          "text": "La cadena pesada de la IgG solo contiene la región constante gamma y no contiene una región variable."
+        },
+        {
+          "id": "6cc95a95-9562-41bd-98a3-e2c76f6b440b",
+          "text": "Las cadenas kappa y lambda representan las 2 clases (isotipos) más frecuentes de las cadenas pesadas de los anticuerpos."
+        },
+        {
+          "id": "9d82e4b4-db0e-42e4-8a30-438208689ad5",
+          "text": "Las regiones constantes de los anticuerpos son las encargadas de la interacción con el antígeno."
+        },
+        {
+          "id": "83e1d208-0f97-44c5-aa49-c68389e1f668",
+          "text": "Las regiones variables de la cadena pesada y de la cadena liviana son las que determinan la clase o isotipo de un anticuerpo."
+        }
+      ]
+    },
+    {
+      "id": "1dd9ed91-de4a-41d4-b840-97b647e0b867",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-08-27",
+      "text": "En relación a los granulocitos y al proceso de gránulopoyesis, indique lo correcto:",
+      "options": [
+        {
+          "id": "43270135-b9a3-4719-985d-d3f8397ae4bd",
+          "text": "El mieloblasto es el primer elemento morfológicamente identificable.",
+          "correct": true
+        },
+        {
+          "id": "30430021-7809-4809-b4af-f4febceb4eb4",
+          "text": "Es necesario el pasaje por el bazo para completar su maduración."
+        },
+        {
+          "id": "fba61835-d488-43de-93ae-355d67f8e087",
+          "text": "Los gránulocitos maduros pueden circular durante meses en sangre periférica."
+        },
+        {
+          "id": "b5868eba-b039-4642-bd20-fcc1bfe36d9f",
+          "text": "Los gránulos primarios son los que determinan la clasificación en neutrófilos, basófilos y eosinófilos."
+        },
+        {
+          "id": "1bd42692-fd2c-4293-b784-142d3a786f63",
+          "text": "Todo el proceso dura más de 1 mes."
+        }
+      ]
+    },
+    {
+      "id": "065d031c-914e-4433-b552-69c3dc44d701",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-08-27",
+      "text": "En relación a los mecanismos involucrados en la generación de la diversidad estructural de los anticuerpos, indique la opción correcta:",
+      "options": [
+        {
+          "id": "08444202-c30a-44d1-ba3b-57dcbc3d1958",
+          "text": "En el centro germinativo se produce la maduración de la afinidad mediante el proceso de hipermutación somática y la selección por el antígeno.",
+          "correct": true
+        },
+        {
+          "id": "88851468-e7e1-4323-a19c-dad1cf712a14",
+          "text": "El cambio de clase (isotipo) de la cadena pesada es previo a la recombinación VJ de la cadena liviana."
+        },
+        {
+          "id": "7d71fad0-75d0-4555-8e48-8cd987c3956d",
+          "text": "La leucemia linfoide crónica se caracteriza por una proliferación policlonal de linfocitos B (linfocitosis) que sigue a una infección viral."
+        },
+        {
+          "id": "b37c4147-5fb3-4f52-873d-a9cca827f901",
+          "text": "Los plasmocitos expresan sus anticuerpos a nivel de la membrana plasmática, perdiendo su capacidad de secreción al medio extracelular."
+        },
+        {
+          "id": "f30dc71e-172b-4edc-a67c-67139bcf3e5d",
+          "text": "Los segmentos V, D y J contienen la información genética necesaria para expresar una cadena pesada completa."
+        }
+      ]
+    },
+    {
+      "id": "05ab8a89-8670-4a17-b4d6-8cb5122e8529",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-08-27",
+      "text": "En relación al conflicto Rh indique la opción correcta:",
+      "options": [
+        {
+          "id": "5fba47d5-7669-4e08-9db8-89dad0ad1171",
+          "text": "La anemia observada en un feto Rh positivo se debe a la destrucción de sus eritrocitos causada por los anticuerpos anti-D generados por la madre Rh negativa contra los eritrocitos fetales.",
+          "correct": true
+        },
+        {
+          "id": "556c198d-58a3-4641-8d15-efc98fb128e5",
+          "text": "La administración inmunoprofiláctica de anticuerpos anti-Rh (anti-D) genera una inmunidad permanente en la madre."
+        },
+        {
+          "id": "f8d69e76-b0ae-429f-84fa-3b5d8ed41ae9",
+          "text": "Las IgM maternas anti-Rh atraviesan la placenta y mediante activación del complemento lisan los eritrocitos fetales."
+        },
+        {
+          "id": "7bc6a074-282f-4549-abb2-3fc93ab89889",
+          "text": "Representa un problema médico muy frecuente debido a que aún no disponemos de buenas herramientas diagnósticas, preventivas, ni terapéuticas."
+        },
+        {
+          "id": "928c3285-de3a-43e5-8d8a-a79f03c7c05a",
+          "text": "Un individuo Rh positivo se caracteriza por tener anticuerpos anti-Rh en su suero presentando una reacción de Coombs indirecta positiva."
+        }
+      ]
+    },
+    {
+      "id": "184f8848-63b9-4584-a6db-0f371529d4d6",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-08-27",
+      "text": "En relación con el conflicto materno-fetal Rh, indique lo INCORRECTO:",
+      "options": [
+        {
+          "id": "6e7cd5d9-c73d-47de-a0ad-5b50ed3f7910",
+          "text": "Produce hemólisis de los glóbulos rojos maternos en madres con anticuerpos anti-Rh.",
+          "correct": true
+        },
+        {
+          "id": "4911eaa1-8cbb-493a-ac37-52e7b71bbb67",
+          "text": "Es mediado por anticuerpos de isotipo IgG."
+        },
+        {
+          "id": "6c53c54e-4a15-4882-b579-c06b2f093b2f",
+          "text": "Es más leve en el primer embarazo y puede agravarse en los embarazos siguientes."
+        },
+        {
+          "id": "36a0dab2-a49f-470e-ac38-c32027e66dd3",
+          "text": "No ocurre cuando una madre es Rh positiva."
+        }
+      ]
+    },
+    {
+      "id": "9346bd45-76e5-4ca6-8b31-230b32a7868e",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-08-27",
+      "text": "En relación con la linfopoyesis, señale lo correcto:",
+      "options": [
+        {
+          "id": "1769b8bd-47ec-4a8e-8af9-8be4ee5ee24a",
+          "text": "En el timo ocurre una selección negativa de linfocitos T.",
+          "correct": true
+        },
+        {
+          "id": "3942790a-1252-4b08-a385-a5f4b79d2b86",
+          "text": "En el receptor del linfocito T participa la IgD."
+        },
+        {
+          "id": "8c657e84-c341-4e76-8170-147089f36678",
+          "text": "En el timo ocurre la última etapa madurativa del linfocito B."
+        },
+        {
+          "id": "62202db9-6edc-4d56-904a-d43e31981ce3",
+          "text": "En la linfopoyesis T todas las etapas madurativas ocurren en médula ósea."
+        },
+        {
+          "id": "f0692068-548d-4bc4-a84c-f56c7b3f4065",
+          "text": "La linfopoyesis B es antígeno dependiente en todas sus etapas."
+        }
+      ]
+    },
+    {
+      "id": "ef298a15-cb59-44e6-bfe0-c90283c35e10",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-08-27",
+      "text": "En relación con los diferentes fragmentos de anticuerpos recombinantes usados en la clínica médica, indique lo correcto:",
+      "options": [
+        {
+          "id": "6c122f2a-743b-4a37-9833-2278b2365a1e",
+          "text": "Uno de los anticuerpos más usados en el tratamiento de leucemias y linfomas es el anticuerpo quimérico de isotipo IgG1 dirigido contra el antígeno CD20.",
+          "correct": true
+        },
+        {
+          "id": "39bcb877-1e6f-4426-b715-459c6faad5c4",
+          "text": "Los \"diabody\" (~50 kDa) favorecen la opsonización y la fagocitosis por macrófagos."
+        },
+        {
+          "id": "a1d6a726-9c4b-4836-852d-74f919b3e704",
+          "text": "Un fragmento VHH (~15kDa) por tener alta actividad citotóxica a través de su región Fc es usado normalmente en la terapia tumoral."
+        },
+        {
+          "id": "99147322-3339-4516-8b56-01a099e38833",
+          "text": "Un fragmento de anticuerpo Fab (50 kDa) tiene mayor avidez por el antígeno comparado con un anticuerpo IgG (150 kDa)."
+        },
+        {
+          "id": "e0b712ce-2436-44e1-93b4-2180ed3ad7fe",
+          "text": "Un fragmento scFv (~28 kDa) favorece un importante desarrollo de actividad ADCC (citotoxicidad celular dependiente de anticuerpos) sobre células tumorales."
+        }
+      ]
+    },
+    {
+      "id": "63f2e991-a032-4df4-a331-fa75dbfb1ede",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-08-27",
+      "text": "La albúmina es una proteína muy abundante en el plasma. Sobre dicha proteína señale la opción correcta.",
+      "options": [
+        {
+          "id": "52a384d1-4282-49c2-a912-576d5863458f",
+          "text": "Transporta ácidos grasos libres.",
+          "correct": true
+        },
+        {
+          "id": "a0f0f7d5-b8dd-4eef-95a5-743f3722584f",
+          "text": "Representa el 85% de las proteínas totales del plasma."
+        },
+        {
+          "id": "b8b96a7c-eef8-45e9-b62d-566de9fb8d1c",
+          "text": "Tiene una vida media de 120 días."
+        },
+        {
+          "id": "e23f2dcd-373e-4d10-986c-901a34329f20",
+          "text": "Transporta bilirrubina conjugada (directa)."
+        },
+        {
+          "id": "13716a4f-8092-4673-b057-f133c66a84e8",
+          "text": "Un porcentaje de albúmina se filtra en el glomérulo renal y se excreta por la orina."
+        }
+      ]
+    },
+    {
+      "id": "784657df-8ec3-43cc-912c-18c48f629ea6",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-08-27",
+      "text": "La determinación de la velocidad de eritrosedimentación es un procedimiento de uso clínico. Con respecto a este estudio indique la opción correcta:",
+      "options": [
+        {
+          "id": "2582e5c4-60f2-4de7-be57-b5a97f220feb",
+          "text": "Para realizarlo, se necesita sangre anticoagulada.",
+          "correct": true
+        },
+        {
+          "id": "d3452c47-ec48-4e79-828b-16f551ab7fcb",
+          "text": "Para realizarlo, se necesita plasma fresco."
+        },
+        {
+          "id": "f741d440-eb8d-4f5c-bd04-a52da6a0a8f8",
+          "text": "Para realizarlo, se necesita sangre no anticoagulada."
+        },
+        {
+          "id": "78e2e2f4-7848-424c-aae8-f8bfbbe95f1e",
+          "text": "Para realizarlo, se necesitan glóbulos rojos aislados."
+        }
+      ]
+    },
+    {
+      "id": "a83dc7a8-cf4c-45aa-a8a0-cbe117f72d17",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-08-27",
+      "text": "La proteína C forma parte de la coagulación sanguínea. Sus características y su rol en la coagulación corresponden a:",
+      "options": [
+        {
+          "id": "5c91313c-1f8c-460b-8384-e396bdb9f39c",
+          "text": "Tiene residuos de gama carboxi-glutamato (Gla) en su estructura.",
+          "correct": true
+        },
+        {
+          "id": "234b8a1f-a57f-48a7-8464-82fc1f679ee6",
+          "text": "La proteína C se sintetiza en las células endoteliales."
+        },
+        {
+          "id": "62e71685-b9fb-4032-85cd-0143b8675890",
+          "text": "Su actividad no es afectada por la warfarina."
+        },
+        {
+          "id": "56213b56-03c4-40ab-b0a6-1775135bc4e3",
+          "text": "Su principal acción anticoagulante es inhibir a la proteína S."
+        },
+        {
+          "id": "696194a4-ddfe-444a-bd41-af1b9af8da2f",
+          "text": "Su rol es pro-coagulante, aumentando la formación de trombina."
+        }
+      ]
+    },
+    {
+      "id": "7be44573-bbc3-478d-b9f3-c1f94b45a372",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-08-27",
+      "text": "Los animales knock-out para el gen de la hepcidina desarrollan un acumulo excesivo de hierro en el hígado y páncreas similar al que se observa en la hemocromatosis juvenil tipo 2 del humano. ¿Cuál de las funciones de la hepcidina descritas a continuación explica el acúmulo de hierro?",
+      "options": [
+        {
+          "id": "1147c647-75e0-4994-a110-37692636f0ec",
+          "text": "Disminuye los niveles intestinales de la ferroportina, proteína que permite la salida de hierro de los enterocitos por la membrana basolateral.",
+          "correct": true
+        },
+        {
+          "id": "30a1d502-71fe-4da9-b990-c32edbf3dcd1",
+          "text": "Aumenta los niveles intestinales de la DMT-1, proteína que transporta Fe+2 en la membrana apical de los enterocitos."
+        },
+        {
+          "id": "a11a8cf9-5480-477e-a744-9fb5b113e4e9",
+          "text": "Facilita la interacción de la transferrina con el receptor de transferrina."
+        },
+        {
+          "id": "e2fa7782-6c75-4b44-b46c-3f106b6742de",
+          "text": "Forma complejos con la ferritina permitiendo mayor secuestro de hierro intracelular."
+        },
+        {
+          "id": "5cf91aea-d13a-4172-853b-85d6422c572b",
+          "text": "Promueve la formación de hemosiderina en el hígado."
+        }
+      ]
+    },
+    {
+      "id": "7f451c5e-569e-43b8-a471-38e86ba9168c",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-08-27",
+      "text": "Marque la opción correcta sobre las células NK:",
+      "options": [
+        {
+          "id": "d474429a-b934-47d5-966b-2a28da6153ae",
+          "text": "Son capaces de activarse por una célula epitelial propia si ésta última está infectada por un virus.",
+          "correct": true
+        },
+        {
+          "id": "dc34c5be-c431-428c-8888-e0b2592f97f5",
+          "text": "El reconocimiento de moléculas de MHC de clase I propias las activa rápidamente."
+        },
+        {
+          "id": "b3d13b94-70c2-4157-96a8-187db91b28cb",
+          "text": "Para matar una célula blanco, no precisan estar en contacto físico con ésta."
+        },
+        {
+          "id": "555103fd-d3e6-4fc7-8789-b0386e94b4c1",
+          "text": "Son fácilmente reconocibles por su núcleo polilobulado."
+        },
+        {
+          "id": "c0d42f74-e862-45b1-bd99-bff2118f36eb",
+          "text": "Su característica más notable es su alto poder fagocítico."
+        }
+      ]
+    },
+    {
+      "id": "bcab212a-e4be-46c3-939e-0143b02c1549",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-08-27",
+      "text": "Marque la prueba para enfermedades transmisibles por transfusión que NO se realiza de rutina en sangre donada en Uruguay:",
+      "options": [
+        {
+          "id": "e3fe2b72-ab0d-4154-a2b7-118c719d018a",
+          "text": "Dengue.",
+          "correct": true
+        },
+        {
+          "id": "e064ed90-d723-4121-91c5-aa8ee65bfb08",
+          "text": "Chagas."
+        },
+        {
+          "id": "ce92aa74-77bf-4fec-9f0e-8653f41afef0",
+          "text": "HIV 1 y 2."
+        },
+        {
+          "id": "1a8def77-f680-4fcd-96bb-4246f2a4761d",
+          "text": "HTLV I y II."
+        },
+        {
+          "id": "726c2cf2-7e47-4cb8-b1a9-81aef143a77b",
+          "text": "Sífilis."
+        }
+      ]
+    },
+    {
+      "id": "6b1c9fa6-9618-4251-9113-ba579c50af64",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-08-27",
+      "text": "Se realiza una electroforesis en acetato de celulosa de muestras de sangre de un individuo adulto normal (1) y un recién nacido normal de una semana de vida (2). En relación a la figura y la composición polipeptídica de las bandas de hemoglobina podemos afirmar que:",
+      "image": "6b1c9fa6-9618-4251-9113-ba579c50af64.webp",
+      "options": [
+        {
+          "id": "972a9557-009c-42aa-ac47-ce284c43d0af",
+          "text": "Las bandas a y b estarían formadas por α2β2 (alfa2-beta2).",
+          "correct": true
+        },
+        {
+          "id": "8ba2266b-dfdb-46d4-93a4-8307e3db7de7",
+          "text": "La banda a correspondería a α2δ2 (alfa2-delta2)."
+        },
+        {
+          "id": "b3f18684-15b6-4934-b41d-75b2ccddf456",
+          "text": "La banda b corresponde a α2γ2 (alfa2-gama2)."
+        },
+        {
+          "id": "33fb34f1-3c37-4359-8e4f-2691a1a1b596",
+          "text": "La banda c corresponde a la hemoglobina S."
+        },
+        {
+          "id": "260bddf6-3aee-48b4-bec9-31501c7a52cf",
+          "text": "La banda c corresponde a α2δ2 (alfa2-delta2)."
+        }
+      ]
+    },
+    {
+      "id": "f27e9346-b392-477a-99d8-a056cbbddd5e",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-08-27",
+      "text": "Sobre la célula madre hematopoyética, indique lo correcto:",
+      "options": [
+        {
+          "id": "f3c7a169-caf7-4f91-9b24-a5f73a6996ff",
+          "text": "Sus funciones principales son la autorrenovación, la proliferación, y la reconstitución hematopoyética.",
+          "correct": true
+        },
+        {
+          "id": "93c33775-0fa3-42c7-925f-ca4e05794296",
+          "text": "Es fácilmente reconocible por sus características citomorfológicas."
+        },
+        {
+          "id": "e30befc9-143b-42a8-b882-ea0718f0a00b",
+          "text": "Es la célula más abundante del parénquima medular."
+        },
+        {
+          "id": "bd4611a8-ef53-4cce-b75e-4af373ee95d9",
+          "text": "No es capaz de diferenciarse hacia la línea linfoide T."
+        },
+        {
+          "id": "4dd5c4ca-19b4-418d-921e-bd68cb47160a",
+          "text": "Se encuentran generalmente en fase M."
+        }
+      ]
+    },
+    {
+      "id": "003ed7ab-affe-4563-b7f2-bce3a4c19ea0",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-08-27",
+      "text": "Un adulto normal presenta entre 3 a 5 g de hierro total. Su distribución, absorción, reciclaje y pérdida se puede resumir en una de las siguientes frases en forma correcta:",
+      "options": [
+        {
+          "id": "3a08e391-1f2f-4e38-bf16-7caa974f81f1",
+          "text": "La ferritina es la forma metabólica activa de almacenamiento de hierro y representa 1 g de hierro aproximadamente.",
+          "correct": true
+        },
+        {
+          "id": "db531715-01b1-44a3-afa6-5fd997637e9b",
+          "text": "El sistema macrófago retículoendotelial recicla diariamente aproximadamente 2 mg de hierro."
+        },
+        {
+          "id": "e9a6f379-d16e-480b-a023-3497b77711e9",
+          "text": "En condiciones normales la perdida diaria de hierro varía entre 10 a 30 mg."
+        },
+        {
+          "id": "440bd589-f59f-4137-9fa2-8bd428720177",
+          "text": "La mayor parte del hierro de la sangre está en la forma del complejo Fe3+-transferrina."
+        },
+        {
+          "id": "386ab5ae-1244-4127-9ecb-a0fe24613314",
+          "text": "Los enterocitos absorben diariamente aproximadamente 30 mg de hierro."
+        }
+      ]
+    },
+    {
+      "id": "6a3ecb9a-12e2-4669-848d-19591cfd4989",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-08-27",
+      "text": "¿Al momento del nacimiento qué proporciones de los siguientes genes de las globinas se expresan aproximadamente en la medula ósea?",
+      "options": [
+        {
+          "id": "a65c4114-b349-4b79-bd82-e2609f77b020",
+          "text": "100% alfa y 75% gamma y 25% beta.",
+          "correct": true
+        },
+        {
+          "id": "a049f4b0-5d88-4299-8462-fec9021c370e",
+          "text": "100% alfa y 100% beta."
+        },
+        {
+          "id": "5b1639c0-6de3-4611-b7ea-31d5195e2765",
+          "text": "100% alfa y 100% gamma."
+        },
+        {
+          "id": "55552110-64b5-4956-9288-f954eea1730b",
+          "text": "100% zeta y 100% épsilon."
+        },
+        {
+          "id": "d27e6360-f0c7-4b56-b72e-a6317af37fae",
+          "text": "90% alfa y 10% zeta y 75% gamma y 25% beta."
+        }
+      ]
+    },
+    {
+      "id": "785a0872-22ef-4b4e-8613-70d67c1876f0",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-08-27",
+      "text": "¿Cuál es el efecto de un aumento de la actividad de la metahemoglobina reductasa sobre el metabolismo de la glucosa en el eritrocito?",
+      "options": [
+        {
+          "id": "ad76d384-14df-482a-89f8-ef7f55409f79",
+          "text": "La relación lactato/piruvato disminuye.",
+          "correct": true
+        },
+        {
+          "id": "76c2b933-d075-4523-b252-8dedb916eb9a",
+          "text": "Aumenta el consumo de glucosa a través del vía de las pentosas."
+        },
+        {
+          "id": "af808f2e-1499-41dc-86f1-431abd9b1bc6",
+          "text": "La relación lactato/piruvato aumenta."
+        },
+        {
+          "id": "e77f7a92-c49a-424c-a79d-c67b475b26eb",
+          "text": "La relación lactato/piruvato no cambia."
+        },
+        {
+          "id": "77f73b5f-2f76-4a7f-82ca-579576d0b171",
+          "text": "No tiene ningún efecto."
+        }
+      ]
+    },
+    {
       "id": "bace1e3f-ad29-47f8-b4cf-e020b4aa9a64",
       "evaluation": "parcial_1",
       "source": "partial",
