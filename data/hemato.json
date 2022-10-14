@@ -7111,35 +7111,6 @@
       ]
     },
     {
-      "id": "dbf6f0d9-fe0c-4e7f-9ceb-71b8555338c5",
-      "evaluation": "parcial_3",
-      "source": "self_assessment",
-      "text": "El cuanto a generalidades del sistema HLA (marque la correcta):",
-      "options": [
-        {
-          "id": "1117544c-67c5-492c-bf20-a4c1ec3e5a14",
-          "text": "Las moléculas HLA presentan péptidos propios y no propios a receptores de células T (TCR).",
-          "correct": true
-        },
-        {
-          "id": "60f28680-886f-4b60-8f6d-3347445a2a23",
-          "text": "El modo de herencia es autosómica dominante."
-        },
-        {
-          "id": "9d29fe19-ed9d-4085-bf4f-146272d2ff25",
-          "text": "La expresión de moléculas HLA clase I es exclusiva de células sanguíneas."
-        },
-        {
-          "id": "9cea0855-be09-4a81-9a26-4197ed1f1cfd",
-          "text": "Las moléculas HLA clase II están presentes en todas las células nucleadas."
-        },
-        {
-          "id": "94d23663-24c0-443d-91a0-6b9611997a39",
-          "text": "Los genes HLA tienen escaso polimorfismo."
-        }
-      ]
-    },
-    {
       "id": "38aece7d-08f1-4fd1-afbb-df35ab55d91c",
       "evaluation": "parcial_3",
       "source": "self_assessment",
@@ -7370,35 +7341,6 @@
         {
           "id": "3b9afd0e-cf1e-4a14-a8ed-897c22298f9b",
           "text": "Reacciones mediadas por la vía alternativa del complemento y células de la inmunidad innata como los mastocitos."
-        }
-      ]
-    },
-    {
-      "id": "a2a43dfd-9fc7-4843-a7b2-d05af5a0a010",
-      "evaluation": "parcial_3",
-      "source": "self_assessment",
-      "text": "En la trombocitopenia inmunomediada, aparecen autoanticuerpos que:",
-      "options": [
-        {
-          "id": "418e6968-22a9-4b7e-8232-cbac730d346b",
-          "text": "Pueden disminuir la producción medular de plaquetas.",
-          "correct": true
-        },
-        {
-          "id": "3452e0d9-c34d-43b1-84c8-ba03923fd56b",
-          "text": "Alteran las paredes vasculares, generando consumo de plaquetas."
-        },
-        {
-          "id": "c774a5fc-066e-4e08-bdb4-05707fba3a54",
-          "text": "Crioaglutininas median la aglutinación de las plaquetas cuando baja la temperatura."
-        },
-        {
-          "id": "a18a6050-2241-4210-95f1-bafbfbbd861d",
-          "text": "Pueden ser detectados por la prueba de Coombs indirecta."
-        },
-        {
-          "id": "02d3a57b-724b-4a35-bf81-315b46c6ed0d",
-          "text": "Simulan la función de la trombopoietina, estimulando su receptor."
         }
       ]
     },
