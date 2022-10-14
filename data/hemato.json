@@ -7052,6 +7052,35 @@
       ]
     },
     {
+      "id": "b381d7d2-3ac5-492a-bb69-24f356410c5b",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "Cuando se realiza un trasplante entre dos gemelos monocigotos se denomina:",
+      "options": [
+        {
+          "id": "9479085f-c61f-48b3-9960-14d2182723f1",
+          "text": "Trasplante singénico.",
+          "correct": true
+        },
+        {
+          "id": "b25d3f36-e073-4e72-82fc-344e937dbf55",
+          "text": "Trasplante autólogo."
+        },
+        {
+          "id": "80ed4480-8862-4f4d-8b1d-d695794d78d2",
+          "text": "Trasplante haploidéntico."
+        },
+        {
+          "id": "4be025e3-6a68-44c5-a2b4-fbe4a222f4a9",
+          "text": "Trasplante ortotópico."
+        },
+        {
+          "id": "6472d7ea-f521-42fb-87ef-1803df083f8c",
+          "text": "Trasplante xenogénico."
+        }
+      ]
+    },
+    {
       "id": "13a6ec77-2ca5-439c-87a4-231c17ed3367",
       "evaluation": "parcial_3",
       "source": "self_assessment",
@@ -7078,6 +7107,35 @@
         {
           "id": "92876fea-876d-45e4-b7e8-c0f959d28cb7",
           "text": "Ninguna de las otras respuestas."
+        }
+      ]
+    },
+    {
+      "id": "dbf6f0d9-fe0c-4e7f-9ceb-71b8555338c5",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "El cuanto a generalidades del sistema HLA (marque la correcta):",
+      "options": [
+        {
+          "id": "1117544c-67c5-492c-bf20-a4c1ec3e5a14",
+          "text": "Las moléculas HLA presentan péptidos propios y no propios a receptores de células T (TCR).",
+          "correct": true
+        },
+        {
+          "id": "60f28680-886f-4b60-8f6d-3347445a2a23",
+          "text": "El modo de herencia es autosómica dominante."
+        },
+        {
+          "id": "9d29fe19-ed9d-4085-bf4f-146272d2ff25",
+          "text": "La expresión de moléculas HLA clase I es exclusiva de células sanguíneas."
+        },
+        {
+          "id": "9cea0855-be09-4a81-9a26-4197ed1f1cfd",
+          "text": "Las moléculas HLA clase II están presentes en todas las células nucleadas."
+        },
+        {
+          "id": "94d23663-24c0-443d-91a0-6b9611997a39",
+          "text": "Los genes HLA tienen escaso polimorfismo."
         }
       ]
     },
@@ -7112,6 +7170,93 @@
       ]
     },
     {
+      "id": "74edc8f7-165c-47b0-87d0-594bed97b07e",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "En cuanto a las anemias hemolíticas de origen inmune, señale la opción correcta:",
+      "options": [
+        {
+          "id": "5c33f474-1fa0-4049-b297-f4e97579a33c",
+          "text": "Su diagnóstico requiere de una prueba de Coombs positiva, que sella el carácter inmunológico de la anemia.",
+          "correct": true
+        },
+        {
+          "id": "8635f50a-2f6c-4d3b-b985-223929874fb2",
+          "text": "El mecanismo que mayoritariamente interviene en la patogenia de dicha entidad es la alteración funcional por interferencia."
+        },
+        {
+          "id": "e51f2132-9123-4279-844f-d906b1484881",
+          "text": "En su base patogénica se encuentra una reacción de hipersensibilidad de tipo I o inmediata."
+        },
+        {
+          "id": "b8244a81-3f85-4b79-9f76-fc36657f7d8a",
+          "text": "La anemia hemolítica autoinmune ocasionada por anticuerpos fríos (IgM) es la forma más frecuente."
+        },
+        {
+          "id": "800f4c60-33d9-4de5-ba3e-992c86547372",
+          "text": "Los eritrocitos que fueron opsonizados por anticuerpos calientes (de tipo IgG) son destruidos por hemólisis intravascular."
+        }
+      ]
+    },
+    {
+      "id": "61f5c23c-b09f-4f7d-912d-6540599da509",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "En cuanto a las inmunodeficiencias secundarias, señale la opción correcta:",
+      "options": [
+        {
+          "id": "e9dca89e-0241-410e-8590-0d2716de357d",
+          "text": "Pueden presentarse no asociadas a una situación patológica.",
+          "correct": true
+        },
+        {
+          "id": "2590c708-aa29-4321-bc6a-b939862a18b5",
+          "text": "A nivel mundial la causa más frecuente de inmunodeficiencia secundaria es la infección por el virus de la inmunodeficiencia humana."
+        },
+        {
+          "id": "7c87a433-e358-4c32-aa23-87fb885162a9",
+          "text": "El uso de glucocorticoides en dosis bajas no afecta al sistema inmune."
+        },
+        {
+          "id": "acc29735-9f1e-4424-8d4b-165eaee42ad5",
+          "text": "La asociación de más de una causa de inmunodeficiencia secundaria en un mismo sujeto es muy poco frecuente."
+        },
+        {
+          "id": "5facde6a-e49d-4881-94bc-d1268f4e743b",
+          "text": "Su prevalencia es similar a la de las inmunodeficiencias primarias."
+        }
+      ]
+    },
+    {
+      "id": "f004d0bc-32a7-4452-b647-f7c6afdffca5",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "En cuanto a las inmunodeficiencias secundarias, señale la opción correcta:",
+      "options": [
+        {
+          "id": "54913621-87f6-4675-87bf-b5de5529af44",
+          "text": "Ciertas infecciones pueden provocar inmunodeficiencia por generar alteraciones en el sistema inmunitario del paciente.",
+          "correct": true
+        },
+        {
+          "id": "83e50c5d-8fee-4f87-8bc8-91b2f110face",
+          "text": "Es necesario para su desarrollo la presencia de alguna alteración patológica."
+        },
+        {
+          "id": "3c9df4dc-61ca-4324-903c-988df1de686a",
+          "text": "La malnutrición se ha convertido en una causa poco común a nivel mundial debido a la disminución de la desnutrición."
+        },
+        {
+          "id": "2cdf187b-8988-4408-84ce-a5975d54e58e",
+          "text": "Se caracterizan por presentar alteraciones congénitas."
+        },
+        {
+          "id": "7f178d3f-f326-4d5e-9697-8fd33d0bc687",
+          "text": "Son menos frecuentes que las inmunodeficiencias primarias."
+        }
+      ]
+    },
+    {
       "id": "d1366f27-6474-4b44-829e-80a4dbec21fc",
       "evaluation": "parcial_3",
       "source": "self_assessment",
@@ -7142,6 +7287,35 @@
       ]
     },
     {
+      "id": "d169c7ab-63f8-4de8-9872-c1995b85b555",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "En el sistema de asignación renal vigente en nuestro país (marque lo correcto):",
+      "options": [
+        {
+          "id": "1670048d-b3bc-4766-ab8b-e419b5db78d1",
+          "text": "La fase de flujo del algoritmo de adjudicación, prioriza a los receptores con al menos uno de los siguientes criterios: emergencias clínica, identidad donante receptor en sistema HLA e hiperinmunización HLA (P.R.A mayor 80%).",
+          "correct": true
+        },
+        {
+          "id": "4a56b741-4781-40c3-a14b-c3717a658c48",
+          "text": "La etiología inmune de la enfermedad de base que llevó a la insuficiencia renal, es una de las variables para sumar puntaje de adjudicación."
+        },
+        {
+          "id": "32b44617-8d49-46c3-aadc-823e7e094c64",
+          "text": "Se asigna por criterio de compatibilidad Rh."
+        },
+        {
+          "id": "aaf00c3b-0160-4d68-9160-0d5411d6be37",
+          "text": "Se considera el peso del donante y receptor (más/menos 20%)."
+        },
+        {
+          "id": "6161aa12-bb89-439d-b74f-ba3f06e9ea82",
+          "text": "Se toma en cuenta exclusivamente la compatibilidad HLA."
+        }
+      ]
+    },
+    {
       "id": "61dbd5aa-be8b-4ed7-a00a-d1a3572a7d74",
       "evaluation": "parcial_3",
       "source": "self_assessment",
@@ -7167,6 +7341,64 @@
         {
           "id": "13450fbb-9360-4fbc-a282-0a783cadb4aa",
           "text": "La seguridad de las vacuna."
+        }
+      ]
+    },
+    {
+      "id": "ddbd7765-f18a-475a-bf04-625ebea26409",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "En la patogenia del púrpura trombocitopénico autoinmune participan reacciones de hipersensibilidad de tipo II que se caracterizan por ser (señale la opción correcta):",
+      "options": [
+        {
+          "id": "dca1596a-7f29-4f1b-86e0-bd6af315afe9",
+          "text": "Reacciones mediadas por anticuerpos que activan mecanismos efectores inmunes directos, como la citotoxicidad celular dependiente de anticuerpos.",
+          "correct": true
+        },
+        {
+          "id": "74ac0826-e45b-4696-86da-16f0200a71f5",
+          "text": "Reacciones mediadas por anticuerpos que se unen a proteínas de membrana alterando su función normal."
+        },
+        {
+          "id": "920d1e17-3d91-4e26-9984-08eb5a45c0cc",
+          "text": "Reacciones mediadas por inmunocomplejos que activan el complemento principalmente por la vía clásica."
+        },
+        {
+          "id": "a594d783-117b-4941-a9ac-2b6e0cdd2f8b",
+          "text": "Reacciones mediadas por inmunocomplejos que activan mecanismos efectores inmunes directos como la lisis celular mediada por células."
+        },
+        {
+          "id": "3b9afd0e-cf1e-4a14-a8ed-897c22298f9b",
+          "text": "Reacciones mediadas por la vía alternativa del complemento y células de la inmunidad innata como los mastocitos."
+        }
+      ]
+    },
+    {
+      "id": "a2a43dfd-9fc7-4843-a7b2-d05af5a0a010",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "En la trombocitopenia inmunomediada, aparecen autoanticuerpos que:",
+      "options": [
+        {
+          "id": "418e6968-22a9-4b7e-8232-cbac730d346b",
+          "text": "Pueden disminuir la producción medular de plaquetas.",
+          "correct": true
+        },
+        {
+          "id": "3452e0d9-c34d-43b1-84c8-ba03923fd56b",
+          "text": "Alteran las paredes vasculares, generando consumo de plaquetas."
+        },
+        {
+          "id": "c774a5fc-066e-4e08-bdb4-05707fba3a54",
+          "text": "Crioaglutininas median la aglutinación de las plaquetas cuando baja la temperatura."
+        },
+        {
+          "id": "a18a6050-2241-4210-95f1-bafbfbbd861d",
+          "text": "Pueden ser detectados por la prueba de Coombs indirecta."
+        },
+        {
+          "id": "02d3a57b-724b-4a35-bf81-315b46c6ed0d",
+          "text": "Simulan la función de la trombopoietina, estimulando su receptor."
         }
       ]
     },
@@ -7201,6 +7433,93 @@
       ]
     },
     {
+      "id": "098cd8ac-2c4d-4b73-a8d4-8ace587394a4",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "En relación a la presentación clínica de las inmunodeficiencias:",
+      "options": [
+        {
+          "id": "e6618570-4c1b-4765-94d7-08a722b4c250",
+          "text": "Se caracterizan por una susceptibilidad aumentada a las enfermedades infecciosas.",
+          "correct": true
+        },
+        {
+          "id": "e44c83dc-9e7a-4362-bc8b-e04205a82da7",
+          "text": "Disminuyen significativamente el riesgo de padecer una enfermedad autoinmune."
+        },
+        {
+          "id": "b73e5b32-779b-4377-8ff0-56a94a5f1dad",
+          "text": "Se relacionan con el desarrollo de neoplasias hematológicas pero no de tumores sólidos."
+        },
+        {
+          "id": "152dafa2-19a7-4ada-a991-2a5b6a451432",
+          "text": "Se relacionan con una menor predisposición al desarrollo de neoplasias."
+        },
+        {
+          "id": "f36028fb-911e-400b-ac05-cd6091dcdb0c",
+          "text": "Son condiciones que en la mayoría de los casos resultan incompatibles con la vida."
+        }
+      ]
+    },
+    {
+      "id": "c6e6c576-17bb-4866-bd19-e2ac22cff412",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "En relación a las citopenias inmunomediadas, señale la opción correcta:",
+      "options": [
+        {
+          "id": "fc7f18c1-60e1-4d04-966b-19ea5e985a75",
+          "text": "La trombocitopenia inmune se caracteriza por presentar autoanticuerpos contra antígenos de la superficie plaquetaria.",
+          "correct": true
+        },
+        {
+          "id": "923af8c9-b76c-45e9-beac-9e28af208923",
+          "text": "En el test de Coombs indirecto se enfrentan inicialmente los eritrocitos del paciente con el reactivo de Coombs."
+        },
+        {
+          "id": "a133bbe0-be92-4116-8c7e-4d6692fbc1f9",
+          "text": "En la anemia hemolítica autoinmune, la determinación de la temperatura en la que sucede la hemólisis es un factor irrelevante."
+        },
+        {
+          "id": "7dc8c83a-afab-4265-8f98-dc812ed80082",
+          "text": "La opsonización en la trombocitopenia inmune es mediada por anticuerpos de tipo IgM."
+        },
+        {
+          "id": "a11de8ec-ea4b-430a-9da0-9e1d03f74aaf",
+          "text": "Los autoanticuerpos en la anemia hemolítica son principalmente de tipo IgA."
+        }
+      ]
+    },
+    {
+      "id": "8192f168-2a76-4f0e-a050-6f443c570133",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "En relación al trasplante hepático, señale lo correcto:",
+      "options": [
+        {
+          "id": "d105daf3-3d8c-476d-970c-31f01aeafdcf",
+          "text": "Se considera, entre otras variables, la situación clínica del receptor, mediante un score (MELD), para determinar la prioridad.",
+          "correct": true
+        },
+        {
+          "id": "39ec781b-3061-49b5-9fc2-6ce28560acfd",
+          "text": "Es el trasplante de órgano sólido que se realiza con mayor frecuencia en el Uruguay."
+        },
+        {
+          "id": "28c91dc6-01cc-4c43-a684-1d968de8ecbf",
+          "text": "La compatibilidad antropométrica no es considerada para la asignación."
+        },
+        {
+          "id": "a56c1e8a-5079-4076-be52-f9c18874015b",
+          "text": "La tipificación del sitema Rh, es tenida en cuenta para la asignación del órgano."
+        },
+        {
+          "id": "b93231f1-71e6-4a34-aebf-0b7dda5b9d33",
+          "text": "Los antígenos HLA (locus A, B y DR) del donante, son considerados para establecer el orden de receptores para adjudicación."
+        }
+      ]
+    },
+    {
       "id": "8f96772a-844c-467e-881c-2d31e0c2cc8c",
       "evaluation": "parcial_3",
       "source": "self_assessment",
@@ -7227,6 +7546,36 @@
         {
           "id": "81494a66-7d29-4884-921c-3a7873b8ee5f",
           "text": "Una reacción de hipersensibilidad tipo IVd."
+        }
+      ]
+    },
+    {
+      "id": "73c56fe3-a674-4ff1-abe8-9bbacf2c62e1",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "La característica de la respuesta inmune adaptativa que se ve alterada en forma más llamativa en el mieloma múltiple es (señale la opción correcta):",
+      "options": [
+        {
+          "id": "77b445b0-2f7e-4d5c-ad79-9ab6ec10d37f",
+          "text": "La diversidad de anticuerpos.",
+          "correct": true,
+          "explanation": "Esto se debe a una capacidad disminuída de producción de anticuerpos funcionales, aunque cuantitativamente el nivel de inmunoglobulinas séricas esté aumentado a expensas del componente monoclonal."
+        },
+        {
+          "id": "98ac497c-1968-4a55-9634-37d3163b86e5",
+          "text": "La capacidad de autolimitarse."
+        },
+        {
+          "id": "732385cb-89a4-4790-b0f3-542b5c1f1ab4",
+          "text": "La demora entre la exposición al antígeno y el inicio de la reacción."
+        },
+        {
+          "id": "9a0ff8e9-b74a-47dd-8f01-6e1f33379925",
+          "text": "La memoria."
+        },
+        {
+          "id": "8bc5f242-3bdc-42fe-a41f-f098824f72b4",
+          "text": "Las respuestas efectoras celulares."
         }
       ]
     },
@@ -7346,6 +7695,36 @@
       ]
     },
     {
+      "id": "5de87835-2df1-4b78-9465-0b0e5f2e38fc",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "La prueba de anti-globulina (test de Coombs) directa se utiliza para determinar si:",
+      "options": [
+        {
+          "id": "5447c2e4-2096-4bd5-a71e-0f170906c876",
+          "text": "Hay anticuerpos unidos a la membrana de los glóbulos rojos del paciente.",
+          "correct": true,
+          "explanation": "El test de Coombs evidencia la presencia de anticuerpos adheridos a la membrana de los GR."
+        },
+        {
+          "id": "2a7eb399-636a-41dd-9364-29cacad8d528",
+          "text": "Hay anticuerpos libres en el suero del paciente que reaccionan con eritrocitos normales."
+        },
+        {
+          "id": "7ba9989f-593f-48fc-a0bd-dc110a215623",
+          "text": "Hay citoquinas que evidencien activación del complemento en el suero del paciente."
+        },
+        {
+          "id": "e5272e4b-8fe0-4abc-895a-72cdc3d60c04",
+          "text": "Hay deficiencia del complemento en el suero del paciente."
+        },
+        {
+          "id": "e51663da-e48e-4e43-8d0a-ccb33bb7e556",
+          "text": "La anemia hemolítica autoinmune está determinada por anticuerpos fríos."
+        }
+      ]
+    },
+    {
       "id": "0c97a25b-de86-40a5-88a0-4ce3d14d4e7e",
       "evaluation": "parcial_3",
       "source": "self_assessment",
@@ -7402,6 +7781,35 @@
         {
           "id": "549b15f1-c78d-46da-89b6-81729433e951",
           "text": "La activación del complemento por depósito de inmunocomplejos."
+        }
+      ]
+    },
+    {
+      "id": "4ee86456-4b92-4961-acc9-77b757dfb2f8",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "Las reacciones de hipersensibilidad de tipo II, generan daño a través de lesión tisular directa porque:",
+      "options": [
+        {
+          "id": "83c894ec-eab7-4c14-8b19-e790be89173c",
+          "text": "Activan mecanismos efectores a través de anticuerpos que destruyen las estructuras comprometidas.",
+          "correct": true
+        },
+        {
+          "id": "232c230e-8ef8-4b72-b150-141553d80df1",
+          "text": "Activan a los mastocitos tisulares que generan daño en los tejidos donde residen."
+        },
+        {
+          "id": "6a33557f-4838-47a1-aeb1-941530c2a157",
+          "text": "Generan hiperactivación de macrófagos de forma retardada."
+        },
+        {
+          "id": "dc4aa92b-b7c3-4ebd-abe4-ebb04dd81b93",
+          "text": "Interfieren con funciones celulares específicas."
+        },
+        {
+          "id": "c661520e-b159-413c-acaf-264d5cf1d408",
+          "text": "Se generan Linfocitos T que dañan directamente estructuras celulares propias."
         }
       ]
     },
@@ -7466,6 +7874,209 @@
       ]
     },
     {
+      "id": "f152d6a9-2d9b-4b89-b903-5c887cf228d2",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "Marque la opción correcta acerca del trasplante de células progenitoras hematopoyéticas (CPH):",
+      "options": [
+        {
+          "id": "5c474863-9b42-4a28-ada3-10522da93f62",
+          "text": "La compatibilidad HLA es prioridad sobre la compatibilidad ABO.",
+          "correct": true
+        },
+        {
+          "id": "aa44e4ea-5421-433f-a72f-1f7cf4edf753",
+          "text": "En la modalidad Haploidéntico, el donante y receptor comparten ambos haplotipos HLA."
+        },
+        {
+          "id": "5d33a6cf-ed97-4303-93e7-3b8b7470793e",
+          "text": "La compatibilidad ABO es prioridad sobre la compatibilidad HLA."
+        },
+        {
+          "id": "333719df-aecc-4838-b1de-9f75f2aae234",
+          "text": "La enfermedad injerto vs huésped es una evidencia clínica de rechazo de las CPH trasplantadas."
+        },
+        {
+          "id": "82b4c7ae-b21b-4b46-9c40-0112a2fd21c8",
+          "text": "La prueba cruzada donante específica NEGATIVA, es condición obligatoria para habilitar el trasplante de CPH HLA idéntico."
+        }
+      ]
+    },
+    {
+      "id": "6b1dba27-62f5-4091-bf22-b290199f1fe4",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "Marque la opción correcta sobre la respuesta inmune en trasplante de órganos sólidos.",
+      "options": [
+        {
+          "id": "2ef4d980-e8e8-408a-8026-5587202115d1",
+          "text": "Los Linfocitos T citotóxicos (CD8+), se activan por moléculas HLA de clase I presentes en el injerto y producen daño directo del mismo.",
+          "correct": true
+        },
+        {
+          "id": "1b813294-49f4-483e-be16-06e9055d1449",
+          "text": "La activación de la respuesta humoral en el receptor, con la generación de anticuerpos no HLA (anti MICA, anti angiotensina, etc) tiene un efecto protector del injerto."
+        },
+        {
+          "id": "122687da-f44e-4110-be15-fc097105c4bf",
+          "text": "La magnitud de la respuesta alogénica es independiente del órgano involucrado."
+        },
+        {
+          "id": "193f3c8e-65ec-41d9-af03-2b9f5b447d78",
+          "text": "Los Linfocitos T Helper (CD4+), se activan por moléculas HLA clase I presentes en el injerto y producen daño directo del mismo."
+        },
+        {
+          "id": "75f36c5e-11b3-4074-ad14-15ce4c2f8b59",
+          "text": "Que un receptor tenga screening de anticuerpos HLA positivo, implica que presenta anticuerpos donante específico (DSA) contra cualquier donante."
+        }
+      ]
+    },
+    {
+      "id": "d72e228f-7c49-4fcf-9386-e7e3fa3c5b08",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "Marque lo correcto acerca de los estudios que se requieren para trasplante:",
+      "options": [
+        {
+          "id": "0d0b8f09-b849-4f82-9482-4e2120a5c731",
+          "text": "En trasplante de riñón se requiere tipificación ABO, HLA locus A, B y DR y prueba cruzada.",
+          "correct": true
+        },
+        {
+          "id": "ea13d051-7a12-446a-aa8b-0a22329a9d76",
+          "text": "El estudio de screening y especificidad de anticuerpos HLA se realiza al donante en el operativo de trasplante."
+        },
+        {
+          "id": "5a65a047-4c7a-4e15-bd05-fa562e7f5c73",
+          "text": "En trasplante de hígado, se requiere tipificación ABO, HLA en alta resolución y prueba cruzada."
+        },
+        {
+          "id": "a928c0d8-f0db-4c5d-b27a-240ac5f8f247",
+          "text": "La búsqueda de anticuerpos HLA en los receptores renales se realiza mensualmente."
+        },
+        {
+          "id": "247afb10-c075-4203-a841-8d949c215a03",
+          "text": "La prueba cruzada por microlinfocitotoxicidad detecta la presencia de anticuerpos HLA del donante."
+        }
+      ]
+    },
+    {
+      "id": "84b2b269-15f7-4562-be0e-80b9860edd46",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "Marque lo correcto acerca del trasplante de células progenitoras hematopoyéticas (CPH):",
+      "options": [
+        {
+          "id": "b643cf9f-86b7-4959-b003-8fb63ecf8b73",
+          "text": "El trasplante de CPH autólogo, implica la colecta de CPH del paciente, su criopreservación y e infusión post tratamiento de quimioterapia y/o radioterapia.",
+          "correct": true
+        },
+        {
+          "id": "395299d8-a4af-468b-87b2-e3b68c4277fe",
+          "text": "El número de CPH obtenidas de sangre de cordón es generalmente superior a la obtenida de sangre periférica, por lo cual esta es una fuente habitual para adultos."
+        },
+        {
+          "id": "61a311e7-8492-4213-9fc0-ec221b39917c",
+          "text": "El trasplante alogénico sólo se puede relizar si existe un hermano HLA idéntico."
+        },
+        {
+          "id": "9ffaa32f-e715-41a5-8432-371aacc816f5",
+          "text": "La incompatibilidad ABO inhabilita el trasplante de CPH."
+        },
+        {
+          "id": "fb851b3c-3b14-48dd-85ec-4efabd54120f",
+          "text": "Las fuentes de células progenitoras para trasplante son: ganglios, médula ósea, bazo, sangre de cordón umbilical y sangre periférica."
+        }
+      ]
+    },
+    {
+      "id": "e81aae52-1821-4f8d-a7f5-5b2993951d06",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "Marque lo correcto respecto a los requerimentos de compatibilidad HLA para trasplante:",
+      "options": [
+        {
+          "id": "24d28760-8699-42c5-8814-c19100b9cbaa",
+          "text": "En trasplante de células progenitoras hematopoyéticas no relacionado, se considera compatibilidad HLA donante receptor a nivel alélico.",
+          "correct": true
+        },
+        {
+          "id": "4dcc2c58-adf6-405e-968a-d32a1c71d1c7",
+          "text": "En trasplante de riñón se busca compatibilidad HLA donante receptor a nivel alélico."
+        },
+        {
+          "id": "0b8374ed-3b1d-444e-811b-3e5634d0e0d4",
+          "text": "En trasplante hepático se requiere compatibilidad HLA donante receptor a nivel antigénico."
+        },
+        {
+          "id": "ead5a945-ed21-4c41-99b8-26fb31340a19",
+          "text": "Los episodios de rechazo en el primer año del trasplante renal son mas frecuentes cuando las incompatibilidades HLA corresponden a clase I."
+        },
+        {
+          "id": "71e2f693-66e9-4897-8257-9cebefe17208",
+          "text": "Para todos los trasplantes de órganos se requiere compatibilidad HLA en locus A, B y DR."
+        }
+      ]
+    },
+    {
+      "id": "1230c4b1-4db4-4e9e-8e0c-6aa40c342d51",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "Respecto a las inmunodeficiencias señale la opción correcta:",
+      "options": [
+        {
+          "id": "ec4da757-96d9-4390-a55d-4a5cf8fd88f4",
+          "text": "Afectan a la inmunidad innata y adaptativa tanto humoral como celular.",
+          "correct": true
+        },
+        {
+          "id": "6c98062d-a025-4ef9-af3a-72f83598b774",
+          "text": "Afectan a la inmunidad innata y a la respuesta inmune adaptativa efectora, sin alterar la inmunidad de memoria."
+        },
+        {
+          "id": "c7c6499c-daff-4e8a-b6f9-5c01a91c00f4",
+          "text": "Afectan a la respuesta inmune innata y a la inmunidad humoral sin comprometer la respuesta inmune mediada por células."
+        },
+        {
+          "id": "612ee596-4a42-4a9f-a9c9-2bdc0b753ec4",
+          "text": "Afectan al correcto desarrollo de la respuesta inmune adaptativa siendo normal la inmunidad innata."
+        },
+        {
+          "id": "da8364e5-03cb-4f63-b14d-9d28cc817c88",
+          "text": "Afectan al desarrollo de la respuesta inmune específica pero no así a la inmunidad inespecífica."
+        }
+      ]
+    },
+    {
+      "id": "f949fb1f-4f91-4046-955c-9a4ec4495fd7",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "Respecto al sistema de antígenos eritrocitarios ABO, marque lo correcto:",
+      "options": [
+        {
+          "id": "5ed3b726-d876-4876-9fba-a2cc4014fcd0",
+          "text": "Todas las opciones son incorrectas.",
+          "correct": true
+        },
+        {
+          "id": "6bd98282-f951-4dfa-b451-ac9d32de9387",
+          "text": "Es el sistema de mayor relevancia para la compatibilidad en el trasplante de células progenitoras hematopoyéticas."
+        },
+        {
+          "id": "5a6e6121-2aff-41c4-94da-3b718779fa8d",
+          "text": "Los antígenos se expresan exclusivamente a nivel eritrocitario."
+        },
+        {
+          "id": "e36692d5-0990-49e4-990d-7e60806bea78",
+          "text": "Los individuos del grupo AB presentan anticuerpos naturales anti A y anti B."
+        },
+        {
+          "id": "f038a37f-e53e-48cd-a9bd-b3294ef0ddd1",
+          "text": "Un individuo del grupo A, presenta anticuerpos naturales contra el grupo 0."
+        }
+      ]
+    },
+    {
       "id": "72ef4f29-40ba-4080-85be-308d4ff7e037",
       "evaluation": "parcial_3",
       "source": "self_assessment",
@@ -7492,6 +8103,35 @@
         {
           "id": "33aef0ab-eca4-44ea-87c9-456ada4c23c4",
           "text": "Permite detectar y cuantificar el interferón gamma liberado por los linfocitos del paciente."
+        }
+      ]
+    },
+    {
+      "id": "f3fb7a9d-861c-468e-b62a-31e94e28dcbf",
+      "evaluation": "parcial_3",
+      "source": "self_assessment",
+      "text": "Sexo masculino, 37 años, mal medio socioeconómico, índice de masa corporal (IMC) 23 kg/m2. Trasplantado renal bajo tratamiento inmunosupresor. El factor que favorece que este paciente pueda tener mayor predisposición a infecciones y a complicaciones de las mismas es:",
+      "options": [
+        {
+          "id": "838ce0fd-46f5-47b4-a233-fab8a48347ba",
+          "text": "Tratamiento inmunosupresor.",
+          "correct": true
+        },
+        {
+          "id": "a69e0aae-cae6-4362-ae4c-5b31cc924394",
+          "text": "Edad."
+        },
+        {
+          "id": "70a5a70a-b800-41ba-8215-d3735c5d819b",
+          "text": "IMC 23 kg/m2."
+        },
+        {
+          "id": "af639387-1d93-4039-a7fa-20d0d9fb1aa5",
+          "text": "Mal medio socioeconómico."
+        },
+        {
+          "id": "29469748-a739-4784-bfc9-ba6d18d7957e",
+          "text": "Sexo masculino."
         }
       ]
     },
@@ -11607,7 +12247,7 @@
         },
         {
           "id": "60341866-ef7e-4a97-bd66-d2339ced3205",
-          "text": "Receptor y suabuelo."
+          "text": "Receptor y su abuelo."
         },
         {
           "id": "86662c7d-66e3-4885-bcdb-0b0c1f3e9553",
@@ -12422,12 +13062,12 @@
           "correct": true
         },
         {
-          "id": "93f363a1-8214-4376-a43e-8a0fbdaa87c2",
-          "text": "Ceftazidime / ácido borónico / Cefotaxime."
+          "id": "dfdaf35c-180b-46d3-8f22-b427dadc041a",
+          "text": "Ceftazidime / EDTA / Cefotaxime."
         },
         {
-          "id": "dfdaf35c-180b-46d3-8f22-b427dadc041a",
-          "text": "Ceftazidime/ EDTA / Cefotaxime."
+          "id": "93f363a1-8214-4376-a43e-8a0fbdaa87c2",
+          "text": "Ceftazidime / ácido borónico / Cefotaxime."
         },
         {
           "id": "9d8ca5d6-5e45-443a-9a8b-8902012bfad0",
