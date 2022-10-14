@@ -13200,6 +13200,756 @@
           "text": "Utilización de ultrasonido para un tratamiento terapéutico adecuado."
         }
       ]
+    },
+    {
+      "id": "8ba863cd-ccbb-41f8-b15d-60840f4289e1",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2021-10-16",
+      "text": "Con respecto a las reacciones de hipersensibilidad tipo I, cuál de los siguientes se consideran mediadores secundarios o formados de novo:",
+      "options": [
+        {
+          "id": "bada3a55-f851-4336-b3cc-5dd4e71880f8",
+          "text": "Leucotrienos.",
+          "correct": true
+        },
+        {
+          "id": "f51432e3-d872-494d-a4ed-be921de77606",
+          "text": "Histamina."
+        },
+        {
+          "id": "702e3f50-8bac-4150-a325-c4ce6a0986ca",
+          "text": "Proteoglicanos."
+        },
+        {
+          "id": "83b3ceec-4cde-4f21-8c98-6754468ee8fb",
+          "text": "Quimasa."
+        },
+        {
+          "id": "913c9f9a-a52a-437b-a6a5-24423c1772a5",
+          "text": "Triptasa."
+        }
+      ]
+    },
+    {
+      "id": "7c7cdbae-adfd-40ef-a87b-6a6617c5f1d3",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2021-10-16",
+      "text": "Con respecto a las vías de administración de una vacuna:",
+      "options": [
+        {
+          "id": "8e515c7a-9f47-4fae-8427-47713664519d",
+          "text": "Las vacunas orales generan respuesta inmune a nivel de las mucosas y también a nivel sistémico.",
+          "correct": true
+        },
+        {
+          "id": "d33f76b9-6059-41f5-80d7-6b44e6b19b84",
+          "text": "La vía de administración no afecta el tipo de respuesta inmune generada por la vacuna."
+        },
+        {
+          "id": "017f7f59-34ec-42b6-b071-506e89d3c7ca",
+          "text": "Las vacunas orales generan únicamente respuesta inmune a nivel de las mucosas."
+        },
+        {
+          "id": "fb9fd47b-3798-4b14-a76d-fc7e1ac9a253",
+          "text": "Las vacunas orales se caracterizan por inducir únicamente IgA en mucosas y a nivel sistémico."
+        },
+        {
+          "id": "f0c5394c-8616-4ab3-9504-fd6636f1a1b3",
+          "text": "Las vacunas orales se caracterizan por inducir únicamente IgG en mucosas y a nivel sistémico."
+        }
+      ]
+    },
+    {
+      "id": "04572fab-eb38-44d2-a3bf-3d177e2e4df4",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2021-10-16",
+      "text": "El daño epitelial inducido por la inyección de una vacuna de administración parenteral:",
+      "options": [
+        {
+          "id": "277d51e5-07fc-4ebe-9605-3d079ee4733a",
+          "text": "Constituye la primera señal de activación de la respuesta inmune en parte por la liberación de mediadores inflamatorios.",
+          "correct": true
+        },
+        {
+          "id": "22d0ef81-d078-4568-a0dc-8dcaf180fd3e",
+          "text": "Es importante para la activación local de linfocitos B naive."
+        },
+        {
+          "id": "64f45c55-cff3-40ef-96dc-eacfbee204fb",
+          "text": "Es importante para la activación local de los linfocitos T naive."
+        },
+        {
+          "id": "1bb427a2-dcc9-4960-a9af-36a4c723c0f8",
+          "text": "Es necesario para la activación de los linfocitos T reguladores."
+        },
+        {
+          "id": "bee0376d-1852-4451-8ef8-332f7822d326",
+          "text": "No tiene ningún efecto en el inicio de la respuesta inmune inducida por la vacuna."
+        }
+      ]
+    },
+    {
+      "id": "f72bdbd2-7862-454a-8a1a-6705a312466c",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2021-10-16",
+      "text": "En cuanto a las reacciones de hipersensibilidad tipo IVc. En la fase efectora del desencadenamiento ocurre:",
+      "options": [
+        {
+          "id": "f1ce5950-e074-463d-894c-734630af1983",
+          "text": "La apoptosis de la célula diana por granzimas y perforinas.",
+          "correct": true
+        },
+        {
+          "id": "9501fad4-4d4a-4971-91ca-524db1eb5817",
+          "text": "La activación del linfocito Th1."
+        },
+        {
+          "id": "19404016-86da-405e-95ff-1623c4c624c0",
+          "text": "La activación del mastocito."
+        },
+        {
+          "id": "639d0ce9-afee-44be-8cad-c9e15259552c",
+          "text": "La apoptosis de la célula diana por el macrófago."
+        },
+        {
+          "id": "5dc38f7f-a76a-4f4e-92e0-d544081399b5",
+          "text": "La apoptosis de la célula diana por eosinofilo."
+        }
+      ]
+    },
+    {
+      "id": "8f43f75e-5ff2-433d-95a6-6accd676652c",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2021-10-16",
+      "text": "En la base etiopatogénica de las inmunodeficiencias primarias subyace un trastorno intrínseco del sistema inmunológico, respecto a las mismas señale la opción que considere correcta:",
+      "options": [
+        {
+          "id": "9105ac7c-fd77-44c9-ab81-3e95f5191151",
+          "text": "Ambas respuestas inmunes (innata y adaptativa) pueden verse comprometidas en forma variable.",
+          "correct": true
+        },
+        {
+          "id": "12d3bedc-91aa-4a73-88e4-2e2b59a5fc2c",
+          "text": "El sistema inmune adquirido es el típicamente afectado mientras que la inmunidad innata se encuentra indemne."
+        },
+        {
+          "id": "b6f9e8f3-57b0-4510-8c49-7d7b4dc6b2b2",
+          "text": "Existe un defecto heredado en el sistema inmune innato sin afectar la respuesta inmune adaptativa."
+        },
+        {
+          "id": "fa0e6daa-9c85-41ab-8f1a-4d445200e0f5",
+          "text": "La vertiente humoral de la inmunidad adquirida se encuentra comprometida mientras que el resto del sistema inmunológico funciona adecuadamente."
+        },
+        {
+          "id": "8932e704-f75d-43c7-9662-662f77b13c40",
+          "text": "Sin importar cual sea la vertiente de la respuesta inmune comprometida la expresión clínica es la misma."
+        }
+      ]
+    },
+    {
+      "id": "930ea0ef-3057-488f-acb6-691ab9543494",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2021-10-16",
+      "text": "En relación a la respuesta alogénica marque lo correcto:",
+      "options": [
+        {
+          "id": "7cd35955-b45b-4a5a-a4aa-d113fced2a81",
+          "text": "Tanto los linfocitos Th1 como Th2 pueden tener un papel destacado en la respuesta aloinmune.",
+          "correct": true
+        },
+        {
+          "id": "628bd80f-b7a4-44a0-9ef1-20199083a479",
+          "text": "Las células presentadoras de antígenos del donante no participan de la respuesta inmune."
+        },
+        {
+          "id": "411d4466-0e6f-443b-a204-900863b3a73d",
+          "text": "Los fármacos inmunosupresores no son útiles como estrategia para prevenir el rechazo."
+        },
+        {
+          "id": "fa9ef113-c447-4704-8053-c92d59016685",
+          "text": "Los linfocitos Th2 no intervienen en eventos de rechazo, ya que la participación de los anticuerpos en el deño del injerto, es excepcional."
+        },
+        {
+          "id": "ae120ecf-e0da-4a3b-8cc3-cf6e3b0601c2",
+          "text": "No se han descrito aún formas crónicas de rechazo."
+        }
+      ]
+    },
+    {
+      "id": "c5fe7d8b-7c31-46c1-8430-0061f42e90ea",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2021-10-16",
+      "text": "En relación a la respuesta alogénica marque lo correcto:",
+      "options": [
+        {
+          "id": "e7e07d8c-6077-43d8-87bc-e02b62b7d38d",
+          "text": "La célula endotelial es el blanco principal en el rechazo hiperagudo.",
+          "correct": true
+        },
+        {
+          "id": "f97d7923-ab1f-45e0-a920-332c16862f80",
+          "text": "A diferencia del CTLA-4, el CD28 no es un coestimulante del linfocito aloreactivo."
+        },
+        {
+          "id": "bd28ed40-f6f7-4b87-81e2-2aed7ef51e59",
+          "text": "El rechazo hiperagudo es un fenómeno frecuente, ya que no contamos con las herramientas para poder prevenirlo."
+        },
+        {
+          "id": "2c2e1cb5-5da6-44c2-9da2-2e4f17df579b",
+          "text": "La tolerancia es un fenómeno no deseado, puesto que impide el reconocimiento de péptidos extraños."
+        },
+        {
+          "id": "ded5e8b8-70e7-431b-bc3c-68b3390ed367",
+          "text": "Los anticuerpos no tienen un rol relevante en la respuesta alogénica."
+        }
+      ]
+    },
+    {
+      "id": "29979014-d0d5-46d1-8914-3c98e1762445",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2021-10-16",
+      "text": "En relación a la variabilidad genética observada en los individuos y la respuesta a las vacunas. Señale la opción correcta:",
+      "options": [
+        {
+          "id": "cb1fe4f0-cb34-40d0-bfac-bcf0d84c57dc",
+          "text": "Las diferencias entre individuos en la respuesta humoral a una vacuna se explican parcialmente por sus diferencias genéticas.",
+          "correct": true
+        },
+        {
+          "id": "5c851576-229b-46c1-99a3-c397b6f54d50",
+          "text": "El GWAS permite determinar los mecanismos moleculares que explican la asociación entre un genotipo y una respuesta humoral específica."
+        },
+        {
+          "id": "f0cf5a1a-6df3-48e9-823a-63921bab9761",
+          "text": "La asociación entre un genotipo y determinado título de anticuerpos se considera significativa si la variabilidad explicada por el polimorfismo es mayor al 95%."
+        },
+        {
+          "id": "8a9a37f7-95f3-4de4-ba71-50686d3413fd",
+          "text": "Las respuestas aberrantes a la vacunación tienen base ambiental y no genética."
+        },
+        {
+          "id": "035319db-1d5e-4e8b-bb2b-6459354c5573",
+          "text": "Las variantes de nucleótido simple en regiones no codificantes no pueden asociarse con la variabilidad en la respuesta a anticuerpos neutralizantes."
+        }
+      ]
+    },
+    {
+      "id": "c70db5b5-8c1d-49c0-a70a-120e1eb981e4",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2021-10-16",
+      "text": "En relación a las células B de memoria:",
+      "options": [
+        {
+          "id": "c39d19e1-c27a-4608-9474-d4214b02601a",
+          "text": "Una proporción de estas células permite generar respuestas más robustas y rápidas frente a variantes del antígeno original.",
+          "correct": true
+        },
+        {
+          "id": "7d473526-1d7c-479b-b735-789242446b6e",
+          "text": "Están localizadas exclusivamente en tejidos periféricos no linfoides."
+        },
+        {
+          "id": "d007d4cc-c94c-4b89-9aa2-39238ca04ad9",
+          "text": "Se generan en la última etapa del desarrollo del centro germinal de manera que todas las células hayan experimentado maduración de afinidad para el antígeno."
+        },
+        {
+          "id": "945d3ddd-85d8-40c5-ae13-af60a1075141",
+          "text": "Su diferenciación depende únicamente de la formación de centros germinales."
+        },
+        {
+          "id": "e1f9551e-5b1c-4a0d-b0f6-a5ad129e4764",
+          "text": "Todas las células B de memoria presentan cambio de isotipo."
+        }
+      ]
+    },
+    {
+      "id": "b18d42b0-80c0-4489-aafa-33ad91873eca",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2021-10-16",
+      "text": "En relación al diseño racional de vacunas, se busca identificar antígenos conservados entre distintas cepas de patógenos porque son:",
+      "options": [
+        {
+          "id": "47bee206-e2c2-48d4-ba27-9176bdb081ac",
+          "text": "Antígenos con potencial de generar protección cruzada entre cepas.",
+          "correct": true
+        },
+        {
+          "id": "695f50e2-3dda-4df3-b23a-227e67337521",
+          "text": "Candidatos vacunales a descartar."
+        },
+        {
+          "id": "5b89598b-1512-40e5-a4f3-94e5cf5ecf8d",
+          "text": "Fundamentales para el diseño la fase clínica."
+        },
+        {
+          "id": "ea7b3e08-0b87-433c-a78b-23a76869eb5f",
+          "text": "Indicadores del final de la fase preclínica."
+        },
+        {
+          "id": "01fea80e-2c64-4850-a826-151063c61917",
+          "text": "Regiones variables de interacción con otras cepas de la misma especie."
+        }
+      ]
+    },
+    {
+      "id": "496d1d29-60b2-48a4-8434-7d4a3b26e737",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2021-10-16",
+      "text": "En relación al sistema HLA y su aplicación en trasplante:",
+      "options": [
+        {
+          "id": "be32e69f-93ac-4d9f-a048-04c07e85bc8b",
+          "text": "El polimorfismo de las moléculas HLA clase I, que se analiza con fines de tipificación, se corresponde con variaciones nucleotídicas en regiones del ADN que codifican el sector de unión al péptido de la cadena alfa.",
+          "correct": true
+        },
+        {
+          "id": "09944698-6cda-4090-bf59-9d88ed430214",
+          "text": "El trasplante de córnea requiere la compatibilización HLA en alta resolución."
+        },
+        {
+          "id": "d05431a5-edbd-4886-b7a4-70f9e9469186",
+          "text": "Es necesario tipificar el sistema HLA de receptor y donante en alta resolución para la asignación renal."
+        },
+        {
+          "id": "d232c42c-b697-4812-8dfe-3693d004fef2",
+          "text": "La adquisición de flora intestinal es un evento sensibilizante clásico para desarrollar anticuerpos de tipo HLA."
+        },
+        {
+          "id": "83791e23-f573-429b-a505-70c7984bdf95",
+          "text": "Los locus que se compatibilizan entre donante y receptor en el Uruguay para trasplante renal, son HLA-A, HLA-B y HLA-DQ."
+        }
+      ]
+    },
+    {
+      "id": "8dd792db-8199-4ad1-bf4d-046594b67d24",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2021-10-16",
+      "text": "En relación al sistema HLA, marque lo correcto:",
+      "options": [
+        {
+          "id": "50adcb4c-7234-45f3-ab5c-3138e7d941fe",
+          "text": "Las moléculas HLA de clase I tienen una sola cadena con sectores polimórficos.",
+          "correct": true
+        },
+        {
+          "id": "99f52bb6-5f85-4630-9f00-f7733703e46d",
+          "text": "La probabilidad de compartir un haplotipo entre padres e hijos es del 25%."
+        },
+        {
+          "id": "58ae2f59-8bab-4f40-9de4-f4250855464d",
+          "text": "Las moléculas HLA de clase I presentan antígenos no compartidos a linfocitos B."
+        },
+        {
+          "id": "2325ce55-ebf5-46bc-8f29-fea89cf25fb8",
+          "text": "Las moléculas HLA de clase II no presentan antígenos en el contexto del trasplante."
+        },
+        {
+          "id": "068e4ad2-db24-4d49-b780-909b2c8a2279",
+          "text": "Tiene herencia mendeliana dominante, por lo que se expresa el HLA de un solo progenitor."
+        }
+      ]
+    },
+    {
+      "id": "50966f58-edd2-4d54-98db-810804e6c8e6",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2021-10-16",
+      "text": "La acción terapéutica del omalizumab en el asma atópica se explica por:",
+      "options": [
+        {
+          "id": "f65de057-692a-4303-a31f-ac4ffb9ebd9e",
+          "text": "Bloqueo de la IgE.",
+          "correct": true
+        },
+        {
+          "id": "7a7620c7-8c11-4f6f-9536-23f9e630c4de",
+          "text": "Bloqueo de la IL-4."
+        },
+        {
+          "id": "63771bbc-eaa2-4257-a114-0c85fc8e322b",
+          "text": "Bloqueo de la IL-13."
+        },
+        {
+          "id": "7294a41b-c1f0-43c5-971c-733e8ac9c4a1",
+          "text": "Bloqueo de la IL-5."
+        },
+        {
+          "id": "6b942773-e7f4-47be-9a0c-a05e93540ee2",
+          "text": "Bloqueo del IFN-gamma."
+        }
+      ]
+    },
+    {
+      "id": "50979fb1-71fc-423d-9dca-1027186ba401",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2021-10-16",
+      "text": "La prueba antiglobulina (Coombs) indirecta se utiliza para determinar si:",
+      "options": [
+        {
+          "id": "386ceb05-aea9-4fc0-9bb9-41f928d0dbb7",
+          "text": "Hay anticuerpos en el suero del paciente que reaccionan con antígenos eritrocitarios.",
+          "correct": true
+        },
+        {
+          "id": "bbbf724b-507a-42fc-8e5d-c547720757eb",
+          "text": "Hay IgG o C3 unido a la membrana de los glóbulos rojos del paciente."
+        },
+        {
+          "id": "b0aa08a5-c0e0-4f65-bc08-615847bce12b",
+          "text": "Hay citoquinas que evidencien activación del complemento en el suero del paciente."
+        },
+        {
+          "id": "60926944-8a59-4a9b-8650-14377c5afbf7",
+          "text": "Hay deficiencia del complemento en el suero del paciente."
+        },
+        {
+          "id": "cc57fc67-851a-433b-9f98-88d643706c9e",
+          "text": "La anemia hemolítica autoinmune está determinada por anticuerpos fríos."
+        }
+      ]
+    },
+    {
+      "id": "d9b30e37-776e-4bd5-bf5d-13c8cf8a4110",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2021-10-16",
+      "text": "La vacuna BB152 contra el coronavirus de la empresa India Bharat utiliza como adyuvante alúmina e IMDG (agonista TLR 7/8). ¿Qué ventaja encontraron en los ensayos clínicos con el uso de éste adyuvante en relación al uso de alúmina sola?",
+      "options": [
+        {
+          "id": "a0fae8e9-e1bd-4018-9c6d-0e85c40a0272",
+          "text": "Mejor perfil de respuesta del tipo Th1.",
+          "correct": true
+        },
+        {
+          "id": "308b02eb-cfc4-46ae-94e7-ecc5b39a95c4",
+          "text": "Mayor duración de la respuesta de anticuerpos."
+        },
+        {
+          "id": "b34d3846-2558-469d-b097-6518fb7ed48b",
+          "text": "Mayor efectividad."
+        },
+        {
+          "id": "54487443-c1ed-4ad4-9506-52bbcd32eb01",
+          "text": "Menor número de reacciones adversas."
+        },
+        {
+          "id": "4b890b54-9059-4313-9a43-bb595e898df1",
+          "text": "Respuesta mayor a 100 veces de anticuerpos neutralizantes."
+        }
+      ]
+    },
+    {
+      "id": "69a440b4-f5a0-4f3c-89a1-3f43d646e973",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2021-10-16",
+      "text": "Las enfermedades infecciosas necesitan de ciertas condiciones para poder ser erradicables por vacunación. Señale la opción INCORRECTA:",
+      "options": [
+        {
+          "id": "62b877cf-aed2-4309-8db3-4942ea8bd7ff",
+          "text": "Que no exista transmisión de persona a persona.",
+          "correct": true
+        },
+        {
+          "id": "897608e6-047f-45e5-96b0-77f04d54b90c",
+          "text": "Ausencia de brotes en zonas geográficas para esa enfermedad."
+        },
+        {
+          "id": "dd0470a9-a8c8-4207-b9a8-f238411e3460",
+          "text": "Estrategias vacunales a nivel mundial coordinadas en tiempo y espacio."
+        },
+        {
+          "id": "a397a32b-6d3d-4aee-82d4-cb656f266a23",
+          "text": "Existencia de una vacuna efectiva que promueva la inmunidad de rebaño."
+        },
+        {
+          "id": "b21a045f-8349-449e-b8b4-ad6aca76ff2d",
+          "text": "No existir reservorios animales más que el humano."
+        }
+      ]
+    },
+    {
+      "id": "5b69a5fd-cf9b-4c73-8290-82694bc30322",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2021-10-16",
+      "text": "Los test IGRA (interferón gamma release assay) al igual que el PPD (prueba de la tuberculina) son útiles para diagnosticar:",
+      "options": [
+        {
+          "id": "2bafcaca-9181-4ff1-976e-6b37458fb9c0",
+          "text": "Tuberculosis latente o infección tuberculosa.",
+          "correct": true
+        },
+        {
+          "id": "d8bc8763-6e5f-4e95-b90b-0bbb49190d61",
+          "text": "Tuberculosis extra-pulmonar."
+        },
+        {
+          "id": "1e709f81-2f79-4b70-88cb-b2ae0f89ebfa",
+          "text": "Tuberculosis pulmonar de reactivación."
+        },
+        {
+          "id": "505ade01-cd92-4cde-8b15-c5385d0d04ba",
+          "text": "Tuberculosis pulmonar primaria."
+        },
+        {
+          "id": "ff9319b6-eb17-448d-897e-40b361df5e1c",
+          "text": "Tuberculosis secundaria."
+        }
+      ]
+    },
+    {
+      "id": "21e52b86-1828-46f8-a8f7-36840df7d610",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2021-10-16",
+      "text": "Respecto a la leishmaniasis, indique la opción correcta:",
+      "options": [
+        {
+          "id": "a1c48019-3ef8-430c-870d-5ee46bea7d5a",
+          "text": "El desarrollo de una vacuna contra esta enfermedad es un desafío, por el ciclo complejo de vida del agente etiológico.",
+          "correct": true
+        },
+        {
+          "id": "33bc65ad-eeca-426e-bced-c90973512279",
+          "text": "Es una enfermedad en vías de erradicación, dado que se cuenta con una vacuna eficaz para cortar su transmisión."
+        },
+        {
+          "id": "d3c911ec-814e-482e-92d3-4102b756c354",
+          "text": "Es causada por un parásito extracelular, cuyo único hospedero conocido es el ser humano."
+        },
+        {
+          "id": "c8266396-eb56-4b49-b45a-503f5a374de2",
+          "text": "Es una enfermedad poco prevalente en nuestro país ya que se asocia a climas más secos y fríos."
+        },
+        {
+          "id": "2aa5261e-0f1a-4dc5-85e7-54b949fcffb7",
+          "text": "Existe una vacuna de administración masiva que consiste en polisacárido capsular de 13 serotipos conjugados a toxoide."
+        }
+      ]
+    },
+    {
+      "id": "b7e05d6a-a5ae-4aa1-b13a-d718c1c779b4",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2021-10-16",
+      "text": "Sobre el R0, señale la opción incorrecta:",
+      "options": [
+        {
+          "id": "db405545-16f4-4231-9bc4-bffe8c1af36a",
+          "text": "Cuanto más alto, mejor probabilidad de lograr la erradicación de la enfermedad.",
+          "correct": true
+        },
+        {
+          "id": "000f86bb-f305-4e21-8bf0-c0544cf9aac9",
+          "text": "Determina la cobertura vacunal necesaria para llegar a la inmunidad de rebaño."
+        },
+        {
+          "id": "dd591725-f0c5-4531-96bb-4bc97d60353b",
+          "text": "Es diferente para cada enfermedad y a su vez puede variar."
+        },
+        {
+          "id": "078df548-54c0-485f-a9ee-d65a36290350",
+          "text": "Está determinado tanto por el patógeno como por el huésped y el ambiente."
+        },
+        {
+          "id": "961da12f-f246-4e38-9a60-6fb347ae8b5d",
+          "text": "Se busca que sea menor a 1."
+        }
+      ]
+    },
+    {
+      "id": "36512433-5f1f-484f-8378-541ab71b7ef1",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2021-10-16",
+      "text": "Sobre las características de la vacuna CoronaVac, producida por el laboratorio Sinovac, usted puede afirmar que:",
+      "options": [
+        {
+          "id": "ca620ce8-b311-460c-8495-62ae8a7c470c",
+          "text": "Utilizan como adyuvante hidróxido de aluminio.",
+          "correct": true
+        },
+        {
+          "id": "f323aa3c-99c2-427e-b9a3-9b29a0008610",
+          "text": "Contiene virus vivo en su composición."
+        },
+        {
+          "id": "8dbf2e04-0388-4b3d-8afe-db9c415d4800",
+          "text": "Es una de las menos seguras, ya que utiliza virus salvaje."
+        },
+        {
+          "id": "e893a303-73e4-432a-8b16-40d9d0ce2a89",
+          "text": "Posee un nivel de eficacia inferior al 50% según los estudios publicados."
+        },
+        {
+          "id": "f05a9078-9554-47ea-9afa-2b84d5a768e5",
+          "text": "Utilizan como adyuvante nanopartículas lipídicas."
+        }
+      ]
+    },
+    {
+      "id": "0748e9cc-7d92-4770-8d02-8b219bba6ef7",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2021-10-16",
+      "text": "Sobre las estrategia de vacunación en capullo, señale la opción correcta:",
+      "options": [
+        {
+          "id": "09ece9b3-eb62-4333-939d-2ebd214adc21",
+          "text": "Consiste en vacunar al entorno cercano que estará en estrecho contacto con la persona en cuestión que se intenta proteger.",
+          "correct": true
+        },
+        {
+          "id": "e122c221-9ecc-4769-ae16-706bd942852d",
+          "text": "Es la estrategia ideal para contener un brote."
+        },
+        {
+          "id": "3fc0bcca-1575-4ae3-9f65-b933a4f80f7d",
+          "text": "Este concepto solo aplica a recién nacidos que aún no pudieron recibir todas las vacunas."
+        },
+        {
+          "id": "e2d84f9c-920b-409e-9522-90299c84296d",
+          "text": "Se aplica únicamente a trasplantados, de forma de protegerlos frente al contagio."
+        },
+        {
+          "id": "e3cb0c84-bb5b-4065-9d20-4b55b35dc103",
+          "text": "Se refiere a la transmisión vertical de anticuerpos al feto a través de la placenta."
+        }
+      ]
+    },
+    {
+      "id": "c5c7fad0-d44c-40f8-8375-b95ddbf70c1c",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2021-10-16",
+      "text": "Sobre las vacunas incluidas en el CEV, marque la opción correcta:",
+      "options": [
+        {
+          "id": "6d2550fe-f68a-464b-9c13-574052452684",
+          "text": "La vacuna contra HPV está indicada a los niños y niñas de 11-12 años (6° de escuela).",
+          "correct": true
+        },
+        {
+          "id": "bc9dc0ba-b534-4d49-b9f6-05deb5e7d968",
+          "text": "La vacuna IPV presenta riesgo de generar polio iatrogénica (derivada de la vacunación)."
+        },
+        {
+          "id": "16ad7560-f6da-489a-9e1c-c9cdf5719b0a",
+          "text": "La vacuna celular contra la tos ferina es un ejemplo de vacuna de subunidades sin adyuvante."
+        },
+        {
+          "id": "4c8074a4-34c3-4e07-8397-42b1f1d273bf",
+          "text": "La vacuna de toxoide contra el tétanos tiene la desventaja de que puede revertir la virulencia."
+        },
+        {
+          "id": "924cb819-c9d2-4912-a112-ce655f18e470",
+          "text": "La vacuna inactivada de hepatitis A tiene la desventaja de que puede revertir la virulencia."
+        }
+      ]
+    },
+    {
+      "id": "a12fad92-b879-4b6c-9c18-63888866ceb3",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2021-10-16",
+      "text": "Un paciente con infecciones a repetición por bacterias intracelulares, virus, hongos o protozoarios, tiene alterada la respuesta inmune...",
+      "options": [
+        {
+          "id": "dbc1d7f2-958b-47d7-bf7b-12acfa807e21",
+          "text": "Adaptativa celular.",
+          "correct": true
+        },
+        {
+          "id": "5d1615a5-7bc9-438a-b358-73faa53e0c97",
+          "text": "Adaptativa humoral por IgA."
+        },
+        {
+          "id": "7a071814-ca03-45ae-b690-2246552d45fb",
+          "text": "Adaptativa humoral por IgG."
+        },
+        {
+          "id": "b7b3b277-2bae-45b3-9f5b-de5c27aedfb2",
+          "text": "Adaptativa humoral por IgM."
+        },
+        {
+          "id": "d767aba3-aea4-45a6-9179-a0dda4d1461d",
+          "text": "Innata."
+        }
+      ]
+    },
+    {
+      "id": "660ab4d0-bc2f-47b5-898b-09d9ea785035",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2021-10-16",
+      "text": "¿Cuál vacuna no está incluida en el CEV?",
+      "options": [
+        {
+          "id": "93d3cde7-1a8f-4f20-9747-8e03e896eeec",
+          "text": "Meningocóccica.",
+          "correct": true
+        },
+        {
+          "id": "336f0913-3d70-411e-85b2-928baa7bf67f",
+          "text": "BCG."
+        },
+        {
+          "id": "a3891727-e827-4e74-9b6d-7d0a5646fca4",
+          "text": "Hepatitis A."
+        },
+        {
+          "id": "a69ba5a1-f1ba-42ec-bf9d-ec917383a589",
+          "text": "Poliomielitis IPV."
+        },
+        {
+          "id": "9b5e7cd5-24e9-43a3-8ffa-7b4f7179b5f8",
+          "text": "Triple bacteriana."
+        }
+      ]
+    },
+    {
+      "id": "16d65f36-16f0-4d5f-aaea-f30a1f2b1beb",
+      "evaluation": "parcial_3",
+      "source": "partial",
+      "asked_at": "2021-10-16",
+      "text": "¿Qué tipo de reacción de hipersensibilidad (RHS) explica la patogenia de la anemia hemolítica autoinmune y la trombocitopenia inmune?",
+      "options": [
+        {
+          "id": "1a69e98f-473d-4c1d-a547-cc8224fa194e",
+          "text": "RHS tipo II (mediada por anticuerpos).",
+          "correct": true
+        },
+        {
+          "id": "5ff24a73-ccd1-4c50-b202-9afd19b3dd43",
+          "text": "RHS tipo I (mediada por IgE)."
+        },
+        {
+          "id": "9f0b7f10-8644-4bb3-9a5f-4b1783cf39dc",
+          "text": "RHS tipo III (mediada por inmunocomplejos)."
+        },
+        {
+          "id": "b815732f-8f82-41e3-a1f1-f9b8d0bffe86",
+          "text": "RHS tipo IVa (mediada por células Th1)."
+        },
+        {
+          "id": "d4f430d4-bc1d-43c1-b67c-e51c34e8398d",
+          "text": "RHS tipo IVc (mediada por células T citotóxicas)."
+        }
+      ]
     }
   ],
   "evaluations": [
