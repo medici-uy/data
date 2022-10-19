@@ -578,7 +578,7 @@
       "options": [
         {
           "id": "5c91313c-1f8c-460b-8384-e396bdb9f39c",
-          "text": "Tiene residuos de gama carboxi-glutamato (Gla) en su estructura.",
+          "text": "Tiene residuos de gamma carboxi-glutamato (Gla) en su estructura.",
           "correct": true
         },
         {
@@ -708,7 +708,7 @@
         },
         {
           "id": "b3f18684-15b6-4934-b41d-75b2ccddf456",
-          "text": "La banda b corresponde a α2γ2 (alfa2-gama2)."
+          "text": "La banda b corresponde a α2γ2 (alfa2-gamma2)."
         },
         {
           "id": "33fb34f1-3c37-4359-8e4f-2691a1a1b596",
@@ -886,7 +886,7 @@
         },
         {
           "id": "09b2b436-d068-4fa4-84ca-546e64655336",
-          "text": "En el paciente la relación albúmina/gama globulina es normal."
+          "text": "En el paciente la relación albúmina/gamma globulina es normal."
         },
         {
           "id": "faefec05-a4fa-4174-b321-ca80cfda2611",
@@ -1376,7 +1376,7 @@
         },
         {
           "id": "c372d85a-13a6-4ee0-83d7-08f7c4556e70",
-          "text": "Afecta la formación de residuos de gama-carboxiglutamato en los factores vitamina K dependientes."
+          "text": "Afecta la formación de residuos de gamma-carboxiglutamato en los factores vitamina K dependientes."
         },
         {
           "id": "303b1dcc-304d-49f3-9c65-f25b8f839809",
@@ -1414,7 +1414,7 @@
         },
         {
           "id": "cbb46caf-bc8c-4acf-8647-ddb26c97b90a",
-          "text": "Para sintetizar hemoglobina A2, se requiere la selección de clones de células que expresen los genes alfa y gama."
+          "text": "Para sintetizar hemoglobina A2, se requiere la selección de clones de células que expresen los genes alfa y gamma."
         },
         {
           "id": "7b39c88b-0103-4183-a39e-52ba5fc288a3",
@@ -2377,7 +2377,7 @@
         },
         {
           "id": "0dcd093f-c267-429b-92f1-338adec7b004",
-          "text": "Muestra que el mismo presenta una proliferación monoclonal de células productoras de gama globulinas."
+          "text": "Muestra que el mismo presenta una proliferación monoclonal de células productoras de gamma globulinas."
         },
         {
           "id": "074eb51d-30a5-40ef-83d1-709c8c31bd49",
@@ -2914,7 +2914,7 @@
         },
         {
           "id": "122e01e1-902c-48c7-a257-53cde0b35d75",
-          "text": "En la mayor parte de las células T maduras, está compuesto por una cadena gama y otra delta."
+          "text": "En la mayor parte de las células T maduras, está compuesto por una cadena gamma y otra delta."
         },
         {
           "id": "5b08cd89-813c-40b4-9d8d-fbc20f0b0d0d",
@@ -7751,7 +7751,7 @@
         },
         {
           "id": "c661520e-b159-413c-acaf-264d5cf1d408",
-          "text": "Se generan Linfocitos T que dañan directamente estructuras celulares propias."
+          "text": "Se generan linfocitos T que dañan directamente estructuras celulares propias."
         }
       ]
     },
@@ -8999,7 +8999,7 @@
         },
         {
           "id": "7df5eb1e-1e4e-4117-a53d-414b94899b4d",
-          "text": "La observación de colonias alfa y gama hemolíticas descarta el origen infeccioso del cuadro."
+          "text": "La observación de colonias alfa y gamma hemolíticas descarta el origen infeccioso del cuadro."
         },
         {
           "id": "9c1f012f-ec7d-4d1b-8854-b3470e390192",
@@ -10707,7 +10707,7 @@
         },
         {
           "id": "458b4239-22dd-47ec-976a-1abc8ccd8284",
-          "text": "Colonias gama hemolíticas."
+          "text": "Colonias gamma hemolíticas."
         },
         {
           "id": "e42e51aa-9bcf-4563-8d3a-4694aa0c866c",
@@ -11137,7 +11137,7 @@
         },
         {
           "id": "993f96ff-379f-4cfa-bd7a-f634f5e8a4d7",
-          "text": "El hallazgo de laboratorio característico es la linfopenia B e hipogamaglobulinemia."
+          "text": "El hallazgo de laboratorio característico es la linfopenia B e hipogammaglobulinemia."
         },
         {
           "id": "2f40e49b-a2f9-4a19-9373-a2bd23df585e",
@@ -13244,10 +13244,6 @@
           "correct": true
         },
         {
-          "id": "d082df83-452e-4d1c-8b28-f96166db1f38",
-          "text": "Los animales de consumo humano son un gran desafío ya que está prohibida su vacunación por parte de la OMS."
-        },
-        {
           "id": "39551d8b-1f01-4ade-9f5c-238cb2652cc8",
           "text": "Las enfermedades zoonóticas, son una gran minoría entre las enfermedades humanas, por eso el poco desarrollo de vacunas enfocadas en animales transmisores."
         },
@@ -13258,6 +13254,10 @@
         {
           "id": "ea9ed3c0-1a5c-4cb6-b117-0184ca06a878",
           "text": "Las zoonosis son enfermedades que no son prevenibles por vacunación."
+        },
+        {
+          "id": "d082df83-452e-4d1c-8b28-f96166db1f38",
+          "text": "Los animales de consumo humano son un gran desafío ya que está prohibida su vacunación por parte de la OMS."
         }
       ]
     },
@@ -13437,7 +13437,7 @@
         },
         {
           "id": "a8d69013-90ca-43b8-832d-459384432208",
-          "text": "Unión de antígenos a las IgE fijadas en la membrana mastocitaria.."
+          "text": "Unión de antígenos a las IgE fijadas en la membrana mastocitaria."
         }
       ]
     },
@@ -13703,7 +13703,7 @@
         },
         {
           "id": "fa9ef113-c447-4704-8053-c92d59016685",
-          "text": "Los linfocitos Th2 no intervienen en eventos de rechazo, ya que la participación de los anticuerpos en el deño del injerto, es excepcional."
+          "text": "Los linfocitos Th2 no intervienen en eventos de rechazo, ya que la participación de los anticuerpos en el daño del injerto, es excepcional."
         },
         {
           "id": "ae120ecf-e0da-4a3b-8cc3-cf6e3b0601c2",
@@ -13738,36 +13738,6 @@
         {
           "id": "ded5e8b8-70e7-431b-bc3c-68b3390ed367",
           "text": "Los anticuerpos no tienen un rol relevante en la respuesta alogénica."
-        }
-      ]
-    },
-    {
-      "id": "d524c17b-3cce-41c7-9fb0-65da30a92477",
-      "evaluation": "parcial_3",
-      "source": "partial",
-      "asked_at": "2021-10-16",
-      "text": "En relación a la respuesta alogénica marque lo correcto:",
-      "options": [
-        {
-          "id": "5ec0d8f7-e722-47cb-953f-7e2d621b6af4",
-          "text": "Tanto los linfocitos Th1 como Th2 pueden tener un papel destacado en la respuesta aloinmune.",
-          "correct": true
-        },
-        {
-          "id": "ccbcfc52-b9fa-4bba-82ca-64cd96cc9e49",
-          "text": "Los linfocitos Th2 no intervienen en eventos de rechazo, ya que la participación de los anticuerpos en el deño del injerto, es excepcional."
-        },
-        {
-          "id": "0cadc93c-7e93-46d1-bbfb-bdab4e72b19b",
-          "text": "Las células presentadoras de antígenos del donante no participan de la respuesta inmune."
-        },
-        {
-          "id": "482148a3-98c3-4a4e-bc6b-7c18d8e94a40",
-          "text": "Los fármacos inmunosupresores no son útiles como estrategia para prevenir el rechazo."
-        },
-        {
-          "id": "cbddbd80-eda9-4e2f-8a07-b36f1224b8ad",
-          "text": "No se han descrito aún formas crónicas de rechazo."
         }
       ]
     },
@@ -13986,7 +13956,7 @@
       "options": [
         {
           "id": "ec8239c9-44da-4158-ba91-ba5c7cc56451",
-          "text": "La capacidad de los antígenos de ser presentados en el contexto de MHC-I y MHCII.",
+          "text": "La capacidad de los antígenos de ser presentados en el contexto de MHC-I y MHC-II.",
           "correct": true
         },
         {
@@ -14093,7 +14063,7 @@
         },
         {
           "id": "6b942773-e7f4-47be-9a0c-a05e93540ee2",
-          "text": "Bloqueo del IFN-gamma."
+          "text": "Bloqueo del IFN-γ."
         }
       ]
     },
@@ -14380,19 +14350,15 @@
           "correct": true
         },
         {
-          "id": "12616591-06af-4674-afc9-78747aee4f8b",
-          "text": "Difteria, Tétanos, Bordetella pertussis, Virus influenza, Hepatitis B."
-        },
-        {
           "id": "aa9b7874-c682-4d77-a4a9-181c33a26cbe",
           "text": "Difteria, Tétanos, Bordetella pertussis, Streptococcus pneumoniae, Hepatitis A."
         },
         {
-          "id": "fd8562bf-58cc-43d9-a597-f38e3dc99bb2",
-          "text": "Sarampión, Rubeola, Paperas, Hepatitis A, Varicela."
+          "id": "12616591-06af-4674-afc9-78747aee4f8b",
+          "text": "Difteria, Tétanos, Bordetella pertussis, Virus influenza, Hepatitis B."
         },
         {
-          "id": "ba9055ae-139d-4b9e-aab8-409131841c98",
+          "id": "fd8562bf-58cc-43d9-a597-f38e3dc99bb2",
           "text": "Sarampión, Rubeola, Paperas, Hepatitis A, Varicela."
         }
       ]
@@ -14483,7 +14449,7 @@
         },
         {
           "id": "de6dc768-609c-4a35-a62f-5a16c5026dee",
-          "text": "Promueven la síntesis de IFNg por los fagocitos circulantes."
+          "text": "Promueven la síntesis de IFN-γ por los fagocitos circulantes."
         }
       ]
     },
@@ -14624,12 +14590,12 @@
           "text": "La tecnología basada en ADN no es tan efectiva como la de ARN."
         },
         {
-          "id": "42796e1d-9a62-427a-9893-3f9a07571c19",
-          "text": "Las vacunas a virus inactivados no se utilizaron por ser poco efectivas."
-        },
-        {
           "id": "fd3ae4e9-46c9-4b70-aeba-a7bc95f7ec2b",
           "text": "Las vacunas a virus atenuados son las más utilizadas."
+        },
+        {
+          "id": "42796e1d-9a62-427a-9893-3f9a07571c19",
+          "text": "Las vacunas a virus inactivados no se utilizaron por ser poco efectivas."
         },
         {
           "id": "26f0a734-1c1e-4507-bb92-f5c7e80e0140",
@@ -14800,12 +14766,12 @@
           "correct": true
         },
         {
-          "id": "d352d0a1-4db1-4e05-b213-9b4841a441af",
-          "text": "No encuentran diferencias entre ambos brotes."
-        },
-        {
           "id": "e9013b83-ed7a-4c3c-99ec-fa13eb3b9799",
           "text": "La mediana de edad de los afectados es la misma."
+        },
+        {
+          "id": "d352d0a1-4db1-4e05-b213-9b4841a441af",
+          "text": "No encuentran diferencias entre ambos brotes."
         },
         {
           "id": "f629bf1f-5452-46cc-ba98-d2a20d235ddf",
@@ -15010,16 +14976,16 @@
           "text": "La BCG fue la primera vacuna a microorganismos muertos."
         },
         {
-          "id": "39c350fc-9109-46ba-8364-55f1c736591f",
-          "text": "La vacuna triple bacteriana incluye sarampión, rubeola y paperas."
-        },
-        {
           "id": "30f6fd6e-b239-49f8-82ab-6a8e0da88afd",
           "text": "La vacuna acelular contra pertussis es una vacuna atenuada."
         },
         {
           "id": "c8dfaa92-0e6a-4eb0-a61d-c24bd8e4ed74",
           "text": "La vacuna contra hepatitis B es una vacuna inactivada."
+        },
+        {
+          "id": "39c350fc-9109-46ba-8364-55f1c736591f",
+          "text": "La vacuna triple bacteriana incluye sarampión, rubeola y paperas."
         }
       ]
     },
