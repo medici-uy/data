@@ -1,10 +1,7 @@
 {
   "name": "Cardiovascular y Respiratorio",
   "short_name": "Cardio",
-  "aliases": [
-    "cardio",
-    "respiratorio"
-  ],
+  "aliases": ["cardio", "respiratorio"],
   "year": 2,
   "questions": [
     {
@@ -3505,8 +3502,7 @@
       "options": [
         {
           "id": "4b84a558-8e25-4983-a68f-13bbd4463778",
-          "text": "Varía en forma directamente proporcional con la distancia a la que se encuentra P del centro del dipolo.",
-          "correct": true
+          "text": "Varía en forma directamente proporcional con la distancia a la que se encuentra P del centro del dipolo."
         },
         {
           "id": "fd0d6976-e2d4-4874-9702-8cd85dca1a09",
@@ -3518,7 +3514,8 @@
         },
         {
           "id": "d8642b26-f908-48b9-9797-e939159c2361",
-          "text": "Varía en forma directamente proporcional al momento dipolar."
+          "text": "Varía en forma directamente proporcional al momento dipolar.",
+          "correct": true
         }
       ]
     },
