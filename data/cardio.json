@@ -8,6 +8,972 @@
   "year": 2,
   "questions": [
     {
+      "id": "1d8d1a5f-3118-4b9d-99d0-a801298e2ded",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-10-31",
+      "text": "Con respecto a la aplicación del principio general de la hidrostática al cuerpo humano. Señale la opción correcta.",
+      "options": [
+        {
+          "id": "6a1291bd-4def-40d6-aaa2-d22f6aad10c7",
+          "text": "La diferencia de presión arteriovenosa a nivel cerebral es la misma para el individuo de pie y en decúbito.",
+          "correct": true
+        },
+        {
+          "id": "4855c09d-84ab-45d6-ba81-f4823e94f3f6",
+          "text": "En un individuo de pie, el valor absoluto de presión a nivel de la aurícula derecha es mayor que el valor absoluto de presión en una en una vena del pie."
+        },
+        {
+          "id": "d91971dc-bed0-4d21-adf3-f315124dba5f",
+          "text": "En un individuo de pie, el valor absoluto de presión en una vena de la cabeza es mayor que el valor absoluto de presión en una arteria del pie."
+        },
+        {
+          "id": "76786422-1d18-450a-8229-847257e4b3f3",
+          "text": "Los cambios de posición sólo modifican la presión arterial a nivel de los miembros inferiores."
+        }
+      ]
+    },
+    {
+      "id": "f965ed47-0cce-40ab-b896-54509965741d",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-10-31",
+      "text": "Con respecto a la autorregulación coronaria. Señale la opción correcta.",
+      "options": [
+        {
+          "id": "36d4721b-69b2-4395-8d58-4b79fcb3f01c",
+          "text": "La vasodilatación mediada por flujo depende de un endotelio normofuncionante.",
+          "correct": true
+        },
+        {
+          "id": "c14183fd-284a-436c-a875-6372dc44355c",
+          "text": "El rango autorregulador es igual en las zonas subendocárdica y subepicárdica del ventrículo izquierdo."
+        },
+        {
+          "id": "41a1bffa-79fa-4590-8b8e-4618b549a173",
+          "text": "Es la capacidad del tejido cardíaco de mantener la fracción de eyección del ventrículo izquierdo dentro de parámetros de normalidad."
+        },
+        {
+          "id": "bd855265-62a0-4d27-b2cb-c3a2a68baac5",
+          "text": "La regulación miógena predomina en las arterias epicárdicas."
+        },
+        {
+          "id": "fe30e2a4-5907-4887-85b2-fb749220b7a3",
+          "text": "Ninguna de las otras opciones es correcta."
+        }
+      ]
+    },
+    {
+      "id": "7c74c489-77c4-4150-a0b2-32d191759905",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-10-31",
+      "text": "Con respecto a la fisiología venosa. Señale la opción correcta.",
+      "options": [
+        {
+          "id": "d5cd518d-3d21-4a25-ae4a-c7ec897dd74b",
+          "text": "Un aumento puro del tono venoso determinaría un efecto similar sobre la curva de función vascular al de un aumento de la volemia.",
+          "correct": true
+        },
+        {
+          "id": "027df62c-0d1f-441f-83f4-9d599407fe7c",
+          "text": "Durante la marcha, en presencia de válvulas competentes aumenta el flujo en dirección distal (retrógrada), tanto en venas profundas como superficiales."
+        },
+        {
+          "id": "ed5a3616-30c7-4df8-ab8a-4acfa51987d2",
+          "text": "La elevada \"capacitancia volumétrica\" de venas estudiadas a bajas presiones se debe principalmente a las propiedades intrínsecas de la pared."
+        },
+        {
+          "id": "18ab975b-032b-4bf4-ad8e-25678b6a785a",
+          "text": "La respuesta viscosa de las venas determina una disipación energética que puede dañar la pared del vaso."
+        },
+        {
+          "id": "ecbd7aac-beb7-4f5b-b24f-934138fa3954",
+          "text": "Ninguna de las otras opciones es correcta."
+        }
+      ]
+    },
+    {
+      "id": "0c8d5c18-8f83-4539-a5c2-7b9b4ac995d0",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-10-31",
+      "text": "Con respecto a la función ventricular. Señale la opción correcta.",
+      "options": [
+        {
+          "id": "f3c47452-f922-4540-9afe-0bf45d9a56b9",
+          "text": "Las otras opciones son falsas.",
+          "correct": true
+        },
+        {
+          "id": "26969e07-7ccf-4000-8501-acdf21586692",
+          "text": "Al caminar se reduce el retorno venoso y el llenado ventricular."
+        },
+        {
+          "id": "ad3cd289-dd10-4572-be53-f18988b94d11",
+          "text": "El retorno venoso es significativamente determinado por los niveles de rigidez arterial."
+        },
+        {
+          "id": "d15d5d2e-9eb3-4e45-a963-cf9de1368f86",
+          "text": "Incrementos de frecuencia cardíaca determinan habitualmente reducción en la capacidad contráctil ventricular."
+        },
+        {
+          "id": "71b4c94a-0cbf-468f-91db-258bc51a4e09",
+          "text": "Un incremento en inotropismo puede evidenciarse por un incremento en la pendiente de la relación presión-volumen de llenado ventricular."
+        }
+      ]
+    },
+    {
+      "id": "2f0d7220-66f3-4f9f-a707-cd2d43585f40",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-10-31",
+      "text": "Con respecto a la microcirculación. Señale la opción correcta.",
+      "options": [
+        {
+          "id": "1973c3e0-9a9d-4379-8f1e-ac493e774652",
+          "text": "Los lechos con autorregulación mantienen el flujo sanguíneo local ajustado a sus requerimientos a pesar de cambios en la presión de perfusión, en tanto éstos ocurran dentro de cierto rango.",
+          "correct": true
+        },
+        {
+          "id": "2fbae6f5-a8f6-4426-919a-7e991f1c6deb",
+          "text": "El tono del músculo liso arteriolar es el principal determinante de la resistencia postcapilar."
+        },
+        {
+          "id": "63b39bab-b098-4068-8f73-0cc68f672f06",
+          "text": "La conductividad hidráulica (Lp) expresa la permeabilidad total al soluto proporcionada por las vías trans y paracelular."
+        },
+        {
+          "id": "8124c132-ad9b-44fb-9f7c-c999e459cc9e",
+          "text": "Ninguna de las otras opciones es correcta."
+        },
+        {
+          "id": "2def33e0-476a-4e03-95ac-bfdd63b2aa72",
+          "text": "Se espera una reducción en el flujo sanguíneo linfático ante aumentos en la presión coloidosmótica tisular, sin cambios en los restantes factores determinantes del intercambio."
+        }
+      ]
+    },
+    {
+      "id": "6b0e9985-6447-46be-8f8a-ecce69bdddf6",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-10-31",
+      "text": "Con respecto a la microcirculación. Señale la opción correcta.",
+      "options": [
+        {
+          "id": "63bf77d4-6f10-4acf-b868-aafb8622d269",
+          "text": "El coeficiente de permeabilidad indica la facilidad con la que un soluto atraviesa el capilar mediante difusión, a favor de un gradiente de concentración.",
+          "correct": true
+        },
+        {
+          "id": "a90a75bf-4716-440c-8b7b-10253bf066e6",
+          "text": "A medida que la sangre circula desde el extremo arterial del capilar al venoso el dióxido de carbono difunde hacia el tejido, de manera que su concentración en la sangre disminuye."
+        },
+        {
+          "id": "116c11bf-d54d-4207-8705-b321f6b2007b",
+          "text": "Cambios en la resistencia postcapilar no determinan cambios en la presión hidrostática capilar."
+        },
+        {
+          "id": "c88ea328-c8d2-4eec-9b21-9b2c9b12707e",
+          "text": "En la mayoría de los lechos vasculares, los cambios en la presión de perfusión no se acompañan de cambios en el flujo sanguíneo en la misma dirección."
+        },
+        {
+          "id": "2c0ff506-c122-46d3-ad5c-9c4c8d01bbb2",
+          "text": "Ninguna de las otras opciones es correcta."
+        }
+      ]
+    },
+    {
+      "id": "45b5c8b2-e901-4551-8bdc-59c7068a852f",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-10-31",
+      "text": "Con respecto a las bases físicas de la electrocardiografía. Señale la opción correcta.",
+      "options": [
+        {
+          "id": "3f114ab8-dc3b-424b-9ee4-04a90cce381b",
+          "text": "El potencial medido en cada uno de los vertices del triangulo de Einthoven es equidistante del centro del momento dipolar instantaneo que resume la actividad cardiaca para cierto tiempo t.",
+          "correct": true
+        },
+        {
+          "id": "d3ef20b3-85e3-4fcc-b023-c75508653b91",
+          "text": "Al proyectar el momento dipolar instantáneo en una derivación unipolar aumentada obtenemos directamente el valor del voltaje en dicha derivación."
+        },
+        {
+          "id": "c777cebb-b1d1-4bf2-961f-efbaeae42b7e",
+          "text": "De la sumatoria de todos los momentos dipolares instantáneos se obtiene directamente el eje eléctrico medio."
+        },
+        {
+          "id": "fda62a41-348b-471b-8f94-de220ede0a97",
+          "text": "La dirección y el sentido del momento dipolar instantáneo no se modifican durante el ciclo cardíaco."
+        },
+        {
+          "id": "43174e65-0606-400a-876d-e3202555878b",
+          "text": "La proyección del eje eléctrico instantáneo en una derivación bipolar, permite obtener una idea del valor inverso del potencial extracelular en dicha derivación."
+        }
+      ]
+    },
+    {
+      "id": "680a0db5-f850-4fa8-8438-a9ac1229e763",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-10-31",
+      "text": "Con respecto a las diferentes derivaciones electrocardiográficas. Indique la opción correcta.",
+      "options": [
+        {
+          "id": "0907e4a3-6bb1-4aed-9c8f-a8801a20b161",
+          "text": "La colocación de los electrodos en los antebrazos o en la palma de las manos del sujeto no debería alterar significativamente el registro.",
+          "correct": true
+        },
+        {
+          "id": "5ac88b70-453c-4c21-b39a-d330003535aa",
+          "text": "A nivel de las derivaciones V5 y V6, en un individuo sano, el complejo QRS es predominantemente negativo."
+        },
+        {
+          "id": "eb54a34f-53ac-4bb9-94ca-0100f6f1f516",
+          "text": "El modo de registro de las derivaciones del plano horizontal es bipolar."
+        },
+        {
+          "id": "26599146-2bbc-42b6-996f-d6204db57297",
+          "text": "Las ondas P son, en un individuo sano, negativas en todas las derivaciones bipolares del plano frontal."
+        },
+        {
+          "id": "6a729157-5a16-4f2a-90d8-2825ec2bcec0",
+          "text": "Ninguna de las otras opciones es correcta."
+        }
+      ]
+    },
+    {
+      "id": "3b2317d3-ab66-4f47-bff1-a86cde2f13e2",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-10-31",
+      "text": "Con respecto a las propiedades mecánicas arteriales, en condiciones fisiológicas de reposo físico. Señale la opción correcta.",
+      "options": [
+        {
+          "id": "4fac35de-df88-4f7c-a2f6-3c15d6dd5bb4",
+          "text": "Las otras opciones son falsas.",
+          "correct": true
+        },
+        {
+          "id": "92631f58-e549-44ad-994d-647a08105aac",
+          "text": "La relación presión-diámetro arterial evidencia un comportamiento elástico puro (elastina y colágeno)."
+        },
+        {
+          "id": "da5db173-9795-4231-90cb-7779e06dc9a0",
+          "text": "La velocidad de la onda del pulso es inversamente proporcional a la rigidez arterial."
+        },
+        {
+          "id": "86369f1c-9c45-47f3-806a-3199bbb97de6",
+          "text": "La viscosidad de la pared arterial permite el almacenamiento de la energía."
+        },
+        {
+          "id": "630241bd-cd91-41b1-9237-ab90729fc6d2",
+          "text": "Las arterias centrales presentan mayores niveles de rigidez que las periféricas; excepto en los niños."
+        }
+      ]
+    },
+    {
+      "id": "9e4712d6-aea1-4f9e-b467-4fb7b4873f43",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-10-31",
+      "text": "Con respecto a las respuestas y adaptaciones cardiovasculares al ejercicio. Señale la opción correcta.",
+      "options": [
+        {
+          "id": "acc374d5-0e24-49aa-bddf-1a1e584cb8cd",
+          "text": "Las adaptaciones al ejercicio incluyen un aumento de la densidad capilar proporcional a la hipertrofia miocárdica.",
+          "correct": true
+        },
+        {
+          "id": "b736d225-e1c8-453b-96d2-507626993d69",
+          "text": "Durante la realización de ejercicio dinámico incremental se espera un aumento progresivo de los niveles de presión arterial diastólica."
+        },
+        {
+          "id": "3df6f76a-dff3-4f78-8345-f3d385359469",
+          "text": "El volumen sistólico máximo es similar en sujetos entrenados y no entrenados."
+        },
+        {
+          "id": "cc9eefcc-51e0-493f-a835-ed10c153437c",
+          "text": "La pérdida de la bradicardia sinusal en reposo es una de las adaptaciones al ejercicio."
+        },
+        {
+          "id": "ce8fa812-c5c7-46f3-9e1b-5b0201de0f2d",
+          "text": "Ninguna de las otras opciones es correcta."
+        }
+      ]
+    },
+    {
+      "id": "a989ff4d-5ded-4f81-b618-b8c7e2835140",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-10-31",
+      "text": "Con respecto a los mecanismos de regulación a corto plazo de la presión arterial. Señale lo correcto.",
+      "options": [
+        {
+          "id": "ad398c4b-83a1-4cf1-afdf-1e5f33388763",
+          "text": "Las otras opciones son falsas.",
+          "correct": true
+        },
+        {
+          "id": "6601c737-cf5e-42b8-823a-21400be16f03",
+          "text": "Ante aumentos de la presión arterial, se desencadena una respuesta que termina aumentando las resistencias vasculares periféricas."
+        },
+        {
+          "id": "4c34613c-05c5-4587-bbfe-1f69d5525f98",
+          "text": "El sistema renina-angiotensina-aldosterona es un ejemplo de mecanismo de regulación a corto plazo de la presión arterial."
+        },
+        {
+          "id": "fb75294b-7bed-4090-b1ef-2abc01729a94",
+          "text": "Las arterias y arteriolas musculares poseen una inervación predominantemente parasimpática."
+        },
+        {
+          "id": "d7c8ee9c-1355-4e59-be09-c367648b549b",
+          "text": "Los principales barorreceptores se encuentran a nivel de las arterias cerebrales, y de miembros superiores e inferiores."
+        }
+      ]
+    },
+    {
+      "id": "0e5a7ef8-9d23-4917-a6f0-926931884e5c",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-10-31",
+      "text": "Con respecto a los mecanismos intrínsecos de regulación del gasto cardíaco. Indique la opción correcta.",
+      "options": [
+        {
+          "id": "5712e283-270b-40cc-9f72-4459b7118890",
+          "text": "La relación fuerza-frecuencia hace referencia a la mayor tensión desarrollada durante la sístole ventricular ante aumentos escalonados de la frecuencia cardíaca.",
+          "correct": true
+        },
+        {
+          "id": "5c0f051f-d1bf-4a3f-9564-8329918196d4",
+          "text": "Aumentos en la precarga ventricular se consideran como estímulos inotrópicos positivos."
+        },
+        {
+          "id": "dcb633a8-213f-4362-962f-d5f7360f48d3",
+          "text": "El efecto Frank-Starling involucra aumentos de la concentración de calcio a nivel citoplasmático en ambos tiempos del ciclo cardíaco."
+        },
+        {
+          "id": "c72d423c-6af2-41c7-ad4a-a3684cf7d10a",
+          "text": "El principal mecanismo molecular que explica el efecto Frank-Starling es un aumento de la extrusión sarcoplasmática de calcio durante la sístole."
+        },
+        {
+          "id": "73b90e0b-1144-41e5-b0c6-83da693d8be8",
+          "text": "Las otras opciones son incorrectas."
+        }
+      ]
+    },
+    {
+      "id": "651d1cdb-6192-4a6d-bd47-d9d8eee7f80a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-10-31",
+      "text": "Con respecto al Electrocardiograma (marque lo correcto):",
+      "options": [
+        {
+          "id": "598277dc-7783-4fa6-bb5d-50a7e537dfe2",
+          "text": "En el triángulo de Einthoven, la derivación I se define como la diferencia de VL - VR.",
+          "correct": true
+        },
+        {
+          "id": "dc6b7f92-eb0f-4df8-871f-6c26666b6fba",
+          "text": "Con el inicio del complejo qRs, los ventrículos están totalmente repolarizados."
+        },
+        {
+          "id": "5e998bac-b335-4928-b0cd-44aecb87a935",
+          "text": "Durante el segmento PR las aurículas están totalmente hiperpolarizadas."
+        },
+        {
+          "id": "957fab02-6483-4110-823d-3309748206de",
+          "text": "En el segmento isoeléctrico que sucede a la onda T, las aurículas están totalmente despolarizadas."
+        },
+        {
+          "id": "2ae500ba-cf7b-42be-b1a7-87bc34f8079f",
+          "text": "La repolarización auricular está enmascarada por la onda T."
+        }
+      ]
+    },
+    {
+      "id": "8b08ae31-c48e-431b-b176-a4f3f27cc999",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-10-31",
+      "text": "Con respecto al ciclo cardíaco. Señale la opción correcta.",
+      "options": [
+        {
+          "id": "c1af9439-ae75-4ae7-a4a0-d34ba229f1f3",
+          "text": "Las otras opciones son falsas.",
+          "correct": true
+        },
+        {
+          "id": "ac87d7f7-b7f4-4187-92d2-0c4fe28f992c",
+          "text": "Durante el llenado ventricular se interrumpe transitoriamente el flujo sanguíneo aórtico."
+        },
+        {
+          "id": "d974cb12-7765-4db6-a3ec-5a549b55c950",
+          "text": "El QRS del electrocardiograma ocurre antes que la onda \"a\" registrada a nivel ventricular."
+        },
+        {
+          "id": "16116ef8-34af-4025-bb90-5d5203bca0d8",
+          "text": "La contracción auricular contribuye durante la parte inicial del llenado ventricular."
+        },
+        {
+          "id": "1ea62662-24bf-4ca8-baed-207131a55b4e",
+          "text": "La contracción ventricular genera un descenso y luego ascenso de la presión auricular."
+        }
+      ]
+    },
+    {
+      "id": "cdfd8679-3484-41d3-ac1f-c2aa52a452e5",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-10-31",
+      "text": "Con respecto al ciclo cardíaco. Señale la opción correcta.",
+      "options": [
+        {
+          "id": "5196fc82-eeb9-48a4-acb2-039ff04a8f59",
+          "text": "La presión sistólica máxima ventricular y aórtica son similares.",
+          "correct": true
+        },
+        {
+          "id": "c5899409-827d-4b39-9fce-97ad101e0e4d",
+          "text": "La presión diastólica mínima ventricular y aórtica son similares."
+        },
+        {
+          "id": "5fdbe9d3-f25c-494a-98e3-e40c2081f81a",
+          "text": "La presión media ventricular y aórtica son similares."
+        },
+        {
+          "id": "09968949-a10f-446e-8aee-a58450a0893d",
+          "text": "La velocidad de caída de la presión ventricular y aórtica durante la diástole son similares."
+        },
+        {
+          "id": "7dbbb74a-7b81-4cf6-acfc-73955b5b01c8",
+          "text": "Las otras opciones son falsas."
+        }
+      ]
+    },
+    {
+      "id": "56aeaebd-6b79-4786-80b4-9c238296b136",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-10-31",
+      "text": "Con respecto al envejecimiento y los cambios cardiovasculares asociados. Señale la opción correcta.",
+      "options": [
+        {
+          "id": "2210680b-99be-44e8-a5bf-581adfb613ef",
+          "text": "La hipertrofia asociada al envejecimiento no se acompaña de un aumento proporcional en la densidad capilar.",
+          "correct": true
+        },
+        {
+          "id": "59c8f981-540c-4669-967a-396f10740d61",
+          "text": "El aumento de las fibras elásticas y la reducción en el colágeno parietal podrían explicar los cambios en impedancia y rigidez aórtica."
+        },
+        {
+          "id": "7a01e70f-9b1f-4168-8bfc-5f63bf34284b",
+          "text": "La presión arterial media durante el ejercicio es mayor en un adulto joven que en un sujeto añoso."
+        },
+        {
+          "id": "d8039427-ce54-4b62-8042-d6cf14df336c",
+          "text": "Los cambios hemodinámicos (ej. en presión arterial) asociados al envejecimiento son determinantes de los cambios biomecánicos observados."
+        },
+        {
+          "id": "32bf7731-0dd0-4c38-86d0-923e8211aeaf",
+          "text": "Ninguna de las otras opciones es correcta."
+        }
+      ]
+    },
+    {
+      "id": "1b133c8d-0781-4503-97df-1fdd596b47f2",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-10-31",
+      "text": "Con respecto al músculo liso vascular. Señale la opción correcta.",
+      "options": [
+        {
+          "id": "2417431e-4084-48a7-84ea-0d8a71d32757",
+          "text": "Para que se produzca el acoplamiento fármaco mecánico no es indispensable la despolarización de la membrana celular.",
+          "correct": true
+        },
+        {
+          "id": "e66fd00f-f261-4656-87e4-4984851d90a8",
+          "text": "Carece de reticulo sarcoplasmatico para liberar calcio."
+        },
+        {
+          "id": "b88f20d5-fa22-4bb4-8307-d9aefdb62b8f",
+          "text": "El calcio que desencadena la contracción proviene del endotelio."
+        },
+        {
+          "id": "3a698b91-5cd1-4ef9-9126-53f371635c56",
+          "text": "Las células musculares lisas carecen de mecanismos intrínsecos para regular el calibre de los vasos frente a aumentos en la presión de perfusión."
+        },
+        {
+          "id": "31a3184c-a925-49b1-b6c0-c16311c15f16",
+          "text": "Para que se produzca la contracción es necesaria la activación de la cadena pesada de la miosina."
+        }
+      ]
+    },
+    {
+      "id": "80432981-7241-4d82-8cf6-5a5d1d1ea5c4",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-10-31",
+      "text": "Con respecto al músculo liso vascular. Señale la opción correcta.",
+      "options": [
+        {
+          "id": "4ec38606-e10d-41c5-ac50-8fdbe19560aa",
+          "text": "El óxido nítrico producido en el endotelio puede afectar la musculatura lisa que lo rodea.",
+          "correct": true
+        },
+        {
+          "id": "49f1ff15-1482-483b-871f-2b2af7cd3af0",
+          "text": "Las células musculares lisas carecen de mecanismos locales para regular el calibre de los vasos frente a aumentos en la presión de perfusión."
+        },
+        {
+          "id": "9592546f-0d1b-489b-9143-f3c54624f4aa",
+          "text": "Para lograr la vasodilatación es indispensable el cierre de los canales de potasio."
+        },
+        {
+          "id": "d78f0e74-c5c8-4414-991b-6bb368e94252",
+          "text": "Un paso necesario para el desarrollo de fuerza es el acoplamiento entre el túbulo-T y el retículo sarcoplásmico."
+        }
+      ]
+    },
+    {
+      "id": "b28f685f-0a21-49dc-be24-93e260fdf1c7",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-10-31",
+      "text": "Con respecto al potencial generado por un dipolo. Señale la opción correcta.",
+      "options": [
+        {
+          "id": "70daacae-86b4-4a3c-b166-e06d1aca5b8e",
+          "text": "Para una misma distancia del centro del dipolo, el valor absoluto del potencial registrado en el semieje positivo y en el semieje negativo serán iguales.",
+          "correct": true
+        },
+        {
+          "id": "28827ad0-529c-4835-93b6-980301e586b1",
+          "text": "El producto del valor absoluto de la carga por el semieje positivo determina el módulo del momento dipolar."
+        },
+        {
+          "id": "b80d8e7f-8489-426b-9b00-7b138746bf53",
+          "text": "Es inversamente proporcional a la proyección del momento dipolar sobre la recta r."
+        },
+        {
+          "id": "892a56a4-de35-401e-9ced-642e6034c6db",
+          "text": "Para ángulos distintos a 90 y 270 grados, cuanto más alejado del centro mayor será el valor absoluto del potencial registrado."
+        }
+      ]
+    },
+    {
+      "id": "759e6276-cd21-4438-868e-47c3e3b41028",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-10-31",
+      "text": "Con respecto al trazado electrocardiográfico. Señale la opción correcta.",
+      "options": [
+        {
+          "id": "332e8775-9304-460f-8d48-35fcc6350758",
+          "text": "Entre el fin de la onda T y el inicio del complejo qRs los ventrículos están totalmente repolarizados.",
+          "correct": true
+        },
+        {
+          "id": "deb85f89-e0ed-40d4-9634-0e5d922541f6",
+          "text": "El retardo nodal se encuentra representado por la duración del segmento ST."
+        },
+        {
+          "id": "2a0bae8f-9e8e-462d-966b-920ba75f4f2a",
+          "text": "La fase 1 del potencial de acción ventricular se halla representada por la onda P."
+        },
+        {
+          "id": "48f197a5-6958-40c8-b81a-df69ee2b8c83",
+          "text": "La onda T precede al complejo QRS en una secuencia de eventos normales iniciada en la onda P."
+        },
+        {
+          "id": "3a8a18de-91e0-4ef1-9d78-e4bdde6cc624",
+          "text": "Los intervalos tienen voltaje predominantemente negativo."
+        }
+      ]
+    },
+    {
+      "id": "ed633c2e-7f47-4d94-a970-42368503af44",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-10-31",
+      "text": "Con respecto al vector momento dipolar elemental (μ). Señale lo correcto.",
+      "options": [
+        {
+          "id": "2e310b13-7b92-4dd6-b2c3-c1a90b240102",
+          "text": "Para un instante del ciclo cardíaco, la sumatoria vectorial de todos los momentos dipolares elementales da lugar a un vector que da dirección y sentido promedio de la actividad del corazón en ese instante.",
+          "correct": true
+        },
+        {
+          "id": "b9516257-f4da-4c36-add2-dd88d9c7cb0a",
+          "text": "Es igual al producto del valor absoluto de una de las cargas del dipolo por el semieje positivo."
+        },
+        {
+          "id": "db446d2c-bfc5-4dab-9b67-be2fafc883fc",
+          "text": "Para un instante del ciclo cardíaco, el producto de todos los momentos dipolares elementales da lugar a un vector que da dirección y sentido promedio de la actividad del corazón en ese instante."
+        },
+        {
+          "id": "35b9e6b6-5a69-42a1-a02f-bd57c413c0e2",
+          "text": "Su modificación no afecta el valor del potencial generado por el dipolo."
+        }
+      ]
+    },
+    {
+      "id": "d283a206-ace1-464a-b8c4-434fde977ed6",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-10-31",
+      "text": "Indique qué modificación del metabolismo cardíaco tiene lugar por un aumento de la concentración de glucosa en sangre.",
+      "options": [
+        {
+          "id": "23be7a76-4986-4fab-8d71-dde2bf98b6b7",
+          "text": "Aumenta la formación de piruvato.",
+          "correct": true
+        },
+        {
+          "id": "dba0e119-316d-4453-8c11-a49671f74568",
+          "text": "Aproximadamente el 30% de la glucosa es transformada en lactato que es liberado a la circulación."
+        },
+        {
+          "id": "e6110c1c-8dd9-4d08-a7c6-2df6946c2ee4",
+          "text": "Disminuye la actividad de la NADH deshidrogenasa."
+        },
+        {
+          "id": "a6411e63-7cfb-44d0-b70e-1bb780e0465d",
+          "text": "La insulina se une al transportador de glucosa y lo activa."
+        },
+        {
+          "id": "967524f6-9587-4878-bffa-56d8831ea116",
+          "text": "Se inhibe la piruvato deshidrogenasa."
+        }
+      ]
+    },
+    {
+      "id": "32820841-dc91-4077-aef3-2ff6573a57dc",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-10-31",
+      "text": "La presencia de placas de ateroma a nivel de los vasos. Señale la opción correcta.",
+      "options": [
+        {
+          "id": "e2f66566-86a9-4db9-a401-fdd65638de9d",
+          "text": "Genera disminuciones en el calibre que generan un flujo turbulento el cual se evidencia clínicamente como un soplo.",
+          "correct": true
+        },
+        {
+          "id": "47f48e7b-7375-4248-8c96-7d22aa2affab",
+          "text": ""
+        },
+        {
+          "id": "d68d54a5-611b-41cf-b225-8ed4fa1f5b93",
+          "text": "No afecta la actividad de las células endoteliales y musculares lisas cercanas."
+        },
+        {
+          "id": "5c9aeba5-a50d-4401-8c41-82bd222d3efb",
+          "text": "Produce cambios en la velocidad crítica de circulación que son independientes del calibre del vaso."
+        },
+        {
+          "id": "f4359267-29ae-4e84-a029-30fd5588a48e",
+          "text": "Produce un cambio de regímenes de circulación que no modifica la relación entre presión y gasto."
+        }
+      ]
+    },
+    {
+      "id": "b9b11213-ecfb-4abd-823d-df408408b220",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-10-31",
+      "text": "Los ácidos grasos se encuentran entre los principales sustratos energéticos del corazón. Indique la opción correcta en relación con el metabolismo de los ácidos grasos en el miocardio.",
+      "options": [
+        {
+          "id": "91768bc4-f8d8-45a5-b710-c8779bb1d959",
+          "text": "Su oxidación consume más oxígeno que la oxidación de los glúcidos.",
+          "correct": true
+        },
+        {
+          "id": "e599386a-0296-49cc-b700-6a24fd7af73d",
+          "text": "Su consumo es inhibido por la adrenalina."
+        },
+        {
+          "id": "9d855321-4d21-473b-b894-3959130ad949",
+          "text": "Su proporción dentro de los sustratos energéticos aumenta durante el ejercicio muscular."
+        },
+        {
+          "id": "7d503214-5700-4648-831d-7e8b9ff48434",
+          "text": "Un aumento de la captación de los ácidos grasos por el miocardio inhibe a la carnitina palmitoil transferasa II."
+        },
+        {
+          "id": "c56d904f-0de6-4c00-8843-bc184c4be0d5",
+          "text": "Un aumento de ácidos grasos circulantes estimula a la piruvato deshidrogenasa."
+        }
+      ]
+    },
+    {
+      "id": "76d41b2d-3069-4e12-be28-a4071d8f8a10",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-10-31",
+      "text": "Para un tubo cilíndrico de secciones variables, en posición horizontal ubicado a una distancia constante del plano, por el que circula un líquido con régimen estacionario.  Señale la opción correcta.",
+      "options": [
+        {
+          "id": "98581531-d2ba-4f14-8605-9a3fc5d11008",
+          "text": "La presión hidrostática puede calcularse restando la presión cinemática a la presión hidrodinámica.",
+          "correct": true
+        },
+        {
+          "id": "7c77e490-bd78-4079-ae5a-098ced9c23d7",
+          "text": "Cambios en la superficie de sección tienen como consecuencia la conversión de energía potencial gravitatoria en energía cinética."
+        },
+        {
+          "id": "6542d11d-88cc-4ea5-9760-59ca47cb4d9d",
+          "text": "En los sectores de mayor radio la velocidad media de desplazamiento será máxima."
+        },
+        {
+          "id": "d4836282-9df2-4b00-b880-9ae2f6ede9b0",
+          "text": "Si el líquido que circula es real no habrá resistencia al desplazamiento."
+        }
+      ]
+    },
+    {
+      "id": "4fb909d8-09b6-4f86-ba8a-9114dc6110fb",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-10-31",
+      "text": "Respecto al ECG en derivación frontal en condiciones normales (marque lo correcto):",
+      "options": [
+        {
+          "id": "04394451-0175-435e-b6c8-d61229c8658c",
+          "text": "El eje eléctrico medio tiene valores positivos.",
+          "correct": true
+        },
+        {
+          "id": "87939fba-b3fe-4349-a329-d348eb0807cb",
+          "text": "Durante el inicio del complejo qRs, el valor del voltaje en VI (o sea DI), generalmente es francamente positivo y mayor que al final del mismo."
+        },
+        {
+          "id": "faa919b9-33dd-40bd-a400-dcc2b624bcc5",
+          "text": "Durante el segmento PR, el valor del voltaje en VI (o sea DI), es mayor que 0."
+        },
+        {
+          "id": "16b55b4a-b7c8-407f-b061-27a7f7be65f5",
+          "text": "El producto del eje eléctrico instantáneo por la raíz de 3 y el seno del ángulo formado entre la recta de derivación y el eje, da el valor del voltaje en dicha derivación."
+        },
+        {
+          "id": "d8ff047a-de5f-48ed-b1c8-47796868438e",
+          "text": "La proyección del eje eléctrico instantáneo en la recta de derivación da el valor de voltaje en dicha derivación."
+        }
+      ]
+    },
+    {
+      "id": "6578e941-0994-4013-9ab1-214d4f6535ca",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-10-31",
+      "text": "Respecto al ECG en derivación frontal en condiciones normales (marque lo correcto):",
+      "options": [
+        {
+          "id": "ab96b32a-5c81-4b8b-81a8-d184be7c889c",
+          "text": "El eje electrico medio en aVR es negativo.",
+          "correct": true
+        },
+        {
+          "id": "266e09f3-2c97-4687-8d1e-97b6c24b0781",
+          "text": "El producto de 2/3 por el cuadrado de 3, da la proyección del eje eléctrico instantáneo en la bisectriz de un ángulo dado, da el voltaje para esa derivación unipolar aumentada."
+        },
+        {
+          "id": "2203fe3c-e828-427a-b40f-3ff8e6d2c592",
+          "text": "El producto de 3/2 por raíz de 3, de la proyección del eje eléctrico instantáneo en una recta de derivación, da el valor de voltaje en dicha derivación."
+        },
+        {
+          "id": "6c6148d6-f0d1-4aa6-9398-af170c8cebaa",
+          "text": "Para las derivaciones bipolares, se considera la diferencia de potencial entre un electrodo en un vértice del triángulo de Einthoven y un punto central denominado terminal de Wilson."
+        },
+        {
+          "id": "6009bf8c-f427-48be-ae3e-60e30aa1a2e5",
+          "text": "Para las derivaciones unipolares aumentadas, se considera la diferencia de potencial entre un electrodo en un vértice del triángulo de Einthoven y un electrodo en tierra."
+        }
+      ]
+    },
+    {
+      "id": "10685402-02fd-48e1-a6c9-671fbf41bb3a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-10-31",
+      "text": "Si registramos mediante un par de electrodos la actividad de un dipolo en un medio conductor, con uno de ellos equidistante a ambas cargas del dipolo, es posible afirmar que:",
+      "options": [
+        {
+          "id": "a912a933-d4b7-4a92-9396-f6a520359986",
+          "text": "Si el otro electrodo se enfrenta a la carga negativa, la diferencia de potencial es negativa.",
+          "correct": true
+        },
+        {
+          "id": "3e64b6de-8af7-4e7d-a01e-ede26f4424a3",
+          "text": "Si el electrodo se encuentra entre 180° y 270° el potencial será positivo."
+        },
+        {
+          "id": "f8eba399-5823-4e04-85b8-6842a34a4e72",
+          "text": "Si el otro electrodo se encuentra entre 0° y 90°, el potencial registrado será negativo (se consideran los ángulos como usualmente se hace en círculo trigonométrico)."
+        },
+        {
+          "id": "07f1a7e5-c9d8-4b74-87fc-b313e315aae2",
+          "text": "Si el otro electrodo se encuentra entre 270° y 360°, el potencial registrado será negativo (se consideran los ángulos como usualmente se hace en círculo trigonométrico)."
+        }
+      ]
+    },
+    {
+      "id": "3c4f48c4-e963-48c9-9bdb-06ce30f59d76",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-10-31",
+      "text": "Sobre la circulación cerebral. Señale la opción correcta.",
+      "options": [
+        {
+          "id": "86136760-a984-457a-b05c-ef56ad9de72b",
+          "text": "El flujo sanguíneo cerebral se mantiene en un rango de presiones arteriales medias de entre 60 y 140 mmHg.",
+          "correct": true
+        },
+        {
+          "id": "48ab30f5-8636-4984-b207-b368db633c4e",
+          "text": "El 1% del gasto cardíaco está destinado al flujo sanguíneo cerebral en el reposo."
+        },
+        {
+          "id": "2d33863a-9bc1-4603-8515-18cff5b6db3d",
+          "text": "El flujo sanguíneo cerebral es independiente de las concentraciones de N2 y O2 en sangre."
+        },
+        {
+          "id": "6e7c7a07-92d8-4fa5-b3b9-592c6ee36bfe",
+          "text": "Ninguna de las otras opciones es correcta."
+        },
+        {
+          "id": "b256e6db-cc2b-4130-a82c-a52c7b5f1c3a",
+          "text": "Si la presión arterial cae por debajo de 40 mmHg se produce en forma refleja un aumento del flujo sanguíneo cerebral."
+        }
+      ]
+    },
+    {
+      "id": "3c5293cd-2b01-46dd-a45b-789ebb5e8792",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-10-31",
+      "text": "Sobre la circulación sanguínea en las grandes y medianas arterias:",
+      "options": [
+        {
+          "id": "b305676e-5dc2-4e16-8114-7aa42cfd5c53",
+          "text": "La tasa de cizallamiento contra la pared arterial es mayor en sístole que en diástole (existiendo flujo laminar).",
+          "correct": true
+        },
+        {
+          "id": "71b3636e-c257-4a87-9feb-939bb9578070",
+          "text": "La viscosidad sanguínea aumenta al incrementar la tasa de cizallamiento."
+        },
+        {
+          "id": "0b1daa8c-9a27-4d3f-902c-f7000568948c",
+          "text": "Las otras opciones son falsas."
+        },
+        {
+          "id": "7072c7b1-015a-4c59-9202-8bdc8a709fd3",
+          "text": "Los niveles de tasa de cizallamiento son mayores en el centro de la arteria con respecto a las existentes contra las paredes (existiendo flujo laminar)."
+        },
+        {
+          "id": "b819abb3-8b7e-4ab0-962e-96adea5eb746",
+          "text": "Los niveles de velocidades sanguíneas son menores en el centro de la arteria con respecto a las existentes contra las paredes (existiendo flujo laminar)."
+        }
+      ]
+    },
+    {
+      "id": "a8f448f9-171c-402a-a25c-48c003093db1",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-10-31",
+      "text": "Un fluido circula por un tubo cilíndrico de 2 cm2 de superficie que luego se ramifica en un sistema canalicular de 8 cm2 de superficie equivalente. Si el gasto que circula por el mismo es de 4 litros/minuto, la velocidad de circulación en el ramal principal será.",
+      "options": [
+        {
+          "id": "e81d6742-6353-4655-901d-8ed6e30ea628",
+          "text": "2000 cm/minuto.",
+          "correct": true
+        },
+        {
+          "id": "c1b5fc95-93a8-47ec-b26b-9013ce87977a",
+          "text": "1 cm/minuto."
+        },
+        {
+          "id": "493c7d50-23f2-40a0-8772-de11f7577d99",
+          "text": "12 cm/segundo."
+        },
+        {
+          "id": "65829a19-5091-4213-98e0-67557430a139",
+          "text": "23 cm/minuto."
+        },
+        {
+          "id": "913ad41c-e4d4-468d-ba8c-7f69f00fd358",
+          "text": "7500 cm/minuto."
+        }
+      ]
+    },
+    {
+      "id": "7d60045a-f11b-46ee-9a9f-fb67d1730ca2",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-10-31",
+      "text": "Un fluido circula por un tubo cilíndrico de 5 cm2 de superficie que luego se ramifica en un sistema canalicular de 20 cm2 de superficie equivalente. Si el gasto que circula por el mismo es de 5 litros/minuto, la velocidad de circulación en el ramal principal será:",
+      "options": [
+        {
+          "id": "01b251f8-e73b-42ed-9a73-7bf9cb7b8d2e",
+          "text": "1000 cm/minuto.",
+          "correct": true
+        },
+        {
+          "id": "807b1e34-073d-43b2-8c9a-c01ed8badc63",
+          "text": "10 cm/segundo."
+        },
+        {
+          "id": "34ff490d-f54f-4d12-868c-9be1a54e3e1d",
+          "text": "100 cm/segundo."
+        },
+        {
+          "id": "3c194774-126b-41e0-ad09-7d7138bafed8",
+          "text": "2250 cm/minuto."
+        },
+        {
+          "id": "2b2df63f-1555-483b-a05c-dab18d9e31af",
+          "text": "500 cm/minuto."
+        }
+      ]
+    },
+    {
+      "id": "60ae4130-c9d9-40cc-a73c-e03f685dee83",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-10-31",
+      "text": "Un niño de 5 años llega al hospital con confusión mental, debilidad muscular e insuficiencia cardíaca. Se le diagnostica una deficiencia primaria de carnitina. Indique en qué actividad metabólica participa esta molécula.",
+      "options": [
+        {
+          "id": "d1a2df90-4a55-4aa1-901d-ff74d0f31041",
+          "text": "En el transporte de los acil graso-CoA desde el citosol hacia la mitocondria.",
+          "correct": true
+        },
+        {
+          "id": "79d0d6c7-cfdf-4d77-95c6-105537c92df9",
+          "text": "En el transporte de oxalacetato desde la mitocondria hacia el citosol."
+        },
+        {
+          "id": "c7b870a3-2440-4f94-ba02-8f6cee3fe00d",
+          "text": "En el transporte del piruvato desde el citosol hacia la mitocondria."
+        },
+        {
+          "id": "06d0799b-356f-4efa-b7e5-e67695e219ea",
+          "text": "En la beta-oxidación de ácidos grasos."
+        },
+        {
+          "id": "eff59437-7a42-4d5f-b316-055f537c7543",
+          "text": "En la glucogenólisis."
+        }
+      ]
+    },
+    {
       "id": "34312c52-71f7-4f45-a911-a56447d52062",
       "evaluation": "parcial_1",
       "source": "partial",
