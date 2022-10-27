@@ -1953,12 +1953,1000 @@
           "text": "Todas las opciones son incorrectas."
         }
       ]
+    },
+    {
+      "id": "1e6ed850-f9d7-44f6-bb82-f5bf4860236d",
+      "evaluation": "parcial_1",
+      "source": "exam",
+      "asked_at": "2022-07-01",
+      "text": "Con respecto a la circulación cerebral y su relación con la actividad cerebral, es correcto afirmar que:",
+      "options": [
+        {
+          "id": "82e0f19e-35f8-49c7-8ec4-43655f157300",
+          "text": "Cambios en la actividad de regiones cerebrales específicas, lleva a cambios simultáneos en flujo sanguíneo en esas regiones.",
+          "correct": true
+        },
+        {
+          "id": "ea63010f-bfab-4781-993e-7907c5604185",
+          "text": "Durante la vigilia el flujo sanguíneo cerebral se encuentra en valores supra máximos."
+        },
+        {
+          "id": "58b6ddce-7f26-480b-bf81-6f08714654af",
+          "text": "El consumo de oxígeno regional no se modifica frente a cambios en la actividad mental."
+        },
+        {
+          "id": "0a9ce06a-2002-4767-bd5c-e6678bc92894",
+          "text": "En reposo el flujo sanguíneo cerebral es mayor en la corteza occipital."
+        },
+        {
+          "id": "e360cb2e-2eee-4cb7-8664-74ca32dbedf6",
+          "text": "Las restantes opciones son incorrectas."
+        }
+      ]
+    },
+    {
+      "id": "fe3fb526-b8dd-4302-bfd3-2ecafe48f283",
+      "evaluation": "parcial_1",
+      "source": "exam",
+      "asked_at": "2022-07-01",
+      "text": "Con respecto a la circulación coronaria, señale lo correcto:",
+      "options": [
+        {
+          "id": "fa440607-5fc3-46b5-987c-17fa3a6434ff",
+          "text": "Los principales determinantes de la resistencia coronaria son la resistencia de los grandes vasos, las de las arteriolas y la compresión extravascular compresiva.",
+          "correct": true
+        },
+        {
+          "id": "f7b84dd2-ef79-49b5-b544-7a370c633f4b",
+          "text": "Al aumentar el radio del vaso disminuye la tensión parietal, de acuerdo a la ley de Laplace."
+        },
+        {
+          "id": "094d13f8-3a53-4567-95c3-072fbc991580",
+          "text": "La regulación de la resistencia arteriolar tiene un rol fisiológico menor debido a la existencia del fenómeno de autorregulación."
+        },
+        {
+          "id": "279faa78-77f5-4ed2-b9f3-7751b2639cb9",
+          "text": "Los principales determinantes del consumo miocárdico de O2 son la tensión parietal diastólica, la frecuencia cardiaca y el lusitropismo cardíaco."
+        },
+        {
+          "id": "623b9cc6-3f33-480c-b78a-adb0db458416",
+          "text": "Ninguna de las otras opciones es correcta."
+        }
+      ]
+    },
+    {
+      "id": "8eb94cc0-95ec-437f-8492-78bb549963e3",
+      "evaluation": "parcial_1",
+      "source": "exam",
+      "asked_at": "2022-07-01",
+      "text": "Con respecto a la fase 4 del potencial de acción de las células del nódulo sinusal. Señale la opción correcta.",
+      "options": [
+        {
+          "id": "e0ac80bc-2b19-43f6-a826-3f04691c4afb",
+          "text": "La corriente entrante responsable de la misma se produce a través de los canales HCN.",
+          "correct": true
+        },
+        {
+          "id": "d03f4a8f-ba3d-4be1-b1ed-fec4072ab818",
+          "text": "El sistema simpático y parasimpático carecen de efectos en la misma."
+        },
+        {
+          "id": "4edfd11d-d44d-4066-bda3-e4b28b13e577",
+          "text": "Las restantes opciones son incorrectas."
+        },
+        {
+          "id": "4d0ee0e5-7bfd-43af-8c6e-40a63a7ad645",
+          "text": "Presenta un valor constante que solo se modifica en respuesta a la llegada de un nuevo estímulo."
+        }
+      ]
+    },
+    {
+      "id": "7ea7e494-19d6-4dfd-bf86-8000dd744993",
+      "evaluation": "parcial_1",
+      "source": "exam",
+      "asked_at": "2022-07-01",
+      "text": "Con respecto a la regulación de la presión arterial, señale lo correcto:",
+      "options": [
+        {
+          "id": "b60da950-70f3-48f8-94e3-ba0a7c486515",
+          "text": "Está principalmente determinada por la resistencia vascular periférica y el gasto cardiaco.",
+          "correct": true
+        },
+        {
+          "id": "160e2443-1993-492d-b48f-bedc7a3d72fa",
+          "text": "El aumento de la descarga vagal eferente promueve una disminución en el gasto cardiaco, mediado por un aumento en la resistencia vascular periférica."
+        },
+        {
+          "id": "6b14ad1d-218f-43ab-bdec-43667ed1badd",
+          "text": "Frente a aumentos en la presión arterial, las aferentes que inervan a los barorreceptores carotídeos disminuyen su frecuencia de descarga."
+        },
+        {
+          "id": "a2bcef37-bdee-4855-8f46-57636c2641bb",
+          "text": "Frente a una disminución de la presión arterial, aumenta el tono parasimpático a nivel de las fibras que inervan el corazón."
+        },
+        {
+          "id": "8e9cb66e-17d3-4332-8169-fee709f1370d",
+          "text": "Ninguna de las otras opciones es correcta."
+        }
+      ]
+    },
+    {
+      "id": "e95e090a-51ac-440a-ac1d-9679a993cad6",
+      "evaluation": "parcial_1",
+      "source": "exam",
+      "asked_at": "2022-07-01",
+      "text": "Con respecto a la regulación de la presión arterial, señale lo correcto:",
+      "options": [
+        {
+          "id": "f9e59d39-2cf3-4544-8763-ae6b6e06e652",
+          "text": "El aumento de la frecuencia de las fibras eferentes vagales disminuye el gasto cardiaco y la presión arterial.",
+          "correct": true
+        },
+        {
+          "id": "e72f2868-c478-42cc-8b57-02511b36b926",
+          "text": "Frente a un aumento de la presión arterial aumenta el tono simpático a nivel de las fibras que inervan el corazón."
+        },
+        {
+          "id": "292b36a8-ba02-4a1e-a61a-720b84375c30",
+          "text": "Los barorreceptores del seno carotídeo están especializados para censar cambios en un rango de bajas presiones."
+        },
+        {
+          "id": "7b8e62ca-083d-4d8f-827e-67538ccde2d8",
+          "text": "Ninguna de las otras opciones es correcta."
+        },
+        {
+          "id": "c55905d2-88e7-49d2-adc7-157103f8c98e",
+          "text": "Si ocurre un descenso abrupto de la presión arterial, la disminución en la secreción de renina compensa dicho cambio en un rango de minutos."
+        }
+      ]
+    },
+    {
+      "id": "fa13c611-f830-401f-865e-62e7d1f83e67",
+      "evaluation": "parcial_1",
+      "source": "exam",
+      "asked_at": "2022-07-01",
+      "text": "Con respecto a la regulación del flujo sanguíneo hepático, marque la opción correcta:",
+      "options": [
+        {
+          "id": "e90106fe-6c08-447b-b3f7-6890b1b9b193",
+          "text": "La mayor caída de la presión venosa intra-hepática ocurre a nivel de los vasos post-sinusoidales.",
+          "correct": true
+        },
+        {
+          "id": "cbc351b8-1951-4822-9aa4-1478dc0a5b9a",
+          "text": "A nivel sinusoidal ocurre la mayor velocidad de flujo sanguíneo, para favorecer el intercambio gaseoso y de nutrientes."
+        },
+        {
+          "id": "4f01aef8-b6c7-41b9-9108-809858e07df6",
+          "text": "De manera característica, el nivel de extracción de oxígeno a nivel hepático no se modifica ante cambios en su flujo sanguíneo."
+        },
+        {
+          "id": "828f25d3-61d7-4d18-8e84-bc218e97b597",
+          "text": "En el lóbulo hepático clásico, los mayores niveles de oxígeno y nutrientes se encuentran en su centro (zona 3)."
+        },
+        {
+          "id": "134898c8-c187-45ae-a2c7-099e7b6185d3",
+          "text": "La principal fuente de nutrientes para el parénquima hepático procede de la arteria hepática."
+        }
+      ]
+    },
+    {
+      "id": "bcb43e9f-9e58-4c58-bbdc-52042464ac49",
+      "evaluation": "parcial_1",
+      "source": "exam",
+      "asked_at": "2022-07-01",
+      "text": "Con respecto a la velocidad de la onda del pulso arterial (marque lo correcto):",
+      "options": [
+        {
+          "id": "78c29abe-d478-431a-b305-01d1d321f200",
+          "text": "Las restantes opciones son incorrectas.",
+          "correct": true
+        },
+        {
+          "id": "ce1ea1d4-4258-408d-8441-cb16089c5d1c",
+          "text": "Es mayor a medida que la sangre viaja a mayor velocidad."
+        },
+        {
+          "id": "fa11a635-16bb-41fe-8bc6-2c69559c8f63",
+          "text": "Es un indicador de la capacidad contráctil ventricular."
+        },
+        {
+          "id": "c4bd7c7b-83ae-4894-96fe-eebc9ab52fda",
+          "text": "Es un indicador de los niveles de rigidez arterial regional."
+        },
+        {
+          "id": "588b0c7c-55e5-404a-88c5-911ee451ede9",
+          "text": "Mayores niveles indican que la persona presenta menores niveles de presión arterial."
+        }
+      ]
+    },
+    {
+      "id": "78498a32-e9d2-4d8f-a2a2-00b1ee429076",
+      "evaluation": "parcial_1",
+      "source": "exam",
+      "asked_at": "2022-07-01",
+      "text": "Con respecto a las características de la sangre como fluido, marque la opción correcta:",
+      "options": [
+        {
+          "id": "1be50ff7-c57e-48db-9a3d-9e41bf321ed2",
+          "text": "Se trata de un fluido real que presenta viscosidad variable.",
+          "correct": true
+        },
+        {
+          "id": "6ce6e642-35a5-4952-bb66-51e947678c16",
+          "text": "Las restantes opciones son incorrectas."
+        },
+        {
+          "id": "0c3611a0-e4a9-41b4-9ccc-e9d0e549266e",
+          "text": "Se trata de un fluido ideal con viscosidad constante."
+        },
+        {
+          "id": "61f27276-095f-4b9b-af3d-ecbb6222db22",
+          "text": "Se trata de un fluido ideal con viscosidad variable."
+        },
+        {
+          "id": "dfa8a42c-2ce3-4fab-a6a8-c34df794493f",
+          "text": "Se trata de un fluido real con viscosidad constante."
+        }
+      ]
+    },
+    {
+      "id": "6fed4ca9-832a-461b-b389-03cce2060c69",
+      "evaluation": "parcial_1",
+      "source": "exam",
+      "asked_at": "2022-07-01",
+      "text": "Con respecto a las propiedades de las células marcapaso cardiacas, señale la opción correcta:",
+      "options": [
+        {
+          "id": "762fa12a-864a-4336-9a08-769b980cc69c",
+          "text": "El retraso en el nodo AV de alrededor 0,1 s permite que la contracción auricular refuerce el llenado ventricular.",
+          "correct": true
+        },
+        {
+          "id": "cb20ed2b-1a0f-47ad-846e-e2712bce89e2",
+          "text": "El potencial marcapaso es generado por una corriente transitoria de salida (Ito)."
+        },
+        {
+          "id": "5eda9ff0-2ad4-4b48-a48d-1915832508fa",
+          "text": "Presentan una fase de despolarización rápida determinada por el ingreso de K+ a la célula."
+        },
+        {
+          "id": "f896ee50-1e53-4009-99ba-9992ac8b46a1",
+          "text": "Presentan una repolarización rápida o fase 1 del potencial de acción."
+        },
+        {
+          "id": "9a9a5f39-4d6a-4adc-b04e-8f683ccd3d7a",
+          "text": "Se caracterizan por presentar un potencial en reposo estable de -85mV."
+        }
+      ]
+    },
+    {
+      "id": "f59a7759-f82a-4b08-a1e6-ea7142539a5c",
+      "evaluation": "parcial_1",
+      "source": "exam",
+      "asked_at": "2022-07-01",
+      "text": "Con respecto a los potenciales de acción en el músculo ventricular, señale la opción correcta:",
+      "options": [
+        {
+          "id": "921f84aa-b1dc-4737-bd43-0364179e26d8",
+          "text": "Todas las otras opciones son incorrectas.",
+          "correct": true
+        },
+        {
+          "id": "167185fc-a85b-43a7-a8c9-5ea39c8e3728",
+          "text": "El sodio sale de la célula durante la fase de despolarización."
+        },
+        {
+          "id": "315dfd57-8adf-4b2b-a83b-c74798508f76",
+          "text": "La ICa determina la fase de repolarización del potencial de acción."
+        },
+        {
+          "id": "6dfb7f5b-83cf-4054-bdbc-d89e108010f2",
+          "text": "La salida de calcio desde la célula es responsable de la fase de despolarización rápida."
+        },
+        {
+          "id": "e8da55aa-8a59-4c8f-a24b-ab104b5b2252",
+          "text": "Una corriente de Na+ es responsable de la fase de repolarización en los miocitos cardíacos."
+        }
+      ]
+    },
+    {
+      "id": "2099a99b-4798-40ea-aaac-7863d4528b65",
+      "evaluation": "parcial_1",
+      "source": "exam",
+      "asked_at": "2022-07-01",
+      "text": "Contamos con un electrocardiograma que tiene un registro predominantemente negativo en DI y aVF, indique en que cuadrante del triángulo de Einthoven se ubica el eje eléctrico medio:",
+      "options": [
+        {
+          "id": "1a47d8cf-43b5-419d-98cc-12249baaab73",
+          "text": "Cuadrante inferior derecho.",
+          "correct": true
+        },
+        {
+          "id": "f7b2795d-ece9-4cf5-827d-b661371cb920",
+          "text": "Cuadrante inferior izquierdo."
+        },
+        {
+          "id": "3893df68-753f-4650-96fd-3aa4a6120d3e",
+          "text": "Cuadrante superior derecho."
+        },
+        {
+          "id": "4fd7cd6a-3f57-4ef6-828b-30fb1801d051",
+          "text": "Cuadrante superior izquierdo."
+        },
+        {
+          "id": "deeb66a7-6f93-4b19-9c0c-5e026a712aa3",
+          "text": "Las restantes opciones son incorrectas."
+        }
+      ]
+    },
+    {
+      "id": "0c97e60f-d29b-4b9b-a223-8db55a331f54",
+      "evaluation": "parcial_1",
+      "source": "exam",
+      "asked_at": "2022-07-01",
+      "text": "El mecanismo de Frank-Starling, permite (marque lo correcto):",
+      "options": [
+        {
+          "id": "96bc2bc7-dc4e-45b8-aca2-c32fecea426a",
+          "text": "Las restantes opciones son incorrectas.",
+          "correct": true
+        },
+        {
+          "id": "ffed511c-5d1b-4dd5-a5b7-77b2cb9011cf",
+          "text": "Elevar el inotropismo cardíaco frente a caída de la presión arterial."
+        },
+        {
+          "id": "846b4fc1-e5bf-46f1-90f8-564ab21df54e",
+          "text": "Elevar el volumen de eyección ventricular ante caída del retorno venoso."
+        },
+        {
+          "id": "e08fdfab-2ede-4ee0-87d4-e238c72f0592",
+          "text": "Mantener reducidos los niveles de rigidez arterial aórtica en momentos en que aumenta la presión arterial."
+        },
+        {
+          "id": "cbf19097-ec95-4a6f-b8d1-9aae0c8e03da",
+          "text": "Redistribuir la volemia ante cambios en la posición corporal."
+        }
+      ]
+    },
+    {
+      "id": "4fa15a51-9ac8-49d1-a7c8-d0e5927c00c2",
+      "evaluation": "parcial_1",
+      "source": "exam",
+      "asked_at": "2022-07-01",
+      "text": "En la siguiente figura se muestra el registro de la actividad eléctrica a distancia obtenido en el taller experimental \"Actividad eléctrica y mecánica del corazón de batracio in situ\". Sabiendo que los electrodos fueron colocados sobre el ventrículo, señale la opción correcta:",
+      "image": "4fa15a51-9ac8-49d1-a7c8-d0e5927c00c2.webp",
+      "options": [
+        {
+          "id": "5e430b9e-eabc-4a10-9513-9ffec505a070",
+          "text": "Las restantes opciones son incorrectas.",
+          "correct": true
+        },
+        {
+          "id": "2df3aabe-68e8-4ec3-b8de-5f89fb0d0a1f",
+          "text": "La actividad eléctrica del ventrículo está representada por ondas monofásicas."
+        },
+        {
+          "id": "15e04870-c82c-42ea-af97-636449739ff9",
+          "text": "La onda de mayor amplitud corresponde la despolarización del seno venoso."
+        },
+        {
+          "id": "790eb8be-f40a-45e2-883f-ee306eae399e",
+          "text": "La onda señalada con el asterisco se debe a la repolarización de la aurícula."
+        },
+        {
+          "id": "954c54c9-8af5-4e05-99c2-0d56a7eb8784",
+          "text": "Se trata de un registro intracelular."
+        }
+      ]
+    },
+    {
+      "id": "29c6af2c-c01f-4574-af5e-951466016be3",
+      "evaluation": "parcial_1",
+      "source": "exam",
+      "asked_at": "2022-07-01",
+      "text": "En un experimento se estimula eléctricamente una fibra de miocardio a una frecuencia basal mientras se realiza un registro de tensión isométrico. Luego, se aumenta la frecuencia de estimulación al doble, y se continúa registrando la tensión de manera isométrica. Piense en el resultado esperado de aumentar la frecuencia de estimulación y marque la opción correcta.",
+      "options": [
+        {
+          "id": "defb3f79-8c42-4a23-b83d-b9021a067311",
+          "text": "El resultado esperado se explica por un aumento en la amplitud del transitorio de Ca2+ hacia el final del registro.",
+          "correct": true
+        },
+        {
+          "id": "fbe74d35-448c-4e95-aadf-3ef29f45f02f",
+          "text": "El aumento en la frecuencia de estimulación provocará una disminución acumulativa de la tensión desarrollada."
+        },
+        {
+          "id": "2aa051f7-1a75-4437-abbf-60ccb439c4f5",
+          "text": "El efecto esperado es consecuencia de mayor acortamiento de la fibra al aumentar la frecuencia de estimulación."
+        },
+        {
+          "id": "726d05dc-5844-410e-b2d7-b89f10372f55",
+          "text": "El efecto esperado es consecuencia de un aumento en la amplitud de la despolarización del miocito frente a cada estimulación."
+        },
+        {
+          "id": "4742e7bf-a13a-4561-af1f-967393807359",
+          "text": "Se espera que el cambio en la frecuencia de estimulación no provoque efecto sobre la tensión desarrollada por la fibra muscular."
+        }
+      ]
+    },
+    {
+      "id": "63cd1116-bcbe-4bcf-b5ff-c5976a4a7968",
+      "evaluation": "parcial_1",
+      "source": "exam",
+      "asked_at": "2022-07-01",
+      "text": "La figura a continuación muestra el registro de la actividad mecánica obtenido en el taller experimental \"Actividad eléctrica y mecánica del corazón de batracio in situ\". Señale la opción correcta:",
+      "image": "63cd1116-bcbe-4bcf-b5ff-c5976a4a7968.webp",
+      "options": [
+        {
+          "id": "900413b8-28f9-4123-9617-84c57f5d9776",
+          "text": "Las restantes opciones son incorrectas.",
+          "correct": true
+        },
+        {
+          "id": "4f5f5eaa-afb9-4736-874b-db3d2706d5b9",
+          "text": "La onda de mayor amplitud corresponde a la contracción auricular."
+        },
+        {
+          "id": "9549ffb4-9a57-4ec6-9806-04cdb8c4e6ec",
+          "text": "La onda de menor amplitud se debe a la contracción ventricular."
+        },
+        {
+          "id": "121894f3-7cb8-4d86-a23d-c47d32b4b2a0",
+          "text": "La onda señalada con la fecha representa la actividad mecánica del seno venoso."
+        },
+        {
+          "id": "555d9afc-9972-477d-ae1a-77ccf51e62ff",
+          "text": "Se trata de un registro de ondas bifásicas."
+        }
+      ]
+    },
+    {
+      "id": "62b6cf85-7587-4a6b-8f34-c3bf40a7a71c",
+      "evaluation": "parcial_1",
+      "source": "exam",
+      "asked_at": "2022-07-01",
+      "text": "La tensión que desarrolla la pared ventricular durante la eyección ventricular, es (marque lo correcto):",
+      "options": [
+        {
+          "id": "6a94cc4a-1236-49bd-b31a-49624717c3a0",
+          "text": "La definición de poscarga.",
+          "correct": true
+        },
+        {
+          "id": "1a49b7a5-309a-4edc-89e5-0993c7fbd4f1",
+          "text": "Determinada por la fracción de eyección."
+        },
+        {
+          "id": "86d81f73-dd45-4ef6-a25d-d5d7f9983a42",
+          "text": "La definición de inotropismo."
+        },
+        {
+          "id": "928be6a4-727b-4d00-9f9a-1c0a75382ee3",
+          "text": "La definición de precarga."
+        },
+        {
+          "id": "4512aeac-7760-45b3-b1fa-ed6915bab58b",
+          "text": "Las restantes opciones son incorrectas."
+        }
+      ]
+    },
+    {
+      "id": "d7af84e4-1c16-4e0a-a982-d6feebbc4923",
+      "evaluation": "parcial_1",
+      "source": "exam",
+      "asked_at": "2022-07-01",
+      "text": "Si graficamos el flujo sanguíneo coronario en función de la presión de perfusión coronaria, obtendremos:",
+      "options": [
+        {
+          "id": "95fcddc4-2775-45cc-a616-24e2d95d3fb9",
+          "text": "Un gráfico con una meseta, evidenciando el fenómeno de autorregulación.",
+          "correct": true
+        },
+        {
+          "id": "62b945d2-9336-4a6f-bc0b-babf898bb854",
+          "text": "Ninguna de las otras opciones es correcta."
+        },
+        {
+          "id": "4422e0e5-4316-4dec-9229-af402f0ced2f",
+          "text": "Un gráfico mostrando que el flujo coronario permanece constante, independiente de la presión de perfusión."
+        },
+        {
+          "id": "4f3e2966-dad4-4570-af9f-fb5eaebf375b",
+          "text": "Una relación inversamente proporcional, de acuerdo a la ley de Ohm."
+        },
+        {
+          "id": "ce1ea2c9-131d-4920-bdcf-c8bbaa26f35f",
+          "text": "Una relación lineal, cuya pendiente es la resistencia vascular periférica."
+        }
+      ]
+    },
+    {
+      "id": "d7aada8b-e601-4982-a30b-dee077558936",
+      "evaluation": "parcial_1",
+      "source": "exam",
+      "asked_at": "2022-07-01",
+      "text": "Si tenemos un dipolo que se encuentra fijo en un medio conductor y movemos un electrodo de registro sobre una recta paralela al eje de dicho dipolo, la onda que obtendríamos correspondería a:",
+      "options": [
+        {
+          "id": "3fb6119a-b677-436c-8229-035be10083b7",
+          "text": "Una onda bifásica.",
+          "correct": true
+        },
+        {
+          "id": "e803ecc7-1a11-452f-a4e7-9d7f5dcf2222",
+          "text": "Las restantes opciones son incorrectas."
+        },
+        {
+          "id": "fd171d45-9d66-4ea1-950f-542a37cf5c02",
+          "text": "No podemos saberlo con estos datos."
+        },
+        {
+          "id": "2661ed58-dc82-4c53-a9c0-86c34103b4e4",
+          "text": "Un cambio en el potencial de amplitud creciente siempre positiva."
+        },
+        {
+          "id": "d8aa716a-4f06-4913-97e2-143343ab2e52",
+          "text": "Un registro isoeléctrico."
+        }
+      ]
+    },
+    {
+      "id": "8de9878f-9c5b-4e61-a64d-8339377babe9",
+      "evaluation": "parcial_2",
+      "source": "exam",
+      "asked_at": "2022-07-01",
+      "text": "Con respecto a la circulación pulmonar. Señale la opción correcta.",
+      "options": [
+        {
+          "id": "5c30ed22-0ba6-4728-a9d4-0ec1eb35dd9b",
+          "text": "Ninguna de las otras opciones correcta.",
+          "correct": true
+        },
+        {
+          "id": "3d03dd89-b80b-447e-9151-9b47b1585518",
+          "text": "El flujo sanguíneo pulmonar es menor que el flujo sanguíneo sistémico."
+        },
+        {
+          "id": "49c086e1-c4db-47c2-9f76-da29f6aa840a",
+          "text": "La resistencia periférica pulmonar depende de la autorregulación por las arteriolas musculares."
+        },
+        {
+          "id": "a407fff7-e5e8-42f3-af2e-b61ad0e38d62",
+          "text": "La resistencia periférica pulmonar es mayor que la resistencia periférica sistémica."
+        },
+        {
+          "id": "c072372c-4b56-4b5d-8115-0f2579594b17",
+          "text": "Los mecanismos de regulación de la resistencia periférica pulmonar son principalmente activos."
+        }
+      ]
+    },
+    {
+      "id": "1270ec23-3f55-446a-8b31-320077e2f200",
+      "evaluation": "parcial_2",
+      "source": "exam",
+      "asked_at": "2022-07-01",
+      "text": "Con respecto a la composición del aire, indique la opción correcta:",
+      "options": [
+        {
+          "id": "35ffbf1e-11fc-4771-ae8d-2487e44f195e",
+          "text": "A nivel alveolar, la presión parcial de oxígeno es menor comparada con la presión parcial de dicho gas a nivel atmosférico.",
+          "correct": true
+        },
+        {
+          "id": "9135570c-6ce6-4409-809d-35b6c22ee9fc",
+          "text": "A nivel de la tráquea, el principal componente de la mezcla de gases del aire espirado es el oxígeno."
+        },
+        {
+          "id": "325239e0-c663-4d67-ac57-891d3ef138c6",
+          "text": "El dióxido de carbono es el principal componente del aire inspirado seco a 37°C, y por tanto el que tiene mayor presión parcial en la mezcla de gases."
+        },
+        {
+          "id": "0b03f8bb-777d-4e72-ad3e-5fbad3ac2024",
+          "text": "La humidificación del aire al entrar en las vías respiratorias se traduce en un aumento de la presión parcial de nitrógeno."
+        },
+        {
+          "id": "55ce006f-267a-4380-95aa-eb596c8fa77c",
+          "text": "Las restantes opciones son incorrectas."
+        }
+      ]
+    },
+    {
+      "id": "254d6200-3fa3-45fe-850d-441104103ecd",
+      "evaluation": "parcial_2",
+      "source": "exam",
+      "asked_at": "2022-07-01",
+      "text": "Con respecto a la mecánica dinámica del ciclo respiratorio en condiciones normales, indique la opción correcta:",
+      "options": [
+        {
+          "id": "b8a5f9fa-ce68-45b0-9d44-b2f67f915bd3",
+          "text": "Al final de la inspiración, la presión alveolar es mayor que la presión atmosférica.",
+          "correct": true
+        },
+        {
+          "id": "6c2d0b97-fe6a-4518-b665-e129c66d15a3",
+          "text": "Durante la espiración, existe un flujo de aire saliente debido a que la presión alveolar es considerablemente menor respecto a la presión atmosférica."
+        },
+        {
+          "id": "d24ba773-2c87-463b-9235-f8475b621a0f",
+          "text": "El flujo máximo de aire que entra a los pulmones, coincide con el final de la fase inspiratoria."
+        },
+        {
+          "id": "07b236af-4c9a-47ec-82e2-3cb6053a05a4",
+          "text": "La fuerza de retracción elástica de los pulmones es mayor al final de la inspiración, que al inicio de dicha fase."
+        },
+        {
+          "id": "abf68a11-b09c-4c86-9893-6484fb4c819e",
+          "text": "Las restantes opciones son incorrectas."
+        }
+      ]
+    },
+    {
+      "id": "61bbf8a2-6cf4-47f2-a2c4-1623ff9ccf83",
+      "evaluation": "parcial_2",
+      "source": "exam",
+      "asked_at": "2022-07-01",
+      "text": "Con respecto a la mecánica respiratoria estática, indique la opción correcta:",
+      "options": [
+        {
+          "id": "7909ad27-7f91-4e8a-9019-b1322c5a4816",
+          "text": "La capacidad residual funcional (CRF) de un individuo que está de pie es mayor que cuando el mismo individuo está en posición supina (decúbito dorsal).",
+          "correct": true
+        },
+        {
+          "id": "59033d9a-40fe-4e6b-a517-3340c217aaaf",
+          "text": "Al aumentar la frecuencia respiratoria, aumenta el volumen corriente que mueve un sujeto en cada ciclo respiratorio."
+        },
+        {
+          "id": "6d0a3a05-e27a-4946-a382-a1d924e00c7f",
+          "text": "La espiración es siempre un proceso pasivo que involucra la contracción muscular."
+        },
+        {
+          "id": "2ebe31ca-a63d-418c-a8fa-a2d976fba32a",
+          "text": "La presión transmural toraco-pulmonar (Ptmtp) es la diferencia de presión entre la presión pleural y la alveolar."
+        }
+      ]
+    },
+    {
+      "id": "ff9dfad8-f852-4e13-bef9-ea6a593035ef",
+      "evaluation": "parcial_2",
+      "source": "exam",
+      "asked_at": "2022-07-01",
+      "text": "Con respecto a la mecánica respiratoria, señale la opción correcta.",
+      "options": [
+        {
+          "id": "407382c2-134f-4251-a585-2badf1d0a90b",
+          "text": "En el volumen de la capacidad residual funcional la presión intra-pleural es negativa.",
+          "correct": true
+        },
+        {
+          "id": "10f40c8c-bc58-406f-8bb1-153d029dc2e6",
+          "text": "El diafragma aumenta el volumen torácico por medio de su descenso, sin aumentar el área de la base del tórax."
+        },
+        {
+          "id": "20779d8f-3601-4d08-8877-7df46efbe81f",
+          "text": "El diafragma se contrae durante la espiración tranquila."
+        },
+        {
+          "id": "e9aa902d-6e92-4220-8ec1-4f938a989553",
+          "text": "En la inspiración profunda la contracción de los músculos intercostales internos es muy importantes."
+        },
+        {
+          "id": "97fe904b-2954-435f-b16a-33cb149766ae",
+          "text": "Ninguna de las otras opciones correcta."
+        }
+      ]
+    },
+    {
+      "id": "ebfc0ff3-fbc7-4fef-bfa7-13534f87bcbd",
+      "evaluation": "parcial_2",
+      "source": "exam",
+      "asked_at": "2022-07-01",
+      "text": "Con respecto a la relación entre la resistencia vascular pulmonar y volumen pulmonar, señale lo correcto:",
+      "options": [
+        {
+          "id": "922b8cb7-414b-4c24-ad19-1046bdfc3eb6",
+          "text": "La resistencia vascular pulmonar aumenta al alejarse de la capacidad residual funcional.",
+          "correct": true
+        },
+        {
+          "id": "f6d922db-98d6-4fe7-beaa-d34c8efb8f71",
+          "text": "En la capacidad residual funcional la resistencia vascular pulmonar es máxima."
+        },
+        {
+          "id": "006ad062-07ca-4c33-9f92-c4d5dd0dd3b9",
+          "text": "La resistencia vascular pulmonar aumenta en volúmenes altos debido a la compresión de vasos extra-alveolares."
+        },
+        {
+          "id": "bb41a832-0e5e-4b01-83e5-477de506b4bb",
+          "text": "La resistencia vascular pulmonar disminuye en volúmenes altos debido a la compresión de vasos intra-alveolares."
+        },
+        {
+          "id": "d962c67c-c20a-4986-a51c-6bf53415d7ec",
+          "text": "Ninguna de las otras opciones es correcta."
+        }
+      ]
+    },
+    {
+      "id": "e1c93252-5275-49d5-b396-997a2d55211d",
+      "evaluation": "parcial_2",
+      "source": "exam",
+      "asked_at": "2022-07-01",
+      "text": "Con respecto a la relación ventilación/perfusión pulmonar (V/Q), señale la opción correcta:",
+      "options": [
+        {
+          "id": "dbabdd74-7267-4d1b-a946-bcea49285022",
+          "text": "Las diferencias en la relación V/Q entre el vértice y la base pulmonar son provocadas por la gravedad.",
+          "correct": true
+        },
+        {
+          "id": "43944862-b810-4a31-a90b-fbc782e4c562",
+          "text": "La perfusión es mayor en la base pulmonar porque está más cerca del ventrículo derecho."
+        },
+        {
+          "id": "006ae878-2848-4b72-a24c-77fa3872e4c5",
+          "text": "La ventilación es mayor en la base pulmonar porque sus respectivos alvéolos están más dilatados."
+        },
+        {
+          "id": "a2911409-26f0-47b6-87bb-8bd88b6f99bc",
+          "text": "Las diferencias en la relación V/Q entre el vértice y la base pulmonar mejoran el intercambio gaseoso."
+        },
+        {
+          "id": "8eab016e-b852-4ba2-9116-bdc4ea579f1d",
+          "text": "Ninguna de las otras opciones correcta."
+        }
+      ]
+    },
+    {
+      "id": "0209d94e-eb0e-4130-97b1-a9d8d3322a4b",
+      "evaluation": "parcial_2",
+      "source": "exam",
+      "asked_at": "2022-07-01",
+      "text": "Con respecto al intercambio gaseoso alveolo-capilar (marque lo correcto):",
+      "options": [
+        {
+          "id": "28f8e543-1359-44be-97b8-2873b58e6c2a",
+          "text": "La membrana alveolo-capilar es más permeable al CO2 que al O2.",
+          "correct": true
+        },
+        {
+          "id": "144625ff-5882-44b4-9cb9-b2f91a8143ee",
+          "text": "Depende de un mecanismo de transporte activo."
+        },
+        {
+          "id": "be4d6120-07d8-4af6-9ff9-99671c1a325c",
+          "text": "El flujo de gas es directamente proporcional al espesor de la membrana alveolo-capilar."
+        },
+        {
+          "id": "a8beda4a-1cbd-45a4-9dfa-5fb17a760577",
+          "text": "El flujo de gas es inversamente proporcional al área de la membrana alveolo-capilar."
+        },
+        {
+          "id": "fe6f8246-a3df-4dca-80d4-6dc2e8862fd1",
+          "text": "Todas las otras opciones son falsas."
+        }
+      ]
+    },
+    {
+      "id": "04818770-7d86-4e9a-ada5-8d43de8e41c2",
+      "evaluation": "parcial_2",
+      "source": "exam",
+      "asked_at": "2022-07-01",
+      "text": "Con respecto al trabajo respiratorio, señale la opción correcta.",
+      "options": [
+        {
+          "id": "f6777364-a48e-4e93-9d5f-cee117d60324",
+          "text": "El trabajo resistivo es el componente generado por la resistencia de las vías aéreas.",
+          "correct": true
+        },
+        {
+          "id": "159c1fd5-98a3-4d5c-8389-83777fd54150",
+          "text": "El trabajo elástico es generado por la viscosidad del aire cuando este tiene flujo laminar."
+        },
+        {
+          "id": "26173703-83b1-4873-b61b-e812f1b3f505",
+          "text": "El trabajo inercial es mayor que el trabajo resistivo."
+        },
+        {
+          "id": "1008a047-aeea-40cf-b02a-00092c7997e8",
+          "text": "El trabajo resistivo se acumula como energía potencial durante la inspiración."
+        },
+        {
+          "id": "2eff6126-2d52-4f35-a1a3-42efdd392602",
+          "text": "Todas las otras opciones son falsas."
+        }
+      ]
+    },
+    {
+      "id": "79d07853-3fee-4d7e-8d10-f1ca6e1153f1",
+      "evaluation": "parcial_2",
+      "source": "exam",
+      "asked_at": "2022-07-01",
+      "text": "Con respecto al transporte de CO2 en sangre (marque lo correcto):",
+      "options": [
+        {
+          "id": "ea20e53f-be32-4f5d-8d01-4cf539e0863b",
+          "text": "Todas las otras opciones son falsas.",
+          "correct": true
+        },
+        {
+          "id": "f569ee48-195a-47df-ab5d-7586cfb82fb7",
+          "text": "La afinidad de la hemoglobina por el CO2 es mayor en los capilares de los alvéolos que en los tejidos."
+        },
+        {
+          "id": "fda63a25-7131-45bf-8a65-cd99d6af1dba",
+          "text": "La mayor parte del CO2 se transporta disuelto en el plasma."
+        },
+        {
+          "id": "6ea3b303-189d-4cc3-9b1e-53cfd1b1eeae",
+          "text": "La mayor parte del CO2 se transporta unido a la hemoglobina."
+        },
+        {
+          "id": "cfe72086-ef37-4f2e-8b62-d5f7c378d6b8",
+          "text": "La presión parcial de CO2 no influye en el pH plasmático."
+        }
+      ]
+    },
+    {
+      "id": "2a9e27df-8b50-42b8-b18f-8e11484d93be",
+      "evaluation": "parcial_2",
+      "source": "exam",
+      "asked_at": "2022-07-01",
+      "text": "Cuando se asciende considerablemente sobre el nivel del mar, ocurren respuestas fisiológicas de aclimatación a la altura que involucran la generación de alcalosis respiratoria. Con respecto a las respuestas que se desencadenan por la alcalosis respiratoria, señale la opción correcta:",
+      "options": [
+        {
+          "id": "c988d81f-c762-4999-8690-d34e31e3ee82",
+          "text": "Los quimiorreceptores centrales son inhibidos por la disminución de la concentración de protones (H+).",
+          "correct": true
+        },
+        {
+          "id": "79d56f4c-79e2-40ee-a101-9c6f010b374b",
+          "text": "Durante la alcalosis los quimiorreceptores periféricos provocan un incremento de la frecuencia ventilatoria."
+        },
+        {
+          "id": "37315eaa-51fd-4a08-aaea-dca24fcc5a90",
+          "text": "Las restantes opciones no son correctas."
+        },
+        {
+          "id": "cabc47f7-ff6e-429f-90e5-f8ee6ebdaccd",
+          "text": "Se produce la reabsorción de HCO3 de las células intercaladas B renales hacia la sangre."
+        },
+        {
+          "id": "f553a1ca-f486-43a4-b62e-8bd6ad08d682",
+          "text": "Se produce la secreción de protones (H+) en la nefrona hacia el túbulo colector."
+        }
+      ]
+    },
+    {
+      "id": "13a333c5-6e80-45b1-a80e-c39dc5a2a9a3",
+      "evaluation": "parcial_2",
+      "source": "exam",
+      "asked_at": "2022-07-01",
+      "text": "Cuando un individuo realiza ejercicio físico extenuante, la respuesta fisiológica que se desencadena involucra los siguientes mecanismos. Marque la opción correcta:",
+      "options": [
+        {
+          "id": "0c615b29-5aa8-442f-b40a-60eb07bd0134",
+          "text": "Los quimiorreceptores del cuerpo carotideo responden a un aumento en la concentración de protones (H+).",
+          "correct": true
+        },
+        {
+          "id": "d4ef22f0-6f94-4a60-8f07-3e738d41e9fe",
+          "text": "Aumenta la frecuencia ventilatoria como respuesta a un aumento del pH."
+        },
+        {
+          "id": "12a9445a-9e02-4b71-a4f8-3af88fe41122",
+          "text": "Las restantes opciones no son correctas."
+        },
+        {
+          "id": "e79dfbdf-107e-42a9-8387-43d06f402cab",
+          "text": "Los quimiorreceptores centrales disminuyen su actividad frente a una disminución de la presión parcial de CO2 arterial."
+        },
+        {
+          "id": "d69bac56-a3b1-4ee5-a2cf-340071bc92ec",
+          "text": "Ocurre un aumento de la temperatura que tiene como efecto un desplazamiento de la curva de disociación de la hemoglobina hacia la izquierda."
+        }
+      ]
+    },
+    {
+      "id": "0bc8b99d-a111-48c9-977a-974afc54663d",
+      "evaluation": "parcial_2",
+      "source": "exam",
+      "asked_at": "2022-07-01",
+      "text": "Si se comparan las presiones parciales de O2 y CO2 durante la realización de ejercicio físico moderado con respecto al reposo. Marque la opción correcta:",
+      "options": [
+        {
+          "id": "7d28092f-6d1f-478c-a5e0-885f99cda9d0",
+          "text": "Las presiones parciales arteriales de O2 y de CO2 no se modifican significativamente.",
+          "correct": true
+        },
+        {
+          "id": "02fd8a3f-ed46-4ed6-9e56-e0c19c71a065",
+          "text": "La presión parcial arterial de O2 aumenta y la presión parcial arterial de CO2 disminuye."
+        },
+        {
+          "id": "cec7e744-3644-4212-a740-f534c84c9e21",
+          "text": "La presión parcial venosa de O2 aumenta y la presión parcial arterial de CO2 disminuye."
+        },
+        {
+          "id": "1da8bd1c-aa82-478b-91e7-e8f13be18477",
+          "text": "Las presiones parciales venosas de O2 y de CO2 aumentan y las presiones parciales arteriales de O2 y de CO2 disminuyen."
+        },
+        {
+          "id": "ae4ac3ff-ffa8-4f96-86b7-787baa66abd8",
+          "text": "Las restantes opciones no son correctas."
+        }
+      ]
+    },
+    {
+      "id": "4d121479-5424-42b7-8080-5181b178da89",
+      "evaluation": "parcial_2",
+      "source": "exam",
+      "asked_at": "2022-07-01",
+      "text": "Un alveolo con una relación V/Q alta se caracteriza por lo siguiente. Señale la opción correcta.",
+      "options": [
+        {
+          "id": "d0b7e15a-5ade-41be-9f3b-811455c80479",
+          "text": "Un pH arterial elevado.",
+          "correct": true
+        },
+        {
+          "id": "18c973ed-ea43-4ceb-9076-7b74b3795518",
+          "text": "Ninguna de las otras opciones correcta."
+        },
+        {
+          "id": "6e9ad90f-bfc6-4162-a298-e4da83c04254",
+          "text": "Una PCO2 alveolar elevada."
+        },
+        {
+          "id": "3b8655ec-ce53-4e8f-a074-47a0fdc27242",
+          "text": "Una PO2 alveolar reducida."
+        },
+        {
+          "id": "1cbce882-7878-4f1d-846f-f9d8cd833565",
+          "text": "Una saturación de la Hb reducida."
+        }
+      ]
+    },
+    {
+      "id": "0b5ef317-9d49-4ed7-9e0f-fed906d8a01b",
+      "evaluation": "parcial_2",
+      "source": "exam",
+      "asked_at": "2022-07-01",
+      "text": "Un sujeto asciende desde el nivel del mar hasta una altura de 5000 metros sobre el nivel del mar. Con respecto a la respuesta que se desencadena de manera inmediata y hasta 1 día de aclimatación, señale lo correcto:",
+      "options": [
+        {
+          "id": "ba55db35-d71e-4426-acc0-073d512c9f7c",
+          "text": "Inicialmente, las aferentes de los quimio-receptores periféricos aumentan su frecuencia de descarga.",
+          "correct": true
+        },
+        {
+          "id": "d62e2b70-4d1c-4185-9706-2e871b45c785",
+          "text": "El gradiente de presiones parciales de CO2 alveolo-capilar disminuye."
+        },
+        {
+          "id": "07275492-6453-4714-867b-da7d025561e8",
+          "text": "Las restantes opciones no son correctas."
+        },
+        {
+          "id": "b656c2f4-e989-477c-a716-d272a829e078",
+          "text": "Se produce un aumento de la presión parcial de O2 arterial."
+        },
+        {
+          "id": "323fab19-fec6-4294-a04f-2ea80c9f6fbe",
+          "text": "Una disminución de la presión parcial arterial de CO2 provoca inicialmente aumento de la frecuencia ventilatoria."
+        }
+      ]
     }
   ],
   "evaluations": [
     {
       "key": "parcial_1",
-      "name": "1° parcial"
+      "name": "1° parcial (cardiovascular)"
+    },
+    {
+      "key": "parcial_2",
+      "name": "2° parcial (respiratorio)"
     }
   ]
 }
