@@ -1,7 +1,10 @@
 {
   "name": "Cardiovascular y Respiratorio",
   "short_name": "Cardio",
-  "aliases": ["cardio", "respiratorio"],
+  "aliases": [
+    "cardio",
+    "respiratorio"
+  ],
   "year": 2,
   "questions": [
     {
@@ -3501,8 +3504,9 @@
       "text": "Con respecto al potencial generado por un dipolo que se registra en un punto P suficientemente alejado del mismo. Indique la opción correcta.",
       "options": [
         {
-          "id": "4b84a558-8e25-4983-a68f-13bbd4463778",
-          "text": "Varía en forma directamente proporcional con la distancia a la que se encuentra P del centro del dipolo."
+          "id": "d8642b26-f908-48b9-9797-e939159c2361",
+          "text": "Varía en forma directamente proporcional al momento dipolar.",
+          "correct": true
         },
         {
           "id": "fd0d6976-e2d4-4874-9702-8cd85dca1a09",
@@ -3513,9 +3517,8 @@
           "text": "Las otras opciones son incorrectas."
         },
         {
-          "id": "d8642b26-f908-48b9-9797-e939159c2361",
-          "text": "Varía en forma directamente proporcional al momento dipolar.",
-          "correct": true
+          "id": "4b84a558-8e25-4983-a68f-13bbd4463778",
+          "text": "Varía en forma directamente proporcional con la distancia a la que se encuentra P del centro del dipolo."
         }
       ]
     },
@@ -4747,6 +4750,1066 @@
         {
           "id": "d8aa716a-4f06-4913-97e2-143343ab2e52",
           "text": "Un registro isoeléctrico."
+        }
+      ]
+    },
+    {
+      "id": "8c6390f6-a0b4-491d-a112-20800b56e627",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "Con respecto a el intercambio gaseoso, señale lo correcto:",
+      "options": [
+        {
+          "id": "d3707f89-5b82-4f6f-b013-7bacfda9f339",
+          "text": "El O2 es suministrado por la ventilación y extraído por la perfusión.",
+          "correct": true
+        },
+        {
+          "id": "501506f1-fe7d-4d4c-99ed-51f1c1966cc9",
+          "text": "Cuando la PCO2 aumenta el PH también lo hace."
+        },
+        {
+          "id": "7b0d030d-a987-4863-9b45-370bb2f2bb15",
+          "text": "El CO2 es suministrado por la ventilación y extraído por la perfusión."
+        },
+        {
+          "id": "ae34aac5-8665-4b21-b2c3-5d837241ed33",
+          "text": "El O2 difunde por la membrana alvéolo-capilar por difusión activa."
+        },
+        {
+          "id": "10a123fb-b8a6-4451-91f2-376f8957863b",
+          "text": "La PO2 arterial se equilibra con la PO2 alveolar en 25 segundos."
+        }
+      ]
+    },
+    {
+      "id": "3c0dc9eb-bde2-4e0a-84d6-3c7c5dbcde74",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "Con respecto a la circulación cerebral marque la opción correcta:",
+      "options": [
+        {
+          "id": "17064486-11a8-4e2b-894d-b06c0b358ec3",
+          "text": "El flujo sanguíneo cerebral puede variar según la actividad local de diferentes áreas cerebrales.",
+          "correct": true
+        },
+        {
+          "id": "eec247af-8d2f-4f39-9f2c-ec1d54dac82b",
+          "text": "El flujo sanguíneo cerebral normalmente varía en un rango muy amplio."
+        },
+        {
+          "id": "c36c873c-474d-4a58-8ec8-78bf944fc598",
+          "text": "El sistema nervioso autónomo es el principal mecanismo regulador de la circulación cerebral."
+        },
+        {
+          "id": "cc589e9c-046a-41d9-9326-305ec8cbeb26",
+          "text": "La autorregulación no es un mecanismo de regulación importante en la circulación cerebral."
+        },
+        {
+          "id": "a140bda4-2b7a-473c-82ad-b087ec8ab757",
+          "text": "La circulación de los hemisferios cerebrales es completamente independiente, no existen conexiones entre ellas."
+        }
+      ]
+    },
+    {
+      "id": "61d39931-d469-447e-af41-0c60aa6a7550",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "Con respecto a la circulación cutánea marque la opción correcta:",
+      "options": [
+        {
+          "id": "85c30e4f-b298-45b5-bd21-6944b93e925c",
+          "text": "Tiene una gran inervación simpática controlada por hipotálamo.",
+          "correct": true
+        },
+        {
+          "id": "552976c1-a298-4003-be2f-a5a7878e834e",
+          "text": "La piel apical no tiene anastomosis arteriovenosas."
+        },
+        {
+          "id": "20736b15-3bb1-403c-b751-58159a632d70",
+          "text": "La sudoración es responsable de la perdida de calor por convección."
+        },
+        {
+          "id": "292ce4d4-4c59-48b3-ad7e-977d3c90bef3",
+          "text": "Las arterias principales se encuentran en la epidermis."
+        },
+        {
+          "id": "35760de4-c1ed-410c-b850-5732343f1d36",
+          "text": "No tiene un drenaje linfático importante."
+        }
+      ]
+    },
+    {
+      "id": "1e3d5d50-af0a-4a18-8819-39aeb99c32b3",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "Con respecto a la circulación renal, marque la opción correcta:",
+      "options": [
+        {
+          "id": "531f4046-de08-4fce-a685-40fb58a76280",
+          "text": "La presión hidrostática de los capilares glomerulares es mayor a la de los capilares peritubulares.",
+          "correct": true
+        },
+        {
+          "id": "ea34cdd6-daa0-4fdd-90de-f956e6f25849",
+          "text": "El flujo sanguíneo renal es bajo comparado con el de otros órganos."
+        },
+        {
+          "id": "acd7c3e4-9c28-49e5-975c-cac02631fc7a",
+          "text": "La médula renal recibe mayor perfusión que la corteza renal."
+        },
+        {
+          "id": "2a6c7978-4215-4732-8d21-fd6d44a43ff2",
+          "text": "Ninguna de las otras opciones es correcta."
+        }
+      ]
+    },
+    {
+      "id": "eb935564-6f7e-44f2-8d21-c23b56484db1",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "Con respecto a la mecánica respiratoria, señale lo correcto:",
+      "options": [
+        {
+          "id": "b500baee-d917-4bf9-bc85-657a15cf9785",
+          "text": "Los pulmones tienden a colapsarse en todos los volúmenes pulmonares.",
+          "correct": true
+        },
+        {
+          "id": "0876533b-55aa-4628-8a6c-7e0db7cffd90",
+          "text": "La caja torácica tiende a colapsarse en todos los volúmenes pulmonares."
+        },
+        {
+          "id": "d9acac4a-54da-4496-8d80-f401bbffe87d",
+          "text": "La caja torácica tiende a expandirse en todos los volúmenes pulmonares."
+        },
+        {
+          "id": "8ad263cd-c835-42ae-80c1-0785fb1a3bd1",
+          "text": "La caja torácica tiene su punto de equilibrio en la capacidad residual funcional."
+        },
+        {
+          "id": "aaeebe80-8156-4366-b639-3fc13d2f3b43",
+          "text": "Los pulmones tienden a expandirse en todos los volúmenes pulmonares."
+        }
+      ]
+    },
+    {
+      "id": "2a6a65bf-50c7-4974-8538-1266d7e8dcbe",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "Con respecto a la relación ventilación/perfusión, señale lo correcto:",
+      "options": [
+        {
+          "id": "a3602b94-599d-48e4-8ed0-f8aaa2f1492c",
+          "text": "En la base pulmonar el gas alveolar tiene presiones parciales de O2 y CO2 parecidas a las de la sangre venosa.",
+          "correct": true
+        },
+        {
+          "id": "8ad58da2-12af-43e7-a583-4c7ef23c8b10",
+          "text": "El vértice pulmonar está más perfundido que la base."
+        },
+        {
+          "id": "f6455c44-e2f6-41f3-b8c0-c90f5c24dcb8",
+          "text": "El vértice pulmonar está más ventilado que la base."
+        },
+        {
+          "id": "1ea538eb-1f37-42d0-8d16-c924df7596a1",
+          "text": "En el vértice el gas alveolar tiene presiones parciales de O2 y CO2 parecidas a las de la sangre venosa."
+        },
+        {
+          "id": "f7fd5d0f-f156-423e-b901-9714f56ca8f6",
+          "text": "En un paciente sano no hay diferencias en la relación ventilación/perfusión entre la base y el vértice."
+        }
+      ]
+    },
+    {
+      "id": "a42adb09-33df-4877-b8a6-6c93efbffd98",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "Con respecto a la relación ventilación/perfusión, señale lo correcto:",
+      "options": [
+        {
+          "id": "a0b357d5-27f6-4bb0-ac54-6c8452fc0226",
+          "text": "Las diferencias en la relación ventilación/perfusión se deben principalmente al efecto de la gravedad.",
+          "correct": true
+        },
+        {
+          "id": "27ca141d-920f-4bf4-ac56-18619c485808",
+          "text": "El cortocircuito (shunt) de sangre es un área con una relación V/Q muy alta."
+        },
+        {
+          "id": "a679fb5d-d50c-4b17-8d74-66935d2e8562",
+          "text": "El cortocircuito (shunt) de sangre no afecta la saturación de O2 en la sangre venosa mesclada."
+        },
+        {
+          "id": "6b10899d-bfb2-4a27-bb62-c8b6fb3ed419",
+          "text": "La vasoconstricción hipóxica disminuye la ventilación en la base y hace que la relación V/Q sea más homogénea."
+        },
+        {
+          "id": "9352fdfd-8e1e-4a10-94b8-3f3e40766b5a",
+          "text": "Las diferencias en la relación ventilación/perfusión son más marcadas cuando el paciente está en decúbito dorsal."
+        }
+      ]
+    },
+    {
+      "id": "78020858-2a63-4584-b466-b42d5d4fcf03",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "Con respecto a la respiración a grandes alturas (> 3000 msnm) en el periodo previo a la aclimatación, señale la opción correcta:",
+      "options": [
+        {
+          "id": "5053eec4-ffa7-4bb1-a3c6-4aa01b54bd17",
+          "text": "Se produce una hiperventilación tanto en reposo como en el ejercicio.",
+          "correct": true
+        },
+        {
+          "id": "7c37c1b2-1dc1-440e-8f90-44001df55639",
+          "text": "El principal estimulo para la hiperventilación es la elevada presión parcial de dióxido de carbono (CO2) a nivel alveolar."
+        },
+        {
+          "id": "81b6e4df-b609-458e-9e20-4ca284aa5fad",
+          "text": "La hiperventilación produce una bradicardia refleja por la acidosis respiratoria."
+        },
+        {
+          "id": "e9508797-a41e-482c-96c0-77b5637176b0",
+          "text": "Ninguna de las otras opciones es correcta."
+        }
+      ]
+    },
+    {
+      "id": "9150ffce-9f9a-4caa-bff6-4868f57969ca",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "Con respecto a la respiración a grandes alturas (> 3000 msnm) en el periodo previo a la aclimatación, señale lo correcto:",
+      "options": [
+        {
+          "id": "971a6fbe-940f-4650-8779-da7cd515bccb",
+          "text": "El aumento de la frecuencia de la ventilación produce una disminución de la PCO2 y un aumento del pH.",
+          "correct": true
+        },
+        {
+          "id": "d4ed20a3-fb7f-49b7-b7e5-3d7d191c4b01",
+          "text": "La disminución de la PCO2 produce una alcalosis lo que estimula al centro respiratorio para aumentar la frecuencia respiratoria."
+        },
+        {
+          "id": "31d0b663-d387-45a1-a520-935330b67d62",
+          "text": "Se produce una disminución de la frecuencia y del gasto cardiaco."
+        }
+      ]
+    },
+    {
+      "id": "b32c9882-86ad-4093-bc90-329b3171a26c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "Con respecto a las modificaciones que genera el ejercicio físico a largo plazo, marque la opción correcta.",
+      "options": [
+        {
+          "id": "cba77631-796d-4653-832f-f47efccecbed",
+          "text": "Aumenta la sensibilidad del baroreflejo.",
+          "correct": true
+        },
+        {
+          "id": "3f9a562e-e71c-4245-aef4-ce5f422e66f7",
+          "text": "Aumenta la FC en reposo."
+        },
+        {
+          "id": "48f7c67e-58cf-443b-b7d7-314a270023ef",
+          "text": "Aumenta la presión arterial en reposo."
+        },
+        {
+          "id": "a8015aca-c096-493b-acdc-c542d42af3e9",
+          "text": "Disminuye el volumen de las cavidades cardíacas."
+        },
+        {
+          "id": "a33db3e6-7f4c-4aa2-9c23-a210010a98c8",
+          "text": "Ninguna de las otras opciones es correcta."
+        }
+      ]
+    },
+    {
+      "id": "786b80dc-5e9a-47ba-97fd-4989e51a7273",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "Con respecto a las respuestas del organismo al ejercicio físico, marque la opción correcta:",
+      "options": [
+        {
+          "id": "29ee2e0f-33bb-4ed8-a40c-f0ce0e71528d",
+          "text": "Ninguna de las otras opciones es correcta.",
+          "correct": true
+        },
+        {
+          "id": "00337ed7-3f82-49c9-9650-9b44f93b3ae1",
+          "text": "El aumento de la FC es independiente de la edad, tipo de actividad o posición en la cual se realiza el ejercicio."
+        },
+        {
+          "id": "40bb76de-bba5-4191-a47e-710adfe40bea",
+          "text": "Existe una retirada del tono simpático y un aumento del tono vagal."
+        },
+        {
+          "id": "77ca8eee-bda0-4782-b2b1-99523c77b0fd",
+          "text": "No hay cambios del volumen de eyección sistólica."
+        }
+      ]
+    },
+    {
+      "id": "6fed3bba-ec3d-4626-894b-b6e925e8ae21",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "Con respecto a los volúmenes pulmonares, señale lo correcto:",
+      "options": [
+        {
+          "id": "f228543e-bd66-4565-812e-bb057b25404d",
+          "text": "La capacidad vital incluye el volumen corriente.",
+          "correct": true
+        },
+        {
+          "id": "8cc22fdc-d689-47cc-a7f2-e2bed07e4d21",
+          "text": "El volumen corriente incluye el volumen de reserva inspiratoria."
+        },
+        {
+          "id": "63ddf21f-f385-40aa-ab79-4d3af2500576",
+          "text": "En la respiración normal se moviliza todo el volumen pulmonar total."
+        },
+        {
+          "id": "69161172-ddd9-4288-8408-9f3ce6a2c51f",
+          "text": "La capacidad residual funcional incluye el volumen corriente."
+        },
+        {
+          "id": "880a5152-91e7-4bf2-b130-10e5fe37d66a",
+          "text": "La capacidad vital incluye el volumen residual."
+        }
+      ]
+    },
+    {
+      "id": "2ad8a053-64f9-45ee-89ba-dfc04e48523a",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "Con respecto al control central de la respuesta cardiovascular durante el ejercicio, marque la opción correcta:",
+      "options": [
+        {
+          "id": "1dbf7e1c-e7ab-40d2-94ed-d2b8d7eab03e",
+          "text": "Genera una respuesta autonómica, adaptativa e integrada de acuerdo al ejercicio.",
+          "correct": true
+        },
+        {
+          "id": "15b9cb28-6d8a-4056-899c-71f5718c6798",
+          "text": "Es incapaz de generar una respuesta autonómica anticipatoria al ejercicio."
+        },
+        {
+          "id": "6e9c2724-aaf4-4f02-a572-32f8a376a2d5",
+          "text": "Genera vasoconstricción en el musculo esquelético."
+        },
+        {
+          "id": "05eca776-e612-4a82-a9fc-604dfbf4603d",
+          "text": "Genera vasodilatación generalizada."
+        },
+        {
+          "id": "fa7e7ee3-ecad-40af-a813-45822139ef32",
+          "text": "Ninguna de las otras opciones es correcta."
+        }
+      ]
+    },
+    {
+      "id": "788d5341-168e-49ef-b109-2c702ff6ebf0",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "Con respecto al control de la ventilación señale la opción correcta:",
+      "options": [
+        {
+          "id": "b90cc700-7dc2-41d5-a0ce-4cd8998d26c5",
+          "text": "La periodicidad de la inspiración y la espiración está controlada por grupos de neuronas localizadas en la protuberancia y en el bulbo raquídeo.",
+          "correct": true
+        },
+        {
+          "id": "a195465c-8d3b-4f26-a59d-608a50b7a850",
+          "text": "Existe un sitio específico a nivel cortical que participa en la regulación ventilación."
+        },
+        {
+          "id": "d2473d84-3b5f-4e4b-98d3-37ecf689c0ca",
+          "text": "La corteza cerebral participa en el control involuntario de la ventilación generando el patrón rítmico de descarga en el reposo."
+        },
+        {
+          "id": "02c164ee-3dff-4630-827c-f9bc8c9e27ed",
+          "text": "Ninguna de las otras opciones es correcta."
+        }
+      ]
+    },
+    {
+      "id": "8f81791d-4102-4e8d-ab9b-d6eae505fbea",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "Con respecto al control de la ventilación señale la opción correcta:",
+      "options": [
+        {
+          "id": "ec18f9cf-0bc6-483e-89b8-949929cee6a8",
+          "text": "La inspiración forzada requiere de la activación coordinada de varios grupos musculares inspiratorios (diafragma, intercostales externos).",
+          "correct": true
+        },
+        {
+          "id": "4aac3bab-7275-418c-a25e-60abfba37718",
+          "text": "El grupo de neuronas bulbares dorsal (espiratorio) se activa durante el ejercicio disminuyendo la frecuencia respiratoria."
+        },
+        {
+          "id": "236471fa-6f64-4b46-8f45-7336a79dbb3b",
+          "text": "La espiración en reposo requiere la activación intensa de varios grupos musculares espiratorios."
+        },
+        {
+          "id": "3f2553b9-d173-4b77-8827-6bcc81cd1f45",
+          "text": "Ninguna de las otras opciones es correcta."
+        }
+      ]
+    },
+    {
+      "id": "f19d2f24-2786-4189-88dc-2749c64b9d48",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "Con respecto al control de la ventilación señale la opción correcta:",
+      "options": [
+        {
+          "id": "ba1c4892-819b-493b-a91c-337714609185",
+          "text": "Los ajustes de la ventilación se hacen en base a información proveniente de quimiorreceptores centrales, periféricos y receptores pulmonares.",
+          "correct": true
+        },
+        {
+          "id": "8669bbd6-0f9f-45ae-9467-d95b7c457ce7",
+          "text": "El control voluntario de la corteza sobre los centros de la protuberancia puede producir apneas prolongadas lo que puede producir alcalosis respiratoria."
+        },
+        {
+          "id": "76474df7-4833-4d92-8e9a-366380005c33",
+          "text": "La secuencia inspiración-espiración es un mecanismo automático que no se puede modificar ni alterar por la voluntad u otras actividades como la fonación o deglución."
+        }
+      ]
+    },
+    {
+      "id": "1bdc79cb-3f8b-48e6-a353-8a142456c11b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "Con respecto al flujo aéreo, señale lo correcto:",
+      "options": [
+        {
+          "id": "9247b13a-786b-4b07-8831-533d8297a2b2",
+          "text": "Los bronquiolos suelen tener flujo laminar.",
+          "correct": true
+        },
+        {
+          "id": "8d41ae89-6959-4aab-a945-641b51291e21",
+          "text": "El flujo turbulento es el más eficiente porque tiene menor resistencia."
+        },
+        {
+          "id": "0bcfe675-e033-4a4d-b262-7e6067252038",
+          "text": "La tráquea suele tener flujo laminar."
+        },
+        {
+          "id": "ef58f907-a00a-46a2-a1f2-d5983192aa02",
+          "text": "Los bronquiolos son el área con mayor resistencia al flujo aéreo."
+        }
+      ]
+    },
+    {
+      "id": "a2eb0c76-67e5-4050-b819-7388c9425148",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "Con respecto al sistema respiratorio señale la opción correcta:",
+      "options": [
+        {
+          "id": "460e7620-1b5d-4b00-b01d-360777c13b8c",
+          "text": "La vía respiratoria es una de las principales vías de ingreso de tóxicos al organismo.",
+          "correct": true
+        },
+        {
+          "id": "e2ae04e4-9028-449b-a702-e20300a86c32",
+          "text": "La tos o el estornudo son una leve contracción desorganizada de los músculos espiratorios e inspiratorios."
+        },
+        {
+          "id": "1f110e35-d880-4563-9859-3ec20ddc2940",
+          "text": "Ninguna de las otras opciones es correcta."
+        },
+        {
+          "id": "6619595b-ee77-4e94-ae4e-8f16b836cb15",
+          "text": "No es una vía adecuada para eliminar sustancias volátiles del organismo."
+        }
+      ]
+    },
+    {
+      "id": "09585284-9bf2-41b9-a1ed-858c26f89e3e",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "Con respecto al trabajo respiratorio, señale lo correcto:",
+      "options": [
+        {
+          "id": "6f649e1c-9280-46cd-9add-9098aa906e97",
+          "text": "El trabajo elástico es independiente de la resistencia de la vía aérea.",
+          "correct": true
+        },
+        {
+          "id": "a137a9b2-f89d-46ba-b3eb-e35d547d3aa1",
+          "text": "El trabajo elástico depende de la resistencia de la vía aérea."
+        },
+        {
+          "id": "433b828c-954c-4414-ab06-289d193ff222",
+          "text": "El trabajo inercial depende de la resistencia de la vía aérea."
+        },
+        {
+          "id": "6accac1a-aadb-4768-8c37-38e849eb4315",
+          "text": "El trabajo resistivo se almacena como energía potencial."
+        },
+        {
+          "id": "cc04e7e0-9c80-4bbd-b6a4-10b31951ef66",
+          "text": "Ninguna de las otras opciones es correcta."
+        }
+      ]
+    },
+    {
+      "id": "324954dc-5fa7-402b-9599-ab074762931f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "Con respecto al transporte de CO2, señale lo correcto:",
+      "options": [
+        {
+          "id": "7bcaec03-ec3f-4458-ab14-aa5a88d75720",
+          "text": "La disminución de la PO2 arterial aumenta la afinidad de la hemoglobina por el CO2.",
+          "correct": true
+        },
+        {
+          "id": "63ca235a-3d94-4739-821b-e7958f5a91d7",
+          "text": "El CO2 se transforma en bicarbonato para poder atravesar la membrana del glóbulo rojo."
+        },
+        {
+          "id": "f85b88cb-6ffa-4e4d-88ee-ba7ba0382e0f",
+          "text": "El monóxido de carbono se transporta como bicarbonato en su mayor parte."
+        },
+        {
+          "id": "3ece8d34-a46a-4e16-bf03-d57423b54b13",
+          "text": "La mayor parte se transporta unido a la hemoglobina."
+        }
+      ]
+    },
+    {
+      "id": "65b0115c-9f9b-4355-9ce7-96ef59bdddee",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "Dado un shunt (cortocircuito) intrapulmonar de 5%, y considerando una concentración de O2 en la sangre venosa de 20 mL/100mL y de 25 mL/100 mL en la sangre capilar pulmonar (proveniente exclusivamente de una región donde ocurre intercambio hemato-alveolar), es posible afirmar que:",
+      "options": [
+        {
+          "id": "b555a330-3870-4c6a-a99e-ffbf2805338d",
+          "text": "La diferencia arterio-venosa en la concentración de O2 es de aproximadamente 4,75 mL/100 mL.",
+          "correct": true
+        },
+        {
+          "id": "04b09711-6ae7-4c27-a2fb-34e08ea1aeab",
+          "text": "La concentración arterial de O2 es de aproximadamente 0,25 mL/100 mL."
+        },
+        {
+          "id": "8c3ea4ca-9e82-4442-985e-9efc1768993b",
+          "text": "La concentración arterial de O2 es de aproximadamente 4,75 mL/100 mL."
+        },
+        {
+          "id": "6045d5f4-de7a-40ac-bf42-e46843cf742c",
+          "text": "La diferencia arterio-venosa en la concentración de O2 es de aproximadamente 0,25 mL/100 mL."
+        }
+      ]
+    },
+    {
+      "id": "86375106-2245-4b82-981a-0b873e382701",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "De acuerdo a los eventos mecánicos dinámicos del ciclo respiratorio que ocurren en condiciones normales, indique la opción correcta:",
+      "options": [
+        {
+          "id": "7fc2eccc-9e65-4991-972d-c8fd31daeb0d",
+          "text": "Durante la inspiración, existe un flujo de aire entrante a los pulmones, debido a que la presión alveolar toma valores negativos.",
+          "correct": true
+        },
+        {
+          "id": "39f66f01-2376-40ea-b5c5-96ad54386f5f",
+          "text": "El intercambio de gases entre la barrera alvéolo-capilar es un fenómeno activo que se rige por la primera ley de Fick."
+        },
+        {
+          "id": "bdbc3921-10cb-41b4-8950-efd067a8e652",
+          "text": "La duración de la fase inspiratoria es igual a la duración de la espiración."
+        },
+        {
+          "id": "b3fe73f0-5e8c-4dee-a783-cc5cac3730c3",
+          "text": "La presión intra-pleural toma valores negativos sólo durante la espiración."
+        }
+      ]
+    },
+    {
+      "id": "f01bb40a-9e19-4a3c-831b-db9fe439a22c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "Durante el pasaje de los glóbulos rojos por los capilares pulmonares la anhidrasa carbónica cataliza:",
+      "options": [
+        {
+          "id": "c0b4e413-6a75-46c4-8a38-7c0ff184e5d3",
+          "text": "La conversión del H2CO3 en CO2 y H2O.",
+          "correct": true
+        },
+        {
+          "id": "7aa2acb2-2680-4daf-af77-c0a893d77ffc",
+          "text": "La conversión de CO en CO2."
+        },
+        {
+          "id": "4a16f27f-5dc5-4162-b135-9ec564bfc691",
+          "text": "La conversión de HCO3- y H+ en CO2 y H2O."
+        },
+        {
+          "id": "4a4ee39c-abc0-4bf6-ad28-28aa573c0974",
+          "text": "La conversión de HCO3- y H+ en H2CO3."
+        },
+        {
+          "id": "b9921128-091e-49f1-b4b4-2b4cb421440c",
+          "text": "La hidrólisis de la carbaminohemoglobina a hemoglobina y CO2."
+        }
+      ]
+    },
+    {
+      "id": "ed8444d4-dd19-4827-ab34-211f75cf3102",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "El efecto Bohr de la curva de disociación de hemoglobina es producido por:",
+      "options": [
+        {
+          "id": "eb22b01b-535e-425d-a8e9-2218e90a8b16",
+          "text": "Cambios en el pH.",
+          "correct": true
+        },
+        {
+          "id": "490607c6-d788-4455-8a47-39810567bec2",
+          "text": "Cambios en la PO2."
+        },
+        {
+          "id": "5aed0b8b-6c5d-42e2-8047-481e52c678ff",
+          "text": "Cambios en la concentración de 2-3-difosfoglicerato."
+        },
+        {
+          "id": "661f91a4-ffee-481e-a4ce-d8b72b46c34b",
+          "text": "Cambios en la presión parcial de monóxido de carbono (CO)."
+        },
+        {
+          "id": "a04d291d-b881-48bf-b7e2-349d3b0f9e41",
+          "text": "Cambios en la temperatura."
+        }
+      ]
+    },
+    {
+      "id": "c2705f2b-35a7-4865-b0eb-e9f4f8648d37",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "En la siguiente curva se representa la relación entre la ventilación pulmonar y la presión arterial parcial de O2 obtenidas en un sujeto de experimentación. La curva A muestra el comportamiento de esta variable en situación control (durante el reposo y considerando una presión parcial arterial de CO2 normal). En relación a lo observado en la misma:",
+      "image": "c2705f2b-35a7-4865-b0eb-e9f4f8648d37.webp",
+      "options": [
+        {
+          "id": "2826b229-7275-46f8-82d4-d6602f77949e",
+          "text": "La curva B es compatible con una modificación de las condiciones experimentales resultante en un incremento de la presión parcial arterial de CO2.",
+          "correct": true
+        },
+        {
+          "id": "f8741566-a7b9-493e-bfc0-f3f423a771dc",
+          "text": "La curva B es compatible con una modificación de las condiciones experimentales resultante en una reducción de la presión parcial arterial de CO2."
+        },
+        {
+          "id": "3aae9e76-cc09-4fcc-9afb-7726d5fdfd17",
+          "text": "La curva B es incompatible con el comportamiento de las variables que tendría lugar si el individuo realizara ejercicio físico."
+        },
+        {
+          "id": "e37eaf04-9e16-4012-9298-a471b1cbf6a9",
+          "text": "La ventilación pulmonar se vuelve independiente de la presión arterial parcial de O2 para valores de esta de aprox. 5 kPa."
+        }
+      ]
+    },
+    {
+      "id": "7551e04c-8383-4e3d-bc56-d73f4137f93f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "En la siguiente figura se representa el volumen de dos unidades alveolares (A y B, curvas continua y punteada respectivamente) en función del tiempo durante una inspiración. El eje vertical de la derecha representa las presiones alveolares de cada unidad. En relación al comportamiento de estas unidades es posible afirmar que:",
+      "image": "7551e04c-8383-4e3d-bc56-d73f4137f93f.webp",
+      "options": [
+        {
+          "id": "070b2a01-c3c5-4c4f-97e3-7ba94354a7f6",
+          "text": "La compliance de la unidad A es el doble de la compliance de la unidad B.",
+          "correct": true
+        },
+        {
+          "id": "f320466a-5e4e-4ee5-bd10-66051e807153",
+          "text": "La constante de tiempo de ambas unidades es idéntica (τ = RC)."
+        },
+        {
+          "id": "984aeca9-8f21-4e34-bb54-185b7f3ad595",
+          "text": "La resistencia de la vía aérea de la unidad A es el doble de la resistencia de la vía aérea de la unidad B."
+        },
+        {
+          "id": "f0013086-2445-4b9a-9dc8-9c0236e7d5e0",
+          "text": "La resistencia de la vía aérea para ambas unidades es idéntica."
+        }
+      ]
+    },
+    {
+      "id": "87041301-abd0-4c90-a885-bdeecbcf158e",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "Indique cuál es el principal mecanismo que explica cómo la oxigenación de la sangre en los pulmones contribuye con la liberación de CO2 hacia el aire alveolar.",
+      "options": [
+        {
+          "id": "a4639a56-0315-4920-8ee9-ca2036521d17",
+          "text": "La unión del oxígeno a la hemoglobina disminuye su afinidad por el CO2.",
+          "correct": true
+        },
+        {
+          "id": "83c5755a-f584-42d6-90f2-e5ce9730c8c5",
+          "text": "El oxígeno facilita el movimiento del Cl- hacia afuera del glóbulo rojo."
+        },
+        {
+          "id": "bceda931-aae1-442c-af11-5ae35d11870b",
+          "text": "El oxígeno se combina con el HCO3- y produce CO2."
+        },
+        {
+          "id": "40b38b7d-3ae8-45ff-8294-0a8274f16840",
+          "text": "El oxígeno se une a la hemoglobina y le aumenta su capacidad de unir H+."
+        },
+        {
+          "id": "fe12e2f7-dceb-4516-aeeb-34750561cb9e",
+          "text": "El oxígeno se une a los grupos amino terminales de la hemoglobina y desplaza al CO2."
+        }
+      ]
+    },
+    {
+      "id": "9b12bbb5-4d12-45e5-8bc3-f6b30690701b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "Indique mediante qué mecanismo se amortiguan la mayor parte de los protones producidos en el glóbulo rojo como consecuencia de la actividad de la anhidrasa carbónica.",
+      "options": [
+        {
+          "id": "1e6f86b4-57fb-4f72-b9f8-59b3b497b670",
+          "text": "Son amortiguados por la hemoglobina.",
+          "correct": true
+        },
+        {
+          "id": "f7a344c0-b3bc-45f6-b38b-16606c01af22",
+          "text": "Son amortiguados por el sistema buffer NaH2PO4/Na2HPO4 del plasma."
+        },
+        {
+          "id": "080b6b17-1bab-4c79-b166-86c95d9b32aa",
+          "text": "Son amortiguados por el sistema buffer NaHCO3/CO2 del plasma."
+        },
+        {
+          "id": "3b48d017-d386-4c45-9d50-f51ba2246a82",
+          "text": "Son amortiguados por el sistema buffer NaHCO3/H2CO3 del plasma."
+        },
+        {
+          "id": "cf9438c1-ebff-4d34-8b07-664b665abfe5",
+          "text": "Son amortiguados por las proteínas plasmáticas."
+        }
+      ]
+    },
+    {
+      "id": "f5c11430-8600-41ee-bde4-036f6f59348e",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "Indique qué cambios tienen lugar durante el pasaje de la sangre por los capilares de los tejidos periféricos.",
+      "options": [
+        {
+          "id": "60d8d6cb-2185-4727-a2fb-c0df28bc48c0",
+          "text": "La afinidad de la hemoglobina por el oxígeno disminuye y la curva de disociación de la hemoglobina se desplaza hacia la derecha.",
+          "correct": true
+        },
+        {
+          "id": "3f1905c7-7233-4621-aa00-660814705d8b",
+          "text": "La afinidad de la hemoglobina por el oxígeno aumenta y la curva de disociación de la hemoglobina se desplaza hacia la derecha."
+        },
+        {
+          "id": "878dd3f3-b1bf-41a6-bf0c-2f7633d808ae",
+          "text": "La afinidad de la hemoglobina por el oxígeno aumenta y la curva de disociación de la hemoglobina se desplaza hacia la izquierda."
+        },
+        {
+          "id": "5514bd35-ab72-4e20-9a46-bab27b79e844",
+          "text": "La afinidad de la hemoglobina por el oxígeno disminuye y la curva de disociación de la hemoglobina se desplaza hacia la izquierda."
+        },
+        {
+          "id": "bf4189ff-c20a-4e4b-819c-566f78ccc073",
+          "text": "La afinidad por el oxígeno no se modifica y la curva de disociación de la hemoglobina se desplaza hacia la izquierda."
+        }
+      ]
+    },
+    {
+      "id": "a6aecf7e-bd30-4b21-924e-2dff738673fb",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "La figura muestra registro de presión arterial en función del tiempo. Señale lo correcto en relación a las oscilaciones en presión arterial:",
+      "image": "a6aecf7e-bd30-4b21-924e-2dff738673fb.webp",
+      "options": [
+        {
+          "id": "f93794c6-d0b4-488a-aff0-2783cab06fc5",
+          "text": "Por su mecanismo de generación, la amplitud de las ondas de segundo orden (respiratorias) depende fuertemente del trabajo inspiratorio.",
+          "correct": true
+        },
+        {
+          "id": "ad5216ec-bd1d-4fb8-9ec6-2b987c21f726",
+          "text": "En el gráfico presentado no es posible identificar las oscilaciones de primer orden (oscilaciones cardíacas) generadas por la eyección ventricular."
+        },
+        {
+          "id": "42c4c51c-8cff-47ef-aea2-37094f209c22",
+          "text": "En el gráfico presentado pueden observarse claramente las oscilaciones de tercer orden (ondas de Mayer), determinadas fundamentalmente por cambios en las resistencias vasculares periféricas."
+        },
+        {
+          "id": "9ec838ec-5d76-4064-83c4-d490068666d2",
+          "text": "Las oscilaciones de segundo orden (oscilaciones respiratorias) pueden distinguirse en el gráfico, identificables como grandes cambios en presión diastólica, ya que se deben a cambios en las resistencias vasculares periféricas."
+        }
+      ]
+    },
+    {
+      "id": "b37a97ec-5983-4bc0-961b-14aa37dd5b13",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "Respecto a la tensión superficial, surfactante y leyes asociadas, indique la opción correcta:",
+      "options": [
+        {
+          "id": "197fe358-6c7b-4aee-afe7-1e8b7d680797",
+          "text": "Uno de los componentes centrales del surfactante pulmonar es la DPPC (dipalmitoilfosfatidilcolina).",
+          "correct": true
+        },
+        {
+          "id": "6a1ade15-7224-46ef-afd5-26ab81d419b4",
+          "text": "De acuerdo con la ley de Laplace, la presión transmural a través de la pared alveolar, es directamente proporcional al radio alveolar."
+        },
+        {
+          "id": "4452daa2-abbe-4f48-a425-155ed5d96bc9",
+          "text": "El surfactante pulmonar aumenta la tensión superficial al disminuir el radio alveolar."
+        },
+        {
+          "id": "7d91f602-ce70-4fbc-bae1-b975d67639c6",
+          "text": "El surfactante pulmonar disminuye la histéresis en las curvas presión volumen pulmonar."
+        },
+        {
+          "id": "fb96bfd4-67da-4e7b-bd6f-d0530bd7e539",
+          "text": "La tensión superficial del agua es menor que la del surfactante pulmonar."
+        }
+      ]
+    },
+    {
+      "id": "dcdcb491-ca70-4648-9cf8-fc767debe8b9",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "Respecto a las curvas de compliance estáticas, indique la opción correcta:",
+      "options": [
+        {
+          "id": "ae75fc8d-5012-4813-8dd5-545c4d8eff16",
+          "text": "El volumen de equilibrio de la curva de compliance tóraco-pulmonar pasiva, corresponde a la capacidad residual funcional.",
+          "correct": true
+        },
+        {
+          "id": "d8df5775-867b-424e-ac5b-ed940e56b2b5",
+          "text": "El volumen de equilibrio de la curva de compliance pulmonar pasiva, corresponde a la capacidad residual funcional."
+        },
+        {
+          "id": "14833b8f-18aa-4d19-85f7-06dd9a3421d6",
+          "text": "En posición parado, el volumen de equilibrio para la curva de compliance torácica pasiva corresponde al 10% de la capacidad vital."
+        },
+        {
+          "id": "02fb2cfe-aa02-4c4a-97d8-f03eac9fe7e8",
+          "text": "La curva de presiones espiratorias activas máximas, indica que hay máxima capacidad contráctil espiratoria, cuando el volumen de llenado pulmonar equivale al volumen residual."
+        },
+        {
+          "id": "89cfb2cf-8742-4176-ad8a-9d8db3c25f23",
+          "text": "La curva de presiones inspiratorias activas máximas, indica que hay máxima capacidad contráctil inspiratoria, cuando el volumen de llenado pulmonar equivale a la capacidad pulmonar total."
+        }
+      ]
+    },
+    {
+      "id": "18b6a4ea-e2d3-499f-96c9-34d3ffcba22c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "Respecto a las curvas flujo-volumen, indique lo correcto:",
+      "options": [
+        {
+          "id": "7ec9c51e-5575-4753-b619-fdb292c9b3a4",
+          "text": "El sector final de la curva flujo-volumen, comprende una disminución del flujo hasta el volumen residual, que es independiente del esfuerzo espiratorio.",
+          "correct": true
+        },
+        {
+          "id": "acd352b9-1648-4c28-9a14-16c468d67bd1",
+          "text": "El flujo de aire espirado desde la capacidad pulmonar total, es independiente del esfuerzo desde el comienzo de la espiración forzada."
+        },
+        {
+          "id": "585ed6ca-51a5-4f96-8cbf-d05d2a1e28ba",
+          "text": "El sector inicial de la espiración forzada desde la capacidad pulmonar total, permite estimar la compresión dinámica de la vía aérea."
+        },
+        {
+          "id": "1000b236-ba24-4ccc-beea-46c5da6f5cbc",
+          "text": "Las curvas flujo-volumen, se caracterizan porque el flujo espirado es directamente proporcional al volumen."
+        }
+      ]
+    },
+    {
+      "id": "ccfb600e-0841-42c8-9bd8-54463e424388",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "Respecto a los volúmenes y capacidades pulmonares normales indique la opción correcta:",
+      "options": [
+        {
+          "id": "c1fa4136-1321-4cf6-8791-cb5cc0d167d2",
+          "text": "La capacidad residual funcional corresponde a la suma del volumen residual y el volumen de reserva espiratorio.",
+          "correct": true
+        },
+        {
+          "id": "03ecf28d-e47d-45bc-a420-f14e750e128f",
+          "text": "Dichos volúmenes y capacidades se mantienen invariables durante toda la vida."
+        },
+        {
+          "id": "eaf96506-7f67-4f52-9713-fe913ad0ec03",
+          "text": "El volumen residual se determina por las técnicas comunes de inspirar y espirar aire normal, mediante el uso de un espirómetro simple o estático."
+        },
+        {
+          "id": "61093f2e-9f9f-4dbe-9c63-61784e20d910",
+          "text": "La capacidad pulmonar total se determina mediante el uso de un espirómetro simple o estático."
+        }
+      ]
+    },
+    {
+      "id": "9596445a-0e01-4dc7-acf0-17aca2f0a4dd",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "Si se compara la sangre de la aorta con la sangre de la arteria pulmonar, se verifica que ésta última tiene:",
+      "options": [
+        {
+          "id": "344d376a-1826-4a01-ad0e-45ef97ac3c60",
+          "text": "Mayor concentración de HCO3-.",
+          "correct": true
+        },
+        {
+          "id": "36bf7b0f-d331-4b46-884d-9dd67d92fd2c",
+          "text": "Mayor concentración de 2,3-difosfoglicerato."
+        },
+        {
+          "id": "7a6cb95e-50e3-4b06-a4c3-17c13441a0f6",
+          "text": "Mayor concentración de hemoglobina."
+        },
+        {
+          "id": "05651068-0d01-4cbe-b7f1-4549368f89db",
+          "text": "Mayor concentración de oxígeno."
+        },
+        {
+          "id": "c9c24ebd-fef7-4207-a36e-f016e17f20dd",
+          "text": "Mayor pH."
+        }
+      ]
+    },
+    {
+      "id": "a91ca3f5-1853-41e1-b028-2fe6fd5ce7e4",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "Sobre las presiones parciales de gases a nivel alveolar, señale la opción correcta:",
+      "image": "a91ca3f5-1853-41e1-b028-2fe6fd5ce7e4.webp",
+      "options": [
+        {
+          "id": "bd9b3a9d-cfff-4755-8e39-9a1ded864202",
+          "text": "La magnitud de las variaciones observadas se encuentra en relación con el volumen de capacidad residual funcional pulmonar.",
+          "correct": true
+        },
+        {
+          "id": "dde9a29a-8d18-45db-8417-05bc5e253fd5",
+          "text": "El sentido cambiante de las variaciones durante en la inspiración se debe a que en condiciones estáticas (ej. fin de espiración) existe un cese en la difusión entre alvéolos y capilares."
+        },
+        {
+          "id": "a95b359d-512c-434a-8a1b-9ca61841facd",
+          "text": "Las variaciones observadas en los gráficos guardan una relación de independencia con la ventilación alveolar."
+        },
+        {
+          "id": "05e80a01-1b57-419e-a2d6-4da3733c8829",
+          "text": "Los valores de presiones parciales de O2 y CO2 observados son compatibles con situaciones de hipoventilación alveolar."
+        }
+      ]
+    },
+    {
+      "id": "0bd1eee2-f33b-40a5-95c6-6c3ab2a5d477",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "Un alvéolo con una relación ventilación/perfusión alta se caracteriza por (señale lo correcto):",
+      "options": [
+        {
+          "id": "7028da28-f893-41d5-87d4-9fac4b43d43e",
+          "text": "Una PCO2 alveolar baja.",
+          "correct": true
+        },
+        {
+          "id": "bce86d1c-1c05-405b-af05-aa6a5f3ecca4",
+          "text": "Un pH arterial muy bajo."
+        },
+        {
+          "id": "ba93610c-50b8-4b96-9bff-ed6892afa725",
+          "text": "Una PO2 alveolar baja."
+        },
+        {
+          "id": "d29cf422-476f-46cd-b7d2-1784cbfde909",
+          "text": "Una perfusión capilar elevada."
+        },
+        {
+          "id": "96d7be50-3b09-44fa-8005-c477710db7e5",
+          "text": "Una saturación de la Hb descendida."
+        }
+      ]
+    },
+    {
+      "id": "bfffa66a-5bad-401f-b4d6-bd8318e2de8e",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-11-28",
+      "text": "Un individuo tiene la resistencia de las vías aéreas aumentadas, indique lo correcto:",
+      "options": [
+        {
+          "id": "18142422-9502-455a-a748-c22baaf2bafd",
+          "text": "Tiene la capacidad residual funcional (CRF) aumentada, respecto a un individuo normal.",
+          "correct": true
+        },
+        {
+          "id": "c441d91f-4c6c-4f29-9033-3d1408ce1e98",
+          "text": "El cambio de volumen pulmonar en cada ciclo respiratorio (volumen corriente o tidal) permanecerá constante al aumentar la frecuencia respiratoria."
+        },
+        {
+          "id": "6504ad2b-f6fc-48d6-91fb-3a465df40cd0",
+          "text": "La administración de drogas simpaticomiméticas le ocasionaría una broncoconstricción."
+        },
+        {
+          "id": "a1a52815-356f-4e4d-a8f5-1d5b1c9f7f83",
+          "text": "Luego de una inspiración máxima forzada, el flujo de aire espirado en 1 segundo (VEF1), es el mismo que tendría un individuo con las resistencias de las vías aéreas normales."
         }
       ]
     },
