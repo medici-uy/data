@@ -1,8 +1,8 @@
 mod data;
-mod hashable;
 mod helpers;
 mod raw_data;
 mod sync;
+mod traits;
 
 pub use data::*;
 pub use helpers::*;

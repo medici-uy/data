@@ -14,7 +14,7 @@ pub fn read_data_dir(data_path: PathBuf) -> Result<ReadDir> {
 
 pub fn read_dir_entry_data(dir_entry: DirEntry) -> Result<Vec<u8>> {
     if dir_entry.file_type()?.is_dir() {
-        bail!("");
+        bail!("unexpected directory");
     };
 
     Ok(fs::read(dir_entry.path())?)

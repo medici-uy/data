@@ -1,6 +1,7 @@
+use std::cmp::Ordering;
+use std::ffi::OsStr;
 use std::fs::DirEntry;
 use std::path::PathBuf;
-use std::{cmp::Ordering, ffi::OsStr};
 
 use anyhow::{bail, Result};
 use chrono::NaiveDate;
@@ -8,8 +9,8 @@ use serde::{Deserialize, Serialize};
 use uuid::Uuid;
 
 use crate::{
-    hashable::Hashable,
     helpers::{read_dir_entry_data, write_data},
+    traits::{CourseAssociated, Hashable, WithImage},
     RawCourseData,
 };
 use crate::{
@@ -23,6 +24,7 @@ pub struct CourseData {
     pub name: String,
     pub short_name: String,
     pub aliases: Vec<String>,
+    pub image_file_name: Option<PathBuf>,
     pub year: Option<i16>,
 
     #[serde(skip)]
@@ -43,6 +45,7 @@ impl CourseData {
             name: raw.name,
             short_name: raw.short_name,
             aliases: raw.aliases,
+            image_file_name: raw.image,
             year: raw.year,
             questions,
             evaluations,
@@ -140,11 +143,37 @@ impl CourseData {
     }
 
     async fn format(&mut self, images_path: PathBuf) -> Result<()> {
+        self.format_image(images_path.clone()).await?;
+
         for question in &mut self.questions {
             question.format(images_path.clone()).await?;
         }
 
         Ok(())
+    }
+}
+
+impl CourseAssociated for CourseData {
+    fn course_key(&self) -> &str {
+        &self.key
+    }
+
+    fn set_course_key(&mut self, course_key: String) {
+        self.key = course_key;
+    }
+}
+
+impl WithImage for CourseData {
+    fn current_image_file_name(&self) -> Option<&PathBuf> {
+        self.image_file_name.as_ref()
+    }
+
+    fn canonical_image_file_name(&self) -> String {
+        self.key.clone()
+    }
+
+    fn replace_image_file_name(&mut self, new_file_name: PathBuf) {
+        self.image_file_name.replace(new_file_name);
     }
 }
 
@@ -274,27 +303,7 @@ impl QuestionData {
     async fn format(&mut self, images_path: PathBuf) -> Result<()> {
         self.text = self.text.trim().into();
 
-        if let Some(image_file_name) = &self.image_file_name {
-            let stem = image_file_name.file_stem().and_then(OsStr::to_str).unwrap();
-
-            if stem != &self.id.to_string() {
-                let extension = image_file_name
-                    .extension()
-                    .and_then(OsStr::to_str)
-                    .expect("no extension in image file name");
-
-                let mut new_file_name = PathBuf::from(self.id.to_string());
-                new_file_name.set_extension(extension);
-
-                let mut old_path = images_path.clone();
-                old_path.push(image_file_name);
-                let mut new_path = images_path.clone();
-                new_path.push(new_file_name.clone());
-                tokio::fs::rename(old_path, new_path).await?;
-
-                self.image_file_name.replace(new_file_name);
-            }
-        }
+        self.format_image(images_path).await?;
 
         for question_option in self.question_options.iter_mut() {
             question_option.format();
@@ -311,23 +320,34 @@ impl QuestionData {
         }
     }
 
-    pub fn set_course_key(&mut self, course_key: String) {
+    pub fn full_evaluation_key(&self) -> String {
+        CourseEvaluationData::do_full_key(self.course_key(), &self.evaluation)
+    }
+}
+
+impl CourseAssociated for QuestionData {
+    fn course_key(&self) -> &str {
+        self.course_key
+            .as_ref()
+            .expect("course key not set in question")
+    }
+
+    fn set_course_key(&mut self, course_key: String) {
         self.course_key.replace(course_key);
     }
+}
 
-    pub fn full_evaluation_key(&self) -> String {
-        CourseEvaluationData::do_full_key(
-            self.course_key.as_ref().expect("course key not set"),
-            &self.evaluation,
-        )
+impl WithImage for QuestionData {
+    fn current_image_file_name(&self) -> Option<&PathBuf> {
+        self.image_file_name.as_ref()
     }
 
-    pub fn full_image_path(&self) -> Option<String> {
-        Some(format!(
-            "{}/{}",
-            self.course_key.as_ref().expect("course key not set"),
-            self.image_file_name.as_ref()?.as_os_str().to_string_lossy()
-        ))
+    fn canonical_image_file_name(&self) -> String {
+        self.id.to_string()
+    }
+
+    fn replace_image_file_name(&mut self, new_file_name: PathBuf) {
+        self.image_file_name.replace(new_file_name);
     }
 }
 
@@ -475,19 +495,24 @@ impl CourseEvaluationData {
         data
     }
 
-    pub fn set_course_key(&mut self, course_key: String) {
-        self.course_key = Some(course_key.clone());
-    }
-
     pub fn full_key(&self) -> String {
-        Self::do_full_key(
-            self.course_key.as_ref().expect("course key not set"),
-            &self.key,
-        )
+        Self::do_full_key(self.course_key(), &self.key)
     }
 
     pub fn do_full_key(course_key: &str, key: &str) -> String {
         format!("{}{COURSE_EVALUATION_KEY_SEPARATOR}{}", course_key, key)
+    }
+}
+
+impl CourseAssociated for CourseEvaluationData {
+    fn course_key(&self) -> &str {
+        self.course_key
+            .as_ref()
+            .expect("course key not set in course evaluation")
+    }
+
+    fn set_course_key(&mut self, course_key: String) {
+        self.course_key.replace(course_key);
     }
 }
 
