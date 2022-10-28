@@ -8,3 +8,4 @@ pub use data::*;
 pub use helpers::*;
 pub use raw_data::*;
 pub use sync::*;
+pub use traits::*;
