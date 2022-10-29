@@ -1,0 +1,1455 @@
+{
+  "name": "Metodología Científica I",
+  "short_name": "MC I",
+  "aliases": [
+    "mc1",
+    "mci",
+    "metodologia1"
+  ],
+  "year": 3,
+  "questions": [
+    {
+      "id": "f84721f4-934f-4280-a06b-ee179b55d4aa",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-11-12",
+      "text": "Con respecto a la aplicación web y de escritorio gratuita \"Mendeley\", señale lo correcto:",
+      "options": [
+        {
+          "id": "ea469238-da1a-4c98-9b52-113ff7b62b74",
+          "text": "Es un gestor de referencias y citas bibliográficas con guías de uso.",
+          "correct": true
+        },
+        {
+          "id": "f4266d50-72b8-445d-a298-ae789222f44f",
+          "text": "No dispone de un perfil del usuario por lo que no se comporta como una verdadera red social."
+        },
+        {
+          "id": "b2b84320-4bc9-4ec7-a791-583c935c07db",
+          "text": "No gestiona ni organiza ficheros PDF."
+        },
+        {
+          "id": "373770c9-5d67-4525-bb05-81c3b95f5d02",
+          "text": "No requiere de una aplicación especial en el ordenador."
+        }
+      ]
+    },
+    {
+      "id": "46a8314d-ff76-40c9-89d5-d3e06fca9187",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-11-12",
+      "text": "El Código de Nüremberg introduce en la investigación en seres humanos como aspecto ético fundamental:",
+      "options": [
+        {
+          "id": "5578763e-1326-49f2-b518-e336760feb45",
+          "text": "El consentimiento informado de los sujetos.",
+          "correct": true
+        },
+        {
+          "id": "6d266607-9566-47bd-87bb-4f797b9dc7ef",
+          "text": "El análisis de los protocolos de investigación."
+        },
+        {
+          "id": "48b9051a-8b13-444c-9f6b-541c08cf9f79",
+          "text": "El comité de ética en la investigación biomédica."
+        }
+      ]
+    },
+    {
+      "id": "bf20ebc6-b60a-4f8b-b49d-4ea46244b994",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-11-12",
+      "text": "El establecimiento de objetivos es fundamental en el diseño una investigación, siendo INCORRECTO lo expresado sobre ellos:",
+      "options": [
+        {
+          "id": "1f6ecd43-680d-459c-b523-6fb1ed25e052",
+          "text": "Se requiere de un gran número de objetivos en cada investigación a realizar.",
+          "correct": true
+        },
+        {
+          "id": "fafdc831-1a5e-46ca-adad-28ffc51824df",
+          "text": "Se expresan en verbos en infinitivo."
+        },
+        {
+          "id": "f36455d2-3a76-4187-8c3f-89f549212b07",
+          "text": "Son claros y concretos."
+        },
+        {
+          "id": "07870a97-51bc-426f-9af6-b6769ebee7af",
+          "text": "Son generales y específicos."
+        }
+      ]
+    },
+    {
+      "id": "7d059b5b-0a3b-427c-b5ce-dd4141518c30",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-11-12",
+      "text": "El informe Belmont en 1979 introduce como principios éticos en la investigación:",
+      "options": [
+        {
+          "id": "3d65f4bb-67ac-4431-812f-f7bfb503af1c",
+          "text": "La beneficencia, respeto por las personas y justicia.",
+          "correct": true
+        },
+        {
+          "id": "4fa0aad3-61ba-44bf-bd8e-8e739ea18b69",
+          "text": "La no maleficencia, beneficencia y responsabilidad."
+        },
+        {
+          "id": "66824ba9-4ecf-4664-a370-20b65076fa4b",
+          "text": "Los comités de ética de la investigación hospitalarios."
+        }
+      ]
+    },
+    {
+      "id": "b26199ab-dac9-48d6-9a96-31449ec1a15c",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-11-12",
+      "text": "En el agua de una ciudad se han detectado dos tipos de bacterias A y B nocivas para la salud. Se ha detectado una concentración media de 2 bacterias de tipo A por cada cm3 de agua y se sabe que las bacterias están aleatoriamente distribuidas, interesa la probabilidad de que se encuentren X cantidad de bacterias en una muestra de agua. ¿Cuál es la distribución de probabilidad más adecuada a aplicar en esta situación?",
+      "options": [
+        {
+          "id": "6c5d57f9-40c7-47e3-98cc-613d4f54eca0",
+          "text": "Poisson.",
+          "correct": true
+        },
+        {
+          "id": "ee1b8dcc-38ef-480a-b5c6-bcb754cceacf",
+          "text": "Binomial."
+        },
+        {
+          "id": "fee6330e-4582-40a2-96f1-7dc8569b2ee3",
+          "text": "Normal."
+        }
+      ]
+    },
+    {
+      "id": "fa87e3eb-944c-4174-8ee1-ae27ceb20ac3",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-11-12",
+      "text": "En la población en general las apendicectomías por una apendicitis ocurren en 10 de cada 10 000 pacientes cada año. La ciudad de Tarariras tiene 7000 habitantes. ¿Cuál es la probabilidad de que en un año haya a lo sumo 5 casos de apendicitis en Tarariras?",
+      "options": [
+        {
+          "id": "21ff918b-409f-4c43-8dff-fc59be71e80c",
+          "text": "0.3007.",
+          "correct": true
+        },
+        {
+          "id": "91c3f686-0979-455d-9fc7-2c33a5902c48",
+          "text": "0.1277."
+        },
+        {
+          "id": "57c79ded-fc8e-49c6-ba90-544b05cc9c42",
+          "text": "0.4497."
+        },
+        {
+          "id": "02686297-77cb-4706-828d-9840454975de",
+          "text": "0.5933."
+        },
+        {
+          "id": "f9f77efd-676b-4cf6-8fde-acb36d0dec07",
+          "text": "0.6993."
+        }
+      ]
+    },
+    {
+      "id": "f8c7fd36-c981-4e48-9d16-454cc839aae5",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-11-12",
+      "text": "En relación al nivel de evidencia aportado por los estudios de prevalencia, marque la opción correcta:",
+      "options": [
+        {
+          "id": "9c885c54-4103-43f7-b260-0521bd59209d",
+          "text": "Brindan mayor evidencia que las series de casos.",
+          "correct": true
+        },
+        {
+          "id": "14a01dcd-07b2-4ecc-93a1-f63663f470c6",
+          "text": "Brindan mayor evidencia que los ensayos clínicos aleatorizados."
+        },
+        {
+          "id": "8bfd4d61-0961-4c8f-ad39-f750a15f7f28",
+          "text": "Brindan mayor evidencia que un estudio experimental."
+        },
+        {
+          "id": "f411c023-cb28-4894-9533-62803d162341",
+          "text": "Brindan mayor evidencia que un meta-análisis."
+        }
+      ]
+    },
+    {
+      "id": "694bd474-69fc-4405-8722-b875bd96b4d2",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-11-12",
+      "text": "En relación con la \"pregunta de investigación\" marque lo correcto:",
+      "options": [
+        {
+          "id": "fd892620-1f70-4e45-b2eb-cf1da2f82079",
+          "text": "El acrónimo FINER se refiere a las características que debe tener la pregunta de investigación, verifica la pertinencia de la misma.",
+          "correct": true
+        },
+        {
+          "id": "90d4a8c2-5e9a-4ece-8db7-19bab880d9f7",
+          "text": "La pregunta de investigación es el primer paso al iniciar una investigación, pudiendo ser ambigua para permitir abarcar una mayor área de investigación."
+        },
+        {
+          "id": "c48e9c1a-a3ab-4434-a7bc-8c93e0f8d005",
+          "text": "PICO y FINER son estrategias sinónimas."
+        },
+        {
+          "id": "34894d6d-be41-4422-a71b-9076bf974a85",
+          "text": "Si la pregunta de investigación cambia una vez iniciada la investigación, ésta continúa sin necesidad de modificaciones en lo elaborado hasta el presente."
+        }
+      ]
+    },
+    {
+      "id": "b07964e3-e639-44ed-b07a-8833f0c9e904",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-11-12",
+      "text": "En relación con la búsqueda bibliográfica (BB), marque lo correcto:",
+      "options": [
+        {
+          "id": "c75fc03c-fb8a-415e-8581-967d5421500a",
+          "text": "Los operadores booleanos AND (Y) se utilizan para reducir la BB.",
+          "correct": true
+        },
+        {
+          "id": "e996402c-1b99-4283-b2d8-aa4e9312233f",
+          "text": "La existencia o no de una pregunta de investigación no se relaciona con la BB."
+        },
+        {
+          "id": "61800615-9ff0-4b7e-b834-bb8481a9ec73",
+          "text": "Los operadores booleanos AND, OR no se relacionan con la amplitud de la BB."
+        },
+        {
+          "id": "f5764d42-f864-4bc4-baff-47df3fa52849",
+          "text": "Los términos MESH no se utilizan para búsquedas de bibliografía científica."
+        }
+      ]
+    },
+    {
+      "id": "fb0f5315-9331-4cf9-b83e-6769388b191b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-11-12",
+      "text": "En un estudio epidemiológico se trató de correlacionar el consumo de carne procesada \"per cápita\" en distintos países en el año 2012 con la incidencia de cáncer de colon registrada en ese mismo año en dichos países. ¿De qué tipo de estudio se trata? Señale lo correcto.",
+      "options": [
+        {
+          "id": "4781113e-3dd4-4318-b2e6-771d0b32e44f",
+          "text": "Estudio ecológico.",
+          "correct": true
+        },
+        {
+          "id": "9826386a-9dd3-4c68-8325-77bca0da2b61",
+          "text": "Estudio de evaluación de prueba diagnóstica."
+        },
+        {
+          "id": "0a1d30d3-a7e0-48c5-b475-bad4c4bbde3b",
+          "text": "Estudio observacional analítico."
+        },
+        {
+          "id": "3e246f42-b7ec-4393-9c99-9c811a9e994f",
+          "text": "Serie de casos."
+        }
+      ]
+    },
+    {
+      "id": "b53cae11-df51-4fc9-8056-ffb7db6bea42",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-11-12",
+      "text": "Indicar si la tabla siguiente puede corresponder a una distribución de probabilidad, donde X corresponde a los resultados posibles y P(x) la probabilidad de cada unos de ellos.",
+      "image": "b53cae11-df51-4fc9-8056-ffb7db6bea42.webp",
+      "options": [
+        {
+          "id": "3779b59b-9246-4bd7-b5f0-dfb09599ec89",
+          "text": "No.",
+          "correct": true
+        },
+        {
+          "id": "00cb1da4-6693-483e-9b6b-980d74d2ee4a",
+          "text": "No se puede saber."
+        },
+        {
+          "id": "1bdb6e60-0ac0-4b91-a0d3-e94ac2502d9b",
+          "text": "Sí."
+        }
+      ]
+    },
+    {
+      "id": "955ee79e-d721-4b3f-907c-fee242173967",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-11-12",
+      "text": "La albúmina constituye la fracción principal de las proteínas del suero sanguíneo. Su distribución en la población sana es normal con media 45 g/L y desvío estándar 5 g/L. ¿Cuál es el valor del percentil 75?",
+      "options": [
+        {
+          "id": "3f43f463-711e-45f3-b813-f760f2ffc010",
+          "text": "48.35.",
+          "correct": true
+        },
+        {
+          "id": "686128da-d868-4d06-afb5-a30fa64f7d61",
+          "text": "32.85."
+        },
+        {
+          "id": "c292d3e8-aa3d-4b3d-a36c-cd6a82e18da3",
+          "text": "37.80."
+        },
+        {
+          "id": "d2d7b933-ee53-4061-ac95-1426949453d8",
+          "text": "48.85."
+        },
+        {
+          "id": "1a27b7db-8f96-47d4-8dd3-05119a48984d",
+          "text": "57.50."
+        }
+      ]
+    },
+    {
+      "id": "305b823a-e849-4652-9e47-542a58236b85",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-11-12",
+      "text": "La evaluación independiente de los proyectos de investigación tiene como fundamentación ética:",
+      "options": [
+        {
+          "id": "e7006eb2-ac02-4ed0-8a02-c6bf72230917",
+          "text": "La responsabilidad social.",
+          "correct": true
+        },
+        {
+          "id": "b7089eba-ae1f-4300-8c67-092a9f8662d2",
+          "text": "El respeto por el investigador."
+        },
+        {
+          "id": "2d9a74dc-363b-45fb-a394-18db35f15aad",
+          "text": "Los beneficios sociales."
+        }
+      ]
+    },
+    {
+      "id": "76dca7d8-603d-458c-8ea5-6d61ebe3117d",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-11-12",
+      "text": "La proteinemia es la concentración de proteínas en el plasma sanguíneo. El 68% central de la población sana tiene proteinemia entre 7,18 y 8,12 g/dL. Asumiendo que la distribución de la proteinemia es normal, ¿cuál es el valor del desvío estándar en esta población (en g/dL)?",
+      "options": [
+        {
+          "id": "35534b51-3d3d-4983-913a-d8247816302b",
+          "text": "0.47.",
+          "correct": true
+        },
+        {
+          "id": "b08ff4fa-2c25-42bd-af74-6f4c7ecc37b6",
+          "text": "0.23."
+        },
+        {
+          "id": "3532d2f8-f9ed-4d16-a147-940a3a173e6d",
+          "text": "0.94."
+        },
+        {
+          "id": "861199b6-12e4-4451-a42f-3b8cfcb93d5e",
+          "text": "7.65."
+        }
+      ]
+    },
+    {
+      "id": "2079de28-fdf4-4703-80be-31c25ff20dc3",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-11-12",
+      "text": "La prueba diagnóstica que se aplica para el cribado de una enfermedad requiere las siguientes características, EXCEPTO:",
+      "options": [
+        {
+          "id": "a77a61ae-b8a7-4cfe-bd02-cfa7f508d7dd",
+          "text": "Alta especificidad de la prueba.",
+          "correct": true
+        },
+        {
+          "id": "a2a6ebe1-6ca8-4ee1-abdd-92b7502b3312",
+          "text": "Aceptabilidad por parte de la población."
+        },
+        {
+          "id": "fd03c3c7-9e35-41fe-9419-78ee6d519673",
+          "text": "Alta prevalencia de la enfermedad."
+        },
+        {
+          "id": "b8967cc0-30ad-4e76-8133-53d7217ab534",
+          "text": "Alta sensibilidad de la prueba."
+        }
+      ]
+    },
+    {
+      "id": "dbf22fe6-f5bb-4f4c-8f4c-bb14f1b6a2fc",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-11-12",
+      "text": "Las normas éticas internacionales para la investigación en seres humanos tienen como finalidad:",
+      "options": [
+        {
+          "id": "d34b9a95-288e-4a3c-9d3f-b228f3ef070b",
+          "text": "Asesorar a los médicos para incorporar sus principios en sus prácticas.",
+          "correct": true
+        },
+        {
+          "id": "c1e929b3-d9ec-4b5e-be13-a973fbc6ad11",
+          "text": "Imponer principios éticos para la protección de los investigadores."
+        },
+        {
+          "id": "788e0ed9-1f7c-4453-92fb-ca24f9794499",
+          "text": "Penalizar la violación de los derechos de los sujetos de investigación."
+        }
+      ]
+    },
+    {
+      "id": "aa09d696-f312-4ffa-8783-0527a3868705",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-11-12",
+      "text": "Marque la opción correcta sobre la \"pregunta de investigación\"",
+      "options": [
+        {
+          "id": "9c1c2081-d8ed-4138-8b54-f783c6e7e678",
+          "text": "Guía la búsqueda bibliográfica.",
+          "correct": true
+        },
+        {
+          "id": "64d7e7ae-613e-4012-b14b-61c6f990d089",
+          "text": "No es importante al momento de planificar una investigación."
+        },
+        {
+          "id": "0629c655-b4b0-4ebe-aff0-113445adbcb5",
+          "text": "Se utiliza para plantear una hipótesis."
+        },
+        {
+          "id": "3690b123-714c-4a53-8a7b-0db1d076d1ed",
+          "text": "Se utiliza para poner a prueba una hipótesis."
+        }
+      ]
+    },
+    {
+      "id": "0d974ed2-3872-424d-9726-c68c64d1a01b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-11-12",
+      "text": "Marque lo correcto acerca de los artículos científicos:",
+      "options": [
+        {
+          "id": "c8cec271-471d-4c2d-8037-c82027dbd60a",
+          "text": "Todo artículo de divulgación científica cumple con una estructura predeterminada, establecida por el Comité Internacional de Editores de Revistas Médicas.",
+          "correct": true
+        },
+        {
+          "id": "5e0d5086-ca9b-4261-95e6-4e26ed2cd2f6",
+          "text": "Cada equipo investigador selecciona la estructura de su artículo científico buscando resaltar los aspectos más significativos de su estudio de investigación."
+        },
+        {
+          "id": "f20b7d7d-7a81-468c-a035-d5fe8ac029c8",
+          "text": "La sección \"Resumen\" de un artículo científico debe sintetizar sólo las secciones de mayor interés para los investigadores.."
+        },
+        {
+          "id": "116a590f-11c5-4ed4-b73b-3f18dca5fc5a",
+          "text": "No es de interés, ni necesario, justificar la realización de la investigación sobre la que trata el artículo de divulgación científica."
+        }
+      ]
+    },
+    {
+      "id": "a27c7642-9556-4bed-b6d3-499d7d151239",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-11-12",
+      "text": "Marque lo correcto sobre la lectura crítica de artículos científicos:",
+      "options": [
+        {
+          "id": "20db75c3-dafc-4e92-ac3e-a2c81c515b15",
+          "text": "Se conceptualiza la lectura crítica como la capacidad de aproximarse a la verdad de los hechos estudiados y determinar la aplicabilidad de los resultados publicados.",
+          "correct": true
+        },
+        {
+          "id": "9b0dcaa5-0d7f-479b-a646-d65faca1aa5c",
+          "text": "La calidad de la asistencia no se ve influida por el análisis crítico de los artículos científicos realizados por los equipos de salud."
+        },
+        {
+          "id": "595e53aa-062c-48f4-ab43-ee7e9fd96991",
+          "text": "La cantidad de artículos científicos leídos para la elaboración del marco teórico de un diseño de investigación reviste mayor relevancia que la actividad de análisis de los mismos."
+        },
+        {
+          "id": "3101678a-bbfd-400a-bfae-c59e142d873e",
+          "text": "La interpretación de los resultados de un artículo científico reviste relativa importancia."
+        }
+      ]
+    },
+    {
+      "id": "74081b95-6dcd-4b47-b691-e0362922edfd",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-11-12",
+      "text": "Para la estimación de medias y proporciones, la amplitud de los intervalos de confianza es:",
+      "options": [
+        {
+          "id": "505f6aa5-f6e2-4214-9037-35a3f6097251",
+          "text": "Menor cuanto más grande es la muestra.",
+          "correct": true
+        },
+        {
+          "id": "d12764f5-b5dd-4da1-ba8f-e2273d39e18b",
+          "text": "Independiente del tamaño muestral."
+        },
+        {
+          "id": "a5776ed0-0142-4121-a67e-2323d2a27751",
+          "text": "Inversamente proporcional al tamaño muestral."
+        },
+        {
+          "id": "c87bff4f-8fc8-4cc8-a5f7-c285bd9dbbbb",
+          "text": "Mayor cuanto más grande es la muestra."
+        }
+      ]
+    },
+    {
+      "id": "d85dc3ef-c4c2-49b5-ba1f-f0966e36798a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-11-12",
+      "text": "Realizamos la determinación de antígeno prostático específico (PSA) para diagnosticar carcinoma de próstata en adolescentes y en ancianos sanos, sin hiperplasia benigna de próstata, marque la opción correcta:",
+      "options": [
+        {
+          "id": "0bd91a07-b80c-4998-a714-69fe80ddf891",
+          "text": "No cambiará la validez interna del PSA en adolescentes o ancianos sanos.",
+          "correct": true
+        },
+        {
+          "id": "9e373f0c-b2f3-4f61-85bf-6e3687410473",
+          "text": "El valor predictivo positivo del PSA en los adolescentes será mayor que en los ancianos."
+        },
+        {
+          "id": "ffc63459-6d96-444a-862a-66c92aad24f4",
+          "text": "La especificidad del PSA en los adolescentes será menor que en los ancianos."
+        },
+        {
+          "id": "b6ee4ac5-97ad-4355-801b-f83dad7a535c",
+          "text": "La sensibilidad del PSA en los adolescentes será mayor que en los ancianos."
+        }
+      ]
+    },
+    {
+      "id": "d483ac68-9b40-4403-85ef-ac8a7cf46e4b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-11-12",
+      "text": "Respecto a la \"selección equitativa de la muestra\" como requisito ético en la investigación que involucra seres humanos, referiría a que:",
+      "options": [
+        {
+          "id": "869fa53d-08da-47cf-91c8-5453b2a0b89f",
+          "text": "Los beneficios recaigan sobre los que se exponen a riesgos.",
+          "correct": true
+        },
+        {
+          "id": "ee77b3f7-e729-4d82-b25a-00b562e579a1",
+          "text": "La inclusión sea igualitaria en número respecto al género."
+        },
+        {
+          "id": "f39b51c1-fc94-477c-b9e8-9c93bdf54ba0",
+          "text": "Se excluya su elegibilidad por razones de conveniencia."
+        }
+      ]
+    },
+    {
+      "id": "d9f65f61-d576-422a-8a14-b0002ae30662",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-11-12",
+      "text": "Según el decreto 379/08 que regula la investigación en seres humanos en nuestro país, los sujetos vulnerables son:",
+      "options": [
+        {
+          "id": "985f396d-83f8-4a01-9627-b8b14b08f09c",
+          "text": "Los individuos con autonomía reducida.",
+          "correct": true
+        },
+        {
+          "id": "03bfd414-74a1-4aa8-9b6c-e481bbc09f05",
+          "text": "Las mujeres y los adultos mayores."
+        },
+        {
+          "id": "d636303a-33f1-40bc-a2b8-cb1886419648",
+          "text": "Los sujetos con enfermedades crónicas."
+        }
+      ]
+    },
+    {
+      "id": "235d94a0-0e7d-4bac-9dd8-7018b1da7216",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-11-12",
+      "text": "Si utilizamos una prueba de laboratorio para el diagnóstico de una determinada enfermedad que es tres veces más frecuente en mujeres que en hombres, ¿cuál de los siguientes parámetros será más elevado en la población masculina que en la femenina? Señale lo correcto.",
+      "options": [
+        {
+          "id": "830ca418-0ad2-48e2-a9e9-b8658d8838b7",
+          "text": "El valor predictivo negativo de la prueba.",
+          "correct": true
+        },
+        {
+          "id": "3ec16e62-1c86-4d62-9d47-a76b8c8e6b39",
+          "text": "El valor predictivo positivo de la prueba."
+        },
+        {
+          "id": "f94d1198-f7cd-4702-9f57-2862694443e8",
+          "text": "La especificidad de la prueba."
+        },
+        {
+          "id": "aa13d5ba-349a-4af1-a415-c652c39da7ab",
+          "text": "La sensibilidad de la prueba."
+        }
+      ]
+    },
+    {
+      "id": "a52338d0-cdc4-4aaa-9d35-996776f07c18",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-11-12",
+      "text": "Una condición necesaria para que la probabilidad siga una distribución binomial es que:",
+      "options": [
+        {
+          "id": "fa58ae78-eac6-4816-9c4f-e01ce6660308",
+          "text": "El número de experimentos sea finito.",
+          "correct": true
+        },
+        {
+          "id": "402140da-61b4-4bf8-b5cf-1b2f2eb93172",
+          "text": "La probabilidad de éxito sea pequeña (menor a 0.1)."
+        },
+        {
+          "id": "e1d0aa51-e72e-4a09-a07f-bab51ed32d08",
+          "text": "La variable en estudio sea continua."
+        },
+        {
+          "id": "629e2d33-4ff8-42c2-8c8a-1d6be01f32c5",
+          "text": "Los sucesos sean disjuntos."
+        }
+      ]
+    },
+    {
+      "id": "74a79517-8a34-4908-9146-1e217f9d2bc3",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-11-12",
+      "text": "Una prueba diagnóstica tiene una sensibilidad del 95%, ¿qué nos indica este resultado? Señale lo correcto.",
+      "options": [
+        {
+          "id": "ccd03990-8fb7-42c7-a7df-a7e04deda3ff",
+          "text": "La prueba dará, como máximo, un 5% de falsos negativos.",
+          "correct": true
+        },
+        {
+          "id": "1d6c3133-77c2-4918-9d42-822c4620cd05",
+          "text": "La probabilidad que un resultado negativo corresponda realmente a un sano será alta."
+        },
+        {
+          "id": "efa8502f-b1f6-46f3-aee1-1f8257a88dd3",
+          "text": "La prueba dará, como máximo, un 5% de falsos positivos."
+        },
+        {
+          "id": "1ba53c9f-2d22-439a-9f0d-a11a10a52e64",
+          "text": "La prueba será muy específica."
+        }
+      ]
+    },
+    {
+      "id": "686c53d7-7b25-4c6b-afe0-e2be19324b4b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-11-12",
+      "text": "¿Cuánto vale el percentil 75 de la distribución normal tipificada?",
+      "options": [
+        {
+          "id": "91a64990-f08f-49a8-b354-ff674704202d",
+          "text": "0,67.",
+          "correct": true
+        },
+        {
+          "id": "225d39d0-45bd-4b21-b104-651a021b25e4",
+          "text": "-1.44."
+        },
+        {
+          "id": "c9cad59d-e2d8-42e8-943a-a51c5b1c4719",
+          "text": "-2.43."
+        },
+        {
+          "id": "4f7f29f3-1040-49c1-9822-84bc78f4263d",
+          "text": "0.77."
+        }
+      ]
+    },
+    {
+      "id": "9e91a640-37bf-47a1-a21f-79d39cf22f3c",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-11-11",
+      "text": "Con respecto a los estudios descriptivos señale la característica correcta:",
+      "options": [
+        {
+          "id": "fcbd186d-8e79-417c-9e3b-8abe4f37951b",
+          "text": "Permiten generar hipótesis.",
+          "correct": true
+        },
+        {
+          "id": "4161773e-7b25-47e1-a1f2-dd69a0e1e627",
+          "text": "Comprueban hipótesis."
+        },
+        {
+          "id": "49516b18-f08a-47c3-abe4-8461e83b39a4",
+          "text": "El investigador controla el diseño experimental."
+        },
+        {
+          "id": "4fbc0676-85d7-4900-8764-c5e532a2bfed",
+          "text": "No presentan sesgos debido al tipo de selección de los grupos en estudio."
+        }
+      ]
+    },
+    {
+      "id": "6d699b22-2465-41cb-95b3-9f4c0ff80c34",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-11-11",
+      "text": "Dada una muestra, ¿cómo es la longitud de un intervalo de confianza para la media construido a partir de una muestra de tamaño 900 con respecto a un intervalo con la misma confianza a partir de una muestra de tamaño 100 obtenida de la misma población?",
+      "options": [
+        {
+          "id": "007c8cd3-85b6-4358-b8b1-80a8bac4b58b",
+          "text": "La tercera parte.",
+          "correct": true
+        },
+        {
+          "id": "53531076-d6b0-4fb5-88f0-1b1f361ead0c",
+          "text": "El doble."
+        },
+        {
+          "id": "0dba7802-688d-4384-875c-cef81de0a00a",
+          "text": "El triple."
+        },
+        {
+          "id": "8189b745-a4d1-41a5-a3cc-02cde3f19fac",
+          "text": "La mitad."
+        },
+        {
+          "id": "975f4754-34bd-4696-99e3-ff7e55795b44",
+          "text": "La novena parte."
+        }
+      ]
+    },
+    {
+      "id": "26f53d43-fd2b-4f3c-9ec1-5fe5590c7996",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-11-11",
+      "text": "El Código de Nüremberg como primer antecedente de relevancia internacional sobre ética de la investigación constituye:",
+      "options": [
+        {
+          "id": "366690d5-d3d7-4774-b2fc-1c628d6414ae",
+          "text": "Una expresión de la asociación entre la ética médica y los derechos humanos en la investigación.",
+          "correct": true
+        },
+        {
+          "id": "d93d5778-392d-49a0-8df0-a9c96e4839d1",
+          "text": "Un código de ética médica donde se introducen los principios de beneficencia, justicia y autonomía."
+        },
+        {
+          "id": "f49e4869-c2af-4327-aacf-59174b56916f",
+          "text": "Un instrumento para juzgar a investigadores cuyas prácticas fueron contra la dignidad humana."
+        }
+      ]
+    },
+    {
+      "id": "4aed2fb8-0441-47d3-b807-48601a3b800a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-11-11",
+      "text": "El criterio de legitimación de las normas éticas internacionales como un consenso racional es según Tealdi:",
+      "options": [
+        {
+          "id": "d497529f-9af3-4444-afe6-6fb92b3225b3",
+          "text": "La universalidad de los enunciados morales.",
+          "correct": true
+        },
+        {
+          "id": "e54ef8a2-ace4-46c1-9cd5-c4f172b4ead5",
+          "text": "Su aplicación de acuerdo al contexto moral."
+        },
+        {
+          "id": "c8910bfb-048b-4af8-833e-5c6f9bafdd2b",
+          "text": "Su carácter prescriptivo que obliga a los estados."
+        }
+      ]
+    },
+    {
+      "id": "35df5a14-ee47-4fb0-ad82-5a8578324600",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-11-11",
+      "text": "El diseño de estudio epidemiológico que mejor se ajusta a la evaluación de la asociación entre una reacción adversa poco frecuente y un tratamiento farmacológico frecuentemente utilizado es:",
+      "options": [
+        {
+          "id": "f93b483d-0698-4f7e-9158-47b902d73797",
+          "text": "Estudio de caso-control.",
+          "correct": true
+        },
+        {
+          "id": "9eee9395-6e9d-49be-baf5-d589d3ef8ec0",
+          "text": "Estudio de prueba diagnóstica."
+        },
+        {
+          "id": "82ec1dd4-1acb-4730-8730-1cdb287a5ed8",
+          "text": "Estudio ecológico."
+        },
+        {
+          "id": "96cf5530-a1b3-4290-b6eb-cc84af1b4dde",
+          "text": "Serie de casos."
+        }
+      ]
+    },
+    {
+      "id": "867e52b2-cf04-4a1d-86fa-2726d18b6e56",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-11-11",
+      "text": "El estudio \"Índice cintura-estatura como prueba diagnóstica del Síndrome metabólico en adultos de Trujillo\" de Juan Huamán, Mayita Alvarez, Linda Gamboa, Fernando Marino, 2017, refiere a que el mismo fue realizado teniendo en cuenta las recomendaciones de Helsinki para investigación biomédica. De esto se desprende que:",
+      "options": [
+        {
+          "id": "8fdb2152-02a8-48d9-94dc-4fbd415332b5",
+          "text": "Los conocimientos deben subordinarse al cumplimiento del bienestar, la salud y los derechos de los participantes.",
+          "correct": true
+        },
+        {
+          "id": "1f6196ed-5a26-4bf0-8886-f90615bb0b46",
+          "text": "La protección de los sujetos de investigación se asegura al otorgar el consentimiento informado."
+        },
+        {
+          "id": "16f756d1-6f82-481a-b739-0fbf433d8dab",
+          "text": "Los investigadores deben cumplir su mandato, siendo su principal objetivo promover el progreso científico incondicional."
+        }
+      ]
+    },
+    {
+      "id": "0d424e3e-ee92-4436-9df4-683bee1c0f90",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-11-11",
+      "text": "El histograma muestra la distribución de una variable continua por intermedio de:",
+      "options": [
+        {
+          "id": "8c924708-d8f2-4894-b74f-a2ceefdd230a",
+          "text": "La densidad de frecuencia.",
+          "correct": true
+        },
+        {
+          "id": "b8932f3b-c0c9-4e83-a7d7-a124ffff0c75",
+          "text": "La frecuencia absoluta."
+        },
+        {
+          "id": "87d65176-87d5-4219-8049-b3fff45481a3",
+          "text": "La frecuencia acumulada."
+        },
+        {
+          "id": "30c61ce9-9777-42d7-895b-32488a040df9",
+          "text": "La frecuencia relativa."
+        }
+      ]
+    },
+    {
+      "id": "839f3969-334f-44d4-b658-a9a381d3abcc",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-11-11",
+      "text": "El rol de los comités de ética de la investigación según E. Emanuel hace referencia a:",
+      "options": [
+        {
+          "id": "563af11c-ad38-4ab8-bdaf-dce976bfdddf",
+          "text": "La responsabilidad social en la investigación biomédica.",
+          "correct": true
+        },
+        {
+          "id": "2bbec6a5-7406-4102-bfc5-1afdaf9e4c51",
+          "text": "La compensación de daños ocasionados por la investigación."
+        },
+        {
+          "id": "61c0034c-0151-4326-8199-748fca7a62ca",
+          "text": "La minimización de la responsabilidad de los investigadores."
+        }
+      ]
+    },
+    {
+      "id": "a2e02064-bb03-47c4-8a35-f04d43348239",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-11-11",
+      "text": "En el estudio citado anteriormente, se hace referencia a que los resultados de pruebas de laboratorio y antropometría fueron entregados a los sujetos seleccionados. Esto puede ser interpretado en el contexto ético de la investigación como:",
+      "options": [
+        {
+          "id": "49d531e8-99e7-4362-aa4c-701c6223594b",
+          "text": "Un derecho de los participantes.",
+          "correct": true
+        },
+        {
+          "id": "c5dc833f-7cb7-4cb5-b643-790b67b8fd9e",
+          "text": "Una concesión de los investigadores."
+        },
+        {
+          "id": "601462bc-1fcc-4304-a42b-c2e9f83ad4a8",
+          "text": "Una obligación post-investigación."
+        }
+      ]
+    },
+    {
+      "id": "a16cb09f-1e17-4bc2-b09e-048a0de14707",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-11-11",
+      "text": "En la investigación propuesta, se le preguntó verbalmente a los participantes si deseaban que sus datos, de forma anónima, fueran utilizados para generar una base de datos. Según los requisitos planteados en la Declaración de Helsinki y nuestra normativa, podríamos afirmar que la información verbal es una condición:",
+      "options": [
+        {
+          "id": "0b6a900d-d279-47da-a0e6-64ddc1c27781",
+          "text": "Imprescindible pero no suficiente, requiriendo autorización expresa para su uso.",
+          "correct": true
+        },
+        {
+          "id": "cb2b929e-8010-4edc-aa28-ab9028fb24be",
+          "text": "Innecesaria ya que bastaría leer el formulario de consentimiento informado."
+        },
+        {
+          "id": "8975d951-157b-44fa-8dec-549cd689c5be",
+          "text": "Suficiente como requisito de autorización para su uso en investigación."
+        }
+      ]
+    },
+    {
+      "id": "170e46bf-d19a-4a58-84dc-b56d4aece88a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-11-11",
+      "text": "En relación a los estudios de cohorte, marque la opción correcta.",
+      "options": [
+        {
+          "id": "cf0de4ba-f4fc-4d3f-b52b-30d159e05f1c",
+          "text": "Son estudios observacionales analíticos.",
+          "correct": true
+        },
+        {
+          "id": "cc986b39-ded0-43ff-868b-0481079b59bb",
+          "text": "Son estudios experimentales."
+        },
+        {
+          "id": "91eb8e92-142e-4939-9212-507ee08fcc89",
+          "text": "Son estudios observacionales descriptivos."
+        }
+      ]
+    },
+    {
+      "id": "cc855f44-272f-4da8-93f5-cdbb6876367f",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-11-11",
+      "text": "En relación con la utilidad de las pruebas diagnósticas en la práctica clínica, marque lo correcto:",
+      "options": [
+        {
+          "id": "1e6d0d43-e3e7-4877-bff5-bd6cedbda327",
+          "text": "Deben solicitarse cuando se considere que su resultado ayudará a tomar una decisión con respecto al paciente.",
+          "correct": true
+        },
+        {
+          "id": "5b8f247c-6800-4195-8971-0ab0b9bb982a",
+          "text": "Deben solicitarse cada vez que el paciente reclame su realización."
+        },
+        {
+          "id": "2d57ac59-1891-4446-9b0d-9ee24151c0bd",
+          "text": "Son útiles en la práctica clínica sólo cuando arrojan un resultado positivo que confirme una sospecha diagnóstica."
+        },
+        {
+          "id": "cf88341c-89e4-415f-8bae-bd61af706a86",
+          "text": "Sus resultados son indispensables para tratar a los pacientes."
+        }
+      ]
+    },
+    {
+      "id": "b2859c7b-c74d-4ea0-978f-5d3e8d3f7950",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-11-11",
+      "text": "En un estudio epidemiológico se trató de correlacionar el consumo de carne en distintas ciudades en el año 2014 con la incidencia de cáncer de colon registrada en ese mismo año en dichas ciudades. ¿De qué tipo de estudio se trata?",
+      "options": [
+        {
+          "id": "dbaa27fa-5f43-46e9-8d43-5a9d08cac46a",
+          "text": "Estudio ecológico.",
+          "correct": true
+        },
+        {
+          "id": "18dfcf18-c0b2-401f-89ba-aa158c8499c2",
+          "text": "Estudio de caso-control."
+        },
+        {
+          "id": "4fef1e02-7f6d-44bc-9411-42df1c42dfd8",
+          "text": "Estudio experimental."
+        },
+        {
+          "id": "b60bbe47-3564-482b-ae3c-a1a086339716",
+          "text": "Serie de casos."
+        }
+      ]
+    },
+    {
+      "id": "1578262b-6ed6-4711-b626-2ff2a1c04dfb",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-11-11",
+      "text": "Frente a la realización de una prueba diagnóstica que da positiva, el médico siempre se plantea cuál es la probabilidad de que el paciente esté realmente enfermo. ¿Qué indicador le permite al médico responder dicha pregunta? Marque la opción correcta.",
+      "options": [
+        {
+          "id": "12295ca2-68c5-4726-93a6-e99bb11e325c",
+          "text": "Valor predictivo positivo.",
+          "correct": true
+        },
+        {
+          "id": "f50bd298-0e17-49bb-b60f-f1221da48238",
+          "text": "Especificidad."
+        },
+        {
+          "id": "396ba219-a384-4960-b209-c3c0830c1bad",
+          "text": "Incidencia."
+        },
+        {
+          "id": "f92178cb-e957-42c0-8e1c-9bc32d6e3f40",
+          "text": "Riesgo relativo."
+        }
+      ]
+    },
+    {
+      "id": "c6e080f5-c3ba-49c8-a803-1cd8c3f7a9d0",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-11-11",
+      "text": "Kottow plantea que en las pautas CIOMS 2016 persisten problemas éticos no resueltos en la investigación biomédica, particularmente en pacientes vulnerables o incompetentes, ya podría omitirse o disminuirse la voluntariedad y consentimiento:",
+      "options": [
+        {
+          "id": "e21717e5-9286-4a01-b5f6-498e26745ce1",
+          "text": "Si las investigaciones tienen un valor científico apremiante.",
+          "correct": true
+        },
+        {
+          "id": "b74d2e9c-8e23-4840-93ae-db3ae4cc8bd4",
+          "text": "Cuando los participantes se beneficiarán de la investigación."
+        },
+        {
+          "id": "a0e1f454-2a7b-4742-b306-22811f97e002",
+          "text": "Frente a la ausencia de riesgos mínimos para los participantes."
+        }
+      ]
+    },
+    {
+      "id": "d0c65c2b-57ac-44a3-8231-775b55f722ee",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-11-11",
+      "text": "La elegibilidad de los sujetos puede basarse en los objetivos científicos del estudio, sin embargo deberá considerarse para que la misma sea una selección equitativa:",
+      "options": [
+        {
+          "id": "15a39c0a-9d3a-475f-a462-8044857fbdde",
+          "text": "Que a todos los grupos se les ofrezca la oportunidad de participar en la investigación a menos que existan razones que restrinjan su inclusión.",
+          "correct": true
+        },
+        {
+          "id": "ed18b395-3490-4734-b32c-87cf7cf85b72",
+          "text": "La exclusión sistemática de aquellos individuos con determinadas condiciones que permitan considerarlos población vulnerable."
+        },
+        {
+          "id": "d51aa403-eaa2-4ecf-9171-6ec1de8e6f6e",
+          "text": "La inclusión de todos aquellos que puedan beneficiarse independientemente de los riesgos a los que podrían estar expuestos."
+        }
+      ]
+    },
+    {
+      "id": "32ed95e3-1988-47c0-8b69-55c36b12490c",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-11-11",
+      "text": "La prueba diagnóstica utilizada para el tamizado o screening de una enfermedad requiere la/s siguiente/s característica/s intrínseca/s. Marque lo correcto.",
+      "options": [
+        {
+          "id": "78cda412-8104-4de9-aff2-eabcfb72f51e",
+          "text": "Elevada sensibilidad y especificidad de la prueba.",
+          "correct": true
+        },
+        {
+          "id": "0b38bbf7-15ba-47f3-9bc6-23987cb31708",
+          "text": "Alto valor predictivo negativo."
+        },
+        {
+          "id": "b14b0b43-2282-404a-8c76-01c911c1adeb",
+          "text": "Baja prevalencia de la enfermedad."
+        },
+        {
+          "id": "f93f1571-fb90-45a3-9e69-f98de8ab67f0",
+          "text": "Bajo valor predictivo positivo y negativo."
+        }
+      ]
+    },
+    {
+      "id": "1fd846dc-9c3c-43d1-a18d-f44db36d22c7",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-11-11",
+      "text": "La razón de verosimilitud positiva (LR+) resume:",
+      "options": [
+        {
+          "id": "9f3046c0-7552-44a7-8b4c-32fdab24835b",
+          "text": "Cuánto más frecuente es obtener un resultado positivo entre los enfermos que entre los sanos.",
+          "correct": true
+        },
+        {
+          "id": "746bbb1e-0819-4697-83c7-a69103f8c553",
+          "text": "Cuánto más frecuente es obtener un resultado negativo entre los enfermos que entre los sano."
+        },
+        {
+          "id": "04e432a1-edf5-42ca-973a-0144d244321a",
+          "text": "Cuánto más frecuente es obtener un resultado negativo entre los sanos que entre los enfermos."
+        },
+        {
+          "id": "8640eebd-87bc-4120-8b38-80356636a751",
+          "text": "Cuánto más frecuente es obtener un resultado positivo entre los sanos que entre los enfermos."
+        }
+      ]
+    },
+    {
+      "id": "2ea588cb-9b22-4131-88d2-3904d24cd0bc",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-11-11",
+      "text": "Los investigadores aclaran: \"el estudio fue financiado por los autores\". Esto implica que:",
+      "options": [
+        {
+          "id": "629d8301-7670-451a-8182-b665214095d5",
+          "text": "Puede haber igualmente conflictos de interés entre investigadores y participantes.",
+          "correct": true
+        },
+        {
+          "id": "145d82ae-2f2d-4c48-8be3-62d324c3d2b1",
+          "text": "Se excluye la posibilidad de conflicto de intereses en la investigación planteada."
+        },
+        {
+          "id": "02cd6c31-ebd3-474b-8ee9-560a6364ffd7",
+          "text": "Solo aparecería un conflicto si fuera financiada por una institución o patrocinador."
+        }
+      ]
+    },
+    {
+      "id": "a18ee3da-c976-4dbc-8cbb-947232816519",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-11-11",
+      "text": "Marque la opción INCORRECTA sobre la pregunta de investigación:",
+      "options": [
+        {
+          "id": "45e5741b-ce70-4cff-8205-3add8de60f94",
+          "text": "Las ideas que anteceden a la pregunta de investigación, a través del esfuerzo intelectual, no pueden plasmarse en una pregunta de investigación.",
+          "correct": true
+        },
+        {
+          "id": "b7231909-16b7-4f07-bf61-0b9cc813e73b",
+          "text": "La pertinencia de la pregunta de investigación es un atributo relevante de la misma."
+        },
+        {
+          "id": "ae402ed5-5d07-40c0-a62f-d3990182e150",
+          "text": "La pregunta de investigación identifica el tema a tratar y permite pasar a la fase de delimitación del problema."
+        },
+        {
+          "id": "e16c1c6f-351a-4ad8-b6d2-89884cabb72c",
+          "text": "Para que exista una pregunta de investigación tiene que haber antes una idea."
+        }
+      ]
+    },
+    {
+      "id": "322599af-47ea-41ca-a0a0-826c6e9e7783",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-11-11",
+      "text": "Marque la opción INCORRECTA sobre las características de los objetivos de una investigación:",
+      "options": [
+        {
+          "id": "b0cca850-089e-4852-a6c7-301e51833bdd",
+          "text": "Se requiere de un gran número de objetivos en cada investigación a realizar.",
+          "correct": true
+        },
+        {
+          "id": "7dfbd5a0-fbd7-49b1-9e20-28538519fb0c",
+          "text": "Se expresan en verbos en infinitivo."
+        },
+        {
+          "id": "2cbf23f3-0cc7-4616-9927-2451737cb2cf",
+          "text": "Son claros y concretos."
+        },
+        {
+          "id": "be259643-97cf-4d6f-a076-98d35ab907bd",
+          "text": "Son generales y específicos."
+        }
+      ]
+    },
+    {
+      "id": "cdd97266-e42b-4d85-aa28-b9ca9dac0ed4",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-11-11",
+      "text": "Marque la opción correcta sobre factores de riesgo en el área de la salud.",
+      "options": [
+        {
+          "id": "a64f36db-6b62-4a91-9cca-4ae6cf040a67",
+          "text": "Un factor de riesgo es una característica o circunstancia que se asocia con un aumento de probabilidad de experimentar un daño.",
+          "correct": true
+        },
+        {
+          "id": "f9368ca4-f0ad-4777-92f4-26cb99c3d17f",
+          "text": "El estudio de los factores de riesgo se lleva acabo sobretodo en estudios descriptivos."
+        },
+        {
+          "id": "8ac90b3c-46e3-4ebd-84f3-514fcbfbbfb0",
+          "text": "En los estudios de casos y controles los individuos ingresan por el factor de exposición a estudiar."
+        },
+        {
+          "id": "62077201-a7d9-49a1-8d30-fb5ac7d4a6f8",
+          "text": "En los estudios de cohorte los individuos ingresan por su condición de enfermos."
+        }
+      ]
+    },
+    {
+      "id": "6e7dc63d-8f06-4f11-9dc2-5f807126c592",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-11-11",
+      "text": "Marque la opción correcta sobre la \"pregunta clínica\" que genera una investigación.",
+      "options": [
+        {
+          "id": "ad807e1b-3335-4a8b-b313-d985f0296cc4",
+          "text": "Guía la búsqueda bibliográfica.",
+          "correct": true
+        },
+        {
+          "id": "0f153496-cd2f-48cc-abe1-6cc5daa6a2df",
+          "text": "No resulta de importancia al momento de planificar una investigación."
+        },
+        {
+          "id": "58c96659-84fd-41cc-8e63-14b3221425d6",
+          "text": "Se utiliza para plantear una hipótesis."
+        },
+        {
+          "id": "bb50a888-7991-48ee-8de5-4e94ad8f422c",
+          "text": "Se utiliza para poner a prueba una hipótesis."
+        }
+      ]
+    },
+    {
+      "id": "d44d49a6-417d-4f9d-8097-bcd9c0e03e9f",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-11-11",
+      "text": "Marque lo correcto con respecto a las pruebas diagnósticas:",
+      "options": [
+        {
+          "id": "9a97a725-a767-4f3d-8592-2b12e08c998a",
+          "text": "La sensibilidad y la especificidad no varían con la prevalencia de la condición que afecta al paciente.",
+          "correct": true
+        },
+        {
+          "id": "3445fbf8-06bb-40a3-9e12-588729b4c4b9",
+          "text": "El valor predictivo, tanto negativo como positivo, es una característica intrínseca de la prueba diagnóstica."
+        },
+        {
+          "id": "4aa6416a-9ad7-4d6e-95b7-e69e8297e136",
+          "text": "La sensibilidad no es una característica intrínseca de la prueba diagnóstica."
+        },
+        {
+          "id": "66f4815d-c3ff-4313-a230-97929352da08",
+          "text": "Los valores predictivos nos hablan de la probabilidad que tiene un paciente de presentar la enfermedad de interés, no variando con la prevalencia de la condición que afecta al paciente."
+        }
+      ]
+    },
+    {
+      "id": "55985cba-97f8-44ca-97cb-436244fa632a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-11-11",
+      "text": "Según E. Emanuel, los requisitos éticos para la investigación clínica están dirigidos a:",
+      "options": [
+        {
+          "id": "a852fe6e-795c-4a0e-8c87-fcf2d8efc8b9",
+          "text": "Asegurar que los sujetos de investigación sean tratados con respeto mientras contribuyen al bien social.",
+          "correct": true
+        },
+        {
+          "id": "2cf06038-3c7b-46c3-8a20-d5240f8640c8",
+          "text": "Evaluar la ética de las acciones individuales de un investigador o de la investigación clínica en general."
+        },
+        {
+          "id": "985fc897-a7bc-47bf-b8d8-f16a7395678c",
+          "text": "Producir conocimiento generalizable con el fin de mejorar la salud y el bienestar y/o comprender la biología humana."
+        }
+      ]
+    },
+    {
+      "id": "6b1e98dc-465a-48ad-8916-84dccd45855c",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-11-11",
+      "text": "Señale lo correcto con respecto a lo que los estudios descriptivos permiten:",
+      "options": [
+        {
+          "id": "df57276b-a8ce-4c23-ac56-4d6131a2942d",
+          "text": "Caracterizar atributos.",
+          "correct": true
+        },
+        {
+          "id": "6642748e-341a-463e-a6f9-1dcad7b9cc17",
+          "text": "Aceptar hipótesis nula."
+        },
+        {
+          "id": "304263cd-1cea-4e6c-bc7a-450172a25cb3",
+          "text": "Comprobar hipótesis."
+        }
+      ]
+    },
+    {
+      "id": "ac713da2-af51-4202-b51c-9e979e949b3f",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-11-11",
+      "text": "Señale lo correcto con respecto a los estudios descriptivos:",
+      "options": [
+        {
+          "id": "9479c286-4c61-4b4c-bae3-ffef66b096b1",
+          "text": "La encuesta es un estudio de tipo descriptivo.",
+          "correct": true
+        },
+        {
+          "id": "1c056f00-a58b-470e-8667-668022a17be5",
+          "text": "El estudio de casos no es un estudio de tipo descriptivo."
+        },
+        {
+          "id": "ba08db39-eb99-4da0-be08-4989d3fbeb11",
+          "text": "Los estudios descriptivos no buscan especificar las características de personas."
+        },
+        {
+          "id": "6703976b-01ed-4e4a-af54-7a8c907c48f2",
+          "text": "Los estudios descriptivos se centran en medir fenómenos sin precisión alguna."
+        }
+      ]
+    },
+    {
+      "id": "a10a89fc-314c-4be4-9406-12ed9dc4c32e",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-11-11",
+      "text": "Señale lo correcto sobre la pregunta de investigación.",
+      "options": [
+        {
+          "id": "d0a4d64d-2fa7-45fc-98bf-2cbb667f392b",
+          "text": "Debe establecer los límites temporales y espaciales del estudio a realizar.",
+          "correct": true
+        },
+        {
+          "id": "11bab01c-f185-41c5-8c39-c576983afba9",
+          "text": "Las preguntas deben ser lo suficientemente generales para que no orienten al aspecto concreto de investigación."
+        },
+        {
+          "id": "696b59ff-2396-4741-9bba-35c1bc00fa83",
+          "text": "No debe ser precisa."
+        }
+      ]
+    },
+    {
+      "id": "ee9e1380-4739-414c-9399-ab82aae47169",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-11-11",
+      "text": "¿Cuál de las siguientes afirmaciones es correcta acerca de una variable con distribución normal?",
+      "options": [
+        {
+          "id": "8b1fd951-6be7-4818-9db7-e38c635db127",
+          "text": "Referida a una variable continua, con media μ y desvío σ.",
+          "correct": true
+        },
+        {
+          "id": "bd24ba27-c570-4fc5-87c3-5872deb76c76",
+          "text": "Asimétrica, con media 0 y desvío 1."
+        },
+        {
+          "id": "33c54fe6-8461-4731-8987-0c6f87dc2e55",
+          "text": "Referida a una variable discreta, con media np y desvío p(1-p)."
+        },
+        {
+          "id": "685133cf-3ca4-49f3-a0a9-6b0f7d834dc6",
+          "text": "Simétrica, con media 0 y desvío 1."
+        }
+      ]
+    },
+    {
+      "id": "d08220cb-8432-42c8-9858-e421ba09a681",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-11-11",
+      "text": "¿Cómo es la dispersión de la distribución de una variable en la población con respecto a distribución de las medias de las muestras de tamaño n extraídas de la misma población? (con n>1)",
+      "options": [
+        {
+          "id": "d7a94704-916e-4b40-a6bd-cf6c258ef144",
+          "text": "Mayor.",
+          "correct": true
+        },
+        {
+          "id": "fe45500c-24a6-4fc5-9598-690433ed35a8",
+          "text": "Igual."
+        },
+        {
+          "id": "fb621250-81a3-4a24-a581-2e8cfd2e7569",
+          "text": "Menor."
+        },
+        {
+          "id": "01be92a3-2772-4f2a-bc7d-372bf8952230",
+          "text": "No se puede predecir."
+        }
+      ]
+    },
+    {
+      "id": "1877d501-a8d2-4416-ba0c-4b12eb7ad57e",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-11-11",
+      "text": "¿Qué distribución es la más adecuada para describir una variable aleatoria en la que interesa la cantidad de veces que se repite un evento poco frecuente (probabilidad menor que 0.1) en un intervalo de tiempo, longitud o espacio?",
+      "options": [
+        {
+          "id": "849e0e0c-bea8-471e-8ceb-dbbacecef791",
+          "text": "De Poisson.",
+          "correct": true
+        },
+        {
+          "id": "0e128d00-420e-42fb-89f7-922418078cf3",
+          "text": "Binomial."
+        },
+        {
+          "id": "ca8bf37d-d244-4399-a776-f4144cbba333",
+          "text": "Normal."
+        },
+        {
+          "id": "2011f77c-4f4c-4af4-bc64-383cd57bf3d2",
+          "text": "Uniforme."
+        }
+      ]
+    }
+  ],
+  "evaluations": [
+    {
+      "key": "parcial_1",
+      "name": "1° parcial"
+    }
+  ]
+}
