@@ -8,6 +8,563 @@
   "year": 3,
   "questions": [
     {
+      "id": "1201ea59-1019-4652-bc68-ade31eada0f3",
+      "evaluation": "parcial_1",
+      "source": "self_assessment",
+      "text": "Con respecto a la frecuencia absoluta, a medida que aumenta el número de elementos en estudio, su valor:",
+      "options": [
+        {
+          "id": "e5e4b1c6-fee1-4716-a906-911366f7af74",
+          "text": "Aumenta.",
+          "correct": true
+        },
+        {
+          "id": "b8838acf-107a-49ed-ab0f-2f90560af873",
+          "text": "Disminuye."
+        },
+        {
+          "id": "900c5d4b-1738-42cf-a2a5-2220bcc66aa6",
+          "text": "No varía."
+        },
+        {
+          "id": "752bcfde-f728-41aa-8341-e622b96e973c",
+          "text": "Tiende a un valor poblacional."
+        }
+      ]
+    },
+    {
+      "id": "71a63097-fc96-4b91-a5d2-9104c5667bd4",
+      "evaluation": "parcial_1",
+      "source": "self_assessment",
+      "text": "Con respecto a la frecuencia relativa, a medida que aumenta el número de elementos en estudio, su valor:",
+      "options": [
+        {
+          "id": "f0187cb0-0c42-4451-a572-a2fbeb1779ee",
+          "text": "Tiende a un valor poblacional.",
+          "correct": true
+        },
+        {
+          "id": "2ed48d33-6999-44da-b5e0-92ee5476932a",
+          "text": "Aumenta."
+        },
+        {
+          "id": "3e783bc2-79b8-498a-a72e-fc73a13699fc",
+          "text": "Disminuye."
+        },
+        {
+          "id": "b9318a81-07ea-4060-9dc9-a343dad3acb8",
+          "text": "No varía."
+        }
+      ]
+    },
+    {
+      "id": "c4c3d45e-970f-40f0-868f-ffd2b35cb3ca",
+      "evaluation": "parcial_1",
+      "source": "self_assessment",
+      "text": "Cuál de los siguientes es uno de los axiomas de probabilidad?",
+      "options": [
+        {
+          "id": "8bea6c01-b406-42a6-a205-cbab1f11c88f",
+          "text": "Prob(E) = 1 cuando E es el suceso seguro.",
+          "correct": true
+        },
+        {
+          "id": "10386600-da6b-4267-943a-eff1e0a753cc",
+          "text": "Prob(A ∪ B) = Prob(A) - Prob(B) - Prob(A ∩ B) para todos A y B."
+        },
+        {
+          "id": "d8701222-b531-43b5-8d10-9124376b944e",
+          "text": "Prob(A) < 1 para todo A."
+        },
+        {
+          "id": "9b307e82-1ad6-4021-83e2-6117f643532a",
+          "text": "Prob(A) > 0 para todo A."
+        }
+      ]
+    },
+    {
+      "id": "d9581079-04da-44c3-bcd9-02ae1820f990",
+      "evaluation": "parcial_1",
+      "source": "self_assessment",
+      "text": "El 12% de los individuos de una población padece osteoporosis. El 25% de ellos lo sabe. ¿Qué porcentaje de individuos tiene osteoporosis y lo desconoce?",
+      "options": [
+        {
+          "id": "e275f97f-74ac-4c3d-8256-6dc585f43512",
+          "text": "9%.",
+          "correct": true
+        },
+        {
+          "id": "6a40fba1-6b7b-4045-985e-966e919affb4",
+          "text": "12%."
+        },
+        {
+          "id": "7a71a608-4ed3-4214-a432-b6d4f131fdff",
+          "text": "25%."
+        },
+        {
+          "id": "ffc24736-cb3b-4383-b292-909beea89fac",
+          "text": "3%."
+        },
+        {
+          "id": "63d0fcf2-4040-4d34-968c-2ad8561af33c",
+          "text": "6%."
+        }
+      ]
+    },
+    {
+      "id": "e397022d-1f99-4a5a-a0bb-49d8073b02d4",
+      "evaluation": "parcial_1",
+      "source": "self_assessment",
+      "text": "El porcentaje de individuos con bronquitis entre los fumadores se puede interpretar como una probabilidad:",
+      "options": [
+        {
+          "id": "8dc3a01d-03b7-475d-94a9-8642de342192",
+          "text": "Condicionada.",
+          "correct": true
+        },
+        {
+          "id": "757141b6-e68e-468c-85a1-e395d8fed08b",
+          "text": "A posteriori."
+        },
+        {
+          "id": "923a96b5-29b1-4c17-9526-69d3b705fa81",
+          "text": "De un suceso complementario."
+        },
+        {
+          "id": "110105f5-8d9d-4ba8-8eb8-e17ed712565e",
+          "text": "De un suceso intersección."
+        },
+        {
+          "id": "0f9c542d-ea94-4a30-81e0-57ccd767dbf5",
+          "text": "De un suceso unión."
+        }
+      ]
+    },
+    {
+      "id": "4fece716-3a9d-40eb-809c-c0e2dc7bd5d7",
+      "evaluation": "parcial_1",
+      "source": "self_assessment",
+      "text": "El porcentaje de individuos fumadores o con bronquitis se puede interpretar como una probabilidad:",
+      "options": [
+        {
+          "id": "921ddbb1-21cb-4c8d-9cf0-8094063c410d",
+          "text": "De la unión de sucesos.",
+          "correct": true
+        },
+        {
+          "id": "ffaadcbd-ce80-474f-ada9-76d0c37115f1",
+          "text": "A posteriori."
+        },
+        {
+          "id": "62421954-ea80-4cd4-ae23-c7400b9a77bd",
+          "text": "Condicionada."
+        },
+        {
+          "id": "d76f0e8c-5fca-40bb-9035-f13ddeaf6694",
+          "text": "De un suceso complementario."
+        },
+        {
+          "id": "bdcc3d3f-b80c-46d0-a88e-227cdf29725b",
+          "text": "De un suceso intersección."
+        }
+      ]
+    },
+    {
+      "id": "0e77e00f-ca85-4f34-a736-587bbd13c83a",
+      "evaluation": "parcial_1",
+      "source": "self_assessment",
+      "text": "En una población, hay tantos hombres como mujeres, el 20% son varones y fumadores y el 20% de las mujeres fuman. Entonces:",
+      "options": [
+        {
+          "id": "9e44fcdb-2871-4a88-a9ad-c36b8622d225",
+          "text": "Por cada mujer fumadora hay dos hombres fumadores.",
+          "correct": true
+        },
+        {
+          "id": "c7305d42-4076-408d-a376-f1b562ff92f6",
+          "text": "Fuman tantos hombres como mujeres."
+        },
+        {
+          "id": "360cb2f2-72b4-4e8c-a348-2b32491e32e9",
+          "text": "Hay un 40% de fumadores en la población."
+        },
+        {
+          "id": "094e11d8-e501-48b0-8a69-e0fdd3693c4e",
+          "text": "Por cada hombre fumador hay dos mujeres fumadoras."
+        }
+      ]
+    },
+    {
+      "id": "a0f44ae6-2eb0-45af-859d-0796a2ee4135",
+      "evaluation": "parcial_1",
+      "source": "self_assessment",
+      "text": "La calciuria en la población tiene distribución normal con media 200 mg/dL y desvío 50 mg/dL. La probabilidad de que una persona tomada al azar tenga calciuria mayor de 175 mg/dL es:",
+      "options": [
+        {
+          "id": "6b801674-ca72-4658-9409-29e4d20d1712",
+          "text": "0.6915.",
+          "correct": true
+        },
+        {
+          "id": "de0a2e46-d664-46fb-80ed-aeed037f00d8",
+          "text": "0.1915."
+        },
+        {
+          "id": "ba1226c9-3b54-4d3e-96fd-16bbd0bb92df",
+          "text": "0.3085."
+        },
+        {
+          "id": "cdc04075-ef8b-4296-a8e2-b3a683ec4489",
+          "text": "0.5000."
+        }
+      ]
+    },
+    {
+      "id": "a9aa6abd-225f-4bff-88a7-8c478597c229",
+      "evaluation": "parcial_1",
+      "source": "self_assessment",
+      "text": "La esperanza de vida al nacer en el Uruguay es de 76.14 años. para el período 2005-2010. La variable \"esperanza de vida al nacer\" es:",
+      "options": [
+        {
+          "id": "a7f94506-3db9-432f-8142-79b8c5fa285e",
+          "text": "Cuantitativa continua.",
+          "correct": true
+        },
+        {
+          "id": "36b30fb8-c477-4b5f-97c1-19f4ab701971",
+          "text": "Cualitativa continua."
+        },
+        {
+          "id": "ea95a993-44ad-436d-a81c-3d11f7c29bfc",
+          "text": "Cualitativa."
+        },
+        {
+          "id": "b2871a1a-b015-46b0-999a-a769902b86cc",
+          "text": "Cuantitativa discreta."
+        }
+      ]
+    },
+    {
+      "id": "0f31b6b8-d78c-432b-ad11-aea29f8d8a70",
+      "evaluation": "parcial_1",
+      "source": "self_assessment",
+      "text": "La osteoporosis afecta 4 veces más a mujeres que a hombres. El 8% de las mujeres padece osteoporosis en una población donde hay tantos hombres como mujeres. ¿Cuál es la prevalencia de la osteoporosis en la población?",
+      "options": [
+        {
+          "id": "599ef01c-729a-46d0-a05a-4605c029929e",
+          "text": "5%.",
+          "correct": true
+        },
+        {
+          "id": "1cc84cc4-34f1-42ff-808b-25e67513cffd",
+          "text": "10%."
+        },
+        {
+          "id": "bc4ef42a-0146-4342-af86-b5120d64bcb2",
+          "text": "2%."
+        },
+        {
+          "id": "0fcea31a-ca71-45ba-9735-c9cad116f3e7",
+          "text": "8%."
+        }
+      ]
+    },
+    {
+      "id": "46003033-4c9c-44c7-8b33-706518738d0c",
+      "evaluation": "parcial_1",
+      "source": "self_assessment",
+      "text": "La variable \"número de habitaciones destinadas a dormir\" es:",
+      "options": [
+        {
+          "id": "84b1f502-0620-4124-b069-2d9429a97f6f",
+          "text": "Cuantitativa discreta.",
+          "correct": true
+        },
+        {
+          "id": "95e8a439-e66b-48c7-9712-203c17be71bd",
+          "text": "Cualitativa continua."
+        },
+        {
+          "id": "f9f7082c-2325-4925-9b7d-add17b026318",
+          "text": "Cualitativa."
+        },
+        {
+          "id": "e41ca840-f5b1-4561-95e9-9da04056f410",
+          "text": "Cuantitativa continua."
+        },
+        {
+          "id": "14201350-cd51-46a9-b137-25091361eb34",
+          "text": "Ordinal."
+        }
+      ]
+    },
+    {
+      "id": "467c6716-125b-4d44-b04d-c8e48325a83d",
+      "evaluation": "parcial_1",
+      "source": "self_assessment",
+      "text": "La variable \"número de habitaciones destinadas a dormir\" se mide en:",
+      "options": [
+        {
+          "id": "e738fe44-acd7-49eb-a3a8-cc727b2bda7e",
+          "text": "Escala de razón.",
+          "correct": true
+        },
+        {
+          "id": "5688cba6-f944-4743-8efd-8d873b233f2d",
+          "text": "Escala circular."
+        },
+        {
+          "id": "b8b7955c-e4c9-467b-8a42-4d0f28a71efe",
+          "text": "Escala de intervalo."
+        },
+        {
+          "id": "b80b71c2-8cfc-45cd-95dd-b2621e7836e9",
+          "text": "Escala nominal."
+        },
+        {
+          "id": "8fced005-febc-4145-9c2a-8ea5a9292075",
+          "text": "Escala ordinal."
+        }
+      ]
+    },
+    {
+      "id": "0c732729-4b12-48d2-ab24-483c432cb4e3",
+      "evaluation": "parcial_1",
+      "source": "self_assessment",
+      "text": "Si dos sucesos son incompatibles, entonces:",
+      "options": [
+        {
+          "id": "d80dc8f0-8d3d-41a9-95ca-fcc02aa91856",
+          "text": "No pueden ocurrir simultáneamente.",
+          "correct": true
+        },
+        {
+          "id": "a071ec29-040a-4629-9b63-a8b13ea3cde0",
+          "text": "Dándose uno de ellos, puede darse el otro."
+        },
+        {
+          "id": "a8f4557d-80aa-4803-8c05-87bdc3284ee7",
+          "text": "Siempre que sucede el uno, sucede el otro."
+        },
+        {
+          "id": "fb55108d-fe6b-4c43-9134-3bf6606d2210",
+          "text": "Siempre que uno de ellos no se verifica, se verifica el otro."
+        }
+      ]
+    },
+    {
+      "id": "4e6152b9-6e78-4c4e-af21-93e3dcee581f",
+      "evaluation": "parcial_1",
+      "source": "self_assessment",
+      "text": "Si dos sucesos son independientes:",
+      "options": [
+        {
+          "id": "e7ea7e52-b9d9-4bf5-9924-69526453f95e",
+          "text": "La ocurrencia de uno no influye sobre la probabilidad de que pase el otro.",
+          "correct": true
+        },
+        {
+          "id": "0defec02-d2b1-48e9-81bf-bcf689934fa6",
+          "text": "No pueden ocurrir a la vez."
+        },
+        {
+          "id": "964d7f32-41e9-4ae4-bb83-80475d46e18f",
+          "text": "Siempe ocurre uno u otro, pero no ambos a la vez."
+        },
+        {
+          "id": "422ffe9b-024b-432e-8fe1-96a6e75c5399",
+          "text": "Siempre ocurre al menos uno de los dos."
+        }
+      ]
+    },
+    {
+      "id": "c0f90bea-e4bd-4240-8dc2-1ed88f8e0fc2",
+      "evaluation": "parcial_1",
+      "source": "self_assessment",
+      "text": "Si la probabilidad de tener la enfermedad A es del 5%, la de tener la enfermedad B es del 10% y la de tener al menos una de las dos es del 13%, ¿cuál es la probabilidad de tener las dos?",
+      "options": [
+        {
+          "id": "14c9107c-b9af-4a8a-a4f9-038cba573ae1",
+          "text": "2%.",
+          "correct": true
+        },
+        {
+          "id": "17a7009d-bf36-4a57-a583-8c515d40cac1",
+          "text": "0%."
+        },
+        {
+          "id": "563e0edf-9b57-436c-8b7e-a22f559bab11",
+          "text": "15%."
+        },
+        {
+          "id": "4e7234a3-4a3b-4bd7-b423-253b4d3851bc",
+          "text": "5%."
+        },
+        {
+          "id": "98241cdd-3860-43d9-8ebd-a397d377f81a",
+          "text": "8%."
+        }
+      ]
+    },
+    {
+      "id": "2ceb3815-215e-4e30-b994-59ff4547bbdb",
+      "evaluation": "parcial_1",
+      "source": "self_assessment",
+      "text": "Un laboratorio afirma que una droga causa de efectos secundarios en una proporción de 30 de cada 100 pacientes. Para contrastar esta afirmación, otro laboratorio elige al azar a 10 pacientes a los que aplica la droga. ¿Cuál es la probabilidad de que dos o más pacientes tengan efectos secundarios?",
+      "options": [
+        {
+          "id": "442ddf9d-2497-48ba-84dd-0d20e2ac1d22",
+          "text": "0.8507.",
+          "correct": true
+        },
+        {
+          "id": "4fc833de-4496-439d-90eb-94e2a0862e18",
+          "text": "0.3828."
+        },
+        {
+          "id": "24418656-3cdb-43c1-b75e-fcf496ae9a45",
+          "text": "0.6172."
+        },
+        {
+          "id": "f947f327-c859-4df1-b8bf-643abad9a4a7",
+          "text": "0.6496."
+        }
+      ]
+    },
+    {
+      "id": "c09f0851-1b45-4f53-88f5-f5c7d9780930",
+      "evaluation": "parcial_1",
+      "source": "self_assessment",
+      "text": "Un laboratorio afirma que una droga causa de efectos secundarios en una proporción de 30 de cada 100 pacientes. Para contrastar esta afirmación, otro laboratorio elige al azar a 10 pacientes a los que aplica la droga. ¿Cuál es la probabilidad de que ninguno sufra efectos secundarios?",
+      "options": [
+        {
+          "id": "04583b3a-9e93-47fc-bd9f-e1f1a6e5fec1",
+          "text": "0.0282.",
+          "correct": true
+        },
+        {
+          "id": "f400ba38-0fa3-4a1f-aa15-a166c71343b7",
+          "text": "0.000."
+        },
+        {
+          "id": "58ecf2d1-2d28-4390-bb21-d296307ab0d1",
+          "text": "0.3000."
+        },
+        {
+          "id": "bfe24ae4-3938-4051-bff8-bd0e5c6f270e",
+          "text": "0.3333."
+        }
+      ]
+    },
+    {
+      "id": "cd1a6f78-a547-42e8-9d6d-19dd685b6af2",
+      "evaluation": "parcial_1",
+      "source": "self_assessment",
+      "text": "Un laboratorio afirma que una droga causa de efectos secundarios en una proporción de 30 de cada 100 pacientes. Para contrastar esta afirmación, otro laboratorio elige al azar a 10 pacientes a los que aplica la droga. ¿Cuál es la probabilidad de que únicamente una persona tenga efectos secundarios?",
+      "options": [
+        {
+          "id": "e9ede1ed-e70d-4ffc-a892-b9a133e0b424",
+          "text": "0.1211.",
+          "correct": true
+        },
+        {
+          "id": "5892bd9d-6cb5-4c86-a414-107cf7b8a4a9",
+          "text": "0.0282."
+        },
+        {
+          "id": "85d14563-837f-4f78-ac73-5eff271d9432",
+          "text": "0.1000."
+        },
+        {
+          "id": "839a2cab-5113-4973-8c37-85bfaf40ac6a",
+          "text": "0.1493."
+        }
+      ]
+    },
+    {
+      "id": "95f63b31-206d-4e40-8935-186aa6d2ae28",
+      "evaluation": "parcial_1",
+      "source": "self_assessment",
+      "text": "Un laboratorio afirma que una droga causa de efectos secundarios en una proporción de 30 de cada 100 pacientes. Para contrastar esta afirmación, otro laboratorio elige al azar a 10 pacientes a los que aplica la droga.¿Cuál es la probabilidad de que a lo sumo dos pacientes tengan efectos secundarios?",
+      "options": [
+        {
+          "id": "19f1d3ed-2948-4b46-930f-adb736783b27",
+          "text": "0.3828.",
+          "correct": true
+        },
+        {
+          "id": "b43eeeb6-1083-492d-8b5a-6c7ea22805e8",
+          "text": "0.1493."
+        },
+        {
+          "id": "aec7e76a-8ab1-4fb3-9ded-2b346f435fb7",
+          "text": "0.2338."
+        },
+        {
+          "id": "615bf1e9-c54d-40ce-a5bd-7f8daf238687",
+          "text": "0.8507."
+        }
+      ]
+    },
+    {
+      "id": "895318b5-ba03-49eb-8523-42f7af56631f",
+      "evaluation": "parcial_1",
+      "source": "self_assessment",
+      "text": "¿Cuál de estas variables se mide en escala ordinal?",
+      "options": [
+        {
+          "id": "600e2d9e-39c5-4323-aa82-a94c53423bc7",
+          "text": "Etapa de desarrollo de un ser vivo.",
+          "correct": true
+        },
+        {
+          "id": "885c577a-6c27-4c81-ae7b-699e8e752117",
+          "text": "Causa de muerte."
+        },
+        {
+          "id": "e6b670f2-d5c6-424a-bd07-0df4a1defd01",
+          "text": "Glicemia."
+        },
+        {
+          "id": "eeab0714-b784-4073-abbf-0441ccf6ed7e",
+          "text": "Profesión."
+        },
+        {
+          "id": "bdb42e17-126a-48f7-8f4e-c1fc6537aadf",
+          "text": "Sexo."
+        }
+      ]
+    },
+    {
+      "id": "eba1bb74-d7f5-4ed0-9702-f0b0be741234",
+      "evaluation": "parcial_1",
+      "source": "self_assessment",
+      "text": "¿Cuál de las siguientes variables NO es cuantitativa?",
+      "options": [
+        {
+          "id": "70e5a911-7be4-483f-be94-c6a238a24446",
+          "text": "Número de Cédula de Identidad.",
+          "correct": true
+        },
+        {
+          "id": "cc616e71-2bdf-48f1-8ceb-e0c3449fb97e",
+          "text": "Cantidad de litros de agua consumido por una persona en un día."
+        },
+        {
+          "id": "c578e808-dcb0-4446-942a-002ab6ae8665",
+          "text": "Glicemia."
+        },
+        {
+          "id": "9ecb67cb-f401-453c-b613-536d237a0ce4",
+          "text": "Peso corporal."
+        },
+        {
+          "id": "2dee5e3d-80ce-4a9a-8e7e-fad73ca5bc59",
+          "text": "Temperatura axilar de una persona."
+        }
+      ]
+    },
+    {
       "id": "f84721f4-934f-4280-a06b-ee179b55d4aa",
       "evaluation": "parcial_1",
       "source": "partial",
