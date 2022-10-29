@@ -65,7 +65,7 @@ impl CourseData {
         let mut data = Self::load(path.clone(), dir_entry)?;
 
         data.check()?;
-        data.deduplicate();
+        data.clean();
         data.sort();
 
         data.set_data();
@@ -116,11 +116,11 @@ impl CourseData {
         }
     }
 
-    fn deduplicate(&mut self) {
+    fn clean(&mut self) {
         self.questions.dedup_by(|a, b| a.eq_data(b));
 
         for question in self.questions.iter_mut() {
-            question.deduplicate_options();
+            question.clean();
         }
     }
 
@@ -264,8 +264,18 @@ impl QuestionData {
         })
     }
 
+    fn clean(&mut self) {
+        self.remove_empty_options();
+        self.deduplicate_options();
+    }
+
     fn deduplicate_options(&mut self) {
         self.question_options.dedup_by(|a, b| a.eq_data(b));
+    }
+
+    fn remove_empty_options(&mut self) {
+        self.question_options
+            .retain(|question_option| !question_option.text.is_empty());
     }
 
     fn eq_data(&self, other: &Self) -> bool {
