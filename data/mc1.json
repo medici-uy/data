@@ -1444,6 +1444,690 @@
           "text": "Uniforme."
         }
       ]
+    },
+    {
+      "id": "ef6eeabc-19a3-4faf-92c2-97073088a83b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-11-06",
+      "text": "A medida que aumenta la especificidad de una prueba diagnóstica, ¿qué ocurre con la tasa de falsos positivos (FP)?",
+      "options": [
+        {
+          "id": "14462066-e6ef-4150-a210-22eaa3705c58",
+          "text": "Disminuye.",
+          "correct": true
+        },
+        {
+          "id": "1f68dcb6-b1d2-45e2-826e-5f01e40d2e4c",
+          "text": "Aumenta."
+        },
+        {
+          "id": "9c1400ce-658b-4c6e-8d79-3e37fe6cbe68",
+          "text": "Depende de la sensibilidad de la prueba diagnóstica."
+        }
+      ]
+    },
+    {
+      "id": "0434c702-5ce4-4876-8c15-cf35d9d97ad8",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-11-06",
+      "text": "A medida que aumenta la prevalencia de una enfermedad, ¿qué ocurre con el valor predictivo positivo (PPV) de una prueba diagnóstica?",
+      "options": [
+        {
+          "id": "2d50f5eb-fbf7-4bf3-99a8-0219287d3c2d",
+          "text": "Aumenta.",
+          "correct": true
+        },
+        {
+          "id": "4daec69b-3998-41a4-aa08-c3f0acff8104",
+          "text": "Disminuye."
+        },
+        {
+          "id": "0cddcff6-3610-4544-b641-00fc089ee5fc",
+          "text": "Permanece constante."
+        }
+      ]
+    },
+    {
+      "id": "425000c3-4225-4a88-b666-5b0e8fe04dd5",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-11-06",
+      "text": "Considerando la pirámide de evidencia científica, los estudios descriptivos:",
+      "options": [
+        {
+          "id": "0a6c01d6-755a-422f-aae4-3daae9d861ac",
+          "text": "Tienen menor nivel de evidencia científica que los estudios experimentales.",
+          "correct": true
+        },
+        {
+          "id": "0e902191-7094-45ed-bc2a-7406359a386e",
+          "text": "Son los estudios que presentan mayor nivel de evidencia científica."
+        },
+        {
+          "id": "0fcc4a00-5f9f-48fe-8028-1964853beb0a",
+          "text": "Tienen mayor nivel de evidencia que los estudios analíticos."
+        }
+      ]
+    },
+    {
+      "id": "6e710384-73ad-484f-929e-011524d182a8",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-11-06",
+      "text": "El diseño de estudio epidemiológico más adecuado para examinar la asociación entre un factor de riesgo y una enfermedad muy poco frecuente es:",
+      "options": [
+        {
+          "id": "275d02cb-288b-4b6b-bd0c-17d0e8337db2",
+          "text": "Un estudio caso-control.",
+          "correct": true
+        },
+        {
+          "id": "0adbc627-a9f1-46c8-bfd3-7255a5f76d9c",
+          "text": "Un estudio de cohortes."
+        },
+        {
+          "id": "1e117743-69ba-4ae6-a739-d76db954573b",
+          "text": "Un estudio transversal."
+        }
+      ]
+    },
+    {
+      "id": "b25ffd3e-b4d6-4938-9f42-af8caa46d7b7",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-11-06",
+      "text": "El error presente en un estudio caso-control debido a diferencias en el recuerdo de hechos o experiencias previas entre casos y controles se denomina:",
+      "options": [
+        {
+          "id": "9be1ecbd-34b6-4878-b774-2f5881ff506c",
+          "text": "Sesgo de memoria.",
+          "correct": true
+        },
+        {
+          "id": "1cbdee15-1add-47ec-88e2-1cd0dc585290",
+          "text": "Confusión."
+        },
+        {
+          "id": "7da3b2de-d646-4b51-b67b-6999ac3444c2",
+          "text": "Sesgo de selección."
+        }
+      ]
+    },
+    {
+      "id": "39020119-3f02-425d-bb60-b2a903e19e44",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-11-06",
+      "text": "El estudio descrito en el artículo utilizó la base de datos de una serie de casos de EQ de los Andes centrales del Perú. En el artículo, sin embargo, no se aclara si los individuos incluidos en esa base de datos decidieron racional y libremente, en concordancia con sus valores, intereses y preferencias, sobre el uso de sus datos. De acuerdo con los requisitos éticos propuestos por Ezequiel Emanuel, ¿qué requisito se podría haber omitido?",
+      "options": [
+        {
+          "id": "d1dea4eb-1820-4e27-8d96-a94fc917115b",
+          "text": "Consentimiento informado.",
+          "correct": true
+        },
+        {
+          "id": "e772c688-b35b-410a-aeca-3123acab3f6a",
+          "text": "Evaluación independiente."
+        },
+        {
+          "id": "e6788d3c-42ea-4024-8d50-12d817d6ea5a",
+          "text": "Selección equitativa del sujeto."
+        }
+      ]
+    },
+    {
+      "id": "913d047c-eba2-4243-bf73-288fb7b14ae3",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-11-06",
+      "text": "En \"Comités de evaluación ética y científica de la investigación en seres humanos en los países latinoamericanos y del Caribe\" (Bota, A., et al.) se destaca la función de los comités de evaluación que supone observar el curso de una investigación desde su inicio hasta después del término. A esa función la denominan como:",
+      "options": [
+        {
+          "id": "c37ab13e-8699-40b2-abc5-d617c7daf714",
+          "text": "Seguimiento.",
+          "correct": true
+        },
+        {
+          "id": "40adb6bc-7e2f-4ef6-8c70-9d2633ef4d42",
+          "text": "Auditoría externa."
+        },
+        {
+          "id": "fa6d8f65-067c-42f1-aa86-0d34d496e4f8",
+          "text": "Fiscalización."
+        }
+      ]
+    },
+    {
+      "id": "3396bd08-b1f9-42d7-8033-02f2b4d5b2b2",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-11-06",
+      "text": "En casos, como en el del estudio del artículo, en el que se utilizan fuentes de datos ya existentes de las personas que participan en la investigación realizada por la misma institución, de acuerdo a la normativa vigente en nuestro país, se debe:",
+      "options": [
+        {
+          "id": "d128b327-334f-4125-897a-f597c8e4463a",
+          "text": "Solicitar el consentimiento informado a cada uno de los participantes para el actual estudio de investigación.",
+          "correct": true
+        },
+        {
+          "id": "046edcf5-3a94-4f9e-97e3-fe37026e9225",
+          "text": "Solicitar el consentimiento informado a la jerarquía técnica de la institución que custodia la fuente de datos."
+        },
+        {
+          "id": "b1e5ef99-bd47-4f02-bd8d-2fe109df1ba9",
+          "text": "Solicitar el consentimiento informado al equipo investigador poseedor de los derechos de autor de la investigación original."
+        }
+      ]
+    },
+    {
+      "id": "fb2cca7d-0037-4b29-b431-7c1df876da09",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-11-06",
+      "text": "En los estudios epidemiológicos que se realizan con fuentes secundarias, de acuerdo a las normativas éticas internacionales (2013), cuando resulta imposible recabar el consentimiento informado por situaciones excepcionales podría realizarse la investigación:",
+      "options": [
+        {
+          "id": "88c0ad4b-7727-49bc-a624-57ab0b7feb0c",
+          "text": "Una vez que fue revisada y aprobada por un Comité de Ética de la Investigación, conforme a las normativas éticas internacionales y nacionales vigentes.",
+          "correct": true
+        },
+        {
+          "id": "a06866f6-4707-4e64-ac09-97f348969d78",
+          "text": "Una vez que fue revisada y aprobada en forma unánime por un Comité Científico de Expertos en la materia de investigación."
+        },
+        {
+          "id": "fa8d4fd8-ad69-4f0e-8ff2-98c7014915cb",
+          "text": "Una vez que fue revisada y aprobada por la División de Estudios Epidemiológicos de la Autoridad Sanitaria del país donde se lleva a cabo la investigación."
+        }
+      ]
+    },
+    {
+      "id": "cf782ee1-1d70-415f-b93a-d99a78bbde41",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-11-06",
+      "text": "En relación a la investigación epidemiológica, indique qué normativa a nivel internacional incorpora consideraciones éticas para este tipo de estudios:",
+      "options": [
+        {
+          "id": "115e5749-5e2b-48cb-9378-95a87f20a61f",
+          "text": "Pautas CIOMS 1991 del Consejo de Organizaciones Internacionales de las Ciencias Médicas.",
+          "correct": true
+        },
+        {
+          "id": "b5a1e268-af4f-49b3-9431-39b355073fba",
+          "text": "Código de Nuremberg 1947."
+        },
+        {
+          "id": "125bc6bc-8490-40d9-beb1-32c094366e96",
+          "text": "Declaración de Helsinki 1964 de la Asociación Médica Mundial."
+        }
+      ]
+    },
+    {
+      "id": "bda983fc-c484-4116-9540-85ba1709e600",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-11-06",
+      "text": "En un determinado servicio de urgencias se reciben en un día normal un promedio de 4 llamados por hora. Durante los fines de semana la tasa de llamados se duplica, en ese caso, ¿cuál sería la probabilidad de recibir 10 o menos llamados en una hora y media?",
+      "options": [
+        {
+          "id": "14220129-a354-429f-bba4-d239f9ade81f",
+          "text": "0.3472.",
+          "correct": true
+        },
+        {
+          "id": "a0cb90e7-58c3-4b74-a21e-746fbc802958",
+          "text": "0.2424."
+        },
+        {
+          "id": "5d83fdb3-130c-4ce4-a296-7c79fb29e227",
+          "text": "0.6528."
+        },
+        {
+          "id": "451edc18-2d58-48fe-a676-28212e63769a",
+          "text": "0.7576."
+        }
+      ]
+    },
+    {
+      "id": "7925af95-38f6-4a00-aa7f-22ae864cfcd6",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-11-06",
+      "text": "En un determinado servicio de urgencias se reciben en un día normal un promedio de 4 llamados por hora. Si se estudia un turno de 1.5 horas de este servicio cada fin de semana, durante 10 fines de semana, ¿cuál es la probabilidad de que en dos de los 10 turnos estudiados se reciban 10 o menos llamados?",
+      "options": [
+        {
+          "id": "b0ddf8c0-6e3c-4129-a8c9-3280948f4769",
+          "text": "0.1789.",
+          "correct": true
+        },
+        {
+          "id": "c4ca0431-3b43-46b9-94a7-637342be4928",
+          "text": "0.0040."
+        },
+        {
+          "id": "6c6eefa6-f31f-44fb-a39a-b2d814baf065",
+          "text": "0.2869."
+        },
+        {
+          "id": "907d2071-7cb5-4e71-8c41-48d3889371cb",
+          "text": "0.6944."
+        }
+      ]
+    },
+    {
+      "id": "a53e280b-a615-4ee7-bb3f-d1c089d66b4d",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-11-06",
+      "text": "En un determinado servicio de urgencias se reciben en un día normal un promedio de 4 llamados por hora. ¿Cuál es la probabilidad de recibir más de 8 llamados en una hora?",
+      "options": [
+        {
+          "id": "da5b39e3-34f9-40fc-985b-fb982c5a30d4",
+          "text": "0.0214.",
+          "correct": true
+        },
+        {
+          "id": "e9d4a7d2-3bd4-4fc1-8e87-a37dfd1e7375",
+          "text": "0.0297."
+        },
+        {
+          "id": "f3ee5051-e73d-49b6-b189-7d07d2f56245",
+          "text": "0.9489."
+        },
+        {
+          "id": "3a5a360b-9332-4c5a-a23e-31875a1850a1",
+          "text": "0.9786."
+        }
+      ]
+    },
+    {
+      "id": "f553c397-c90e-4411-b3a5-618b8efce07d",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-11-06",
+      "text": "La aprobación del estudio por parte del Comité Institucional de Ética en Investigación de la Universidad Peruana Cayetano Heredia es un requisito muy importante para la evaluación ética. Una de las finalidades de este requisito es que la investigación sea revisada por peritos apropiados que no estén afiliados al estudio y que tengan autoridad para aprobar, enmendar o, en casos extremos, cancelar la investigación. Dicho requisito ético es propuesto por Ezequiel Emanuel como:",
+      "options": [
+        {
+          "id": "dd2b41ea-4d86-48eb-a160-5633455139c3",
+          "text": "Evaluación independiente.",
+          "correct": true
+        },
+        {
+          "id": "71d396d8-7409-464e-9d64-8a62125150f3",
+          "text": "Consentimiento informado."
+        },
+        {
+          "id": "73f5953c-5743-4c8c-9ee1-3e1108db3183",
+          "text": "Selección equitativa del sujeto."
+        }
+      ]
+    },
+    {
+      "id": "1846e1e7-05b9-4223-b3e5-167ad5594eac",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-11-06",
+      "text": "La tabla siguiente muestra los pesos de niñas de 10 meses atendidas en la policlínica de La Cruz de Carrasco. ¿Cuál es la frecuencia relativa acumulada para la clase [8500; 9000)?",
+      "image": "1846e1e7-05b9-4223-b3e5-167ad5594eac.webp",
+      "options": [
+        {
+          "id": "cef1f063-366c-4265-97e2-917fd32d52db",
+          "text": "0.82.",
+          "correct": true
+        },
+        {
+          "id": "eeb6a5b4-d4d6-4000-8619-e7c3b37dec7b",
+          "text": "0.13."
+        },
+        {
+          "id": "17dff6c7-4853-4e5f-9389-afc9cd01f98c",
+          "text": "0.16."
+        },
+        {
+          "id": "057cfa47-1c1b-4628-92bc-b5c6bc14b68a",
+          "text": "0.32."
+        }
+      ]
+    },
+    {
+      "id": "a8098113-7c0c-44d2-986e-60d507669607",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-11-06",
+      "text": "La tabla siguiente muestra los pesos de niñas de 10 meses atendidas en la policlínica de La Cruz de Carrasco.¿Cuál es la probabilidad de que tomando una niña al azar su peso se encuentre entre 7000 g y 8000 g sabiendo que pesa menos de 9000 g?",
+      "image": "a8098113-7c0c-44d2-986e-60d507669607.webp",
+      "options": [
+        {
+          "id": "c3600a93-af61-44c8-83bd-ee010a5f8575",
+          "text": "0.56.",
+          "correct": true
+        },
+        {
+          "id": "49ec3569-bef9-42f9-9c10-244d68ab3ebe",
+          "text": "0.46."
+        },
+        {
+          "id": "389fb49d-ad10-42a9-a945-d47389160bf0",
+          "text": "0.82."
+        },
+        {
+          "id": "3b7f2786-2bf7-44dd-b3dc-039988656476",
+          "text": "0.92."
+        }
+      ]
+    },
+    {
+      "id": "17042ece-bba2-4c5b-9a0f-88a76236ac47",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-11-06",
+      "text": "Los estudios descriptivos son adecuados para estimar:",
+      "options": [
+        {
+          "id": "10db477b-af35-4bbc-b1f9-4d6a5be5591d",
+          "text": "La prevalencia de una enfermedad.",
+          "correct": true
+        },
+        {
+          "id": "718ab7d0-224d-4331-b5ee-2a39e90c4f07",
+          "text": "El riesgo relativo de una enfermedad."
+        },
+        {
+          "id": "3172ae8e-6974-4c0f-a954-5b871a289654",
+          "text": "La incidencia de una enfermedad."
+        }
+      ]
+    },
+    {
+      "id": "d82c104d-5bd6-47a3-a3b6-702b19ef974c",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-11-06",
+      "text": "Se desea reproducir el estudio \"Factores asociados a complicaciones postquirúrgicas en pacientes con equinococosis quística de áreas endémicas del Perú\" de Pacífico J., et al. en Uruguay. ¿Qué marco normativo regula actualmente la investigación con seres humanos a nivel local para poder llevar a cabo el estudio?",
+      "options": [
+        {
+          "id": "af30be0d-a1a8-4f03-af6e-6df99c8c5d36",
+          "text": "Decreto 158/019.",
+          "correct": true
+        },
+        {
+          "id": "b7627a23-8d69-4e2c-8589-31bb36806ef3",
+          "text": "Declaración de Helsinki."
+        },
+        {
+          "id": "1faecd00-85b2-4fef-b594-f58d4d7f5799",
+          "text": "Decreto 379/008."
+        }
+      ]
+    },
+    {
+      "id": "147b17f9-5b51-4b1c-94f9-915b608c93ea",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-11-06",
+      "text": "Se extrajo una muestra al azar de 220 historias clínicas de pacientes ingresados en un servicio de cuidados moderados por COVID-19 en un año y se encontró que un 7% de ellas correspondía a pacientes sin patologías previas. El intervalo de confianza al 95% para dicha proporción es:",
+      "options": [
+        {
+          "id": "3ebf5c04-701f-44b4-bb7a-e1a7eb90f820",
+          "text": "(0.036; 0.104).",
+          "correct": true
+        },
+        {
+          "id": "b3e8c7b8-1ca9-424e-9764-e20597ee444b",
+          "text": "(-0.430; 0.570)."
+        },
+        {
+          "id": "2260e9d1-ee34-4421-b7fd-d311cd46482e",
+          "text": "(0.065; 0.750)."
+        },
+        {
+          "id": "189f25f9-915c-4d3f-a318-64be7d3bff6a",
+          "text": "(0.069; 0.071)."
+        }
+      ]
+    },
+    {
+      "id": "019bf3a0-cbbb-458f-82ed-cbaeff068dde",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-11-06",
+      "text": "Se extrajo una muestra al azar de 220 historias clínicas de pacientes ingresados en un servicio de cuidados moderados por COVID-19 en un año y se encontró que un 7% de ellas correspondía a pacientes sin patologías previas. Si se quisiera diseñar un muestreo para estimar la proporción de pacientes COVID-19 que no presentan patologías previas, en una población similar ¿Cuál es el tamaño mínimo de muestra para estimar esta proporción, con una confianza del 95% y con una imprecisión máxima de 0.05?",
+      "options": [
+        {
+          "id": "21689d98-971d-4974-a534-97212f61cbda",
+          "text": "101.",
+          "correct": true
+        },
+        {
+          "id": "89927516-4b41-48c8-a8b1-7cf7f267a7bc",
+          "text": "197."
+        },
+        {
+          "id": "18c78618-3ad0-41e7-934b-3a449678af75",
+          "text": "385."
+        },
+        {
+          "id": "aa185e85-788d-4247-bbf1-59b1246e6535",
+          "text": "52."
+        }
+      ]
+    },
+    {
+      "id": "4c8e3ff2-d43f-47bb-8af4-c90ef1562578",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-11-06",
+      "text": "Si el perímetro cefálico de una recién nacida sigue una distribución normal con media µ = 34 cm y σ2 = 2.25 cm2, ¿cuál es la proporción esperada de niñas con perímetro cefálico menor a 35.5 cm?",
+      "options": [
+        {
+          "id": "1636c2dc-e566-400b-8a00-e9d8a61a00e9",
+          "text": "0.8413.",
+          "correct": true
+        },
+        {
+          "id": "8d51c815-1a75-4e59-939c-5655fd4d8d1f",
+          "text": "0.1587."
+        },
+        {
+          "id": "9cc87ab7-d1ea-4591-9f32-783c20911f9b",
+          "text": "0.7486."
+        },
+        {
+          "id": "f4f50af0-c8e2-40eb-a4e5-6b9c84117407",
+          "text": "0.9332."
+        }
+      ]
+    },
+    {
+      "id": "5f4d5d1a-494b-43c9-b262-e88b33d2a70d",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-11-06",
+      "text": "Ud. quiere diseñar un estudio caso-control para examinar la asociación entre consumo de mate y pancreatitis. El grupo de casos consistirá en:",
+      "options": [
+        {
+          "id": "18ad5660-0408-4008-a56a-fea34cff4a89",
+          "text": "Pacientes con pancreatitis.",
+          "correct": true
+        },
+        {
+          "id": "f213fd61-29f4-43f8-8f63-898a94713d75",
+          "text": "Pacientes con pancreatitis y que toman mate."
+        },
+        {
+          "id": "ecd1839f-fc29-49ac-8d27-cedbc19082a4",
+          "text": "Pacientes que toman mate."
+        }
+      ]
+    },
+    {
+      "id": "8b02a6bb-23e8-40e8-8263-a92e7abe65e0",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-11-06",
+      "text": "Ud. quiere examinar la evolución en el tiempo de la prevalencia de tabaquismo en Uruguay. ¿Qué tipo de diseño es el más adecuado para lograr su objetivo?",
+      "options": [
+        {
+          "id": "76886134-1364-4103-8184-e1a5f8d67e6e",
+          "text": "Descriptivo.",
+          "correct": true
+        },
+        {
+          "id": "afb97e5e-b115-48de-9fc5-19ec4384dee6",
+          "text": "Caso-control."
+        },
+        {
+          "id": "b35db9ef-daa2-42b0-8c09-6e921dc50433",
+          "text": "Experimental."
+        }
+      ]
+    },
+    {
+      "id": "b119ee7a-4228-4374-a396-f8e803b6f648",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-11-06",
+      "text": "Un estudio realizado en España pretendió evaluar la prevalencia de diferentes tipos de lesiones pulmonares en una cohorte de pacientes hospitalizados por COVID-19. Se encontró que la probabilidad de tener una lesión \"no típica de COVID-19\" en esa población es de 0.043, mientras que la probabilidad de lesiones \"típicas de COVID-19\" era de 0.824. Considerando que las lesiones típicas y no típicas son los dos únicos tipos de lesiones, ¿cuál es la probabilidad de que, entre 5 personas elegidas al azar del grupo, dos no presenten ninguna lesión?",
+      "options": [
+        {
+          "id": "ba86c15b-acec-4379-8d13-f3c565c2457e",
+          "text": "0.115.",
+          "correct": true
+        },
+        {
+          "id": "fea366ea-a18e-4396-89a2-c91109c2b596",
+          "text": "0.011."
+        },
+        {
+          "id": "1d98a62f-2120-4550-a2e0-5d4bacba30f1",
+          "text": "0.022."
+        },
+        {
+          "id": "0d858846-7b80-4102-a6d7-fd138d849635",
+          "text": "0.965."
+        }
+      ]
+    },
+    {
+      "id": "ef1767bc-f08b-4cfe-8e27-131978b9cb45",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-11-06",
+      "text": "Un estudio realizado en España pretendió evaluar la prevalencia de diferentes tipos de lesiones pulmonares en una cohorte de pacientes hospitalizados por COVID-19. Se encontró que la probabilidad de tener una lesión \"no típica de COVID-19\" en esa población es de 0.043, mientras que la probabilidad de lesiones \"típicas de COVID-19\" era de 0.824. Si se seleccionan dos pacientes al azar de esta población ¿Cuál es la probabilidad de que ambos tengan lesiones \"no típicas de COVID-19\"?",
+      "options": [
+        {
+          "id": "12605c11-96c7-4975-b57d-50899896336c",
+          "text": "0.002.",
+          "correct": true
+        },
+        {
+          "id": "ed6d760a-7873-4eec-ab5c-a456a26457c6",
+          "text": "0.086."
+        },
+        {
+          "id": "b907e024-adcb-413e-b8f5-5142db28e315",
+          "text": "0.321."
+        },
+        {
+          "id": "765689c0-4480-4fc4-9f5c-8ba685d1d49d",
+          "text": "0.678."
+        }
+      ]
+    },
+    {
+      "id": "63933822-ad52-4e38-99d5-308a46666e7f",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-11-06",
+      "text": "Un estudio realizado en España pretendió evaluar la prevalencia de diferentes tipos de lesiones pulmonares en una cohorte de pacientes hospitalizados por COVID-19. Se encontró que la probabilidad de tener una lesión \"no típica de COVID-19\" en esa población es de 0.043, mientras que la probabilidad de lesiones \"típicas de COVID-19\" era de 0.824. Si se seleccionan dos pacientes al azar de esta población ¿Cuál es la probabilidad de que uno tenga lesiones \"típicas de COVID-19\" y el otro tenga lesiones \"no típicas de COVID-19\", en ese orden?",
+      "options": [
+        {
+          "id": "ff777f63-5f71-43a8-a293-7e8c4d9890b2",
+          "text": "0.035.",
+          "correct": true
+        },
+        {
+          "id": "5708eaaa-9789-4d97-befa-4c4a9f447afc",
+          "text": "0.070."
+        },
+        {
+          "id": "86a339c0-731b-4ad7-ae17-8e474c552e27",
+          "text": "0.321."
+        },
+        {
+          "id": "b35e8129-9646-4f9d-a541-c78021c5b720",
+          "text": "0.867."
+        }
+      ]
+    },
+    {
+      "id": "9141a4ae-b8b4-4e7e-af3f-b50de8215883",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-11-06",
+      "text": "«La FDA propuso en el año 2004, y cerrando definitivamente su discurso, el reemplazar la Declaración de Helsinki por las Guías de Buena Práctica Clínica de la Conferencia Internacional de Armonización que nucleaba a los principales países productores de medicamentos. De ese modo se quería reemplazar la tradicional moral de los médicos que resultara fortalecida en la Declaración de Helsinki por su asociación con el respeto de los derechos humanos, por una nueva visión de pretensión moral cuyo origen descansaba en la industria farmacéutica.» La cita anterior del texto de J. C. Tealdi plantea un hecho fundamental en la historia de las normas éticas de la investigación con seres humanos porque:",
+      "options": [
+        {
+          "id": "90d5ba20-926c-4ba5-ac9c-0eaca0c7c5f6",
+          "text": "Transforma la concepción universalista de las normas éticas en investigación por una concepción procedimentalista de maximización económica.",
+          "correct": true
+        },
+        {
+          "id": "38b1115e-a717-4265-96d6-9403e13d0405",
+          "text": "Fortalece las declaraciones internacionales de ética en investigación al hacer partícipes directos a las compañías farmacéuticas."
+        },
+        {
+          "id": "7e104859-ea57-4b79-a4ce-d241e1b510f4",
+          "text": "Garantiza mayores protecciones a las personas que consienten a participar de investigaciones, que no estaban contempladas en los documentos anteriores."
+        }
+      ]
+    },
+    {
+      "id": "d62c24d4-ea2b-442b-ba83-f5855bd19272",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-11-06",
+      "text": "¿Cómo se relacionan los principios de \"valor\" y \"validez\" de las investigaciones clínicas, según Ezequiel Emanuel?",
+      "options": [
+        {
+          "id": "5db7da61-ea48-4546-bd90-8136ea7caddb",
+          "text": "Primero se evalúa el valor, luego la validez.",
+          "correct": true
+        },
+        {
+          "id": "023cd580-c07a-4c6a-824c-fceb0b7c3db9",
+          "text": "El valor presupone validez."
+        },
+        {
+          "id": "6b4c0bfc-7a09-48ed-8b22-b3d9da16554c",
+          "text": "La validez es metodológica por lo que no considera."
+        }
+      ]
+    },
+    {
+      "id": "656d318d-a505-4f03-a42e-9b3d6932e413",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-11-06",
+      "text": "¿Qué quiere decir que \"la mala ciencia no es ética\" (Ezequiel Emanuel)? Referida a las investigaciones clínicas, esta afirmación quiere decir que:",
+      "options": [
+        {
+          "id": "e12aa017-4fa6-4c97-b483-188c9b064d1d",
+          "text": "El rigor científico y metodológico son necesarios para que una investigación sea ética.",
+          "correct": true
+        },
+        {
+          "id": "3b915378-2ba6-4e76-9203-75139141af76",
+          "text": "Debe haber una proporción favorable entre riesgos y beneficios de una investigación."
+        },
+        {
+          "id": "70465366-4a2d-4198-8715-b06c83289775",
+          "text": "El valor social de una investigación clínica es clave para decidir si financiarla."
+        }
+      ]
     }
   ],
   "evaluations": [

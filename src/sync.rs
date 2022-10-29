@@ -147,6 +147,7 @@ async fn sync_images(images_path: PathBuf, bucket_name: &str) -> Result<()> {
         .arg("sync")
         .arg(images_path)
         .arg(format!("s3://{bucket_name}"))
+        .arg("--delete")
         .status()
         .await?;
 
