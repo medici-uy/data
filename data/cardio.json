@@ -4513,20 +4513,20 @@
       "evaluation": "parcial_1",
       "source": "exam",
       "asked_at": "2022-07-01",
-      "text": "Contamos con un electrocardiograma que tiene un registro predominantemente negativo en DI y aVF, indique en que cuadrante del triángulo de Einthoven se ubica el eje eléctrico medio:",
+      "text": "Contamos con un electrocardiograma que tiene un registro predominantemente negativo en DI y aVF, indique en qué cuadrante del triángulo de Einthoven se ubica el eje eléctrico medio:",
       "options": [
         {
-          "id": "1a47d8cf-43b5-419d-98cc-12249baaab73",
-          "text": "Cuadrante inferior derecho.",
+          "id": "3893df68-753f-4650-96fd-3aa4a6120d3e",
+          "text": "Cuadrante superior derecho.",
           "correct": true
+        },
+        {
+          "id": "1a47d8cf-43b5-419d-98cc-12249baaab73",
+          "text": "Cuadrante inferior derecho."
         },
         {
           "id": "f7b2795d-ece9-4cf5-827d-b661371cb920",
           "text": "Cuadrante inferior izquierdo."
-        },
-        {
-          "id": "3893df68-753f-4650-96fd-3aa4a6120d3e",
-          "text": "Cuadrante superior derecho."
         },
         {
           "id": "4fd7cd6a-3f57-4ef6-828b-30fb1801d051",
