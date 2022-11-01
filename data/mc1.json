@@ -2252,7 +2252,7 @@
       "evaluation": "parcial_1",
       "source": "partial",
       "asked_at": "2021-11-06",
-      "text": "En un determinado servicio de urgencias se reciben en un día normal un promedio de 4 llamados por hora. Si se estudia un turno de 1.5 horas de este servicio cada fin de semana, durante 10 fines de semana, ¿cuál es la probabilidad de que en dos de los 10 turnos estudiados se reciban 10 o menos llamados?",
+      "text": "En un determinado servicio de urgencias se reciben en un día normal un promedio de 4 llamados por hora. Durante los fines de semana la tasa de llamados se duplica. Si se estudia un turno de 1.5 horas de este servicio cada fin de semana, durante 10 fines de semana, ¿cuál es la probabilidad de que en dos de los 10 turnos estudiados se reciban 10 o menos llamados?",
       "options": [
         {
           "id": "b0ddf8c0-6e3c-4129-a8c9-3280948f4769",
