@@ -2002,6 +2002,685 @@
       ]
     },
     {
+      "id": "0456d59f-52fe-439b-ac0b-c46f0c21e2a1",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-11-07",
+      "text": "A partir de una muestra de tamaño n se realiza una estimación por intervalo de una proporción, con cierto nivel de confianza. ¿Qué sucede con la imprecisión si se decide reducir el nivel de confianza?",
+      "options": [
+        {
+          "id": "ef462e93-c03e-41e5-8755-d04c264787b8",
+          "text": "La imprecisión de la estimación disminuye.",
+          "correct": true
+        },
+        {
+          "id": "fa4cf8eb-aef2-4732-a236-93b15378b2ad",
+          "text": "La imprecisión de la estimación aumenta."
+        },
+        {
+          "id": "99da77ca-0bfd-4a9d-8e5a-556f22bdf296",
+          "text": "La imprecisión de la estimación se mantiene incambiada."
+        },
+        {
+          "id": "4a1df2dc-c595-4398-ba8b-ddebb9c6bbb7",
+          "text": "No puede predecirse de antemano, depende del valor de la estimación."
+        }
+      ]
+    },
+    {
+      "id": "8a4dd1a8-b31a-478b-80f3-e4249553c1ba",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-11-07",
+      "text": "El perímetro cefálico de una recién nacida sigue una distribución normal con media µ = 39 cm y σ2 = 2.25 cm2. Se considera microcefalia cuando el perímetro cefálico se encuentra por debajo del percentil 3. Si una niña tiene microcefalia, ¿cuál es la probabilidad de que su perímetro cefálico fuera menor de 34 cm?",
+      "options": [
+        {
+          "id": "fede1b9c-6936-4dd8-95ef-878fbff719ac",
+          "text": "0.013.",
+          "correct": true
+        },
+        {
+          "id": "2c50c052-7da6-4ff1-b9a9-e5c1253d9b20",
+          "text": "0.030."
+        },
+        {
+          "id": "a3ccc314-51af-42e9-b2c4-a533f78f9eaa",
+          "text": "0.940."
+        },
+        {
+          "id": "e146b698-c2d3-43c7-b997-0df81c6a34e6",
+          "text": "1.000."
+        }
+      ]
+    },
+    {
+      "id": "4c9c9728-e599-47e7-86b4-3602863cdf75",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-11-07",
+      "text": "El perímetro cefálico de una recién nacida sigue una distribución normal con media µ = 39 cm y σ2 = 2.25 cm2. Se considera microcefalia cuando el perímetro cefálico se encuentra por debajo del percentil 3. ¿Cuál es la probabilidad de que una recién nacida tenga un perímetro cefálico de 39 cm dado que no padece microcefalia?",
+      "options": [
+        {
+          "id": "952adb38-bdfd-4eb9-9232-0066eaaf3d79",
+          "text": "0.000.",
+          "correct": true
+        },
+        {
+          "id": "777914c8-5515-43d8-914a-b7ae8ff43cb4",
+          "text": "0.500."
+        },
+        {
+          "id": "1eb3070c-8b49-413b-bd64-e2fb7d33d5e0",
+          "text": "0.538."
+        },
+        {
+          "id": "7e508b20-2367-4c5b-b862-bca8ff452621",
+          "text": "1.000."
+        }
+      ]
+    },
+    {
+      "id": "8449b766-eceb-49c7-babf-64c69448acd7",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-11-07",
+      "text": "En el acrónimo PICO utilizado para formular preguntas que guiarán la búsqueda bibliográfica:",
+      "options": [
+        {
+          "id": "e6092a5f-e022-4fa4-8e8a-e2b856ef12fe",
+          "text": "La I refiere a la intervención, que puede corresponder a tratamientos o factores de riesgo de una determinada enfermedad.",
+          "correct": true
+        },
+        {
+          "id": "99c542dd-dfd0-4f37-a4cb-38ba08e99ea7",
+          "text": "La C refiere a los criterios de inclusión y exclusión."
+        },
+        {
+          "id": "b07dfc5e-f242-4d32-b5c0-68b5fc979d1b",
+          "text": "La O refiere a los otros tratamientos a considerar."
+        },
+        {
+          "id": "e3a4ace9-103c-4edd-9b6b-1383da6c9c5e",
+          "text": "La P refiere a la población utilizada como comparación o control."
+        }
+      ]
+    },
+    {
+      "id": "4b0d349d-aec7-4a07-93ad-78874b257b3b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-11-07",
+      "text": "En relación con los estudios descriptivos señale la opción correcta:",
+      "options": [
+        {
+          "id": "4af49cce-f860-4200-8629-455e050566d4",
+          "text": "Son útiles para medir la prevalencia de una enfermedad.",
+          "correct": true
+        },
+        {
+          "id": "ccfd8d19-247f-406e-bf69-f73eaf8c5fe4",
+          "text": "Desde el punto de vista de la medicina basada en evidencia son los que presentan la evidencia de mayor calidad."
+        },
+        {
+          "id": "482fea9e-4db7-4128-aad5-f0df2d3d45eb",
+          "text": "El diseño de los estudios descriptivos está enfocado a la comprobación de hipótesis."
+        },
+        {
+          "id": "11d4dcb7-00e1-478f-9a7f-bfd7a7d2fe3b",
+          "text": "La finalidad principal de estos estudios es la de estimar la incidencia de una enfermedad."
+        }
+      ]
+    },
+    {
+      "id": "5c783b48-4694-48ed-9c2d-fc503b6fe12a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-11-07",
+      "text": "En relación con los estudios descriptivos señale la opción correcta:",
+      "options": [
+        {
+          "id": "ceef0ed7-e701-4e83-80f4-a2940e50109d",
+          "text": "Generalmente permiten obtener conclusiones sobre relaciones causa-efecto.",
+          "correct": true
+        },
+        {
+          "id": "017f514f-0328-4b42-b310-437cbe0eeb1b",
+          "text": "El diseño de los estudios descriptivos es adecuado para generar hipótesis."
+        },
+        {
+          "id": "074a40e4-e7e9-4276-b840-e66e460bb7ac",
+          "text": "Son demasiado complejos de llevar a cabo."
+        },
+        {
+          "id": "19ccd918-584b-41f8-be37-a02412249bf1",
+          "text": "Su mayor utilidad es la de permitir estimar la incidencia de una enfermedad."
+        }
+      ]
+    },
+    {
+      "id": "9240dcbc-276c-4697-8f76-171a9eade9c6",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-11-07",
+      "text": "En un determinado servicio de urgencias se reciben en un día normal un promedio de 6 llamados por hora, ¿cuál es la probabilidad de recibir más de 8 llamados en una hora?",
+      "options": [
+        {
+          "id": "2d10fc3f-f3d8-4a23-aafa-bac8b0664a3f",
+          "text": "0.1528.",
+          "correct": true
+        },
+        {
+          "id": "9e8cfc63-66a2-41a9-9dc7-90708c34f50a",
+          "text": "0.0137."
+        },
+        {
+          "id": "02632769-a5ce-4429-a9f2-b9ed5709cdf2",
+          "text": "0.8472."
+        },
+        {
+          "id": "bfd278b0-2383-480d-a71b-ff71a9416bd1",
+          "text": "0.9863."
+        }
+      ]
+    },
+    {
+      "id": "fe81767a-f457-4fb9-aadd-6ffe0ba27292",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-11-07",
+      "text": "En un determinado servicio de urgencias se reciben en un día normal un promedio de 6 llamados por hora. Durante los fines de semana la tasa de llamados se duplica, en ese caso, ¿cuál sería la probabilidad de recibir 10 o menos llamados en una hora y media?",
+      "options": [
+        {
+          "id": "32e4df86-63d7-487d-ac76-b604945df879",
+          "text": "0.0304.",
+          "correct": true
+        },
+        {
+          "id": "7b99d4e1-604f-4df9-8245-4326882868b8",
+          "text": "0.0108."
+        },
+        {
+          "id": "a55b2540-0a77-447f-92fb-73c7a550244e",
+          "text": "0.1037."
+        },
+        {
+          "id": "30bff02d-5ab6-46a6-b0ed-53d517f9b737",
+          "text": "0.3472."
+        }
+      ]
+    },
+    {
+      "id": "add616f3-b960-4801-9798-d94efcb26a59",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-11-07",
+      "text": "En un determinado servicio de urgencias se reciben en un día normal un promedio de 6 llamados por hora. Durante los fines de semana la tasa de llamados se duplica. Si se estudia un turno de 1.5 horas de este servicio cada fin de semana, durante 10 fines de semana, ¿cuál es la probabilidad de que en alguno de los 10 turnos estudiados se reciban más de 20 llamados?",
+      "options": [
+        {
+          "id": "d9d16130-c585-4cae-92ca-0bd0bf7dad35",
+          "text": "1.0000.",
+          "correct": true
+        },
+        {
+          "id": "309a9fb0-baee-43fc-870c-8c5c08ee5a25",
+          "text": "0.0030."
+        },
+        {
+          "id": "8ce02ac8-3a8e-45f0-b84a-936ea719b349",
+          "text": "0.2693."
+        },
+        {
+          "id": "637606c1-990e-4117-93bf-eb6cc32794fa",
+          "text": "0.7307."
+        }
+      ]
+    },
+    {
+      "id": "977fc007-5ca7-42e3-97f8-281f8ab09814",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-11-07",
+      "text": "La infección por VPH se identifica como factor de riesgo para disfunción sexual femenina, pero se necesitan estudios complementarios para confirmar esta asociación. Para acceder a la mejor evidencia disponible al momento actual acerca del tema conviene consultar:",
+      "options": [
+        {
+          "id": "a003a797-f554-44e8-ba2b-6a82bd3d69d2",
+          "text": "Una revisión sistemática.",
+          "correct": true
+        },
+        {
+          "id": "1820d557-3834-4465-adac-e97df0afaf4f",
+          "text": "Un ensayo clínico aleatorizado."
+        },
+        {
+          "id": "9bbd42ef-ab45-4c99-ab0d-a71c7f510b45",
+          "text": "Un estudio de casos."
+        },
+        {
+          "id": "52efd199-48cb-43c3-ae7a-3dc121fd47d8",
+          "text": "Un estudio ecológico."
+        }
+      ]
+    },
+    {
+      "id": "8e524be0-2716-4931-b947-03d83e1aa630",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-11-07",
+      "text": "La medicina basada en la evidencia es un paradigma cuyo propósito es:",
+      "options": [
+        {
+          "id": "7e929c97-12e1-4e5c-a853-52d8866a9177",
+          "text": "Integrar la mejor evidencia científica disponible con la experiencia clínica.",
+          "correct": true
+        },
+        {
+          "id": "befb6c1e-85cc-41b7-8c2d-ab86d27e6a92",
+          "text": "Darle relevancia a la experiencia de los profesores y expertos en un tema dado."
+        },
+        {
+          "id": "7eec0111-82f6-49a8-b7d5-3b1a048e0f53",
+          "text": "Mejorar la relación costo-beneficio en el gasto en salud en el primer nivel de atención."
+        },
+        {
+          "id": "c848abc3-da50-4f29-b07a-caf2a53922eb",
+          "text": "Refutar las creencias y mitos que presentan los usuarios sobre los problemas de salud que los aquejan."
+        }
+      ]
+    },
+    {
+      "id": "e6e9b3b1-b44f-471e-b3f3-514869808196",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-11-07",
+      "text": "Los siguientes datos corresponden al peso (en gr) de niños de 10 meses de edad. A partir de los datos de la tabla, ¿cuál es la probabilidad de que un niño de esta población pese menos de 9100 gr si se sabe que pesa más de 8600 gr?",
+      "image": "e6e9b3b1-b44f-471e-b3f3-514869808196.webp",
+      "options": [
+        {
+          "id": "a52f4f03-d121-47ec-8cc2-9efbb78aa797",
+          "text": "0.31.",
+          "correct": true
+        },
+        {
+          "id": "9844570f-653c-4e6e-b59e-71230aac2e4d",
+          "text": "0.24."
+        },
+        {
+          "id": "e5512102-8950-4d53-a2f5-59740e8d7dd0",
+          "text": "0.58."
+        },
+        {
+          "id": "3477c279-2107-4100-b93c-9d48c2990605",
+          "text": "1.20."
+        }
+      ]
+    },
+    {
+      "id": "5b18f433-ff05-4f0d-ba00-1dd884eed649",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-11-07",
+      "text": "Se quiere investigar la aplicación de un nuevo test para el diagnóstico de hepatitis B. Para ello un grupo de investigadores toman una muestra aleatoria de 672 pacientes que estuvieron internados en infectología de un Hospital a lo largo del año 2018. De esos pacientes, 151 presentaron la enfermedad y dieron positivo al test, 24 presentaron la enfermedad, pero el test les dio negativo. A su vez, 185 personas dieron positivo al test de hepatitis B. La especificidad del test es:",
+      "options": [
+        {
+          "id": "b435bae5-2adf-40ef-b1ad-c98a9317ee93",
+          "text": "0.93.",
+          "correct": true
+        },
+        {
+          "id": "f6a3e533-fa3a-418d-9820-b5a9218a632d",
+          "text": "0.26."
+        },
+        {
+          "id": "3fbf4c33-034f-4531-9fa9-9cb5b4470fe2",
+          "text": "0.28."
+        },
+        {
+          "id": "caadd74b-aa5d-46a6-b986-78b7a7897f0e",
+          "text": "0.86."
+        }
+      ]
+    },
+    {
+      "id": "c1d477ee-c2b6-4867-8bfa-376f649bf847",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-11-07",
+      "text": "Se quiere investigar la aplicación de un nuevo test para el diagnóstico de hepatitis B. Para ello un grupo de investigadores toman una muestra aleatoria de 672 pacientes que estuvieron internados en infectología de un Hospital a lo largo del año 2018. De esos pacientes, 151 presentaron la enfermedad y dieron positivo al test, 24 presentaron la enfermedad, pero el test les dio negativo. A su vez, 185 personas dieron positivo al test de hepatitis B. Si un paciente de este grupo presenta hepatitis B, ¿cuál es la probabilidad de que el test sea positivo?",
+      "options": [
+        {
+          "id": "e75a8cc9-edd1-4c0c-9cdd-7ea08f6e8122",
+          "text": "0.86.",
+          "correct": true
+        },
+        {
+          "id": "5bca6265-8b19-4cab-8d66-00e6468a00ce",
+          "text": "0.26."
+        },
+        {
+          "id": "c5d60f3a-5dc5-4fbb-abb5-33e82b171d3a",
+          "text": "0.28."
+        },
+        {
+          "id": "bfbae3d1-a7d8-4ae1-8666-849f5d8571ff",
+          "text": "0.93."
+        }
+      ]
+    },
+    {
+      "id": "2432084b-80cb-4041-aef4-e50bc8bf9f6b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-11-07",
+      "text": "Se quiere investigar la aplicación de un nuevo test para el diagnóstico de hepatitis B. Para ello un grupo de investigadores toman una muestra aleatoria de 672 pacientes que estuvieron internados en infectología de un Hospital a lo largo del año 2018. De esos pacientes, 151 presentaron la enfermedad y dieron positivo al test, 24 presentaron la enfermedad, pero el test les dio negativo. A su vez, 185 personas dieron positivo al test de hepatitis B. ¿Cuál es la probabilidad de que una persona, elegida aleatoriamente de este grupo, no tenga Hepatitis B si el resultado del test es positivo?",
+      "options": [
+        {
+          "id": "7fced09f-6290-41e3-bb86-efb596680fd5",
+          "text": "0.18.",
+          "correct": true
+        },
+        {
+          "id": "b0d8b5ab-4dea-4738-acbe-51c1a12a75ec",
+          "text": "0.05."
+        },
+        {
+          "id": "b6bdb8f6-18c6-4a91-8b88-b4a4c1206af0",
+          "text": "0.07."
+        },
+        {
+          "id": "a43c5681-167b-43e4-bdb8-1e12e49d2301",
+          "text": "0.93."
+        }
+      ]
+    },
+    {
+      "id": "7bf6b6ed-f2fb-400f-884f-e6ff639e19e1",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-11-07",
+      "text": "Si el perímetro cefálico de una recién nacida sigue una distribución normal con media µ = 39 cm y σ2 = 2.25 cm2, ¿cuál es la proporción esperada de niñas con perímetro cefálico menor a 34 cm?",
+      "options": [
+        {
+          "id": "c52a9084-8a1f-4ddd-a193-3342fd2785b5",
+          "text": "0.0004.",
+          "correct": true
+        },
+        {
+          "id": "f7a56768-2ffe-4e7d-977e-fdb352e755f3",
+          "text": "0.0130."
+        },
+        {
+          "id": "6a1157c7-fd9f-4003-9dd0-ca04d0db3b81",
+          "text": "0.9868."
+        },
+        {
+          "id": "7d4544b6-62ab-450c-a146-3ecee1628963",
+          "text": "0.9996."
+        }
+      ]
+    },
+    {
+      "id": "a53b87ec-d421-457c-8a61-18c4d6914fcc",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-11-07",
+      "text": "Un estudio publicado recientemente establece una asociación entre la \"renta per cápita\" de diferentes países y la incidencia de accidentes de tráfico. ¿De qué tipo de diseño de estudio se trata?",
+      "options": [
+        {
+          "id": "7bf44d47-8009-40a4-bf69-8a23b6e43687",
+          "text": "Estudio ecológico.",
+          "correct": true
+        },
+        {
+          "id": "c5eb55b2-0e5f-4c21-b14d-8e5f6bf4493e",
+          "text": "Estudio de casos y controles anidado."
+        },
+        {
+          "id": "2b79b4a5-70ae-4392-9f49-32726e5f48ab",
+          "text": "Estudio de cohortes."
+        },
+        {
+          "id": "eb4d3702-746b-47a2-a2bb-9bd905cb9b45",
+          "text": "Estudio experimental."
+        }
+      ]
+    },
+    {
+      "id": "13f60fdd-c424-411e-999f-e70ea1e1bbf6",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-11-07",
+      "text": "Un estudio realizado en el Hospital Clínico Universitario Virgen de la Arrixaca (España) en 2016-2017, reportó 36.5% episiotomías en 10.630 partos vaginales. Considerando este resultado, ¿cuál es la probabilidad de que en 10 partos vaginales se realicen dos episiotomías?",
+      "options": [
+        {
+          "id": "2a59cf14-06d8-4c54-8504-d71431c4d53a",
+          "text": "0.16.",
+          "correct": true
+        },
+        {
+          "id": "384ef1e1-eb79-4508-be66-8315182290b4",
+          "text": "0.07."
+        },
+        {
+          "id": "5f2f29a5-7442-4418-aff0-27af0d1cf6b1",
+          "text": "0.23."
+        },
+        {
+          "id": "8e3d0f32-afcb-4cf2-87f7-4dcce9f24aca",
+          "text": "0.93."
+        }
+      ]
+    },
+    {
+      "id": "7ddef9e2-18d6-401d-aeba-de5a3d268e67",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-11-07",
+      "text": "Un estudio realizado en el Hospital Clínico Universitario Virgen de la Arrixaca (España) en 2016-2017, reportó 36.5% episiotomías en 10.630 partos vaginales. ¿Cuál será la imprecisión del intervalo de confianza 95%?",
+      "options": [
+        {
+          "id": "cd31fa0b-7613-4b0e-97e2-4a0c374f8e2c",
+          "text": "0.694%.",
+          "correct": true
+        },
+        {
+          "id": "e9e2515e-7b3d-412b-af53-a804263ef214",
+          "text": "0.007%."
+        },
+        {
+          "id": "61d28694-ce11-40ea-ba3a-45ab0b75e2b0",
+          "text": "0.050%."
+        },
+        {
+          "id": "bb6063dd-7f51-4563-89b9-419b98c4078e",
+          "text": "No es posible calcularla."
+        }
+      ]
+    },
+    {
+      "id": "183189dd-155f-4a27-b7c9-bc5edb1ef61d",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-11-07",
+      "text": "Usted está interesado en conocer la prevalencia de obesidad en una población menor a 14 años. ¿Qué tipo de diseño deberá aplicar para realizar dicho estudio de forma óptima?",
+      "options": [
+        {
+          "id": "b6538464-eefb-45f2-82f0-d79dac17e522",
+          "text": "Encuesta transversal.",
+          "correct": true
+        },
+        {
+          "id": "4d0c217e-e576-433d-b948-eba4c6a8b342",
+          "text": "Estudio analítico."
+        },
+        {
+          "id": "47ed4178-c030-49a7-a10c-5e8c4be797b4",
+          "text": "Estudio de series de casos."
+        },
+        {
+          "id": "52d80dd6-d7fd-4ea3-81b9-3f242560f78f",
+          "text": "Estudio experimental."
+        }
+      ]
+    },
+    {
+      "id": "25687684-2b99-46bb-a2b0-0aef26941416",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-11-07",
+      "text": "¿Cuál de las siguientes afirmaciones es la que mejor define el valor predictivo positivo (VPP) de una prueba diagnóstica?",
+      "options": [
+        {
+          "id": "84ad4405-654c-4d51-9baf-58c220f809f0",
+          "text": "La probabilidad de que un sujeto tenga la enfermedad dado que el resultado de la prueba diagnóstica es positivo.",
+          "correct": true
+        },
+        {
+          "id": "be0d4577-30b7-4418-8647-1a385957012b",
+          "text": "La probabilidad de que el resultado de la prueba diagnóstica sea negativo dado que el sujeto no presenta la enfermedad."
+        },
+        {
+          "id": "f823cb6b-f44f-4918-bdb5-7d852e37d2ec",
+          "text": "La probabilidad de que el resultado de la prueba diagnóstica sea positivo dado que el sujeto presenta la enfermedad."
+        },
+        {
+          "id": "2883525a-3eb5-405b-a9e0-895459327ad9",
+          "text": "La probabilidad de que un sujeto no tenga la enfermedad dado que el resultado de la prueba diagnóstica es negativo."
+        }
+      ]
+    },
+    {
+      "id": "de7051e4-fb99-4c7b-9286-911d5d70dcef",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-11-07",
+      "text": "¿Cuál es la primera normativa internacional que incorpora la necesidad de recabar el consentimiento en investigaciones con personas?",
+      "options": [
+        {
+          "id": "4baa8935-e0bd-43a8-98b7-04be8dc303cd",
+          "text": "Código de Nuremberg.",
+          "correct": true
+        },
+        {
+          "id": "f258ee85-0e3a-4044-89eb-c932900d3b9c",
+          "text": "Declaración de Helsinki."
+        },
+        {
+          "id": "f9af041e-38ac-4bcb-b202-5cf32d6422a5",
+          "text": "Pautas CIOMS."
+        }
+      ]
+    },
+    {
+      "id": "b30ee90e-80ca-41f8-8798-e86bea1ea6e4",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-11-07",
+      "text": "¿Cuál fue el principal objetivo de las Pautas CIOMS?",
+      "options": [
+        {
+          "id": "6535ba60-ba23-4adc-9b51-fce4e9857e34",
+          "text": "Regular las investigaciones que son planificadas en países ricos y ejecutadas en países pobres.",
+          "correct": true
+        },
+        {
+          "id": "3c8dcf25-e20c-4345-876e-14d929130a25",
+          "text": "Regular la investigación biomédica realizada en el contexto de la actividad clínica."
+        },
+        {
+          "id": "9f3af953-2d39-4022-a234-4decd106ecf0",
+          "text": "Regular la solicitud de consentimiento informado y la evaluación por los comité de ética asistenciales."
+        }
+      ]
+    },
+    {
+      "id": "2066b9cc-2f70-4cc0-a07d-a6178d690fcc",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-11-07",
+      "text": "¿Cuáles son los tres principios que se establecieron en el informe de Belmont?",
+      "options": [
+        {
+          "id": "397b4d55-3efc-4d3b-9c44-59457abe15ce",
+          "text": "Respeto, beneficencia, justicia.",
+          "correct": true
+        },
+        {
+          "id": "eab992a2-d695-45cc-8d81-7de6beb11cfe",
+          "text": "Beneficencia, no maleficencia, autonomía."
+        },
+        {
+          "id": "b95bc1af-0756-4c59-a906-0d51a81aed51",
+          "text": "Dignidad, libertad, equidad."
+        }
+      ]
+    },
+    {
+      "id": "bd47b6ee-8b04-48bf-8658-9afdb1619475",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-11-07",
+      "text": "¿Qué normativa incorpora la regulación al uso de placebo en las investigaciones?",
+      "options": [
+        {
+          "id": "c686a0de-7079-46dd-88cb-9e635737f586",
+          "text": "Declaración de Helsinki.",
+          "correct": true
+        },
+        {
+          "id": "d1a73372-0e98-4482-b029-f8c995153d00",
+          "text": "Código de Nuremberg."
+        },
+        {
+          "id": "4825f508-8d42-41c1-b8d3-78c53e2d9d91",
+          "text": "Pautas CIOMS."
+        }
+      ]
+    },
+    {
+      "id": "1f7d1133-717b-4f41-bbc1-7ff8f95b49ed",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-11-07",
+      "text": "¿Qué pautas incorpora la regulación de la investigación con población vulnerable?",
+      "options": [
+        {
+          "id": "07a585bf-b162-47b9-970a-c6df3137033c",
+          "text": "Pautas CIOMS.",
+          "correct": true
+        },
+        {
+          "id": "9b9480d7-709f-43be-8cd0-88f6cbfbdfea",
+          "text": "Código de Nuremberg."
+        },
+        {
+          "id": "88bb0652-54a9-4865-a26a-d16ce4c3c7b8",
+          "text": "Declaración de Helsinki."
+        }
+      ]
+    },
+    {
+      "id": "c4cf787b-edde-4eaf-922d-01c342db01b3",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2020-11-07",
+      "text": "¿Qué versión de Helsinki es la más protectora de los sujetos de investigación?",
+      "options": [
+        {
+          "id": "20eee2f8-78d0-4876-98e3-c55798a2db8d",
+          "text": "2000.",
+          "correct": true
+        },
+        {
+          "id": "58d08915-dcaf-48f1-9c0d-df538d543367",
+          "text": "2008."
+        },
+        {
+          "id": "2df9ab09-d67f-4bda-b748-80d139232e45",
+          "text": "2017."
+        }
+      ]
+    },
+    {
       "id": "ef6eeabc-19a3-4faf-92c2-97073088a83b",
       "evaluation": "parcial_1",
       "source": "partial",
