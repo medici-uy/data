@@ -617,7 +617,7 @@
       "evaluation": "parcial_1",
       "source": "partial",
       "asked_at": "2016-11-12",
-      "text": "El establecimiento de objetivos es fundamental en el diseño una investigación, siendo INCORRECTO lo expresado sobre ellos:",
+      "text": "El establecimiento de objetivos es fundamental en el diseño de una investigación, siendo INCORRECTO lo expresado sobre ellos:",
       "options": [
         {
           "id": "1f6ecd43-680d-459c-b523-6fb1ed25e052",
@@ -1009,7 +1009,7 @@
         },
         {
           "id": "f20b7d7d-7a81-468c-a035-d5fe8ac029c8",
-          "text": "La sección \"Resumen\" de un artículo científico debe sintetizar sólo las secciones de mayor interés para los investigadores.."
+          "text": "La sección \"Resumen\" de un artículo científico debe sintetizar solo las secciones de mayor interés para los investigadores."
         },
         {
           "id": "116a590f-11c5-4ed4-b73b-3f18dca5fc5a",
@@ -1523,7 +1523,7 @@
         },
         {
           "id": "2d57ac59-1891-4446-9b0d-9ee24151c0bd",
-          "text": "Son útiles en la práctica clínica sólo cuando arrojan un resultado positivo que confirme una sospecha diagnóstica."
+          "text": "Son útiles en la práctica clínica solo cuando arrojan un resultado positivo que confirme una sospecha diagnóstica."
         },
         {
           "id": "cf88341c-89e4-415f-8bae-bd61af706a86",
@@ -1588,7 +1588,7 @@
       "evaluation": "parcial_1",
       "source": "partial",
       "asked_at": "2017-11-11",
-      "text": "Kottow plantea que en las pautas CIOMS 2016 persisten problemas éticos no resueltos en la investigación biomédica, particularmente en pacientes vulnerables o incompetentes, ya podría omitirse o disminuirse la voluntariedad y consentimiento:",
+      "text": "Kottow plantea que en las pautas CIOMS 2016 persisten problemas éticos no resueltos en la investigación biomédica, particularmente en pacientes vulnerables o incompetentes, ya que podría omitirse o disminuirse la voluntariedad y consentimiento:",
       "options": [
         {
           "id": "e21717e5-9286-4a01-b5f6-498e26745ce1",
@@ -2319,7 +2319,7 @@
       "evaluation": "parcial_1",
       "source": "partial",
       "asked_at": "2020-11-07",
-      "text": "Se quiere investigar la aplicación de un nuevo test para el diagnóstico de hepatitis B. Para ello un grupo de investigadores toman una muestra aleatoria de 672 pacientes que estuvieron internados en infectología de un Hospital a lo largo del año 2018. De esos pacientes, 151 presentaron la enfermedad y dieron positivo al test, 24 presentaron la enfermedad, pero el test les dio negativo. A su vez, 185 personas dieron positivo al test de hepatitis B. La especificidad del test es:",
+      "text": "Se quiere investigar la aplicación de un nuevo test para el diagnóstico de hepatitis B. Para ello un grupo de investigadores toman una muestra aleatoria de 672 pacientes que estuvieron internados en infectología de un hospital a lo largo del año 2018. De esos pacientes, 151 presentaron la enfermedad y dieron positivo al test, 24 presentaron la enfermedad, pero el test les dio negativo. A su vez, 185 personas dieron positivo al test de hepatitis B. La especificidad del test es:",
       "options": [
         {
           "id": "b435bae5-2adf-40ef-b1ad-c98a9317ee93",
@@ -2345,7 +2345,7 @@
       "evaluation": "parcial_1",
       "source": "partial",
       "asked_at": "2020-11-07",
-      "text": "Se quiere investigar la aplicación de un nuevo test para el diagnóstico de hepatitis B. Para ello un grupo de investigadores toman una muestra aleatoria de 672 pacientes que estuvieron internados en infectología de un Hospital a lo largo del año 2018. De esos pacientes, 151 presentaron la enfermedad y dieron positivo al test, 24 presentaron la enfermedad, pero el test les dio negativo. A su vez, 185 personas dieron positivo al test de hepatitis B. Si un paciente de este grupo presenta hepatitis B, ¿cuál es la probabilidad de que el test sea positivo?",
+      "text": "Se quiere investigar la aplicación de un nuevo test para el diagnóstico de hepatitis B. Para ello un grupo de investigadores toman una muestra aleatoria de 672 pacientes que estuvieron internados en infectología de un hospital a lo largo del año 2018. De esos pacientes, 151 presentaron la enfermedad y dieron positivo al test, 24 presentaron la enfermedad, pero el test les dio negativo. A su vez, 185 personas dieron positivo al test de hepatitis B. Si un paciente de este grupo presenta hepatitis B, ¿cuál es la probabilidad de que el test sea positivo?",
       "options": [
         {
           "id": "e75a8cc9-edd1-4c0c-9cdd-7ea08f6e8122",
@@ -2371,7 +2371,7 @@
       "evaluation": "parcial_1",
       "source": "partial",
       "asked_at": "2020-11-07",
-      "text": "Se quiere investigar la aplicación de un nuevo test para el diagnóstico de hepatitis B. Para ello un grupo de investigadores toman una muestra aleatoria de 672 pacientes que estuvieron internados en infectología de un Hospital a lo largo del año 2018. De esos pacientes, 151 presentaron la enfermedad y dieron positivo al test, 24 presentaron la enfermedad, pero el test les dio negativo. A su vez, 185 personas dieron positivo al test de hepatitis B. ¿Cuál es la probabilidad de que una persona, elegida aleatoriamente de este grupo, no tenga Hepatitis B si el resultado del test es positivo?",
+      "text": "Se quiere investigar la aplicación de un nuevo test para el diagnóstico de hepatitis B. Para ello un grupo de investigadores toman una muestra aleatoria de 672 pacientes que estuvieron internados en infectología de un hospital a lo largo del año 2018. De esos pacientes, 151 presentaron la enfermedad y dieron positivo al test, 24 presentaron la enfermedad, pero el test les dio negativo. A su vez, 185 personas dieron positivo al test de hepatitis B. ¿Cuál es la probabilidad de que una persona, elegida aleatoriamente de este grupo, no tenga Hepatitis B si el resultado del test es positivo?",
       "options": [
         {
           "id": "7fced09f-6290-41e3-bb86-efb596680fd5",
@@ -2475,7 +2475,7 @@
       "evaluation": "parcial_1",
       "source": "partial",
       "asked_at": "2020-11-07",
-      "text": "Un estudio realizado en el Hospital Clínico Universitario Virgen de la Arrixaca (España) en 2016-2017, reportó 36.5% episiotomías en 10.630 partos vaginales. ¿Cuál será la imprecisión del intervalo de confianza 95%?",
+      "text": "Un estudio realizado en el Hospital Clínico Universitario Virgen de la Arrixaca (España) en 2016-2017, reportó 36.5% episiotomías en 10.630 partos vaginales. La probabilidad de que en 10 partos vaginales se realicen dos episiotomías es 0.16. ¿Cuál será la imprecisión del intervalo de confianza al 95%?",
       "options": [
         {
           "id": "cd31fa0b-7613-4b0e-97e2-4a0c374f8e2c",

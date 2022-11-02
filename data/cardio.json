@@ -1125,7 +1125,7 @@
         },
         {
           "id": "8b70f08a-13c8-4377-84af-458ce803744b",
-          "text": "Los cambios de posición sólo modifican la presión a la salida del corazón."
+          "text": "Los cambios de posición solo modifican la presión a la salida del corazón."
         }
       ]
     },
@@ -2291,7 +2291,7 @@
         },
         {
           "id": "76786422-1d18-450a-8229-847257e4b3f3",
-          "text": "Los cambios de posición sólo modifican la presión arterial a nivel de los miembros inferiores."
+          "text": "Los cambios de posición solo modifican la presión arterial a nivel de los miembros inferiores."
         }
       ]
     },
@@ -4076,7 +4076,7 @@
         },
         {
           "id": "8f24128a-33d7-46ee-b3ab-5187ba3a38d9",
-          "text": "El gasto se mantiene constante sólo en sectores de igual calibre."
+          "text": "El gasto se mantiene constante solo en sectores de igual calibre."
         },
         {
           "id": "0535748e-c9b2-4033-83bd-a9d78ec11e50",
@@ -5350,7 +5350,7 @@
         },
         {
           "id": "b3fe73f0-5e8c-4dee-a783-cc5cac3730c3",
-          "text": "La presión intra-pleural toma valores negativos sólo durante la espiración."
+          "text": "La presión intra-pleural toma valores negativos solo durante la espiración."
         }
       ]
     },

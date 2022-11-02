@@ -232,7 +232,7 @@
         },
         {
           "id": "a2647b02-1c20-441e-b76e-f42366b67944",
-          "text": "El proceso de cambio de clase de los receptores T sucede sólo a nivel de los centros germinativos de los ganglios linfáticos."
+          "text": "El proceso de cambio de clase de los receptores T sucede solo a nivel de los centros germinativos de los ganglios linfáticos."
         },
         {
           "id": "92ed4c76-411a-4c83-8354-23499053c197",
@@ -7916,7 +7916,7 @@
         },
         {
           "id": "61a311e7-8492-4213-9fc0-ec221b39917c",
-          "text": "El trasplante alogénico sólo se puede relizar si existe un hermano HLA idéntico."
+          "text": "El trasplante alogénico solo se puede relizar si existe un hermano HLA idéntico."
         },
         {
           "id": "9ffaa32f-e715-41a5-8432-371aacc816f5",
@@ -8298,7 +8298,7 @@
         },
         {
           "id": "f4e18728-3491-4a4f-808a-36e25698a4b5",
-          "text": "Incluye sólo alteraciones en la inmunidad adaptativa dado que es la que determina la especificidad inmunológica."
+          "text": "Incluye solo alteraciones en la inmunidad adaptativa dado que es la que determina la especificidad inmunológica."
         },
         {
           "id": "301e251d-f3ad-458e-a7e2-98c6e4cc0b1c",
@@ -8370,7 +8370,7 @@
         },
         {
           "id": "de03589e-c1ed-4feb-8c24-bac79702da73",
-          "text": "Por lo general se identifica el defecto en el funcionamiento de un sólo componente del sistema inmune."
+          "text": "Por lo general se identifica el defecto en el funcionamiento de un solo componente del sistema inmune."
         }
       ]
     },
@@ -8418,7 +8418,7 @@
         },
         {
           "id": "f554a88c-73ea-4d8f-a201-c2f3873a103f",
-          "text": "La activación de la cascada del complemento sólo genera daño tisular mediante opsonización y fagocitosis."
+          "text": "La activación de la cascada del complemento solo genera daño tisular mediante opsonización y fagocitosis."
         },
         {
           "id": "e8b0686a-d9ac-48b4-9949-32cdf1caf7bb",
@@ -8426,7 +8426,7 @@
         },
         {
           "id": "e48d3f39-59b4-46af-9236-b476dbf5dae7",
-          "text": "Las reacciones de HS de tipo II y III se caracterizan por anticuerpos que sólo reconocen antígenos exógenos."
+          "text": "Las reacciones de HS de tipo II y III se caracterizan por anticuerpos que solo reconocen antígenos exógenos."
         },
         {
           "id": "6fa331e4-2346-4482-9e32-56432acc9abe",
@@ -8443,7 +8443,7 @@
       "options": [
         {
           "id": "a37abad3-a7ea-4ff6-ba6e-7dd76d3d72bf",
-          "text": "Las manifestaciones clínicas se producen sólo si el individuo se encuentra sensibilizado para el antígeno.",
+          "text": "Las manifestaciones clínicas se producen solo si el individuo se encuentra sensibilizado para el antígeno.",
           "correct": true
         },
         {
@@ -8606,7 +8606,7 @@
         },
         {
           "id": "f23ec756-31bf-4d06-877e-d475274444ea",
-          "text": "La infección de una célula blanco por el VIH requiere sólo de la presencia de la molécula CD4."
+          "text": "La infección de una célula blanco por el VIH requiere solo de la presencia de la molécula CD4."
         },
         {
           "id": "4d198cef-33fb-46dd-a3b0-e99869f34f68",
@@ -9472,7 +9472,7 @@
         },
         {
           "id": "3540eae6-251d-4e22-b015-6cf5785e28a1",
-          "text": "En la infección viral persistente crónica, el virus es detectable sólo en los episodios de reactivación."
+          "text": "En la infección viral persistente crónica, el virus es detectable solo en los episodios de reactivación."
         },
         {
           "id": "bde94d15-ca0b-4633-aef9-ec8abc58592c",
@@ -11375,7 +11375,7 @@
       "evaluation": "parcial_3",
       "source": "partial",
       "asked_at": "2017-10-21",
-      "text": "Streptococcus pneumoniae es uno de los principales patógenos respiratorios humanos, y parte de su éxito está dado por las múltiples estrategias que ha desarrollado para evadir la respuesta del hospedero. A continuación se describen varias estrategias, siendo sólo una correcta.",
+      "text": "Streptococcus pneumoniae es uno de los principales patógenos respiratorios humanos, y parte de su éxito está dado por las múltiples estrategias que ha desarrollado para evadir la respuesta del hospedero. A continuación se describen varias estrategias, siendo solo una correcta.",
       "options": [
         {
           "id": "bd828fb7-8352-4ed8-977d-45d35e1165e6",
@@ -14922,7 +14922,7 @@
         },
         {
           "id": "47faf66f-5124-423e-a18d-328d19cface8",
-          "text": "Son necesarias sólo para aquellas vacunas que vayan a ser utilizadas en niños."
+          "text": "Son necesarias solo para aquellas vacunas que vayan a ser utilizadas en niños."
         }
       ]
     },
@@ -14944,7 +14944,7 @@
         },
         {
           "id": "df6e4497-97f6-4cd8-97d3-d3c970a83b49",
-          "text": "Las fases I y II sólo controlan dosis-respuesta."
+          "text": "Las fases I y II solo controlan dosis-respuesta."
         },
         {
           "id": "6cd97054-7467-48ca-980d-71525d5c2f48",
