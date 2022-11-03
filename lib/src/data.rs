@@ -40,7 +40,7 @@ impl CourseData {
         let evaluations: Vec<CourseEvaluationData> =
             raw.evaluations.into_iter().map(Into::into).collect();
 
-        let mut data = Self {
+        Self {
             key,
             name: raw.name,
             short_name: raw.short_name,
@@ -50,11 +50,7 @@ impl CourseData {
             questions,
             evaluations,
             hash: Default::default(),
-        };
-
-        data.set_hash();
-
-        data
+        }
     }
 
     pub async fn load_and_write_formatted(
@@ -68,10 +64,9 @@ impl CourseData {
         data.clean();
         data.sort();
 
-        data.set_data();
-
         images_path.push(data.key.clone());
         data.format(images_path).await?;
+        data.set_data();
 
         data.clone().write(path)?;
 
@@ -138,8 +133,10 @@ impl CourseData {
         }
 
         for evaluation in &mut self.evaluations {
-            evaluation.set_course_key(self.key.clone());
+            evaluation.set_data(self.key.clone());
         }
+
+        self.set_hash();
     }
 
     async fn format(&mut self, images_path: PathBuf) -> Result<()> {
@@ -184,7 +181,7 @@ impl Hashable for CourseData {
         bytes.extend(self.key.as_bytes());
         bytes.extend(self.name.as_bytes());
         bytes.extend(self.short_name.as_bytes());
-        bytes.extend(self.aliases.join("").as_bytes());
+        bytes.extend(self.aliases.join(",").as_bytes());
 
         if let Some(year) = self.year {
             bytes.extend(&year.to_be_bytes());
@@ -235,21 +232,17 @@ impl QuestionData {
         source: String,
         asked_at: Option<NaiveDate>,
     ) -> Self {
-        let mut data = Self {
+        Self {
             id,
             course_key: None,
             evaluation,
             source,
             asked_at,
             text,
-            image_file_name: image_file_name,
+            image_file_name,
             question_options,
             hash: Default::default(),
-        };
-
-        data.set_hash();
-
-        data
+        }
     }
 
     fn sort_options(&mut self) {
@@ -326,8 +319,10 @@ impl QuestionData {
         self.set_course_key(course_key);
 
         for question_option in self.question_options.iter_mut() {
-            question_option.set_question_id(self.id);
+            question_option.set_data(self.id);
         }
+
+        self.set_hash();
     }
 
     pub fn full_evaluation_key(&self) -> String {
@@ -366,6 +361,8 @@ impl Hashable for QuestionData {
         let mut bytes = vec![];
 
         bytes.extend(self.id.as_bytes());
+
+        bytes.extend(self.course_key().as_bytes());
         bytes.extend(self.text.as_bytes());
 
         if let Some(image_file_name) = &self.image_file_name {
@@ -423,18 +420,14 @@ pub struct QuestionOptionData {
 
 impl QuestionOptionData {
     fn new(id: Uuid, text: String, correct: bool, explanation: Option<String>) -> Self {
-        let mut data = Self {
+        Self {
             id,
             question_id: None,
             text,
             correct,
             explanation,
             hash: Default::default(),
-        };
-
-        data.set_hash();
-
-        data
+        }
     }
 
     fn eq_data(&self, other: &Self) -> bool {
@@ -447,8 +440,9 @@ impl QuestionOptionData {
         self.text = self.text.trim().into();
     }
 
-    pub fn set_question_id(&mut self, question_id: Uuid) {
+    pub fn set_data(&mut self, question_id: Uuid) {
         self.question_id = Some(question_id);
+        self.set_hash();
     }
 }
 
@@ -457,6 +451,12 @@ impl Hashable for QuestionOptionData {
         let mut bytes = vec![];
 
         bytes.extend(self.id.as_bytes());
+        bytes.extend(
+            self.question_id
+                .as_ref()
+                .expect("question ID not set in question option")
+                .as_bytes(),
+        );
         bytes.extend(self.text.as_bytes());
         bytes.extend(&[self.correct as u8]);
 
@@ -493,16 +493,12 @@ pub struct CourseEvaluationData {
 
 impl CourseEvaluationData {
     pub fn new(raw: RawCourseEvaluationData) -> Self {
-        let mut data = Self {
+        Self {
             course_key: None,
             key: raw.key,
             name: raw.name,
             hash: Default::default(),
-        };
-
-        data.set_hash();
-
-        data
+        }
     }
 
     pub fn full_key(&self) -> String {
@@ -511,6 +507,11 @@ impl CourseEvaluationData {
 
     pub fn do_full_key(course_key: &str, key: &str) -> String {
         format!("{}{COURSE_EVALUATION_KEY_SEPARATOR}{}", course_key, key)
+    }
+
+    fn set_data(&mut self, course_key: String) {
+        self.set_course_key(course_key);
+        self.set_hash();
     }
 }
 
@@ -530,6 +531,7 @@ impl Hashable for CourseEvaluationData {
     fn hashable_data(&self) -> Vec<u8> {
         let mut bytes = vec![];
 
+        bytes.extend(self.course_key().as_bytes());
         bytes.extend(self.name.as_bytes());
 
         bytes

@@ -3251,7 +3251,7 @@
       "evaluation": "parcial_1",
       "source": "partial",
       "asked_at": "2021-11-06",
-      "text": "Un estudio realizado en España pretendió evaluar la prevalencia de diferentes tipos de lesiones pulmonares en una cohorte de pacientes hospitalizados por COVID-19. Se encontró que la probabilidad de tener una lesión \"no típica de COVID-19\" en esa población es de 0.043, mientras que la probabilidad de lesiones \"típicas de COVID-19\" era de 0.824. Si se seleccionan dos pacientes al azar de esta población ¿Cuál es la probabilidad de que ambos tengan lesiones \"no típicas de COVID-19\"?",
+      "text": "Un estudio realizado en España pretendió evaluar la prevalencia de diferentes tipos de lesiones pulmonares en una cohorte de pacientes hospitalizados por COVID-19. Se encontró que la probabilidad de tener una lesión \"no típica de COVID-19\" en esa población es de 0.043, mientras que la probabilidad de lesiones \"típicas de COVID-19\" era de 0.824. Si se seleccionan dos pacientes al azar de esta población, ¿cuál es la probabilidad de que ambos tengan lesiones \"no típicas de COVID-19\"?",
       "options": [
         {
           "id": "12605c11-96c7-4975-b57d-50899896336c",
@@ -3277,7 +3277,7 @@
       "evaluation": "parcial_1",
       "source": "partial",
       "asked_at": "2021-11-06",
-      "text": "Un estudio realizado en España pretendió evaluar la prevalencia de diferentes tipos de lesiones pulmonares en una cohorte de pacientes hospitalizados por COVID-19. Se encontró que la probabilidad de tener una lesión \"no típica de COVID-19\" en esa población es de 0.043, mientras que la probabilidad de lesiones \"típicas de COVID-19\" era de 0.824. Si se seleccionan dos pacientes al azar de esta población ¿Cuál es la probabilidad de que uno tenga lesiones \"típicas de COVID-19\" y el otro tenga lesiones \"no típicas de COVID-19\", en ese orden?",
+      "text": "Un estudio realizado en España pretendió evaluar la prevalencia de diferentes tipos de lesiones pulmonares en una cohorte de pacientes hospitalizados por COVID-19. Se encontró que la probabilidad de tener una lesión \"no típica de COVID-19\" en esa población es de 0.043, mientras que la probabilidad de lesiones \"típicas de COVID-19\" era de 0.824. Si se seleccionan dos pacientes al azar de esta población, ¿cuál es la probabilidad de que uno tenga lesiones \"típicas de COVID-19\" y el otro tenga lesiones \"no típicas de COVID-19\", en ese orden?",
       "options": [
         {
           "id": "ff777f63-5f71-43a8-a293-7e8c4d9890b2",
