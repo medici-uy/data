@@ -183,6 +183,10 @@ impl Hashable for CourseData {
         bytes.extend(self.short_name.as_bytes());
         bytes.extend(self.aliases.join(",").as_bytes());
 
+        if let Some(image_file_name) = &self.image_file_name {
+            bytes.extend(image_file_name.to_string_lossy().as_bytes());
+        }
+
         if let Some(year) = self.year {
             bytes.extend(&year.to_be_bytes());
         }
