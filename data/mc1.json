@@ -408,10 +408,35 @@
       ]
     },
     {
+      "id": "95f63b31-206d-4e40-8935-186aa6d2ae28",
+      "evaluation": "parcial_1",
+      "source": "self_assessment",
+      "text": "Un laboratorio afirma que una droga causa efectos secundarios en una proporción de 30 de cada 100 pacientes. Para contrastar esta afirmación, otro laboratorio elige al azar a 10 pacientes a los que aplica la droga. ¿Cuál es la probabilidad de que a lo sumo dos pacientes tengan efectos secundarios?",
+      "options": [
+        {
+          "id": "19f1d3ed-2948-4b46-930f-adb736783b27",
+          "text": "0.3828.",
+          "correct": true
+        },
+        {
+          "id": "b43eeeb6-1083-492d-8b5a-6c7ea22805e8",
+          "text": "0.1493."
+        },
+        {
+          "id": "aec7e76a-8ab1-4fb3-9ded-2b346f435fb7",
+          "text": "0.2338."
+        },
+        {
+          "id": "615bf1e9-c54d-40ce-a5bd-7f8daf238687",
+          "text": "0.8507."
+        }
+      ]
+    },
+    {
       "id": "2ceb3815-215e-4e30-b994-59ff4547bbdb",
       "evaluation": "parcial_1",
       "source": "self_assessment",
-      "text": "Un laboratorio afirma que una droga causa de efectos secundarios en una proporción de 30 de cada 100 pacientes. Para contrastar esta afirmación, otro laboratorio elige al azar a 10 pacientes a los que aplica la droga. ¿Cuál es la probabilidad de que dos o más pacientes tengan efectos secundarios?",
+      "text": "Un laboratorio afirma que una droga causa efectos secundarios en una proporción de 30 de cada 100 pacientes. Para contrastar esta afirmación, otro laboratorio elige al azar a 10 pacientes a los que aplica la droga. ¿Cuál es la probabilidad de que dos o más pacientes tengan efectos secundarios?",
       "options": [
         {
           "id": "442ddf9d-2497-48ba-84dd-0d20e2ac1d22",
@@ -436,7 +461,7 @@
       "id": "c09f0851-1b45-4f53-88f5-f5c7d9780930",
       "evaluation": "parcial_1",
       "source": "self_assessment",
-      "text": "Un laboratorio afirma que una droga causa de efectos secundarios en una proporción de 30 de cada 100 pacientes. Para contrastar esta afirmación, otro laboratorio elige al azar a 10 pacientes a los que aplica la droga. ¿Cuál es la probabilidad de que ninguno sufra efectos secundarios?",
+      "text": "Un laboratorio afirma que una droga causa efectos secundarios en una proporción de 30 de cada 100 pacientes. Para contrastar esta afirmación, otro laboratorio elige al azar a 10 pacientes a los que aplica la droga. ¿Cuál es la probabilidad de que ninguno sufra efectos secundarios?",
       "options": [
         {
           "id": "04583b3a-9e93-47fc-bd9f-e1f1a6e5fec1",
@@ -461,7 +486,7 @@
       "id": "cd1a6f78-a547-42e8-9d6d-19dd685b6af2",
       "evaluation": "parcial_1",
       "source": "self_assessment",
-      "text": "Un laboratorio afirma que una droga causa de efectos secundarios en una proporción de 30 de cada 100 pacientes. Para contrastar esta afirmación, otro laboratorio elige al azar a 10 pacientes a los que aplica la droga. ¿Cuál es la probabilidad de que únicamente una persona tenga efectos secundarios?",
+      "text": "Un laboratorio afirma que una droga causa efectos secundarios en una proporción de 30 de cada 100 pacientes. Para contrastar esta afirmación, otro laboratorio elige al azar a 10 pacientes a los que aplica la droga. ¿Cuál es la probabilidad de que únicamente una persona tenga efectos secundarios?",
       "options": [
         {
           "id": "e9ede1ed-e70d-4ffc-a892-b9a133e0b424",
@@ -479,31 +504,6 @@
         {
           "id": "839a2cab-5113-4973-8c37-85bfaf40ac6a",
           "text": "0.1493."
-        }
-      ]
-    },
-    {
-      "id": "95f63b31-206d-4e40-8935-186aa6d2ae28",
-      "evaluation": "parcial_1",
-      "source": "self_assessment",
-      "text": "Un laboratorio afirma que una droga causa de efectos secundarios en una proporción de 30 de cada 100 pacientes. Para contrastar esta afirmación, otro laboratorio elige al azar a 10 pacientes a los que aplica la droga.¿Cuál es la probabilidad de que a lo sumo dos pacientes tengan efectos secundarios?",
-      "options": [
-        {
-          "id": "19f1d3ed-2948-4b46-930f-adb736783b27",
-          "text": "0.3828.",
-          "correct": true
-        },
-        {
-          "id": "b43eeeb6-1083-492d-8b5a-6c7ea22805e8",
-          "text": "0.1493."
-        },
-        {
-          "id": "aec7e76a-8ab1-4fb3-9ded-2b346f435fb7",
-          "text": "0.2338."
-        },
-        {
-          "id": "615bf1e9-c54d-40ce-a5bd-7f8daf238687",
-          "text": "0.8507."
         }
       ]
     },
@@ -761,7 +761,7 @@
         },
         {
           "id": "34894d6d-be41-4422-a71b-9076bf974a85",
-          "text": "Si la pregunta de investigación cambia una vez iniciada la investigación, ésta continúa sin necesidad de modificaciones en lo elaborado hasta el presente."
+          "text": "Si la pregunta de investigación cambia una vez iniciada la investigación, esta continúa sin necesidad de modificaciones en lo elaborado hasta el presente."
         }
       ]
     },
@@ -2140,13 +2140,13 @@
       "text": "En relación con los estudios descriptivos señale la opción correcta:",
       "options": [
         {
-          "id": "ceef0ed7-e701-4e83-80f4-a2940e50109d",
-          "text": "Generalmente permiten obtener conclusiones sobre relaciones causa-efecto.",
+          "id": "017f514f-0328-4b42-b310-437cbe0eeb1b",
+          "text": "El diseño de los estudios descriptivos es adecuado para generar hipótesis.",
           "correct": true
         },
         {
-          "id": "017f514f-0328-4b42-b310-437cbe0eeb1b",
-          "text": "El diseño de los estudios descriptivos es adecuado para generar hipótesis."
+          "id": "ceef0ed7-e701-4e83-80f4-a2940e50109d",
+          "text": "Generalmente permiten obtener conclusiones sobre relaciones causa-efecto."
         },
         {
           "id": "074a40e4-e7e9-4276-b840-e66e460bb7ac",
@@ -2372,7 +2372,7 @@
       "evaluation": "parcial_1",
       "source": "partial",
       "asked_at": "2020-11-07",
-      "text": "Se quiere investigar la aplicación de un nuevo test para el diagnóstico de hepatitis B. Para ello un grupo de investigadores toman una muestra aleatoria de 672 pacientes que estuvieron internados en infectología de un hospital a lo largo del año 2018. De esos pacientes, 151 presentaron la enfermedad y dieron positivo al test, 24 presentaron la enfermedad, pero el test les dio negativo. A su vez, 185 personas dieron positivo al test de hepatitis B. ¿Cuál es la probabilidad de que una persona, elegida aleatoriamente de este grupo, no tenga Hepatitis B si el resultado del test es positivo?",
+      "text": "Se quiere investigar la aplicación de un nuevo test para el diagnóstico de hepatitis B. Para ello un grupo de investigadores toman una muestra aleatoria de 672 pacientes que estuvieron internados en infectología de un hospital a lo largo del año 2018. De esos pacientes, 151 presentaron la enfermedad y dieron positivo al test, 24 presentaron la enfermedad, pero el test les dio negativo. A su vez, 185 personas dieron positivo al test de hepatitis B. ¿Cuál es la probabilidad de que una persona, elegida aleatoriamente de este grupo, no tenga hepatitis B si el resultado del test es positivo?",
       "options": [
         {
           "id": "7fced09f-6290-41e3-bb86-efb596680fd5",
@@ -3033,7 +3033,7 @@
       "evaluation": "parcial_1",
       "source": "partial",
       "asked_at": "2021-11-06",
-      "text": "La tabla siguiente muestra los pesos de niñas de 10 meses atendidas en la policlínica de La Cruz de Carrasco.¿Cuál es la probabilidad de que tomando una niña al azar su peso se encuentre entre 7000 g y 8000 g sabiendo que pesa menos de 9000 g?",
+      "text": "La tabla siguiente muestra los pesos de niñas de 10 meses atendidas en la policlínica de La Cruz de Carrasco. ¿Cuál es la probabilidad de que tomando una niña al azar su peso se encuentre entre 7000 g y 8000 g sabiendo que pesa menos de 9000 g?",
       "image": "a8098113-7c0c-44d2-986e-60d507669607.webp",
       "options": [
         {
@@ -3130,7 +3130,7 @@
       "evaluation": "parcial_1",
       "source": "partial",
       "asked_at": "2021-11-06",
-      "text": "Se extrajo una muestra al azar de 220 historias clínicas de pacientes ingresados en un servicio de cuidados moderados por COVID-19 en un año y se encontró que un 7% de ellas correspondía a pacientes sin patologías previas. Si se quisiera diseñar un muestreo para estimar la proporción de pacientes COVID-19 que no presentan patologías previas, en una población similar ¿Cuál es el tamaño mínimo de muestra para estimar esta proporción, con una confianza del 95% y con una imprecisión máxima de 0.05?",
+      "text": "Se extrajo una muestra al azar de 220 historias clínicas de pacientes ingresados en un servicio de cuidados moderados por COVID-19 en un año y se encontró que un 7% de ellas correspondía a pacientes sin patologías previas. Si se quisiera diseñar un muestreo para estimar la proporción de pacientes COVID-19 que no presentan patologías previas, en una población similar, c¿uál es el tamaño mínimo de muestra para estimar esta proporción, con una confianza del 95% y con una imprecisión máxima de 0.05?",
       "options": [
         {
           "id": "21689d98-971d-4974-a534-97212f61cbda",
