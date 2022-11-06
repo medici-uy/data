@@ -10,10 +10,10 @@ pub async fn sync(
     data_path: PathBuf,
     images_path: PathBuf,
     engine_url: Url,
-    engine_key: Secret<String>,
+    engine_secret: Secret<String>,
     sync_images_bucket: bool,
 ) -> Result<()> {
-    let engine_client = engine_client(engine_key)?;
+    let engine_client = engine_client(engine_secret)?;
     let mut sync_metadata = sync_metadata(&engine_client, engine_url.clone()).await?;
 
     let mut courses_to_sync = vec![];
@@ -109,12 +109,12 @@ pub async fn sync(
     Ok(())
 }
 
-fn engine_client(engine_key: Secret<String>) -> Result<reqwest::Client> {
+fn engine_client(engine_secret: Secret<String>) -> Result<reqwest::Client> {
     let client = reqwest::Client::builder()
         .default_headers(
             [(
                 reqwest::header::AUTHORIZATION,
-                format!("Bearer {}", engine_key.expose_secret()).parse()?,
+                format!("Bearer {}", engine_secret.expose_secret()).parse()?,
             )]
             .into_iter()
             .collect(),
@@ -125,13 +125,13 @@ fn engine_client(engine_key: Secret<String>) -> Result<reqwest::Client> {
 }
 
 async fn sync_metadata(client: &reqwest::Client, engine_url: Url) -> Result<SyncMetadata> {
-    let url = engine_url.join("sync-metadata")?;
+    let url = engine_url.join("admin/sync-metadata")?;
 
     Ok(client.get(url).send().await?.json().await?)
 }
 
 async fn sync_data(client: &reqwest::Client, engine_url: Url, data: SyncData) -> Result<()> {
-    let url = engine_url.join("sync-data")?;
+    let url = engine_url.join("admin/sync-data")?;
     let response = client.post(url).json(&data).send().await?;
 
     if response.status().is_success() {

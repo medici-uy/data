@@ -27,14 +27,14 @@ impl Synchronizer {
                 data_path,
                 images_path,
                 engine_url,
-                engine_key,
+                engine_secret,
                 sync_images_bucket,
             } => {
                 sync::sync(
                     data_path,
                     images_path,
                     engine_url,
-                    engine_key,
+                    engine_secret,
                     sync_images_bucket,
                 )
                 .await?;
@@ -97,8 +97,13 @@ enum Command {
         #[clap(long, value_parser, value_name = "ENGINE_URL", env = "ENGINE_URL")]
         engine_url: Url,
 
-        #[clap(long, value_parser, value_name = "ENGINE_KEY", env = "ENGINE_KEY")]
-        engine_key: Secret<String>,
+        #[clap(
+            long,
+            value_parser,
+            value_name = "ENGINE_SECRET",
+            env = "ENGINE_SECRET"
+        )]
+        engine_secret: Secret<String>,
     },
 }
 
