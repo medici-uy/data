@@ -3735,7 +3735,7 @@
         },
         {
           "id": "88db0e8a-b8a9-449a-8e99-1d5d5e554444",
-          "text": "El OR es una buena aproximación del riesgo relativo sólo cuando la proporción de casos en los que se presenta el evento es elevada (> 30%)."
+          "text": "El OR es una buena aproximación del riesgo relativo solo cuando la proporción de casos en los que se presenta el evento es elevada (> 30%)."
         },
         {
           "id": "e7ce485b-3ca7-4bda-914c-d13ca26287c3",
@@ -4562,7 +4562,7 @@
       "evaluation": "parcial_2",
       "source": "partial",
       "asked_at": "2017-12-02",
-      "text": "Un residente comenta en el ateneo que según el estudio \"ASCOT-BPLA\" (ensayo clínico randomizado) no se debían usar más los β-bloqueantes para el tratamiento de la hipertensión arterial, y que a partir de ahora debía indicarse amlodipina en lugar de atenolol.  En ASCOT-BPLA, el riesgo relativo (RR) del tratamiento con amlodipina en relación con el atenolol fue 0.90 (IC 95% 0.5;0.94).",
+      "text": "Un residente comenta en el ateneo que según el estudio \"ASCOT-BPLA\" (ensayo clínico randomizado) no se debían usar más los β-bloqueantes para el tratamiento de la hipertensión arterial, y que a partir de ahora debía indicarse amlodipina en lugar de atenolol. En ASCOT-BPLA, el riesgo relativo (RR) del tratamiento con amlodipina en relación con el atenolol fue 0.90 (IC 95% 0.5;0.94).",
       "options": [
         {
           "id": "8649a663-d532-4d48-94ee-ae2df76e7bd2",
@@ -4792,7 +4792,7 @@
       "evaluation": "parcial_2",
       "source": "partial",
       "asked_at": "2019-11-30",
-      "text": "En un contraste de hipótesis para la media unilateral se ha trabajado con un nivel de significación del 5%. Se ha rechazado la hipótesis nula en base a un valor p de 0.03.  Si se hubiera hecho un contraste bilateral con el mismo nivel de significación y con la misma muestra, ¿cuál hubiera sido la decisión a tomar?",
+      "text": "En un contraste de hipótesis para la media unilateral se ha trabajado con un nivel de significación del 5%. Se ha rechazado la hipótesis nula en base a un valor p de 0.03. Si se hubiera hecho un contraste bilateral con el mismo nivel de significación y con la misma muestra, ¿cuál hubiera sido la decisión a tomar?",
       "options": [
         {
           "id": "5161ae96-bc1e-4a64-93b3-83372a04f4e0",
@@ -4918,7 +4918,7 @@
       "evaluation": "parcial_2",
       "source": "partial",
       "asked_at": "2019-11-30",
-      "text": "Las revisiones sistemáticas de la literatura (RSL) son estudios de carácter integrativo que pueden resumir, de forma valiosa y precisa, los resultados de diversos estudios primarios.  Marque lo correcto sobre las revisiones sistemáticas:",
+      "text": "Las revisiones sistemáticas de la literatura (RSL) son estudios de carácter integrativo que pueden resumir, de forma valiosa y precisa, los resultados de diversos estudios primarios. Marque lo correcto sobre las revisiones sistemáticas:",
       "options": [
         {
           "id": "3426080e-b184-487d-9c21-8e9a6d54d0f2",
@@ -5664,7 +5664,7 @@
       "options": [
         {
           "id": "5211df2a-80e8-490f-9b79-557d59b14e5d",
-          "text": "Se puede vincular a la persona por un código que sólo ella conoce.",
+          "text": "Se puede vincular a la persona por un código que solo ella conoce.",
           "correct": true
         },
         {
@@ -6614,7 +6614,7 @@
         },
         {
           "id": "80d61920-06a5-4d13-9ed4-20e678cb600c",
-          "text": "Se puede vincular a la persona por un código que sólo ella conoce."
+          "text": "Se puede vincular a la persona por un código que solo ella conoce."
         },
         {
           "id": "cd2bcc58-5817-44d3-8917-8d7e1ac8bd14",

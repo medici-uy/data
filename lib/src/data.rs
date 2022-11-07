@@ -308,7 +308,7 @@ impl QuestionData {
     }
 
     async fn format(&mut self, images_path: PathBuf) -> Result<()> {
-        self.text = self.text.trim().into();
+        self.text = self.text.trim().replace("  ", " ");
 
         self.format_image(images_path).await?;
 
@@ -441,7 +441,7 @@ impl QuestionOptionData {
     }
 
     fn format(&mut self) {
-        self.text = self.text.trim().into();
+        self.text = self.text.trim().replace("  ", " ");
     }
 
     pub fn set_data(&mut self, question_id: Uuid) {
