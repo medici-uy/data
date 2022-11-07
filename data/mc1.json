@@ -3366,58 +3366,6 @@
       ]
     },
     {
-      "id": "d2394d3b-7077-46c0-ad2d-7d9f2979615e",
-      "evaluation": "parcial_2",
-      "source": "partial",
-      "asked_at": "2014-12-09",
-      "text": "En relación a los estudios observacionales analíticos, señale la opción correcta:",
-      "options": [
-        {
-          "id": "4527d09f-2ac4-4c09-baf0-94082c7b3594",
-          "text": "Pueden ser tanto prospectivos como retrospectivos.",
-          "correct": true
-        },
-        {
-          "id": "843dce6b-8ee0-4b77-ad4a-2b28b256a653",
-          "text": "Muestran una instantánea en la evolución en un momento dado."
-        },
-        {
-          "id": "04e081e0-33bd-4e80-9787-094f1a6eec17",
-          "text": "No pueden realizarse de forma prospectiva."
-        },
-        {
-          "id": "a059aee2-1414-4cfc-b695-da90ad096776",
-          "text": "No pueden realizarse de forma retrospectiva."
-        }
-      ]
-    },
-    {
-      "id": "5b603ac3-802e-4d72-807b-e66c2c548b1a",
-      "evaluation": "parcial_2",
-      "source": "partial",
-      "asked_at": "2014-12-09",
-      "text": "Un estudio de cohortes es un estudio observacional analítico en el cual (marque la opción correcta):",
-      "options": [
-        {
-          "id": "2c0f9c11-9abb-4a2e-90e6-2fdcc1ff70bf",
-          "text": "Se observan individuos sanos expuestos y no expuestos al factor de estudio.",
-          "correct": true
-        },
-        {
-          "id": "6d679a42-0c99-4fbe-8cae-5e3db81fbcdf",
-          "text": "Existe una asignación aleatoria a un grupo tratado o control."
-        },
-        {
-          "id": "8793a911-0ec3-4f0c-ad36-dcdf4309313b",
-          "text": "No permite calcular incidencia y riesgo relativo."
-        },
-        {
-          "id": "f863e1d9-4b87-47c7-81ba-235348be2377",
-          "text": "Parte de individuos sanos y enfermos y se compara la exposición en ambos."
-        }
-      ]
-    },
-    {
       "id": "12ac540a-f88a-45b0-b75a-986bf5664d52",
       "evaluation": "parcial_2",
       "source": "partial",
@@ -3614,6 +3562,32 @@
         {
           "id": "ea7ff090-dfeb-4f7a-8ff4-5b7726d2bdf0",
           "text": "Una ventaja es que los grupos de estudio no tienen que ser similares desde el comienzo del estudio."
+        }
+      ]
+    },
+    {
+      "id": "d2394d3b-7077-46c0-ad2d-7d9f2979615e",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2014-12-09",
+      "text": "En relación a los estudios observacionales analíticos, señale la opción correcta:",
+      "options": [
+        {
+          "id": "4527d09f-2ac4-4c09-baf0-94082c7b3594",
+          "text": "Pueden ser tanto prospectivos como retrospectivos.",
+          "correct": true
+        },
+        {
+          "id": "843dce6b-8ee0-4b77-ad4a-2b28b256a653",
+          "text": "Muestran una instantánea en la evolución en un momento dado."
+        },
+        {
+          "id": "04e081e0-33bd-4e80-9787-094f1a6eec17",
+          "text": "No pueden realizarse de forma prospectiva."
+        },
+        {
+          "id": "a059aee2-1414-4cfc-b695-da90ad096776",
+          "text": "No pueden realizarse de forma retrospectiva."
         }
       ]
     },
@@ -3830,12 +3804,12 @@
           "correct": true
         },
         {
-          "id": "fbf98a67-7bb6-46e9-9875-c0fb51c93c95",
-          "text": "Intervalo de confianza."
-        },
-        {
           "id": "b045e128-f795-43f2-9872-f9266a4f8bf9",
           "text": "Incidencia."
+        },
+        {
+          "id": "fbf98a67-7bb6-46e9-9875-c0fb51c93c95",
+          "text": "Intervalo de confianza."
         },
         {
           "id": "25537188-d024-438f-9b5d-9a8255bad402",
@@ -4022,6 +3996,32 @@
       ]
     },
     {
+      "id": "5b603ac3-802e-4d72-807b-e66c2c548b1a",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2014-12-09",
+      "text": "Un estudio de cohortes es un estudio observacional analítico en el cual (marque la opción correcta):",
+      "options": [
+        {
+          "id": "2c0f9c11-9abb-4a2e-90e6-2fdcc1ff70bf",
+          "text": "Se observan individuos sanos expuestos y no expuestos al factor de estudio.",
+          "correct": true
+        },
+        {
+          "id": "6d679a42-0c99-4fbe-8cae-5e3db81fbcdf",
+          "text": "Existe una asignación aleatoria a un grupo tratado o control."
+        },
+        {
+          "id": "8793a911-0ec3-4f0c-ad36-dcdf4309313b",
+          "text": "No permite calcular incidencia y riesgo relativo."
+        },
+        {
+          "id": "f863e1d9-4b87-47c7-81ba-235348be2377",
+          "text": "Parte de individuos sanos y enfermos y se compara la exposición en ambos."
+        }
+      ]
+    },
+    {
       "id": "56619ac6-a6be-442b-a737-e279eca6953d",
       "evaluation": "parcial_2",
       "source": "partial",
@@ -4103,8 +4103,8 @@
       "text": "El error de tipo I corresponde a:",
       "options": [
         {
-          "id": "2254c48f-4521-482a-bee3-d083a90b259a",
-          "text": "Rechazar Ho cuando esta es falsa.",
+          "id": "3e5440e7-db3a-4654-abd9-a397fcaf6ad4",
+          "text": "Rechazar Ho cuando esta es cierta.",
           "correct": true
         },
         {
@@ -4116,8 +4116,8 @@
           "text": "No rechazar Ho cuando esta es falsa."
         },
         {
-          "id": "3e5440e7-db3a-4654-abd9-a397fcaf6ad4",
-          "text": "Rechazar Ho cuando esta es cierta."
+          "id": "2254c48f-4521-482a-bee3-d083a90b259a",
+          "text": "Rechazar Ho cuando esta es falsa."
         }
       ]
     },
@@ -4628,6 +4628,670 @@
         {
           "id": "4768505a-82bc-4872-a528-d11ee49bb073",
           "text": "2.33."
+        }
+      ]
+    },
+    {
+      "id": "7cbe707c-daac-49e7-9470-c8b3c7866047",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-30",
+      "text": "Al realizar un contraste de hipótesis para una proporción se utiliza la aproximación normal de la distribución binomial de parámetros n y p. ¿Qué condición se tiene cumplir para que esta aproximación sea válida?",
+      "options": [
+        {
+          "id": "ee6b35f7-2670-487f-8230-f4f328167b1d",
+          "text": "Que np > 5 y n(1-p) > 5.",
+          "correct": true
+        },
+        {
+          "id": "218e84a7-bc17-4058-b6f7-deb2fdef0b0e",
+          "text": "Que la variable en estudio sea continua."
+        },
+        {
+          "id": "1fcd61bd-997d-4845-a300-13077460e74c",
+          "text": "Que n > 30."
+        },
+        {
+          "id": "e69d6dfc-3268-4aec-b2b7-1959417ee872",
+          "text": "Que np > 5 y n(1-p) < 5."
+        },
+        {
+          "id": "b919903b-e6cc-4c5a-a42a-699e5da3282d",
+          "text": "Que np > 5 y p(1-p) < 5."
+        }
+      ]
+    },
+    {
+      "id": "cb76e082-7e29-4cd5-9429-9d6d38daf78f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-30",
+      "text": "Cuando una investigación hace referencia a un problema al que ya han respondido investigaciones previas, ¿qué principio ético no cumple?",
+      "options": [
+        {
+          "id": "0d0c6eae-5a56-4085-ac91-5a39f75daf86",
+          "text": "Valor social.",
+          "correct": true
+        },
+        {
+          "id": "0ea67aaf-356f-4aa1-98a2-76c250db358a",
+          "text": "Balance riesgo/beneficio."
+        },
+        {
+          "id": "29a1985e-6f1e-440c-8297-7c7aa674e3f1",
+          "text": "Selección equitativa."
+        }
+      ]
+    },
+    {
+      "id": "1f901dbf-3f2d-4cb9-9e8c-0adedb1d4dd6",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-30",
+      "text": "El error de tipo I consiste en:",
+      "options": [
+        {
+          "id": "b22f725f-e153-4a72-bc9f-aba37b38e96f",
+          "text": "Rechazar la hipótesis nula siendo verdadera.",
+          "correct": true
+        },
+        {
+          "id": "6f774730-c42a-4b5a-9ec7-52700074339f",
+          "text": "No rechazar la hipótesis alternativa siendo falsa."
+        },
+        {
+          "id": "39a3d3a5-de27-4620-bbac-1bc520d48dac",
+          "text": "No rechazar la hipótesis nula siendo esta falsa."
+        },
+        {
+          "id": "4b1b409a-fea4-40f6-b286-96e7f6d8d2a5",
+          "text": "Rechazar la hipótesis alternativa siendo verdadera."
+        }
+      ]
+    },
+    {
+      "id": "74befc94-077e-46e0-9501-5b17bc5666a8",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-30",
+      "text": "En el estudio \"Leche enriquecida con esteroles vegetales como estrategia para conseguir una disminución de la trigliceridemia en la infancia; ensayo clínico doble ciego, aleatorizado y controlado\" los autores refieren que \"La asignación de grupos fue aleatoria, usando tablas de aleatorización por números\". Con este procedimiento los investigadores aseguran:",
+      "options": [
+        {
+          "id": "86265dea-1066-42b1-b6ff-2354c5a82a8b",
+          "text": "La similar distribución de factores pronósticos importantes entre los grupos.",
+          "correct": true
+        },
+        {
+          "id": "a2476c39-412c-4e62-8aca-44a9120089d5",
+          "text": "Enmascarar a los pacientes en la asignación de tratamiento durante el ensayo clínico."
+        },
+        {
+          "id": "2062594b-e2d7-44fc-b294-2d7a9baa8dee",
+          "text": "Que la secuencia de aleatorización sea previsible."
+        },
+        {
+          "id": "380060ae-8664-4595-b4b8-aa744efb268c",
+          "text": "Que no se produzcan sesgos de memoria en el grupo intervención."
+        }
+      ]
+    },
+    {
+      "id": "6a04bcc4-2dba-4aaa-8b73-e39e1be1e101",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-30",
+      "text": "En el estudio \"Leche enriquecida con esteroles vegetales como estrategia para conseguir una disminución de la trigliceridemia en la infancia; ensayo clínico doble ciego, aleatorizado y controlado\", ¿Cómo clasificaría el tipo de estudio?",
+      "options": [
+        {
+          "id": "240f1051-3b13-4c04-a29f-6d9937cf0570",
+          "text": "Experimental y analítico.",
+          "correct": true
+        },
+        {
+          "id": "6831c740-714a-4c34-bde4-08369f7dab11",
+          "text": "Analítico y observacional."
+        },
+        {
+          "id": "43ef0985-25d1-4caf-a5ad-fe3cd91c55f7",
+          "text": "Descriptivo y experimental."
+        },
+        {
+          "id": "c9b52d55-26fa-4fd2-84b6-80ed95958641",
+          "text": "Transversal y descriptivo."
+        }
+      ]
+    },
+    {
+      "id": "6335277b-53aa-457a-85f7-00815783410b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-30",
+      "text": "En los estudios de cohortes el riesgo relativo estima:",
+      "options": [
+        {
+          "id": "7dc15858-3065-4ded-9507-d5b3b306687b",
+          "text": "La fuerza de la asociación entre una exposición y una enfermedad.",
+          "correct": true
+        },
+        {
+          "id": "2f802e57-d4ba-4e6b-878f-6a434e46372b",
+          "text": "La diferencia de riesgos entre expuestos y no expuestos a un factor."
+        },
+        {
+          "id": "563a1ff0-6a81-4f0e-aae2-3c0bcb291ad6",
+          "text": "La magnitud de un problema de salud en una comunidad."
+        },
+        {
+          "id": "6f0f9622-7b22-4637-970c-4cedf02a20ce",
+          "text": "La proporción de casos atribuible a la exposición."
+        }
+      ]
+    },
+    {
+      "id": "61c7c208-b024-475b-8187-0a7d68fd7607",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-30",
+      "text": "En un contraste de hipótesis para la media unilateral se ha trabajado con un nivel de significación del 5%. Se ha rechazado la hipótesis nula en base a un valor p de 0.03.  Si se hubiera hecho un contraste bilateral con el mismo nivel de significación y con la misma muestra, ¿cuál hubiera sido la decisión a tomar?",
+      "options": [
+        {
+          "id": "5161ae96-bc1e-4a64-93b3-83372a04f4e0",
+          "text": "No rechazar Ho.",
+          "correct": true
+        },
+        {
+          "id": "e7824333-fc89-4889-ade6-42236507bb8b",
+          "text": "Aceptar Ho."
+        },
+        {
+          "id": "9fa054cc-f61a-49bd-858d-5a75483bda98",
+          "text": "No se puede predecir."
+        },
+        {
+          "id": "483b0efc-b864-4ea2-a865-9902ae02b5d7",
+          "text": "Rechazar Ho."
+        }
+      ]
+    },
+    {
+      "id": "ab9153c0-f4d8-4037-a14a-4c7ffcd4d972",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-30",
+      "text": "En un ensayo clínico realizado sobre pacientes con infarto agudo de miocardio, se ha observado que la mortalidad del grupo que ha recibido el nuevo tratamiento es menor que la del grupo de referencia, con un riesgo relativo (RR) de 0.90 (intervalo de confianza del 95%: 0.75-1.05). ¿Cuál de las siguientes afirmaciones es cierta?",
+      "options": [
+        {
+          "id": "d44ae9e8-bcae-46d4-b3c6-fc20f6a7730c",
+          "text": "El resultado no es estadísticamente significativo.",
+          "correct": true
+        },
+        {
+          "id": "f4722afb-51cd-40a5-ac3a-3b1a8eef3130",
+          "text": "Debe recomendarse el nuevo tratamiento, ya que la diferencia en la mortalidad es estadísticamente significativa."
+        },
+        {
+          "id": "fef3a8e2-c2d7-447d-9e4f-7c8e0c7a2ba5",
+          "text": "El nuevo tratamiento es más eficaz."
+        },
+        {
+          "id": "7d6b4184-fc6a-4635-b0a5-b013316e5605",
+          "text": "El resultado es estadísticamente significativo, ya que el intervalo de confianza excluye el valor RR = 0."
+        }
+      ]
+    },
+    {
+      "id": "a623f543-c789-4939-a431-43df4e047d19",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-30",
+      "text": "En un hospital universitario, el laboratorio detecta la presencia y dispersión de una nueva cepa bacteriana multirresistente a los antibióticos disponibles. Esto desencadena una investigación epidemiológica. ¿Qué diseño selecciona para conocer los factores asociados para el desarrollo de esta nueva cepa bacteriana en pacientes hospitalizados?",
+      "options": [
+        {
+          "id": "457a3535-fc8b-44e4-9119-c4097ae62e44",
+          "text": "Casos y controles.",
+          "correct": true
+        },
+        {
+          "id": "7a3ec482-ba8d-4e15-b6d8-27f178612990",
+          "text": "Ecológico."
+        },
+        {
+          "id": "79808844-a64a-490b-97bb-69b4279d9342",
+          "text": "Ensayo clínico."
+        },
+        {
+          "id": "6630c9ff-47d2-4d75-98b1-0c4de77d58ac",
+          "text": "Experimental."
+        }
+      ]
+    },
+    {
+      "id": "b5eb077b-5089-4535-ba2b-cc983c44dfc9",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-30",
+      "text": "La planificación de un ensayo clínico con seres humanos debe ser tan cuidadosa como la de cualquier estudio. La misma debe comenzar con:",
+      "options": [
+        {
+          "id": "af0a10ed-ece7-4293-aaa6-3f49becb507e",
+          "text": "Pregunta de investigación.",
+          "correct": true
+        },
+        {
+          "id": "0fbc2647-51e1-4325-9411-0e1690956279",
+          "text": "Análisis de los resultados."
+        },
+        {
+          "id": "f6436270-020c-4aff-ad3e-424205602e9e",
+          "text": "Asignación aleatoria de los sujetos."
+        },
+        {
+          "id": "f3239255-7849-49e0-9420-bc83c7dad01b",
+          "text": "Extrapolación de los hallazgos."
+        }
+      ]
+    },
+    {
+      "id": "58866ffe-d773-418e-84d7-002663700f33",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-30",
+      "text": "La vulnerabilidad de los sujetos de investigación es:",
+      "options": [
+        {
+          "id": "276b9365-2716-468b-b730-7d5453223fc7",
+          "text": "Relativa a cada situación.",
+          "correct": true
+        },
+        {
+          "id": "a4bf9beb-ca81-428c-a805-10d3cf1f937d",
+          "text": "Independiente de los contextos."
+        },
+        {
+          "id": "03ea5cd4-99db-42b8-b159-5acd9e39f095",
+          "text": "Permanente e incambiante."
+        }
+      ]
+    },
+    {
+      "id": "7733dace-69da-404a-b3a4-a5e4043b77e9",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-30",
+      "text": "Las revisiones sistemáticas de la literatura (RSL) son estudios de carácter integrativo que pueden resumir, de forma valiosa y precisa, los resultados de diversos estudios primarios.  Marque lo correcto sobre las revisiones sistemáticas:",
+      "options": [
+        {
+          "id": "3426080e-b184-487d-9c21-8e9a6d54d0f2",
+          "text": "Permite explorar causas de variación (heterogeneidad) entre diversos estudios, en los efectos de intervenciones en salud y en los riesgos basales.",
+          "correct": true
+        },
+        {
+          "id": "d0220716-b505-456d-b197-5d7aac19d2cf",
+          "text": "Es frecuente encontrar en ellas sesgos de memoria."
+        },
+        {
+          "id": "d6b023fa-459a-42bc-b92e-a395f51bf096",
+          "text": "No es necesario que el revisor describa en detalle los métodos empleados en la búsqueda de la literatura."
+        },
+        {
+          "id": "7a8d4758-5413-4a1b-9fd2-2858da8e9fe3",
+          "text": "No requiere realizar una revisión exhaustiva de la literatura para asegurar la validez interna del estudio."
+        }
+      ]
+    },
+    {
+      "id": "72444101-355e-4a7a-bd24-e8b1caf01960",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-30",
+      "text": "Marque la opción correcta respecto a revisiones sistemáticas de la literatura (RSL).",
+      "options": [
+        {
+          "id": "622e8556-aae8-41cd-9c2d-a5d8f01ea54f",
+          "text": "La elaboración de la pregunta de investigación de la revisión es el primer paso en la RSL.",
+          "correct": true
+        },
+        {
+          "id": "a2eb7c62-a1a5-4a1b-8e33-f67511aa698b",
+          "text": "La búsqueda de literatura en bases de datos es el primer paso en la RSL."
+        },
+        {
+          "id": "e367aadb-e3f6-40e7-a8d8-97e88e59853a",
+          "text": "La búsqueda de material de interés en libros, revistas, publicaciones es el primer paso en la RSL."
+        },
+        {
+          "id": "11db1960-0082-49af-ba52-200efcc5797f",
+          "text": "No existen técnicas para analizar el sesgo de publicación, esto dificulta la selección de artículos."
+        }
+      ]
+    },
+    {
+      "id": "ef99f005-4693-4323-8302-5d2a524065ac",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-30",
+      "text": "Mientras se está investigando la asociación entre dos variables P y Q se realiza un análisis de correlación. No se rechaza la hipótesis nula. ¿Qué conclusión debe sacarse acerca de la relación entre P y Q?",
+      "options": [
+        {
+          "id": "48402fa8-17e9-43d4-88af-768843740908",
+          "text": "No ha podido demostrarse que haya una relación lineal entre P y Q.",
+          "correct": true
+        },
+        {
+          "id": "2d520da8-b223-4925-9bbf-5f42b0039d5b",
+          "text": "El aumento de P determina un aumento proporcional de Q."
+        },
+        {
+          "id": "95f38c01-9fed-41a4-b38c-e331120801e6",
+          "text": "Hay una relación lineal entre P y Q."
+        },
+        {
+          "id": "3d399fc6-d39e-459b-a3fd-cfd0d2271bfc",
+          "text": "Las variables P y Q son independientes."
+        }
+      ]
+    },
+    {
+      "id": "f1acb05b-6e85-4b5b-97ac-4177d1883ae1",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-30",
+      "text": "Respecto a las hipótesis en un contraste bilateral para una proporción:",
+      "options": [
+        {
+          "id": "440d1b18-1220-4179-b511-bed51bd1f04f",
+          "text": "La hipótesis nula expresa la igualdad con la proporción teórica, por ejemplo: H0: p = p0.",
+          "correct": true
+        },
+        {
+          "id": "86eaf290-e1bf-4035-a4f5-6e813b29ba84",
+          "text": "La hipótesis alternativa expresa la igualdad con la proporción teórica, por ejemplo: H1: p = p0."
+        },
+        {
+          "id": "f17d2eab-b138-4ba3-ab34-88cdf84e92a2",
+          "text": "La hipótesis nula expresa la desigualdad respecto de la proporción teórica, por ejemplo: H0: p ≠ p0."
+        },
+        {
+          "id": "d3f038b5-c8c2-4d55-9446-142559d507d8",
+          "text": "Las hipótesis se plantean luego que se conoce el valor del estadístico de prueba."
+        }
+      ]
+    },
+    {
+      "id": "fb2872bf-85a5-4c20-b600-ff28582cccd8",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-30",
+      "text": "Se desea conocer la asociación entre los posibles factores de riesgo para el desarrollo de multirresistencia bacteriana en una población hospitalaria. Señale qué medida utilizaría para conocer la fuerza de asociación:",
+      "options": [
+        {
+          "id": "df742bc3-9ff4-48b2-8350-7a67e0495d89",
+          "text": "Odds ratio.",
+          "correct": true
+        },
+        {
+          "id": "e19a15fc-5278-400e-b921-8ff7877f78e4",
+          "text": "Incidencia."
+        },
+        {
+          "id": "ea681f3c-5bf8-415e-b2f0-d917a2b6bd13",
+          "text": "Prevalencia."
+        },
+        {
+          "id": "5c91203e-4849-4c09-8bb7-1fb5ca5e39b3",
+          "text": "Tasa de incidencia."
+        }
+      ]
+    },
+    {
+      "id": "f067839c-4aa8-48e8-85b6-5c1752c004bf",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-30",
+      "text": "Se realizó un estudio de casos y controles con el objetivo de identificar variables asociadas con la aparición de cáncer orofaríngeo (\"Case-Control Study of Human Papillomavirus and Oropharyngeal Cancer\", D'Souza y cols, 2007). Entre las variables explicatorias se consideró la pérdida de piezas dentarias como indicador de higiene oral. La tabla muestra el riesgo de cáncer orofaríngeo en relación a la pérdida de piezas dentarias. En la columna señalada con (A) se muestra la medida de riesgo. ¿Cuál es el título de esta columna?",
+      "image": "f067839c-4aa8-48e8-85b6-5c1752c004bf.webp",
+      "options": [
+        {
+          "id": "be5944d3-21a6-466c-9672-e8778b2a7254",
+          "text": "Odds ratio.",
+          "correct": true
+        },
+        {
+          "id": "2ec44363-0670-41fd-a879-ce0b92cdf83c",
+          "text": "Coeficiente r de Pearson."
+        },
+        {
+          "id": "47c31ea5-a500-43cc-aac4-0ac4a113e72b",
+          "text": "Razón de prevalencias."
+        },
+        {
+          "id": "8eb2054b-b4a7-496f-bd99-936a0435c3f1",
+          "text": "Riesgo relativo."
+        }
+      ]
+    },
+    {
+      "id": "a18fdeb2-4134-40b5-895c-d7d001e1a020",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-30",
+      "text": "Se realizó un estudio de casos y controles con el objetivo de identificar variables asociadas con la aparición de cáncer orofaríngeo (\"Case-Control Study of Human Papillomavirus and Oropharyngeal Cancer\", D'Souza y cols, 2007). Entre las variables explicatorias se consideró la pérdida de piezas dentarias como indicador de higiene oral. La tabla muestra el riesgo de cáncer orofaríngeo en relación a la pérdida de piezas dentarias. ¿Cuál es el contenido de la celda marcada (C)?",
+      "image": "a18fdeb2-4134-40b5-895c-d7d001e1a020.webp",
+      "options": [
+        {
+          "id": "0c7cd617-3859-48b0-a773-40e74421b547",
+          "text": "(1.69; 6.83).",
+          "correct": true
+        },
+        {
+          "id": "433e2846-2ea2-4b67-b347-34bb038b9421",
+          "text": "(0.15; 0.59)."
+        },
+        {
+          "id": "4d81f435-a31e-4ac8-b70e-debc89925dff",
+          "text": "(0.41; 0.85)."
+        },
+        {
+          "id": "8f6fca14-2467-416f-8555-8b88508d4ca4",
+          "text": "(1,37; 4.87)."
+        },
+        {
+          "id": "bfd71a75-b65c-46d2-a3ac-3b9bed7b73de",
+          "text": "(1.53; 6.03)."
+        }
+      ]
+    },
+    {
+      "id": "21d5aacd-9422-4d5b-b034-6666bd43d316",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-30",
+      "text": "Se realizó un estudio de casos y controles con el objetivo de identificar variables asociadas con la aparición de cáncer orofaríngeo (\"Case-Control Study of Human Papillomavirus and Oropharyngeal Cancer\", D'Souza y cols, 2007). Entre las variables explicatorias se consideró la pérdida de piezas dentarias como indicador de higiene oral. La tabla muestra el riesgo de cáncer orofaríngeo en relación a la pérdida de piezas dentarias. ¿Cuál es el valor (B)?",
+      "image": "21d5aacd-9422-4d5b-b034-6666bd43d316.webp",
+      "options": [
+        {
+          "id": "ecce69e9-6a58-4d9d-9023-27032f017c35",
+          "text": "3.40.",
+          "correct": true
+        },
+        {
+          "id": "8093acfd-a825-40f6-b4ab-01855c2749c1",
+          "text": "0.29."
+        },
+        {
+          "id": "e61e5715-c5fb-4c7d-87ab-38485043ee72",
+          "text": "0.57."
+        },
+        {
+          "id": "0200b4a2-f725-40af-a329-b95c5054b5a2",
+          "text": "2.59."
+        },
+        {
+          "id": "e02ff0b1-b23d-46af-91fa-4d74bdc9409f",
+          "text": "3.03."
+        }
+      ]
+    },
+    {
+      "id": "e473c403-d51e-44b9-942a-7abc6e3d3287",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-30",
+      "text": "Se realizó un estudio de casos y controles con el objetivo de identificar variables asociadas con la aparición de cáncer orofaríngeo (\"Case-Control Study of Human Papillomavirus and Oropharyngeal Cancer\", D'Souza y cols, 2007). Entre las variables explicatorias se consideró la pérdida de piezas dentarias como indicador de higiene oral. La tabla muestra el riesgo de cáncer orofaríngeo en relación a la pérdida de piezas dentarias. ¿Cuál fue la categoría de la variable \"pérdida dentaria\" que se tomó como referencia para el cálculo de los valores de (A)?",
+      "image": "e473c403-d51e-44b9-942a-7abc6e3d3287.webp",
+      "options": [
+        {
+          "id": "055f2ddc-c57b-4456-a936-318982255905",
+          "text": "Ninguna pérdida dentaria.",
+          "correct": true
+        },
+        {
+          "id": "ef3e0fe8-358d-4bed-8b82-a6127ac1bc02",
+          "text": "Alguna pérdida dentaria."
+        },
+        {
+          "id": "84b47a6f-6789-4616-b091-c8bfcdcaf51f",
+          "text": "No se puede saber teniendo cómo única información esta tabla."
+        },
+        {
+          "id": "8ce64343-d058-4fef-85bb-2785f9ee526e",
+          "text": "Pérdida de todas las piezas dentarias."
+        }
+      ]
+    },
+    {
+      "id": "0477d8f2-5488-4b84-ad45-98a133e35c40",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-30",
+      "text": "Según Ezequiel Emanuel, ¿a qué se hace referencia con selección equitativa de los sujetos?",
+      "options": [
+        {
+          "id": "2e0230ca-3996-49b2-9b23-f9f542175bc6",
+          "text": "A que todos quiénes se beneficiarán tienen la misma oportunidad de participar.",
+          "correct": true
+        },
+        {
+          "id": "d43553de-1817-43eb-bd7f-5f269bb2faab",
+          "text": "A la selección por \"conveniencia\" de los sujetos de investigación."
+        },
+        {
+          "id": "1a97f714-7a78-4495-90c9-22cda1faa07f",
+          "text": "A que los beneficios serán para los grupos con mayor vulnerabilidad."
+        }
+      ]
+    },
+    {
+      "id": "31b93a26-82a8-4642-9fc0-df4f7af7156b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-30",
+      "text": "Según el imperativo kantiano, cuando un sujeto de investigación sufre explotación, ¿cómo se lo considera?",
+      "options": [
+        {
+          "id": "bbb5eaea-aa70-4172-83da-2c2155bfaeba",
+          "text": "Como un medio.",
+          "correct": true
+        },
+        {
+          "id": "01cb05cd-6f52-4bd4-8484-e9f387007050",
+          "text": "Como un fin."
+        },
+        {
+          "id": "5fcbf35f-51e6-46d8-9c05-616fffb29ac3",
+          "text": "Como un ser vulnerado."
+        }
+      ]
+    },
+    {
+      "id": "afef2abd-ffe1-41f1-b10f-afeb1f418db3",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-30",
+      "text": "Un estudio en el que se seleccionan sujetos libres de enfermedad, que son clasificados según el nivel de exposición a posibles factores de riesgo y son seguidos para observar la incidencia de enfermedad a lo largo del tiempo, es un:",
+      "options": [
+        {
+          "id": "80bb46ec-b9b8-451c-8ed6-b61d74a6bee5",
+          "text": "Estudio de cohortes.",
+          "correct": true
+        },
+        {
+          "id": "eb6358c6-f5ee-4627-882d-b71da3544ba4",
+          "text": "Ensayo clínico."
+        },
+        {
+          "id": "8e17f3c6-f630-464e-8715-cf267fd09234",
+          "text": "Estudio de casos y controles."
+        },
+        {
+          "id": "bfcce438-4d6b-4371-b26e-a397be3fd5ea",
+          "text": "Estudio transversal."
+        }
+      ]
+    },
+    {
+      "id": "726e4ba5-aeaf-4260-a714-dfc34eaf042f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-30",
+      "text": "¿A qué se hace referencia cuando se plantean dos medidas distintas para evaluar una investigación de acuerdo a la situación socio-económica-cultural del país?",
+      "options": [
+        {
+          "id": "331ec145-aba7-409e-9bb8-143926613fcb",
+          "text": "Doble estándar moral.",
+          "correct": true
+        },
+        {
+          "id": "23ba1ca8-9d0d-41cb-beff-30e1279da84f",
+          "text": "Evaluación multicéntrica."
+        },
+        {
+          "id": "9834b2aa-442f-457f-bab4-7ac6dff8f4c7",
+          "text": "Vulnerabilidad."
+        }
+      ]
+    },
+    {
+      "id": "0fbdeff4-ec3e-4eec-aab1-26b421439d86",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-30",
+      "text": "¿Qué características tienen los requisitos éticos planteados por Ezequiel Emanuel?",
+      "options": [
+        {
+          "id": "7dbe19ba-f697-47c0-886d-0e3720fa0c6b",
+          "text": "Se deben evaluar en el orden cronológico que el autor estipuló.",
+          "correct": true
+        },
+        {
+          "id": "e3b63d0d-6f6e-4482-a1f3-c29f2fafce9b",
+          "text": "Son útiles para algunos tipos de diseños de investigación."
+        },
+        {
+          "id": "72b330e2-6b61-4665-82b5-d48e0d47a133",
+          "text": "Su aplicación debe ser exclusiva por profesionales de la ética."
+        }
+      ]
+    },
+    {
+      "id": "1685c0c1-b876-41e8-97e5-5948facac508",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-30",
+      "text": "¿Qué responsabilidades son las que determinan las obligaciones post-investigación?",
+      "options": [
+        {
+          "id": "d31e9e51-104c-4a8e-996d-77c1331a99fc",
+          "text": "Las de los patrocinadores y/o los investigadores.",
+          "correct": true
+        },
+        {
+          "id": "dfd0a5c0-8bb4-4cc8-b0fc-a0f1ceaec798",
+          "text": "Las de los sujetos de investigación."
+        },
+        {
+          "id": "183f4af0-17e1-403e-aa6d-241c1b4cfb66",
+          "text": "Las de todos los involucrados en la investigación."
         }
       ]
     },
