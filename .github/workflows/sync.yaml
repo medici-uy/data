@@ -11,7 +11,7 @@ env:
   AWS_REGION: sa-east-1
 
   ENGINE_URL: https://engine.medici.uy/
-  ENGINE_KEY: ${{ secrets.ENGINE_KEY }}
+  ENGINE_SECRET: ${{ secrets.ENGINE_SECRET }}
 
 jobs:
   sync:
