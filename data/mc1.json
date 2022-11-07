@@ -3364,12 +3364,1659 @@
           "text": "El valor social de una investigación clínica es clave para decidir si financiarla."
         }
       ]
+    },
+    {
+      "id": "67bced94-b710-4de3-89a2-81e7f2f8f35f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-24",
+      "text": "Con respecto a la investigación en niñas, niños y adolescentes, el concepto de \"diada de consentimiento\" se refiere al:",
+      "options": [
+        {
+          "id": "18ea021d-3872-45df-8819-153c0d2ee522",
+          "text": "Consentimiento informado de adulto responsable y asentimiento de la niña, niño o adolescente.",
+          "correct": true
+        },
+        {
+          "id": "d08b5558-239b-495e-a9dc-a06a049fd163",
+          "text": "Asentimiento de la niña, niño y adolescente y autorización de la institución."
+        },
+        {
+          "id": "f128fd9b-f299-494f-b45d-4d82e10ea976",
+          "text": "Consentimiento informado de dos adultos responsables en caso de negativa de la niña, niño y adolescente."
+        }
+      ]
+    },
+    {
+      "id": "edab29f9-6be8-4810-ab2d-9defd46fe884",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-24",
+      "text": "Cuando una investigación considerada éticamente inaceptable en un país rico se considera aceptable en uno de escasos recursos nos encontramos frente a un caso de:",
+      "options": [
+        {
+          "id": "7be57f79-8f87-411c-b5b4-455ce1b6c6d5",
+          "text": "Doble estándar moral.",
+          "correct": true
+        },
+        {
+          "id": "2ae56875-a36d-4b1e-89c6-59394741908e",
+          "text": "Fuerza mayor."
+        },
+        {
+          "id": "47ccd356-ed0c-47d7-ba44-2319206c0f3c",
+          "text": "Investigación ilegal."
+        }
+      ]
+    },
+    {
+      "id": "9de8b265-cb09-417b-8d87-c316d752f0a6",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-24",
+      "text": "El Decreto 158/2019 referente a la investigación con seres humanos, establece que los posibles beneficios, riesgos, costos y eficacia de todo procedimiento nuevo deben ser evaluados mediante comparación con los mejores métodos preventivos, diagnósticos o terapéuticos:",
+      "options": [
+        {
+          "id": "e0e010af-6fb8-4110-b363-d9a464ed4590",
+          "text": "Probados.",
+          "correct": true
+        },
+        {
+          "id": "f2988cbf-dead-47e7-acce-9a3020b6834e",
+          "text": "Accesibles."
+        },
+        {
+          "id": "e1aa7f36-fea5-4025-a76f-6cca9627f633",
+          "text": "Disponibles."
+        }
+      ]
+    },
+    {
+      "id": "301caf48-6d9c-44e0-9ab2-21ef01bcde0f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-24",
+      "text": "El concepto de beneficios colectivos, como aparece en la Declaración Universal de Bioética y Derechos Humanos, se refiere:",
+      "options": [
+        {
+          "id": "0663679e-2f30-40fb-b36f-3badfd51fc9d",
+          "text": "A la sociedad, la comunidad y los sujetos de investigación.",
+          "correct": true
+        },
+        {
+          "id": "86b9d4e0-da69-4375-9a99-82a13131a1ea",
+          "text": "Exclusivamente a la comunidad."
+        },
+        {
+          "id": "cb467ded-8d11-4e73-b415-d1244f9b2676",
+          "text": "Exclusivamente a los sujetos de investigación."
+        }
+      ]
+    },
+    {
+      "id": "a251a46a-82e4-484a-941f-c832c3cd0a25",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-24",
+      "text": "El concepto de doble estándar moral en investigación se refiere a:",
+      "options": [
+        {
+          "id": "9329010f-767e-4315-9821-6ec6ac8b86c4",
+          "text": "Realizar en un lugar un protocolo que se considera inaceptable en otro.",
+          "correct": true
+        },
+        {
+          "id": "7aae0e34-e522-4241-bc3a-427cfa266552",
+          "text": "Juzgar en forma diferente un protocolo según quien lo presente."
+        },
+        {
+          "id": "11174389-8d8c-42cc-844e-b087d6d8e337",
+          "text": "Tratar en forma diferente a los dos brazos de una misma investigación."
+        }
+      ]
+    },
+    {
+      "id": "652c31f9-c13b-4181-8f8e-cd7e9a3b393d",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-24",
+      "text": "El diseño de estudio más adecuado para estimar la prevalencia de una enfermedad es:",
+      "options": [
+        {
+          "id": "ef9fb026-42ed-4dcd-8900-4d63d0e1d32b",
+          "text": "Transversal.",
+          "correct": true
+        },
+        {
+          "id": "3171099e-1b10-4bcd-a2fd-d7f2fce6e85b",
+          "text": "Caso-control."
+        },
+        {
+          "id": "6426a621-5fb7-4efa-b242-a083688543d2",
+          "text": "Cohortes."
+        }
+      ]
+    },
+    {
+      "id": "029576be-22a4-4990-b1b8-34c230ab1894",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-24",
+      "text": "El uso de un placebo como comparador en un ensayo clínico con pacientes es éticamente aceptable cuando:",
+      "options": [
+        {
+          "id": "9bc27639-2f88-4a67-8e21-479a73c440fa",
+          "text": "No existe un tratamiento comprobado.",
+          "correct": true
+        },
+        {
+          "id": "9a77e1c3-9df3-497f-afd3-8f315a8053d6",
+          "text": "Los participantes aceptaron esta posibilidad."
+        },
+        {
+          "id": "369b7b06-62c2-4f7b-b882-4974a131a17d",
+          "text": "Se trata de medicamentos muy costosos."
+        }
+      ]
+    },
+    {
+      "id": "85be70cc-8129-4037-b8da-64c05038b3c4",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-24",
+      "text": "En lo que refiere a estudios epidemiológicos:",
+      "options": [
+        {
+          "id": "bc53a9d3-6220-4e65-92d5-c3f4e0bc7247",
+          "text": "Entre los estudios observacionales los de cohortes son los que aportan mayor nivel de evidencia.",
+          "correct": true
+        },
+        {
+          "id": "847c5542-80aa-40e2-9fd6-1b415b571d05",
+          "text": "El diseño de los estudios caso-control es más válido que los estudios de cohorte porque evitan el sesgo de memoria."
+        },
+        {
+          "id": "c532fd44-e65a-4e23-bf25-748c1d0fa471",
+          "text": "Los estudios observacionales descriptivos permiten establecer causalidad entre factores de riesgo y patologías crónicas prevalentes."
+        }
+      ]
+    },
+    {
+      "id": "28194b9f-465c-4906-85a4-2b14dd8ee004",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-24",
+      "text": "En un contraste de hipótesis para la media, unilateral, se rechazó la hipótesis nula, trabajando con un nivel de significación del 5%. ¿Qué decisión se hubiera tomado si se hubiera trabajado con un nivel de significación del 1%?",
+      "options": [
+        {
+          "id": "cb87023f-9cba-4343-b4ef-6b91de9a8bff",
+          "text": "No se puede saber.",
+          "correct": true
+        },
+        {
+          "id": "5630584b-312e-491b-84fd-097b1c3a57f5",
+          "text": "No se hubiera rechazado la hipótesis nula."
+        },
+        {
+          "id": "f6ffc9a4-ff7a-48ba-ae25-10dba012a7ec",
+          "text": "Se hubiera rechazado la hipótesis nula."
+        }
+      ]
+    },
+    {
+      "id": "950e3f14-ceb9-4df0-af4f-5dd0cfb7233b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-24",
+      "text": "En un contraste de hipótesis, el hecho de rechazar la hipótesis nula siendo cierta se conoce como:",
+      "options": [
+        {
+          "id": "5e16affb-55e3-4c85-aaa2-50fd34b69d5c",
+          "text": "Error de tipo I.",
+          "correct": true
+        },
+        {
+          "id": "3c6067d7-417e-4cf3-a050-5c0cee598873",
+          "text": "Alfa."
+        },
+        {
+          "id": "8d97223a-d949-455c-9c4d-4b13eb3ea8a0",
+          "text": "Beta."
+        },
+        {
+          "id": "8052e301-ff1b-40d5-add1-96daac9c9b0a",
+          "text": "Error de tipo II."
+        },
+        {
+          "id": "3f43811f-8ad9-4fda-9d4a-c599dd4b1ab2",
+          "text": "Valor p."
+        }
+      ]
+    },
+    {
+      "id": "2c364663-b95e-4441-a5cf-4e7090bf4383",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-24",
+      "text": "En un ensayo clínico aleatorizado, la asignación al azar de los pacientes a los diferentes grupos favorece:",
+      "options": [
+        {
+          "id": "179ecc27-3381-4b8a-8c11-fe9ac74a6c61",
+          "text": "Una similar distribución de los factores pronósticos importantes entre los diferentes grupos.",
+          "correct": true
+        },
+        {
+          "id": "6168ce05-4d10-40e3-a27a-cc6bb7768ea3",
+          "text": "Enmascarar a los pacientes en la asignación del tratamiento."
+        },
+        {
+          "id": "0f801987-4ebe-4d63-b5e1-a455be0aa919",
+          "text": "Que la secuencia de aleatorización sea previsible."
+        }
+      ]
+    },
+    {
+      "id": "caa2a6f4-b724-4410-8b57-888465d02ac2",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-24",
+      "text": "En un ensayo clínico controlado, para comprobar \"a posteriori\" que la asignación aleatoria ha sido bien realizada se recomienda:",
+      "options": [
+        {
+          "id": "f928e89c-9f09-449f-b6c9-37ac0e7e2cb1",
+          "text": "Observar que los diferentes grupos presenten características pronósticas comparables.",
+          "correct": true
+        },
+        {
+          "id": "e09dde88-3409-41d3-a3ff-5598028c2716",
+          "text": "Calcular la probabilidad de que se cometa el error tipo I."
+        },
+        {
+          "id": "cbf36554-095f-464b-8c5d-f46f438f1497",
+          "text": "Comprobar la potencia estadística del estudio."
+        }
+      ]
+    },
+    {
+      "id": "b8100c26-a975-416b-bde3-32ecc36c88cc",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-24",
+      "text": "En un estudio de cohortes, el riesgo relativo indica:",
+      "options": [
+        {
+          "id": "0a609369-b85f-49c4-8950-b715f5aa4621",
+          "text": "La fuerza de la asociación entre una exposición y una enfermedad.",
+          "correct": true
+        },
+        {
+          "id": "9900f804-b055-4391-84d2-7e8b670bcf2b",
+          "text": "La diferencia de riesgo entre expuestos y no expuestos."
+        },
+        {
+          "id": "6b30d779-daff-4c6a-b35c-c690c848872e",
+          "text": "La magnitud de un problema de salud en una comunidad."
+        }
+      ]
+    },
+    {
+      "id": "651c8b90-a5d7-463b-946b-1eba67f15e02",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-24",
+      "text": "En un estudio de seguimiento a largo plazo de pacientes con fibrilación auricular crónica se ha documentado un riesgo relativo de padecer una hemorragia intracraneal para uso de anticoagulantes orales (en comparación con antiagregantes plaquetarios) de 3 (intervalos de confianza del 95% 1.5-6). ¿Cuál de las siguientes afirmaciones es correcta?",
+      "options": [
+        {
+          "id": "c8374fbf-851b-4d26-a797-c49d44c29730",
+          "text": "El riesgo relativo estimado significa que la incidencia de hemorragia intracraneal en el grupo con anticoagulantes orales es tres veces superior a la de los tratados con antiagregantes plaquetarios.",
+          "correct": true
+        },
+        {
+          "id": "63240d3d-ab06-454b-ae08-2528eabaf58f",
+          "text": "El diseño corresponde a un estudio de casos y controles."
+        },
+        {
+          "id": "beffec38-68bb-45f0-aac4-6fb4e2f2c9b4",
+          "text": "El riesgo relativo estimado significa que la incidencia de hemorragia intracraneal es un 3% superior en el grupo tratado con anticoagulantes orales."
+        }
+      ]
+    },
+    {
+      "id": "d6f1c60d-9d81-4cf5-8452-ee11e7189b47",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-24",
+      "text": "En un estudio epidemiológico observacional, ¿cuál es el sesgo que produce la existencia de una tercera variable asociada con la exposición de interés y que es causa de la enfermedad estudiada?",
+      "options": [
+        {
+          "id": "6598c27a-9099-4134-9fb2-8411d7f8edba",
+          "text": "Confusión.",
+          "correct": true
+        },
+        {
+          "id": "78d0dd8f-51ab-4659-8d44-b479d9ae15fa",
+          "text": "Sesgo de información."
+        },
+        {
+          "id": "a8a79d23-2b5f-40d6-90fe-2b62e0dc7748",
+          "text": "Sesgo de selección."
+        }
+      ]
+    },
+    {
+      "id": "9689034a-52fa-4e48-b6c3-de2a3fa2c70f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-24",
+      "text": "En un estudio epidemiológico para el que se obtuvo consentimiento comunitario, el consentimiento informado individual:",
+      "options": [
+        {
+          "id": "7ac95078-a0b4-45eb-b6e2-81b7a376457e",
+          "text": "Debe pedirse a todos los participantes.",
+          "correct": true
+        },
+        {
+          "id": "add0999e-5973-4a83-9c69-0b59818c8f24",
+          "text": "No es necesario en un estudio de bajo riesgo físico."
+        },
+        {
+          "id": "2e3ec23e-b2c7-4870-a266-8a2085e56836",
+          "text": "No es necesario si un comité de ética aprobó el estudio."
+        }
+      ]
+    },
+    {
+      "id": "9975f077-2391-43b0-a8ae-04ed2f5146eb",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-24",
+      "text": "La información vinculada anónima es aquella que:",
+      "options": [
+        {
+          "id": "5211df2a-80e8-490f-9b79-557d59b14e5d",
+          "text": "Se puede vincular a la persona por un código que sólo ella conoce.",
+          "correct": true
+        },
+        {
+          "id": "be0284e8-ec89-4f1f-8a81-c81e1ebcef77",
+          "text": "Se puede vincular a la persona por un código que conocen la persona y el investigador."
+        },
+        {
+          "id": "24cd0f85-ce37-4fa3-8346-5d5fbf4dc983",
+          "text": "Se puede vincular con la persona por su nombre."
+        }
+      ]
+    },
+    {
+      "id": "99ff3ac2-8571-4947-b87c-048f96dbe1e3",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-24",
+      "text": "La investigación en niños tiene justificación desde el punto de vista ético en que:",
+      "options": [
+        {
+          "id": "82c019f6-1499-45b0-97fd-9d82c412a911",
+          "text": "De respuesta a problemas propios del grupo.",
+          "correct": true
+        },
+        {
+          "id": "dafd2aac-c140-4390-ace6-aba47703ec8c",
+          "text": "Produzca beneficios para la ciencia y sociedad."
+        },
+        {
+          "id": "8ea1f1cc-3233-477b-8554-00082430461a",
+          "text": "Sea necesaria para obtener avances científicos."
+        }
+      ]
+    },
+    {
+      "id": "b961786e-e0f4-4e48-9dd7-6043aa515940",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-24",
+      "text": "Las obligaciones post-investigación son:",
+      "options": [
+        {
+          "id": "0dfcf39a-dffd-4b1c-80f4-866c28a79bd7",
+          "text": "Parte del concepto de beneficios compartidos.",
+          "correct": true
+        },
+        {
+          "id": "a860f199-5549-47e0-9d30-0ef328db3cbb",
+          "text": "Exactamente lo mismo que el concepto de beneficios compartidos."
+        },
+        {
+          "id": "99006931-5f26-42b1-aff2-138018b9ea3a",
+          "text": "Lo opuesto al concepto de beneficios compartidos."
+        }
+      ]
+    },
+    {
+      "id": "7b093abb-2e0e-4ce4-a8ee-13e5c102920d",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-24",
+      "text": "Los estudios caso-control:",
+      "options": [
+        {
+          "id": "b2fbb670-54c3-4b9e-b4f9-d469052bdf1f",
+          "text": "Son apropiados para estudiar enfermedades raras.",
+          "correct": true
+        },
+        {
+          "id": "d7154afc-8fc2-496a-8973-933bd8580112",
+          "text": "Generalmente son más costosos y complejos que los estudios de cohortes.."
+        },
+        {
+          "id": "96d042b3-49b0-4138-86b8-40df4517e6fa",
+          "text": "Permiten estimar la prevalencia de una enfermedad."
+        }
+      ]
+    },
+    {
+      "id": "94d158b7-4d9e-46e9-b7d5-431855f81b4a",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-24",
+      "text": "Los siguientes datos corresponden a un estudio realizado con el fin de investigar la eventual asociación entre la deficiencia de vitamina A y el desarrollo de cáncer de mama. Para ello se seleccionó aleatoriamente una muestra de pacientes con cáncer de mama y otra de pacientes sin cáncer de mama y se evaluó si presentaron deficiencia de vitamina A o no. El valor del estadístico calculado es:",
+      "image": "94d158b7-4d9e-46e9-b7d5-431855f81b4a.webp",
+      "options": [
+        {
+          "id": "2f0fe9d2-705b-4542-a7a8-95a3da7ea89b",
+          "text": "7.12.",
+          "correct": true
+        },
+        {
+          "id": "e33b402d-cba5-4089-bc70-6c235d0b516e",
+          "text": "1.31."
+        },
+        {
+          "id": "84cf39c8-b680-4b59-806b-a7bb5e7c4041",
+          "text": "1.96."
+        },
+        {
+          "id": "a77ef583-35ef-4979-b0e7-300eb24184dd",
+          "text": "15.3."
+        },
+        {
+          "id": "3b2676ed-8d3a-4b93-b5b8-652a3f368972",
+          "text": "4.01."
+        }
+      ]
+    },
+    {
+      "id": "cda11bcf-0356-4417-adb8-ee9abb76ef3e",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-24",
+      "text": "Los siguientes datos corresponden a un estudio realizado con el fin de investigar la eventual asociación entre la deficiencia de vitamina A y el desarrollo de cáncer de mama. Para ello se seleccionó aleatoriamente una muestra de pacientes con cáncer de mama y otra de pacientes sin cáncer de mama y se evaluó si presentaron deficiencia de vitamina A o no. La medida de riesgo adecuada para hallar en este estudio es:",
+      "image": "cda11bcf-0356-4417-adb8-ee9abb76ef3e.webp",
+      "options": [
+        {
+          "id": "bfdc7c12-4484-414d-8e66-072bf1a1e43f",
+          "text": "Odds ratio.",
+          "correct": true
+        },
+        {
+          "id": "3ff4691f-c18d-4450-a1a0-b4312afef7c5",
+          "text": "Prevalencia."
+        },
+        {
+          "id": "579c5546-29f0-4da0-8f00-3ce597cd2543",
+          "text": "Riesgo relativo."
+        }
+      ]
+    },
+    {
+      "id": "e49fed04-5665-43cc-85be-4a3e1870a85e",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-24",
+      "text": "Los siguientes datos corresponden a un estudio realizado con el fin de investigar la eventual asociación entre la deficiencia de vitamina A y el desarrollo de cáncer de mama. Para ello se seleccionó aleatoriamente una muestra de pacientes con cáncer de mama y otra de pacientes sin cáncer de mama y se evaluó si presentaron deficiencia de vitamina A o no. ¿Cuál de las siguientes pruebas es adecuada para evaluar lo propuesto por los investigadores?",
+      "image": "e49fed04-5665-43cc-85be-4a3e1870a85e.webp",
+      "options": [
+        {
+          "id": "4e5f2d9d-5d52-4c16-bce1-7fab73083d97",
+          "text": "Test de independencia (chi cuadrado).",
+          "correct": true
+        },
+        {
+          "id": "4054ac23-ebc1-4809-8f3a-ff39b20bda1f",
+          "text": "Contraste de hipótesis para una media."
+        },
+        {
+          "id": "35b3bbad-eeb0-4db2-ba5a-16912769c36f",
+          "text": "Contraste de hipótesis para una proporción."
+        },
+        {
+          "id": "f1a32f41-46dc-4b9e-b136-e311b2e1c96d",
+          "text": "Prueba t para dos muestras independientes."
+        }
+      ]
+    },
+    {
+      "id": "cf30b514-5fd0-404e-b762-fe41833f75a8",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-24",
+      "text": "Para conocer la prevalencia de obesidad en una población menor a 14 años, ¿qué tipo de diseño es el más adecuado?",
+      "options": [
+        {
+          "id": "878d66ea-dd58-4a74-b014-753e30aeee18",
+          "text": "Encuesta transversal.",
+          "correct": true
+        },
+        {
+          "id": "1fa04846-6329-4039-b839-9ad75d6a72e9",
+          "text": "Ensayo clínico aleatorizado."
+        },
+        {
+          "id": "c2f83ae0-f57a-4cb3-8391-b20c07966b42",
+          "text": "Estudio de cohortes."
+        }
+      ]
+    },
+    {
+      "id": "c7b7b385-6652-4465-9196-6dfd8de14700",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-24",
+      "text": "Para justificar la realización de investigación en una población vulnerable debe cumplirse el requisito de que:",
+      "options": [
+        {
+          "id": "fc031820-cf18-4123-9768-d1e49a99acbc",
+          "text": "El mismo conocimiento no pueda obtenerse estudiando otra población.",
+          "correct": true
+        },
+        {
+          "id": "83c8bbe6-aae8-47b6-9399-6a71b0bd20dd",
+          "text": "Exista un fuerte beneficio para la sociedad en su conjunto."
+        },
+        {
+          "id": "4d9ad92f-d5be-4f62-b3d7-513212c21d11",
+          "text": "Se remunere económicamente a todos los participantes."
+        }
+      ]
+    },
+    {
+      "id": "05401879-6200-43e1-9e11-0943a1956c15",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-24",
+      "text": "Según el Decreto 158/019, ¿qué concepto se relaciona con la capacidad de autodeterminación reducida de los sujetos de investigación?",
+      "options": [
+        {
+          "id": "8c913ff8-cfce-4422-82d2-19b3f9fb3b59",
+          "text": "Vulnerabilidad",
+          "correct": true
+        },
+        {
+          "id": "feda7713-82c2-43ff-b595-970fdf8ae7ea",
+          "text": "Evaluación independiente."
+        },
+        {
+          "id": "b4ef0b0c-be3a-4d35-bb40-cf909793f6bf",
+          "text": "Fragilidad."
+        }
+      ]
+    },
+    {
+      "id": "e96a8f2d-be26-4e7f-ab6c-ac993634f59d",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-24",
+      "text": "Según la pirámide de evidencia científica:",
+      "options": [
+        {
+          "id": "12173c74-cd24-4826-b8fd-e35bd60401f7",
+          "text": "Las revisiones sistemáticas aportan mayor nivel de evidencia que los estudios observacionales.",
+          "correct": true
+        },
+        {
+          "id": "5113cc80-a3b6-41a8-be2f-da684655f56b",
+          "text": "Las guías de práctica clínica no son útiles para la práctica clínica porque se basan en opiniones de expertos."
+        },
+        {
+          "id": "1314a9d9-7c04-49b3-8709-9724c901fc37",
+          "text": "Los ensayos clínicos aleatorizados son los estudios que aportan mayor nivel de evidencia."
+        }
+      ]
+    },
+    {
+      "id": "86a1f8fc-56e5-472a-b749-a340b31287af",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-24",
+      "text": "Ud. quiere conocer qué evidencia existe sobre la eficacia del cannabis medicinal para el tratamiento del dolor en pacientes con fibromialgia. ¿Qué tipo de estudio es el más adecuado para aprender sobre el tema?",
+      "options": [
+        {
+          "id": "dbc3bc96-c1f8-44aa-aaa0-e048a2065d93",
+          "text": "Una revisión sistemática.",
+          "correct": true
+        },
+        {
+          "id": "b7c02aff-82e2-4e48-822f-7ab666dabb5d",
+          "text": "Un ensayo clínico aleatorizado."
+        },
+        {
+          "id": "72a6a07b-914b-4d67-becd-79cd53df114c",
+          "text": "Un estudio de cohortes doble ciego."
+        }
+      ]
+    },
+    {
+      "id": "c17c6bdf-3ca0-441f-b705-8f2163f79d6b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-24",
+      "text": "Ud. quiere diseñar un estudio caso-control para examinar la relación entre consumo de café y cáncer de páncreas. ¿Cuál será la principal característica que tendrán los sujetos incluidos en el grupo de casos?",
+      "options": [
+        {
+          "id": "52d9ba6e-ce67-467b-89d1-7dd79764178a",
+          "text": "Pacientes con cáncer de páncreas.",
+          "correct": true
+        },
+        {
+          "id": "9932fc74-ffcf-466d-85e1-38c3ed87c429",
+          "text": "Pacientes con cáncer de páncreas y que consumen café."
+        },
+        {
+          "id": "4d28d8c6-8200-4725-902f-beab7a695e7f",
+          "text": "Pacientes que consumen café."
+        }
+      ]
+    },
+    {
+      "id": "c0bba11a-514f-41e7-bb6a-0da897dc2387",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-24",
+      "text": "Ud. quiere diseñar un estudio caso-control para examinar la relación entre consumo de mate y úlcera de estómago. ¿Cuál será la principal característica que tendrán los sujetos incluidos en el grupo control?",
+      "options": [
+        {
+          "id": "39fbee9a-8d07-4c0d-8833-ff91d4904bbc",
+          "text": "Individuos sin úlcera de estómago.",
+          "correct": true
+        },
+        {
+          "id": "2da34ba6-4858-4542-8e7b-59e743015c76",
+          "text": "Individuos con úlcera de estómago y que no consumen mate."
+        },
+        {
+          "id": "18f4ebe7-ccda-4793-a7f1-760b4785f381",
+          "text": "Individuos sin úlcera de estómago y que no consumen mate."
+        }
+      ]
+    },
+    {
+      "id": "2a3181d9-c734-45a7-952d-71cf1bfcb154",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-24",
+      "text": "Una investigación realizada en 19 países europeos encontró una correlación positiva entre el consumo promedio de alcohol por habitante y la tasa de mortalidad por tumores cerebrales. ¿Qué tipo de diseño es?",
+      "options": [
+        {
+          "id": "8f72abb8-9afc-4701-87c6-868d075ab130",
+          "text": "Estudio ecológico.",
+          "correct": true
+        },
+        {
+          "id": "6e364989-f5d4-45f4-9c46-f99c5af66339",
+          "text": "Ensayo clínico."
+        },
+        {
+          "id": "a2769ee9-6b80-44e3-bd2c-6ccd21cb02e3",
+          "text": "Estudio de cohortes."
+        }
+      ]
+    },
+    {
+      "id": "b2cf5c85-3a94-4750-beb7-9d377c989f76",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-24",
+      "text": "¿A cuál de los siguientes conceptos se refiere la expresión \"análisis por intención de tratar\" en un ensayo clínico aleatorio?",
+      "options": [
+        {
+          "id": "d0ae991a-952e-41d7-939f-9900f8573c18",
+          "text": "Analizar los sujetos según el grupo al que han sido asignados.",
+          "correct": true
+        },
+        {
+          "id": "fe9c1ed4-dd8a-44d2-8a23-6d78deab0466",
+          "text": "Analizar los sujetos según la intervención que han recibido en realidad."
+        },
+        {
+          "id": "f5078b4a-043f-4114-8723-573bd3b56d4b",
+          "text": "Analizar solamente los sujetos asignados al grupo que ha recibido el tratamiento de interés."
+        }
+      ]
+    },
+    {
+      "id": "8e380e69-63ea-46a7-96ee-8894906ca598",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-24",
+      "text": "¿Cuál de las siguientes definiciones se corresponde con mayor precisión al concepto de metaanálisis?:",
+      "options": [
+        {
+          "id": "4e41af47-4aa2-45a1-8e12-49c066748cff",
+          "text": "Es una revisión en la que se combinan estadísticamente los resultados de los estudios incluidos.",
+          "correct": true
+        },
+        {
+          "id": "60c221bb-89c9-4171-a235-502983dd1b99",
+          "text": "Es una revisión sistemática en la que la bibliografía se busca de manera estructurada."
+        },
+        {
+          "id": "7b8f7ada-9dd7-49b4-af79-784f8fe2c8a0",
+          "text": "Es una revisión sistemática en la que se presentan tablas estructuradas de los resultados de los distintos estudios incluidos."
+        }
+      ]
+    },
+    {
+      "id": "18d56875-fa75-47f1-85a8-251d2bc293c1",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "Al realizar un contraste de hipótesis no se ha rechazado la hipótesis nula. ¿Cómo ha sido el valor p?",
+      "options": [
+        {
+          "id": "9d277cc8-35f1-4bba-b90e-72aa18f4ad86",
+          "text": "Mayor que el nivel de significación elegido por el investigador.",
+          "correct": true
+        },
+        {
+          "id": "6e355074-269b-4389-92b4-7d9732dd39ec",
+          "text": "Igual que el nivel de significación elegido por el investigador."
+        },
+        {
+          "id": "00fac330-d3a3-40ce-b631-08d2ab4d8b3e",
+          "text": "Independiente del nivel de significación elegido por el investigador."
+        },
+        {
+          "id": "df1eaa4d-8441-4cc7-91a8-f7a4352fddb6",
+          "text": "Menor que el nivel de significación elegido por el investigador."
+        }
+      ]
+    },
+    {
+      "id": "83c3553f-ad6f-4465-ab77-80ecc5c08082",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "Al realizar un contraste de hipótesis se ha rechazado la hipótesis nula. ¿Cómo ha sido el valor p?",
+      "options": [
+        {
+          "id": "b7745931-ec03-477f-b913-6d3a56e170a2",
+          "text": "Menor que el nivel de significación elegido por el investigador.",
+          "correct": true
+        },
+        {
+          "id": "ea1c3fb4-f10a-471f-88de-79dedc551137",
+          "text": "Igual que el nivel de significación elegido por el investigador."
+        },
+        {
+          "id": "ec12b757-06f2-464e-8425-2d15757237b4",
+          "text": "Independiente del nivel de significación elegido por el investigador."
+        },
+        {
+          "id": "036861c1-ab35-49c1-b652-8e7d1263074f",
+          "text": "Mayor que el nivel de significación elegido por el investigador."
+        }
+      ]
+    },
+    {
+      "id": "b056915e-862e-4250-bd2f-d6d28bdbc4e6",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "Al realizar un estudio de correlación entre las variables X e Y se obtiene un valor de r = 0.78. Se puede afirmar que:",
+      "options": [
+        {
+          "id": "65cdfc37-b7d1-4f47-99d8-798d97029802",
+          "text": "Antes de sacar conclusiones debemos investigar si r es significativamente distinto de cero.",
+          "correct": true
+        },
+        {
+          "id": "cc2b2e25-916b-40e8-9add-8bd40cb8aeba",
+          "text": "Hay evidencia estadística de que al aumentar X se produce un aumento de Y."
+        },
+        {
+          "id": "063a3bc5-417e-455b-9543-11531bf626ab",
+          "text": "Hay evidencia estadística de que al aumentar X se produce un decremento de Y."
+        },
+        {
+          "id": "a5b63c83-46bd-42de-b385-752025d1d734",
+          "text": "Hay evidencia estadística de que existe una relación lineal entre X e Y."
+        }
+      ]
+    },
+    {
+      "id": "789107f6-1598-481f-a2f4-ebee32764ca0",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "Con relación al enmascaramiento en los ensayos clínicos aleatorizados:",
+      "options": [
+        {
+          "id": "9e686be3-75f0-4eb0-8dc5-e5180f5f3bee",
+          "text": "Se designa doble ciego cuando dos grupos ignoran el tratamiento asignado (generalmente, participantes e investigadores).",
+          "correct": true
+        },
+        {
+          "id": "37a703b5-dcd8-48ff-8771-70f94e4f49b0",
+          "text": "Se utiliza para asegurar una distribución similar de los factores pronósticos entre todos los grupos."
+        },
+        {
+          "id": "94c66e33-5205-4cbd-9883-17d99754941d",
+          "text": "Se utiliza para evitar el sesgo de memoria en los participantes del grupo intervención."
+        }
+      ]
+    },
+    {
+      "id": "a412db7a-7bf3-4830-ab1d-b1940dbc3e48",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "Dado un test diagnóstico con una sensibilidad de 95% y una especificidad de 99%, ¿qué ocurre con el valor predictivo positivo (VPP) si aumenta la prevalencia de la enfermedad?",
+      "options": [
+        {
+          "id": "891deb11-3d2e-4f4e-a19c-fd6b7847b352",
+          "text": "Aumenta.",
+          "correct": true
+        },
+        {
+          "id": "38ffa2b5-c8ba-4d06-a271-77d8547206ea",
+          "text": "Disminuye."
+        },
+        {
+          "id": "6e7617f3-8315-4edd-8338-533a3e131f86",
+          "text": "Permanece incambiado."
+        }
+      ]
+    },
+    {
+      "id": "1609530b-10c9-4e96-a5a6-f46c76d83ed1",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "Doble-ciego o doble enmascaramiento en un ensayo clínico significa que:",
+      "options": [
+        {
+          "id": "e3b90b75-3176-484b-a1b8-a148abd29399",
+          "text": "Tanto los pacientes como quien evalúa los efectos desconocen la asignación de tratamientos.",
+          "correct": true
+        },
+        {
+          "id": "ce20cc26-0edd-47c7-a34b-039524c43315",
+          "text": "Tanto los controles como los casos desconocen a qué tratamiento fueron asignados."
+        },
+        {
+          "id": "79463a47-4a22-4861-9057-16288a0bc961",
+          "text": "Tanto los pacientes como quien evalúa los efectos desconocen que todos los participantes reciben placebo."
+        }
+      ]
+    },
+    {
+      "id": "dcbe2667-fb37-465b-bc88-e9bb2ce495ca",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "El Decreto 158/019 autoriza el uso de placebo:",
+      "options": [
+        {
+          "id": "a069eedf-d421-4c44-a44e-9dfeffe984b9",
+          "text": "Cuando no existe tratamiento comprobado.",
+          "correct": true
+        },
+        {
+          "id": "7aac8f98-6f6e-4f91-abad-3ce288e9873b",
+          "text": "Cuando existe bajo riesgo."
+        },
+        {
+          "id": "46b759b6-a8d4-4dbd-ac21-946b9c390d92",
+          "text": "En todos los ensayos clínicos."
+        }
+      ]
+    },
+    {
+      "id": "b1c9ead7-832a-4823-b933-22514a839b3a",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "El concepto de vulnerabilidad en el Decreto 158/019 referente a la regulación de la investigación en seres humanos, se refiere a:",
+      "options": [
+        {
+          "id": "49feafe7-05ec-4897-ac8e-8c2fde6f400c",
+          "text": "Personas con capacidad de autodeterminación reducida.",
+          "correct": true
+        },
+        {
+          "id": "9ab5b8db-052a-4517-a869-82ac2aeb942d",
+          "text": "Personas con enfermedades médicas crónicas."
+        },
+        {
+          "id": "36e7e460-ee75-45be-98bb-84d0c5d40e5e",
+          "text": "Personas con mayor riesgo bio-psico-social."
+        }
+      ]
+    },
+    {
+      "id": "ffec08ba-5895-4a19-a61a-537f175a832f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "El consentimiento informado comunitario:",
+      "options": [
+        {
+          "id": "3ecc14c8-b4e6-4813-aefb-f09fd160621f",
+          "text": "Se requiere cuando la comunidad se reconoce a sí misma como tal.",
+          "correct": true
+        },
+        {
+          "id": "5d09739f-3688-4341-938f-f8ff21497258",
+          "text": "Debe ser brindado por la autoridad política de la población."
+        },
+        {
+          "id": "76eaaad5-3d69-467f-8214-ab2c3827971b",
+          "text": "Sustituye al consentimiento informado individual."
+        }
+      ]
+    },
+    {
+      "id": "5b1f274a-4f0d-41fb-a11d-e5f20abed764",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "El cálculo del coeficiente de correlación de Pearson permite:",
+      "options": [
+        {
+          "id": "f5a6fc09-eff0-432e-bfdc-d52253e410bd",
+          "text": "Investigar si hay una relación lineal entre dos variables cuantitativas.",
+          "correct": true
+        },
+        {
+          "id": "79e2403d-96fc-4647-84d9-f32f180814e5",
+          "text": "Comparar el valor de una variable cuantitativa en los grupos establecidos por una variable dicotómica."
+        },
+        {
+          "id": "f3a79133-21a4-468e-9edc-1942b3acf56c",
+          "text": "Evaluar si hay asociación entre dos variables cualitativas."
+        },
+        {
+          "id": "b2d03933-c05e-4ba4-a541-21f31e89d675",
+          "text": "Investigar si hay una relación de causalidad entre dos variables cuantitativas."
+        }
+      ]
+    },
+    {
+      "id": "7927d7e9-49d5-4844-afd4-e3c8d4512b82",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "El decreto 158/019, que regula la investigación en seres humanos en nuestro país pone especial atención en los sujetos vulnerables. ¿Cuáles son las consideraciones al evaluar proyectos que involucren esta población?",
+      "options": [
+        {
+          "id": "dd2203e2-3012-4f23-8c16-0281373d9173",
+          "text": "El estudio debe ser pertinente y beneficioso para el grupo.",
+          "correct": true
+        },
+        {
+          "id": "212884d0-229a-4690-984c-8e6331cf3f95",
+          "text": "No se deben permitir investigaciones con estos grupos."
+        },
+        {
+          "id": "4a7c30b3-0242-4ca7-9165-588aef7fadec",
+          "text": "Pueden desarrollarse si tuvieran un representante legal del grupo."
+        }
+      ]
+    },
+    {
+      "id": "6dae37cc-5b1c-4582-ba78-5514954e57d0",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "El derecho de los sujetos de investigación, una vez finalizada la misma, a tener acceso a los productos estudiados cuando han demostrado ser beneficiosos, corresponde al concepto de:",
+      "options": [
+        {
+          "id": "3a0da2fb-79ca-4abc-aa7d-1be2d5dd217c",
+          "text": "Obligaciones post-investigación.",
+          "correct": true
+        },
+        {
+          "id": "781ee55c-3d6b-411e-927d-bb7891e21ab3",
+          "text": "Beneficios colectivos."
+        },
+        {
+          "id": "3ed78a66-5fa4-40eb-9747-faf97b394d7d",
+          "text": "Beneficios justos."
+        }
+      ]
+    },
+    {
+      "id": "38d0cb8f-f483-40eb-b7be-cb9729a58bc4",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "El ensayo clínico aleatorizado es un estudio adecuado para establecer causalidad porque:",
+      "options": [
+        {
+          "id": "fca25cf9-1400-4eef-8ca7-5f77091854bb",
+          "text": "Existe una asignación aleatoria de los individuos a los diferentes grupos de tratamiento.",
+          "correct": true
+        },
+        {
+          "id": "f161d837-efeb-4936-acb0-19f788be4274",
+          "text": "Existe la posibilidad de realizar un análisis estadístico multivariado."
+        },
+        {
+          "id": "3be9c7dd-6d2a-4189-9925-62c584d614f8",
+          "text": "Existe una participación voluntaria de los individuos en el estudio."
+        }
+      ]
+    },
+    {
+      "id": "c557a423-17d6-4db3-b97e-8a348cf8ae78",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "El estudio más apropiado para estimar la incidencia de una enfermedad es:",
+      "options": [
+        {
+          "id": "5ec26db2-610e-48f0-92a5-7de53c26b712",
+          "text": "Un estudio de cohortes.",
+          "correct": true
+        },
+        {
+          "id": "d638ef98-3f60-4ffb-80cf-4cbd1cad8ef4",
+          "text": "Un estudio caso-control."
+        },
+        {
+          "id": "627c2b40-9ea7-48e3-a34f-7346ec5cef83",
+          "text": "Un estudio transversal."
+        }
+      ]
+    },
+    {
+      "id": "2fc52ad4-b252-4ed6-8ce8-d4679cd0038c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "El test de Fisher:",
+      "options": [
+        {
+          "id": "07bde799-5504-4f5b-a2ba-543f3dd9232d",
+          "text": "Se basa en calcular la probabilidad exacta de observar un conjunto concreto de frecuencias en una tabla tetracórica asumiendo la independencia de las variables.",
+          "correct": true
+        },
+        {
+          "id": "b33c2c8d-03ff-4db2-8f5b-0c7273834c67",
+          "text": "Se utiliza para investigar la asociación de variables cualitativas cuando la frecuencia de alguna de las categorías es cero."
+        },
+        {
+          "id": "00ecbbc3-a8c2-48d3-911c-a4f87acc2680",
+          "text": "Sólo se puede utilizar si alguna de las frecuencias esperadas en una tabla de dos filas y dos columnas es menor que 5."
+        },
+        {
+          "id": "2b93d72b-4c70-414c-98f7-a242ea0b78ed",
+          "text": "Sólo se puede utilizar si alguna de las frecuencias observadas en una tabla de dos filas y dos columnas es menor que 3."
+        }
+      ]
+    },
+    {
+      "id": "6f8aa781-9f58-422f-be3c-799212e99d23",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "El test de Fisher:",
+      "options": [
+        {
+          "id": "180a904e-c25b-4c01-83eb-7b1efbe8d6d7",
+          "text": "Se basa en calcular la probabilidad exacta de observar un conjunto concreto de frecuencias en una tabla tetracórica asumiendo la independencia de las variables.",
+          "correct": true
+        },
+        {
+          "id": "e911f287-788b-4c45-a1ed-53897ae29de4",
+          "text": "Permite evaluar la asociación de variables cuantitativas."
+        },
+        {
+          "id": "70c25b28-5680-4ac6-a41a-746c960c56af",
+          "text": "Se utiliza para investigar la asociación de variables cualitativas cuando la frecuencia de alguna de las categorías es cero."
+        }
+      ]
+    },
+    {
+      "id": "efa9802f-44a2-43a6-8c03-5dc5e76c3089",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "El uso de un placebo como comparador en un ensayo clínico con pacientes es éticamente aceptable cuando:",
+      "options": [
+        {
+          "id": "d492ae57-53b5-4ee9-aa27-b58d3803f7b5",
+          "text": "No existe un tratamiento comprobado.",
+          "correct": true
+        },
+        {
+          "id": "959ef3b2-fde7-47eb-8864-dba60bf7686e",
+          "text": "Está autorizado por un comité de ética."
+        },
+        {
+          "id": "7bc19dfe-e2ce-4977-abbb-58ddf54eedcb",
+          "text": "Se tratará a todos al final del ensayo."
+        }
+      ]
+    },
+    {
+      "id": "a4fb3c61-196f-4402-a22d-01a2567d3e2d",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "En las investigaciones epidemiológicas, el uso de datos anonimizados implica recoger datos:",
+      "options": [
+        {
+          "id": "779c1f6c-5d94-48f4-b427-d4104ae25ec3",
+          "text": "Sin identificar a los sujetos desde las bases de origen.",
+          "correct": true
+        },
+        {
+          "id": "ae9afb8f-ba9d-4caa-bc34-eb8347a51520",
+          "text": "Analizarlos y luego publicarlos sin identificar a los sujetos."
+        },
+        {
+          "id": "d67694f2-5a27-4454-8168-590c4bcb8aa4",
+          "text": "Eliminando la identificación previo a su análisis."
+        }
+      ]
+    },
+    {
+      "id": "d8c6c73b-7468-4191-aed7-2564dd95f454",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "En los estudios caso-control:",
+      "options": [
+        {
+          "id": "e7ed083a-72e4-41e6-87ff-4d30474861cc",
+          "text": "Los participantes se seleccionan según tengan o no la enfermedad de interés.",
+          "correct": true
+        },
+        {
+          "id": "97af0883-8a81-4916-950f-e37a06d088e2",
+          "text": "Los participantes se seleccionan según tengan o no la exposición de interés."
+        },
+        {
+          "id": "402ff47c-270b-450e-8a60-c0e8fe3ef4bc",
+          "text": "Los participantes se seleccionan si tiene la enfermedad y la exposición de interés."
+        }
+      ]
+    },
+    {
+      "id": "20d41079-e43a-4dde-9d74-c72aa7a00ccb",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "En un contraste de hipótesis bilateral para la media se ha rechazado la hipótesis nula, trabajando con un nivel de significación del 5%. ¿Cuál de las siguientes afirmaciones es cierta?",
+      "options": [
+        {
+          "id": "d0d03f43-3e0f-4323-9c30-b6db9e68c711",
+          "text": "Si se hubiera hecho un contraste de hipótesis unilateral con un nivel de significación del 5% también se hubiera rechazado la hipótesis nula.",
+          "correct": true
+        },
+        {
+          "id": "22bc0c50-2e44-40a7-8168-3d5530b4524e",
+          "text": "Si se hubiera hecho un contraste unilateral con un nivel de significación del 1% también se hubiera rechazado la hipótesis nula."
+        },
+        {
+          "id": "dd191f4f-dd32-4f38-8733-665139c4854e",
+          "text": "Si se realiza un contraste bilateral con un nivel de significación del 1% también se rechazará la hipótesis nula."
+        }
+      ]
+    },
+    {
+      "id": "95404d0c-3d88-4b9e-af0b-cc5603bc6d8c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "En un contraste de hipótesis unilateral para la media se ha rechazado la hipótesis nula, trabajando con un nivel de significación del 5%. ¿Cuál de las siguientes afirmaciones es cierta?",
+      "options": [
+        {
+          "id": "0b9d59af-95a6-407e-a210-d1ff661b3b3c",
+          "text": "Si se hubiera hecho un contraste unilateral con un nivel de significación del 10% también se hubiera rechazado la hipótesis nula.",
+          "correct": true
+        },
+        {
+          "id": "cb337646-e873-4476-835a-0ffb1b5883cc",
+          "text": "Si se hubiera hecho un contraste de hipótesis bilateral con el mismo nivel de significación no se hubiera rechazado la hipótesis nula."
+        },
+        {
+          "id": "7b099bd3-6e0a-4af0-81f8-c1dff118b611",
+          "text": "Si se hubiera hecho un contraste unilateral con un nivel de significación del 1% también se hubiera rechazado la hipótesis nula."
+        }
+      ]
+    },
+    {
+      "id": "88bddc1a-7fe9-4e2e-ab66-97ca147f4404",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "En un contraste de hipótesis, llamamos \"error de tipo II\" al hecho de:",
+      "options": [
+        {
+          "id": "05b51e9f-b3e9-4f12-9b9a-154845c182c0",
+          "text": "No rechazar la hipótesis nula siendo falsa.",
+          "correct": true
+        },
+        {
+          "id": "784f078b-b664-4135-8866-fe09d690280f",
+          "text": "No rechazar la hipótesis nula siendo verdadera."
+        },
+        {
+          "id": "94a17812-1aaf-4adf-a77f-f1238a34b7c3",
+          "text": "Rechazar la hipótesis nula siendo falsa."
+        },
+        {
+          "id": "9607ab03-89e5-46ee-9769-7f0417ad9854",
+          "text": "Rechazar la hipótesis nula siendo verdadera."
+        }
+      ]
+    },
+    {
+      "id": "e0d6262a-b032-4ec0-993e-9d4524fe60d3",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "En un contraste de hipótesis, llamamos \"potencia\" a la probabilidad de:",
+      "options": [
+        {
+          "id": "56cd6ab0-e777-4edf-902a-575c49ba0e38",
+          "text": "Rechazar la hipótesis nula siendo falsa.",
+          "correct": true
+        },
+        {
+          "id": "1948d58f-4f97-40ad-97a6-fab7038827e4",
+          "text": "No rechazar la hipótesis nula siendo falsa."
+        },
+        {
+          "id": "51efaabc-edbb-4aed-bfd9-8f72fd4ae97a",
+          "text": "No rechazar la hipótesis nula siendo verdadera."
+        },
+        {
+          "id": "e1f3c2fe-c41b-4713-bf05-957806a76656",
+          "text": "Rechazar la hipótesis nula siendo verdadera."
+        }
+      ]
+    },
+    {
+      "id": "37410c43-39ed-430f-9ae0-7dfbda9ba660",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "En un estudio caso-control:",
+      "options": [
+        {
+          "id": "5023ffce-6bf1-4f26-8154-b766a5714b58",
+          "text": "Los casos son pacientes con la enfermedad, hayan estado expuestos o no al factor de interés.",
+          "correct": true
+        },
+        {
+          "id": "05d788b8-980f-4280-9143-7cc72ef98bf6",
+          "text": "Los casos son pacientes con la enfermedad y la exposición de interés."
+        },
+        {
+          "id": "a8d2c4be-dfa1-4e02-876b-d05d6c08914e",
+          "text": "Los controles son pacientes sin la enfermedad y sin la exposición de interés."
+        }
+      ]
+    },
+    {
+      "id": "4f02fb0e-20f0-4dfd-8f2b-39fe5d351225",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "La información vinculada no nominal es aquella que:",
+      "options": [
+        {
+          "id": "bbe5c139-60f4-431f-b5d6-e29339267e60",
+          "text": "Se puede vincular a la persona por un código que conocen la persona y el investigador.",
+          "correct": true
+        },
+        {
+          "id": "80d61920-06a5-4d13-9ed4-20e678cb600c",
+          "text": "Se puede vincular a la persona por un código que sólo ella conoce."
+        },
+        {
+          "id": "cd2bcc58-5817-44d3-8917-8d7e1ac8bd14",
+          "text": "Se puede vincular con la persona por su nombre."
+        }
+      ]
+    },
+    {
+      "id": "d8570dff-c187-411a-b169-13de600a2e29",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "La primera versión de las Pautas Internacionales para la Evaluación Ética de los Estudios Epidemiológicos (CIOMS, 1991) identifica algunos aspectos de especial relevancia para la investigación epidemiológica. Uno de ellos es:",
+      "options": [
+        {
+          "id": "037eecb9-b327-46a1-8101-da61a83a7629",
+          "text": "La obtención de consentimiento informado comunitario.",
+          "correct": true
+        },
+        {
+          "id": "6d108d9e-100b-43a7-b5e1-cfcbbd301d4f",
+          "text": "La duración del proceso de recolección de datos."
+        },
+        {
+          "id": "18e8942b-3323-4729-831e-563ff122e085",
+          "text": "La residencia del investigador en la misma comunidad."
+        }
+      ]
+    },
+    {
+      "id": "526fd28a-e36a-4010-8d7c-a5cf77a31890",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "La pérdida de seguimiento de participantes en una investigación es una fuente potencial de sesgo. ¿En qué tipo de estudio puede ocurrir?",
+      "options": [
+        {
+          "id": "71be8a2e-b44f-46d5-a2d8-9c25e953e0d0",
+          "text": "Estudios de cohortes.",
+          "correct": true
+        },
+        {
+          "id": "b860f429-ca0f-46cd-a249-a7128fd68aa3",
+          "text": "Estudio caso-control."
+        },
+        {
+          "id": "56ff7e8c-9828-4e79-8e35-6424da8964d1",
+          "text": "Estudio descriptivo transversal."
+        }
+      ]
+    },
+    {
+      "id": "0b147e6c-3558-43f1-b120-52f6e34b7248",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "Las obligaciones post-investigación por parte de investigadores y/o patrocinadores según nuestra normativa (Decreto 158/019) son:",
+      "options": [
+        {
+          "id": "62266c33-3f9c-4e2b-986b-063888bff6d2",
+          "text": "Lo que asegura que los participantes recibirán los beneficios de la investigación.",
+          "correct": true
+        },
+        {
+          "id": "ea081f6c-3a4a-4530-8885-31ecca25ea50",
+          "text": "Acuerdos realizados entre el investigador y participantes."
+        },
+        {
+          "id": "955879de-80db-499c-98b9-959ddbc46db2",
+          "text": "Suministradas por el Estado como derecho adquirido."
+        }
+      ]
+    },
+    {
+      "id": "c459246c-c8b7-4c12-8fcc-68747e828f60",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "Los estudios de cohortes:",
+      "options": [
+        {
+          "id": "2950fc19-74fc-49da-b6ec-116298860597",
+          "text": "Son útiles para comparar riesgos en personas expuestas y no expuestas.",
+          "correct": true
+        },
+        {
+          "id": "7b5ab158-a357-42b5-9a37-6608b3b87b08",
+          "text": "Generalmente generan evidencia de mayor nivel que las revisiones sistemáticas."
+        },
+        {
+          "id": "dde65f49-81cf-4e99-ba38-4bd0ceda850a",
+          "text": "Son útiles para estudiar enfermedades raras."
+        }
+      ]
+    },
+    {
+      "id": "ee35b571-2f2f-4267-9c56-0259302d5ced",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "Los estudios descriptivos:",
+      "options": [
+        {
+          "id": "8998be7c-382f-4fe1-ba0b-301d6b3f9440",
+          "text": "Son adecuados para generar hipótesis.",
+          "correct": true
+        },
+        {
+          "id": "b0377f7b-2cbe-461c-9a54-22bd1567eccf",
+          "text": "Permiten establecer relaciones de causalidad."
+        },
+        {
+          "id": "17001e31-080b-4f94-bbf4-6e97c76f32fd",
+          "text": "Son adecuados para verificar hipótesis."
+        }
+      ]
+    },
+    {
+      "id": "eca4c040-76c2-4972-8416-b94b2a40a311",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "Realizar en un lugar una investigación éticamente inaceptable en otro se considera:",
+      "options": [
+        {
+          "id": "16fb0c6c-ecd8-47ad-be59-7cf7c5e931fa",
+          "text": "Doble estándar.",
+          "correct": true
+        },
+        {
+          "id": "e787611e-da8c-48d7-896d-123a7b6dc75e",
+          "text": "Adaptabilidad."
+        },
+        {
+          "id": "11a6fc9a-cb61-43a3-88a3-2d373fb75e6a",
+          "text": "Diversidad geográfica."
+        }
+      ]
+    },
+    {
+      "id": "74664053-e6e8-4c05-afb7-279fe1ccf04c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "Se quiere investigar la relación entre las horas de sueño y la dosificación de hormona de crecimiento en adolescentes. Para ello se evaluaron 42 adolescentes de 12 a 15 años durante 6 meses, registrando la altura inicial, altura final y el promedio de horas de sueño diarias. Se calculó el coeficiente r de Pearson que dio 0.56 con un intervalo de confianza al 95% de (0.32; 0.80). Se puede concluir que se encontró evidencia de que:",
+      "options": [
+        {
+          "id": "2b2687f9-1a68-4361-94dd-17ab43dc63de",
+          "text": "Existe una relación lineal entre el tiempo de sueño y el aumento de la estatura en los adolescentes.",
+          "correct": true
+        },
+        {
+          "id": "b87b1ffc-7fba-406d-8a8c-1a1ca059aaa5",
+          "text": "A mayor cantidad de horas de sueño, menor es el aumento en la estatura."
+        },
+        {
+          "id": "012e164d-6be4-4f0d-87fc-cc7b240585d5",
+          "text": "Por cada hora de sueño los adolescentes crecen 0.56 cm al año."
+        },
+        {
+          "id": "9b457907-ea98-4be3-a36a-59c69ce9f065",
+          "text": "Por cada hora de sueño los adolescentes crecen 0.56 cm en 6 meses."
+        }
+      ]
+    },
+    {
+      "id": "b02ef28d-9a36-41e7-89bc-b97b34e7a9e3",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "Señale la opción correcta respecto a las revisiones sistemáticas (RS).",
+      "options": [
+        {
+          "id": "5a6dcd89-c17a-4b51-a92c-2ee132492237",
+          "text": "Una RS es una revisión exhaustiva y sistemática de la literatura.",
+          "correct": true
+        },
+        {
+          "id": "01064300-fab4-4f34-a439-dbc3ae262754",
+          "text": "Una RS no requiere del análisis crítico de las publicaciones."
+        },
+        {
+          "id": "6ad3a629-18a2-4cad-925e-04c7bdccd8fe",
+          "text": "Una RS siempre incluye la realización de un metaanálisis."
+        }
+      ]
+    },
+    {
+      "id": "5a199861-c318-456d-9189-f6c35ecae90c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "Ud. debe presentar en un ateneo clínico el caso de un paciente con esclerosis lateral amiotrófica. ¿Qué tipo de publicación científica considera más adecuada para actualizar sus conocimientos sobre la enfermedad?",
+      "options": [
+        {
+          "id": "45d8cddb-d589-4fc9-a1d1-5b56da8b22ff",
+          "text": "Revisiones sistemáticas.",
+          "correct": true
+        },
+        {
+          "id": "6e7736a1-e860-4820-9999-a6b34d725944",
+          "text": "Ensayos clínicos aleatorizados."
+        },
+        {
+          "id": "526e6d50-ff7e-4b6b-a190-8c948a9200bc",
+          "text": "Estudios de cohortes."
+        }
+      ]
+    },
+    {
+      "id": "d0b8a507-47a6-487d-8e21-767410e3df01",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "Un riesgo relativo de 0.5 (RR = 0.5) significa que:",
+      "options": [
+        {
+          "id": "9d5da3a1-c0d5-4a50-9f93-de3180891334",
+          "text": "Los individuos expuestos tienen un riesgo de desarrollar la enfermedad disminuido en un 50% comparado con los no expuestos.",
+          "correct": true
+        },
+        {
+          "id": "a40965ba-afd7-4bfe-8d5e-5acf221abac8",
+          "text": "Los individuos expuestos tienen un riesgo de desarrollar la enfermedad aumentado en un 50% comparado con los no expuestos."
+        },
+        {
+          "id": "1804fe5e-cc70-4c44-9f0c-d3e96edf2cb6",
+          "text": "Los individuos expuestos tienen un riesgo doble de desarrollar la enfermedad comparado con los no expuestos."
+        }
+      ]
+    },
+    {
+      "id": "b2a903a8-9f5d-4919-a4e2-0b7d84aee503",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "¿A qué concepto nos referimos cuando decimos que una investigación es considerada éticamente inaceptable en un país desarrollado pero aceptada en otro en vías de desarrollo?",
+      "options": [
+        {
+          "id": "cf2970ac-1b4a-48ec-a40c-58750956c3fa",
+          "text": "Doble estándar.",
+          "correct": true
+        },
+        {
+          "id": "a54cc74d-8eeb-4b21-8de0-437ed7d7174b",
+          "text": "Explotación."
+        },
+        {
+          "id": "bcd2e819-43a7-4253-a1f1-46ac14bb45b6",
+          "text": "Vulnerabilidad."
+        }
+      ]
+    },
+    {
+      "id": "e9371c0a-38b2-4cc4-b721-ff5116143211",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "¿Bajo qué hipótesis se realiza el test de chi cuadrado para investigar la asociación de variables cualitativas?",
+      "options": [
+        {
+          "id": "07423675-ee4c-420a-9673-d09f24b71749",
+          "text": "Las variables son independientes.",
+          "correct": true
+        },
+        {
+          "id": "9e2c1de9-d608-4a4c-9fa9-75a00379225d",
+          "text": "Ambas variables tienen distribución normal."
+        },
+        {
+          "id": "75c88cbb-2ef5-4e0e-8988-5d88613ec329",
+          "text": "Existe una variable dependiente cuyo valor es proporcional al de la variable independiente."
+        },
+        {
+          "id": "789f609c-5a42-4af8-8ad1-7d238dec01cf",
+          "text": "Las varianzas de ambas variables son similares."
+        }
+      ]
+    },
+    {
+      "id": "46b1178b-c2d1-4f0d-81e2-4b399571d9fc",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "¿Cuál de las siguientes investigaciones corresponde a un estudio de tipo descriptivo?",
+      "options": [
+        {
+          "id": "116b16bb-fad1-4bf8-bc6e-ceaae8e0aa07",
+          "text": "Caracterización de una serie de casos sobre una neumonía viral con características poco conocidas hasta el momento.",
+          "correct": true
+        },
+        {
+          "id": "8d631ace-0429-4176-a972-f9242d0cd105",
+          "text": "Estudio para identificar los factores de riesgo del parto pretérmino."
+        },
+        {
+          "id": "0f4619c8-17a4-40b1-852c-f1000713aa3b",
+          "text": "Estudio sobre la eficacia de un programa de ejercicio en población con factores de riesgo cardiovascular."
+        }
+      ]
+    },
+    {
+      "id": "9c54b3e7-d891-4d0b-8f98-c57e1feacc19",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-11-25",
+      "text": "¿Cuál de los siguientes es un criterio de Bradford Hill para apoyar la causalidad de una asociación?",
+      "options": [
+        {
+          "id": "c6a77912-cdb1-413d-96af-79b3310f36f7",
+          "text": "La exposición precede al efecto.",
+          "correct": true
+        },
+        {
+          "id": "8a4f71d1-3aaf-4deb-a2f3-83ad7b2e1993",
+          "text": "Se realizó un ensayo aleatorizado."
+        },
+        {
+          "id": "e851b025-3abc-443f-af29-651e84e62bcb",
+          "text": "Todas las hipótesis fueron testeadas."
+        }
+      ]
     }
   ],
   "evaluations": [
     {
       "key": "parcial_1",
       "name": "1° parcial"
+    },
+    {
+      "key": "parcial_2",
+      "name": "2° parcial"
     }
   ]
 }
