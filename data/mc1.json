@@ -3366,6 +3366,616 @@
       ]
     },
     {
+      "id": "7f15ae2b-365c-4511-9d8e-1e6b6f7bfdf5",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-12-02",
+      "text": "¿Cuál de las siguientes afirmaciones acerca de los intervalos de confianza para el riesgo relativo es correcta?",
+      "options": [
+        {
+          "id": "9941eb6e-1f0e-4085-831f-df16e63be1f5",
+          "text": "Para una misma situación, cuanto mayor es la confianza mayor es la longitud del intervalo.",
+          "correct": true
+        },
+        {
+          "id": "5d85e7e7-c29f-46b6-b516-a49a039ebeef",
+          "text": "El intervalo de confianza es simétrico con respecto al riesgo hallado en la muestra."
+        },
+        {
+          "id": "036ccaa4-60dd-4eed-8eac-ba3a05d38241",
+          "text": "La longitud del intervalo es inversamente proporcional al tamaño muestral."
+        },
+        {
+          "id": "2f1ed957-c45a-43c1-aa86-afb2502a8a6f",
+          "text": "Para una misma situación, cuanto mayor es el tamaño de la muestra mayor es la imprecisión."
+        }
+      ]
+    },
+    {
+      "id": "56619ac6-a6be-442b-a737-e279eca6953d",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-12-02",
+      "text": "Con respecto al enmascaramiento en los ensayos clínicos, señale lo correcto:",
+      "options": [
+        {
+          "id": "208fc54c-d13c-4a51-a922-d8745c70fb4e",
+          "text": "Consiste en una técnica que oculta la identidad de las intervenciones.",
+          "correct": true
+        },
+        {
+          "id": "eaf60fe1-ce43-489e-8ed7-45d4378e4e91",
+          "text": "A más ciegos aplicados, más sesgos tiene el estudio."
+        },
+        {
+          "id": "8bbebffe-b42b-4e0a-aa4b-6dbfc2fa473c",
+          "text": "El doble ciego presenta sesgos debido al investigador."
+        },
+        {
+          "id": "85b79a33-415c-4dde-8446-fe0e555a395d",
+          "text": "El triple ciego presenta sesgos debidos al investigador y al sujeto que procesa los datos."
+        }
+      ]
+    },
+    {
+      "id": "c7f2cfcd-10ec-4ce2-bdbc-fe0058d49740",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-12-02",
+      "text": "Cuando usted desea obtener la información necesaria para poder reproducir un trabajo de investigación científico, buscará la misma en:",
+      "options": [
+        {
+          "id": "06a70f63-a528-42e6-9040-111896460b51",
+          "text": "Material y métodos.",
+          "correct": true
+        },
+        {
+          "id": "f629bb18-39a4-4980-bcdd-5997682a5dfb",
+          "text": "Conclusiones."
+        },
+        {
+          "id": "e62d1e6e-9666-435f-aad5-7e7e8c887083",
+          "text": "Discusión."
+        },
+        {
+          "id": "94155983-b07c-478f-adeb-c839e0e76ac9",
+          "text": "Resultados."
+        }
+      ]
+    },
+    {
+      "id": "41fd96f5-bc5b-4692-984a-346c94564072",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-12-02",
+      "text": "El análisis de la vulnerabilidad en los sujetos de investigación según nuestra normativa trae implícito el concepto de:",
+      "options": [
+        {
+          "id": "54906851-d49b-414d-bd2b-7030f3bd25ea",
+          "text": "Autonomía.",
+          "correct": true
+        },
+        {
+          "id": "e3559a49-6745-43e3-99e2-1e8f21ac3c65",
+          "text": "Daño irreversible."
+        },
+        {
+          "id": "8a30ea52-5df4-4b85-afd6-7334b17918f3",
+          "text": "Precaución."
+        }
+      ]
+    },
+    {
+      "id": "2d575122-315d-4502-a059-5ecd669d62ea",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-12-02",
+      "text": "El error de tipo I corresponde a:",
+      "options": [
+        {
+          "id": "2254c48f-4521-482a-bee3-d083a90b259a",
+          "text": "Rechazar Ho cuando esta es falsa.",
+          "correct": true
+        },
+        {
+          "id": "8ad409cb-313d-451a-88ba-4ffaa14b5f67",
+          "text": "No rechazar Ho cuando esta es cierta."
+        },
+        {
+          "id": "7bbaf313-76e0-4f3c-a811-0c3c5031e265",
+          "text": "No rechazar Ho cuando esta es falsa."
+        },
+        {
+          "id": "3e5440e7-db3a-4654-abd9-a397fcaf6ad4",
+          "text": "Rechazar Ho cuando esta es cierta."
+        }
+      ]
+    },
+    {
+      "id": "a7a3c048-777d-4ad6-86bc-958e725c68fb",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-12-02",
+      "text": "En relación a los ensayos clínicos, marque la opción correcta:",
+      "options": [
+        {
+          "id": "4cb3bf82-6387-4d88-9e8f-3006fce9af65",
+          "text": "Es un diseño útil para determinar si una intervención en salud produce beneficio.",
+          "correct": true
+        },
+        {
+          "id": "b638053f-1bf0-4320-825d-6d19818fb499",
+          "text": "Es un diseño útil para determinar factores de riesgo para la salud."
+        },
+        {
+          "id": "51352e74-ad64-46bb-be11-f325f53b3c15",
+          "text": "Es un diseño útil para evaluar la sensibilidad y especificidad de un método diagnóstico."
+        }
+      ]
+    },
+    {
+      "id": "e37f09f9-642c-4217-9322-6dd0e3bfb7c4",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-12-02",
+      "text": "En relación con la búsqueda bibliográfica señale lo correcto:",
+      "options": [
+        {
+          "id": "bf17acca-f680-4d4d-8546-74dc67d787ee",
+          "text": "Le otorga, a la investigación a realizar, un marco teórico actualizado.",
+          "correct": true
+        },
+        {
+          "id": "adfb1432-b7e4-48cd-90f1-206438b1284c",
+          "text": "Es una etapa prescindible en algunas investigaciones."
+        },
+        {
+          "id": "1db19944-d167-48fe-91fa-b11d137ee07e",
+          "text": "No persigue el objetivo de actualizar el estado presente de los conocimientos en el tema de investigación."
+        },
+        {
+          "id": "7106fe36-9617-49b1-a441-c1ebdf63bb96",
+          "text": "No se planifica."
+        }
+      ]
+    },
+    {
+      "id": "1331807c-0455-4b5c-b4a8-d3ec21bb5c34",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-12-02",
+      "text": "En relación con la búsqueda de literatura en bibliotecas biomédicas, marque lo correcto:",
+      "options": [
+        {
+          "id": "a81fc7c7-24aa-4bbd-bacc-90f51581c866",
+          "text": "La biblioteca Cochrane es considerada la mejor fuente de evidencia disponible en ciencias biomédicas.",
+          "correct": true
+        },
+        {
+          "id": "b40b0d95-86c7-4438-93a1-eb523ba9c22e",
+          "text": "AND, OR y NOT son débiles operadores booleanos."
+        },
+        {
+          "id": "259b3560-d2ca-4451-b92a-d59567ebf23c",
+          "text": "La base LILACS se encarga de la difusión de la literatura publicada en Asia y África."
+        },
+        {
+          "id": "bc1b306b-7569-4b8b-9799-e31612ceb6b2",
+          "text": "No existe un diccionario de búsqueda en PubMed."
+        }
+      ]
+    },
+    {
+      "id": "1e103481-96c3-41e1-b817-c87fdf67524c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-12-02",
+      "text": "En un contraste de hipótesis, la potencia es:",
+      "options": [
+        {
+          "id": "ee36bdbe-0202-4648-af1b-ae00568f0174",
+          "text": "La probabilidad de rechazar la hipótesis nula siendo falsa.",
+          "correct": true
+        },
+        {
+          "id": "6ba21775-7fd5-4e90-8430-8a38b56053e0",
+          "text": "La probabilidad de no rechazar la hipótesis nula siendo cierta."
+        },
+        {
+          "id": "da75da52-45e4-49b0-81b9-a1324fed1d5c",
+          "text": "La probabilidad de no rechazar la hipótesis nula siendo falsa."
+        },
+        {
+          "id": "65d669c8-3b22-453f-9dd0-bc56102125bf",
+          "text": "La probabilidad de rechazar la hipótesis nula siendo cierta."
+        }
+      ]
+    },
+    {
+      "id": "aaa82531-0310-457a-aa6c-cf8f65643f2c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-12-02",
+      "text": "La medicina basada en la evidencia propone integrar las mejores evidencias con la experiencia clínica y las circunstancias de los pacientes en la toma de decisiones. ¿Qué tipo de estudio nos proporciona evidencias de mayor calidad?",
+      "options": [
+        {
+          "id": "a0bd1089-80a8-4acc-83c5-50b1455f1285",
+          "text": "Revisiones sistemáticas.",
+          "correct": true
+        },
+        {
+          "id": "034312b3-2e65-45e3-b121-e2ab01ce8bd3",
+          "text": "Estudio caso-control."
+        },
+        {
+          "id": "03bd709e-5753-4885-99f7-2ba5872b2b33",
+          "text": "Estudio observacional."
+        },
+        {
+          "id": "0b8fcce5-6115-419f-b746-ab2dcd2efb35",
+          "text": "Estudio transversal."
+        }
+      ]
+    },
+    {
+      "id": "248fbe7a-fdbe-4b3b-afd9-1cd4156b66f8",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-12-02",
+      "text": "La normativa que regula la investigación con seres humanos en nuestro país, hace referencia a la Declaración de Helsinki 2000. Esto es debido a que las versiones posteriores:",
+      "options": [
+        {
+          "id": "8b72069b-ff49-49b9-ab84-220b9eff5d0a",
+          "text": "Flexibilizan la utilización de placebo y la exigencia de beneficios post investigación.",
+          "correct": true
+        },
+        {
+          "id": "10b1ea5e-b4b7-4631-bb32-3971838beb81",
+          "text": "Habilitan investigaciones retrospectivas sin necesidad de ser aprobadas por un comité de ética de investigación."
+        },
+        {
+          "id": "a4cf9f61-976d-45e5-8fea-b60ff5318d78",
+          "text": "No consideran al consentimiento informado como requisito para investigar."
+        }
+      ]
+    },
+    {
+      "id": "a1a1a547-8c8e-4cf4-b52e-814acdea4f59",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-12-02",
+      "text": "La planificación del experimento clínico con seres humanos debe ser tan cuidadosa como la de cualquier estudio. La misma debe comenzar con:",
+      "options": [
+        {
+          "id": "9ca6e5c7-963e-45d4-9daa-e5afa6dd2489",
+          "text": "Pregunta de investigación.",
+          "correct": true
+        },
+        {
+          "id": "b5fd7e90-af1a-4e0b-90ef-ffe5396ac7b5",
+          "text": "Análisis de los resultados."
+        },
+        {
+          "id": "d29cf429-ed2c-4eb5-90db-38c9345ad2d4",
+          "text": "Asignación aleatoria de los sujetos."
+        },
+        {
+          "id": "460b99ca-e4f9-45e1-b1e5-fbc28f61b544",
+          "text": "Extrapolación de los hallazgos."
+        }
+      ]
+    },
+    {
+      "id": "43b3b33b-80bf-4bbd-85ea-0bd51445b6f6",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-12-02",
+      "text": "Las revisiones sistemáticas de la literatura (RSL) son estudios de carácter integrativo que pueden resumir, de forma valiosa y precisa, los resultados de diversos estudios primarios. Marque lo correcto sobre las revisiones sistemáticas:",
+      "options": [
+        {
+          "id": "1019372e-d07b-4de9-8e2a-a273d4cf394a",
+          "text": "La pregunta de investigación en una RSL debe ser precisa, suele centrarse en un problema clínico o de investigación.",
+          "correct": true
+        },
+        {
+          "id": "6c3a5274-7b91-42fd-8b21-b718b5b38017",
+          "text": "La pregunta de investigación suele no existir, ser poco precisa o estar poco enfocada."
+        },
+        {
+          "id": "1bc64b36-dd40-4b22-ae25-799564bd9296",
+          "text": "Presenta más sesgos si la comparamos con la revisión narrativa."
+        }
+      ]
+    },
+    {
+      "id": "8606d436-73ed-4feb-b6d7-045471ddc695",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-12-02",
+      "text": "Marque cual es de los siguientes pasos es el primero en una RSL.",
+      "options": [
+        {
+          "id": "0732fdd9-4d30-4481-acf0-1367a5439694",
+          "text": "Elaboración de la pregunta de investigación de la revisión.",
+          "correct": true
+        },
+        {
+          "id": "16ed8209-fe3a-4a2d-a58f-45e0097f7835",
+          "text": "Búsqueda de literatura en bases de datos."
+        },
+        {
+          "id": "56df9c07-ca41-493b-a280-a4fd8b1f721c",
+          "text": "Búsqueda de material de interés en libros, revistas, publicaciones."
+        },
+        {
+          "id": "a96c2bed-1259-4452-8e35-cee799583a05",
+          "text": "Evaluación de la heterogeneidad."
+        }
+      ]
+    },
+    {
+      "id": "9152945c-9c00-415b-8484-7268fb97e29b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-12-02",
+      "text": "Marque la opción correcta sobre generalidades de un ensayo clínico aleatorio.",
+      "options": [
+        {
+          "id": "11612cc3-c9da-4fee-80e5-7d819761d49e",
+          "text": "La asignación aleatoria aumenta la validez interna del estudio.",
+          "correct": true
+        },
+        {
+          "id": "83cf21ed-48cf-41c5-84c2-f4d67e7c6615",
+          "text": "Criterios de exclusión estrictos reducen la validez interna del estudio."
+        },
+        {
+          "id": "d0aa5a15-cb56-4537-a270-93fe53682520",
+          "text": "El enmascaramiento reduce la validez interna del estudio."
+        }
+      ]
+    },
+    {
+      "id": "861d07e0-e144-473b-b65b-9789055b7b86",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-12-02",
+      "text": "Marque lo correcta sobre la aleatorización en un ensayo clínico controlado.",
+      "options": [
+        {
+          "id": "bfddeea7-510f-4987-849a-804a03ad46c7",
+          "text": "Permite obtener comparabilidad y similitud entre grupos.",
+          "correct": true
+        },
+        {
+          "id": "6c522d7e-e25b-4f62-a371-5d5bc437b385",
+          "text": "Aumenta la presencia de factores de confusión."
+        },
+        {
+          "id": "616b849b-d2be-4d5d-b160-9e5dc70136c3",
+          "text": "Es una técnica que puede ser doble o triple ciego."
+        }
+      ]
+    },
+    {
+      "id": "2fb1f2cf-6f13-48f6-ae62-0699ba9497c6",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-12-02",
+      "text": "Marque lo correcto en relación con la búsqueda bibliográfica.",
+      "options": [
+        {
+          "id": "952cc694-26a3-49d4-9ea8-d1760c371295",
+          "text": "Se conceptualiza como la búsqueda y localización de referencias bibliográficas, sobre algún tema concreto, extraídas de diferentes fuentes de información.",
+          "correct": true
+        },
+        {
+          "id": "2c00ed1f-4e59-49b7-9f81-ceb14ed76b67",
+          "text": "Establecer una estrategia de búsqueda es de dudoso beneficio."
+        },
+        {
+          "id": "f5de3e4b-406d-42b9-9271-c961975f1591",
+          "text": "La multitud de publicaciones científicas que se necesitan consultar hacen que los sistemas informatizados no sean la mejor opción a la hora de buscar la información."
+        },
+        {
+          "id": "06d37cbe-74e8-48dd-bff7-067ece8c7e0e",
+          "text": "Las bases de datos son prescindibles en esta actividad."
+        }
+      ]
+    },
+    {
+      "id": "0b03f1c5-b510-4531-8235-d4473058c15e",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-12-02",
+      "text": "Marque lo correcto sobre las RSL.",
+      "options": [
+        {
+          "id": "0b0ebc70-10fc-4725-bc69-9ad294edbf8d",
+          "text": "La población de estudio se define con la pregunta de investigación planteada.",
+          "correct": true
+        },
+        {
+          "id": "df44e869-9242-4a09-b17d-6292c43e625f",
+          "text": "La selección de artículos se dificulta porque no existen técnicas para analizar el sesgo de publicación."
+        },
+        {
+          "id": "1268d64c-0a08-43e4-93f5-8b824fb736d3",
+          "text": "No es necesario escribir un apartado de material y métodos en una RSL."
+        }
+      ]
+    },
+    {
+      "id": "f701ae32-4dc2-4acf-bba7-f707b0fe2d6f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-12-02",
+      "text": "Marque una fortaleza de las RSL.",
+      "options": [
+        {
+          "id": "993fd2f1-fef7-4eba-8c3f-f5ca81146421",
+          "text": "Permite explorar causas de variación (heterogeneidad) entre diversos estudios, en los efectos de intervenciones en salud y en los riesgos basales.",
+          "correct": true
+        },
+        {
+          "id": "0322c401-3ee5-4716-8e70-b74997625e76",
+          "text": "No es necesario que el revisor describa en detalle los métodos empleados en la búsqueda de la literatura."
+        },
+        {
+          "id": "e5efe2ca-77d2-4529-b2e6-f6bd7f9d5600",
+          "text": "No requiere realizar una revisión exhaustiva de la literatura para asegurar la validez interna del estudio."
+        },
+        {
+          "id": "d1979ac3-3720-40de-9e53-9d9edafd7548",
+          "text": "Puede observarse sesgos de publicación."
+        }
+      ]
+    },
+    {
+      "id": "d9482297-ac46-43c3-8bd6-bf61dc867dcd",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-12-02",
+      "text": "Sabemos por estudios anteriores que el tiempo (en horas) que los niños dedican diariamente a la actividad física se distribuye normalmente con media 4. Pensamos que el tiempo medio es menor en la actualidad, porque los niños dedican más tiempo a juegos de computadora. Para contrastar esta hipótesis se tomó una muestra aleatoria de 25 niños de Montevideo, obteniéndose un tiempo promedio de 3 horas, con una varianza de 16. En esta situación corresponde plantear un contraste de hipótesis...",
+      "options": [
+        {
+          "id": "ede226a4-bb0c-4981-8ec7-15d0ca13fbbc",
+          "text": "Unilateral con cola a la izquierda.",
+          "correct": true
+        },
+        {
+          "id": "ac9c2ead-a968-4190-b231-f58527e31416",
+          "text": "Bilateral."
+        },
+        {
+          "id": "17ca3b20-6c6a-4d7e-89bf-abeef4eeca29",
+          "text": "Central."
+        },
+        {
+          "id": "f7ab0e45-43a6-45b4-abdc-4420b9f3104d",
+          "text": "Unilateral con cola a la derecha."
+        }
+      ]
+    },
+    {
+      "id": "93b85bd5-bf07-4db7-a779-174b2430f187",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-12-02",
+      "text": "Si Ud. desea realizar una búsqueda bibliográfica para conocer si existe asociación entre HIV y utilización de heroína, ¿con qué combinación obtendrá los artículos en los que se investigó si la adicción a la heroína es un factor de riesgo para la trasmisión de VIH?",
+      "options": [
+        {
+          "id": "8120ccc2-9645-49f0-be06-9e5c500ba376",
+          "text": "HIV \"AND\" heroína.",
+          "correct": true
+        },
+        {
+          "id": "a74cd419-ea1d-4e89-98be-6d8deb33f943",
+          "text": "HIV \"NOT\" heroína."
+        },
+        {
+          "id": "72f4d1ec-ed86-407f-9a5d-fe24ec8b2ea6",
+          "text": "Heroína \"OR\" HIV."
+        }
+      ]
+    },
+    {
+      "id": "69b10aec-3c1d-4c19-9a33-68ba73f7ceb2",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-12-02",
+      "text": "Si en un contraste de hipótesis obtenemos un valor p menor que el nivel de significación que hemos adoptado, entonces:",
+      "options": [
+        {
+          "id": "63deccd4-b1f0-4f1c-a517-9bf62a748c0e",
+          "text": "Los resultados son improbables bajo el supuesto de que la hipótesis nula sea cierta.",
+          "correct": true
+        },
+        {
+          "id": "a7a9ac26-6d75-4b5b-8bb5-f7e0991b3fa4",
+          "text": "Debemos modificar el valor de alfa."
+        },
+        {
+          "id": "aad0b978-d5ee-4b19-ba5b-a03af4255099",
+          "text": "Debemos rechazar la hipótesis alternativa."
+        },
+        {
+          "id": "d88091fe-ae66-4b8a-84a8-f097f433beb5",
+          "text": "Los resultados no son estadísticamente significativos."
+        }
+      ]
+    },
+    {
+      "id": "f9e1d6ab-fb52-4d42-8fd9-692d6e25495d",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-12-02",
+      "text": "Un requisito ético para incluir niños en ensayos clínicos es que:",
+      "options": [
+        {
+          "id": "0e0fc8d6-31b9-4dc2-92c0-5275cf0c0137",
+          "text": "No puedan ser realizados en otros grupos.",
+          "correct": true
+        },
+        {
+          "id": "a0312fdc-f0c0-4c96-a94c-4f2073c85dd4",
+          "text": "Estén exentos de riesgos para el grupo."
+        },
+        {
+          "id": "b5e64703-1f79-4fc7-a6df-b6b45625a608",
+          "text": "La seguridad y tolerancia se evalúen primariamente en ellos."
+        }
+      ]
+    },
+    {
+      "id": "f99c5657-b5a2-416c-a06a-4178f4253fba",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-12-02",
+      "text": "Un residente comenta en el ateneo que según el estudio \"ASCOT-BPLA\" (ensayo clínico randomizado) no se debían usar más los β-bloqueantes para el tratamiento de la hipertensión arterial, y que a partir de ahora debía indicarse amlodipina en lugar de atenolol.  En ASCOT-BPLA, el riesgo relativo (RR) del tratamiento con amlodipina en relación con el atenolol fue 0.90 (IC 95% 0.5;0.94).",
+      "options": [
+        {
+          "id": "8649a663-d532-4d48-94ee-ae2df76e7bd2",
+          "text": "Ese valor de RR con su IC informa que la amlodipina es un factor protector en el tratamiento de la hipertensión.",
+          "correct": true
+        },
+        {
+          "id": "1f61ffc7-f9cb-42ec-a8e2-9fe425705bd2",
+          "text": "Ese valor de RR con su IC informa que la amlodipina es un factor de riesgo en el tratamiento de la hipertensión."
+        },
+        {
+          "id": "07e5fa53-6594-41a3-ac24-6a89deebd152",
+          "text": "Ese valor de RR con su IC no es suficiente para afirmar que la amlodipina es un factor protector en el tratamiento de la hipertensión."
+        }
+      ]
+    },
+    {
+      "id": "24800642-6790-484f-8d6f-ce5bf67d47a5",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-12-02",
+      "text": "¿Cuál es el valor del estadístico z que debe utilizarse para construir un intervalo de confianza del 99% para el riesgo relativo?",
+      "options": [
+        {
+          "id": "dbdf8cf4-9187-44eb-b635-40bd6dbdc37f",
+          "text": "2.57.",
+          "correct": true
+        },
+        {
+          "id": "d83c13be-1681-43f8-a8c8-594efc15eaf9",
+          "text": "1.65."
+        },
+        {
+          "id": "437a5499-2d38-43d0-bee1-a7d68b78e350",
+          "text": "1.96."
+        },
+        {
+          "id": "4768505a-82bc-4872-a528-d11ee49bb073",
+          "text": "2.33."
+        }
+      ]
+    },
+    {
       "id": "67bced94-b710-4de3-89a2-81e7f2f8f35f",
       "evaluation": "parcial_2",
       "source": "partial",
