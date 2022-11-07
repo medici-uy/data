@@ -1737,7 +1737,7 @@
       "evaluation": "parcial_1",
       "source": "partial",
       "asked_at": "2019-11-01",
-      "text": "Dado un vector eje eléctrico instantáneo cuya dirección coincide con la derivación aVL y se dirige hacia la misma.  Marque la opción correcta.",
+      "text": "Dado un vector eje eléctrico instantáneo cuya dirección coincide con la derivación aVL y se dirige hacia la misma. Marque la opción correcta.",
       "options": [
         {
           "id": "92725e1b-a14a-47d6-a447-f20b4cd62365",
@@ -2975,7 +2975,7 @@
       "evaluation": "parcial_1",
       "source": "partial",
       "asked_at": "2020-10-31",
-      "text": "Para un tubo cilíndrico de secciones variables, en posición horizontal ubicado a una distancia constante del plano, por el que circula un líquido con régimen estacionario.  Señale la opción correcta.",
+      "text": "Para un tubo cilíndrico de secciones variables, en posición horizontal ubicado a una distancia constante del plano, por el que circula un líquido con régimen estacionario. Señale la opción correcta.",
       "options": [
         {
           "id": "98581531-d2ba-4f14-8605-9a3fc5d11008",
@@ -4158,7 +4158,7 @@
       "evaluation": "parcial_1",
       "source": "partial",
       "asked_at": "2021-10-29",
-      "text": "Si el voltaje promedio del complejo QRS es negativo en aVL y positivo en DIII, siendo de mayor magnitud en aVL.  Señale la opción correcta.",
+      "text": "Si el voltaje promedio del complejo QRS es negativo en aVL y positivo en DIII, siendo de mayor magnitud en aVL. Señale la opción correcta.",
       "options": [
         {
           "id": "6fcc60b2-150e-4ddd-9b26-68ec6fa43f95",
@@ -6364,7 +6364,7 @@
       "evaluation": "parcial_2",
       "source": "partial",
       "asked_at": "2017-11-20",
-      "text": "En la imagen se muestra el método utilizado para cuantificar el espacio muerto fisiológico (método de Bohr) Se recolecta el aire espirado en un reservorio (7000 ml/minuto) y se cuantifica que la presión de CO2 en el aire espirado fue de 20 mmHg. La pO2 y pCO2 en la sangre arterial fueron de 100 mmHg y 40 mmHg, respectivamente, y el pH sanguíneo fue 7,4.  Teniendo en cuenta esos datos, ¿cuál es la ventilación del espacio muerto fisiológico?",
+      "text": "En la imagen se muestra el método utilizado para cuantificar el espacio muerto fisiológico (método de Bohr) Se recolecta el aire espirado en un reservorio (7000 ml/minuto) y se cuantifica que la presión de CO2 en el aire espirado fue de 20 mmHg. La pO2 y pCO2 en la sangre arterial fueron de 100 mmHg y 40 mmHg, respectivamente, y el pH sanguíneo fue 7,4. Teniendo en cuenta esos datos, ¿cuál es la ventilación del espacio muerto fisiológico?",
       "image": "ed05cb23-0d13-4b4c-bbb7-36c267ea0b75.webp",
       "options": [
         {

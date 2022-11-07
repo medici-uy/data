@@ -1343,7 +1343,7 @@
       "evaluation": "parcial_1",
       "source": "partial",
       "asked_at": "2018-08-24",
-      "text": "La enzima 5-aminolevulínico sintasa (ALA sintasa) presenta dos isoformas, la 1 y la 2.  Señale la opción correcta en relación a sus diferencias y/o similitudes:",
+      "text": "La enzima 5-aminolevulínico sintasa (ALA sintasa) presenta dos isoformas, la 1 y la 2. Señale la opción correcta en relación a sus diferencias y/o similitudes:",
       "options": [
         {
           "id": "8a6d3c32-5a6d-40b6-bbd5-df446c9cdc08",
@@ -2365,7 +2365,7 @@
       "evaluation": "parcial_1",
       "source": "partial",
       "asked_at": "2019-08-24",
-      "text": "Un paciente consulta por edemas de miembros inferiores. Al examen físico se constata que presenta también ascitis (matidez de flancos desplazable). Se realiza un proteinograma electroforético cuya densitometría se muestra a continuación (sombreado gris) en comparación con la de un proteinograma normal (línea negra).  De acuerdo a la densitometría del proteinograma del plasma del paciente, señale la opción correcta:",
+      "text": "Un paciente consulta por edemas de miembros inferiores. Al examen físico se constata que presenta también ascitis (matidez de flancos desplazable). Se realiza un proteinograma electroforético cuya densitometría se muestra a continuación (sombreado gris) en comparación con la de un proteinograma normal (línea negra). De acuerdo a la densitometría del proteinograma del plasma del paciente, señale la opción correcta:",
       "image": "467a7212-90fd-4e16-a39d-b0c7505616ed.webp",
       "options": [
         {
@@ -4199,7 +4199,7 @@
       "evaluation": "parcial_2",
       "source": "partial",
       "asked_at": "2017-09-23",
-      "text": "En el ciclo de replicación del VIH en las células CD4+, el flujo de la información genética para la síntesis de las proteínas virales es (v = viral; p =  proviral; m = mensajero):",
+      "text": "En el ciclo de replicación del VIH en las células CD4+, el flujo de la información genética para la síntesis de las proteínas virales es (v = viral; p = proviral; m = mensajero):",
       "options": [
         {
           "id": "d38d7fa7-e9d6-4997-bef8-ed2c059ab75f",
@@ -7024,7 +7024,7 @@
       "id": "d192601e-04ec-45e2-8688-2182f97e8855",
       "evaluation": "parcial_3",
       "source": "self_assessment",
-      "text": "Con respecto a la estrategia de \"one health\" y las vacunas, indique  la opción correcta:",
+      "text": "Con respecto a la estrategia de \"one health\" y las vacunas, indique la opción correcta:",
       "options": [
         {
           "id": "a0d249ac-46c1-43ac-a476-11bbe946b646",
@@ -7033,7 +7033,7 @@
         },
         {
           "id": "81d50857-32cc-4b88-831b-f0bb814dc4f5",
-          "text": "Las enfermedades humanas zoonóticas,  son una gran minoría entre las enfermedades humanas, por eso el poco desarrollo de vacunas enfocadas en animales transmisores."
+          "text": "Las enfermedades humanas zoonóticas, son una gran minoría entre las enfermedades humanas, por eso el poco desarrollo de vacunas enfocadas en animales transmisores."
         },
         {
           "id": "1c2c57a5-1803-4660-94fc-3586f7cb9759",
@@ -7041,7 +7041,7 @@
         },
         {
           "id": "5d7f4a59-4b00-4c0d-bc10-d8a836e849ce",
-          "text": "Todas las enfermedades zoonóticas pueden ser  prevenibles por vacunación del  animal transmisor."
+          "text": "Todas las enfermedades zoonóticas pueden ser prevenibles por vacunación del animal transmisor."
         },
         {
           "id": "12f34dd3-f825-4395-be52-2e01250b8321",
@@ -8761,7 +8761,7 @@
         },
         {
           "id": "eb0eec67-37bf-491a-bd13-5fa48f95abd6",
-          "text": "Viable un trasplante cardíaco con compatibilidad en: masa corporal, ABO,y prueba cruzada positiva."
+          "text": "Viable un trasplante cardíaco con compatibilidad en: masa corporal, ABO, y prueba cruzada positiva."
         }
       ]
     },
@@ -9040,7 +9040,7 @@
       "evaluation": "parcial_3",
       "source": "partial",
       "asked_at": "2012-10-19",
-      "text": "¿Cuál de las siguientes afirmaciones es la correcta en relación a la resistencia de S.  pneumoniae frente a los β-lactámicos?",
+      "text": "¿Cuál de las siguientes afirmaciones es la correcta en relación a la resistencia de S. pneumoniae frente a los β-lactámicos?",
       "options": [
         {
           "id": "46816e5b-ee05-43fa-96ff-015168285d3d",
@@ -9370,7 +9370,7 @@
       "evaluation": "parcial_3",
       "source": "partial",
       "asked_at": "2013-10-19",
-      "text": "En 1994 la OMS certificó que la poliomielitis fue erradicada definitivamente de Uruguay.  En el año 2012 el Ministerio de Salud decide sustituir la vacuna Sabin (OPV) por la Salk (IPV). ¿Cuál es el principal motivo de dicho cambio?",
+      "text": "En 1994 la OMS certificó que la poliomielitis fue erradicada definitivamente de Uruguay. En el año 2012 el Ministerio de Salud decide sustituir la vacuna Sabin (OPV) por la Salk (IPV). ¿Cuál es el principal motivo de dicho cambio?",
       "options": [
         {
           "id": "4a4590f7-24b1-4617-82c3-ed5660fefc92",
@@ -10864,7 +10864,7 @@
       "evaluation": "parcial_3",
       "source": "partial",
       "asked_at": "2017-10-21",
-      "text": "El fenotipo MLSB se debe a la acción de una enzima denominada metilasa, la cual confiere resistencia a tres familias de antibióticos diferentes. ¿Cuál es el mecanismo de acción de esta enzima?  Marque la opción correcta.",
+      "text": "El fenotipo MLSB se debe a la acción de una enzima denominada metilasa, la cual confiere resistencia a tres familias de antibióticos diferentes. ¿Cuál es el mecanismo de acción de esta enzima? Marque la opción correcta.",
       "options": [
         {
           "id": "4182fcea-dd1a-47ac-a81b-ebd0750023a7",
@@ -11208,7 +11208,7 @@
       "evaluation": "parcial_3",
       "source": "partial",
       "asked_at": "2017-10-21",
-      "text": "M.F, sexo femenino, 67 años, consulta por disuria, dolor lumbar y fiebre de 48 horas de evolución.  Del examen físico se destaca: vigil, bien orientada en tiempo y espacio, temperatura axilar 38°C, hemodinamia estable, fosa lumbar dolorosa a izquierda, resto sin particularidades. Se solicita urocultivo, hemocultivos, y se inicia antibioticoterapia empírica. A las 36 horas se reciben los siguientes resultados: Urocultivo: 100.000 UFC/ml de E. coli. Hemocultivos: desarrolla en una de dos muestras E. coli. En relación al diagnóstico en este paciente, marque la opción correcta:",
+      "text": "M.F, sexo femenino, 67 años, consulta por disuria, dolor lumbar y fiebre de 48 horas de evolución. Del examen físico se destaca: vigil, bien orientada en tiempo y espacio, temperatura axilar 38°C, hemodinamia estable, fosa lumbar dolorosa a izquierda, resto sin particularidades. Se solicita urocultivo, hemocultivos, y se inicia antibioticoterapia empírica. A las 36 horas se reciben los siguientes resultados: Urocultivo: 100.000 UFC/ml de E. coli. Hemocultivos: desarrolla en una de dos muestras E. coli. En relación al diagnóstico en este paciente, marque la opción correcta:",
       "options": [
         {
           "id": "661f75a5-40ed-461f-9471-cd953f1f765f",
@@ -12523,7 +12523,7 @@
         },
         {
           "id": "241bfd73-a794-4d91-8090-438892d39917",
-          "text": "El complejo mayor de histocompatibilidad se limita a los genes HLA-A, HLA-B,HLA-DRB1."
+          "text": "El complejo mayor de histocompatibilidad se limita a los genes HLA-A, HLA-B, HLA-DRB1."
         },
         {
           "id": "d3e75d30-d570-4f3a-a36f-6952b5f87fee",
@@ -13637,7 +13637,7 @@
         },
         {
           "id": "5ab16184-83db-44c5-910c-eb269a0c1c39",
-          "text": "La incompatibilidad ABO se manifiesta predominantemente  como rechazo crónico del injerto."
+          "text": "La incompatibilidad ABO se manifiesta predominantemente como rechazo crónico del injerto."
         },
         {
           "id": "d539e31b-623a-45cb-962e-1cae1fe070ff",
