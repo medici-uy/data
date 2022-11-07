@@ -3366,28 +3366,658 @@
       ]
     },
     {
-      "id": "7f15ae2b-365c-4511-9d8e-1e6b6f7bfdf5",
+      "id": "d2394d3b-7077-46c0-ad2d-7d9f2979615e",
       "evaluation": "parcial_2",
       "source": "partial",
-      "asked_at": "2017-12-02",
-      "text": "¿Cuál de las siguientes afirmaciones acerca de los intervalos de confianza para el riesgo relativo es correcta?",
+      "asked_at": "2014-12-09",
+      "text": "En relación a los estudios observacionales analíticos, señale la opción correcta:",
       "options": [
         {
-          "id": "9941eb6e-1f0e-4085-831f-df16e63be1f5",
-          "text": "Para una misma situación, cuanto mayor es la confianza mayor es la longitud del intervalo.",
+          "id": "4527d09f-2ac4-4c09-baf0-94082c7b3594",
+          "text": "Pueden ser tanto prospectivos como retrospectivos.",
           "correct": true
         },
         {
-          "id": "5d85e7e7-c29f-46b6-b516-a49a039ebeef",
-          "text": "El intervalo de confianza es simétrico con respecto al riesgo hallado en la muestra."
+          "id": "843dce6b-8ee0-4b77-ad4a-2b28b256a653",
+          "text": "Muestran una instantánea en la evolución en un momento dado."
         },
         {
-          "id": "036ccaa4-60dd-4eed-8eac-ba3a05d38241",
-          "text": "La longitud del intervalo es inversamente proporcional al tamaño muestral."
+          "id": "04e081e0-33bd-4e80-9787-094f1a6eec17",
+          "text": "No pueden realizarse de forma prospectiva."
         },
         {
-          "id": "2f1ed957-c45a-43c1-aa86-afb2502a8a6f",
-          "text": "Para una misma situación, cuanto mayor es el tamaño de la muestra mayor es la imprecisión."
+          "id": "a059aee2-1414-4cfc-b695-da90ad096776",
+          "text": "No pueden realizarse de forma retrospectiva."
+        }
+      ]
+    },
+    {
+      "id": "5b603ac3-802e-4d72-807b-e66c2c548b1a",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2014-12-09",
+      "text": "Un estudio de cohortes es un estudio observacional analítico en el cual (marque la opción correcta):",
+      "options": [
+        {
+          "id": "2c0f9c11-9abb-4a2e-90e6-2fdcc1ff70bf",
+          "text": "Se observan individuos sanos expuestos y no expuestos al factor de estudio.",
+          "correct": true
+        },
+        {
+          "id": "6d679a42-0c99-4fbe-8cae-5e3db81fbcdf",
+          "text": "Existe una asignación aleatoria a un grupo tratado o control."
+        },
+        {
+          "id": "8793a911-0ec3-4f0c-ad36-dcdf4309313b",
+          "text": "No permite calcular incidencia y riesgo relativo."
+        },
+        {
+          "id": "f863e1d9-4b87-47c7-81ba-235348be2377",
+          "text": "Parte de individuos sanos y enfermos y se compara la exposición en ambos."
+        }
+      ]
+    },
+    {
+      "id": "12ac540a-f88a-45b0-b75a-986bf5664d52",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2014-12-09",
+      "text": "A continuación se detallan ventajas y desventajas de los estudios de casos y controles:",
+      "options": [
+        {
+          "id": "d2881270-68b6-4fa0-b0c4-379e571a41ed",
+          "text": "Una ventaja es que suelen exigir menos tiempo y ser menos costosos que los estudios de cohorte.",
+          "correct": true
+        },
+        {
+          "id": "ef411932-f781-421b-9b6c-2692bf6fe512",
+          "text": "Una desventaja es que caracterizan simultáneamente los efectos de una variedad de posibles factores de riesgo del problema de salud que se estudia."
+        },
+        {
+          "id": "c223b4a5-af0d-4453-9b31-cb6bb174886f",
+          "text": "Una desventaja es que están indicados para el estudio de enfermedades con un largo periodo de latencia."
+        },
+        {
+          "id": "0ea529b7-30b1-4fb6-a557-350e5df0a2cd",
+          "text": "Una desventaja es que son útiles para estudiar problemas de salud poco frecuentes."
+        }
+      ]
+    },
+    {
+      "id": "d1857364-462e-4c14-aa93-ff13291b9983",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2014-12-09",
+      "text": "Cuando se ha realizado un análisis por intención de tratamiento o intención de tratar, ¿qué población se incluye en dicho análisis?",
+      "options": [
+        {
+          "id": "6367571a-865f-4f3d-a111-8450a5f66643",
+          "text": "Todos los pacientes que fueron aleatorizados.",
+          "correct": true
+        },
+        {
+          "id": "d5f73266-c523-4cca-835e-57e79a277b2e",
+          "text": "Todos los pacientes que han completado el seguimiento previsto."
+        },
+        {
+          "id": "ff01e6cd-3c88-435e-b62e-1563f26831d6",
+          "text": "Todos los pacientes que han completado el tratamiento a estudio."
+        },
+        {
+          "id": "e858beda-4576-4346-81a0-808895299eb6",
+          "text": "Todos los pacientes que no han abandonado el estudio por acontecimientos adversos."
+        }
+      ]
+    },
+    {
+      "id": "74e3d46d-fb50-4c75-9a9a-61f9ac687e59",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2014-12-09",
+      "text": "De los siguientes estudios, ¿cuál es el mejor para determinar una relación de causa-efecto?",
+      "options": [
+        {
+          "id": "7f9c78ec-6d3d-4930-baf4-4d66e5d0e0c7",
+          "text": "Ensayo clínico aleatorizado.",
+          "correct": true
+        },
+        {
+          "id": "4c486810-5ede-4688-ba4b-377c2489baa1",
+          "text": "Analíticos de casos y controles."
+        },
+        {
+          "id": "502ffc6b-41a8-4590-861f-48a93958992a",
+          "text": "Corte transversal o prevalencia."
+        },
+        {
+          "id": "405271aa-bb0d-4382-a354-c772bd2eb6b8",
+          "text": "Observacional descriptivo."
+        }
+      ]
+    },
+    {
+      "id": "35d85ae5-9924-4f53-9157-40e3e84f3e53",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2014-12-09",
+      "text": "Durante el análisis de los resultados de un estudio de cohortes, el investigador calcula el riesgo relativo. Esta medida de probabilidad indica:",
+      "options": [
+        {
+          "id": "240d2d6a-5bb6-4f70-876d-78852938940e",
+          "text": "La fuerza de la asociación entre una exposición y un daño a la salud.",
+          "correct": true
+        },
+        {
+          "id": "84da00ba-542b-49b3-8614-a74a8a8654a9",
+          "text": "La diferencia de riesgo entre expuestos y no expuestos."
+        },
+        {
+          "id": "9f46823e-b7c0-42b2-8748-e203f670ebd1",
+          "text": "La fracción etiológica o atribuible a la exposición."
+        },
+        {
+          "id": "86f0addd-3963-4767-8755-c330f4c94844",
+          "text": "La magnitud de un problema de salud en una comunidad."
+        }
+      ]
+    },
+    {
+      "id": "87b09d20-ba98-4012-97f1-cc105a847db9",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2014-12-09",
+      "text": "El consentimiento informado comunitario es considerado como:",
+      "options": [
+        {
+          "id": "a2ae9d09-ad4e-495a-8fad-107bc5248afc",
+          "text": "Complementario pero no sustituye al consentimiento individual.",
+          "correct": true
+        },
+        {
+          "id": "5331c6db-7e82-477b-9cc6-70ed060503cc",
+          "text": "De mayor jerarquía que el consentimiento individual."
+        },
+        {
+          "id": "fa4ed295-6385-4e2e-8dd1-89225697bfeb",
+          "text": "Necesario y su presencia sustituye al consentimiento individual."
+        }
+      ]
+    },
+    {
+      "id": "542fec1d-f9d4-4903-9d94-18fd644491f0",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2014-12-09",
+      "text": "En las investigaciones epidemiológicas se debe evaluar:",
+      "options": [
+        {
+          "id": "b152c1a9-6a5c-4276-8fba-68d2a9de0b3d",
+          "text": "El manejo de la información por parte de los investigadores.",
+          "correct": true
+        },
+        {
+          "id": "d454636c-294f-4cdd-8ebb-25e46996fc72",
+          "text": "Los aspectos metodológicos pero no es necesario los éticos."
+        },
+        {
+          "id": "f1d2ca23-6838-4ba0-b544-0bffd8acedc4",
+          "text": "Únicamente el valor social de la investigación."
+        }
+      ]
+    },
+    {
+      "id": "433821c0-e238-4ac7-9cf1-babb4af24ef6",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2014-12-09",
+      "text": "En los ensayos clínicos aleatorizados el enmascaramiento de la secuencia de aleatorización tiene por objetivo:",
+      "options": [
+        {
+          "id": "9810d000-b149-45ee-8c26-bbc41f1d9406",
+          "text": "Evitar que se pueda predecir a qué grupo será asignado el próximo paciente.",
+          "correct": true
+        },
+        {
+          "id": "39859f1a-fffc-4fa6-835f-3ff0268766a2",
+          "text": "Cegar al paciente respecto a si está recibiendo tratamiento o placebo."
+        },
+        {
+          "id": "f44f4d05-cbba-4392-8918-5a25edb54cca",
+          "text": "Impedir que el investigador sepa a qué grupo fue asignado el paciente."
+        },
+        {
+          "id": "141d5c75-9418-4a58-8678-de340411a6ca",
+          "text": "Ocultar errores ocurridos durante la aleatorización, los cuales pueden inducir sesgos."
+        }
+      ]
+    },
+    {
+      "id": "036c2ac7-36bb-4d4e-a4b3-b0352a525a5d",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2014-12-09",
+      "text": "En relación a los estudios experimentales señale la opción correcta:",
+      "options": [
+        {
+          "id": "229fb997-49a1-498a-a43b-60915dbfe9eb",
+          "text": "Son estudios en los cuales los investigadores tienen control sobre el factor de estudio.",
+          "correct": true
+        },
+        {
+          "id": "dbe63c9c-9935-4388-8836-a2d027f0a85c",
+          "text": "La comparación del tratamiento de intervención se puede realizar únicamente con un placebo."
+        },
+        {
+          "id": "4fdbf515-666f-4b32-8980-050a20e0c53f",
+          "text": "Los estudios aleatorizados proporcionan evidencias mucho más débiles que los estudios no aleatorizados."
+        },
+        {
+          "id": "ea7ff090-dfeb-4f7a-8ff4-5b7726d2bdf0",
+          "text": "Una ventaja es que los grupos de estudio no tienen que ser similares desde el comienzo del estudio."
+        }
+      ]
+    },
+    {
+      "id": "8a0709c7-23a8-467f-b84a-2b432592dd5b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2014-12-09",
+      "text": "En relación a los tipos de estudios epidemiológicos, marque la opción correcta:",
+      "options": [
+        {
+          "id": "ff779a2f-82a9-4b44-83c4-fc76da125c05",
+          "text": "Los estudios de casos y controles parten de la enfermedad o evento de salud.",
+          "correct": true
+        },
+        {
+          "id": "efcde317-f1e3-4c1c-9563-78c60eaba083",
+          "text": "Los ensayos clínicos controlados se clasifican dentro de los estudios observacionales."
+        },
+        {
+          "id": "ec3c94f2-366e-49d2-aeb2-b5e7dc73c81f",
+          "text": "Los estudios de casos y controles permiten el cálculo del riesgo relativo."
+        },
+        {
+          "id": "02e6ba46-c8b1-46e3-9172-67f2349463b0",
+          "text": "Los estudios de cohorte parten de la enfermedad o evento de salud."
+        }
+      ]
+    },
+    {
+      "id": "2690ad27-7ab2-4b88-a01f-4437d58f9042",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2014-12-09",
+      "text": "En un contraste de hipótesis bilateral se utilizó el estadístico z, obteniendo un valor calculado de z = 1.73. ¿Cuál es el valor p de dicho contraste?",
+      "options": [
+        {
+          "id": "cc272d18-370c-4872-a44b-6097c14bdf58",
+          "text": "0.0836.",
+          "correct": true
+        },
+        {
+          "id": "63a50e58-cd74-4414-a4c9-2137688c0dec",
+          "text": "0.0418."
+        },
+        {
+          "id": "ecbb9c7c-a8b7-4e35-941a-a6d9589b6e6c",
+          "text": "0.9582."
+        },
+        {
+          "id": "95fe9d53-a2f5-43c0-9558-24cefe9da579",
+          "text": "No se puede saber."
+        }
+      ]
+    },
+    {
+      "id": "b5cd4d2a-b578-42d1-a9cf-70713e14dbc7",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2014-12-09",
+      "text": "En un contraste de hipótesis, la probabilidad de rechazar la hipótesis nula siendo falsa es:",
+      "options": [
+        {
+          "id": "b8ee1266-e50b-479c-be1b-865bd42d853b",
+          "text": "La potencia.",
+          "correct": true
+        },
+        {
+          "id": "cdf4acf0-7d6c-40fa-a8aa-7a5a9df222cf",
+          "text": "Beta."
+        },
+        {
+          "id": "64af7ba1-f433-483d-b67a-9ad96fc22704",
+          "text": "El nivel de significación."
+        },
+        {
+          "id": "63a72d86-fe7e-431e-8a90-6b401db82c50",
+          "text": "El valor p."
+        }
+      ]
+    },
+    {
+      "id": "4f9a15c9-d040-4e3f-8f5b-eac6418b5c17",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2014-12-09",
+      "text": "En un ensayo clínico controlado, para comprobar \"a posteriori\" que la asignación aleatoria ha sido bien realizada, se debe:",
+      "options": [
+        {
+          "id": "2eeba942-a5e3-4130-8b0c-a5f95e988533",
+          "text": "Comprobar que los diferentes grupos presentan características pronósticas comparables.",
+          "correct": true
+        },
+        {
+          "id": "a1e4846e-9753-4c4d-a8b7-5f5b59dd95d0",
+          "text": "Calcular el error aleatorio de tipo I (alfa)."
+        },
+        {
+          "id": "e657b0ac-f7af-4cec-9481-c59649059204",
+          "text": "Calcular el error aleatorio de tipo II (beta)."
+        },
+        {
+          "id": "d0e0af17-9943-4480-baba-9d29eb2f476d",
+          "text": "Calcular el valor de \"p\"."
+        }
+      ]
+    },
+    {
+      "id": "db8ad2d4-22bc-4bac-904c-d1971d55c05f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2014-12-09",
+      "text": "En un estudio sobre las causas del cáncer de pulmón, se compararon los antecedentes de tabaquismo en los pacientes que habían desarrollado esta enfermedad con los de un grupo de personas sin la enfermedad. ¿De qué tipo de estudio epidemiológico se trata?",
+      "options": [
+        {
+          "id": "75600d85-4a1e-4502-a8bf-cb50f8e69a17",
+          "text": "Estudio de casos y controles.",
+          "correct": true
+        },
+        {
+          "id": "cb1ab398-8a6a-47d1-b843-9cf5db9a5043",
+          "text": "Ensayo clínico aleatorizado."
+        },
+        {
+          "id": "6f9d14bd-cf2e-4022-928a-51b9ebdbe4cb",
+          "text": "Estudio de cohortes."
+        },
+        {
+          "id": "1beab795-6fdd-412c-bdde-f7b48990e894",
+          "text": "Estudio ecológico."
+        }
+      ]
+    },
+    {
+      "id": "2260673a-4adb-477f-ba1c-3de5e564c5a1",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2014-12-09",
+      "text": "Indique la opción correcta respecto a las medidas de riesgo:",
+      "options": [
+        {
+          "id": "96290ac9-6d44-44ea-aa39-6212ce4a3d13",
+          "text": "El riesgo relativo solo puede calcularse en los estudios prospectivos.",
+          "correct": true
+        },
+        {
+          "id": "88db0e8a-b8a9-449a-8e99-1d5d5e554444",
+          "text": "El OR es una buena aproximación del riesgo relativo sólo cuando la proporción de casos en los que se presenta el evento es elevada (> 30%)."
+        },
+        {
+          "id": "e7ce485b-3ca7-4bda-914c-d13ca26287c3",
+          "text": "El OR solo puede calcularse en estudios retrospectivos."
+        },
+        {
+          "id": "c5fe77b3-e770-4774-bf87-7061c51e9065",
+          "text": "El riesgo relativo es la única medida de riesgo que puede calcularse en los estudios prospectivos."
+        }
+      ]
+    },
+    {
+      "id": "54d575dc-ed8e-4ecb-a128-5984e7ae4631",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2014-12-09",
+      "text": "La investigación con niños y niñas requiere que el investigador:",
+      "options": [
+        {
+          "id": "b032e4d9-e650-4b2f-8dc0-d6ba88dc24f8",
+          "text": "Respete el derecho de los niños a decidir participar.",
+          "correct": true
+        },
+        {
+          "id": "a91deb5e-d77f-4d43-9731-d27a0e4dca87",
+          "text": "Considere innecesario informar a los niños los riesgos."
+        },
+        {
+          "id": "0373700f-eae4-481e-a649-8e292d13953b",
+          "text": "Solicite el consentimiento informado a los niños."
+        }
+      ]
+    },
+    {
+      "id": "6d1d2bda-cdb3-4b44-81b1-fd88f449dd35",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2014-12-09",
+      "text": "La investigación con poblaciones vulnerables se justifican si:",
+      "options": [
+        {
+          "id": "4679a903-2d99-45a5-8a17-9b5536f92983",
+          "text": "Los objetivos no se pueden alcanzar con poblaciones no vulnerables.",
+          "correct": true
+        },
+        {
+          "id": "814362ed-73b5-4907-a06a-1e6c5fa13f54",
+          "text": "Facilita la metodología del estudio y por lo tanto los objetivos."
+        },
+        {
+          "id": "60ce8591-8b33-43ca-a547-581f6ff2faa4",
+          "text": "Los sujetos de investigación otorgan consentimiento informado."
+        }
+      ]
+    },
+    {
+      "id": "f1e77ff5-e100-4dd8-bf8b-7f88ba944a86",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2014-12-09",
+      "text": "La mejor medida para determinar el efecto de una exposición en un estudio de casos y controles es:",
+      "options": [
+        {
+          "id": "4ec3cb47-b330-4b2b-8c3f-fcb6f4d4fa25",
+          "text": "Odds ratio.",
+          "correct": true
+        },
+        {
+          "id": "fbf98a67-7bb6-46e9-9875-c0fb51c93c95",
+          "text": "Intervalo de confianza."
+        },
+        {
+          "id": "b045e128-f795-43f2-9872-f9266a4f8bf9",
+          "text": "Incidencia."
+        },
+        {
+          "id": "25537188-d024-438f-9b5d-9a8255bad402",
+          "text": "Varianza."
+        }
+      ]
+    },
+    {
+      "id": "573deaf4-1822-447e-93a4-efd8e6c7297c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2014-12-09",
+      "text": "Los estudios de cohorte:",
+      "options": [
+        {
+          "id": "57355956-0c0c-4f28-81a3-98aaa31c6881",
+          "text": "Los sujetos del estudio se eligen de acuerdo con la exposición de interés.",
+          "correct": true
+        },
+        {
+          "id": "e9ce5a9a-936e-4e13-83cf-d420043efc3e",
+          "text": "Se utilizan para estudiar enfermedades raras."
+        },
+        {
+          "id": "53e39543-2e2c-4d74-a6c1-70e49f46b068",
+          "text": "Son los estudios epidemiológicos de menor costo."
+        },
+        {
+          "id": "3b5f4f46-8bd1-4c9b-99e3-d6dbf4b925b3",
+          "text": "Son los estudios que generalmente requieren poco tiempo de ejecución."
+        }
+      ]
+    },
+    {
+      "id": "a238e600-5b7e-404f-8fe1-e38112d16c5f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2014-12-09",
+      "text": "Los estudios epidemiológicos que representan mejor la asociación del factor de exposición y el daño, son los estudios:",
+      "options": [
+        {
+          "id": "7cff4cd4-14a2-40f4-ab08-f4b01d0827cb",
+          "text": "Ensayo clínico aleatorizado (ECA).",
+          "correct": true
+        },
+        {
+          "id": "796710ba-7b9d-48c9-87d5-2e0320633181",
+          "text": "Caso-control."
+        },
+        {
+          "id": "c97cb7fa-8b02-439d-8860-63897a61842a",
+          "text": "Cohorte."
+        },
+        {
+          "id": "6dfc73d5-23a6-423e-a332-7bdb18ae2d6b",
+          "text": "Descriptivos."
+        }
+      ]
+    },
+    {
+      "id": "ca424e87-56c0-4600-a693-170d6f4a65d5",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2014-12-09",
+      "text": "Marque la opción correcta sobre ensayos clínicos aleatorizados.",
+      "options": [
+        {
+          "id": "f9363048-22b0-46e8-a359-09aa4c1533a8",
+          "text": "Los grupos en estudio deben ser similares en cuanto a su composición.",
+          "correct": true
+        },
+        {
+          "id": "614c5ec1-da9a-4aaa-8e9a-b675e24b716a",
+          "text": "A punto de partida de un efecto adverso, permiten determinar retrospectivamente la asociación con la exposición al agente nocivo."
+        },
+        {
+          "id": "bd8a92d6-0c37-4e64-98cd-70c0090286db",
+          "text": "Los conflictos éticos en su implementación, no son un problema que influya en su diseño."
+        },
+        {
+          "id": "434e5db0-6c2d-40dc-a8da-9ed62d20d3b6",
+          "text": "Son de bajo costo."
+        }
+      ]
+    },
+    {
+      "id": "1d6800b8-9dfe-4032-b8d9-5ea13dbc7032",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2014-12-09",
+      "text": "Según el Decreto 379/2008 que regula la investigación en seres humanos en nuestro país, el placebo puede ser utilizado:",
+      "options": [
+        {
+          "id": "d3f9d9c8-db5f-4572-b4ad-58fe266ebc91",
+          "text": "Por razones metodológicas.",
+          "correct": true
+        },
+        {
+          "id": "507a8470-b0ec-4786-862b-406b4590d135",
+          "text": "Para facilitar la conclusión."
+        },
+        {
+          "id": "1d96caec-9339-4efd-8a36-471c8f22ab3e",
+          "text": "Si hay tratamiento probado."
+        }
+      ]
+    },
+    {
+      "id": "dee39c31-07ee-4713-ade1-e978a048c51a",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2014-12-09",
+      "text": "Señale lo correcto sobre los estudios de casos y controles:",
+      "options": [
+        {
+          "id": "7b1880cd-fcd1-492f-9d9d-47d132de62e2",
+          "text": "Es el mejor diseño de estudio analítico para evaluar enfermedades de baja incidencia.",
+          "correct": true
+        },
+        {
+          "id": "bddce5e1-ee28-4c75-a19e-596a84be8f7e",
+          "text": "Permiten calcular directamente la tasa de incidencia de la enfermedad en los individuos expuestos."
+        },
+        {
+          "id": "f2b86945-573e-41fb-a25d-6c3c176e9dd5",
+          "text": "Son difíciles de ejecutar y costosos, comparados con los estudios de cohorte."
+        },
+        {
+          "id": "ad815ea4-c78f-40f0-86ed-9ca917bf904a",
+          "text": "Tienen escasos problemas de sesgo."
+        }
+      ]
+    },
+    {
+      "id": "cbfbec95-1c04-4f0c-8a8c-688646c9803e",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2014-12-09",
+      "text": "Si se realiza un contraste de hipótesis con un nivel de significación del 1% y no se rechaza la hipótesis nula, el resultado con un nivel de significación del 5% hubiera sido:",
+      "options": [
+        {
+          "id": "3efca1ed-93bb-41d7-8dd9-8ab8b28d706f",
+          "text": "No se puede saber.",
+          "correct": true
+        },
+        {
+          "id": "50f4939c-6986-4867-b2e1-0c6c8b83f628",
+          "text": "No rechazar la hipótesis nula."
+        },
+        {
+          "id": "7aaf3c99-2154-41f6-bb96-f5b5ced47899",
+          "text": "Rechazar la hipótesis alternativa."
+        },
+        {
+          "id": "6b73edca-18dd-40f8-949e-a4c0c7a0527e",
+          "text": "Rechazar la hipótesis nula."
+        }
+      ]
+    },
+    {
+      "id": "fb9547dc-ee0b-4ef1-814c-d1c3745b6a42",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2014-12-09",
+      "text": "Si se realiza un contraste de hipótesis con un nivel de significación del 1% y se rechaza la hipótesis nula, el resultado con un nivel de significación del 5% hubiera sido:",
+      "options": [
+        {
+          "id": "581d71ec-3aec-4b5e-88be-38857c52ef19",
+          "text": "Rechazar la hipótesis nula.",
+          "correct": true
+        },
+        {
+          "id": "6e9a258e-c089-49b0-ba5d-7691a533b812",
+          "text": "No rechazar la hipótesis nula."
+        },
+        {
+          "id": "8a7f5f41-43f0-478e-b17b-580ed257b312",
+          "text": "No se puede saber."
+        },
+        {
+          "id": "0069d5f0-db82-4572-a988-6a9176720a77",
+          "text": "Rechazar la hipótesis alternativa."
         }
       ]
     },
@@ -3946,6 +4576,32 @@
         {
           "id": "07e5fa53-6594-41a3-ac24-6a89deebd152",
           "text": "Ese valor de RR con su IC no es suficiente para afirmar que la amlodipina es un factor protector en el tratamiento de la hipertensión."
+        }
+      ]
+    },
+    {
+      "id": "7f15ae2b-365c-4511-9d8e-1e6b6f7bfdf5",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-12-02",
+      "text": "¿Cuál de las siguientes afirmaciones acerca de los intervalos de confianza para el riesgo relativo es correcta?",
+      "options": [
+        {
+          "id": "9941eb6e-1f0e-4085-831f-df16e63be1f5",
+          "text": "Para una misma situación, cuanto mayor es la confianza mayor es la longitud del intervalo.",
+          "correct": true
+        },
+        {
+          "id": "5d85e7e7-c29f-46b6-b516-a49a039ebeef",
+          "text": "El intervalo de confianza es simétrico con respecto al riesgo hallado en la muestra."
+        },
+        {
+          "id": "036ccaa4-60dd-4eed-8eac-ba3a05d38241",
+          "text": "La longitud del intervalo es inversamente proporcional al tamaño muestral."
+        },
+        {
+          "id": "2f1ed957-c45a-43c1-aa86-afb2502a8a6f",
+          "text": "Para una misma situación, cuanto mayor es el tamaño de la muestra mayor es la imprecisión."
         }
       ]
     },
