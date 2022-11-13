@@ -1,0 +1,833 @@
+{
+  "name": "Neurociencia",
+  "short_name": "Neuro",
+  "aliases": [
+    "neuro"
+  ],
+  "image": "neuro.webp",
+  "year": 2,
+  "questions": [
+    {
+      "id": "eccb00e7-2cb6-49fc-86a4-4c88734fe5cf",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-08-23",
+      "text": "A partir del estudio comparado de las propiedades electrofisiológicas de axones amielínicos es posible afirmar que:",
+      "options": [
+        {
+          "id": "cf82757c-ffd9-4da7-ba88-c7110879ed45",
+          "text": "Los axones de menor diámetro presentan en forma característica resistencias de entrada relativamente altas.",
+          "correct": true
+        },
+        {
+          "id": "a16b6f1a-7d1a-4951-ac64-ef27a94ef0cf",
+          "text": "La constante de espacio es mayor en los axones de menor diámetro."
+        },
+        {
+          "id": "557f7d2e-487b-4e38-b8fb-3c6ab23b6265",
+          "text": "La magnitud de la corriente de sodio responsable del potencial de acción es independiente del diámetro del axón."
+        },
+        {
+          "id": "a6aa7069-2f8e-4428-98b4-b30bbbf90fe5",
+          "text": "Los axones de mayor diámetro presentan menores velocidades de conducción."
+        }
+      ]
+    },
+    {
+      "id": "eaed1c16-b99e-4b30-92bb-2eab5bba3722",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-08-23",
+      "text": "Con respecto a la fisiología del dolor, marque la opción correcta:",
+      "options": [
+        {
+          "id": "e9dfe111-e58f-4472-8e5c-39064e8404cf",
+          "text": "Los opioides endógenos producen inhibición presináptica en el contacto entre la aferente primaria nociceptiva y la neurona de segundo orden.",
+          "correct": true
+        },
+        {
+          "id": "d58a0ab1-1731-47ff-8c77-f86ed71dfb95",
+          "text": "La activación intensa de mecanorreceptores de adaptación lenta genera una sensación dolorosa."
+        },
+        {
+          "id": "b66f7b2d-e5b5-46a2-a24e-e323853513a9",
+          "text": "La estimulación de la sustancia gris periacueductal (PAG) disminuye el umbral de los receptores nociceptivos ubicados en la piel."
+        },
+        {
+          "id": "a47ad8e2-6316-4136-be58-ed728e2c44c0",
+          "text": "Las terminales de las aferentes primarias nociceptivas utilizan acetilcolina como neurotransmisor."
+        },
+        {
+          "id": "3316c945-3bee-4b5f-ac48-1e063515dd20",
+          "text": "Las vísceras carecen de nociceptores."
+        }
+      ]
+    },
+    {
+      "id": "c462da32-81da-43ed-9e63-875da24f7be2",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-08-23",
+      "text": "Con respecto a la respuesta postsináptica provocada por la liberación de acetilcolina en la sinapsis neuromuscular, es correcto afirmar que:",
+      "options": [
+        {
+          "id": "4c37dd1b-dd9a-45f2-9c7c-16873adfa1c7",
+          "text": "A voltajes de membrana próximos al reposo, la corriente postsináptica neta a través de los receptores nicotínicos es entrante.",
+          "correct": true
+        },
+        {
+          "id": "7ee592b2-e156-40cb-b771-523d376039c4",
+          "text": "A voltajes de membrana próximos al reposo, la corriente postsináptica a través de los receptores nicotínicos es transportada principalmente por iones K+."
+        },
+        {
+          "id": "fc797dbe-2289-43be-ba60-b6466630ce96",
+          "text": "En presencia de curare, aumenta su amplitud."
+        },
+        {
+          "id": "18ef8c69-801f-467c-8d6e-1870c1018234",
+          "text": "En presencia de un inhibidor de la enzima acetilcolinesterasa se reduce su amplitud."
+        },
+        {
+          "id": "a3b9e63e-913d-4320-b3cb-cc99635180c9",
+          "text": "Se conduce en forma activa (sin decremento) desde su sitio de generación en la placa motora."
+        }
+      ]
+    },
+    {
+      "id": "ac9c5393-8e0b-40bc-bc4b-b25b8ef67492",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-08-23",
+      "text": "Con respecto a la velocidad de conducción de las aferentes primarias somestésicas, marque la opción correcta:",
+      "options": [
+        {
+          "id": "cda6ce38-94f4-4ec4-bba8-92c262aacd30",
+          "text": "Las aferentes tipo Ia, pueden alcanzar velocidades de conducción de 120 m/s.",
+          "correct": true
+        },
+        {
+          "id": "82721950-677f-418e-bb28-599f7d699011",
+          "text": "En forma característica, las aferentes interoceptivas tienen mayor velocidad de conducción que las aferentes de la piel."
+        },
+        {
+          "id": "ea775143-0f87-4dcd-89a6-72123cacb7a0",
+          "text": "Las aferentes propioceptivas tienen una velocidad similar a las nociceptivas."
+        },
+        {
+          "id": "7824902b-7f83-4460-b660-61e61bc574a6",
+          "text": "Las fibras nociceptivas son las de mayor velocidad de conducción."
+        },
+        {
+          "id": "26fec2dd-7e6b-458f-a656-8001feb9fc30",
+          "text": "Todas presentan una velocidad mayor a 50 m/s."
+        }
+      ]
+    },
+    {
+      "id": "c8700d84-6ea9-470e-862e-072ed61d040e",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-08-23",
+      "text": "Con respecto a los receptores de tipo ionotrópico involucrados en la neurotransmisión de tipo química, señale la opción correcta:",
+      "options": [
+        {
+          "id": "f039e041-0b3a-42dd-9c99-fad8bf7f0fd4",
+          "text": "De forma característica, su activación induce la apertura del canal iónico que es parte integral del receptor.",
+          "correct": true
+        },
+        {
+          "id": "87c2ec45-cc39-453f-8436-95799ad8fbe4",
+          "text": "El sitio receptor al que se une el neurotransmisor y el canal iónico pertenecen a macromoléculas distintas que están espacialmente separadas a nivel de la membrana."
+        },
+        {
+          "id": "864b4888-73ad-4cf8-bc85-492a112eb914",
+          "text": "En forma característica median acciones sinápticas con cursos temporales del orden de minutos."
+        },
+        {
+          "id": "c315c07b-4783-4435-b375-8e6673b4bfc0",
+          "text": "Los receptores muscarínicos para la acetilcolina pertenecen a esta categoría de receptores."
+        },
+        {
+          "id": "4c0662bf-4c35-43ca-ac84-8c50a8ae0d60",
+          "text": "Para la apertura del canal es necesaria la activación de la enzima adenilciclasa."
+        }
+      ]
+    },
+    {
+      "id": "231ff443-b1e8-43fe-b2f5-6267e1da5761",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-08-23",
+      "text": "Con respecto a un contacto sináptico de tipo químico del sistema nervioso central de un mamífero adulto, señale la respuesta correcta:",
+      "options": [
+        {
+          "id": "86bad2bf-dfb9-41ea-901c-742b03019706",
+          "text": "Si el neurotransmisor liberado es el GABA, sus efectos típicamente involucran una reducción de la probabilidad de disparo de la neurona postsináptica.",
+          "correct": true
+        },
+        {
+          "id": "614a54b7-0eb5-44a8-9565-7e8465c75936",
+          "text": "La degradación del neurotransmisor induce un aumento de sus efectos postsinápticos."
+        },
+        {
+          "id": "0e615f54-1e14-4e81-8294-3f10976392bd",
+          "text": "La liberación del neurotransmisor no se modificará por la activación de autoreceptores en el terminal presináptico."
+        },
+        {
+          "id": "fe5e8129-041a-410f-befe-4d16242aa66a",
+          "text": "La transmisión en estos contactos requiere del cierre de canales de Ca2+ del terminal presináptico."
+        }
+      ]
+    },
+    {
+      "id": "e8ec2b3d-e569-4a20-8338-0a9c220387ea",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-08-23",
+      "text": "El glutamato es uno de los principales neurotransmisores del sistema nervioso central. En relación a sus receptores postsinápticos, marque la opción correcta:",
+      "options": [
+        {
+          "id": "f61cad2b-9dd4-42cf-9700-68e6fc45607b",
+          "text": "Los receptores del tipo NMDA permiten el pasaje del ion calcio.",
+          "correct": true
+        },
+        {
+          "id": "e7deb863-de72-4043-a9b1-6fe7200c09b0",
+          "text": "Es necesaria la despolarización de la membrana postsináptica a valores cercanos a -40mV para que circule corriente por los receptores del tipo AMPA."
+        },
+        {
+          "id": "ea56b208-0278-4676-a7e9-2b9e88d11b91",
+          "text": "La corriente sináptica mediada por la activación de receptores del tipo AMPA es de cinética más lenta que la mediada por receptores del tipo NMDA."
+        },
+        {
+          "id": "21994868-d9c8-44ab-a116-11cc57d72326",
+          "text": "Los receptores de tipo AMPA son selectivos a aniones."
+        },
+        {
+          "id": "49ccc3b7-6c71-4088-85b0-b2b6ba65e203",
+          "text": "Típicamente, la acción sináptica mediada por receptores del tipo NMDA es inhibidora."
+        }
+      ]
+    },
+    {
+      "id": "af46656e-592c-4af9-8afc-1b3c0286172c",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-08-23",
+      "text": "El trazado con línea CONTINUA de la figura muestra la respuesta del nervio ciático a un estímulo supra-máximo, obtenida en las condiciones que se esquematizan en la parte inferior (\"+\" y \"-\": electrodos de estimulación; \"G1\" y \"G2\": electrodos de registro). El trazado con línea ENTRECORTADA se obtuvo luego de invertir la polaridad del estímulo. De acuerdo con los resultados obtenidos es posible inferir que (señale la opción correcta):",
+      "image": "af46656e-592c-4af9-8afc-1b3c0286172c.webp",
+      "options": [
+        {
+          "id": "1b6aa72c-2e03-4781-b24c-95bd9c0b84cc",
+          "text": "Durante la aplicación del estímulo se produce una reducción local de la excitabilidad axonal en la proximidad del ánodo.",
+          "correct": true
+        },
+        {
+          "id": "5da690ca-9f46-407c-9730-19b8306b2cef",
+          "text": "El sitio de generación de la respuesta biológica se aproxima al sitio de registro al invertir la polaridad del estímulo."
+        },
+        {
+          "id": "d4938f4e-ac27-4378-a4e1-bb21c9eb2e30",
+          "text": "La respuesta biológica se origina bajo el ánodo de estimulación."
+        },
+        {
+          "id": "1a535339-26ec-42f7-89a9-7aebef142560",
+          "text": "La respuesta biológica se origina en el punto intermedio entre el cátodo y el ánodo."
+        },
+        {
+          "id": "d1ee4c45-491b-4638-b0c4-3fb0f0975d50",
+          "text": "La velocidad de conducción se incrementa al invertir la polaridad del estímulo."
+        }
+      ]
+    },
+    {
+      "id": "fd24c382-0ef7-4767-ae12-ce1c18f4e5c7",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-08-23",
+      "text": "En la figura se representan dos trazados superpuestos, correspondientes a las respuestas del nervio ciático a la aplicación de estímulos eléctricos, empleando el dispositivo experimental presentado en los videos del TALLER EXPERIMENTAL. El trazado con línea continua se obtuvo antes de la realización de una maniobra experimental, mientras que con línea entrecortada se representa el obtenido luego de la realización de dicha maniobra. De acuerdo a los resultados presentados, puede inferirse que la maniobra experimental realizada consistió en (marque la opción correcta):",
+      "image": "fd24c382-0ef7-4767-ae12-ce1c18f4e5c7.webp",
+      "options": [
+        {
+          "id": "a3027534-3d91-455f-bae5-5c22dac1c5ed",
+          "text": "El intercambio de la posición de los electrodos de registro (electrodos \"G1\" y \"G2\").",
+          "correct": true
+        },
+        {
+          "id": "3a50bfc2-ff7c-4a75-a849-00c244f53196",
+          "text": "El incremento de la distancia entre el par de electrodos de estimulación y el par de electrodos de registro."
+        },
+        {
+          "id": "2d5c2864-39a2-4007-a5c6-a67e5a656d86",
+          "text": "El incremento de la distancia entre los electrodos de estimulación (distancia cátodo-ánodo) exclusivamente."
+        },
+        {
+          "id": "0d66048c-0afa-4cc2-a242-b1f45a2fbaa3",
+          "text": "La inversión de la polaridad del estímulo (intercambio de las posiciones del cátodo y el ánodo)."
+        },
+        {
+          "id": "5ddac87b-5526-41c5-a959-3014661c5942",
+          "text": "La reducción de la amplitud del estímulo aplicado."
+        }
+      ]
+    },
+    {
+      "id": "dd795147-3ea1-4e77-a076-3ae10b95eee7",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-08-23",
+      "text": "En la figura se representan, arriba, el esquema del diseño experimental utilizado en el TALLER EXPERIMENTAL (TE) para el estudio de la excitabilidad del nervio ciático de la rana y abajo, un ejemplo de los registros obtenidos en estas condiciones. Se indica sobre el trazado diversos elementos. Tomando en cuenta el diseño experimental y las características del registro obtenido frente al estímulo eléctrico, es correcto afirmar que:",
+      "image": "dd795147-3ea1-4e77-a076-3ae10b95eee7.webp",
+      "options": [
+        {
+          "id": "be4ce486-e330-46ce-b460-ce47bdd10070",
+          "text": "Si la distancia entre los electrodos de estimulación y registro pasara de 5 a 10 cm el intervalo 1-2 no se modificaría.",
+          "correct": true
+        },
+        {
+          "id": "15197a80-a51f-45db-a666-975c6801f4ff",
+          "text": "El instante 1 corresponde a una fuente de corriente por debajo del electrodo G1."
+        },
+        {
+          "id": "86b45c40-8ac8-4312-9eac-874f7eef330a",
+          "text": "El tiempo transcurrido entre el inicio del trazado y la ocurrencia del evento indicado por un asterisco (*) está determinado por la velocidad de conducción de los axones que componen al nervio."
+        },
+        {
+          "id": "9832ec53-a6e1-4e57-a0d3-0fe6c9fc5ec6",
+          "text": "En el instante 2 circula corriente desde G2 hacia G1 por el medio extracelular."
+        },
+        {
+          "id": "0045f41f-cdca-443b-a2a4-cfccf63bd5f7",
+          "text": "Si la distancia de 5 cm que separa a los electrodos de estimulación y registro se duplicara, la latencia indicada por \"L\" se reduciría a la mitad."
+        }
+      ]
+    },
+    {
+      "id": "4851b76a-9ac0-4cf1-b6eb-92e5d9551c97",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-08-23",
+      "text": "En la parte superior de la figura se ilustra la variación del potencial de membrana en función de la distancia en un instante dado luego de que se haya generado un potencial de acción en el extremo derecho del axón amielínico esquematizado en la parte inferior (el sentido de propagación es de derecha a izquierda, indicado por la flecha). En la parte inferior se representan tres sectores de la fibra (1, 2 y 3). Teniendo en cuenta el esquema, marque la opción correcta:",
+      "image": "4851b76a-9ac0-4cf1-b6eb-92e5d9551c97.webp",
+      "options": [
+        {
+          "id": "5fe2f831-dce9-40a7-88c6-9760b4849e46",
+          "text": "La permeabilidad de membrana al K+ es mayor en el sector 1 en comparación al sector 3.",
+          "correct": true
+        },
+        {
+          "id": "d19c0b94-9f86-432f-b4f9-0f4693df7cfe",
+          "text": "La corriente circula desde el sector 1 al 2 por dentro de la fibra."
+        },
+        {
+          "id": "7605c93c-b526-43c3-9158-7634c6a8131d",
+          "text": "La corriente circula desde el sector 2 al 3 por fuera de la fibra."
+        },
+        {
+          "id": "24efa3c0-b718-4705-aaeb-1896dcfd09b1",
+          "text": "La membrana correspondiente al sector 3 es igualmente excitable a la del sector 1."
+        },
+        {
+          "id": "b81b26e6-2291-48ca-ac6b-9c2bad7372a9",
+          "text": "La membrana plasmática correspondiente al sector 2 presenta una permeabilidad al ion sodio similar al reposo."
+        }
+      ]
+    },
+    {
+      "id": "d0f83a06-e8f9-40e4-a255-fd57e5766efc",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-08-23",
+      "text": "En la parte superior de la figura se ilustra la variación del potencial de membrana en función de la distancia en un instante dado luego de que se haya generado un potencial de acción en el extremo derecho del axón amielínico esquematizado en la parte inferior (el sentido de propagación es de derecha a izquierda, indicado por la flecha). En la parte inferior se representan tres sectores de la fibra (1, 2 y 3). Teniendo en cuenta el esquema, marque la opción correcta:",
+      "image": "d0f83a06-e8f9-40e4-a255-fd57e5766efc.webp",
+      "options": [
+        {
+          "id": "1ed79b56-216e-44aa-97e1-f3a6f15421a7",
+          "text": "La corriente circula desde el sector 2 al 3 por dentro de la fibra.",
+          "correct": true
+        },
+        {
+          "id": "35606935-40a3-4cbd-8073-822dab67d641",
+          "text": "La corriente circula desde el sector 1 al 2 por dentro de la fibra."
+        },
+        {
+          "id": "0266bb31-53ef-44a5-a882-686357d50dc8",
+          "text": "La membrana correspondiente al sector 1 es más excitable a la del sector 3."
+        },
+        {
+          "id": "c884ac7f-440d-4c4d-92c8-f86bb2159d10",
+          "text": "La membrana plasmática correspondiente al sector 2 presenta una permeabilidad al Na+ menor en comparación a la condición de reposo."
+        },
+        {
+          "id": "9f913cf0-fa41-48ee-940c-8dd52c0a13c5",
+          "text": "La permeabilidad de membrana al K+ es menor en el sector 1 en comparación al sector 3."
+        }
+      ]
+    },
+    {
+      "id": "2e6c9a73-2c73-4115-a700-5d51b596e401",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-08-23",
+      "text": "En la parte superior de la figura se representa el diseño experimental empleado en el taller experimental (TE). N: Nervio ciático; \"+ | -\": electrodos de estimulación; \"G1\" y \"G2\": electrodos de registro. El extremo proximal del nervio (Prox.) se representa a la derecha. En la parte inferior se presenta el registro (diferencia de potencial en función del tiempo) de la respuesta provocada por la aplicación de un estímulo supramáximo. Se indican sobre el trazado tres instantes (flechas 1, 2 y 3); las deflexiones hacia abajo de la línea isopotencial (0 mV) corresponden a diferencias de potencial G1 - G2 de signo negativo. De acuerdo con el resultado presentado, es correcto afirmar que:",
+      "image": "2e6c9a73-2c73-4115-a700-5d51b596e401.webp",
+      "options": [
+        {
+          "id": "c8c78412-9e40-4892-b9f9-4c548a54136a",
+          "text": "En el instante indicado por 2 tiene lugar la circulación de corrientes extracelulares desde G2 a G1.",
+          "correct": true
+        },
+        {
+          "id": "4481b7f3-5a93-449e-a5f4-4e6e49df1731",
+          "text": "El registro muestra que en el instante indicado por 1, el potencial de membrana axonal es de 0 mV."
+        },
+        {
+          "id": "832ff289-b4f7-443e-ba3c-61c9edad0543",
+          "text": "El registro muestra que en el instante indicado por 2 ocurre una hiperpolarización del potencial de membrana axonal bajo G1."
+        },
+        {
+          "id": "1492e3d2-3390-4d6e-8873-0d1c2c8bfc06",
+          "text": "En el instante indicado por 2 las corrientes netas transmembrana son entrantes en G2 y salientes en G1."
+        },
+        {
+          "id": "7c04f107-4d48-4586-acbe-c2e25c2a2f1e",
+          "text": "En el instante indicado por 3, la corriente extracelular neta entre los electrodos de registro es nula."
+        }
+      ]
+    },
+    {
+      "id": "5111dc9e-b878-4078-a6f3-f185ed5bc830",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-08-23",
+      "text": "En la unión neuromuscular de vertebrados, la corriente de la placa terminal provocada por la estimulación del nervio motor genera un potencial de placa terminal. En relación a estos fenómenos, marque la opción correcta:",
+      "options": [
+        {
+          "id": "9f2feae4-326b-41a8-a811-b0b227f82459",
+          "text": "La corriente de la placa terminal se anula a potenciales de membrana cercanos a 0 mV.",
+          "correct": true
+        },
+        {
+          "id": "3b9c3456-3ae8-4b4e-b7c2-caefdac4f8b7",
+          "text": "La corriente de la placa terminal resulta de la apertura de canales iónicos operados por glutamato."
+        },
+        {
+          "id": "1994af99-f27a-4347-92f0-528ad204d2ed",
+          "text": "La corriente de la placa terminal tiene una cinética más lenta que el potencial de placa terminal que resulta de ella."
+        },
+        {
+          "id": "9287b3e5-9202-4ffe-9a6e-b43ac60087cd",
+          "text": "La corriente de placa terminal es entrante a potenciales de membrana de +20 mV."
+        },
+        {
+          "id": "c94b851c-e20f-4423-9e2d-ffb7ffb60748",
+          "text": "La perfusión del preparado con curare incrementa la amplitud del potencial de placa terminal generado."
+        }
+      ]
+    },
+    {
+      "id": "4084ce75-a60d-4e16-9df2-631e71313b45",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-08-23",
+      "text": "En relación a la corriente iónica de membrana IH es correcto señalar que:",
+      "options": [
+        {
+          "id": "1f3df298-cdc3-404c-923c-05f609a957cb",
+          "text": "Es activada por la hiperpolarización del potencial de membrana.",
+          "correct": true
+        },
+        {
+          "id": "63553cf0-1fbf-468f-b4d0-e129099b2341",
+          "text": "Característicamente no participa en el establecimiento del potencial de membrana en reposo."
+        },
+        {
+          "id": "014298bb-911b-4e28-ae09-dcd5caa60442",
+          "text": "Es activada por Ca2+ citosólico."
+        },
+        {
+          "id": "d9d47513-bc6e-44a7-ae27-750873119e97",
+          "text": "Su activación no modifica la excitabilidad neuronal."
+        },
+        {
+          "id": "31d110ea-f7da-40ec-923f-2e882d08ea5c",
+          "text": "Su activación promueve la hiperpolarización del potencial de membrana respecto del valor de reposo."
+        }
+      ]
+    },
+    {
+      "id": "50535e80-d951-4570-b74a-e202e39d7330",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-08-23",
+      "text": "En relación al período refractario absoluto (PRA) y al relativo (PRR), sus mecanismos y consecuencias funcionales sobre la descarga neuronal, es correcto afirmar que:",
+      "options": [
+        {
+          "id": "efccc8d6-a99c-4d80-b6d5-188e253fa5ea",
+          "text": "El umbral para la generación de potenciales de acción se incrementa durante el PRR.",
+          "correct": true
+        },
+        {
+          "id": "29b719de-4ab7-40d6-b5b4-5632bb81b2a5",
+          "text": "El PRA es producto de la activación de la bomba de sodio y potasio."
+        },
+        {
+          "id": "a1a8c255-1d3e-4784-a9a7-dc8c517e2479",
+          "text": "El potencial de acción durante el PRR es de mayor amplitud respecto al observado en condiciones de excitabilidad normal."
+        },
+        {
+          "id": "3f30b8d8-4538-4010-9ee7-38de41fc360a",
+          "text": "La duración del período PRA es del orden de los minutos."
+        },
+        {
+          "id": "a031c0e9-84e3-4b65-8371-465ca28b9729",
+          "text": "La secuencia normal de eventos es: descarga neuronal, PRR, PRA."
+        }
+      ]
+    },
+    {
+      "id": "d2512496-954a-4d50-8d4d-46ada0f05c8f",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-08-23",
+      "text": "En relación al potencial de acción y los mecanismos responsables de su generación, marque la opción correcta:",
+      "options": [
+        {
+          "id": "5a8256a5-f9d0-4943-bc4a-6ab453232c7d",
+          "text": "El potencial de membrana en el valor máximo del potencial de acción es próximo al potencial de equilibrio electroquímico para el Na+.",
+          "correct": true
+        },
+        {
+          "id": "352f98d0-64e8-4f10-b19a-68007e4c3290",
+          "text": "El incremento de la permeabilidad al K+ ocurre antes que al Na+."
+        },
+        {
+          "id": "aed9cffb-c04b-408e-88aa-080ca45b2bc8",
+          "text": "La fase de repolarización obedece a la inactivación de canales de K+."
+        },
+        {
+          "id": "0eab6c23-e655-498c-8854-425538039320",
+          "text": "La inactivación del canal de Na+ precede a la activación del mismo."
+        }
+      ]
+    },
+    {
+      "id": "9d123ff8-18c7-494d-b0ab-ad8dabec521a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-08-23",
+      "text": "En relación al proceso de liberación de los neurotransmisores en una sinapsis del tipo químico, es correcto afirmar que:",
+      "options": [
+        {
+          "id": "9790b237-e383-4bdf-a20a-ccc42945a1fe",
+          "text": "La liberación del neurotransmisor se da en paquetes o cuantos.",
+          "correct": true
+        },
+        {
+          "id": "10536d4b-9bf1-47b6-8736-908c28ef4b5f",
+          "text": "El neurotransmisor es liberado desde el citosol del componente presináptico hacia la hendidura sináptica por un proceso de difusión simple."
+        },
+        {
+          "id": "04170c76-c727-4a44-8c5f-6df1af930c2e",
+          "text": "La cantidad de neurotransmisor liberado aumenta cuando se elimina el Ca2+ del medio extracelular."
+        },
+        {
+          "id": "dca09745-0aa2-482e-a035-9bd982073095",
+          "text": "La hiperpolarización del elemento presináptico es el factor desencadenante de la liberación de neurotransmisores."
+        },
+        {
+          "id": "02a64971-6988-47d8-b232-ea3ef7d8bf73",
+          "text": "Un aumento en la duración del potencial de acción presináptico causa una disminución en la cantidad de neurotransmisor liberado."
+        }
+      ]
+    },
+    {
+      "id": "10188d03-a19b-40d0-b085-bc9aff24dd36",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-08-23",
+      "text": "La figura ilustra resultados obtenidos en el estudio de un contacto sináptico glutamatérgico. Se despolariza la terminal presináptica mediante la técnica de fijación de voltaje (Vpre, arriba) y se registra el potencial en la célula postsináptica (Vpost, abajo) en condiciones control (izquierda) y luego de realizada una maniobra experimental (derecha). En base a las diferencias observadas entre ambos registros, es posible asegurar que la maniobra experimental consistió en (marque la opción correcta):",
+      "image": "10188d03-a19b-40d0-b085-bc9aff24dd36.webp",
+      "options": [
+        {
+          "id": "2118c591-3f9c-4eac-8610-974272e1ad0b",
+          "text": "La eliminación del Ca2+ del medio extracelular.",
+          "correct": true
+        },
+        {
+          "id": "e0de0905-dfbd-4f3e-b3fb-171191f46522",
+          "text": "La inclusión de curare en el medio extracelular."
+        },
+        {
+          "id": "b688751c-5e41-405d-bcff-de389323e3aa",
+          "text": "La inclusión de tetraetilamonio (TEA) en el medio extracelular."
+        },
+        {
+          "id": "d8432c8f-2098-493d-9ca4-ebf961553cf0",
+          "text": "La inclusión de tetrodotoxina (TTX) en el medio extracelular."
+        }
+      ]
+    },
+    {
+      "id": "f6f8785a-b73f-48e0-b0bd-e9245afec3b2",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-08-23",
+      "text": "La figura ilustra, esquemáticamente, los resultados obtenidos en el curso del estudio de una aferente mecanorreceptiva de la piel. Se realiza el registro extracelular de las respuestas de la aferente (trazados superiores en A y en B) a la aplicación de presión en su campo receptivo con diferentes cursos temporales: un pulso cuadrado (trazado inferior en A) y un estímulo vibratorio a 110 Hz (trazado inferior en B). De acuerdo a las características del receptor analizado es posible afirmar que:",
+      "image": "f6f8785a-b73f-48e0-b0bd-e9245afec3b2.webp",
+      "options": [
+        {
+          "id": "92c3f61f-f90b-4d41-b855-9f2f0ccd4bd6",
+          "text": "El receptor analizado puede corresponder a un corpúsculo de Pacini.",
+          "correct": true
+        },
+        {
+          "id": "2bb7f33f-d6fd-4b22-9bf3-322164cb19fc",
+          "text": "El receptor es particularmente sensible a los aspectos estáticos del estímulo."
+        },
+        {
+          "id": "9ca54400-b361-481a-a1a1-6e54d1b21827",
+          "text": "El umbral de la aferente es independiente de la frecuencia del estímulo vibratorio."
+        },
+        {
+          "id": "0cc16b91-87e2-45ac-a3cd-3e46fabdc26f",
+          "text": "Por sus características, la fibra registrada es posiblemente amielínica."
+        },
+        {
+          "id": "8b960fc9-8438-4412-bedd-b388bb7b0cd0",
+          "text": "Se trata de un receptor de adaptación lenta."
+        }
+      ]
+    },
+    {
+      "id": "50f57b4f-cb3b-48b6-be00-e00d213f4271",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-08-23",
+      "text": "La figura representa resultados obtenidos en el video 8 del TALLER EXPERIMENTAL, incluidos en el repartido 2 (TE-2) de dicha actividad. Los trazados 1 y 2 representan promedios de las respuestas al estímulo ilustrado en el trazado inferior, obtenidas simultáneamente en dos posiciones de registro del nervio (1 y 2). Tomando en cuenta el diseño experimental y las características de los registros obtenidos frente al estímulo eléctrico, es correcto afirmar que:",
+      "image": "50f57b4f-cb3b-48b6-be00-e00d213f4271.webp",
+      "options": [
+        {
+          "id": "f5209e4b-cc0c-45bb-9a09-9aeb2b1dcc4c",
+          "text": "Si la distancia entre 1 y 2 es de 1 cm, la velocidad de conducción de la respuesta del nervio es mayor a los 10 m/s.",
+          "correct": true
+        },
+        {
+          "id": "dc625cb2-3a3a-4b01-aab8-b2b4d827f4f8",
+          "text": "El incremento de la temperatura del preparado provocaría un incremento de la latencia de la respuesta en 2."
+        },
+        {
+          "id": "248418c8-62be-407c-9dc8-4e2616a963e4",
+          "text": "El trazado 2 representa la propagación pasiva de la respuesta registrada en 1."
+        },
+        {
+          "id": "079f8804-4125-4d04-ad38-4396ac26a983",
+          "text": "Si la distancia entre 1 y 2 es de 0.5 cm, la velocidad de conducción de la respuesta del nervio es mayor a los 100 m/s."
+        },
+        {
+          "id": "f0dd34ab-68f9-4376-8179-8c6a06071f55",
+          "text": "Si la distancia entre 1 y 2 es de 1 cm, la velocidad de conducción de la respuesta del nervio es menor a 1 m/s."
+        }
+      ]
+    },
+    {
+      "id": "cff0c259-e6aa-4816-b1e5-ad0f2cee4c5a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-08-23",
+      "text": "La sustancia gris periacueductal desempeña un papel importante en el control central de la sensibilidad al dolor. Respecto de esta región marque la opción correcta:",
+      "options": [
+        {
+          "id": "c2c1be18-f51f-4786-ace4-ff4e6766b670",
+          "text": "Recibe la información sensorial periférica fundamentalmente por vía del sistema espino mesencefálico.",
+          "correct": true
+        },
+        {
+          "id": "f6cd2884-1e80-4746-9fe4-26f9d1943976",
+          "text": "Contiene neuronas que proyectan a sectores del tálamo que dan origen a vías descendentes analgésicas."
+        },
+        {
+          "id": "28052d56-062b-4715-b76e-5df601ce93de",
+          "text": "Su estimulación eléctrica experimental, disminuye el umbral de respuesta a estímulos nociceptivos en neuronas del asta posterior de la médula espinal."
+        },
+        {
+          "id": "32768eb5-0313-4488-b310-81619eaffde7",
+          "text": "Sus neuronas carecen de receptores opioides."
+        }
+      ]
+    },
+    {
+      "id": "4fe39387-edd6-4438-a53f-391883620142",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-08-23",
+      "text": "Las neuronas primarias nociceptivas de la piel proyectan en forma monosináptica hacia (marque la opción correcta):",
+      "options": [
+        {
+          "id": "11642442-52cf-4872-a384-b350c6c59965",
+          "text": "Asta dorsal de la médula espinal.",
+          "correct": true
+        },
+        {
+          "id": "3abb19cf-0552-4300-9cdc-cfbeeac232f9",
+          "text": "Corteza somestésica primaria (área 3, 1, 2)."
+        },
+        {
+          "id": "9e49c0dc-0eb2-4dcb-b7cb-4b746f58ac6a",
+          "text": "Núcleo de las columnas dorsales."
+        },
+        {
+          "id": "12886f44-90fb-42ae-87dd-a0bfc363d9f5",
+          "text": "Núcleo ventro-póstero lateral del tálamo."
+        },
+        {
+          "id": "0ad5b967-e04f-49b4-8df9-5338d9bdfca5",
+          "text": "Núcleo ventro-póstero medial del tálamo."
+        }
+      ]
+    },
+    {
+      "id": "26551ac1-b657-4e4a-b1b2-4a64f3e5948d",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-08-23",
+      "text": "Los trazados de la figura corresponden a un experimento en gatos. Se aplica sobre la piel de la pata del animal un estímulo nociceptivo térmico (50 °C) durante 10 segundos y se registra en forma extracelular la actividad de una neurona del asta posterior de la médula espinal en respuesta a ese estímulo (experimento control, resultados en A). A continuación, en el mismo animal se repite la misma maniobra, pero asociando la estimulación eléctrica concomitante de la Sustancia Gris Periacueductal (PAG) del mesencéfalo (resultados en B). En A y B se representan el estímulo térmico (trazado inferior izquierdo), el registro de la neurona medular (trazado superior izquierdo) y un gráfico de barras que representa el curso temporal de la frecuencia de descarga de la neurona (derecha). Respecto de la situación control esquematizada en A marque la opción correcta:",
+      "image": "26551ac1-b657-4e4a-b1b2-4a64f3e5948d.webp",
+      "options": [
+        {
+          "id": "c383d94a-915c-4849-b9e3-c838ed1c11ec",
+          "text": "La máxima frecuencia de disparo que alcanza la neurona supera los 10 Hz.",
+          "correct": true
+        },
+        {
+          "id": "d2f9e39c-4b6b-4db3-bea7-937e2e2c74f2",
+          "text": "La latencia de la respuesta de la neurona es de 1 segundo."
+        },
+        {
+          "id": "f80378b8-420e-4a73-b4a6-7cd9c9bfb83c",
+          "text": "La neurona medular cesa de descargar al momento en que finaliza el estímulo."
+        },
+        {
+          "id": "3e3c6d86-4e43-44f9-b597-e2922017178c",
+          "text": "La neurona presenta una descarga basal de 5 Hz antes de la aplicación del estímulo."
+        }
+      ]
+    },
+    {
+      "id": "f8665143-2ecc-42ad-9bb1-b52a6bdff496",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-08-23",
+      "text": "Mediante registros intracelulares de una neurona se realizó la caracterización de algunas de sus propiedades pasivas. En la figura se ilustran a la izquierda una serie de pulsos de corriente que se aplicaron (A1) y a la derecha, las correspondientes respuestas del voltaje transmembrana (A2). Los pulsos de corriente tienen una duración de 50 ms, y ambos registros están representados con la misma base temporal. En función de estos resultados, marque la opción correcta:",
+      "image": "f8665143-2ecc-42ad-9bb1-b52a6bdff496.webp",
+      "options": [
+        {
+          "id": "69308c6e-0097-4227-99b8-281b1df09de6",
+          "text": "La constante de tiempo de la membrana es menor a 50 ms.",
+          "correct": true
+        },
+        {
+          "id": "185bc552-00f6-4e5f-ac8e-ca82f6c41657",
+          "text": "En el instante indicado por la línea punteda vertical del panel derecho, la totalidad de la corriente inyectada fluye por los canales de pérdida de la membrana celular."
+        },
+        {
+          "id": "8b8ef740-98a0-4241-b549-69a95fd051cc",
+          "text": "La duración de los pulsos de corriente no es suficiente como para cargar en forma completa la capacitancia de la membrana."
+        },
+        {
+          "id": "b3a7ac3f-1ce2-40ae-a8cf-c0bf862b5a7e",
+          "text": "La resistencia de entrada de la célula medida en la meseta de la respuesta del potencial de membrana es de 100 Mohm aproximadamente."
+        },
+        {
+          "id": "78aad6bc-f88e-4a9e-8a21-60b5a846b686",
+          "text": "Los pulsos de corriente de +1.5 nA son supraumbrales."
+        }
+      ]
+    },
+    {
+      "id": "5e2383cd-2b71-48d1-944f-7d2bc06f8380",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-08-23",
+      "text": "Respecto de la corteza somatosensorial primaria (área 3, 1, 2 o área somática 1) marque la opción correcta:",
+      "options": [
+        {
+          "id": "a4475968-fda2-421a-81fb-2f14064fc53b",
+          "text": "Las evidencias experimentales señalan que la representación de distintas partes del cuerpo (por ejemplo, dedos de la mano) en la corteza somatosensorial primaria es plástica y modificable por la experiencia o el entrenamiento.",
+          "correct": true
+        },
+        {
+          "id": "c3b93e7b-95fa-4de1-a0f7-23d5478d1944",
+          "text": "En primates el sector de corteza donde está representado el pie es de mayor tamaño que el sector que representa la mano."
+        },
+        {
+          "id": "f7951d39-3f0b-47cd-9d41-322337dfa813",
+          "text": "Las lesiones de la corteza somatosensorial primaria provocan alteraciones en la interpretación de los estímulos somestésicos (agnosias) sin provocar pérdida de la sensibilidad."
+        },
+        {
+          "id": "e4fdaa1b-1ddd-4fc1-a3ba-82d7b3e807ef",
+          "text": "Las proyecciones provenientes de receptores superficiales y profundos convergen sobre las mismas neuronas de la capa 4 en el área 3b."
+        }
+      ]
+    },
+    {
+      "id": "b6173c3a-71c7-4a60-8c5e-e0e75ad231a3",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-08-23",
+      "text": "Se realiza un experimento in vitro diseñado para el estudio de un contacto sináptico entre dos neuronas, ¿cuál de las siguientes observaciones sugiere que se trata de una sinapsis del tipo eléctrico? Marque la opción correcta:",
+      "options": [
+        {
+          "id": "fc1b7683-f66a-4772-a583-7c7a4d7601e1",
+          "text": "Un trazador de bajo peso molecular inyectado en una de las neuronas puede ser visualizado en la otra neurona.",
+          "correct": true
+        },
+        {
+          "id": "d60dcaa6-b7d6-4d40-9126-3bd348061049",
+          "text": "La corriente postsináptica ocurre con un retardo mayor a 2ms respecto del potencial de acción presináptico."
+        },
+        {
+          "id": "c94427bd-6b11-462b-a434-08216f15a02c",
+          "text": "La hiperpolarización de una de las neuronas, no provoca cambios del potencial de membrana de la otra neurona."
+        },
+        {
+          "id": "ae811463-8b39-438c-99a9-dcb15d15ef13",
+          "text": "La transmisión sináptica se bloquea en presencia de Mg2+ en el medio extracelular."
+        }
+      ]
+    },
+    {
+      "id": "615c2fb3-682b-4c70-a3f9-bb6730ca53e3",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-08-23",
+      "text": "Una forma de estimar la capacidad de discriminación espacial de la piel es medir el llamado umbral de discriminación de 2 puntos para lo cual se aplican simultáneamente 2 estímulos mecánicos puntiformes separados por distancias variables. La figura muestra las medidas de ese umbral para distintos sectores de la piel en un ser humano. Marque la opción correcta de acuerdo a los resultados que se observan en la figura:",
+      "image": "615c2fb3-682b-4c70-a3f9-bb6730ca53e3.webp",
+      "options": [
+        {
+          "id": "8a80f285-4c92-454b-a344-0874c069a785",
+          "text": "Para que 2 estímulos puntiformes aplicados en la piel del dorso del pie (sole) sean percibidos como 2 estímulos diferentes deben estar separados entre sí por más de 20 mm.",
+          "correct": true
+        },
+        {
+          "id": "26b34c1c-a368-41ac-92b0-53081f4337e8",
+          "text": "La piel de la pantorrilla (calf) tiene mayor capacidad de discriminación espacial que la piel del abdomen (belly)."
+        },
+        {
+          "id": "c1ab6ff0-37b7-48f0-8bbd-efcee33e134f",
+          "text": "Se podría inferir que la piel de la espalda (back) tiene una densidad de inervación mayor y un menor tamaño de los campos receptivos de las aferentes que la piel de la de los dedos de la mano (fingers)."
+        },
+        {
+          "id": "531a2312-f516-457f-b5e4-eb1eb0dfbed9",
+          "text": "Si se aplicaran en la piel de la espalda (back) 2 estímulos mecánicos puntiformes separados entre sí por 30 mm serían percibidos como dos estímulos separados."
+        }
+      ]
+    }
+  ],
+  "evaluations": [
+    {
+      "key": "parcial_1",
+      "name": "1° parcial"
+    }
+  ]
+}
