@@ -2679,6 +2679,92 @@
       ]
     },
     {
+      "id": "28e44fb1-3d56-46b3-bd29-7e5f2e625976",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "Con respecto a la corteza motora primaria (M1 o área 4) es correcto que:",
+      "options": [
+        {
+          "id": "5231d126-f2c3-48f2-b349-37fdd5c01ed9",
+          "text": "El estímulo de las pirámides bulbares puede provocar la activación antidrómica de las neuronales piramidales de la capa V.",
+          "correct": true
+        },
+        {
+          "id": "2626402b-17f3-4937-b2b1-b4beb83d03cd",
+          "text": "Esta área está involucrada específicamente en la planificación de los actos motores."
+        },
+        {
+          "id": "feccbba4-19c7-459a-b3b5-082ca8909a4b",
+          "text": "La actividad de neuronas únicas que proyectan al tracto piramidal codifica la dirección de los actos motores."
+        },
+        {
+          "id": "1758620b-7be7-4890-8c3e-a4f98c99bd2e",
+          "text": "La estimulación mecánica de la piel de la mano modifica la frecuencia de descarga de las neuronas que controlan la musculatura facial."
+        },
+        {
+          "id": "148c8e05-1ee7-4315-ba4b-bc9a3e9d5ee9",
+          "text": "Una columna cortical controla específicamente la actividad de un único músculo."
+        }
+      ]
+    },
+    {
+      "id": "27604bbd-2aa0-4bee-bed4-dbf40a5460d0",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "Con respecto a la musculatura ocular, marque la opción correcta:",
+      "options": [
+        {
+          "id": "3fdab4bc-6f65-4ae6-9656-6e9a30354927",
+          "text": "El músculo recto inferior está inervado por el III par craneal.",
+          "correct": true
+        },
+        {
+          "id": "6a77480d-0cc4-4ac6-88b8-1390852a34c3",
+          "text": "El músculo ciliar es el responsable del reflejo fotomotor."
+        },
+        {
+          "id": "d79e40c4-e3cc-4ac4-b902-71f6215eeefe",
+          "text": "El músculo dilatador de la pupila está inervado por el núcleo de Edinger-Westphal."
+        },
+        {
+          "id": "7830ec34-2d34-4ccb-8c1f-60ec314c3722",
+          "text": "El músculo esfínter de la pupila se contrae por acción del sistema simpático."
+        },
+        {
+          "id": "f6ef9106-417f-4714-8b08-c082cd893daf",
+          "text": "El músculo recto superior está inervado por el VI par craneal."
+        }
+      ]
+    },
+    {
+      "id": "ebf5b2f8-cd51-4dee-862a-01967036b956",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "Con respecto a las características particulares de las células de Purkinje de la corteza cerebelosa, señale la opción correcta:",
+      "options": [
+        {
+          "id": "be4d6a6b-f4c0-4b73-8e6a-0ad6fee70f5e",
+          "text": "Reciben aferencias originadas en el núcleo olivar inferior (fibras trepadoras).",
+          "correct": true
+        },
+        {
+          "id": "d5aac8db-ca42-4946-8b7a-ede0321fc3d0",
+          "text": "Constituyen neuronas de proyección colinérgicas."
+        },
+        {
+          "id": "8c3ba239-8d9f-4709-aec4-f35a88084455",
+          "text": "Establecen contactos sinápticos con motoneuronas del asta anterior de la médula espinal."
+        },
+        {
+          "id": "a5a5f123-7bb1-4c97-91fc-f3b056c2a88a",
+          "text": "Reciben aferencias sinápticas originadas únicamente en núcleos de la formación reticulada pontina."
+        }
+      ]
+    },
+    {
       "id": "bf8d0021-7aae-4dc5-85e5-34cb00f860dc",
       "evaluation": "parcial_2",
       "source": "partial",
@@ -2761,6 +2847,36 @@
       ]
     },
     {
+      "id": "8a879413-e40f-41b4-83ce-6300c9459f44",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "Con respecto al procesamiento central de la información visual, es correcto afirmar que:",
+      "options": [
+        {
+          "id": "9e8ebde2-da0b-418d-b793-45bbc01a7ef2",
+          "text": "En la corteza visual primaria se reconoce una organización columnar de neuronas, que responden a estímulos lumínicos rectangulares con el mismo eje de orientación.",
+          "correct": true
+        },
+        {
+          "id": "ba66ef9b-55ee-4f13-9602-8e3e7cc5e013",
+          "text": "A nivel del colículo superior se procesa fundamentalmente la información cromática."
+        },
+        {
+          "id": "fc10de20-bdbe-4a49-be66-2991a6eba8bd",
+          "text": "El núcleo geniculado lateral derecho recibe información proveniente de ambas hemirretinas nasales."
+        },
+        {
+          "id": "097c1d68-843a-4fa0-8eb0-cc3cb373c2c8",
+          "text": "Experimentos en primates mostraron que la lesión."
+        },
+        {
+          "id": "34added1-6e96-47f1-ad4b-5ee108d57c21",
+          "text": "La información referente al color es procesada por neuronas de todas las capas de la corteza visual primaria."
+        }
+      ]
+    },
+    {
       "id": "d042ff05-f058-46c2-bddf-10d8d7b1fc40",
       "evaluation": "parcial_2",
       "source": "partial",
@@ -2787,6 +2903,144 @@
         {
           "id": "8ba8fdfa-3317-419a-9444-5af64ae65260",
           "text": "La estimulación eléctrica experimental del núcleo supraquiasmático aumenta la liberación de la hormona tiroidea."
+        }
+      ]
+    },
+    {
+      "id": "e6a9dd83-36fa-4274-ae4d-821931ffe69b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "El complejo olivar superior (COS) es un componente importante de la vía auditiva. Con respecto a esta estructura de la vía auditiva es correcto afirmar que:",
+      "options": [
+        {
+          "id": "2a3c2d39-6a36-4c34-87d9-2d02cd1f6ab7",
+          "text": "La estimulación eléctrica experimental del COS puede modificar la motilidad de las células ciliadas externas.",
+          "correct": true
+        },
+        {
+          "id": "22ffdbc2-4ca0-471e-b933-2b8c64e9707d",
+          "text": "Las aferentes auditivas primarias constituyen su principal entrada aferente."
+        },
+        {
+          "id": "51a7e18f-a7c1-4c01-a26b-e1c570a96f0f",
+          "text": "Recibe información monoaural (proveniente de un oído solo)."
+        },
+        {
+          "id": "26f0311a-fa2d-44b0-a83a-9cd37fa990dc",
+          "text": "Su lesión no afecta la capacidad de localización de la fuente del sonido en el espacio."
+        },
+        {
+          "id": "c7b9cf04-220d-49af-9d14-422eaabdfddc",
+          "text": "Sus neuronas proyectan directamente a la corteza auditiva primaria."
+        }
+      ]
+    },
+    {
+      "id": "e08d67ca-d163-4ff9-96c3-6cddfb02a935",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "El oído medio se divide en (marque la opción correcta):",
+      "options": [
+        {
+          "id": "daeee7c1-410a-42a8-bc41-a962115a9ef7",
+          "text": "Caja del tímpano, trompa de Eustaquio y celdillas mastoideas.",
+          "correct": true
+        },
+        {
+          "id": "d12aed96-d342-43d9-b57e-0ba02596ec0f",
+          "text": "Caja del tímpano, trompa de Eustaquio y cóclea."
+        },
+        {
+          "id": "367ad52e-27aa-431a-aa99-8ed7f8abc29d",
+          "text": "Membrana timpánica, vestíbulo y cadena osicular."
+        },
+        {
+          "id": "163be013-1310-48bc-be29-4a3fd184caff",
+          "text": "Vestíbulo, caja del tímpano y celdillas mastoideas."
+        }
+      ]
+    },
+    {
+      "id": "489b50c7-cc73-4cc2-912c-4fd8c7131e43",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "El principio del tamaño es una hipótesis que permite explicar de qué manera los comandos motores activan en forma ordenada a las unidades motoras de acuerdo a su tamaño. De acuerdo a esta hipótesis dicho orden de reclutamiento se debe a que (marque la opción correcta):",
+      "options": [
+        {
+          "id": "821cd0db-ceac-41a7-bea7-eefa89ad18ff",
+          "text": "Las motoneuronas pertenecientes a las unidades motoras chicas presentan una resistencia de entrada relativamente más alta que el resto de las motoneuronas.",
+          "correct": true
+        },
+        {
+          "id": "9af2a40d-a946-4147-8f77-87cfa45e0186",
+          "text": "Las motoneuronas pertenecientes a las unidades motoras de menor tamaño presentan un potencial de membrana relativamente más despolarizado que el resto de las motoneuronas."
+        },
+        {
+          "id": "1e447e6c-9cd1-49a3-8873-1d5f7a1fa7c4",
+          "text": "Las motoneuronas pertenecientes a las unidades motoras grandes no reciben entradas sinápticas excitadoras."
+        },
+        {
+          "id": "a5cf48e3-63a2-4f2a-b03f-84eba5b7aaf1",
+          "text": "Las vías descendentes excitadoras proyectan preferentemente sobre las motoneuronas pertenecientes a las unidades motoras chicas."
+        }
+      ]
+    },
+    {
+      "id": "162a46f2-4c4e-4af4-aca2-3bf6126ff3b0",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "El sueño REM (marque la opción correcta):",
+      "options": [
+        {
+          "id": "f755e4de-f31f-49f6-9204-6c731cbd4075",
+          "text": "En los recién nacidos ocupa una proporción mayor del tiempo total de sueño que en los adultos.",
+          "correct": true
+        },
+        {
+          "id": "947489d7-1053-4a16-b013-95e73ee3929b",
+          "text": "En un adulto joven comienza a los 5 minutos de conciliar el sueño nocturno."
+        },
+        {
+          "id": "596d9828-91f5-483d-9b0b-663de7235e03",
+          "text": "En un adulto joven ocupa aproximadamente un 75% del sueño nocturno."
+        },
+        {
+          "id": "0ad47b5d-113e-4a16-90a9-b476a4043a63",
+          "text": "En un adulto joven se concentra principalmente en la primera mitad de la noche."
+        },
+        {
+          "id": "f16427b2-d708-4ad6-8cb0-8588f07a584a",
+          "text": "Es un estado comportamental que ocurre solamente en primates."
+        }
+      ]
+    },
+    {
+      "id": "399df48d-71e7-4771-8aef-738fb2f75623",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "El tronco encefálico es origen de vías descendentes que participan del control motor. En relación a las características y al papel funcional de estas vías descendentes, marque la opción correcta:",
+      "options": [
+        {
+          "id": "1b897ffb-58f9-4635-a25a-eb8480d9c897",
+          "text": "Durante la ejecución de un acto motor voluntario se producen ajustes posturales que involucran la activación de la vía retículoespinal.",
+          "correct": true
+        },
+        {
+          "id": "0193084f-e6c5-4ba3-98cb-510b8f74a526",
+          "text": "La activación de la vía tectoespinal constituye el comando para el acto motor de la locomoción."
+        },
+        {
+          "id": "8f85d1e3-505e-4040-b7b5-c5d188f9d3ee",
+          "text": "La proyección vestíbuloespinal participa centralmente del control de la musculatura distal de las extremidades."
+        },
+        {
+          "id": "288b4563-7c47-4818-b2cb-505b82eb458b",
+          "text": "La vía rubroespinal integra los sistemas descendentes ventromediales."
         }
       ]
     },
@@ -2972,6 +3226,32 @@
       ]
     },
     {
+      "id": "c0ccb133-ff00-4d66-a7ac-42552ac66671",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "En relación a la enfermedad de Parkinson, señale la opción correcta:",
+      "options": [
+        {
+          "id": "b9881ca7-bb40-4d1d-a680-84bd28fa027c",
+          "text": "Se manifiesta como un síndrome motor hipoquinético.",
+          "correct": true
+        },
+        {
+          "id": "d763d0dd-decb-4077-a782-577457b90b4b",
+          "text": "La causa primaria de esta enfermedad consiste en la pérdida selectiva de neuronas del núcleo subtalámico."
+        },
+        {
+          "id": "f24cb43c-4e75-4039-a575-9974602fbf19",
+          "text": "Los síntomas motores son causados por una disminución de la actividad de las neuronas del globo pálido interno."
+        },
+        {
+          "id": "7ebdc341-56b9-4a82-abfe-b5c40e7f6c01",
+          "text": "Sus manifestaciones motoras resultan de la degeneración de las neuronas serotoninérgicas de los núcleos del rafe."
+        }
+      ]
+    },
+    {
       "id": "332296ef-197b-4d08-871c-f6dc012463b5",
       "evaluation": "parcial_2",
       "source": "partial",
@@ -3028,6 +3308,32 @@
       ]
     },
     {
+      "id": "7bcf291c-c98f-4f54-9a34-d9e2bbb0676f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "En relación a la memoria del tipo explícita:",
+      "options": [
+        {
+          "id": "090f96c6-a8b1-49e7-96f5-ba648561cd58",
+          "text": "La lesión del hipocampo impide su almacenamiento.",
+          "correct": true
+        },
+        {
+          "id": "befb0c12-b37b-4608-9410-ab4583553d22",
+          "text": "Es en el núcleo estriado donde se lleva a cabo su consolidación."
+        },
+        {
+          "id": "c02e9c67-2e8c-42e6-a00b-ecf44b761b6f",
+          "text": "No requiere conocimiento consciente."
+        },
+        {
+          "id": "cba19a01-469f-4eeb-ad78-2192cd68294b",
+          "text": "Se expresa a través del entrenamiento de las actividades motoras."
+        }
+      ]
+    },
+    {
       "id": "c81d0f46-0606-4ec6-99b8-ac560bdd5b0b",
       "evaluation": "parcial_2",
       "source": "partial",
@@ -3058,6 +3364,88 @@
       ]
     },
     {
+      "id": "02f57fe0-ae25-4881-abd3-34e0d2468eb5",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "En relación a los conos y bastones, y la visión fotópica y escotópica, marque la opción correcta:",
+      "options": [
+        {
+          "id": "e466576b-e786-4c72-a637-1da34fdb08ff",
+          "text": "Los campos receptivos de las neuronas ganglionares, en condiciones fotópicas, son de menor tamaño que en condiciones escotópicas.",
+          "correct": true
+        },
+        {
+          "id": "8d528161-816d-455c-8cf9-65ed5511608b",
+          "text": "Frente a un mismo estímulo, los bastones responden con un potencial receptorial de menor duración que el de los conos."
+        },
+        {
+          "id": "2b27d2c7-71c2-46f7-9a2d-11fbba65a591",
+          "text": "Hay mayor cantidad de conos que de bastones."
+        },
+        {
+          "id": "91883e95-62bd-4a7f-a946-76e0630ce4a4",
+          "text": "Los bastones están especializados para la visión diurna."
+        },
+        {
+          "id": "784c20c0-5bb6-4451-a302-102247c42df1",
+          "text": "Los conos contienen un único fotopigmento, la rodopsina."
+        }
+      ]
+    },
+    {
+      "id": "6a8aeffb-6299-44b8-b7c4-a3c477d64168",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "En relación al estudio de la marcha, los experimentos realizados en animales con una sección del neuroeje a nivel intercolicular (animal \"descerebrado\"), han mostrado que (marque la opción correcta):",
+      "options": [
+        {
+          "id": "767ebccd-f89a-4bb2-acb9-4386e7262091",
+          "text": "El circuito neural que media la activación alternada de grupos musculares antagónicos de una extremidad se encuentra enteramente en la médula espinal.",
+          "correct": true
+        },
+        {
+          "id": "b60a6f49-5529-42ab-80ee-87a49f88957b",
+          "text": "La información sensorial propioceptiva no participa de la organización fina de los actos motores responsables patrón motor."
+        },
+        {
+          "id": "5e078fe1-60f2-4227-9f22-47d5b4736cf9",
+          "text": "Los circuitos espinales generadores de dicho patrón motor no involucran proyecciones comisurales (que cruzan la línea media)."
+        },
+        {
+          "id": "f7a14276-c0f8-4d6b-8c62-cfd9f422774b",
+          "text": "Los comandos supraespinales son indispensables para generar la alternancia característica del patrón motor responsable de la marcha."
+        }
+      ]
+    },
+    {
+      "id": "80bd6f81-904e-43cf-a672-b55adb5f1efe",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "En relación al huso neuromuscular y sus circuitos neurales asociados es correcto afirmar que:",
+      "options": [
+        {
+          "id": "3e582568-ead3-4eb4-8b83-415a3d907f67",
+          "text": "Típicamente las aferentes primarias originadas en esta estructura se activan durante el estiramiento pasivo del músculo.",
+          "correct": true
+        },
+        {
+          "id": "ade6b61c-f487-4309-ba63-563bd023fa15",
+          "text": "No está sujeto a control eferente por parte del sistema nervioso central."
+        },
+        {
+          "id": "bf8272a1-c562-4e3f-9410-d675488fb8d9",
+          "text": "Proporciona al sistema nervioso central información primariamente vinculada a la tensión o fuerza generada por el músculo."
+        },
+        {
+          "id": "e7d9dfd5-520f-4d21-9e78-c3473d6caa74",
+          "text": "Se localiza interpuesto entre el músculo y el tendón (disposición en serie)."
+        }
+      ]
+    },
+    {
       "id": "2cac1ffa-96c3-4b32-9931-d5e843d9ec0b",
       "evaluation": "parcial_2",
       "source": "partial",
@@ -3080,6 +3468,62 @@
         {
           "id": "114786f4-411a-4d86-97be-86123c321921",
           "text": "Las aferencias desde la corteza cerebral influyen de forma directa sobre la actividad de las neuronas del globo pálido interno."
+        }
+      ]
+    },
+    {
+      "id": "0407ad3a-2123-4aab-91b6-eb852df4f47e",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "En relación al reflejo de estiramiento, marque la opción correcta:",
+      "options": [
+        {
+          "id": "d8844b21-d590-4ef3-9bd7-98614c7a575a",
+          "text": "Durante su ejecución la contracción del músculo estirado precede a la relajación del antagonista.",
+          "correct": true
+        },
+        {
+          "id": "ecdff4e7-9ad2-45c0-8401-30232cb68b33",
+          "text": "El corte de las raíces dorsales correspondientes no afecta esta respuesta."
+        },
+        {
+          "id": "96416c31-a064-4eab-887f-8cd927057eb0",
+          "text": "En humanos se presenta únicamente en los miembros inferiores."
+        },
+        {
+          "id": "8590281f-ae84-469c-8510-8229c87cb347",
+          "text": "Su ejecución requiere de la integridad del cerebelo."
+        }
+      ]
+    },
+    {
+      "id": "c8dce611-1be6-4d32-8d58-8335231329db",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "En respuesta a la estimulación sonora, en la coclea se produce un movimiento de su membrana basilar conocido como onda viajera. Sobre ésta es correcto afirmar que:",
+      "options": [
+        {
+          "id": "b901d971-4e43-4aaf-8440-51f6b25e008c",
+          "text": "La amplitud de la onda es dependiente de la intensidad del sonido estimulante.",
+          "correct": true
+        },
+        {
+          "id": "638e6509-b9f3-4206-a79b-d7932881e3d7",
+          "text": "La onda producida por sonidos de baja frecuencia presenta su máxima amplitud a nivel de la base de la cóclea."
+        },
+        {
+          "id": "8abdefb3-3fd5-4727-8527-d106a4f3e224",
+          "text": "La velocidad de desplazamiento de la onda depende de la posición de la fuente de sonido con respecto al oído."
+        },
+        {
+          "id": "1b2139c7-a65d-473f-8395-75fb9a187f68",
+          "text": "Presenta las mismas características tanto en el tejido vivo como en el extraído de cadáveres."
+        },
+        {
+          "id": "ff418325-f05f-40fc-b0b7-e6f82ad028ed",
+          "text": "Se origina en la punta (apex) y viaja hacia la base de la cóclea."
         }
       ]
     },
@@ -3171,6 +3615,36 @@
       ]
     },
     {
+      "id": "755f9957-58d9-470c-8066-c7e76e584623",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "En un animal de experimentación, se calienta experimentalmente el área preóptica medial del hipotálamo, donde se encuentran neuronas termoreceptivas. De dicha maniobra se puede esperar que (marque la opción correcta):",
+      "options": [
+        {
+          "id": "b976096d-31d7-401c-be1a-f9d39e93c4ab",
+          "text": "Aumente el flujo sanguíneo a nivel de la piel.",
+          "correct": true
+        },
+        {
+          "id": "7d2abacf-baa6-4485-ac94-66fa550a3375",
+          "text": "Aumente la ingesta de alimentos."
+        },
+        {
+          "id": "11b73b47-a96c-4f7f-84a2-dbffe6a7b81a",
+          "text": "Aumente la liberación de hormona tiroidea."
+        },
+        {
+          "id": "5b0aaf4c-e49a-463c-bd06-55636d90ac74",
+          "text": "Disminuya la liberación de hormona antidiurética."
+        },
+        {
+          "id": "260babe3-14b9-40a6-b4b0-5258afafff9b",
+          "text": "Se genere temblor."
+        }
+      ]
+    },
+    {
       "id": "0cfc0cb7-33e0-4d0c-add0-a7a8f26e6171",
       "evaluation": "parcial_2",
       "source": "partial",
@@ -3198,6 +3672,36 @@
         {
           "id": "1a191907-96e2-4373-81fb-4b4b27181531",
           "text": "Los movimientos del brazo izquierdo."
+        }
+      ]
+    },
+    {
+      "id": "34c121ef-c8de-49ba-981c-d4e866a0b8b2",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "La estimulación eléctrica experimental del hipotálamo postero-lateral, genera en animales una reacción característica, integrada, que se considera importante para la supervivencia del individuo. Indique cuál de estos efectos NO es producido por esta maniobra experimental:",
+      "options": [
+        {
+          "id": "b8006f18-ba7d-4cb6-adef-0555c674c4ec",
+          "text": "Sueño lento o no-REM.",
+          "correct": true
+        },
+        {
+          "id": "9025faa1-ec26-4d3e-844a-2005dcd96717",
+          "text": "Aumento de la actividad simpática."
+        },
+        {
+          "id": "62ad32c6-469d-4ece-88d1-1a0734244c2c",
+          "text": "Aumento de la frecuencia cardíaca."
+        },
+        {
+          "id": "3843de36-9406-4dbd-966f-a5177b73592a",
+          "text": "Aumento de la frecuencia respiratoria."
+        },
+        {
+          "id": "cb3069a4-5df4-49d6-9176-f3f9c3e1c7ab",
+          "text": "Piloerección."
         }
       ]
     },
@@ -3326,6 +3830,37 @@
       ]
     },
     {
+      "id": "dc927d50-d315-4c2e-a77e-8fe80f031254",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "La figura representa una neurona preganglionar (1) y post-ganglionar (4) del sistema nervioso parasimpático. La sinapsis en el ganglio autónomo y efector, con sus neurotransmisores (2 y 5) y receptores (3 y 6) también se representan. De acuerdo a este esquema marque la opción correcta.",
+      "image": "dc927d50-d315-4c2e-a77e-8fe80f031254.webp",
+      "options": [
+        {
+          "id": "d3112b09-7d5d-458a-9159-f89285fc6443",
+          "text": "2 corresponde a acetilcolina.",
+          "correct": true
+        },
+        {
+          "id": "93824c2c-69fb-403a-be66-791fa25c8991",
+          "text": "3 representa el receptor alfa-1-adrenérgico."
+        },
+        {
+          "id": "079cc7df-231f-45aa-91dd-9cfb0336b0e4",
+          "text": "6 corresponde al receptor colinérgico nicotínico."
+        },
+        {
+          "id": "e8d44f1c-5ada-4a08-b1d3-026802dafcda",
+          "text": "El efector podría representar al musculo estriado esquelético."
+        },
+        {
+          "id": "ae725fe1-7c88-4726-bc63-7f3e50b10c17",
+          "text": "El neurotransmisor representado en 5 es la serotonina."
+        }
+      ]
+    },
+    {
       "id": "a0f4b34b-e85e-4fd6-9789-ab79fdbf7583",
       "evaluation": "parcial_2",
       "source": "partial",
@@ -3387,6 +3922,89 @@
       ]
     },
     {
+      "id": "860298f4-3fd9-4330-a6a3-43ab2b80b676",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "Las figuras híbridas o quiméricas como se muestra en la figura, se utilizan para estudiar pacientes con secciones totales del cuerpo calloso (condición llamada cerebro dividido). Mediante distintos procedimientos se asegura que la información visual de cada hemifigura llegue directamente solo a un hemisferio (en este caso la imagen de la mujer sería procesada solamente por el hemisferio izquierdo). En estas condiciones, al mirar la figura, pacientes con cerebro dividido con dominancia izquierda (marque la opción correcta):",
+      "image": "860298f4-3fd9-4330-a6a3-43ab2b80b676.webp",
+      "options": [
+        {
+          "id": "39ed9f7c-88f6-46fa-b20f-34d73ec4f888",
+          "text": "Mediante la mano izquierda señalarían que han visto la imagen de un hombre.",
+          "correct": true
+        },
+        {
+          "id": "f9d1f9f3-f886-4b0a-8321-be06be2f91ac",
+          "text": "Estos pacientes son incapaces de manifestar verbalmente lo que ven."
+        },
+        {
+          "id": "841f9391-0a71-4a33-9c86-274dfe1764bb",
+          "text": "Manifestarían verbalmente que ven la imagen de un hombre."
+        },
+        {
+          "id": "ea6de712-e65d-4325-9d8a-3db12c464fea",
+          "text": "Manifestarían verbalmente que ven una figura compuesta con dos hemi-caras diferentes."
+        },
+        {
+          "id": "467fd22f-5495-480a-803c-f4443672044f",
+          "text": "No son capaces de percibir caras (fenómeno denominado prosopagnosia)."
+        }
+      ]
+    },
+    {
+      "id": "ffdfbf9c-0d0c-4099-a44b-632baff20e09",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "Las neuronas preganglionares simpáticas presentan las siguientes características, marque la opción correcta:",
+      "options": [
+        {
+          "id": "be7add72-0cff-4a46-8150-6455be9e4945",
+          "text": "Su frecuencia de descarga aumenta en situaciones de \"huida o lucha\".",
+          "correct": true
+        },
+        {
+          "id": "21b120ab-76ca-422b-b7b0-a4416c9ed672",
+          "text": "A nivel de los ganglios autonómicos, establecen contactos sinápticos adrenérgicos."
+        },
+        {
+          "id": "b1c72b13-be9b-4e85-9129-d0665d2066fa",
+          "text": "De manera característica, en condiciones de reposo psicofisico no descargan potenciales de acción."
+        },
+        {
+          "id": "b8699bb8-e115-473c-8293-0bef88161a9d",
+          "text": "Están localizadas en núcleos del tronco encefálico."
+        }
+      ]
+    },
+    {
+      "id": "f11a4a31-19d9-41d8-b18b-9743bf412625",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "Los investigadores Heinrich Klüver y Paul Bucy lesionaron bilateralmente la amígdala en monos Rhesus, describiendo un síndrome que posteriormente llevaría su nombre (Klüver-Bucy). ¿Cuáles de estos signos NO forma parte del síndrome?",
+      "options": [
+        {
+          "id": "8add7fa4-2289-4836-915a-47aaa566b781",
+          "text": "Pérdida de la memoria de trabajo.",
+          "correct": true
+        },
+        {
+          "id": "8a258aca-043d-4db4-a24e-188827c112b9",
+          "text": "Expresiones faciales y vocalizaciones poco expresivas."
+        },
+        {
+          "id": "ea59c756-fe04-4568-9a77-6408778645be",
+          "text": "Falta de miedo de situaciones que les habrían infundido pánico de forma instintiva."
+        },
+        {
+          "id": "b80cef67-cd16-44e0-9077-efcba9de2636",
+          "text": "Falta de motivación."
+        }
+      ]
+    },
+    {
       "id": "9e8be5b2-6dd5-4783-bf63-538b8ea6afda",
       "evaluation": "parcial_2",
       "source": "partial",
@@ -3413,6 +4031,36 @@
         {
           "id": "81036ab5-f8f6-410b-845b-f9f6a0b423d4",
           "text": "Relajación refleja del músculo estirado."
+        }
+      ]
+    },
+    {
+      "id": "30d04a2a-8991-4f59-898e-209f8dd56a7f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "Sobre la dopamina (DA) y su rol en los núcleos grises de la base, marque la opción correcta.",
+      "options": [
+        {
+          "id": "8f1b3284-2c36-4e76-84ff-e60caad075ac",
+          "text": "Un aumento de actividad de las neuronas dopaminérgicas tiende a facilitar el movimiento.",
+          "correct": true
+        },
+        {
+          "id": "7b9ec9d2-1660-41da-934c-dc9e6fa83388",
+          "text": "Es sintetizada por neuronas localizadas en el núcleo sub-talámico."
+        },
+        {
+          "id": "be30b19d-c35e-456e-963d-4a2aa65a13cf",
+          "text": "La lesión de las neuronas dopaminérgicas genera síndromes hiperquinéticos."
+        },
+        {
+          "id": "80ee5cb3-c2c3-40df-871d-428d82e7cd55",
+          "text": "Las neuronas dopaminérgicas aumentan su frecuencia de descarga en relación a distintas características del movimiento (fuerza, dirección, etc.)."
+        },
+        {
+          "id": "38b06028-0d2c-49c9-8715-0c1d036b5d94",
+          "text": "Las neuronas espinosas medias del núcleo estriado expresan exclusivamente el receptor dopaminérgico D1."
         }
       ]
     },
