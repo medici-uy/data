@@ -2647,12 +2647,896 @@
           "text": "Si se aplicaran en la piel de la espalda (back) 2 estímulos mecánicos puntiformes separados entre sí por 30 mm serían percibidos como dos estímulos separados."
         }
       ]
+    },
+    {
+      "id": "b61d7bad-2dc5-4b11-bc7c-44acc3e51e7c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "Con respecto a la anatomía de la cavidad orbitaria, marque la opción correcta:",
+      "options": [
+        {
+          "id": "04acdf8f-3614-4b68-9988-e4a8200a1fa9",
+          "text": "La pared superior está formada por el hueso frontal y por el esfenoides.",
+          "correct": true
+        },
+        {
+          "id": "94277b49-0e39-4520-9b61-e7d15f7efef5",
+          "text": "El conducto óptico comunica la cavidad orbitaria con la fosa posterior del cráneo."
+        },
+        {
+          "id": "33443a18-ab8c-4ee6-8e7d-0c522a29baa7",
+          "text": "El nervio óptico transita por la fisura orbitaria superior."
+        },
+        {
+          "id": "61d7b1c3-1716-48b9-9734-a650c1627927",
+          "text": "La pared lateral está formada por el etmoides y el vómer."
+        },
+        {
+          "id": "fc44cd9e-3c2e-40c6-b114-9fde32ec7561",
+          "text": "La vena oftálmica superior transita por el conducto óptico."
+        }
+      ]
+    },
+    {
+      "id": "bf8d0021-7aae-4dc5-85e5-34cb00f860dc",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "Con respecto a las motoneuronas alfa y sus conexiones, marque la opción correcta:",
+      "options": [
+        {
+          "id": "2a2ffb8a-6205-42b5-afa1-6cc5176fdf64",
+          "text": "Los somas de las motoneuronas que inervan la musculatura axial se ubican en sectores relativamente mediales de la sustancia gris de la médula espinal.",
+          "correct": true
+        },
+        {
+          "id": "1aad58f2-1eda-44dd-9f20-b13fab3d1dff",
+          "text": "En animales adultos, típicamente cada fibra muscular es inervada por más de una motoneurona."
+        },
+        {
+          "id": "c3cb208b-e8c6-4be4-b2dd-8fc734daddb8",
+          "text": "Reciben principalmente aferencias sensoriales directas de nociceptores."
+        },
+        {
+          "id": "1196a72d-a68c-42d0-a601-22707fc794f4",
+          "text": "Son excitadas directamente por aferentes Ib provenientes del músculo que inervan."
+        },
+        {
+          "id": "3816ce7d-32d1-4074-ac7c-3c4b216cdcba",
+          "text": "Sus somas se ubican en el asta dorsal de la medula espinal."
+        }
+      ]
+    },
+    {
+      "id": "251ee65a-f140-44aa-b014-eafe9e49d903",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "Con respecto a las neuronas ganglionares de la retina, marque la opción correcta:",
+      "options": [
+        {
+          "id": "99a7099f-1a9a-49c9-a2a3-d742e93ee542",
+          "text": "Es característico que la estimulación en el centro del campo receptivo genere una respuesta distinta que si se estimula la periferia.",
+          "correct": true
+        },
+        {
+          "id": "6b5f8243-57bc-40a4-9691-63b5fdb9d740",
+          "text": "Las neuronas ganglionares de centro \"off\" son inhibidas por neuronas bipolares GABAérgicas durante la estimulación lumínica."
+        },
+        {
+          "id": "35164db3-4631-48a7-a3fe-92199f0aab73",
+          "text": "Las neuronas que llevan información desde la fóvea tienen campos receptivos de mayor tamaño que las que codifican información de la retina periférica."
+        },
+        {
+          "id": "d0dc1bbb-d5dd-48ca-a6df-73e3bd4c4754",
+          "text": "Los campos receptivos de estas neuronas son rectangulares."
+        }
+      ]
+    },
+    {
+      "id": "ebffe09b-1b74-42cf-8e75-6c26c102738b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "Con respecto a las relaciones del oído medio, señale la opción correcta:",
+      "options": [
+        {
+          "id": "85878062-5bc2-4e4d-b46d-f8ae35ab1ae6",
+          "text": "La trompa de Eustaquio comunica la caja timpanica con la rinofaringe.",
+          "correct": true
+        },
+        {
+          "id": "a735a4c9-cf28-4291-b000-e37a1a923235",
+          "text": "A través de su piso y pared anterior el oído medio se relaciona con arterias y venas de escaso calibre."
+        },
+        {
+          "id": "2eafc486-2a1d-442a-9286-c2d5589e2897",
+          "text": "El nervio facial se relaciona con el cuello del martillo."
+        },
+        {
+          "id": "8498d893-65d8-4f71-9e90-d10da4aa0ab3",
+          "text": "El techo del oído medio se relaciona con la fosa craneal posterior."
+        }
+      ]
+    },
+    {
+      "id": "d042ff05-f058-46c2-bddf-10d8d7b1fc40",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "Diversas regiones del hipotálamo regulan distintas funciones corporales. De las siguientes afirmaciones marque la correcta.",
+      "options": [
+        {
+          "id": "98cd9675-b143-437e-a0c1-7df299a12acb",
+          "text": "El calentamiento experimental del área preóptica genera respuestas tendientes a disminuir la temperatura corporal.",
+          "correct": true
+        },
+        {
+          "id": "0c6f5015-3d08-4270-a6fd-083ba4e51ad8",
+          "text": "El núcleo mamilar es crítico en la regulación de la temperatura corporal."
+        },
+        {
+          "id": "17ca153e-9be1-44c2-a8d0-402ea5a4def4",
+          "text": "En forma característica, el enfriamiento experimental del núcleo arcuato genera reacciones de huída o lucha."
+        },
+        {
+          "id": "8fb21645-7d55-4ff3-8ca7-085878ad4877",
+          "text": "La estimulación eléctrica experimental del fornix aumenta la liberación de leptina."
+        },
+        {
+          "id": "8ba8fdfa-3317-419a-9444-5af64ae65260",
+          "text": "La estimulación eléctrica experimental del núcleo supraquiasmático aumenta la liberación de la hormona tiroidea."
+        }
+      ]
+    },
+    {
+      "id": "af3b8cd7-4291-4fa5-a6bd-d01812ae0811",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "En la figura se esquematiza un grupo de músculos alrededor de la articulación del codo. Como resultado de un comando motor voluntario para la flexión del brazo, se espera observar lo siguiente. Marque la opción correcta:",
+      "image": "af3b8cd7-4291-4fa5-a6bd-d01812ae0811.webp",
+      "options": [
+        {
+          "id": "0039cbbc-0e45-4f52-98ef-cbb1ac9b70b6",
+          "text": "El aumento de la frecuencia de descarga de las motoneuronas gamma que inervan al músculo A.",
+          "correct": true
+        },
+        {
+          "id": "65162124-1ef0-41b1-803c-1f24890d0220",
+          "text": "El aumento de la frecuencia de descarga de las aferentes Ib provenientes del músculo C."
+        },
+        {
+          "id": "115e0a65-cfce-4055-81bc-9cb9974e57a9",
+          "text": "La contracción simultánea de todos los grupos musculares alrededor de la articulación."
+        },
+        {
+          "id": "2bdd0d8c-d520-4f74-9fee-cf4611244f52",
+          "text": "La despolarización de las motoneuronas alfa que inervan el músculo C."
+        },
+        {
+          "id": "984879e8-3c17-498b-a191-a8f20e4461f2",
+          "text": "La relajación de los músculos A y B."
+        }
+      ]
+    },
+    {
+      "id": "6c01266a-e77a-4393-9b16-a20000cffad0",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "En la figura se muestra un modelo (izquierda) y el dibujo realizado por un paciente con una lesión cerebral (derecha). Este dibujo es compatible con una lesión en la siguiente estructura del hemicuerpo derecho (marque la opición correcta):",
+      "image": "6c01266a-e77a-4393-9b16-a20000cffad0.webp",
+      "options": [
+        {
+          "id": "9b305cb2-6897-41f0-9c7b-631b99bec726",
+          "text": "Corteza parietal posterior.",
+          "correct": true
+        },
+        {
+          "id": "4fe246b0-66b5-4398-9e0e-d9ac8501a087",
+          "text": "Corteza entorhinal."
+        },
+        {
+          "id": "eec6537e-92fc-41ae-9e1e-046012b916ee",
+          "text": "Corteza orbitofrontal."
+        },
+        {
+          "id": "62979428-e3f1-4f73-bd40-55166bd9cd76",
+          "text": "Corteza premotora."
+        },
+        {
+          "id": "68290e08-eaba-422d-9534-6e1e5c8c7cc4",
+          "text": "Globo pálido."
+        }
+      ]
+    },
+    {
+      "id": "296c63c6-f9ba-48d0-a7ec-9e8940f8d14f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "En la figura se muestran los registros simultáneos de electromiograma (EMG) de músculos flexores y extensores de la muñeca, y la actividad extracelular unitaria de una neurona de la corteza durante la realización de un movimiento. Estos registros se obtuvieron en un mono durante la realización de una tarea que consiste en la flexión de la muñeca partiendo de una posición inicial. A partir del análisis de los registros, se puede concluir que (marque la opción correcta):",
+      "image": "296c63c6-f9ba-48d0-a7ec-9e8940f8d14f.webp",
+      "options": [
+        {
+          "id": "f091e8c6-220c-4496-993b-f7e562a50283",
+          "text": "El acto motor involucra la relajación del músculo extensor.",
+          "correct": true
+        },
+        {
+          "id": "82ca1f29-84b2-46ba-9abc-178309b9bf5e",
+          "text": "El acto motor implica la activación simultánea de todos los grupos musculares que controlan la articulación de la mano."
+        },
+        {
+          "id": "1c45879a-e61b-4fbb-928a-990429013c74",
+          "text": "La activación de la neurona registrada se da en forma posterior al inicio del acto motor."
+        },
+        {
+          "id": "87ae4261-5141-43f6-b2e4-2d225032dbf3",
+          "text": "La neurona registrada seguramente pertenece a la corteza somatosensorial primaria correspondiente al brazo involucrado en el acto motor."
+        },
+        {
+          "id": "ff5c840b-13bf-4a05-95d3-47ad93b7d2d8",
+          "text": "La posición inicial de la mano implica la activación tónica del músculo flexor."
+        }
+      ]
+    },
+    {
+      "id": "1136fa2e-7ff2-48e8-a614-c51f7e2ff5c3",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "En la figura se observan 3 curvas de sintonía de 3 neuronas aferentes primarias auditivas (A, B y C). De las siguientes afirmaciones marque la correcta.",
+      "image": "1136fa2e-7ff2-48e8-a614-c51f7e2ff5c3.webp",
+      "options": [
+        {
+          "id": "b53c81a8-e9f3-4567-a5e3-f9d0b3bf58ac",
+          "text": "Un sonido de 1 KHz podría activar a las 3 neuronas.",
+          "correct": true
+        },
+        {
+          "id": "2e263b34-49e4-4dd9-b5ec-e2e07010b6a8",
+          "text": "La frecuencia característica (u óptima) de A, B y C es la misma."
+        },
+        {
+          "id": "da870ae8-70aa-41fb-afc4-3586cb54fdc0",
+          "text": "La neurona C inervaría la base de la cóclea."
+        },
+        {
+          "id": "11dbb596-d346-4444-b799-5de6479a0253",
+          "text": "Un sonido de 1 KHz y 30 dB es umbral para la neurona C."
+        },
+        {
+          "id": "c7d31c04-f70f-4882-a90e-efc4aaf1e17a",
+          "text": "Un sonido de 10 KHz y 40 dB es supraumbral para la neurona A."
+        }
+      ]
+    },
+    {
+      "id": "eaf2425a-9258-4911-886e-3072725f7bb8",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "En la parte izquierda de la figura se ilustra un circuito hipotético involucrado en el control motor en el que una interneurona presináptica proyecta sobre dos motoneuronas (1 y 2). En el sector derecho se muestran los registros del potencial de membrana de las dos motoneuronas durante la acción sináptica provocada por la activación de la interneurona. Asumiendo que las dos terminales presinápticas de la interneurona son similares en cuanto a sus propiedades de liberación del transmisor, y que las corrientes postsinápticas en las motoneuronas son iguales en amplitud y curso temporal, marque la opción correcta:",
+      "image": "eaf2425a-9258-4911-886e-3072725f7bb8.webp",
+      "options": [
+        {
+          "id": "01705d1e-e30a-4ef2-a30d-2dfde73a9237",
+          "text": "La activación de la interneurona produce la contracción de todas las fibras musculares inervadas por la motoneurona 1.",
+          "correct": true
+        },
+        {
+          "id": "0aaa9474-9875-4202-9790-78188dbd99cd",
+          "text": "En condiciones fisiológicas puede darse el patrón de activación opuesto al mostrado."
+        },
+        {
+          "id": "e6dc99b6-4622-4953-b3e9-11d647c77d68",
+          "text": "Este patrón de activación probablemente ocurre durante la ejecución de actos motores que requieren de gran generación de fuerza."
+        },
+        {
+          "id": "005dcd99-b214-4371-937b-f00a437bd039",
+          "text": "Estos resultados muestran que la motoneurona 2 es más excitable que la motoneurona 1."
+        },
+        {
+          "id": "320b25b3-5fd4-4be8-ac66-8d67aea3ed05",
+          "text": "La acción sináptica sobre la motoneurona 1 es subumbral."
+        }
+      ]
+    },
+    {
+      "id": "5028a717-2236-44dc-8212-037a3a940a44",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "En relación a la corteza motora primaria (M1 o área 4 de Brodmann) es correcto afirmar que:",
+      "options": [
+        {
+          "id": "f5fe9f14-af71-4db1-9d42-0870aab9de64",
+          "text": "Su estimulación eléctrica (microestimulación) provoca característicamente activación de grupos musculares localizados en el hemicuerpo contralateral.",
+          "correct": true
+        },
+        {
+          "id": "d4815b87-dbe1-4c00-be22-7e03b2744aad",
+          "text": "Característicamente, una dirección determinada del movimiento de una extremidad es codificada por la actividad de una única neurona localizada en esta área."
+        },
+        {
+          "id": "c0cf369c-ba01-4345-b3d9-67d77ded3eab",
+          "text": "Es responsable de la planificación del movimiento."
+        },
+        {
+          "id": "33419207-f30c-4d49-ab6a-1db1dcc5a80b",
+          "text": "Las regiones corporales se encuentran representadas en forma proporcional a su superficie."
+        }
+      ]
+    },
+    {
+      "id": "332296ef-197b-4d08-871c-f6dc012463b5",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "En relación a la función de los canales semicirculares horizontales durante las aceleraciones angulares de la cabeza, un giro de la cabeza en el plano horizontal hacia la izquierda provocará (marque la opción correcta):",
+      "options": [
+        {
+          "id": "bce23756-92ba-40ab-a836-7fb09bde893e",
+          "text": "Un aumento de la frecuencia de descarga de las aferentes que inervan los canales semicirculares del lado izquierdo.",
+          "correct": true
+        },
+        {
+          "id": "1d1a2ce7-e771-4a58-a19e-a84ee13584ba",
+          "text": "La contracción en forma refleja del músculo extraocular recto lateral (externo) del ojo izquierdo."
+        },
+        {
+          "id": "af94c8af-141f-4741-9ae9-58377b6cce39",
+          "text": "Un incremento de la frecuencia de descarga de las aferentes que inervan los canales semicirculares de ambos lados."
+        },
+        {
+          "id": "eec3335a-a088-4ded-827d-6e410cd6165b",
+          "text": "Un movimiento relativo de la endolinfa de los canales semicirculares hacia la izquierda."
+        },
+        {
+          "id": "ebe8b1aa-211c-40e9-bda3-33965d4390cc",
+          "text": "Una despolarización de las células ciliadas de la ampula del canal semicircular horizontal derecho."
+        }
+      ]
+    },
+    {
+      "id": "da5e8d9d-f2dc-4391-857e-e6e53f3c23a3",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "En relación a la función y estructura de los husos neuromusculares marque la opción correcta:",
+      "options": [
+        {
+          "id": "d3aecd10-b3d6-4a78-9de5-3b09b4cd8b75",
+          "text": "Están dispuestos en paralelo respecto de las fibras musculares extrafusales.",
+          "correct": true
+        },
+        {
+          "id": "19d1132c-e923-4b67-a4a4-48c9c7fd3fcb",
+          "text": "Durante estiramientos pasivos, las fibras musculares intrafusales no modifican su longitud."
+        },
+        {
+          "id": "da8d2fc2-f4c0-43a8-a3db-1583b6f98a08",
+          "text": "Están conformados por fibras musculares especializadas que perdieron totalmente su capacidad contráctil."
+        },
+        {
+          "id": "43643e96-ffea-4215-8165-4c29aa135c60",
+          "text": "La inervación eferente está mediada por el neurotransmisor GABA."
+        }
+      ]
+    },
+    {
+      "id": "c81d0f46-0606-4ec6-99b8-ac560bdd5b0b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "En relación a las células de Purkinje del cerebelo, señale la opción correcta:",
+      "options": [
+        {
+          "id": "3f36d996-d67f-482d-b9bc-d80da5e31315",
+          "text": "Sus axones constituyen la vía de salida de la corteza cerebelosa hacia los núcleos profundos del cerebelo.",
+          "correct": true
+        },
+        {
+          "id": "96a77b6a-c125-461d-b9ad-f13e7eb16ce2",
+          "text": "De forma característica, las fibras paralelas establecen contactos sinápticos axo-axónicos con estas células."
+        },
+        {
+          "id": "bae8c963-11f7-422b-b62f-53032e45667b",
+          "text": "Establecen contactos sinápticos directos con motoneuronas del asta anterior de la médula espinal."
+        },
+        {
+          "id": "4dbb52f1-439c-45d1-9417-159f56c716b2",
+          "text": "Se encuentran localizadas únicamente en la corteza del vestíbulo- cerebelo."
+        },
+        {
+          "id": "25981fb0-e2a9-4697-a020-83291010d98d",
+          "text": "Su activación produce una espiga compleja a nivel de las neuronas de los núcleos cerebelosos profundos."
+        }
+      ]
+    },
+    {
+      "id": "2cac1ffa-96c3-4b32-9931-d5e843d9ec0b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "En relación al papel que desempeñan los núcleos grises de la base en el control de los actos motores, señale la opción correcta:",
+      "options": [
+        {
+          "id": "7d83dd62-147e-4005-bc73-2e2fa6e3cc3b",
+          "text": "En los circuitos intrínsecos de estos núcleos, la dopamina ejerce efectos opuestos en la vía directa e indirecta.",
+          "correct": true
+        },
+        {
+          "id": "498f8b86-ccaf-482e-a065-ecc50db63e77",
+          "text": "Comprenden uno de los mayores sistemas de control de la actividad visceral."
+        },
+        {
+          "id": "e6100f23-4c56-44fd-a5aa-22895ebdde23",
+          "text": "De forma característica, la enfermedad de Parkinson se produce como consecuencia de una pérdida de neuronas del núcleo subtalámico."
+        },
+        {
+          "id": "114786f4-411a-4d86-97be-86123c321921",
+          "text": "Las aferencias desde la corteza cerebral influyen de forma directa sobre la actividad de las neuronas del globo pálido interno."
+        }
+      ]
+    },
+    {
+      "id": "56713677-0a14-4b04-bf45-42e795eb8ed9",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "En un animal de experimentación se calienta en forma localizada el hipotálamo anterior (área preóptica), mientras que se registran distintos parámetros fisiológicos. En estas condiciones es posible observar que (marque la opción correcta):",
+      "options": [
+        {
+          "id": "eb7bea5c-708c-4dbf-8ac7-db3febf729c1",
+          "text": "Neuronas sensibles al calor del hipotálamo anterior aumentan la frecuencia de descarga.",
+          "correct": true
+        },
+        {
+          "id": "66d3206f-4687-443e-ab7b-f7d34def7baf",
+          "text": "Aumenta la generación de calor por metabolización de la grasa parda (bruna o marrón)."
+        },
+        {
+          "id": "0e1d4f9f-6676-46c4-a9a7-bb9c0573640b",
+          "text": "Neuronas sensibles al frío del hipotálamo posterior aumentan la frecuencia de descarga."
+        },
+        {
+          "id": "06ffb038-2510-4114-825e-31b0011f736b",
+          "text": "Se produce temblor muscular."
+        },
+        {
+          "id": "70298f0f-dddc-4e3b-8e76-0b06f24090f3",
+          "text": "Se produce una constricción de las arteriolas de la piel."
+        }
+      ]
+    },
+    {
+      "id": "73377a6a-fa89-4017-9665-7fd6a02f9b4c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "En un animal de experimentación se realiza una polisomnografía a temperatura ambiente (21 °C). Al mismo tiempo se monitorizan distintos parámetros fisiológicos. Cuando el animal pasa del estado de sueño no-REM (sueño lento) al estado de sueño REM, es esperable encontrar que (marque la opción correcta):",
+      "options": [
+        {
+          "id": "9e407c05-ef35-4e17-8a30-93dce8844bf0",
+          "text": "Disminuya el tono de los músculos antigravitatorios.",
+          "correct": true
+        },
+        {
+          "id": "fd1c16e3-fc2f-4cf0-8434-604e227760c2",
+          "text": "Aumente la amplitud y baje la frecuencia de las ondas del electroencefalograma."
+        },
+        {
+          "id": "afaf3354-e13e-41df-985f-a1a1a00a559b",
+          "text": "Aumente la liberación de la hormona de crecimiento."
+        },
+        {
+          "id": "679c9e15-13cf-4d7c-a45d-207cbe067b2b",
+          "text": "Aumente la temperatura corporal."
+        },
+        {
+          "id": "213276bb-402e-4d46-829c-f494517582c5",
+          "text": "Se registren husos de sueño en el electroencefalograma."
+        }
+      ]
+    },
+    {
+      "id": "4f91eb51-3e9c-4fed-8cea-7d7057dc484d",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "En un animal de experimentación se registra la respuesta de una neurona aferente primaria a un sonido de 300 Hz y 40 dB. Se muestra el registro de la actividad extracelular (trazado superior) y la onda que representa al sonido estimulante (trazado inferior). Con respecto a las siguientes afirmaciones marque la correcta:",
+      "image": "4f91eb51-3e9c-4fed-8cea-7d7057dc484d.webp",
+      "options": [
+        {
+          "id": "c1669e74-56b8-4220-aeba-e4452948d417",
+          "text": "Esta neurona presenta acople de fase.",
+          "correct": true
+        },
+        {
+          "id": "11c4ea3f-1018-416e-b07e-77e7e4c1dbc4",
+          "text": "El acoplamiento de fase ocurriría si el sonido estimulante fuera de 6000 Hz y 40 dB."
+        },
+        {
+          "id": "2afe8d72-cf7e-4cac-9987-67782244ed84",
+          "text": "Esta neurona forma parte del haz olivo-coclear."
+        },
+        {
+          "id": "29feeb37-e9fb-4297-98cc-d0b30ac23e5b",
+          "text": "Esta neurona inerva la base de la cóclea."
+        }
+      ]
+    },
+    {
+      "id": "0cfc0cb7-33e0-4d0c-add0-a7a8f26e6171",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "La anatomía patológica de un paciente, presenta la lesión cortical mostrada en la figura. Es esperable que el paciente padeciera, principalmente, un marcado déficit en (marque la opción correcta):",
+      "image": "0cfc0cb7-33e0-4d0c-add0-a7a8f26e6171.webp",
+      "options": [
+        {
+          "id": "10d23d73-98ff-4f6f-abc2-b6ed0f543dae",
+          "text": "La comprensión del lenguaje hablado.",
+          "correct": true
+        },
+        {
+          "id": "95500500-bc1b-415a-bf7f-11572b5054d0",
+          "text": "La expresión de la emotividad del lenguaje."
+        },
+        {
+          "id": "bdda28aa-71e7-4104-aa56-207e6e88c0d9",
+          "text": "La expresión del lenguaje."
+        },
+        {
+          "id": "9d90361f-a3cd-47c6-a1a7-b336ec47777b",
+          "text": "La toma de decisiones de las palabras a utilizar."
+        },
+        {
+          "id": "1a191907-96e2-4373-81fb-4b4b27181531",
+          "text": "Los movimientos del brazo izquierdo."
+        }
+      ]
+    },
+    {
+      "id": "665fcfc4-13ea-4847-bd5e-5d9e4b55b897",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "La figura muestra registros de una neurona característica del globo pálido interno (GPi) de un animal de experimentación, antes y después de generarle una lesión que le provocó enfermedad de Parkinson experimental. La barra de calibración corresponde a 1 segundo. De las siguientes afirmaciones marque la opción correcta.",
+      "image": "665fcfc4-13ea-4847-bd5e-5d9e4b55b897.webp",
+      "options": [
+        {
+          "id": "79ce672f-2aa9-4d4d-ad55-cb7e470c4a8d",
+          "text": "La neurona registrada es GABAérgica.",
+          "correct": true
+        },
+        {
+          "id": "192d47a3-8a0c-4d5c-b9c7-92644311eabc",
+          "text": "El registro A correspondería a la condición post-lesión."
+        },
+        {
+          "id": "262f3849-a002-4117-abbb-eeab389c6c8d",
+          "text": "En la condición B, la neurona genera una mayor activación sobre las neuronas blanco respecto a la condición A."
+        },
+        {
+          "id": "6fe70aac-09d4-451c-8268-c409ce141768",
+          "text": "Es esperable que en los síndromes hiperquinéticos la mayoría de las neuronas del GPi se comporten como en B."
+        },
+        {
+          "id": "3c3b7591-17e8-4f41-a75e-58a493550986",
+          "text": "La neurona registrada en ambas condiciones presenta una frecuencia de descarga menor a 10 Hz."
+        }
+      ]
+    },
+    {
+      "id": "b1ac1c89-bba8-4788-979a-278e7e82b9c9",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "La figura muestra un ejemplo de la autoestimulación intracraneana (AEI), en que la rata presiona una palanca (lever) para recibir pulsos eléctricos en la región del encéfalo donde está situado el electrodo de estimulación. Conjuntamente con la AEI, se realiza una microdiálisis intracerebral para medir la liberación de dopamina en el núcleo accumbens (núcleo estriado ventral). En este experimento sería posible observar que:",
+      "image": "b1ac1c89-bba8-4788-979a-278e7e82b9c9.webp",
+      "options": [
+        {
+          "id": "e777e231-c52f-401f-91f5-339e2709062b",
+          "text": "Durante la AEI aumenta la liberación sináptica de dopamina en el núcleo accumbens.",
+          "correct": true
+        },
+        {
+          "id": "61700d66-6911-4039-bd3c-4241507db437",
+          "text": "En forma consistente se observa que a una mayor intensidad del estímulo disminuye la frecuencia de autoestimulación."
+        },
+        {
+          "id": "d97c828a-4c8a-4cde-bc7f-361a081042dc",
+          "text": "La frecuencia en que la rata presiona la palanca no se modifica por la administración sistémica de nicotina."
+        },
+        {
+          "id": "deffa1ab-c482-4d47-8cb2-5ccda4efc3eb",
+          "text": "Una óptima AEI se obtiene colocando el electrodo en el núcleo central de la amígdala."
+        },
+        {
+          "id": "53fa0ea0-2c23-43d3-b985-7ccc291986e1",
+          "text": "Una óptima AEI se obtiene colocando el electrodo en la sustancia gris periacueductal."
+        }
+      ]
+    },
+    {
+      "id": "e4173e90-f44f-4c9c-a6e1-8f2e1113b2ea",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "La figura muestra un esquema del proceso de transducción en las células ciliadas (o pilosas) del órgano de Corti. Con respecto a este fenómeno marque la respuesta correcta:",
+      "image": "e4173e90-f44f-4c9c-a6e1-8f2e1113b2ea.webp",
+      "options": [
+        {
+          "id": "ad27d7d4-7291-4875-8b8c-f747f9279a2e",
+          "text": "El estímulo mecánico aplicado en B disminuye la frecuencia de descarga de la aferente primaria.",
+          "correct": true
+        },
+        {
+          "id": "407300b5-d15c-449e-8950-a0cb77771995",
+          "text": "El estímulo mecánico aplicado en A aumenta la liberación sináptica de GABA."
+        },
+        {
+          "id": "5f765155-e328-46d6-aa9f-7a91966f43ad",
+          "text": "El estímulo mecánico aplicado en A disminuye la entrada de K+ a la célula ciliada."
+        },
+        {
+          "id": "fddea5ad-f63b-4c62-8921-1e62ddd586d2",
+          "text": "El estímulo mecánico aplicado en A genera potenciales de acción en la célula ciliada."
+        },
+        {
+          "id": "58094ff9-42dc-4879-a2fe-e6b86bda2c27",
+          "text": "El estímulo mecánico aplicado en B disminuye la formación de GMPc."
+        }
+      ]
+    },
+    {
+      "id": "c1340a5d-1016-407d-a707-b0f59ca7f416",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "La figura representa una neurona preganglionar (1) y post-ganglionar (4) del sistema nervioso parasimpático. La sinapsis en el ganglio autónomo y efector, con sus neurotransmisores (2 y 5) y receptores (3 y 6) también se representan. De acuerdo a este esquema marque la opción correcta.",
+      "image": "c1340a5d-1016-407d-a707-b0f59ca7f416.webp",
+      "options": [
+        {
+          "id": "9988af84-3714-41c0-ae6d-8f443968f9dc",
+          "text": "1 se podría localizar en la región sacra de la médula espinal.",
+          "correct": true
+        },
+        {
+          "id": "da69ad8c-c05d-4f33-8309-a35fb6a69699",
+          "text": "4 se encuentra en el bulbo raquídeo."
+        },
+        {
+          "id": "838dfee2-f7e9-4bc1-a8fc-d143a1c6c4be",
+          "text": "El efecto principal resultado de la activación de 1, es la inhibición de 4."
+        },
+        {
+          "id": "6410a4f2-8312-474c-967e-68895cb94074",
+          "text": "El efector corresponde a la medula suprarrenal."
+        },
+        {
+          "id": "50b3989d-171a-4d1c-8cbb-fa9418f04a3e",
+          "text": "En forma característica, 1 y 4 se activarían en condiciones de huída o lucha."
+        }
+      ]
+    },
+    {
+      "id": "a0f4b34b-e85e-4fd6-9789-ab79fdbf7583",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "La figura representa una neurona preganglionar (1) y post-ganglionar (4) del sistema nervioso simpático. La sinapsis en el ganglio autónomo y efector, con sus neurotransmisores (2 y 5) y receptores (3 y 6) también se representan. De acuerdo a este esquema marque la opción correcta.",
+      "image": "a0f4b34b-e85e-4fd6-9789-ab79fdbf7583.webp",
+      "options": [
+        {
+          "id": "fb512810-9ea3-4900-8a3e-837ba3fadbdd",
+          "text": "6 podría ser el receptor alfa-1-adrenérgico.",
+          "correct": true
+        },
+        {
+          "id": "0c43395d-aa4a-40ff-83bb-53415715ba16",
+          "text": "2 corresponde a adrenalina."
+        },
+        {
+          "id": "c0460a05-b740-4003-be9e-4ca8e47cd5b9",
+          "text": "3 representa el receptor beta-2-adrenérgico."
+        },
+        {
+          "id": "1e0aa53d-19c6-4ff7-962f-1803ab94ddf7",
+          "text": "El efector podría representar al musculo estriado esquelético."
+        },
+        {
+          "id": "2ffabaf6-74cb-4826-800b-01703f239115",
+          "text": "En forma característica, el neurotransmisor representado en 5 es la acetilcolina."
+        }
+      ]
+    },
+    {
+      "id": "acbc6b23-8b08-4503-a209-34e78be73339",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "La unidad motora (UM) constituye la unidad funcional del sistema músculo esquelético. Con respecto a esta unidad funcional en adultos, es correcto afirmar que:",
+      "options": [
+        {
+          "id": "08fcdfcb-d35d-4376-b00e-91718dc252e9",
+          "text": "En los miembros inferiores típicamente una motoneurona inerva más de una fibra muscular.",
+          "correct": true
+        },
+        {
+          "id": "ba6c78ec-e0c2-43a2-b74b-4568bd717896",
+          "text": "Cada fibra muscular es activada por más de una motoneurona."
+        },
+        {
+          "id": "96248263-69a9-490d-af6b-cb14da2b1d1e",
+          "text": "En forma característica, las UM con mayor tasa de inervación participan de actos motores que involucran mayor precisión."
+        },
+        {
+          "id": "17136387-f299-4815-8169-ec3ffaa369ea",
+          "text": "La tasa de inervación de las UM es similar entre los distintos grupos musculares."
+        },
+        {
+          "id": "55057365-c584-48ff-8f30-d6b0fc6cdefe",
+          "text": "Los somas de las motoneuronas alfa que invervan la musculatura distal se ubican en la zona medial del asta ventra de la médula espinal."
+        }
+      ]
+    },
+    {
+      "id": "9e8be5b2-6dd5-4783-bf63-538b8ea6afda",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "Se realiza un experimento in vivo para analizar la fisiología de los circuitos espinales segmentarios que controlan la actividad de las motoneuronas. En el curso de este experimento, ¿cuál de los siguientes fenómenos son provocados por el estiramiento brusco de un músculo?",
+      "options": [
+        {
+          "id": "8c868bcd-25b4-40c2-b91f-2c329677fa83",
+          "text": "Descarga de un brote de potenciales de acción de las aferentes primarias procedentes de los husos neuromusculares del músculo estirado.",
+          "correct": true
+        },
+        {
+          "id": "419d3ee5-c1d4-4639-a420-fe47aa51ddd3",
+          "text": "Descarga antidrómica de las motoneuronas del músculo estirado."
+        },
+        {
+          "id": "36b0c503-9bb6-4543-a416-fa0d472c3a6d",
+          "text": "Despolarización refleja de las motoneuronas gamma del músculo estirado."
+        },
+        {
+          "id": "ad756dc8-00bb-4bca-8e7b-9eb0d18d0a04",
+          "text": "Inhibición de las motoneuronas de los músculos sinergistas."
+        },
+        {
+          "id": "81036ab5-f8f6-410b-845b-f9f6a0b423d4",
+          "text": "Relajación refleja del músculo estirado."
+        }
+      ]
+    },
+    {
+      "id": "0085e907-ec3f-478c-8d27-372d836c28b1",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "Sobre la fisiología de los fotorreceptores (FR):",
+      "options": [
+        {
+          "id": "b852165b-9c24-446d-9c36-ead7a8ca57be",
+          "text": "La luz determina que los FR disminuyan la liberación sináptica de glutamato.",
+          "correct": true
+        },
+        {
+          "id": "83113d49-7aea-47f9-b0a1-00e3fb482b6a",
+          "text": "En ausencia de luz, el potencial de membrana de los FR es de aproximadamente -80 mV."
+        },
+        {
+          "id": "61ba8397-2f68-4728-b902-a209874a1978",
+          "text": "En respuesta a la luz, se produce una disminución de la actividad de la enzima fosfodiesterasa de GMPc en los FR."
+        },
+        {
+          "id": "e2e78c48-118c-45bf-b72b-87e298e9f4e8",
+          "text": "La luz despolariza los FR."
+        }
+      ]
+    },
+    {
+      "id": "998e23bc-5c92-49bc-9948-7ac839e23479",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "Un estudio de la función auditiva (audiograma) en un ser humano normal muestra que (marque la opción correcta):",
+      "options": [
+        {
+          "id": "d1cdc4c4-6d01-48c4-b7f7-49c461986242",
+          "text": "Un sonido de una frecuencia superior a los 25 KHz no es audible.",
+          "correct": true
+        },
+        {
+          "id": "edb69b3e-6b97-4075-8456-ee2f8d466f82",
+          "text": "El umbral perceptivo es de aproximadamente 30 dB (al nivel de presión del sonido)."
+        },
+        {
+          "id": "de375477-6783-4523-8a7b-d229db72d6ef",
+          "text": "El umbral perceptivo no cambia con la frecuencia del sonido estimulante."
+        },
+        {
+          "id": "6266d1da-ff85-406e-82b2-3d47949d7c5f",
+          "text": "La sensibilidad a sonidos entre 20 y 50 Hz es mayor que para el resto de las frecuencias."
+        },
+        {
+          "id": "bd89f743-ab2a-440f-805a-4464a3c626e0",
+          "text": "Un estímulo de 15 Hz a 40 dB de intensidad es perfectamente audible."
+        }
+      ]
+    },
+    {
+      "id": "5161cb3b-731b-4e8f-a1d1-6cd214443638",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "¿Cuál de las siguientes afirmaciones caracteriza los procesos de memoria del tipo implícita? Marque la opción correcta:",
+      "options": [
+        {
+          "id": "7eadee14-002c-4b4c-a344-84f4e83de02f",
+          "text": "Su almacenamiento puede involucrar diferentes regiones del encéfalo tales como cerebelo y núcleo estriado.",
+          "correct": true
+        },
+        {
+          "id": "0eaa3655-5e4a-4076-a255-717b7b1c40bc",
+          "text": "Depende de procesos cognitivos conscientes."
+        },
+        {
+          "id": "61032c10-a53a-4b58-bcbc-0d648c0dde03",
+          "text": "Se pierde de forma permanente luego de lesionar el hipocampo."
+        },
+        {
+          "id": "786c4cdc-c332-4cfb-a93a-4d72fd4ea64b",
+          "text": "Típicamente se expresa de forma verbal."
+        }
+      ]
+    },
+    {
+      "id": "a81e3a00-a227-4dae-94ca-2a30936b6b15",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-23",
+      "text": "¿En cuál de los siguientes grupos neuronales se observa una reducción de su frecuencia de descarga durante el sueño REM (neuronas denominadas REM- OFF)? Marque la opción correcta.",
+      "options": [
+        {
+          "id": "047cd3e7-f95c-475f-8718-24e9ea1b4b66",
+          "text": "Neuronas noradrenérgicas del locus coeruleus (núcleo de la región pontina).",
+          "correct": true
+        },
+        {
+          "id": "e93405b7-5e48-4dbb-addf-bd3ca9359e07",
+          "text": "Motoneuronas de los músculos extrínsecos (o extra-oculares) del ojo."
+        },
+        {
+          "id": "58cb0e01-bfe9-43ab-ac09-86c8524a7cb9",
+          "text": "Motoneuronas que inervan el diafragma."
+        },
+        {
+          "id": "057e6c4b-4128-4566-8d37-0a9cf2f042d5",
+          "text": "Neuronas piramidales de la corteza motora primaria."
+        },
+        {
+          "id": "fd13489f-9078-4cef-9f32-1dd32a9bbfc5",
+          "text": "Neuronas talámicas que proyectan a la corteza cerebral (neuronas tálamo-corticales)."
+        }
+      ]
     }
   ],
   "evaluations": [
     {
       "key": "parcial_1",
       "name": "1° parcial"
+    },
+    {
+      "key": "parcial_2",
+      "name": "2° parcial"
     }
   ]
 }
