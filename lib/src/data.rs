@@ -9,6 +9,7 @@ use serde::{Deserialize, Serialize};
 use uuid::Uuid;
 
 use crate::{
+    format_text,
     helpers::{read_dir_entry_data, write_data},
     traits::{CourseAssociated, Hashable, WithImage},
     RawCourseData,
@@ -308,7 +309,7 @@ impl QuestionData {
     }
 
     async fn format(&mut self, images_path: PathBuf) -> Result<()> {
-        self.text = self.text.trim().replace("  ", " ");
+        self.text = format_text(&self.text);
 
         self.format_image(images_path).await?;
 
@@ -441,7 +442,7 @@ impl QuestionOptionData {
     }
 
     fn format(&mut self) {
-        self.text = self.text.trim().replace("  ", " ");
+        self.text = format_text(&self.text);
     }
 
     pub fn set_data(&mut self, question_id: Uuid) {

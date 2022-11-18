@@ -2,8 +2,12 @@ use std::fs::{self, DirEntry, ReadDir};
 use std::path::PathBuf;
 
 use anyhow::{bail, Result};
+use once_cell::sync::Lazy;
+use regex::Regex;
 
 use crate::CourseData;
+
+static WHITESPACE_REGEX: Lazy<Regex> = Lazy::new(|| Regex::new(r"\s\s+").unwrap());
 
 pub fn read_data_dir(data_path: PathBuf) -> Result<ReadDir> {
     let data_path = fs::canonicalize(data_path)?;
@@ -38,4 +42,12 @@ pub async fn load_courses_data_and_write_formatted(
     }
 
     Ok(courses_data)
+}
+
+pub fn format_text(text: &str) -> String {
+    let mut formatted = text.trim().to_owned();
+
+    formatted = WHITESPACE_REGEX.replace_all(&formatted, " ").to_string();
+
+    formatted
 }
