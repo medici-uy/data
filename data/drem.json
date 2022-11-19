@@ -1,0 +1,891 @@
+{
+  "name": "DREM-RD",
+  "short_name": "DREM",
+  "aliases": [
+    "drem",
+    "digestivo",
+    "renal",
+    "endócrino",
+    "metabolismo",
+    "reproducción",
+    "desarrollo"
+  ],
+  "year": 3,
+  "questions": [
+    {
+      "id": "b251dcfb-6dc8-466f-b8b3-350dcf2aa21f",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "A continuación, se asocian hormonas y organelos celulares presentes en abundancia en las células que las producen. Indique en cuál de las siguientes opciones es la asociación correcta:",
+      "options": [
+        {
+          "id": "4b87df76-d9d4-41d3-b96b-6ab1cb1fafb4",
+          "text": "Adrenalina - vesículas de secreción.",
+          "correct": true
+        },
+        {
+          "id": "c4b88554-ecdd-4cdf-bb07-c38fcc0d498b",
+          "text": "Corticoides - aparato de Golgi."
+        },
+        {
+          "id": "bc46f7c8-beb2-4d0f-a1ea-19fd7f7bb33a",
+          "text": "Corticoides - mitocondrias de crestas laminares."
+        },
+        {
+          "id": "a35b3d9a-c3e5-482f-b9bd-5bfab26e730c",
+          "text": "Mineralocorticoides - gránulos de secreción."
+        }
+      ]
+    },
+    {
+      "id": "5d3e5389-1e4d-4159-99ae-4d11addfb8c6",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "Acerca del ciclo de la urea es correcto afirmar que:",
+      "options": [
+        {
+          "id": "b1816ce5-1dce-4b3f-97e8-2c661d6fa8fd",
+          "text": "Permite la eliminación de dos átomos de nitrógeno por cada molécula de urea formada.",
+          "correct": true
+        },
+        {
+          "id": "33efe9c9-9500-43f4-a8b6-482c32709608",
+          "text": "Consume NADPH."
+        },
+        {
+          "id": "fd59b61d-18e8-4fa1-a813-6dc96b44a547",
+          "text": "Es regulado principamente por la acetilación/desacetilación de la enzima carbamoil fosfato sintetasa 1."
+        },
+        {
+          "id": "00550c3e-fbf0-473d-8d03-271fc8b08fc4",
+          "text": "Es una ruta metabólica que ocurre enteramente en el citosol de hepatocitos."
+        },
+        {
+          "id": "e366802d-2ef0-4d90-a17c-5e9e68ef80d9",
+          "text": "Es una ruta metabólica que ocurre enteramente en la mitocondria de hepatocitos."
+        }
+      ]
+    },
+    {
+      "id": "778f3ee9-56b7-4c81-9c0f-d4d109fa4cfc",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "Con respecto a la ingesta de alimentos ricos en fructosa, es correcto afirmar que:",
+      "options": [
+        {
+          "id": "32ea6609-10bf-4d30-af42-ab55252066cd",
+          "text": "A nivel hepático, la fructosa es fosforilada en posición uno por la enzima cetohexoquinasa (o fructoquinasa).",
+          "correct": true
+        },
+        {
+          "id": "2d9f7fa8-9777-4667-8abb-8039cc0ee8c7",
+          "text": "El consumo de fructosa genera una sensación de saciedad mayor que el consumo de igual cantidad de glucosa."
+        },
+        {
+          "id": "132d0e97-a784-4796-a974-9bf22b662053",
+          "text": "La fructosa puede metabolizarse únicamente a nivel cerebral."
+        },
+        {
+          "id": "9a147159-b0ee-4e8f-99dd-08b7180f937f",
+          "text": "La oxidación de fructosa en el hígado ocurre por la ruta glucolítica, siendo su velocidad regulada en forma estricta por la carga energética celular."
+        },
+        {
+          "id": "224219d6-46b1-4027-96e5-0ae30e4836e5",
+          "text": "Se asocia con un rápido aumento de la concentración de malonil coenzima A en el sistema nervioso central."
+        }
+      ]
+    },
+    {
+      "id": "61bf37ab-9330-4de7-8de1-e6f8fa3e3854",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "Con respecto al metabolismo de proteínas es correcto afirmar que:",
+      "options": [
+        {
+          "id": "697ed57a-8fdf-4d05-833b-02ed247c2222",
+          "text": "La degradación de proteínas determina la eliminación de residuos nitrogenados tales como urea y creatinina.",
+          "correct": true
+        },
+        {
+          "id": "a8fff6e3-26dd-4737-a5ff-95efb6eecc05",
+          "text": "En organismos sanos se produce una degradación de proteínas del orden del 60% de la masa proteica por día."
+        },
+        {
+          "id": "8ceb9d91-8310-4df6-a1dc-ab3ec477001d",
+          "text": "Las condiciones de balance nitrogenado negativo normalmente se asocian a un aumento en la ingesta proteica diaria en la dieta."
+        },
+        {
+          "id": "e9b3e147-03f5-4d14-b2f7-59a2ce56e09a",
+          "text": "Los amino ácidos resultantes de la degradación proteica no pueden ser utilizados para la síntesis de nueva proteína."
+        },
+        {
+          "id": "00210a18-ce62-48a5-9212-7dcdc846288e",
+          "text": "Pese a existir gran variabilidad estructural, la vida media de las diferentes proteínas es similar en todos los casos."
+        }
+      ]
+    },
+    {
+      "id": "0a38179f-d4e4-46f7-9a75-32f4ad29c30a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "El óxido nítrico (•NO) es una molécula con acción señalizadora. A su respecto indique la opción INCORRECTA:",
+      "options": [
+        {
+          "id": "5b40c21a-e8a3-46d1-ad2c-da8514585a52",
+          "text": "Se une y estimula a la proteín quinasa dependiente de •NO.",
+          "correct": true
+        },
+        {
+          "id": "df413ee1-b378-496a-a403-a34017eee01a",
+          "text": "Activa a la guanilato ciclasa soluble."
+        },
+        {
+          "id": "ae062e94-7922-46e9-ae04-c39ef74cd6af",
+          "text": "Difunde a través de membranas celulares."
+        },
+        {
+          "id": "8351d931-b991-4444-a100-66768ebcee8d",
+          "text": "Es lipofílico."
+        },
+        {
+          "id": "f2de07b3-19b9-4734-b831-197527b98a86",
+          "text": "Se sintetiza a partir del aminoácido arginina."
+        }
+      ]
+    },
+    {
+      "id": "6205a7d6-f3d6-4a4c-a891-2456a9be2653",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "En el gráfico se representa la desaparición de iodo radiactivo de la glándula tiroides en función del tiempo en un sujeto hipofisectomizado y un sujeto sano. La flecha indica la administración de una sustancia únicamente al individuo hipofisectomizado. ¿Qué sustancia se administró?",
+      "image": "6205a7d6-f3d6-4a4c-a891-2456a9be2653.webp",
+      "options": [
+        {
+          "id": "b18193ac-3a21-4b54-aabd-0d09314a41e2",
+          "text": "TSH (tirotropina).",
+          "correct": true
+        },
+        {
+          "id": "7b955c4f-110c-48cc-b5f5-6c3757925402",
+          "text": "T4 (tirotoxina)."
+        },
+        {
+          "id": "853e1d9f-1796-4881-8f9c-a370992aeea2",
+          "text": "TRH (hormona liberadora de tirotropina)."
+        },
+        {
+          "id": "205ddf2c-6e9d-435f-b18c-1eea12219720",
+          "text": "Tiroglobulina."
+        }
+      ]
+    },
+    {
+      "id": "de058071-163e-48a4-9f8a-ccaec6a47fe9",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "En el mantenimiento de la glicemia bajo condiciones de ayuno de tres días, es correcto afirmar que:",
+      "options": [
+        {
+          "id": "82a8a5b0-7453-4d17-96be-e49ef33de899",
+          "text": "La degradación de proteínas musculares aporta aminoácidos para la gluconeogénesis hepática.",
+          "correct": true
+        },
+        {
+          "id": "7897f16c-e3dd-4720-b794-d6145ac9f201",
+          "text": "El hígado convertirá la glucosa en lactato que será exportado al cerebro."
+        },
+        {
+          "id": "807fdbff-a23b-4cf3-a7d5-18331d82eb8d",
+          "text": "Los hepatocitos tendrán una expresión de glucoquinasa incrementada."
+        },
+        {
+          "id": "9404608a-4495-4ade-96e5-18a3b785320d",
+          "text": "Los ácidos grasos libres exportados por el tejido adiposo serán utilizados en el hígado para la gluconeogénesis."
+        },
+        {
+          "id": "d3943ff7-fe5e-4c88-ae2d-ba7bd789636c",
+          "text": "Para poder captar suficiente glucosa, habrá una gran expresión de GLUT-4 en la membrana de los adipocitos."
+        }
+      ]
+    },
+    {
+      "id": "7fbe8227-5d71-4ff5-bc99-54f096512c94",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "En la enfermedad de Hartnup hay un defecto en el sistema de transporte de aminoácidos neutros (el sistema Bo). Se generó un modelo animal de esta enfermedad y se analiza el siguiente resultado en relación a la absorción intestinal de aminoácidos como se muestra a continuación. Las barras negras corresponden a los ratones control y las barras blancas corresponden a los mutantes en el sistema Bo. ¿Qué conclusión se puede extraer de este experimento?",
+      "image": "7fbe8227-5d71-4ff5-bc99-54f096512c94.webp",
+      "options": [
+        {
+          "id": "b850ab8b-c4f6-4163-935d-d996dadae94f",
+          "text": "Phe-Leu se hidroliza dentro del enterocito y los aminoácidos pueden ser transportados hacia la sangre.",
+          "correct": true
+        },
+        {
+          "id": "0a7792b7-f0d8-46ae-886d-e97eea76a2b7",
+          "text": "El dipeptido Phe-Leu no se puede absorber como tal y debe ser hidrolizado a nivel de la membrana apical del enterocito."
+        },
+        {
+          "id": "41a3c40d-0268-4c5d-a752-e7d59abbb41a",
+          "text": "El sistema Bo participa en el transporte de arginina y fenilalanina hacia la sangre."
+        },
+        {
+          "id": "d637f084-1792-4e8c-a625-21bb2337b19f",
+          "text": "El sistema de transporte de Phe a nivel de la membrana basolateral está afectado en los ratones mutantes."
+        },
+        {
+          "id": "934675f6-f0e0-46af-be52-23c1048eabe4",
+          "text": "Los aminoácidos arginina y fenilalanina utilizan el mismo sistema de transporte a nivel de la membrana apical de los enterocitos."
+        }
+      ]
+    },
+    {
+      "id": "214ece02-2f2b-4f32-88d3-aad51593e5d2",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "En relación a la actividad motora del tracto gastrointestinal, señale la opción correcta:",
+      "options": [
+        {
+          "id": "9b199736-6410-4c64-b2eb-a5bef1a58fb3",
+          "text": "La motilidad gastrointestinal es estimulada principalmente por el sistema nervioso parasimpático.",
+          "correct": true
+        },
+        {
+          "id": "2a0ab9f2-23c3-4f34-babf-09946c099154",
+          "text": "El sistema nervioso intrínseco se encuentra localizado fuera de la pared gastrointestinal."
+        },
+        {
+          "id": "8233a8c1-ecf0-4758-8654-d52cdc84641e",
+          "text": "La noradrenalina es usada como mediador químico por las neuronas excitatorias mientéricas."
+        },
+        {
+          "id": "619f3706-0f7c-463d-b9ab-2ec84e1893db",
+          "text": "Reflejos intrínsecos coordinan la actividad motora entre regiones distantes del tubo digestivo (ej. estómago-colon)."
+        }
+      ]
+    },
+    {
+      "id": "4ab5c4ce-e918-4383-99bb-c2a172612fd3",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "La figura muestra el registro de tensión en función del tiempo obtenido en un preparado de intestino aislado. La flecha indica el momento en que se agregó al baño una sustancia. ¿Cuál es el principal efecto provocado por el agregado de esta sustancia? Marque la opción correcta.",
+      "image": "4ab5c4ce-e918-4383-99bb-c2a172612fd3.webp",
+      "options": [
+        {
+          "id": "29ce6c00-401c-45ca-be1d-ea18694f7564",
+          "text": "Aumento del tono muscular.",
+          "correct": true
+        },
+        {
+          "id": "b2ba7d18-759c-4450-a101-26b38dfa3530",
+          "text": "Aumento de la amplitud de las contracciones fásicas."
+        },
+        {
+          "id": "d744f6bf-3e00-41b4-8b50-350a13190558",
+          "text": "Aumento de la duración de las ondas."
+        },
+        {
+          "id": "01727abc-b40c-41a2-83fa-97c56c87a439",
+          "text": "Aumento de la frecuencia de contracción."
+        }
+      ]
+    },
+    {
+      "id": "7c55f447-670d-49a8-adf3-8b422db3a89a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "La inhibición farmacológica de la enzima ciclooxigenasa (COX) permite modular diversos procesos fisiológicos. Indique qué efecto se observará si se inhibe la síntesis de los siguientes eicosanoides:",
+      "options": [
+        {
+          "id": "49d74456-4120-4763-a6e8-d1adc9d14ae6",
+          "text": "Efecto antipirético por inhibición de la síntesis de prostaglandina E2.",
+          "correct": true
+        },
+        {
+          "id": "b577dfdd-8497-43e2-b6a5-2593f1696be2",
+          "text": "Efecto antiagregante por inhibición de la síntesis de prostaglandina D2."
+        },
+        {
+          "id": "fec7b619-723b-4965-9839-005a0cd5d26b",
+          "text": "Efecto antiinflamatorio por inhibición de la síntesis de prostaciclina."
+        },
+        {
+          "id": "7bdce610-cc73-49a0-b73a-44737461668a",
+          "text": "Efecto broncoconstrictor por inhibición de la síntesis de leucotrienos."
+        },
+        {
+          "id": "6f4080f2-3992-4211-892e-ffe705c68b4f",
+          "text": "Efecto vasoconstrictor por inhibición del tromboxano A2."
+        }
+      ]
+    },
+    {
+      "id": "5926438b-841f-4697-96dc-669fc8c3891e",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "La lipasa presente en el tejido adiposo modula su actividad frente a diversos estímulos hormonales. Señale la afirmación correcta:",
+      "options": [
+        {
+          "id": "34058a04-00aa-4aa1-a3fe-32090186355d",
+          "text": "Al promover la disminución de los niveles de AMPc entre otras acciones, la insulina inhibe su actividad.",
+          "correct": true
+        },
+        {
+          "id": "2d8d675d-d4cf-4d6a-b7bc-128e551723d1",
+          "text": "El glucagón promueve la ubiquitinación y degradación de esta enzima."
+        },
+        {
+          "id": "e87c9b9f-542e-4f25-b3a0-935462d8b61f",
+          "text": "En respuesta al estrés la actividad es mínima."
+        },
+        {
+          "id": "e1a3268e-aab5-4684-8a71-33e06655f87f",
+          "text": "Frente a un aumento de cortisol, se inhibe la transcripción de esta enzima en el tejido adiposo periférico."
+        },
+        {
+          "id": "92a4483d-704e-4644-bd4c-d8491bcd66d5",
+          "text": "La insulina estimula la actividad a través de la ruta de las proteínas Ras."
+        }
+      ]
+    },
+    {
+      "id": "24c8ad55-3efc-4bf4-91c1-fa4f03ce139d",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "Las proteínas de transferencia de éster de colesterol (CETP) de mamíferos:",
+      "options": [
+        {
+          "id": "3201ba54-cb5f-4977-885d-9614fa7d580d",
+          "text": "Pueden catalizar la transferencia de distintos lípidos entre lipoproteínas.",
+          "correct": true
+        },
+        {
+          "id": "ff80ad96-2a83-4325-a766-ab20a497ce50",
+          "text": "Catalizan la transferencia de esteres de colesterol y de apolipoproteína B entre lipoproteínas plasmáticas."
+        },
+        {
+          "id": "fdefaf57-0aac-48e7-90b7-b23b797a479d",
+          "text": "Requieren apolipoproteina A para su actividad."
+        },
+        {
+          "id": "b3840771-db6f-4e42-87e4-7d4f8f38a096",
+          "text": "Requieren de apolipoproteina B48 para su actividad."
+        }
+      ]
+    },
+    {
+      "id": "38ee5fbe-0b0e-494e-9d0f-291211d79cdf",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "Marque la opción correcta sobre la secreción gástrica de factor intrínseco:",
+      "options": [
+        {
+          "id": "050839d9-4863-4106-876c-c60a9b6eb8e1",
+          "text": "El factor intrínseco es esencial para la vida porque permite la absorción de la vitamina B12.",
+          "correct": true
+        },
+        {
+          "id": "d9360f73-af11-4fdc-bddd-0466ad0f541c",
+          "text": "El omeprazol inhibe la secreción de factor intrínseco."
+        },
+        {
+          "id": "c239d5b5-b38d-47b9-9a84-48442d0d5766",
+          "text": "La somatostatina estimula la secreción de factor intrínseco."
+        },
+        {
+          "id": "b00b8895-7cf4-4c92-980d-e3b9dbd7e44c",
+          "text": "Los secretagogos de la célula parietal son diferentes según sean para estimular la secreción de ácido o de factor intrínseco."
+        }
+      ]
+    },
+    {
+      "id": "195e0f69-fdbd-469c-aecc-e4bbde11aeb3",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "Nos consulta un paciente que presenta un índice de masa corporal (IMC) de 35, glicemia en ayuno de 150 mg/dL, triglicéridos 170 mg/mL y HDL de 20 mg/dL. Con estos datos es probable que el paciente presente:",
+      "options": [
+        {
+          "id": "30b3daf2-2c91-41ad-a106-0ebe9e32c1fa",
+          "text": "Un aumento de la producción de la citoquina IL-6 por el tejido adiposo.",
+          "correct": true
+        },
+        {
+          "id": "3643ea55-6479-423c-9dde-eb17c0fabf29",
+          "text": "Un aumento del tejido adiposo pardo en la espalda."
+        },
+        {
+          "id": "2eee8cd9-c322-480d-b758-3635fbfb46c6",
+          "text": "Una diabetes tipo 1."
+        },
+        {
+          "id": "e35353a0-6965-4e6c-962d-87e2e6170330",
+          "text": "Una dieta balanceada."
+        },
+        {
+          "id": "0814812e-8269-426f-b130-6a3143c67d81",
+          "text": "Una disminución del riesgo de sufrir enfermedades cardiovasculares respecto a poblaciones con IMC < 25."
+        }
+      ]
+    },
+    {
+      "id": "08623515-5752-4f9c-aad5-67d657662615",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "Para evitar la hipoglucemia al realizar ejercicio físico, ¿qué mecanismos compensadores se ponen en marcha?",
+      "options": [
+        {
+          "id": "bd6a9120-b05b-4cc9-8a41-be22ced87c5a",
+          "text": "Aumento de la secreción de las hormonas de contrarregulación (Cortisol, glucagón, adrenalina).",
+          "correct": true
+        },
+        {
+          "id": "4de36ca4-534d-40fa-876c-444cd3d2cbd0",
+          "text": "Aumento de la secreción de glucosa."
+        },
+        {
+          "id": "51c432a2-79e5-49f2-b9ee-8cc186eb58c0",
+          "text": "Disminución de las hormonas de contrarregulación (cortisol, glucagón, adrenalina)."
+        },
+        {
+          "id": "49b0d2f7-d435-49dc-8a54-c9d631ea13c8",
+          "text": "Estimulación de la secreción de insulina."
+        }
+      ]
+    },
+    {
+      "id": "2c7a1b78-ed18-44a2-ae49-5a01cab2beb7",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "Respecto a la fisiología de la oxitocina, marque la opción correcta.",
+      "options": [
+        {
+          "id": "3c9bcb6b-2f57-4684-b1f5-0a10db4f9d37",
+          "text": "El número de receptores de oxitocina aumenta a lo largo del embarazo.",
+          "correct": true
+        },
+        {
+          "id": "14a18c8e-9f96-467c-9a85-398f6dee354a",
+          "text": "Es liberada por la adenohipófisis."
+        },
+        {
+          "id": "5079b658-c405-4a43-8881-9a9c95e3ac39",
+          "text": "Es una hormona lipófila que actúa a nivel de receptores intracelulares."
+        },
+        {
+          "id": "40357abe-a7e0-4d80-a61e-f34a86fcac32",
+          "text": "No es posible su determinación en sangre."
+        }
+      ]
+    },
+    {
+      "id": "cac6bc1c-b7c4-4a0c-a7c3-e4c67d535f47",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "Respecto a la hormona H que actúa como se indica en el esquema y su mecanismo de acción (A: en ausencia de hormona H; B: en presencia de hormona H):",
+      "image": "cac6bc1c-b7c4-4a0c-a7c3-e4c67d535f47.webp",
+      "options": [
+        {
+          "id": "570c490e-4461-4898-bbf2-c19484cf911e",
+          "text": "E puede ser la fosfolipasa C.",
+          "correct": true
+        },
+        {
+          "id": "beca144c-25c2-4682-b318-7227b3aa5247",
+          "text": "E es una GTP sintasa."
+        },
+        {
+          "id": "16f16c9c-37bc-4035-9e7e-37c5b0c4fc54",
+          "text": "E puede ser la proteín quinasa C."
+        },
+        {
+          "id": "02ffcdc9-64b1-48e3-a139-33232da29fa8",
+          "text": "H es una hormona cuyo receptor tiene actividad enzimática."
+        },
+        {
+          "id": "284a005a-26f2-4673-b20d-655455c8a1ea",
+          "text": "H siempre actuará con AMPc como segundo mensajero."
+        }
+      ]
+    },
+    {
+      "id": "9070ce64-e41a-4b35-b4fc-07e867f4071e",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "Respecto a los efectos biológicos de la hormona de crecimiento (GH), marque la opción correcta.",
+      "options": [
+        {
+          "id": "80eafb94-aefd-4d73-a3ab-cd1fe215e1c7",
+          "text": "En condiciones de ayuno, la GH contribuye a mantener la glucosa sanguínea en niveles fisiológicos.",
+          "correct": true
+        },
+        {
+          "id": "5294ab8f-71dc-4fca-a686-edfe2e9862fe",
+          "text": "Ante una ingesta de hidratos de carbono se incrementa la secreción de somatomedinas."
+        },
+        {
+          "id": "4f6a5dde-2467-4078-a106-e7a02de5442e",
+          "text": "Cuando hay disponibilidad de sustratos promueve acciones catabólicas."
+        },
+        {
+          "id": "28716826-7e9e-4a7f-884e-6dfaba176a3e",
+          "text": "Durante el ayuno aumenta la entrada de glucosa a las células."
+        }
+      ]
+    },
+    {
+      "id": "033d544c-a1fe-490d-95b6-930fc0f146f0",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "Respecto de la siguiente figura tomada del artículo “Differential regulation of bile acid homostasis by the farnesoid X receptor (FXR) in liver and intestine” visto en el seminario 1B, indique la opción correcta.",
+      "image": "033d544c-a1fe-490d-95b6-930fc0f146f0.webp",
+      "options": [
+        {
+          "id": "04221cd0-8264-4b71-82eb-4ac43f9e7c78",
+          "text": "El incremento en la concentración total de colesterol encontrado en ratones que no expresan FXR en su organismos (FXR-/-) se explica parcialmente por la falta de expresión de FXR en el hígado.",
+          "correct": true
+        },
+        {
+          "id": "a1378956-c729-49d2-93c7-f80ed60f57a0",
+          "text": "La contribución del receptor FXR en el intestino respecto a la regulación de la concentración plasmática de triacilglicéridos es mayor que la contribución del receptor FXR en el hígado."
+        },
+        {
+          "id": "52a42c0d-bee6-48aa-a833-0cf1aa149503",
+          "text": "Tanto los ratones que no expresan FXR en el intestino como los que no expresan FXR en el hígado muestran cambios significativos en el nivel de triacilglicéridos en plasma."
+        },
+        {
+          "id": "912bb7ce-c6e1-4e67-8f87-b4c3e20eb94b",
+          "text": "Tanto los ratones que no expresan FXR en el intestino como los que no expresan FXR en el hígado muestran cambios significativos en los niveles de ácidos biliares en plasma."
+        },
+        {
+          "id": "f33081b3-83ee-488b-b66f-90fd07f3954f",
+          "text": "Tanto los ratones que no expresan FXR en el intestino como los que no expresan FXR en el hígado no muestran cambios significativos en los niveles de colesterol total en plasma."
+        }
+      ]
+    },
+    {
+      "id": "8a5f3b1d-2c68-42c7-87d0-53934cf5f634",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "Sobre las lipoproteínas de alta densidad (HDL), podemos afirmar que:",
+      "options": [
+        {
+          "id": "540bb8fe-50a5-49e6-98d0-2fd9e40eaf28",
+          "text": "Captan colesterol libre en exceso de células periféricas en un proceso dependiente de apoA-I.",
+          "correct": true
+        },
+        {
+          "id": "82506997-56c4-4a1c-961d-f3fbc89cdbc8",
+          "text": "Poseen la enzima LCAT, que sintetiza ésteres de colesterol a partir de colesterol libre y glicerol."
+        },
+        {
+          "id": "5ec5f999-0b69-482c-8577-3795a4be3541",
+          "text": "Son endocitadas por los hepatocitos a través del receptor SR-BI."
+        },
+        {
+          "id": "c9b57bf6-696e-45d8-85c0-b6a178976935",
+          "text": "Son la principal fuente de colesterol que da origen a la conversión de macrófagos en células espumosas."
+        },
+        {
+          "id": "97e16f71-2cd5-49bd-9ccc-5c87a03dc9f3",
+          "text": "Transportan mayormente triacilgliceroles desde tejidos periféricos hacia el hígado."
+        }
+      ]
+    },
+    {
+      "id": "4e81efc0-87f2-40f0-998a-c90d0a34143f",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "Un adulto consume aproximadamente 0.3 g de colesterol al día. En relación al metabolismo del colesterol podemos afirmar en forma correcta:",
+      "options": [
+        {
+          "id": "1338880c-c71b-449c-85d2-2809e9f72029",
+          "text": "La enzima colesterol 7-alfa-hidroxilasa hepática cataliza la etapa limitante de la velocidad de la síntesis de ácidos biliares.",
+          "correct": true
+        },
+        {
+          "id": "eef7c4c1-01e8-4885-be1c-3e61efa4de1c",
+          "text": "El colesterol aportado en la dieta llega al hígado transportado por la albúmina."
+        },
+        {
+          "id": "17fee302-45af-47d5-be14-575f2ac0c7b0",
+          "text": "El colesterol puede ser fuente de energía a través de intermediarios del ciclo de Krebs."
+        },
+        {
+          "id": "e6090b6f-355c-4d5c-aa3a-7244a9cbdd7f",
+          "text": "La síntesis endógena de colesterol es despreciable y dependemos fundamentalmente del aporte de la dieta."
+        },
+        {
+          "id": "cc182a93-5b57-4f4d-bc20-62ba7d4956ec",
+          "text": "Una fuente importante de colesterol en la dieta es los vegetales."
+        }
+      ]
+    },
+    {
+      "id": "60fdf45a-410c-4519-80cf-6b7c338df4b8",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "Un individuo refiere consumir una dieta cuyo 50% (en gramos) son glúcidos, 20% (en gramos) son proteínas y 30% (en gramos) son lípidos. En un total de 1000 gramos en la dieta, indique la opción correcta:",
+      "options": [
+        {
+          "id": "b33a83a8-adac-437b-aeec-27a50cebcadc",
+          "text": "2000 calorías de la dieta corresponden a glúcidos.",
+          "correct": true
+        },
+        {
+          "id": "33c80a9f-f6e9-45f1-b172-482769fa2a2a",
+          "text": "2000 calorías de la dieta corresponden a lípidos."
+        },
+        {
+          "id": "979a07c3-d2aa-432d-9166-e09ed0d18cc6",
+          "text": "Más del 50 % de las calorías totales corresponde a glúcidos."
+        },
+        {
+          "id": "e97ba160-96f7-445c-8b17-8c4739b3c5c1",
+          "text": "Más del 50% de las calorías totales corresponde a lípidos."
+        },
+        {
+          "id": "d1b188f0-f6fe-4a8e-b939-6b85a1d33c0e",
+          "text": "Se puede concluir con los datos presentados que el individuo presenta una dieta balanceada (respecto a las calorías ingeridas bajo forma de diferentes macronutrientes)."
+        }
+      ]
+    },
+    {
+      "id": "c008a8fd-688b-4c4b-bb3b-cda781736ce0",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "Una deficiencia dietética de vitamina C llevará a una disminución de cuál de las siguientes reacciones o metabolitos:",
+      "options": [
+        {
+          "id": "75411321-6653-41a0-a560-775095b482b4",
+          "text": "Conversión de prolina a hidroxiprolina.",
+          "correct": true
+        },
+        {
+          "id": "da3ef087-cf3c-4538-8e77-80ead9bf20ce",
+          "text": "Conversión de noradrenalina en adrenalina."
+        },
+        {
+          "id": "76cf45dc-4faa-445b-88d8-63354c6a4b9b",
+          "text": "Producción de creatina."
+        },
+        {
+          "id": "d512452f-5bad-4d0e-b665-6f5b8677141a",
+          "text": "Reacciones de transaminación."
+        },
+        {
+          "id": "875021b9-23de-4fe5-a545-4e84d74c9e15",
+          "text": "Tetrahidrofolato."
+        }
+      ]
+    },
+    {
+      "id": "95a38ecf-d465-4463-ba97-de4a56260fd4",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "Una obstrucción de la vía biliar principal provocará una malabsorción de la/s siguientes vitaminas:",
+      "options": [
+        {
+          "id": "127c0118-d9ea-4e18-b8b8-bc2b7b78f94f",
+          "text": "Vitamina A, D, E y K.",
+          "correct": true
+        },
+        {
+          "id": "a3d81d92-70e3-43ec-8400-ddda50075f5b",
+          "text": "Vitamina C y B12."
+        },
+        {
+          "id": "6bf76c34-e398-4a6a-87c3-120a2860b080",
+          "text": "Vitamina E y biotina."
+        },
+        {
+          "id": "258fa605-9cbc-4562-97f4-ad6aba8d06c3",
+          "text": "Vitamina E y ácido fólico."
+        },
+        {
+          "id": "8ce3520d-4fc3-408b-84db-91617f23e991",
+          "text": "Vitamina K y riboflabina."
+        }
+      ]
+    },
+    {
+      "id": "59bef73b-e442-410f-8ca5-0be6b480ec69",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "¿Cuál de los siguientes indicadores permitiría estimar el volumen correspondiente al líquido extracelular en un sujeto de experimentación? Señale la opción correcta.",
+      "options": [
+        {
+          "id": "aee08890-0ad7-4f95-88bc-aad5952665c0",
+          "text": "Inulina.",
+          "correct": true
+        },
+        {
+          "id": "62e1bba4-f1e3-4cc1-963c-a40b7a90c436",
+          "text": "131I-albúmina."
+        },
+        {
+          "id": "2d30e5c5-4486-4625-813a-bbb34b87df6e",
+          "text": "D2O (agua deuterada)."
+        },
+        {
+          "id": "3eb32da8-5d0a-4a9f-a420-26a584296d2b",
+          "text": "HTO (agua tritiada)."
+        },
+        {
+          "id": "7a943f44-38e6-4f7b-83ba-eb52d1fb19e7",
+          "text": "Urea."
+        }
+      ]
+    },
+    {
+      "id": "4a601005-4658-400d-99da-73f99858d3ea",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "¿Cuál de los siguientes sectores del aparato digestivo se encuentra revestido por epitelio cilíndrico simple con abundantes células caliciformes?",
+      "options": [
+        {
+          "id": "f1804450-b8b8-455b-8104-568fcc1fa4ea",
+          "text": "Colon.",
+          "correct": true
+        },
+        {
+          "id": "1d6109e0-d990-401c-8340-b1247687b0fe",
+          "text": "Esófago."
+        },
+        {
+          "id": "153756f9-0fd9-4226-bcb5-3e0ed1d41a9a",
+          "text": "Fundus."
+        },
+        {
+          "id": "fc37b592-3d93-4672-aa90-14eaacf76022",
+          "text": "Píloro."
+        },
+        {
+          "id": "f16ce4ce-7276-4b12-b174-ad6daa2c7900",
+          "text": "Vesícula biliar."
+        }
+      ]
+    },
+    {
+      "id": "70f30309-41f7-4a52-8d5c-69e9405a2fbd",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "¿Dónde se localizan las células madre que dan lugar al revestimiento epitelial de las vellosidades intestinales?",
+      "options": [
+        {
+          "id": "0d8e483e-5f00-4bb6-9b4c-9519ebd73874",
+          "text": "En la mitad inferior de las criptas de Lieberkühn.",
+          "correct": true
+        },
+        {
+          "id": "d93c789a-4d01-46f0-b992-75a0c57fda40",
+          "text": "En el extremo de las vellosidades."
+        },
+        {
+          "id": "a300c0fe-6d44-41ce-b189-81100bcd59d6",
+          "text": "En la lámina propia que rodea la base de las criptas."
+        },
+        {
+          "id": "a71377e4-b59d-4d7d-92f7-d26f5f590a40",
+          "text": "En la mitad inferior de las vellosidades."
+        },
+        {
+          "id": "b2742e9d-f025-4de4-b80b-1021606f9b5a",
+          "text": "En la mitad superior de las criptas de Lieberkühn."
+        }
+      ]
+    },
+    {
+      "id": "825e31e8-4ca6-49d8-9c06-08d849a0a42a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "¿Dónde se ubica el espacio de Disse del hígado?",
+      "options": [
+        {
+          "id": "90d681ac-e531-4bd4-96d3-e3fbfe6134d3",
+          "text": "Entre el endotelio sinusoidal y los hepatocitos.",
+          "correct": true
+        },
+        {
+          "id": "03dc57ac-eb16-411c-9c38-84502c0715b3",
+          "text": "Entre los canalículos biliares y la pared de los hepatocitos."
+        },
+        {
+          "id": "6dee79c2-b1b9-4c15-8d87-35407b2b2bdd",
+          "text": "Por debajo de la cápsula de Glisson."
+        },
+        {
+          "id": "a25ecf6d-b6d2-4880-81c9-ac5f60652149",
+          "text": "Rodea a la tríadas portales."
+        },
+        {
+          "id": "5ea1eb15-34db-4fce-be78-eb76a5a15bee",
+          "text": "Rodea la vena centrolobulillar."
+        }
+      ]
+    },
+    {
+      "id": "070d1d36-5454-42fa-a20f-2614f62315af",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "¿En dónde se localizan las terminaciones axónicas de las células que sintetizan la hormona oxitocina?",
+      "options": [
+        {
+          "id": "5987981d-1faa-42bf-9b06-396af002ef6e",
+          "text": "Neurohipófisis.",
+          "correct": true
+        },
+        {
+          "id": "3c19200a-1a8c-46ed-a1ff-dab07721f9d0",
+          "text": "Adenohipófisis."
+        },
+        {
+          "id": "ab2c007c-eea4-4d93-bf12-55c0f89ae340",
+          "text": "Eminencia media."
+        },
+        {
+          "id": "02fc68f4-737f-42c6-b056-5b80eed602c5",
+          "text": "Hipotálamo."
+        },
+        {
+          "id": "6f569de5-bd64-413e-9d26-38d2cd90bddf",
+          "text": "Pars intermedia."
+        }
+      ]
+    }
+  ],
+  "evaluations": [
+    {
+      "key": "parcial_1",
+      "name": "1° parcial"
+    }
+  ]
+}
