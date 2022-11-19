@@ -6840,6 +6840,639 @@
       ]
     },
     {
+      "id": "cfa82390-239d-4526-98f8-a597a2fc3b46",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-11-26",
+      "text": "Con respecto a la circulación pulmonar.",
+      "options": [
+        {
+          "id": "03b73dc8-f7a5-4ed2-bebd-b16b93d1c67a",
+          "text": "La resistencia vascular pulmonar debe ser menor a la resistencia vascular periférica sistémica debido a que tiene el mismo gasto que la circulación sistémica, pero con presiones menores.",
+          "correct": true
+        },
+        {
+          "id": "8a51225c-5d16-4846-ac5a-fc37dcd53584",
+          "text": "El gasto de la circulación pulmonar es mayor al gasto de la circulación sistémica ya que tiene una menor resistencia vascular y presiones similares."
+        },
+        {
+          "id": "073e32f0-4ee3-4929-a80b-73476c43beb4",
+          "text": "La circulación pulmonar tiene un gasto similar a la circulación sistémica gracias a su marcada autorregulación."
+        },
+        {
+          "id": "28a087dd-a807-44e0-b105-7b2440be2f5f",
+          "text": "La presión arterial pulmonar es similar a la presión arterial sistémica debido a que es una circulación cerrada."
+        },
+        {
+          "id": "55530baa-3ee7-4131-a954-1a1715b5f7da",
+          "text": "Las restantes opciones son falsas."
+        }
+      ]
+    },
+    {
+      "id": "0ec8c4a7-5032-42cc-8cc6-b45ac0c62696",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-11-26",
+      "text": "Con respecto a la intoxicación por monóxido de carbono, marque la opción correcta:",
+      "options": [
+        {
+          "id": "9c94d708-c75e-40c6-8b71-959f74ba6199",
+          "text": "CO puede combinarse con la misma cantidad de hemoglobina que el O2 cuando la PCO es 250 veces más baja que la de PO2.",
+          "correct": true
+        },
+        {
+          "id": "5d2565e2-cf56-45cb-9506-77d640e5b52c",
+          "text": "El monóxido de carbono desvía la curva de disociación del O2 hacia la derecha."
+        },
+        {
+          "id": "dae46ee7-8857-420d-aff8-f44df81d35e6",
+          "text": "El monóxido de carbono se une a la hemoglobina en un sitio diferente al O2."
+        },
+        {
+          "id": "4e84dd1b-294b-4eed-86bf-bcee9a5de954",
+          "text": "La unión de la hemoglobina con el CO forma la carbaminohemoglobina ya que se une a los extremos amino terminales de la misma."
+        },
+        {
+          "id": "7d6daa0a-0c7f-47a5-aa28-4a04292b74b7",
+          "text": "Todas las otras opciones son falsas."
+        }
+      ]
+    },
+    {
+      "id": "9df30814-ac23-44cc-89af-07dc0a4f7a65",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-11-26",
+      "text": "Con respecto a la maldición de Ondina, marque lo correcto:",
+      "options": [
+        {
+          "id": "3d543889-0d7a-44cd-a8c6-53835ad05a80",
+          "text": "Corresponde a la hipoventilación alveolar primaria.",
+          "correct": true
+        },
+        {
+          "id": "96c3ce5f-a10f-4614-adef-da7c37c836b5",
+          "text": "Es un síntoma de la cetoacidosis diabética."
+        },
+        {
+          "id": "b3c6cec4-99da-4a5e-aa13-07f950272ae3",
+          "text": "Puede ser causada por la disminución del tono en el músculo geniogloso."
+        },
+        {
+          "id": "44ce8012-ca8f-47fa-a52e-e4e13190e88c",
+          "text": "Se produce por la ausencia de respiración voluntaria."
+        },
+        {
+          "id": "270b5f95-c65e-4765-958e-0fdaee499c56",
+          "text": "Se suele asociar a parálisis bilateral del VI par craneal."
+        }
+      ]
+    },
+    {
+      "id": "06510079-531b-4636-bca8-450dc12477ea",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-11-26",
+      "text": "Con respecto a las respuestas fisiológicas de aclimatación a la altura desencadenadas por la alcalosis respiratoria, señale la opción correcta:",
+      "options": [
+        {
+          "id": "a9776fc0-f380-43ca-86bf-9313052054e7",
+          "text": "Los quimiorreceptores centrales son inhibidos por la disminución de la concentración de protones (H+).",
+          "correct": true
+        },
+        {
+          "id": "315b0013-04af-4cb4-875a-8addd3a881ab",
+          "text": "En la situación de alcalosis los quimiorreceptores periféricos desencadenan un incremento de la frecuencia ventilatoria."
+        },
+        {
+          "id": "816f062c-31c1-408c-a704-7245b5536abd",
+          "text": "Las restantes opciones no son correctas."
+        },
+        {
+          "id": "1602c76e-1a67-4d78-9836-f02ac8c7aa1a",
+          "text": "Se produce la reabsorción de HCO3- de las células intercaladas B renales hacia la sangre."
+        },
+        {
+          "id": "43182c33-ab4b-4959-b3f5-1f57ce0a4379",
+          "text": "Se produce la secreción de protones (H+) en la nefrona hacia el túbulo colector."
+        }
+      ]
+    },
+    {
+      "id": "27412cfe-42c2-4034-b50c-e4b2119030e3",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-11-26",
+      "text": "Con respecto al intercambio gaseoso a través de la barrera alveolo-capilar, marque la opción correcta:",
+      "options": [
+        {
+          "id": "764fee81-9817-43b6-91b4-d2a93a43099e",
+          "text": "Representa un flujo directamente proporcional al gradiente de presiones parciales de los gases.",
+          "correct": true
+        },
+        {
+          "id": "33de7dbc-9fb5-4510-93c5-b6c0a75a6818",
+          "text": "Las restantes opciones son falsas."
+        },
+        {
+          "id": "463edcfb-0e94-41f1-9715-ce7d748c6942",
+          "text": "Representa un flujo directamente proporcional al espesor de la barrera alveolo-capilar."
+        },
+        {
+          "id": "a56d9ceb-11f1-42bf-b660-e441932202e4",
+          "text": "Representa un flujo en contra del gradiente de presiones parciales de los gases."
+        },
+        {
+          "id": "befa6508-b805-41a4-b002-31d693fadc7d",
+          "text": "Representa un flujo inversamente proporcional al coeficiente de difusión de los gases."
+        }
+      ]
+    },
+    {
+      "id": "73401a49-f1b1-4023-8298-f2e3a3731132",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-11-26",
+      "text": "Con respecto al patrón respiratorio observado en la figura, marque lo correcto:",
+      "image": "73401a49-f1b1-4023-8298-f2e3a3731132.webp",
+      "options": [
+        {
+          "id": "54a89a62-900e-48fc-9027-9c7a096a09d4",
+          "text": "Cuando este patrón se asocia a parálisis bilateral del VI par craneal es un signo de compresión inminente del tronco encefálico.",
+          "correct": true
+        },
+        {
+          "id": "350abae6-6451-4be4-bf2c-87158504c75e",
+          "text": "Corresponde a la hipoventilación alveolar primaria."
+        },
+        {
+          "id": "83398c26-1037-4e44-a5ab-86458ba9ba55",
+          "text": "Corresponde al patrón de Cheyne-Stokes."
+        },
+        {
+          "id": "afc05949-7950-4678-861b-ff60a1d64ca7",
+          "text": "Es un síntoma de la cetoacidosis diabética."
+        },
+        {
+          "id": "b08a5ab5-0c3d-4f93-b7da-df264b6d25ad",
+          "text": "Se produce por una obstrucción de la vía aérea."
+        }
+      ]
+    },
+    {
+      "id": "4479faea-fa50-4b16-ba29-2a753e62e388",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-11-26",
+      "text": "Con respecto al trabajo respiratorio, marque lo correcto:",
+      "options": [
+        {
+          "id": "e453f126-87e2-4661-bbd9-4abefec96dd4",
+          "text": "El trabajo elástico se almacena como energía potencial.",
+          "correct": true
+        },
+        {
+          "id": "f1f0cf9c-f6e4-4e3b-8cd3-256e684e9769",
+          "text": "El trabajo inercial es el más importante."
+        },
+        {
+          "id": "95c2305d-0011-4215-89f9-004780914467",
+          "text": "El trabajo resistivo depende de la compliance pulmonar."
+        },
+        {
+          "id": "cb82b832-c672-4e3b-9de4-89a08f5ccc7a",
+          "text": "El trabajo resistivo es mayor al trabajo elástico."
+        },
+        {
+          "id": "85347d29-b640-47f1-8135-5d10bbb98c9f",
+          "text": "Es mayor que el trabajo del ventrículo izquierdo."
+        }
+      ]
+    },
+    {
+      "id": "408212e5-a2f4-441c-a7c1-7f4988d6a1de",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-11-26",
+      "text": "Con respecto al transporte de CO2 en sangre, marque lo correcto:",
+      "options": [
+        {
+          "id": "e59909ed-20d7-4e4a-bc49-45d81e318760",
+          "text": "La afinidad de la hemoglobina por el CO2 es mayor en los tejidos que en los capilares de los alvéolos.",
+          "correct": true
+        },
+        {
+          "id": "752444be-e26a-411e-8c8a-14d892fdb41e",
+          "text": "La mayor parte del CO2 se transporta disuelto en el plasma."
+        },
+        {
+          "id": "22e64646-e0ed-4baa-8982-83df5f956c7e",
+          "text": "La mayor parte del CO2 se transporta unido a la hemoglobina."
+        },
+        {
+          "id": "5f8b7097-0d27-4758-8f67-df5c6f0fe328",
+          "text": "La presión parcial de CO2 no influye en el pH plasmático."
+        },
+        {
+          "id": "9f892b8d-c810-4310-a402-19388e97f9b4",
+          "text": "Todas las otras opciones son falsas."
+        }
+      ]
+    },
+    {
+      "id": "6e3e2883-bce9-4df6-b239-c6e235dafda7",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-11-26",
+      "text": "Con respecto al transporte de gases hacia los tejidos, marque lo correcto:",
+      "options": [
+        {
+          "id": "e1b8f50a-c25f-4215-ae99-c19deffc6f9e",
+          "text": "El \"espesor\" del área de intercambio puede ser disminuido por el reclutamiento de capilares.",
+          "correct": true
+        },
+        {
+          "id": "659a70a7-408d-4d8b-82c9-9ea361f14004",
+          "text": "Es un mecanismo activo en contra del gradiente de concentración."
+        },
+        {
+          "id": "eabc3874-1a86-4f93-9aed-3d2ec52bd3aa",
+          "text": "La presión parcial de CO2 aumenta mucho durante el ejercicio y por mucho tiempo."
+        },
+        {
+          "id": "5505095c-8a5f-4cd8-a8e9-ca497855d857",
+          "text": "La zona de intercambio tiene un área mayor a la de la membrana alveolo-capilar."
+        },
+        {
+          "id": "d48e8046-beb6-4a5d-93fd-9c1babd31eeb",
+          "text": "Todas las otras opciones son falsas."
+        }
+      ]
+    },
+    {
+      "id": "b5b71ec3-c882-4732-b9a6-31b8a4b3b1fe",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-11-26",
+      "text": "Durante la realización de ejercicio físico con una correcta respuesta fisiológica, si se comparan las presiones parciales de O2 y CO2 durante el ejercicio con respecto al reposo. Marque la opción correcta:",
+      "options": [
+        {
+          "id": "4755fd88-d35d-4abf-83a6-9835bd5bab49",
+          "text": "La presión parcial venosa de O2 disminuye y la presión parcial arterial de O2 no se modifica.",
+          "correct": true
+        },
+        {
+          "id": "ea023370-508a-438e-9ff3-23977eaf4c32",
+          "text": "La presión parcial arterial de O2 disminuye y la presión parcial arterial de CO2 aumenta."
+        },
+        {
+          "id": "c7c0520a-052d-4452-bd08-167a9aca961e",
+          "text": "Las presiones parciales arteriales de O2 y de CO2 aumentan."
+        },
+        {
+          "id": "31cbd7fd-3c1a-456b-b748-fd73f436bfc3",
+          "text": "Las presiones parciales venosas de O2 y de CO2 disminuyen y la presión parcial arterial de CO2 disminuye."
+        },
+        {
+          "id": "b634e039-a4d7-42b0-9c7f-4f99058a3ad0",
+          "text": "Las restantes opciones no son correctas."
+        }
+      ]
+    },
+    {
+      "id": "cd9f5fd5-8814-4c64-9e59-eee2d3df22a1",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-11-26",
+      "text": "Durante la realización de ejercicio físico intenso con una correcta respuesta fisiológica, se desencadenan los siguientes mecanismos. Marque la opción correcta:",
+      "options": [
+        {
+          "id": "0696a2ac-2ef4-45ca-a818-d12c0baa119f",
+          "text": "Los quimiorreceptores del seno carotideo responden a un aumento en la concentración de protones (H+).",
+          "correct": true
+        },
+        {
+          "id": "709e3985-f1e9-4219-ae4e-c9de2ed8df6d",
+          "text": "Las restantes opciones no son correctas."
+        },
+        {
+          "id": "0aa0ffbf-08f5-4721-8887-1a4eaf53dec9",
+          "text": "Los quimiorreceptores centrales disminuyen su actividad frente a una caída de la presión parcial de CO2 arterial."
+        },
+        {
+          "id": "414a6a8f-9075-4fd4-a26f-ae9e43e2322d",
+          "text": "Ocurre un incremento en la frecuencia ventilatoria como respuesta a un aumento del pH."
+        },
+        {
+          "id": "39604d3e-d61f-4944-b752-ea71f4609e6f",
+          "text": "Un aumento de la temperatura tiene como efecto un desplazamiento de la curva de disociación de la hemoglobina hacia la izquierda."
+        }
+      ]
+    },
+    {
+      "id": "d34ee138-8ed0-4e04-84e5-df01bba3ab34",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-11-26",
+      "text": "La capacidad residual funcional (marque la opción correcta):",
+      "options": [
+        {
+          "id": "e1ede366-064f-45b1-83bf-28b88a36a960",
+          "text": "Es la cantidad de aire que suma el volumen residual y el volumen de reserva espiratorio.",
+          "correct": true
+        },
+        {
+          "id": "8b116559-51cf-41a3-9458-3101885d3501",
+          "text": "Es la cantidad de aire que puede movilizarse al realizar una espiración forzada."
+        },
+        {
+          "id": "120a455f-c084-49e2-8b8b-5872980f7331",
+          "text": "Es la cantidad de aire que puede movilizarse al realizar una inspiración forzada."
+        },
+        {
+          "id": "2ba23627-8694-4986-a5d5-8aa6da69ca0e",
+          "text": "Es la cantidad de aire que suma el volumen corriente y el volumen de reserva inspiratorio."
+        },
+        {
+          "id": "1a3166ad-98cf-4d85-bbe1-3ba40f4cd97c",
+          "text": "Las restantes opciones son falsas."
+        }
+      ]
+    },
+    {
+      "id": "02229a4b-d858-4995-876a-0b27ac5c0e5b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-11-26",
+      "text": "La figura muestra el efecto de la gravedad sobre la presión de perfusión pulmonar.",
+      "image": "02229a4b-d858-4995-876a-0b27ac5c0e5b.webp",
+      "options": [
+        {
+          "id": "a8a9051b-aeb6-4e08-ab6f-39e9dcf998d3",
+          "text": "Los capilares de la zona 1 están perfundidos solamente durante la sístole.",
+          "correct": true
+        },
+        {
+          "id": "c644a28d-6329-49d9-8f50-6fb02adfacda",
+          "text": "El efecto de la gravedad sobre la presión de perfusión pulmonar es muy pequeño e influye muy poco en la presión arterial pulmonar."
+        },
+        {
+          "id": "6b167c79-3235-46be-addf-26fb8bb14b6c",
+          "text": "La presión de perfusión pulmonar es mayor en la zona 1."
+        },
+        {
+          "id": "e466c1a0-38d2-465e-b6da-0227a6e868e4",
+          "text": "Los capilares de la zona 3 están perfundidos solamente durante la sístole."
+        },
+        {
+          "id": "0cc7b5e9-36ad-46d0-bf9e-558af34f502f",
+          "text": "Todas las otras opciones son falsas."
+        }
+      ]
+    },
+    {
+      "id": "cfcf25f4-f736-4306-a80d-1c70b3ee16e5",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-11-26",
+      "text": "La resistencia al flujo de aire (marque la opción correcta):",
+      "options": [
+        {
+          "id": "fbc4cf47-9251-40af-ad75-aac2a46fc907",
+          "text": "Varía inversamente con el radio a la cuarta potencia en condiciones de flujo laminar.",
+          "correct": true
+        },
+        {
+          "id": "3b651c46-bbaa-4c05-a835-0bada821fa26",
+          "text": "Las restantes opciones son falsas."
+        },
+        {
+          "id": "9e374692-4f01-4ce4-860b-d4be59be6e32",
+          "text": "Varía de forma directamente proporcional con el radio a la cuarta potencia."
+        },
+        {
+          "id": "cac5e3a7-4577-4957-91dc-270100873379",
+          "text": "Varía de forma inversamente proporcional con el largo de la vía aérea."
+        },
+        {
+          "id": "49ec409e-0b7b-4a19-a4e5-8a9c48adb899",
+          "text": "Varía de forma inversamente proporcional con la viscosidad del fluido."
+        }
+      ]
+    },
+    {
+      "id": "1199d95d-177c-44bf-8c58-eddb5f96229a",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-11-26",
+      "text": "La siguiente figura es un esquema de la circulación pulmonar de un sujeto presenta área ventilada pero no perfundida debido a la presencia de un émbolo pulmonar donde se señalan la concentración venosa de O2 (CvO2), la concentración de O2 en la sangre que no pasa por el émbolo (CcO2), y concentración de O2 en la sangre mesclada que llega a la aorta (CaO2). Marque la opción correcta.",
+      "image": "1199d95d-177c-44bf-8c58-eddb5f96229a.webp",
+      "options": [
+        {
+          "id": "28e915e1-25f8-40e5-bdd4-ea0c556244b6",
+          "text": "En A la PO2 será menor que en B.",
+          "correct": true
+        },
+        {
+          "id": "46c086ac-ad05-4b09-8029-f10746730bec",
+          "text": "En A la PCO2 será menor que en B."
+        },
+        {
+          "id": "e00748be-0177-42f4-bf49-42afe9ff6096",
+          "text": "En B la relación ventilación/perfusión (relación V/Q) tiende a 0."
+        },
+        {
+          "id": "6ba404a6-8cf0-42b5-ba42-57d6f5f0d9c1",
+          "text": "Este paciente se beneficiaría mucho si se ventila con una FO2 muy elevada."
+        },
+        {
+          "id": "f5c2882d-c887-4a6d-a0dd-1f0ae8e8a4ca",
+          "text": "Todas las otras opciones son falsas."
+        }
+      ]
+    },
+    {
+      "id": "c59e513e-2625-45f7-a3a9-67976928fed5",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-11-26",
+      "text": "Respecto al surfactante pulmonar (marque la opción correcta):",
+      "options": [
+        {
+          "id": "dff1f679-9c41-4c8b-a61b-a0e0a3e21d61",
+          "text": "Tiene como principal componente al fosfolipido dipalmitoilfosfatidilcolina.",
+          "correct": true
+        },
+        {
+          "id": "53e855db-76cf-425b-8466-92e42d660202",
+          "text": "Es secretado por los monocitos tipo 2 a partir de la cuarta semana de gestación."
+        },
+        {
+          "id": "df353438-22f0-4b25-8e76-b5e000759801",
+          "text": "Facilita el vaciado de alvéolos pequeños en alvéolos grandes."
+        },
+        {
+          "id": "430a901f-13c0-44ac-99b0-6554188b4736",
+          "text": "Las restantes opciones son falsas."
+        },
+        {
+          "id": "16fd9720-932b-410c-9121-f178bea6d574",
+          "text": "Varía la relación ΔV/ΔP haciendo menos distensible al pulmón."
+        }
+      ]
+    },
+    {
+      "id": "54e41491-62e2-4891-870f-8369195dccdc",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-11-26",
+      "text": "Un hombre es encontrado muerto en el baño de su casa donde se estaba duchando. Tenía encendido un calefón a gas. ¿Cuál es el estudio más importante que debe indicar el médico forense en esta circunstancia?",
+      "options": [
+        {
+          "id": "44c71992-06e1-42d9-875f-e422a2fdb4a2",
+          "text": "Dosificación de carboxihemoglobina.",
+          "correct": true
+        },
+        {
+          "id": "644cdc8a-a1af-4c0e-ae5e-311374f1572d",
+          "text": "Determinación del pH sanguíneo."
+        },
+        {
+          "id": "5ddedc12-d46e-44c5-9a2b-e8f09cfa1ce3",
+          "text": "Dosificación de 2,3-difosfoglicerato."
+        },
+        {
+          "id": "be96e258-f3f3-4c27-bbb9-cb5121a2fbda",
+          "text": "Dosificación de carbaminohemoglobina."
+        },
+        {
+          "id": "3ea62a1f-4731-4024-b650-b1e0687cb1bb",
+          "text": "Dosificación de metahemoglobina."
+        }
+      ]
+    },
+    {
+      "id": "dc70b467-b852-4429-b0a7-ba4bdc52310f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-11-26",
+      "text": "Un individuo asciende desde el nivel del mar a una altura de 5000 metros sobre el nivel del mar. Con respecto a la respuesta fisiológica que se desencadena, señale la opción correcta:",
+      "options": [
+        {
+          "id": "bf714dd5-ae83-4e8f-a768-cf740c092b5d",
+          "text": "Inicialmente, las aferentes de los quimioreceptores periféricos aumentan su frecuencia de descarga.",
+          "correct": true
+        },
+        {
+          "id": "4e31411b-0b7b-4ef6-8425-60bf20644a13",
+          "text": "El gradiente de presiones parciales de CO2 alveolo-capilar disminuye."
+        },
+        {
+          "id": "d1f40c3c-9f11-4b24-8419-27189a588ca0",
+          "text": "Las restantes opciones no son correctas."
+        },
+        {
+          "id": "42cf2ccb-0fea-4f44-85f8-5007a344c89b",
+          "text": "Se produce una disminución de la presión parcial de CO2 arterial."
+        },
+        {
+          "id": "8defebd4-f6ed-48a0-94a4-e10474ae058a",
+          "text": "Una disminución de la presión parcial arterial de CO2 provoca inicialmente aumento de la frecuencia ventilatoria."
+        }
+      ]
+    },
+    {
+      "id": "b552bd8d-4154-4586-9a18-d1c95a3c7f2d",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-11-26",
+      "text": "Un paciente internado en el hospital sufre un cambio brusco del pH del plasma de origen metabólico. Inmediatamente se le realizan estudios de laboratorio. Se encuentra que su pH es de 7.25. Para compensar esta alteración, la respiración del paciente será (marque lo correcto):",
+      "options": [
+        {
+          "id": "a8f1e1f7-d4af-4e14-a153-1395a2645e1d",
+          "text": "Más rápida, esto determinará una disminución de la concentración del ácido carbónico.",
+          "correct": true
+        },
+        {
+          "id": "801dc4e5-c9fb-4f37-a588-2c27b3e894ff",
+          "text": "Más lenta, esto determinará un aumento de la concentración del ión bicarbonato."
+        },
+        {
+          "id": "aecd8df3-40b3-47d0-9ac1-b4763e9c5f32",
+          "text": "Más lenta, esto determinará un aumento de la concentración del ácido carbónico."
+        },
+        {
+          "id": "4de9d314-e9c2-4e3a-93ef-c49fb9badd7f",
+          "text": "Más lenta, esto determinará un aumento del pH."
+        },
+        {
+          "id": "ea7e31e7-3600-459f-81bb-81605c345a16",
+          "text": "Más rápida, esto determinará un aumento de la concentración del ión bicarbonato."
+        }
+      ]
+    },
+    {
+      "id": "6a9bb480-371c-4b06-a305-e46430ba7582",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-11-26",
+      "text": "¿Cuál es el efecto que produce una alcalosis por hiperventilación sobre el transporte de oxígeno? Marque lo correcto.",
+      "options": [
+        {
+          "id": "51170a61-bd27-4999-93bd-88b927acfd86",
+          "text": "Una disminución de la P50 y, por consiguiente, un aumento de la afinidad de la hemoglobina por el oxígeno.",
+          "correct": true
+        },
+        {
+          "id": "dbd0a45b-6e4d-4575-8b64-1c458506ed8f",
+          "text": "Un aumento de la P50 y, por consiguiente, un aumento de la afinidad de la hemoglobina por el oxígeno."
+        },
+        {
+          "id": "c9488f0a-9065-454f-9910-9cde0b798770",
+          "text": "Un aumento de la P50 y, por consiguiente, una disminución de la afinidad de la hemoglobina por el oxígeno."
+        },
+        {
+          "id": "0c2fc7bf-608b-414b-9d53-220c9d28884f",
+          "text": "Una P50 y una afinidad de la hemoglobina por el oxígeno incambiadas, con un aumento del porcentaje máximo de saturación de la hemoglobina."
+        },
+        {
+          "id": "1afcf741-b508-423f-a97d-6a1ee02f553b",
+          "text": "Una disminución de la P50 y, por consiguiente, una disminución de la afinidad de la hemoglobina por el oxígeno."
+        }
+      ]
+    },
+    {
+      "id": "fa43fcb8-8486-4893-986d-79667b68cab3",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-11-26",
+      "text": "¿Cuál es el principal destino del hidrogenión generado como consecuencia de la hidratación del anhídrido carbónico, reacción catalizada por la anhidrasa carbónica? Marque lo correcto.",
+      "options": [
+        {
+          "id": "d1313823-3257-4435-999c-5a886ed5c3f8",
+          "text": "Unirse a la hemoglobina para dar hemoglobina protonada.",
+          "correct": true
+        },
+        {
+          "id": "4782454d-9e52-403e-92c7-cede14de5a49",
+          "text": "Difundir hacia el plasma para unirse a las proteínas plasmáticas."
+        },
+        {
+          "id": "d05ff402-b74c-47a5-9846-54e041fd7f56",
+          "text": "Difundir hacia el plasma para unirse al ion bicarbonato."
+        },
+        {
+          "id": "7a0ef7bf-688b-40e6-bd84-e796121e3049",
+          "text": "Salir del eritrocito por intermedio del transportador cloruro-protón."
+        },
+        {
+          "id": "072b319e-0dd8-4c2d-accc-54d040d5d973",
+          "text": "Unirse al oxígeno para dar agua."
+        }
+      ]
+    },
+    {
       "id": "8de9878f-9c5b-4e61-a64d-8339377babe9",
       "evaluation": "parcial_2",
       "source": "exam",
