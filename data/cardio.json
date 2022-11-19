@@ -6840,6 +6840,828 @@
       ]
     },
     {
+      "id": "9c2a8eb8-a27e-42dd-905c-faa2676ffbad",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-28",
+      "text": "Con respecto a la circulación sanguínea pulmonar de un individuo adulto sano, marque lo correcto.",
+      "options": [
+        {
+          "id": "97ba8772-5342-44fc-9aad-a434454ed67c",
+          "text": "Todas las otras respuestas son incorrectas.",
+          "correct": true
+        },
+        {
+          "id": "ae7a84d1-53a5-49d8-a0fb-028601c3a5b6",
+          "text": "Al igual que la circulaión coronaria, presenta autorregulación del flujo sanguíneo."
+        },
+        {
+          "id": "48f011ef-4527-4885-9162-64d9a1355fe9",
+          "text": "En un sujeto sentado el flujo sanguíneo se distribuye homogeneamente en todos los sectores pulmonares (ejemplo, sector apical y basal)."
+        },
+        {
+          "id": "ce216136-cd69-40cd-8215-df9eef9c7b97",
+          "text": "Las paredes de los vasos sanguíneos no presentan receptores hormonales como mecanimo adaptativo que permite mantenerlos dilatados incluso en situaciones de baja presión media."
+        },
+        {
+          "id": "2c376cbb-1a91-4d16-b567-d4023c8ff53c",
+          "text": "Sus niveles de presión arterial se triplican o cuatriplican cuando el gasto cardíaco pasa de 5 a 6 litros/minuto."
+        }
+      ]
+    },
+    {
+      "id": "3048d618-8f5a-4008-83c4-d444cfb0ef1b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-28",
+      "text": "Con respecto a la enfermedad por descompresión.",
+      "options": [
+        {
+          "id": "693639a6-4728-4a47-b776-b61404f7e2b5",
+          "text": "El descenso rápido de la presión externa facilita la formación de burbujas de N2 en los tejidos.",
+          "correct": true
+        },
+        {
+          "id": "b1a4f98c-ef5b-41af-8518-35a5935dc7ed",
+          "text": "Ante los síntomas de enfermedad por descompresión se recomienda descender a mayor profundidad."
+        },
+        {
+          "id": "0d2d9829-adc8-4c73-8de7-97a56e25f7ca",
+          "text": "La cámara de descompresión o hiperbárica ayuda a los que sufren enfermedad por descompresión porque aumenta mucho la fracción inspirada de oxígeno."
+        },
+        {
+          "id": "0e8485bc-f847-40ad-8759-925d84632321",
+          "text": "La elevada presión parcial de N2 es peligrosa solamente por sus efectos neuroquímicos."
+        },
+        {
+          "id": "ff2486bd-173c-4374-9c75-f843720f09d1",
+          "text": "Se debe a que el N2 tiene una solubilidad muy baja en los tejidos."
+        }
+      ]
+    },
+    {
+      "id": "1d5b25ce-08e6-4c57-95c4-a60bf966ff2a",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-28",
+      "text": "Con respecto a la intoxicación por monóxido de carbono, marque la opción correcta.",
+      "options": [
+        {
+          "id": "96dedc29-7fec-477b-8687-284977d6fbb6",
+          "text": "CO puede combinarse con la misma cantidad de Hb que el O2 cuando la PCO es 250 veces más baja que la de O2.",
+          "correct": true
+        },
+        {
+          "id": "658f0860-bf86-46d4-bfeb-2c309b81d7e7",
+          "text": "El monóxido de carbono desvía la curva de disociación del O2 hacia la derecha."
+        },
+        {
+          "id": "ff841cba-3348-4f6f-8f2c-620186e89d6a",
+          "text": "El monóxido de carbono se une a la hemoglobina en un sitio diferente al O2."
+        },
+        {
+          "id": "b53558b5-a2ba-4141-9d20-bc33f6ad9c35",
+          "text": "La unión de la hemoglobina con el CO forma la carbaminohemoglobina ya que se une a los extremos aminoterminales de la misma."
+        },
+        {
+          "id": "b502a74a-efe9-4bfc-a149-e809012a5b4e",
+          "text": "Todas las otras respuestas son falsas."
+        }
+      ]
+    },
+    {
+      "id": "fe877f90-3f3f-4ebc-b289-f06802d4d4d6",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-28",
+      "text": "Con respecto a la respiración durante el ciclo sueño vigilia señale la opción correcta:",
+      "options": [
+        {
+          "id": "53c6f923-0d0b-4c49-909e-7da2bd9004fd",
+          "text": "La respuesta de los receptores a los cambios de la PO2 se encuentra disminuida tanto en el sueño NREM (sueño lento) como en el sueño REM.",
+          "correct": true
+        },
+        {
+          "id": "1135fc0e-ba66-4e66-85bf-23011348edff",
+          "text": "Durante el sueño NREM (sueño lento) aumenta el volumen minuto; mientras que disminuye durante el sueño REM."
+        },
+        {
+          "id": "4e0e81b3-b1b0-4ecf-a60b-07f483173c29",
+          "text": "La respuesta a los aumentos de PCO2 se encuentra aumentada durante el sueño NREM (sueño lento) produciendo grandes aumentos de la frecuencia respiratoria."
+        },
+        {
+          "id": "8c32c549-c031-4552-a219-d4877489403d",
+          "text": "Todas las otras respuestas son incorrectas."
+        }
+      ]
+    },
+    {
+      "id": "3d9cdc70-5b37-4800-b018-af22d487cc8f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-28",
+      "text": "Con respecto a las adaptaciones a la altura, marque la opción correcta:",
+      "options": [
+        {
+          "id": "eb0d64fb-b850-42e6-9d29-c02dc201ff18",
+          "text": "El aumento de la capilaridad mejora la difusión de O2 a los tejidos.",
+          "correct": true
+        },
+        {
+          "id": "7d9150e1-2c2f-4d93-bbec-a4d92ae73796",
+          "text": "El cambio más rápido es la aparición de poliglobulia."
+        },
+        {
+          "id": "b0e49836-1b59-484f-be49-9f8e4b0a3630",
+          "text": "El descenso de la presión barométrica disminuye la FiO2."
+        },
+        {
+          "id": "cd94f9a0-b434-4ebd-96cb-ccd83321b1c0",
+          "text": "La hiperventilación produce acidosis."
+        },
+        {
+          "id": "2d478ae9-50b7-4ecb-8dd3-586206f7242f",
+          "text": "Se caracteriza por la adaptación a la hipercapnia."
+        }
+      ]
+    },
+    {
+      "id": "5837adaf-610b-4615-969e-2a7010b0c77a",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-28",
+      "text": "Con respecto a las adaptaciones al buceo en hiperbaria, marque la opción correcta.",
+      "options": [
+        {
+          "id": "4e244f11-31ab-42bc-abf6-a955ccc262a7",
+          "text": "El ascenso rápido puede producir barotrauma.",
+          "correct": true
+        },
+        {
+          "id": "92f43df5-f7d0-4263-accb-fedf6b57884c",
+          "text": "Cuando se bucea a gran profundidad es recomendable respirar una mescla de aire similar a la atmosférica."
+        },
+        {
+          "id": "66877a8b-fe66-46e4-8ba9-03b06388313f",
+          "text": "El N2 no tiene ningún efecto sobre el sistema nervioso central."
+        },
+        {
+          "id": "f5e94230-d0b6-41ba-a3db-c892ca5219dd",
+          "text": "El aumento de la presión barométrica aumenta la fracción inspirada de oxígeno."
+        },
+        {
+          "id": "e3f39bf3-3848-4d88-a4f1-052524def7d0",
+          "text": "El aumento de la presión parcial de oxígeno facilita el intercambio gaseoso."
+        }
+      ]
+    },
+    {
+      "id": "4dbf73e9-3287-43a7-9631-7b9a461d9f9f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-28",
+      "text": "Con respecto al control de la ventilación, señale la opción correcta:",
+      "options": [
+        {
+          "id": "d8016302-6930-4bde-9f49-1a83db9ad3c6",
+          "text": "La inspiración forzada requiere de la activación coordinada de varios grupos musculares (principalmente diafragma e intercostales externos).",
+          "correct": true
+        },
+        {
+          "id": "c2801a7b-672c-4416-8e4c-e847e2e360c1",
+          "text": "El grupo de neuronas bulbares dorsal (espiratorio) se activa durante el ejercicio, disminuyendo la frecuencia respiratoria y prolongando la duración de la inspiración."
+        },
+        {
+          "id": "a6f8ec8c-df71-4460-a39e-6aec3c31c7b9",
+          "text": "La espiración en reposo requiere la activación coordinada e intensa de varios grupos musculares espiratorios (entre otros el diafragma e intercostales internos y externos)."
+        },
+        {
+          "id": "211b927a-af7d-4a58-95c2-07b488dfe99f",
+          "text": "Todas las otras respuestas son incorrectas."
+        }
+      ]
+    },
+    {
+      "id": "95eca582-028e-449f-a5fb-c9f5611eca51",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-28",
+      "text": "Con respecto al control de la ventilación, señale la opción correcta:",
+      "options": [
+        {
+          "id": "df17468c-d606-4299-8873-acc268d99587",
+          "text": "La periodicidad de la inspiración y la espiración está controlada por grupos de neuronas localizadas en la protuberancia y en el bulbo raquídeo.",
+          "correct": true
+        },
+        {
+          "id": "aaee30cf-e14e-4e2d-94f4-fbf45d551599",
+          "text": "La corteza cerebral presenta centros específicos que participan en el control involuntario de la ventilación generando el patrón rítmico de descarga en el reposo."
+        },
+        {
+          "id": "2a5b5daa-c2cc-4255-9a9b-0c95d19d2ea7",
+          "text": "Las motoneuronas de la corteza cerebral inervan directamente a los músculos respiratorios e integran la información proveniente de centros superiores y de los receptores sensoriales."
+        },
+        {
+          "id": "dc45d15d-db0d-439e-9f83-ba25d37b133b",
+          "text": "Todas las otras respuestas son incorrectas."
+        }
+      ]
+    },
+    {
+      "id": "97093baa-c401-49e1-936e-dfa17cb4e28a",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-28",
+      "text": "De acuerdo a los eventos mecánicos dinámicos que ocurren en un ciclo respiratorio normal, indique la opción correcta:",
+      "options": [
+        {
+          "id": "e0de19e6-0703-4bd3-9a76-45c0ea9646d6",
+          "text": "Durante la inspiración, la presión alveolar toma valores menores a la presión atmosférica, generando un gradiente de presiones desde la boca hacia los alvéolos.",
+          "correct": true
+        },
+        {
+          "id": "a9c0762c-57c9-43f8-b006-99c52f576cda",
+          "text": "Al final de la espiración, la presión alveolar es menor que la presión atmosférica."
+        },
+        {
+          "id": "11ee078f-b290-4e4c-8d03-de500d2f9177",
+          "text": "Al final de la inspiración, el flujo de aire es máximo."
+        },
+        {
+          "id": "f810b068-3659-4c79-97c8-c1ec0fb8f213",
+          "text": "La fase inspiratoria tiene la misma duración que la fase espiratoria."
+        },
+        {
+          "id": "fec2a4b2-8677-4e7a-83b3-55318604be95",
+          "text": "La presión intrapleural es únicamente negativa en la fase espiratoria."
+        }
+      ]
+    },
+    {
+      "id": "0a082f7b-e20d-4982-a034-7cf7e65de89b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-28",
+      "text": "Durante el sueño se modifica la actividad del sistema nervioso autónomo señale la afirmación correcta:",
+      "options": [
+        {
+          "id": "76df39f9-3602-413e-b6f4-e3efceff33ec",
+          "text": "El sistema parasimpático aumenta su actividad durante el sueño NREM (sueño lento).",
+          "correct": true
+        },
+        {
+          "id": "645843cf-b931-4619-be01-a94188311b6a",
+          "text": "El sistema simpático presenta descargas fásicas durante el sueño NREM (sueño lento), y cesa completamente su actividad durante el sueño REM y en las primeras dos horas del despertar."
+        },
+        {
+          "id": "1bd426dd-8171-4516-a752-ccab5955509a",
+          "text": "El tono del sistema simpático aumenta durante el sueño NREM (sueño lento) y no presenta actividad durante el sueño REM."
+        },
+        {
+          "id": "7f9f15f2-241e-4c34-8388-72e995d5217c",
+          "text": "Todas las otras respuestas son incorrectas."
+        }
+      ]
+    },
+    {
+      "id": "7d37957c-5b44-4b03-ad76-90f0d153c459",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-28",
+      "text": "En el esquema que se presenta a continuación indique cuál de los siguientes pasos está catalizado enzimáticamente. Nota: aunque las reacciones son reversibles en el esquema se indican en el sentido fisiológico.",
+      "image": "7d37957c-5b44-4b03-ad76-90f0d153c459.webp",
+      "options": [
+        {
+          "id": "9a0eceb5-03ad-4151-8d57-2e57161099cb",
+          "text": "Paso b.",
+          "correct": true
+        },
+        {
+          "id": "9e3dae1d-24ac-427a-b39d-96e0b2b24f14",
+          "text": "Paso a."
+        },
+        {
+          "id": "adf88c13-6073-46a1-8916-ad2ebe11c451",
+          "text": "Paso c."
+        },
+        {
+          "id": "b744e7f9-d137-4d24-ae94-f332f49835a8",
+          "text": "Paso d."
+        },
+        {
+          "id": "4b2e3af8-bab2-4436-87bb-3cd23a127ff5",
+          "text": "Paso e."
+        }
+      ]
+    },
+    {
+      "id": "27d75a72-3e7d-4d84-b902-29dbe641dceb",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-28",
+      "text": "En relación a la mecánica respiratoria durante una espiración forzada, indique la opción correcta:",
+      "options": [
+        {
+          "id": "06c8d96f-d4bf-4745-936c-12013a3c7eb8",
+          "text": "Puede ocurrir la compresión dinámica de las vías aéreas.",
+          "correct": true
+        },
+        {
+          "id": "f260fc25-ba40-4494-b09b-4505cf749816",
+          "text": "Es un fenómeno donde no hay consumo de energía."
+        },
+        {
+          "id": "77df0008-dccf-493d-a031-e48f1e1554f0",
+          "text": "Existe un reclutamiento del diafragma."
+        },
+        {
+          "id": "b8996d53-ed33-40e6-a35a-e12060f04665",
+          "text": "La presión dentro de las vías aéreas de conducción es siempre superior a la presión intrapleural."
+        }
+      ]
+    },
+    {
+      "id": "63f04bf2-096c-46d6-b55a-29945ebc291b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-28",
+      "text": "En relación a las resistencias de las vías aéreas, indique la opción correcta:",
+      "options": [
+        {
+          "id": "427e6957-af2b-405f-ab49-b2d6b21bc0c2",
+          "text": "Disminuye al aumentar el volumen pulmonar.",
+          "correct": true
+        },
+        {
+          "id": "49589798-c179-40fa-87ec-2cd9f140d855",
+          "text": "Es constante a lo largo de todo el ciclo respiratorio."
+        },
+        {
+          "id": "b0949b1e-adbb-4fb0-8ee1-cbffe89df06e",
+          "text": "Es inversamente proporcional a la segunda potencia del radio."
+        },
+        {
+          "id": "0e95c41e-4749-4887-9c7e-a25eb91661b9",
+          "text": "No cambia con la viscosidad o densidad del aire."
+        }
+      ]
+    },
+    {
+      "id": "53a933cd-7998-425e-bc72-66f69802ac72",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-28",
+      "text": "Indique a qué sitio de la hemoglobina se une el CO2 para modular la afinidad de la hemoglobina por el oxígeno.",
+      "options": [
+        {
+          "id": "178a39bb-95aa-4a64-9bea-1e06405d9baa",
+          "text": "A residuos amino terminales de globinas, en forma covalente.",
+          "correct": true
+        },
+        {
+          "id": "0a2e81e5-ddee-4551-b0d3-f63d1209e047",
+          "text": "A la histidina distal."
+        },
+        {
+          "id": "2fb37751-9e86-40f8-84ae-e2a82f04e694",
+          "text": "A los residuos de aminoácidos que rodean la cavidad central que se encuentra entre las cuatro subunidades."
+        },
+        {
+          "id": "d6b6c0e4-cd79-411b-8a1f-f79986f4bcc4",
+          "text": "A una glutamina de las cadenas alfa."
+        },
+        {
+          "id": "c3cf304c-9a68-4843-a6f3-1905e0fe919a",
+          "text": "Al hemo, compitiendo con el oxígeno."
+        }
+      ]
+    },
+    {
+      "id": "bf7f7f18-9dca-482b-8e04-723d26412070",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-28",
+      "text": "Indique cuál es el principal sistema buffer del glóbulo rojo.",
+      "options": [
+        {
+          "id": "69c456c1-ddf0-4a44-be00-116074a1d924",
+          "text": "Deoxihemoglobina/deoxihemoglobinato.",
+          "correct": true
+        },
+        {
+          "id": "3c5d7d7c-9479-40d8-b68b-f80d7763a0c3",
+          "text": "HCO3-K+/CO2."
+        },
+        {
+          "id": "7da80b4a-9329-4e18-8ceb-0f69c1950b2d",
+          "text": "HCO3-K+/H2CO3."
+        },
+        {
+          "id": "9cc14938-a1f7-4ddc-bd02-b3e5bacb2e80",
+          "text": "Na2HPO4/NaH2PO4."
+        },
+        {
+          "id": "d2ea586b-4735-41b9-8a5a-9b7d96e32063",
+          "text": "Oxihemoglobina/oxihemoglobinato."
+        }
+      ]
+    },
+    {
+      "id": "33aecc90-3628-4c2a-babb-6d91c4d1c57b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-28",
+      "text": "Indique qué propiedades cinéticas de la mioglobina la hacen inapropiada para transportar gases en sangre, a pesar de que posee una estructura muy similar a la de las subunidades de la hemoglobina.",
+      "options": [
+        {
+          "id": "ccc23b58-672a-4e8b-997a-0f11f7b18053",
+          "text": "A la presión parcial de oxígeno a nivel del músculo tiene una alta fracción de saturación.",
+          "correct": true
+        },
+        {
+          "id": "38c984c1-d7d5-4455-b4b2-3c770f6d38f1",
+          "text": "A la presión parcial de oxígeno del aire alveolar no alcanzaría la fracción de saturación apropiada."
+        },
+        {
+          "id": "1b44ea31-20a6-4dea-ba1b-896427a3f400",
+          "text": "Tiene una alta afinidad por el 2,3-difosfoglicerato."
+        },
+        {
+          "id": "145aa103-717e-49b7-b5c9-8947bea40e2c",
+          "text": "Tiene una baja afinidad por el anhídrido carbónico."
+        },
+        {
+          "id": "31f6309f-1bba-4d58-8058-72fb8863e898",
+          "text": "Tiene una baja afinidad por los protones."
+        }
+      ]
+    },
+    {
+      "id": "a5917d08-327f-4f75-98d5-54eeb129cef6",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-28",
+      "text": "La figura muestra la relación entre el contenido de CO2 y la PCO2 alveolar. Las curvas A y B se realizaron a diferentes PO2. Señale la opción correcta.",
+      "image": "a5917d08-327f-4f75-98d5-54eeb129cef6.webp",
+      "options": [
+        {
+          "id": "5fd25be8-a34f-4403-af83-9f02bb803825",
+          "text": "La hemoglobina aumenta su afinidad por el CO2 frente a la hipoxia.",
+          "correct": true
+        },
+        {
+          "id": "71ad2f7f-cc0a-49b4-895f-580bf74f9780",
+          "text": "El fenómeno mostrado en la figura corresponde a la ley de Haldane."
+        },
+        {
+          "id": "8ee72853-faf9-4c9c-ad47-e447185e905c",
+          "text": "En la curva A la hemoglobina tiene menor afinidad por el CO2 que la curva B."
+        },
+        {
+          "id": "e27f76da-6f6d-4f9a-b25d-a27e1b6f73b6",
+          "text": "La afinidad de la hemoglobina por el CO2 sigue una curva sigmoidea al igual que la afinidad de la hemoglobina por el O2."
+        },
+        {
+          "id": "37a81b0b-566b-45a3-9981-ddc7b55439d2",
+          "text": "La curva A fue realizada con una PO2 mayor al de la curva B."
+        }
+      ]
+    },
+    {
+      "id": "49627669-92b7-4dc4-9ab5-16c9372cb59a",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-28",
+      "text": "La figura muestra la relación entre el flujo sanguineo pulmonar y la PO2 alveolar. Señale la opción correcta.",
+      "image": "49627669-92b7-4dc4-9ab5-16c9372cb59a.webp",
+      "options": [
+        {
+          "id": "9ef6950a-772f-4218-9201-670d55ca7df7",
+          "text": "El fenómeno mostrado en la figura corresponde a una respuesta fisiológica localizada.",
+          "correct": true
+        },
+        {
+          "id": "14ebe0e8-159f-43e1-b671-7537339420c2",
+          "text": "El fenómeno mostrado en la figura corresponde a un shunt."
+        },
+        {
+          "id": "d8201a28-81a5-4bf9-83da-36616448d82e",
+          "text": "El fenómeno mostrado en la figura corresponde a una bronco constricción hipercápnica."
+        },
+        {
+          "id": "0d701470-cd87-4efe-bca6-6ec77270343f",
+          "text": "El fenómeno mostrado en la figura disminuye la relación V/Q."
+        },
+        {
+          "id": "6cc4af79-147e-41b1-ba90-a81762512b18",
+          "text": "La figura muestra la vasoconstricción de la arteria pulmonar generada por la hipoxia."
+        }
+      ]
+    },
+    {
+      "id": "9e8481a5-e33e-40b8-8bc9-fcaf45be7659",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-28",
+      "text": "La figura muestra la relación entre la resistencia vascular pulmonar y el volumen pulmonar. RV: volumen residual; FRC: capacidad residual funcional; TLC: capacidad pulmonar total. Señale la opción correcta.",
+      "image": "9e8481a5-e33e-40b8-8bc9-fcaf45be7659.webp",
+      "options": [
+        {
+          "id": "cbdcd7f6-9215-48d6-9242-0b15a7a3c97e",
+          "text": "En B el aumento de la resistencia vascular pulmonar se debe al estiramiento y aplanamiento de los vasos extraalveolares.",
+          "correct": true
+        },
+        {
+          "id": "f08d19fb-083f-4462-aae7-8951d03efdca",
+          "text": "En A el aumento de la resistencia vascular pulmonar se debe a la distención de los vasos extraalveolares."
+        },
+        {
+          "id": "83e5fc91-ef8b-42d4-8de0-24c8f6b7e269",
+          "text": "En A el aumento de la resistencia vascular pulmonar se debe al estiramiento y aplanamiento de los vasos extraalveolares."
+        },
+        {
+          "id": "413ba962-d9d9-47dc-a87c-eb1a290991c4",
+          "text": "En B el aumento de la resistencia vascular pulmonar se debe a la distención de los vasos intraalveolares."
+        }
+      ]
+    },
+    {
+      "id": "ba19bc4a-67b5-4fcd-aa46-47cdf9c37d33",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-28",
+      "text": "Marque lo correcto respecto a las curvas de compliance estáticas para un volumen pulmonar correspondiente a la capacidad residual funcional (CRF).",
+      "options": [
+        {
+          "id": "315e5928-f2e7-4296-b9dc-3b9e9d7ebb0b",
+          "text": "La presión transmural tóraco pulmonar es cero.",
+          "correct": true
+        },
+        {
+          "id": "ceed260e-ea32-4122-83b6-c93ebbc95f98",
+          "text": "La presión transmural pulmonar es negativa."
+        },
+        {
+          "id": "f32e11a4-e9af-4c77-abb9-1af09e006194",
+          "text": "La suma de la presión transmural torácica y pulmonar, alcanza un valor máximo positivo."
+        },
+        {
+          "id": "4a30ac72-1bbd-48b1-9738-1152aafad745",
+          "text": "La suma de la presión transmural torácica y pulmonar, alcanza un valor mínimo negativo."
+        }
+      ]
+    },
+    {
+      "id": "dcd06a6f-1abc-4577-ad13-ecfba9442c6e",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-28",
+      "text": "Respecto a la capacidad residual funcional (CRF) de los pulmones, indique la opción correcta:",
+      "options": [
+        {
+          "id": "e9efcf8c-c96e-47d2-a116-fd0d8dd7a979",
+          "text": "Los volumenes de aire que quedan en los pulmones luego de una espiración normal, se corresponden con la CRF.",
+          "correct": true
+        },
+        {
+          "id": "894cfd2e-949b-41db-ae6f-1b07873d9eca",
+          "text": "La CRF de un individuo en decúbito dorsal no cambia cuando el individuo pasa a estar en posición vertical (de pie)."
+        },
+        {
+          "id": "ad52ab37-aa11-476a-aedb-e901ac11c47a",
+          "text": "La CRF es la diferencia entre la capacidad vital total y el volumen de reserva espiratorio."
+        },
+        {
+          "id": "82472473-dc02-4e4b-9469-d4290c34da63",
+          "text": "La CRF se alcanza al final de una espiración forzada."
+        }
+      ]
+    },
+    {
+      "id": "389ecff3-fb53-4413-96fe-32537e002336",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-28",
+      "text": "Respecto a las curvas de espirometría dinámica de volumen tiempo, marque lo correcto:",
+      "options": [
+        {
+          "id": "5ebe25e3-ef5e-4997-b66c-3363a13ee1eb",
+          "text": "El volumen espirado en 1 segundo, disminuye en enfermedades obstructivas de la vía aérea.",
+          "correct": true
+        },
+        {
+          "id": "62b922d7-8e6b-4e1f-a21e-5c10390af65f",
+          "text": "El volumen espirado en 1 segundo, aumenta en enfermedades obstructivas de la vía aérea."
+        },
+        {
+          "id": "8dbdcfbf-e66f-496e-82c3-b84a9b0d515b",
+          "text": "La capacidad vital forzada aumenta en enfermedades restrictivas."
+        },
+        {
+          "id": "5cd89873-e0ad-4c8b-bf44-98ab79eaeb05",
+          "text": "La capacidad vital forzada no cambia en enfermedades restrictivas."
+        }
+      ]
+    },
+    {
+      "id": "3fbed997-b256-4a16-946b-25bbec2dde57",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-28",
+      "text": "Respecto a las leyes de los gases, indique la opción correcta:",
+      "options": [
+        {
+          "id": "8a4adcff-3774-4b7a-96cc-b895b87aac3e",
+          "text": "La presión parcial de un gas en una mezcla está determinada por el producto de su fracción molar y la presión total de la mezcla de gases.",
+          "correct": true
+        },
+        {
+          "id": "093b6f92-73d5-411b-ab6a-a8d4988d3151",
+          "text": "A temperatura constante, el volumen de un gas es directamente proporcional a la presión que ejerce en un recipiente."
+        },
+        {
+          "id": "625e9bae-82cd-496a-a498-bcf14e6170a1",
+          "text": "Según la ley de Dalton, la presión total de una mezcla de gases está dada por el producto de las presiones parciales de cada gas que constituyente la mezcla."
+        },
+        {
+          "id": "938a38b2-7492-4700-8c19-5a9c01b91ced",
+          "text": "Según la ley de Henry, la concentración de un gas disuelto en un líquido es inversamente proporcional a su presión parcial."
+        }
+      ]
+    },
+    {
+      "id": "364c45d6-f907-4dd4-b44b-8c0767f2d36d",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-28",
+      "text": "Respecto al músculo liso de la vía aérea, marque lo correcto:",
+      "options": [
+        {
+          "id": "2dd406e6-49a5-40d5-8cb2-95dcaccdc3f0",
+          "text": "La estimulación por el sistema parasimpático y por mediadores inflamatorios puede tener receptores y mediadores comunes.",
+          "correct": true
+        },
+        {
+          "id": "63f73b83-b577-4cea-8255-5c9ce91eb46a",
+          "text": "La estimulación por el sistema parasimpático provoca broncodilatación."
+        },
+        {
+          "id": "855b023f-82ad-4a85-b31d-e6acd1bd4d05",
+          "text": "La estimulación por el sistema simpático incrementa la concentración de calcio intracelular."
+        },
+        {
+          "id": "991acd86-c4bc-4b36-ad7e-6fd14cf2dbcf",
+          "text": "La estimulación por el sistema simpático provoca broncoconstricción."
+        }
+      ]
+    },
+    {
+      "id": "b352f3e1-596d-4488-8076-c479be964a86",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-28",
+      "text": "Respecto al trasporte de gases desde la tráquea hasta el capilar sanguíneo:",
+      "options": [
+        {
+          "id": "a0567c9d-1187-4370-be09-fe08930da2e7",
+          "text": "El pasaje de CO2 desde los capilares a los alvéolos se da por un transporte pasivo.",
+          "correct": true
+        },
+        {
+          "id": "4ac83635-be08-4f72-b040-7f4e4cdb21ea",
+          "text": "El pasaje de O2 desde los alvéolos a los capilares requiere de un transporte activo."
+        },
+        {
+          "id": "fbb9113e-d27b-4ded-bacb-e996f65ae554",
+          "text": "El transporte de la mezcla de gases del aire atmosférico desde la tráquea hasta el alvéolo implica un consumo de energía por una bomba."
+        },
+        {
+          "id": "bcc45f2b-4244-4b5e-bf38-d1648ca7ff0a",
+          "text": "Ninguna de las otras respuestas es correcta."
+        }
+      ]
+    },
+    {
+      "id": "ac9d986b-0bad-4b97-b75e-4a4ff1893181",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-28",
+      "text": "Si tenemos una concentración de hemoglobina de 14 g%, una capacidad de la hemoglobina de 1,33 ml de O2/g, y una PO2 arterial de 65 mmHg (saturación 93%). ¿Cuál es la concentración de O2 en la sangre?",
+      "options": [
+        {
+          "id": "cd66dd54-4cab-457b-8f92-10d22a528d1f",
+          "text": "17,51 ml%.",
+          "correct": true
+        },
+        {
+          "id": "9e34b36a-c47e-4041-9a86-6dd46447094c",
+          "text": "12,10 ml%."
+        },
+        {
+          "id": "d956dd26-efbb-4fe4-9eef-2bac1588385d",
+          "text": "17,31 ml%."
+        },
+        {
+          "id": "4372e302-b3bc-46a9-8e99-ac0a315dacd9",
+          "text": "18,62 ml%."
+        },
+        {
+          "id": "d70da747-6ef3-4587-a00b-a211ce47506f",
+          "text": "21,32 ml%."
+        }
+      ]
+    },
+    {
+      "id": "654e5920-9f27-4c14-9802-21ead10165d7",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-28",
+      "text": "Una persona respira aire seco a una presión barométrica de 760 mmHg, una FiO2 de 0.21, una PaCO2 de 40 mmHg y un cociente respiratorio de 0,8 y una temperatura corporal de 37 °C. ¿Cuál es su presión parcial alveolar de O2?",
+      "options": [
+        {
+          "id": "bf21e90a-b8a2-4c9b-bc6e-765b03f18004",
+          "text": "99,73 mmHg.",
+          "correct": true
+        },
+        {
+          "id": "4c59047c-de26-4c57-b40d-2fa20dbc2fa9",
+          "text": "109,6 mmHg."
+        },
+        {
+          "id": "cf292411-9ade-4ba3-8153-4111afd53c4f",
+          "text": "109,73 mmHg."
+        },
+        {
+          "id": "eb7a79f0-a30e-4064-b520-065177cccbd9",
+          "text": "149,73 mmHg."
+        },
+        {
+          "id": "086deb69-55f6-4b6b-8251-743d885eee29",
+          "text": "663 mmHg."
+        }
+      ]
+    },
+    {
+      "id": "56877fa5-a4a9-4b51-a9cc-df2dad3eff63",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-28",
+      "text": "¿Cuál de las siguientes afirmaciones relativas al monóxido de carbono constituye el mecanismo principal de por qué este gas determina una hipoxia?",
+      "options": [
+        {
+          "id": "7cdb4c3b-7673-4559-afa0-d3719a6d2e1c",
+          "text": "Es un inhibidor competitivo de la unión del oxígeno con la hemoglobina.",
+          "correct": true
+        },
+        {
+          "id": "a73f276c-9b50-4c6b-9329-4c35610e486e",
+          "text": "Determina un aumento de los niveles de metahemoglobina en sangre."
+        },
+        {
+          "id": "b8fe01c4-2b25-484b-bba0-5af0a8c3fb8e",
+          "text": "Es un inhibidor alostérico de la hemoglobina."
+        },
+        {
+          "id": "e9f4a2ff-b967-4fac-b66a-fe51ec4a0e48",
+          "text": "Modifica la conformación de la hemoglobina."
+        },
+        {
+          "id": "064c5489-4637-4e22-b8a8-01f0ec3578d6",
+          "text": "Provoca una oxidación del hierro de la hemoglobina."
+        }
+      ]
+    },
+    {
+      "id": "4e67f0a6-3ac0-4fe0-b429-0ff073eda185",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-11-28",
+      "text": "¿La ausencia de cuál de las siguientes enzimas determina una disminución drástica de la capacidad de la sangre para transportar CO2?",
+      "options": [
+        {
+          "id": "e669d773-1020-43c4-be39-6041e9a9c5a9",
+          "text": "Anhidrasa carbónica.",
+          "correct": true
+        },
+        {
+          "id": "57ad49a0-737e-42e1-a0e6-8965fe96f0ae",
+          "text": "Hemoglobina carbaminasa."
+        },
+        {
+          "id": "2dcd7430-38fe-4d9f-ab4a-7eb4578574e1",
+          "text": "Hemoglobina carboxilasa."
+        },
+        {
+          "id": "ff62b4b9-328d-4542-ba91-90e4f81f6ede",
+          "text": "Histidina decarboxilasa."
+        },
+        {
+          "id": "85d44aa3-bd5a-440a-91a2-16d02a43b68c",
+          "text": "Piruvato carboxilasa."
+        }
+      ]
+    },
+    {
       "id": "cfa82390-239d-4526-98f8-a597a2fc3b46",
       "evaluation": "parcial_2",
       "source": "partial",
