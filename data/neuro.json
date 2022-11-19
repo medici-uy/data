@@ -2649,6 +2649,633 @@
       ]
     },
     {
+      "id": "157d2797-8754-4713-8552-89348b5996a3",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-06",
+      "text": "Acerca de la vía visual marque la opción correcta:",
+      "options": [
+        {
+          "id": "a76568de-e18f-4c55-871d-deef617e025d",
+          "text": "Es binocular a partir del quiasma óptico.",
+          "correct": true
+        },
+        {
+          "id": "0547e0e8-efda-4088-9a39-c2b5c6311b94",
+          "text": "Es monocular a partir del quiasma."
+        },
+        {
+          "id": "233bb087-0c7b-4e8b-85e1-fda1c283bb34",
+          "text": "La corteza visual primaria se encuentra en el lóbulo temporal."
+        },
+        {
+          "id": "56360b22-1499-4400-8702-19e8271e1c94",
+          "text": "La segunda neurona se encuentra en el cuerpo geniculado lateral."
+        }
+      ]
+    },
+    {
+      "id": "3dec2937-d691-4834-a0d6-90c1718b1112",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-06",
+      "text": "Con respecto al sistema de conos y bastones (marque la opción correcta):",
+      "options": [
+        {
+          "id": "9fdf48b0-71a4-4d26-afb8-3b856b408e2e",
+          "text": "El sistema de bastones es incapaz de discriminar colores.",
+          "correct": true
+        },
+        {
+          "id": "cc3da6c3-ae5d-4fe1-8abd-fe7bf12c3ac6",
+          "text": "El sistema de conos es el más apropiado para la visión en condiciones de baja intensidad de iluminación (escotópicas)."
+        },
+        {
+          "id": "28139f3d-1afd-456c-a153-cb2fad2919ef",
+          "text": "En la retina, el número de conos es aproximadamente el triple que el de bastones."
+        },
+        {
+          "id": "fc38c26c-5424-4f14-bedb-a4e7c55c709d",
+          "text": "La mayor densidad de bastones se encuentra en la fóvea."
+        }
+      ]
+    },
+    {
+      "id": "09487d46-084f-408a-95a1-8e0cb0cbd6a5",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-06",
+      "text": "El principio del tamaño es una regla que explica algunos aspectos básicos relevantes para la organización y control de los actos motores. En relación a dicho principio, marque la opción correcta:",
+      "options": [
+        {
+          "id": "f6e58b88-9664-4011-9724-0fdbdd944acd",
+          "text": "Postula que conforme se incrementa la fuerza generada por un músculo, se activan progresivamente motoneuronas con resistencias de entrada menor.",
+          "correct": true
+        },
+        {
+          "id": "1fc8cd3e-84b3-46bc-83c9-7243da09d72a",
+          "text": "Explica como las fibras musculares pertenecientes a la misma unidad motora pueden activarse en forma independiente unas de otras."
+        },
+        {
+          "id": "4d75c4b9-8b58-4b9c-bf5d-49db6b37be31",
+          "text": "Postula que durante actos motores voluntarios que involucran escasa generación de fuerza se activan selectivamente las unidades motoras más grandes."
+        },
+        {
+          "id": "14a4329a-aadc-454a-b9c9-e42776dd3a87",
+          "text": "Postula que la frecuencia de disparo de las motoneuronas que inervan a un determinado músculo se mantiene constante."
+        }
+      ]
+    },
+    {
+      "id": "f13a960b-2797-4979-98c4-9335713e29d2",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-06",
+      "text": "El sueño REM se caracteriza por (marque la opción correcta):",
+      "options": [
+        {
+          "id": "658bd407-10fe-4d5c-b0fc-233a3ba44b6b",
+          "text": "Aumento de la variabilidad de la presión arterial, de la frecuencia cardíaca y de la frecuencia respiratoria.",
+          "correct": true
+        },
+        {
+          "id": "d426c016-5694-4c72-b01c-e715c1906208",
+          "text": "Aumento sostenido del tono muscular."
+        },
+        {
+          "id": "2f08fa84-b438-40e3-bc85-312ff317f2ef",
+          "text": "Ausencia de actividad onírica."
+        },
+        {
+          "id": "e2bf5f58-96d9-44fe-b890-e29903f7d483",
+          "text": "Husos de sueño en el EEG."
+        },
+        {
+          "id": "5a3e96fa-6d90-43e7-b555-43167b26733f",
+          "text": "Ondas lentas (0,5 a 4 Hz) en el electroencefalograma (EEG)."
+        }
+      ]
+    },
+    {
+      "id": "1c8b0d2b-f862-4293-9c77-ff76a485ab84",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-06",
+      "text": "En cuanto al reflejo de estiramiento y su organización por parte de los circuitos neuronales en la médula espinal, marque la opción correcta:",
+      "options": [
+        {
+          "id": "c9138b9f-4dc5-4d97-8fb5-737a17e7e8a4",
+          "text": "La inhibición recíproca que caracteriza al reflejo implica que el estiramiento de un músculo se acompaña de inhibición de las motoneuronas alfa de los músculos antagonistas en la misma articulación.",
+          "correct": true
+        },
+        {
+          "id": "c88ec966-b500-42e1-a4fb-0a9e10f69916",
+          "text": "El estiramiento de un grupo muscular produce en forma característica el incremento de la frecuencia de descarga de las motoneuronas de los músculos antagonistas en el miembro contralateral."
+        },
+        {
+          "id": "4f4e7d39-d504-4ea1-b43f-87b1bd3f90e8",
+          "text": "La breve latencia del reflejo se debe a la presencia de sinapsis eléctricas en la vía que organiza dicho reflejo."
+        },
+        {
+          "id": "a8e5c25c-0518-42dc-8522-eab2edffdba8",
+          "text": "La interneurona inhibidora \"Ia\" es glutamatérgica."
+        },
+        {
+          "id": "ae4d5a52-0698-4035-98e6-9c1ed0fb80f8",
+          "text": "Un estímulo nociceptivo a nivel del tendón constituye el estímulo natural para el reflejo de estiramiento de un músculo."
+        }
+      ]
+    },
+    {
+      "id": "5e5c4b17-cd98-43d1-8525-d6621bb959d9",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-06",
+      "text": "En la figura se ilustran resultados de experimentos realizados con el objetivo de caracterizar dos unidades motoras (unidad motora 1 y unidad motora 2). A tales efectos las motoneuronas que conforman dichas unidades motoras fueron activadas en forma independiente mediante protocolos de estimulación repetitiva durante períodos prolongados a la vez que se registró la fuerza generada por cada una. En la parte superior se ilustra el curso temporal de una contracción individual y en la parte inferior la amplitud de dichas contracciones durante estos protocolos. En base a estos resultados experimentales, marque la opción correcta:",
+      "image": "5e5c4b17-cd98-43d1-8525-d6621bb959d9.webp",
+      "options": [
+        {
+          "id": "67717ac1-16da-4e47-9307-1bda7c8a3d93",
+          "text": "Seguramente la unidad motora 1 participa de actos motores posturales.",
+          "correct": true
+        },
+        {
+          "id": "ecf7df2d-a0cd-4652-8485-5c734e77479a",
+          "text": "La mayoría de las fibras musculares de la unidad motora 2 son rojas con un metabolismo aeróbico."
+        },
+        {
+          "id": "760de0e7-0fa4-4688-9941-eb934d31fd8f",
+          "text": "La unidad motora 1 es de fatiga rápida."
+        },
+        {
+          "id": "cd2f243e-366c-4f8b-9e08-29ddacfe0dc4",
+          "text": "La unidad motora 2 presenta menor capacidad de generación de fuerza que la 1."
+        }
+      ]
+    },
+    {
+      "id": "12c8d974-bad0-462c-b181-05166f3c0c30",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-06",
+      "text": "En la figura se muestra un cerebro humano que presenta una lesión (flecha) en el hemisferio izquierdo (dominante). ¿Cuál de los siguientes síndromes, signos o síntomas causado por la lesión sería el predominante? Marque la opción correcta.",
+      "image": "12c8d974-bad0-462c-b181-05166f3c0c30.webp",
+      "options": [
+        {
+          "id": "1add0109-9a46-4505-a14f-7e09ebedcd52",
+          "text": "Afasia de expresión (incapacidad de expresar el lenguaje).",
+          "correct": true
+        },
+        {
+          "id": "ccdf792e-135d-4a43-afde-9652829e68ed",
+          "text": "Afasia de comprensión (incapacidad de comprender el lenguaje)."
+        },
+        {
+          "id": "540867af-244d-4ef8-81d1-06dad0464769",
+          "text": "Agnosia visual."
+        },
+        {
+          "id": "9168ae91-9ab4-4aad-b8b3-a45134772478",
+          "text": "Incapacidad de comprender el contenido emocional del lenguaje."
+        },
+        {
+          "id": "c99b35bd-a07d-4bd5-a82f-997c2d3d42e0",
+          "text": "Síndrome de negación o inatención del hemicampo derecho."
+        }
+      ]
+    },
+    {
+      "id": "de992fbf-a538-4ef6-a188-e7812e37bb51",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-06",
+      "text": "En la figura se muestran los registros simultáneos de electromiograma de grupos musculares antagónicos que controlan la posición de la muñeca (flexores y extensores), y la actividad extracelular unitaria de una neurona de la corteza motora primaria (M1). Estos registros se realizaron en un mono durante la realización de una tarea que consiste en la flexión de la muñeca partiendo de una posición inicial. Este experimento se realizó en 2 condiciones: cuando se aplica una carga externa que se opone a la flexión (carga flexor) y cuando la carga externa ayuda a la flexión (flexión asistida). El trazado superior indica la posición de la mano durante estas pruebas. De los registros podemos concluir que (marque la opción correcta):",
+      "image": "de992fbf-a538-4ef6-a188-e7812e37bb51.webp",
+      "options": [
+        {
+          "id": "86dab96f-c4c6-43b7-bfe8-2321656404e0",
+          "text": "La frecuencia de descarga de la neurona registrada en M1 se encuentra relacionada a la fuerza generada por el músculo flexor.",
+          "correct": true
+        },
+        {
+          "id": "1c0b5074-aab8-4037-85ba-bba503733740",
+          "text": "La flexión de la muñeca en la situación \"flexión asistida\" es provocada por la relajación del músculo flexor."
+        },
+        {
+          "id": "ec5584f7-8b48-4fd5-9bec-ac86068d46db",
+          "text": "La neurona registrada en M1 codifica la posición de la mano."
+        },
+        {
+          "id": "d2c69c9b-cf8c-46e5-9d28-024021b90366",
+          "text": "La neurona registrada en M1 inhibe al músculo flexor."
+        }
+      ]
+    },
+    {
+      "id": "d303833a-93f8-480d-82bb-9c302f06521b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-06",
+      "text": "En la figura se representan, a la izquierda, esquemas de campo receptivo (CR) de una célula ganglionar de la retina que fue iluminado en distintos sectores (la zona iluminada se señala en blanco). A la derecha se muestra el registro de la respuesta de esa célula en cada situación. El tiempo durante el cual se ilumina está señalado por la barra horizontal (luz). Las líneas verticales representan los potenciales de acción de la neurona. De acuerdo a la figura, marque la opción correcta:",
+      "image": "d303833a-93f8-480d-82bb-9c302f06521b.webp",
+      "options": [
+        {
+          "id": "3d1241e6-ee32-4a40-936d-d69cd75a814b",
+          "text": "Se trata de una neurona centro \"off\" (apagado).",
+          "correct": true
+        },
+        {
+          "id": "6e9af0b6-bee8-4971-99eb-3ca4ae74d0cd",
+          "text": "En ausencia del estímulo lumínico, la célula carece de actividad."
+        },
+        {
+          "id": "58332493-32b7-455f-8d0e-9bc2fcbba794",
+          "text": "Este tipo de CR suele ser de mayor tamaño (extensión) en la fóvea que en la periferia de la retina."
+        },
+        {
+          "id": "c136b17d-3d3b-4d19-9cd7-6bccaa2f0f46",
+          "text": "Este tipo de neurona no responde a la luz roja."
+        },
+        {
+          "id": "44e8cb89-2181-4d06-a990-5be0306f5f79",
+          "text": "Neuronas con estas características se encuentran exclusivamente en la periferia de la retina."
+        }
+      ]
+    },
+    {
+      "id": "49d3bd5d-98c6-4ead-966d-5b27e90ee8d1",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-06",
+      "text": "En relación a la actividad de las neuronas que componen los núcleos grises de la base, señale la opción correcta:",
+      "options": [
+        {
+          "id": "3b486afa-dedf-4503-a02e-eef50682a945",
+          "text": "Las neuronas medianas espinosas del estriado aumentan su frecuencia de descarga ante la activación de las neuronas corticales que las inervan.",
+          "correct": true
+        },
+        {
+          "id": "fb8a7fde-c806-4f95-9380-7686e6186c16",
+          "text": "En ausencia de movimiento, las neuronas del globo pálido interno presentan una baja tasa de descarga basal (0.5 a 1 Hz)."
+        },
+        {
+          "id": "684a8728-8ae9-4206-b4d8-72fcb0b6bd79",
+          "text": "La activación de las neuronas del núcleo subtalámico inhibe la descarga de las neuronas del globo pálido interno."
+        },
+        {
+          "id": "65f2b5c1-4b2f-4bf6-b488-6bc436ae6500",
+          "text": "Las interneuronas colinérgicas del estriado intervienen solo en las funciones cognitivas del circuito."
+        },
+        {
+          "id": "61449b82-f810-47c3-a803-354de737432d",
+          "text": "Las neuronas del globo pálido interno inhiben de forma directa a las motoneuronas espinales."
+        }
+      ]
+    },
+    {
+      "id": "dc4cba50-bb81-4df8-b06e-e8b42f230f8f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-06",
+      "text": "En relación a la enfermedad de Parkinson, señale la opción correcta:",
+      "options": [
+        {
+          "id": "02e86103-84b4-4b81-b809-891dc1e7c553",
+          "text": "Sus manifestaciones motoras resultan principalmente de la degeneración de la via dopaminérgica nigro-estriatal.",
+          "correct": true
+        },
+        {
+          "id": "9fb3a5fb-77e8-4fb6-b4c6-bb460c7399db",
+          "text": "La causa primaria de esta enfermedad consiste en la pérdida selectiva de neuronas del núcleo subtalámico."
+        },
+        {
+          "id": "ad334033-3f2b-4cdc-b5a1-085a3618efe1",
+          "text": "Los síntomas motores son causados por una disminución de la actividad de las neuronas del globo pálido interno."
+        },
+        {
+          "id": "749fd7ea-628f-4a8b-9df2-b3142b947c31",
+          "text": "Se manifiesta como un síndrome motor hiperquinético."
+        }
+      ]
+    },
+    {
+      "id": "4762ce1d-49b2-4d05-a6cf-3a5009ba8d4b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-06",
+      "text": "En relación a la fisiología del sistema vestibular, indique cuál de las siguientes afirmaciones es correcta:",
+      "options": [
+        {
+          "id": "3b7e133e-7d77-47a1-b282-baadda3b25b8",
+          "text": "Los canales semicirculares son estructuras relacionadas con la detección de la aceleración angular de la cabeza.",
+          "correct": true
+        },
+        {
+          "id": "92ec24b6-dfa3-4137-9a0e-ee608ebec6b1",
+          "text": "Las aferentes primarias que inervan el sáculo y el utrículo carecen de descarga basal."
+        },
+        {
+          "id": "13376f81-4ce9-4234-a33c-6ce8771b8d38",
+          "text": "Las células ciliadas disminuyen la liberación de neurotransmisor cuando sus estereocilias se mueven en el sentido del kinocilio."
+        },
+        {
+          "id": "a90f33c3-1965-43ba-92ea-79ee3807107b",
+          "text": "Los otolitos son cristales presentes a nivel de la cresta ampular."
+        }
+      ]
+    },
+    {
+      "id": "093a6612-3b42-4f59-a32c-9ad4fed65771",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-06",
+      "text": "En relación a la organización del sistema nervioso autónomo, marque la opción correcta:",
+      "options": [
+        {
+          "id": "5ba52deb-0b88-45c8-8828-8dd3905477ad",
+          "text": "Los somas de las neuronas autonómicas que inervan los efectores están localizadas fuera del sistema nervioso central.",
+          "correct": true
+        },
+        {
+          "id": "9d57ecf1-9ab6-474d-bc2d-e3480b060aff",
+          "text": "El sistema nervioso simpático activa al músculo esquelético."
+        },
+        {
+          "id": "8da97b44-3c0d-4435-81b7-3a4d00ef929a",
+          "text": "La respuesta autonómica parasimpática está mediada por la noradrenalina."
+        },
+        {
+          "id": "bdba5105-22b7-4d87-94fd-0013cb75838c",
+          "text": "Las fibras pre-ganglionares parasimpáticas establecen de forma directa contactos sinápticos con el músculo liso visceral."
+        }
+      ]
+    },
+    {
+      "id": "b23e602f-647b-4dca-b48a-d256c3176bb1",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-06",
+      "text": "En relación a las áreas corticales implicadas en el control motor, indique cuál de las siguientes evidencias experimentales es determinante para asignarle el carácter de corteza motora primaria (M1) al área 4 de Brodmann.",
+      "options": [
+        {
+          "id": "0a99fed4-56e1-494c-824b-93589a4f0712",
+          "text": "La estimulación eléctrica es capaz de provocar movimientos, utilizando intensidades de estimulación comparativamente más bajas que las requeridas para otras áreas corticales.",
+          "correct": true
+        },
+        {
+          "id": "37c8a281-92a5-4f7e-bd9d-ab97f12a4580",
+          "text": "El espesor de la capa 4 es comparativamente menor que el de la capa 4 de la corteza del área somatosensorial primaria (S1 o 3-1-2 de Brodmann)."
+        },
+        {
+          "id": "d735640c-ecab-4186-b14d-d4bd6625e7f2",
+          "text": "La imagenología funcional revela actividad durante la ejecución de actos motores."
+        },
+        {
+          "id": "bb48a731-2dcf-4b40-ab9b-18c300fe61a2",
+          "text": "Los axones de las neuronas piramidales corticales de la capa 5 transitan por las pirámides bulbares."
+        }
+      ]
+    },
+    {
+      "id": "b0119725-579e-449a-95ff-cb8530df80aa",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-06",
+      "text": "En relación al estudio de la marcha, los experimentos realizados en animales con una sección del neuroeje a nivel intercolicular (animal \"descerebrado\"), han mostrado que (marque la opción correcta):",
+      "options": [
+        {
+          "id": "0c8f56ea-2453-4b88-b2f5-e48652c99bc6",
+          "text": "La información sensorial propioceptiva participa de la organización fina de los actos motores responsables del patrón motor.",
+          "correct": true
+        },
+        {
+          "id": "0949344b-0abb-4d66-b3ff-5f73882ca7d4",
+          "text": "El circuito neural que media la activación alternada de grupos musculares antagónicos de una extremidad se encuentra enteramente en el tronco encefálico."
+        },
+        {
+          "id": "1369f036-1ce4-435f-8522-590849a61618",
+          "text": "Los circuitos espinales generadores de dicho patrón motor no involucran proyecciones comisurales (que cruzan la línea media)."
+        },
+        {
+          "id": "b1f6a95f-49fd-4fe7-8ee2-a1bbe418b4f0",
+          "text": "Los comandos supraespinales codifican la alternancia característica del patrón motor responsable de la marcha."
+        },
+        {
+          "id": "d632fef5-abb7-4deb-8fc0-a5bacb67e3d0",
+          "text": "Los comandos supraespinales son indispensables para generar la alternancia característica del patrón motor responsable de la marcha."
+        }
+      ]
+    },
+    {
+      "id": "194d1287-96a7-4153-a20b-90b28682e5fd",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-06",
+      "text": "En relación al proceso de la transducción a nivel de sistema auditivo, marque la opción correcta:",
+      "options": [
+        {
+          "id": "38c32c22-d4c7-4a57-a81d-8f0b69809950",
+          "text": "Se inicia con la inclinación de las estereocilias de las células ciliadas.",
+          "correct": true
+        },
+        {
+          "id": "20bc8233-3165-4448-b7e6-1ce29c3a9bc8",
+          "text": "Es provocado por un aumento de AMPc en las células ciliadas en respuesta al sonido."
+        },
+        {
+          "id": "a94b0f99-0af0-424e-bfa8-bea13f37401e",
+          "text": "Involucra la generación de potenciales de acción en la célula ciliada."
+        },
+        {
+          "id": "0742112f-9a84-4b8a-ae61-ca8593dd7ea2",
+          "text": "Ocurre a nivel de las dendritas de las aferentes primarias auditivas."
+        },
+        {
+          "id": "fb9b6e88-87d2-43d7-acd6-77ed7968d62d",
+          "text": "Se produce en el polo basal de las células ciliadas (pilosas)."
+        }
+      ]
+    },
+    {
+      "id": "6380a154-6d36-4145-ae64-dd09727cf886",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-06",
+      "text": "En un animal de experimentación se administra durante varios días neuropéptido-Y en los ventrículos laterales (vía de administración que facilita la llegada de la sustancia al encéfalo evitando la barrera hemato-encefálica). En estas condiciones se observa (marque la opción correcta):",
+      "options": [
+        {
+          "id": "3a6d3d14-2f09-4a2b-9fb0-8a97b252bad4",
+          "text": "Aumento de peso.",
+          "correct": true
+        },
+        {
+          "id": "608f9246-5813-4da5-9767-9797754d3a3d",
+          "text": "Aumento del gasto metabólico."
+        },
+        {
+          "id": "bdfbf81f-647a-498a-97d9-28da7424654d",
+          "text": "Disminución de la ingesta."
+        },
+        {
+          "id": "d6435584-f814-426c-bca9-832848b2ed53",
+          "text": "Fiebre."
+        },
+        {
+          "id": "2b500b9f-3294-4416-b97d-166a8e1fe7ce",
+          "text": "Marcada disminución de la diuresis."
+        }
+      ]
+    },
+    {
+      "id": "ab95dadb-f3c6-4f5d-a1d3-83f109595e61",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-06",
+      "text": "En un animal de experimentación, bajo anestesia general se realiza una estimulación eléctrica (pulso de baja intensidad) de cierta región del encéfalo. En la figura se muestra el electroencefalograma (EEG) antes y después de la estimulación. Los dos trazados de abajo muestran a distinta escala temporal el EEG previo y posterior a la estimulación. Con respecto al resultado obtenido se puede afirmar que (marque la opción correcta):",
+      "image": "ab95dadb-f3c6-4f5d-a1d3-83f109595e61.webp",
+      "options": [
+        {
+          "id": "0ef0d520-c1c4-4d1f-ab72-2a2a19222a8d",
+          "text": "El EEG luego de la estimulación tiene características similares al trazado típico de vigilia (activación).",
+          "correct": true
+        },
+        {
+          "id": "47f858d2-0808-465f-b1a7-6300262ef355",
+          "text": "El resultado de la estimulación es compatible con la localización del electrodo en la región preóptica del hipotálamo."
+        },
+        {
+          "id": "d9215fbf-2b27-4697-9398-edb07b73ba0d",
+          "text": "Luego de la estimulación, el EEG muestra menor frecuencia y mayor amplitud."
+        },
+        {
+          "id": "dd829569-9655-41d4-a98a-814fa0af3bdf",
+          "text": "Previo a la estimulación, el EEG se destaca por la gran actividad oscilatoria en la banda beta (15-35 Hz) de frecuencias."
+        },
+        {
+          "id": "aaab4da9-a58f-468a-9cd3-fe616a08ad68",
+          "text": "Previo a la estimulación, el EEG se encuentra activado o desincronizado."
+        }
+      ]
+    },
+    {
+      "id": "4e3481bb-6fc0-4d10-863e-66aeb5dc5882",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-06",
+      "text": "En un sujeto normal el estiramiento pasivo del músculo homónimo mediante la percusión del tendón correspondiente, según se ilustra en la figura producirá (marque la opción correcta):",
+      "image": "4e3481bb-6fc0-4d10-863e-66aeb5dc5882.webp",
+      "options": [
+        {
+          "id": "04f1f660-aecd-4976-83a6-6249b4bb96a2",
+          "text": "El aumento de la frecuencia de descarga de las aferentes \"Ia\" del músculo estirado.",
+          "correct": true
+        },
+        {
+          "id": "ed41e247-924b-4594-bbf6-d90e5b577151",
+          "text": "El aumento de la frecuencia de descarga de las motoneuronas alfa que inervan al músculo antagonista."
+        },
+        {
+          "id": "c6d31b6e-c339-4ded-8bb2-b8ac2e9fcafd",
+          "text": "La contracción del músculo antagonista."
+        },
+        {
+          "id": "ee0004c3-b105-4f8b-bc02-ca78b20ae29a",
+          "text": "La relajación de todos los grupos musculares alrededor de la articulación."
+        },
+        {
+          "id": "4937cc42-7fae-4931-b442-ec27f5b4dfcf",
+          "text": "La relajación del músculo sinergista."
+        }
+      ]
+    },
+    {
+      "id": "062c9c98-1011-4750-afcf-163d442d97f0",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-06",
+      "text": "La figura muestra dos curvas de sintonía para dos aferentes primarias (A y B) registradas en el nervio auditivo de un animal de experimentación (sound pressure level: nivel de presión del sonido; tone frequency: frecuencia de los tonos aplicados). De las siguientes afirmaciones sobre la gráfica, marque la correcta:",
+      "image": "062c9c98-1011-4750-afcf-163d442d97f0.webp",
+      "options": [
+        {
+          "id": "aca2a107-6163-4380-bfb4-369bafa9854a",
+          "text": "A la frecuencia característica de cada neurona, la intensidad del estímulo umbral requerida para activar B es mayor que la necesaria para activar A.",
+          "correct": true
+        },
+        {
+          "id": "1d2b7343-e185-41c4-a025-89a7130506da",
+          "text": "El estímulo auditivo con la intensidad y frecuencias indicadas en D, es umbral para A y B."
+        },
+        {
+          "id": "e77ca45d-8ae1-4f61-8b7e-96a939c4e862",
+          "text": "La frecuencia característica de B es más del doble que la de A."
+        },
+        {
+          "id": "73ded39d-3d39-49c5-aa8f-7af8af39d469",
+          "text": "Un estímulo auditivo con la intensidad y frecuencias indicadas en C, disminuye la frecuencia de descarga de A y de B."
+        },
+        {
+          "id": "fda073ba-0082-47e4-88fd-ee968e8d2595",
+          "text": "Un estímulo auditivo de 1 kHz y 60 dB provoca un aumento de la frecuencia de descarga de B."
+        }
+      ]
+    },
+    {
+      "id": "7ec8e0f5-9052-4ea9-989f-0829530b9763",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-06",
+      "text": "Las neuronas auditivas del núcleo coclear se caracterizan por (marque la opción correcta):",
+      "options": [
+        {
+          "id": "0a625931-6200-4b61-a72d-74a45306c410",
+          "text": "Responder únicamente a estímulos sonoros ipsilaterales.",
+          "correct": true
+        },
+        {
+          "id": "89ed2be0-be8b-4921-b216-a114ecaf6641",
+          "text": "Carecer de respuesta inhibidora frente a la estimulación sonora."
+        },
+        {
+          "id": "d8efdcfb-21d0-490b-b429-801bd0f6bbd7",
+          "text": "Presentar mayor latencia a la respuesta al sonido que las neuronas de la corteza auditiva primaria."
+        },
+        {
+          "id": "2af37a3c-8671-4d05-b8d5-cb3cf19392df",
+          "text": "Proyectar hacia la cóclea."
+        },
+        {
+          "id": "6ae046db-ee28-4ecb-a282-d5e801943372",
+          "text": "Responder a la diferencia de intensidad inter-auricular."
+        }
+      ]
+    },
+    {
+      "id": "cbc7d2ef-de9d-4152-a9e2-2997e21c2f95",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-09-06",
+      "text": "Los mecanismos celulares y/o moleculares que controlan los procesos de habituación y sensibilización se han estudiado en el circuito del reflejo de retracción branquial del molusco marino Aplysia. En relación a estos procesos, marque la opción correcta:",
+      "options": [
+        {
+          "id": "4aedc7f0-4875-4d11-9077-93f73a53378b",
+          "text": "El número de contactos sinápticos en el circuito se modifica como consecuencia de los procesos de sensibilización y habituación a largo plazo.",
+          "correct": true
+        },
+        {
+          "id": "994a0ea2-364f-4ec2-95c9-0d71bd75edb8",
+          "text": "El proceso de habituación implica una facilitación presináptica de la transmisión sináptica."
+        },
+        {
+          "id": "3299344a-5963-4236-8634-5dadcbde8e34",
+          "text": "La administración de bloqueadores de la síntesis proteica no afecta la sensibilización a largo plazo."
+        },
+        {
+          "id": "08b35c0c-3d9a-4863-a143-3c82645f3894",
+          "text": "La sensibilización se desencadena ante la repetición de un mismo estímulo que resulta inocuo para el individuo."
+        }
+      ]
+    },
+    {
       "id": "b61d7bad-2dc5-4b11-bc7c-44acc3e51e7c",
       "evaluation": "parcial_2",
       "source": "partial",
