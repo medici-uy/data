@@ -822,7 +822,7 @@
       "evaluation": "parcial_1",
       "source": "partial",
       "asked_at": "2018-11-01",
-      "text": "En tres sujetos (edades: 20, 50 y 80 años) se cuantifica la velocidad de la onda del pulso (VOP), a partir de registro simultaneo del pulso carotideo y el pulso femoral. La VOP (metros/segundo) se calcula como el cociente entre la distancia entre sitios de registro (ΔL) y el tiempo de retardo (Δt) existente entre la aparición del pulso en la arteria carótida y la posterior aparición del pulso en la arteria femoral (Figura). Los tres sujetos tenían los mismos niveles de presión arterial (PA) sistólica y diastólica (PAS y PAD, respectivamente) a nivel de la arteria braquial: 137/75 mmHg. Señale la opción correcta:",
+      "text": "En tres sujetos (edades: 20, 50 y 80 años) se cuantifica la velocidad de la onda del pulso (VOP), a partir de registro simultaneo del pulso carotideo y el pulso femoral. La VOP (metros/segundo) se calcula como el cociente entre la distancia entre sitios de registro (ΔL) y el tiempo de retardo (Δt) existente entre la aparición del pulso en la arteria carótida y la posterior aparición del pulso en la arteria femoral (figura). Los tres sujetos tenían los mismos niveles de presión arterial (PA) sistólica y diastólica (PAS y PAD, respectivamente) a nivel de la arteria braquial: 137/75 mmHg. Señale la opción correcta:",
       "image": "9df16eee-7b86-4dd8-bdbc-f2aab1e97f3c.webp",
       "options": [
         {
@@ -3879,37 +3879,6 @@
       ]
     },
     {
-      "id": "b2fee3da-8d82-441b-aaff-6f735692b240",
-      "evaluation": "parcial_1",
-      "source": "partial",
-      "asked_at": "2021-10-29",
-      "text": "La Figura muestra el registro de tensión isométrica de una fibra aislada de miocardio que es estimulada eléctricamente a una frecuencia determinada. En el momento indicado por la flecha se disminuye la frecuencia de estimulación. Con respecto al resultado observado frente al cambio de frecuencia (marque la opción correcta):",
-      "image": "b2fee3da-8d82-441b-aaff-6f735692b240.webp",
-      "options": [
-        {
-          "id": "16b836d0-c284-4e14-a364-906d1337101f",
-          "text": "La disminución de la frecuencia de estimulación tiene un efecto inotrópico negativo.",
-          "correct": true
-        },
-        {
-          "id": "7ae533b4-2dc5-41b9-8971-38d5ca5163bd",
-          "text": "El efecto observado es consecuencia de una disminución en la despolarización del miocito frente a cada estimulación."
-        },
-        {
-          "id": "744f129b-0855-4ca8-928b-727d098766de",
-          "text": "El efecto observado es consecuencia de una disminución en la longitud de la fibra muscular."
-        },
-        {
-          "id": "14e1b66d-76ba-4f95-953b-8fe554515169",
-          "text": "El resultado se explica por un aumento en la amplitud del transitorio de Ca2+ hacia la parte final del registro."
-        },
-        {
-          "id": "8e664627-200b-4819-90a0-42c84f4281c8",
-          "text": "No se evidencia un efecto de la frecuencia de estimulación sobre la contractilidad de la fibra muscular."
-        }
-      ]
-    },
-    {
       "id": "3b3f72e8-fb56-4d22-b5f1-ddfb72bd974f",
       "evaluation": "parcial_1",
       "source": "partial",
@@ -3967,6 +3936,37 @@
         {
           "id": "83e451cf-214a-44a0-aac5-828b7c9ad064",
           "text": "La presión diastólica aórtica es mayor en el latido 1 que en el latido 3, debido a su mayor duración."
+        }
+      ]
+    },
+    {
+      "id": "b2fee3da-8d82-441b-aaff-6f735692b240",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-10-29",
+      "text": "La figura muestra el registro de tensión isométrica de una fibra aislada de miocardio que es estimulada eléctricamente a una frecuencia determinada. En el momento indicado por la flecha se disminuye la frecuencia de estimulación. Con respecto al resultado observado frente al cambio de frecuencia (marque la opción correcta):",
+      "image": "b2fee3da-8d82-441b-aaff-6f735692b240.webp",
+      "options": [
+        {
+          "id": "16b836d0-c284-4e14-a364-906d1337101f",
+          "text": "La disminución de la frecuencia de estimulación tiene un efecto inotrópico negativo.",
+          "correct": true
+        },
+        {
+          "id": "7ae533b4-2dc5-41b9-8971-38d5ca5163bd",
+          "text": "El efecto observado es consecuencia de una disminución en la despolarización del miocito frente a cada estimulación."
+        },
+        {
+          "id": "744f129b-0855-4ca8-928b-727d098766de",
+          "text": "El efecto observado es consecuencia de una disminución en la longitud de la fibra muscular."
+        },
+        {
+          "id": "14e1b66d-76ba-4f95-953b-8fe554515169",
+          "text": "El resultado se explica por un aumento en la amplitud del transitorio de Ca2+ hacia la parte final del registro."
+        },
+        {
+          "id": "8e664627-200b-4819-90a0-42c84f4281c8",
+          "text": "No se evidencia un efecto de la frecuencia de estimulación sobre la contractilidad de la fibra muscular."
         }
       ]
     },
@@ -6836,6 +6836,1113 @@
         {
           "id": "e765d7fa-1a17-499f-b850-6458323f8bf1",
           "text": "Va/Q = 1.25."
+        }
+      ]
+    },
+    {
+      "id": "6ce9efdd-8171-4191-b819-7ac8e8aa8e3d",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "Con respecto a la Ley de Fick, señale la opción correcta.",
+      "options": [
+        {
+          "id": "0f1a9547-1571-43d0-a754-0df04955ac47",
+          "text": "Ninguna de las otras opciones es correcta.",
+          "correct": true
+        },
+        {
+          "id": "cf534e7b-cb1c-47bb-b63d-d7ad29bfaa6a",
+          "text": "El coeficiente de difusión de un gas es directamente proporcional a su peso molecular."
+        },
+        {
+          "id": "0d949866-614a-4122-8a73-0a5e3dba7ba6",
+          "text": "El coeficiente de difusión de un gas es inversamente proporcional a su solubilidad en agua."
+        },
+        {
+          "id": "9a9dd434-5480-4568-a570-f9afbf016c7d",
+          "text": "El flujo de gas a través de la membrana alveolocapilar es directamente proporcional a su espesor."
+        },
+        {
+          "id": "4408614b-4fca-46c6-8c04-9fa4baaf0b44",
+          "text": "El flujo de gas a través de la membrana alveolocapilar es inversamente proporcional a su gradiente de concentraciones."
+        }
+      ]
+    },
+    {
+      "id": "f5304bde-c242-46c4-9c87-47a5091f4ee8",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "Con respecto a la circulación pulmonar, señale lo correcto.",
+      "options": [
+        {
+          "id": "987e2817-7f90-4908-9a3c-51da0b23c871",
+          "text": "Ninguna de las otras opciones es correcta.",
+          "correct": true
+        },
+        {
+          "id": "6c1c7c7d-3575-475e-8d8b-3fef11e6c3d2",
+          "text": "En la circulación pulmonar no hay mecanismos de regulación activos."
+        },
+        {
+          "id": "e3c8e08c-a5a8-4a39-8dbf-8d8b8c4feabd",
+          "text": "La compliance de la arteria pulmonar es menor que el de la arteria aorta."
+        },
+        {
+          "id": "2f50af31-4d76-4d2f-8862-b7d71fe5d149",
+          "text": "La resistencia vascular pulmonar está determinada principalmente por las arteriolas musculares."
+        },
+        {
+          "id": "cf57114a-20bb-43b1-b057-be263ce03b6e",
+          "text": "Los mecanismos de regulación activos son más importantes que en la circulación sistémica."
+        }
+      ]
+    },
+    {
+      "id": "76a90a49-e9cd-45c1-b561-23cab034160c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "Con respecto a la homeostasis señale la opción correcta:",
+      "options": [
+        {
+          "id": "11105bbb-47e3-468a-8315-039b4bbbe68d",
+          "text": "Es el proceso por el cual se produce una adaptación permanentemente y coordinada del medio interno para mantenerlo dentro de un rango de valores frente a las condiciones cambiantes del medio interno y del entorno.",
+          "correct": true
+        },
+        {
+          "id": "ffba4d1d-ee75-4ef6-b36b-7ec6606065df",
+          "text": "Es un proceso de adaptación a largo plazo local de cada órgano en forma independiente del resto del organismo."
+        },
+        {
+          "id": "b91fa2e1-1519-467e-bfe7-ae38e7c1a991",
+          "text": "Implica una serie de cambios pasivos e independientes entre si para equiparar o igualar la composición y valores del medio interno a los valores y composición luego que se producen cambios del medio externo."
+        },
+        {
+          "id": "e55405d0-e90c-431c-ba31-6f730366cad3",
+          "text": "Solo depende de los cambios que se producen a nivel del medio interno siendo independiente de los cambios del entorno o medio externo."
+        }
+      ]
+    },
+    {
+      "id": "bf5c91a1-eb81-4454-b498-91101aaab460",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "Con respecto a la presión arterial y su regulación, señale la opción correcta.",
+      "options": [
+        {
+          "id": "55c86b2b-40b7-4775-9734-3330f008bd51",
+          "text": "El gasto cardíaco y la resistencia vascular periférica son determinantes principales de la presión arterial.",
+          "correct": true
+        },
+        {
+          "id": "311dce34-091d-4023-9859-fe1e6b01e1c7",
+          "text": "El gasto cardíaco solo participa en los mecanismos aplicados en la elevación de la presión arterial mientras que su participación es escasa o nula en disminuir la presión arterial."
+        },
+        {
+          "id": "398da80a-a240-4577-8b01-ddfbbc9e9207",
+          "text": "La regulación de la presión arterial es independiente del diámetro de los vasos periféricos."
+        },
+        {
+          "id": "cebdffa1-e3f2-4854-85d6-2b0e40dee81f",
+          "text": "Un aumento en el radio de los vasos periféricos produce un gran aumento de la resistencia vascular periférica."
+        }
+      ]
+    },
+    {
+      "id": "c2aec8e0-523d-4103-b3de-ad15f494e155",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "Con respecto a la regulación a largo plazo de la presión arterial, señale la opción correcta.",
+      "options": [
+        {
+          "id": "069641ea-9184-45cf-8ca7-f2ddb2e8f077",
+          "text": "Frente a un aumento de la presión arterial y la distensión auricular se libera el péptido natriurético auricular y este produce un aumento de la excreción renal de sodio y agua para tratar de disminuir la presión arterial.",
+          "correct": true
+        },
+        {
+          "id": "ad53b484-62b6-4999-b254-9a09bad5721e",
+          "text": "La liberación de hormona antidiurética es estimulada por el péptido natriurético auricular."
+        },
+        {
+          "id": "3fe5a7ac-91f4-4cba-9bbe-ab670a209f2f",
+          "text": "Ninguna de las otras opciones es correcta."
+        },
+        {
+          "id": "3c3ae7ed-86e7-46b4-a175-3873928ea8a0",
+          "text": "Un aumento (horas o días) sostenido de la presión arterial produce una disminución de la diuresis, ya que produce una disminución del filtrado glomerular renal."
+        },
+        {
+          "id": "cb8cb616-c33a-45f9-a622-b39683d665c5",
+          "text": "Un aumento de la presión arterial desencadena el sistema renina-angiotensina-aldosterona que es el más potente estímulo para disminuir el liquido extracelular y de este modo disminuir la presión arterial por aumento de la diuresis."
+        }
+      ]
+    },
+    {
+      "id": "99ceb2ca-1fcd-4f06-a6c4-6a4595d69c48",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "Con respecto a la relación ventilación/perfusión, señale lo correcto.",
+      "options": [
+        {
+          "id": "b81d468c-c774-4539-b1be-14cf3a03687d",
+          "text": "Ninguna de las otras opciones es correcta.",
+          "correct": true
+        },
+        {
+          "id": "c656f69e-6403-4a96-bc95-d7c798b71654",
+          "text": "El vértice pulmonar está más perfundido que la base."
+        },
+        {
+          "id": "6fca05d7-1a10-4f9e-8e85-b7ace2a0b9b5",
+          "text": "El vértice pulmonar está más ventilado que la base."
+        },
+        {
+          "id": "590974a9-e4c0-4382-825e-9f3f090ba299",
+          "text": "En el vértice el gas alveolar tiene presiones parciales de O2 y CO2 parecidas a las de la sangre venosa."
+        },
+        {
+          "id": "02d45523-f052-4b64-9021-6401ab58925e",
+          "text": "En un paciente sano no hay diferencias en la relación ventilación/perfusión entre la base y el vértice."
+        }
+      ]
+    },
+    {
+      "id": "f7115ed4-b4d5-499a-a4d3-4697c900b371",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "Con respecto a la relación ventilación/perfusión, señale lo correcto.",
+      "options": [
+        {
+          "id": "1acd0152-b911-41cc-9199-a97bdd194c10",
+          "text": "Las diferencias en la relación ventilación/perfusión se deben principalmente al efecto de la gravedad.",
+          "correct": true
+        },
+        {
+          "id": "70086b6b-c10b-4e29-bafd-ded588fcc220",
+          "text": "El cortocircuito (shunt) de sangre es un área con una relación V/Q muy alta."
+        },
+        {
+          "id": "bc578abd-63b1-42b0-bf8b-52a735302e75",
+          "text": "El cortocircuito (shunt) de sangre no afecta la saturación de O2 en la sangre venosa mezclada."
+        },
+        {
+          "id": "cfcfda90-9595-4305-86cb-8fd8bc0ca30c",
+          "text": "La vasoconstricción hipóxica disminuye la ventilación en la base y hace que la relación V/Q sea más homogénea."
+        },
+        {
+          "id": "0d872518-3a55-48f5-bb30-bfa98f61921f",
+          "text": "Las diferencias en la relación ventilación/perfusión son más marcadas cuando el paciente está en decúbito dorsal."
+        }
+      ]
+    },
+    {
+      "id": "8b75aa2e-71c3-436b-859a-7d88ea17e7e9",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "Con respecto a la respiración normal durante el ejercicio físico, marque la opción correcta:",
+      "options": [
+        {
+          "id": "e3dee125-4571-4f2d-8373-b5305208af37",
+          "text": "Ninguna de las otras opciones es correcta.",
+          "correct": true
+        },
+        {
+          "id": "e35f28e0-3ead-4125-8e28-aebf543c142a",
+          "text": "Durante el ejercicio el trabajo ventilatorio es 30 veces mayor al trabajo realizado por el corazón."
+        },
+        {
+          "id": "96052603-b87c-4600-ac64-62653cd7ee84",
+          "text": "El aumento de la concentración tisular de H+ es censado a nivel del propio tejido lo que desencadena la disminución de la ventilación."
+        },
+        {
+          "id": "eb21b5ba-b2c6-4f12-a0d8-7debff225639",
+          "text": "La capacidad respiratoria máxima es igual que la ventilación pulmonar en el ejercicio máximo."
+        },
+        {
+          "id": "cecc5148-d5ba-498a-894c-d9ac187a5b25",
+          "text": "Se observa una relación inversamente proporcional entre en consumo de oxigeno de los músculos respiratorios y la ventilación."
+        }
+      ]
+    },
+    {
+      "id": "725d09d6-cba9-4c58-8f15-f7c78630d09f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "Con respecto a las siguientes afirmaciones sobre las técnicas de evaluación de la estructura y/o la función arterial, marque lo verdadero.",
+      "options": [
+        {
+          "id": "be6062da-6bb3-4cc9-925e-fb6e7a7b5d69",
+          "text": "Ninguna de las otras opciones es correcta.",
+          "correct": true
+        },
+        {
+          "id": "1568ab8d-b6d4-4b94-a957-20ca4f280fee",
+          "text": "A nivel de la arteria carótida común es esperable encontrar velocidades sanguíneas con patrón bifásico o trifásico."
+        },
+        {
+          "id": "d7ab80f8-09ff-4b0c-9964-68be5dedac42",
+          "text": "En la arteria carótida interna se espera encontrar mayor nivel de índice Resistivo (IR) que en la arteria carótida externa."
+        },
+        {
+          "id": "9bdc63c5-477f-4c56-956f-fdb8663ec9f7",
+          "text": "En un adulto, la velocidad de propagación de la onda del pulso en la aorta, es aproximadamente el doble que la velocidad máxima alcanzada por la sangre a ese nivel."
+        },
+        {
+          "id": "ef8d4f71-49d8-4d5d-ae83-9f15df3434be",
+          "text": "Entre las técnicas empleadas para evaluar el espesor intima-media carotídeo, se encuentra la tonometría de aplanamiento."
+        }
+      ]
+    },
+    {
+      "id": "c606c3dd-e580-425e-b6fc-4d3f14f46a48",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "Con respecto a las siguientes afirmaciones, marque lo correcto:",
+      "options": [
+        {
+          "id": "5e79e81e-bf48-4c7f-b1af-e4f840a7ff75",
+          "text": "Ninguna de las otras opciones es correcta.",
+          "correct": true
+        },
+        {
+          "id": "0fc838e7-2174-4640-ae5f-43869ed09a9a",
+          "text": "Al envejecer aumenta la presión arterial sistólica; lo que explica que a medida que aumenta la edad se reduzca el espesor intima-media arterial (ej. carotídeo)."
+        },
+        {
+          "id": "37ebfe97-a3f6-4a41-a205-d3656da7c4c6",
+          "text": "En un sujeto acostado, la presión sistólica máxima a nivel de la aorta es frecuentemente similar a la presión diastólica mínima medida a nivel del tobillo."
+        },
+        {
+          "id": "15f760a0-4e90-473b-9ad7-f13c25925c70",
+          "text": "Las condiciones de flujo sanguíneo que se generan habitualmente en las bifurcaciones arteriales, hacen que en dichos sitios sea muy baja la probabilidad de que se generen placas de ateroma."
+        },
+        {
+          "id": "84c3762b-f703-4763-ae3f-4fc0f9250228",
+          "text": "Mayor velocidad de propagación de la onda del pulso en la aorta, indica menor permeabilidad vascular."
+        }
+      ]
+    },
+    {
+      "id": "00f5778e-b7a1-45cb-8b65-519443e4e275",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "Con respecto a los cambios cardio respiratorios durante el ejercicio físico, marque la opción correcta:",
+      "options": [
+        {
+          "id": "11421b6f-5855-426b-af9b-a443f99c387b",
+          "text": "Antes del inicio del ejercicio físico se produce un aumento anticipado de la ventilación pulmonar, principalmente en deportistas entrenados.",
+          "correct": true
+        },
+        {
+          "id": "b4ddfb45-d0e5-45d7-a91e-61df38a6560e",
+          "text": "Durante el ejercicio físico intenso disminuye la capacidad de difusión de gases debido a la reducción del reclutamiento capilar."
+        },
+        {
+          "id": "973fe701-8644-4da3-b6b3-956bfd0d7244",
+          "text": "Durante el ejercicio físico la espiración es un proceso puramente pasivo que depende de la retracción elástica del tórax y los pulmones."
+        },
+        {
+          "id": "e0636200-92a3-4179-96ea-8100ac9860fb",
+          "text": "Durante el ejercicio físico los músculos espiratorios elevan las costillas y el esternón disminuyendo el volumen torácico."
+        },
+        {
+          "id": "8ae14aa4-311c-40c2-b4b5-93ebfadda612",
+          "text": "Durante el esfuerzo máximo la ventilación minuto alcanza los 10-12 l/min en personas sedentarias."
+        }
+      ]
+    },
+    {
+      "id": "4a7a605a-27f5-4bc2-9bb0-a25ca7ed3cd9",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "Con respecto a los cambios fisiológicos al trasladarse a grandes alturas (por encima de los 3500 metros sobre el nivel del mar), señale la opción correcta.",
+      "options": [
+        {
+          "id": "78817d06-1707-4045-a6b9-7b51e668859b",
+          "text": "La hiperventilación produce una hipocapnia con un aumento del pH.",
+          "correct": true
+        },
+        {
+          "id": "e7689a0c-40d2-4e72-87f4-7c8cd09a74e5",
+          "text": "Estos cambios llevan a una acidosis."
+        },
+        {
+          "id": "85d07812-0bce-4d90-95bf-13b7ff2e0fc2",
+          "text": "Se produce en forma refleja un estímulo del centro respiratorio."
+        },
+        {
+          "id": "4c13c201-87a1-4d92-9e3c-8a6c8e33faac",
+          "text": "Se produce una hipoventilación en respuesta a los niveles bajos de oxígeno."
+        }
+      ]
+    },
+    {
+      "id": "bb152772-2d21-49df-9551-de1012124a6d",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "Con respecto a los volúmenes pulmonares, señale la opción correcta.",
+      "options": [
+        {
+          "id": "2a6f4a83-94d0-4dd7-8ed7-1789f5f794e1",
+          "text": "Ninguna de las otras opciones es correcta.",
+          "correct": true
+        },
+        {
+          "id": "2cbde853-e4b3-4b15-9392-254105d79bda",
+          "text": "La capacidad inspiratoria incluye el volumen de reserva espiratoria."
+        },
+        {
+          "id": "cd36c173-3e42-415d-a2f9-0cd87bd5f37d",
+          "text": "La capacidad inspiratoria incluye el volumen residual."
+        },
+        {
+          "id": "cf0e3a49-eab4-41f1-b14c-ed5d6798df8e",
+          "text": "La capacidad residual funcional incluye el volumen corriente."
+        },
+        {
+          "id": "4fd54e0f-a5ea-4949-93dd-130d9075d0cf",
+          "text": "La capacidad vital incluye el volumen residual."
+        }
+      ]
+    },
+    {
+      "id": "9484d1ab-778d-40c5-9ea9-19d5b620fc0a",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "Con respecto al gas alveolar, en condiciones fisiológicas, señale la opción correcta.",
+      "options": [
+        {
+          "id": "80541794-4c47-4a16-9710-4f750b2423ae",
+          "text": "La PO2 alveolar se equilibra con la PO2 arterial en 1/3 del tiempo que le lleva a la sangre capilar recorrer los alveolos.",
+          "correct": true
+        },
+        {
+          "id": "0f86c306-2394-4d80-a4f1-467cda62ad62",
+          "text": "Durante el ejercicio el aumento de la ventilación produce una disminución marcada de la PCO2 arterial."
+        },
+        {
+          "id": "f6346be6-e9d0-4d8c-870e-020a1addc749",
+          "text": "Durante el ejercicio muy intenso la PO2 arterial nunca llega a equilibrarse con la PO2 alveolar."
+        },
+        {
+          "id": "14e512c0-2e19-4654-887a-fa7ced745d02",
+          "text": "El aumento de la perfusión produce un aumento de la PO2 arterial."
+        },
+        {
+          "id": "c6d7a478-357d-440b-8779-007a8ea11e47",
+          "text": "El aumento de la ventilación produce un aumento de la PCO2 arterial."
+        }
+      ]
+    },
+    {
+      "id": "cb4d9519-c891-44e9-985c-58c33c614b8d",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "Con respecto al transporte de dióxido de carbono en sangre, señale la opción correcta.",
+      "options": [
+        {
+          "id": "a5d4145b-13fa-4990-ae64-b7afc3bb8a0b",
+          "text": "La hemoglobina tiene menor afinidad por el dióxido de carbono cuando la PO2 es elevada.",
+          "correct": true
+        },
+        {
+          "id": "5682d940-c60c-4563-a947-7665e67dbe86",
+          "text": "El bicarbonato difunde a través de las membranas con más facilidad que el dióxido de carbono."
+        },
+        {
+          "id": "00f2f5d0-1ba7-4b68-b13f-d2b867d7d3bc",
+          "text": "La curva de disociación de la hemoglobina para el dióxido de carbono es sigmoidea."
+        },
+        {
+          "id": "07e31223-4b54-43fc-b31d-3c42c424d30a",
+          "text": "La mayor parte se transporta unido a la hemoglobina."
+        },
+        {
+          "id": "f0897835-922a-403f-a977-75cda2b8b8c0",
+          "text": "Ninguna de las otras opciones es correcta."
+        }
+      ]
+    },
+    {
+      "id": "73d06cf7-b078-40b7-becb-701c46f792ad",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "Con respecto al transporte de oxigeno en sangre, señale la opción correcta.",
+      "options": [
+        {
+          "id": "813ad57c-ca03-4e17-86b4-fbab8837e153",
+          "text": "Ninguna de las otras opciones es correcta.",
+          "correct": true
+        },
+        {
+          "id": "44c6d910-aa73-495f-8d0b-6c213e4cc692",
+          "text": "El pH no afecta la afinidad de la hemoglobina por el oxígeno."
+        },
+        {
+          "id": "ea23f2e5-c8ba-448a-8476-686af0663e9d",
+          "text": "La hemoglobina tiene mayor afinidad por el oxígeno cuando la PCO2 es elevada."
+        },
+        {
+          "id": "d7e44d54-8209-4056-adc6-6c62b0d1436b",
+          "text": "La hemoglobina tiene menor afinidad por el oxígeno cuando la PO2 es elevada."
+        },
+        {
+          "id": "f3a9fc8e-2a1b-4ed4-9567-d703e881a8f3",
+          "text": "La saturación de la hemoglobina es la cantidad máxima de oxígeno que puede combinarse con la hemoglobina."
+        }
+      ]
+    },
+    {
+      "id": "85d9162a-6001-4b6f-82c7-087fdb494012",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "De las siguientes definiciones de presión arterial, señale la opción correcta:",
+      "options": [
+        {
+          "id": "2e96d86b-0adc-4a7a-8209-f976367eadf5",
+          "text": "Ninguna de las otras opciones es correcta.",
+          "correct": true
+        },
+        {
+          "id": "65a80105-1563-4388-b8a0-42fe079b4c17",
+          "text": "En un adulto normal durante el día la presión diastólica varía entre 30-40 mmHg y la sistólica entre 80-100 mmHg."
+        },
+        {
+          "id": "5445766a-5c63-4994-b407-dbbaf8252812",
+          "text": "La presión arterial en el rango fisiológico es fundamental para que se produzcan, en condiciones normales, altos niveles de presión hidrostática capilar, posibilitando elevada filtración capilar de líquidos al intersticio y nula o mínima reabsorción líquidos del intersticio al compartimiento capilar."
+        },
+        {
+          "id": "4ff93459-b0e5-4c27-b512-719aef979771",
+          "text": "Se define en función de la distancia y longitud del área frontal a la circulación del vaso sobre el cual se desplaza."
+        }
+      ]
+    },
+    {
+      "id": "984aab36-7a71-40ec-b5f4-6d5a214fa9a4",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "Del total de CO2 transportado en sangre indique qué porcentaje aproximado es transportado disuelto en la misma.",
+      "options": [
+        {
+          "id": "5d642c4d-c36a-4842-a37a-d8989e7bea4d",
+          "text": "10%.",
+          "correct": true
+        },
+        {
+          "id": "c855ba22-cb20-4f60-9bc8-dd99a2801e0d",
+          "text": "0,5%."
+        },
+        {
+          "id": "1ab13cb8-c261-40b7-9335-79451577bdfa",
+          "text": "20%."
+        },
+        {
+          "id": "67da8819-2a63-4930-8d06-da2763b4a553",
+          "text": "30%."
+        },
+        {
+          "id": "6d0292b3-d7ea-4164-8eda-b40f2cd38bd6",
+          "text": "50%."
+        }
+      ]
+    },
+    {
+      "id": "9b08871f-8cb2-45d9-a49b-63e87ce0c227",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "Dos de los principales sistemas buffer del plasma son el buffer fosfato (Na2HPO4/NaH2PO4) y el buffer bicarbonato (HCO3-/CO2). ¿Cuál de las siguientes propiedades contribuye a que, en el plasma, el buffer bicarbonato sea más efectivo que el buffer fosfato?",
+      "options": [
+        {
+          "id": "2fed7454-37ae-44a2-91f4-41d1ec05f83c",
+          "text": "La concentración plasmática del buffer bicarbonato es mayor que la del buffer fosfato.",
+          "correct": true
+        },
+        {
+          "id": "4f5be607-ad4f-440d-bf30-649eb9e8db90",
+          "text": "A la temperatura corporal la disociación del buffer bicarbonato es mayor que la del buffer fosfato."
+        },
+        {
+          "id": "df6121cf-7353-482c-8fe5-f68057fd6d64",
+          "text": "El buffer bicarbonato está constituido por un ácido más fuerte que buffer fosfato."
+        },
+        {
+          "id": "70717406-ae9f-4e35-9e51-03b63c5445f7",
+          "text": "El valor del pKa del buffer bicarbonato está más próximo al pH del plasma que el del buffer fosfato."
+        },
+        {
+          "id": "fa86ed45-449a-472b-a932-089ab2fe8656",
+          "text": "La solubilidad en el plasma de los componentes del buffer bicarbonato es mayor que la solubilidad de los del buffer fosfato."
+        }
+      ]
+    },
+    {
+      "id": "c589e82d-2576-4937-bf8c-189de69a1731",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "Durante el sueño en forma fisiológica la actividad del sistema cardiovascular es diferente. De las siguientes afirmaciones señale la correcta.",
+      "options": [
+        {
+          "id": "83674181-3bf9-46ac-aeba-faf3264d80df",
+          "text": "Durante el sueño de movimientos oculares rápidos (REM) hay un aumento de la actividad del sistema nervioso autónomo parasimpático en forma intercalada se producen descargas fásicas del sistema nervioso simpático dando la característica variabilidad y de frecuencia cardiaca y cambios de presión que se producen en esa etapa.",
+          "correct": true
+        },
+        {
+          "id": "d49142b3-43f9-4254-a599-cba05ac45cf0",
+          "text": "Al final de la noche previo al despertar se producen grandes caídas de la presión arterial."
+        },
+        {
+          "id": "16cf4c7e-e540-4a49-84d9-ac8d9a922fc1",
+          "text": "Durante el sueño lento o no REM (NREM) el sistema nervioso autónomo parasimpático disminuye su actividad, esto trae como consecuencia un gran aumento de la frecuencia cardiaca y el gasto cardiaco."
+        },
+        {
+          "id": "545b7227-ef85-44b7-8b43-aaa379e6e412",
+          "text": "El sistema autónomo simpático aumenta hasta en un 40% su actividad en las etapas más profundas del sueño lento (NREM) produciendo las características ondas delta."
+        }
+      ]
+    },
+    {
+      "id": "f1d4fbba-ea12-4bcf-be6a-0906618fff2f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "El siguiente diagrama representa registros de presión correspondientes a distintos sectores del sistema vascular (desde el ventrículo izquierdo hasta la aurícula derecha). Teniendo en cuenta el diagrama, señale la opción correcta:",
+      "image": "f1d4fbba-ea12-4bcf-be6a-0906618fff2f.webp",
+      "options": [
+        {
+          "id": "8884b166-f1fe-455b-b2fe-4c1c02d27620",
+          "text": "El número 1 (uno) señala o corresponde a la presión máxima alcanzada durante la sístole ventricular izquierda.",
+          "correct": true
+        },
+        {
+          "id": "42c14206-2605-4f81-93ef-e65f4be88380",
+          "text": "El punto del la onda señalada con el número 1 (uno) se debe al inicio de la diástole ventricular derecha."
+        },
+        {
+          "id": "16b6f830-cca6-4879-bc17-f3398eaabc1c",
+          "text": "La flecha 0 (cero) señala el momento de apertura de la válvula aórtica."
+        },
+        {
+          "id": "e6ebafe9-c559-4796-ac17-5fe1e0ba2982",
+          "text": "La resta entre la presión en el lugar señalado con el 1 y el señalado con el 0 se define como la presión arterial media."
+        },
+        {
+          "id": "61526f23-1701-4326-b2d4-f70d59372162",
+          "text": "Ninguna de las otras opciones es correcta."
+        }
+      ]
+    },
+    {
+      "id": "8c765e53-8ef3-49b0-ace2-35df4dbad24d",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "El sistema respiratorio modifica su actividad durante el sueño. De las siguientes afirmaciones señale la opción correcta.",
+      "options": [
+        {
+          "id": "dd010748-cdd0-4a64-ba5e-43d10ee917f6",
+          "text": "Durante el sueño REM la frecuencia respiratoria se vuelve irregular y el volumen corriente disminuye.",
+          "correct": true
+        },
+        {
+          "id": "4f5c1d90-e073-4eb1-a1d8-6998bd9f44c6",
+          "text": "Durante el sueño lento o NREM la frecuencia respiratoria basal rápidamente aumenta hasta el pasaje a sueño REM."
+        },
+        {
+          "id": "950a3ded-d69f-4356-a8d4-e7d949153dea",
+          "text": "El volumen corriente respiratorio aumenta en más de un 30% durante el sueño REM."
+        },
+        {
+          "id": "c5ffc763-164e-42a4-a03f-59b886f680c5",
+          "text": "La ventilación aumenta de frecuencia y el volumen minuto durante el sueño de ondas delta o sueño profundo."
+        }
+      ]
+    },
+    {
+      "id": "602972d8-d763-438e-b2a8-76c2ed627282",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "El trasladarse a una gran altura entre los 3500 y 5000 metros sobre el nivel del mar produce una serie de cambios de los mencionados a continuación. Señale la opción correcta.",
+      "options": [
+        {
+          "id": "2f0a6bba-eb9b-4312-a84d-e70530481a17",
+          "text": "Se produce un aumento del hematocrito, estimulación hematopoyética.",
+          "correct": true
+        },
+        {
+          "id": "3d3600fc-83a1-4e0f-b558-a0ade0dcd671",
+          "text": "Se observa una bradicardia (disminución de la frecuencia cardiaca) y del gasto cardiaco hasta que se logra la aclimatación."
+        },
+        {
+          "id": "585e800e-80d9-485a-83c5-d9948d9c315c",
+          "text": "Se produce una disminución del contenido del 2,3-difosofoglicerato (2,3-DPG) de los glóbulos rojos disminuyen la afinidad de la hemoglobina por el oxígeno."
+        },
+        {
+          "id": "95fb0e53-edb4-46de-9c03-09fddd2b5ad0",
+          "text": "Se produce una hiperventilación por hipoxia (niveles bajos de O2) del aire inspirado lo que produce un aumento de la presión parcial de CO2 en sangre lo que produce una alcalosis respiratoria."
+        }
+      ]
+    },
+    {
+      "id": "b01e3ae4-bbc9-40a1-bf4f-73c8fa91774a",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "En cuanto a la respiración durante el ejercicio físico, marque la opción correcta:",
+      "options": [
+        {
+          "id": "03a77118-63b0-4303-b496-f1f2e00d1647",
+          "text": "La ventilación minuto durante el ejercicio moderado puede ser de entre 40 y 60 l/min.",
+          "correct": true
+        },
+        {
+          "id": "3adfb47f-475f-48b1-b3c3-1b95b8f82e2b",
+          "text": "Durante el ejercicio físico moderado la PCO2 arterial alcanza unos 30 mmHg."
+        },
+        {
+          "id": "4840028d-386d-494f-901f-5516f660c09b",
+          "text": "Durante el ejercicio físico moderado la relación ventilación/perfusión disminuye hasta 6 veces."
+        },
+        {
+          "id": "282dac9c-9972-45bd-b61a-122af361b3a6",
+          "text": "La capacidad de difusión de gases se reduce a la mitad."
+        },
+        {
+          "id": "f5e40de2-8b32-48b8-8c3f-da560b34aacf",
+          "text": "Ninguna de las otras opciones es correcta."
+        }
+      ]
+    },
+    {
+      "id": "c17b9291-add1-4fa9-8f8e-b51f92f83faa",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "Indique cuál de las siguientes opciones corresponde al efecto Haldane.",
+      "options": [
+        {
+          "id": "6529b5d5-a2b0-4b93-aea8-d56a10463670",
+          "text": "El aumento de la carga total de CO2 en sangre provocado por la disminución de la PO2.",
+          "correct": true
+        },
+        {
+          "id": "03513587-6746-41f6-8679-fadb12802797",
+          "text": "El aumento de la concentración de 2,3-difosfoglicerato en la sangre venosa."
+        },
+        {
+          "id": "ee7e1f52-cf4b-4d9d-988b-fc2e0f506005",
+          "text": "El aumento de la concentración de ion cloruro en el glóbulo rojo en la sangre venosa."
+        },
+        {
+          "id": "31b5f21c-f629-4927-9203-059cced72987",
+          "text": "El aumento de la concentración de protones en la sangre venosa."
+        },
+        {
+          "id": "c198a4e0-3256-4dec-b44d-0b573a0cdc9b",
+          "text": "El aumento de liberación de protones por la hemoglobina a medida que esta proteína se desoxigena."
+        }
+      ]
+    },
+    {
+      "id": "c2f981d1-42df-4baf-a305-77b494237739",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "Indique qué modificaciones espera encontrar en la sangre durante el ejercicio.",
+      "options": [
+        {
+          "id": "386a8456-2434-4d30-83e1-bb121a121d61",
+          "text": "Un desplazamiento a la derecha de la curva de disociación de oxígeno de la hemoglobina.",
+          "correct": true
+        },
+        {
+          "id": "bb99e6fa-c5c6-4002-8433-10135de69af3",
+          "text": "Un aumento de 20% de la saturación de la hemoglobina en la sangre alveolar."
+        },
+        {
+          "id": "1bf372b9-457f-478d-b5da-891cfcc1cebf",
+          "text": "Un aumento de la concentración de 2,3-difosfoglicerato en el glóbulo rojo."
+        },
+        {
+          "id": "7fa5b720-3e6f-4c80-911e-f9211fa9d335",
+          "text": "Un aumento del pH de la sangre."
+        },
+        {
+          "id": "2ff8e3b7-5aa2-42ad-9275-28ba8ea549ac",
+          "text": "Una disminución de la PO250% (o P50) de la hemoglobina."
+        }
+      ]
+    },
+    {
+      "id": "f10f591e-7af2-4a8b-9777-193c770a9b3e",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "La Ley de Henry establece que la solubilidad de un gas en un líquido:",
+      "options": [
+        {
+          "id": "64585523-044b-4517-8318-55c50cacd9f4",
+          "text": "Aumenta si aumenta su presión parcial en la fase gaseosa.",
+          "correct": true
+        },
+        {
+          "id": "cdca8bdc-36a6-4e23-b69a-63a5140e0114",
+          "text": "Aumenta si aumenta la superficie de contacto entre la fase acuosa y la fase gaseosa."
+        },
+        {
+          "id": "85aabf8f-d565-4da9-91cd-ed8dda3461e4",
+          "text": "Aumenta si disminuye el espesor de la membrana entre la fase gaseosa y la fase acuosa."
+        },
+        {
+          "id": "26fc7dc2-309a-4d67-b58a-cba8b2ebff57",
+          "text": "Disminuye si aumenta el coeficiente de solubilidad del gas."
+        },
+        {
+          "id": "cb5c0e5e-eca7-4455-b9a1-1fd726e8812a",
+          "text": "Disminuye si disminuye la temperatura del líquido."
+        }
+      ]
+    },
+    {
+      "id": "66a6cab2-b904-45bc-b174-0a8e2954945d",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "Respecto a la espirometría simple, marque lo correcto.",
+      "options": [
+        {
+          "id": "37ce99d5-cd5a-4166-a200-7a0b304b97e6",
+          "text": "La capacidad residual funcional es igual a la suma del volumen de reserva espiratorio y el volumen residual.",
+          "correct": true
+        },
+        {
+          "id": "e32e9948-6b51-43d0-a73d-f1283f7df226",
+          "text": "El espirómetro simple permite la determinación de todos los volúmenes y capacidades pulmonares."
+        },
+        {
+          "id": "0e40ade5-6c88-4ce8-b7a6-c4eb7ae1f3b2",
+          "text": "El volumen de reserva inspiratorio es aquel comprendido entre la capacidad residual funcional y la capacidad pulmonar total."
+        },
+        {
+          "id": "463cf595-c16d-4827-be25-c0a31052a1e4",
+          "text": "La capacidad espiratoria es todo el volumen que puede medirse ante una espiración máxima desde la capacidad pulmonar total."
+        }
+      ]
+    },
+    {
+      "id": "5d08aa9e-eedb-4eb2-89e7-25bd553753e4",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "Respecto a la estenosis de la arteria renal como causa de hipertensión arterial:",
+      "options": [
+        {
+          "id": "c48f8a3e-1e59-4b80-9b90-e951cc7fb612",
+          "text": "Provoca aumento persistente de la producción de renina.",
+          "correct": true
+        },
+        {
+          "id": "c0524242-24ae-4fcf-9320-b56b7ae9e8ae",
+          "text": "El mecanismo de adaptación a la estenosis es la vasodilatación de la arteriola aferente."
+        },
+        {
+          "id": "e6b4907a-5782-4580-abfa-7f0254cf33c0",
+          "text": "Provoca un bloqueo permanente del sistema renina angiotensina aldosterona."
+        }
+      ]
+    },
+    {
+      "id": "08e34e54-30b8-4267-834e-192be3071460",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "Respecto a la via área y zonas de intercambio de gases, marque lo correcto.",
+      "options": [
+        {
+          "id": "162fb5c5-13ab-4b8c-91a2-c9775da66f56",
+          "text": "La zona respiratoria (los alveolos) aparecen inicialmente relacionados con los bronquiolos respiratorios para terminar finalmente en los sacos alveolares.",
+          "correct": true
+        },
+        {
+          "id": "6cf8f7f8-0dcd-40d7-96ea-6f66f8a5491c",
+          "text": "El área total de sección es máxima a nivel de la 5ta división del árbol bronquial desde la tráquea."
+        },
+        {
+          "id": "bd2b5971-8ac6-4f78-ae50-b6ef4da5466e",
+          "text": "La barrera alveolo-capilar, es el conjunto de membranas comprendidas entre la membrana del glóbulo rojo y el endotelio capilar."
+        },
+        {
+          "id": "ce4983d3-ab0b-4b6b-bd2a-5e25878a1a22",
+          "text": "La velocidad de flujo de aire aumenta, a medida que aumenta el número de divisiones del árbol bronquial."
+        }
+      ]
+    },
+    {
+      "id": "c5c96365-ceb5-4f2f-b5a3-6cf51cc589cf",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "Respecto a las curvas de volumen-tiempo en la espirometría dinámica, marque lo correcto.",
+      "options": [
+        {
+          "id": "1d3fa494-d8ae-4b4a-bb7c-43b66c3332a8",
+          "text": "El volumen espiratorio forzado en 1 s, se encuentra prolongado en individuos con patología obstructiva.",
+          "correct": true
+        },
+        {
+          "id": "e5c3d89d-582f-4157-9f17-862429aa6de5",
+          "text": "El valor del flujo espiratorio forzado 25-75 (FEF25-75), es mayor en individuos con patología obstructiva que en individuos normales."
+        },
+        {
+          "id": "5c02ae38-c215-466b-b03e-cb363eaa8fc4",
+          "text": "El índice de Tiffeneau (VEMS/CVF), se encuentra aumentado en individuos con patología obstructiva."
+        },
+        {
+          "id": "1b2dc01b-0deb-4a5c-9150-567dc7595fcb",
+          "text": "El índice de Tiffeneau (VEMS/CVF), se encuentra disminuido en individuos con patología restrictiva."
+        },
+        {
+          "id": "ee060c2a-7a87-474c-8931-3c42528b0753",
+          "text": "La capacidad vital forzada, se encuentra aumentada en individuos con patología obstructiva."
+        }
+      ]
+    },
+    {
+      "id": "480c80e3-96bd-4a68-9d5a-2f80739236a3",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "Respecto a las curvas flujo-volumen en la espirometría dinámica, marque lo correcto.",
+      "options": [
+        {
+          "id": "59c5421e-4d76-480d-85d8-a3eac7db56a5",
+          "text": "El sector final del flujo durante la espiración forzada es independiente del esfuerzo debido a la compresión dinámica de la vía aérea.",
+          "correct": true
+        },
+        {
+          "id": "4603fe23-cea9-4e8c-b330-7c26fbb8d31b",
+          "text": "El flujo durante la espiración forzada es constante."
+        },
+        {
+          "id": "ed899f93-471a-4d74-8746-9df02b5f6255",
+          "text": "El flujo durante la inspiración forzada es constante."
+        },
+        {
+          "id": "e6a9b546-6244-4882-8258-7b75d489f47e",
+          "text": "El flujo en la inspiración es independiente del esfuerzo."
+        },
+        {
+          "id": "92370055-fe0c-4f43-b905-82df66ac3483",
+          "text": "El sector inicial del flujo durante la espiración forzada es independiente del esfuerzo."
+        }
+      ]
+    },
+    {
+      "id": "e8d375c3-cf7d-4f65-a68a-d3a433db4cad",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "Respecto a las propiedades pasivas de las curvas de compliance estáticas, marque lo correcto.",
+      "options": [
+        {
+          "id": "deefa9d6-8ef0-4364-9151-76dc8cc7f6b9",
+          "text": "Para un volumen igual a la capacidad residual funcional, la presión transmural torácica es igual y opuesta a la pulmonar.",
+          "correct": true
+        },
+        {
+          "id": "a0fcdd0a-97ca-46c1-ad95-79ce953ee2c3",
+          "text": "El volumen de equilibrio para el pulmón es igual a la capacidad residual funcional."
+        },
+        {
+          "id": "53f5e81e-1512-472b-be8d-27b11abb6fef",
+          "text": "El volumen de equilibrio para el tórax es igual al volumen residual."
+        },
+        {
+          "id": "3ce43bb3-7c4c-4231-9608-d7f104c33186",
+          "text": "Las presiones transmurales cumplen que PTMt = PTMp + PTMtp, siendo t la torácica, p la pulmonar y tp la del sistema tóraco pulmonar."
+        },
+        {
+          "id": "64c3b6c5-202f-4dff-b21a-c843cdc105c0",
+          "text": "Los pulmones tienen presión transmural negativa para todos los volúmenes pulmonares."
+        }
+      ]
+    },
+    {
+      "id": "d2c69f48-c78a-4ba3-ba4c-d1bb03937ec6",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "Respecto al ciclo respiratorio, marque lo correcto.",
+      "options": [
+        {
+          "id": "b0e66f07-1e57-4e8a-9376-2c1248db2182",
+          "text": "La presión alveolar es cero respecto a la atmosférica, al final de la espiración.",
+          "correct": true
+        },
+        {
+          "id": "69bde361-84c7-47e2-878c-ce2bc151e64c",
+          "text": "El flujo es máximo al final de la inspiración."
+        },
+        {
+          "id": "dd920b19-9072-43f7-b842-f5b0a4efaf31",
+          "text": "La presión alveolar es máxima en el ciclo, al final de la inspiración."
+        },
+        {
+          "id": "0f762269-3ee9-41fa-8f57-e670ea454aa8",
+          "text": "La presión intrapleural respecto a la atmosférica varía entre 0 y +3 mmHg."
+        }
+      ]
+    },
+    {
+      "id": "5b260eb0-5c40-4a2c-ab53-85baca6781a6",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "Respecto al diagnóstico de hipertensión arterial, marque la correcta:",
+      "options": [
+        {
+          "id": "0c1a1453-0c85-4a39-9c00-c52d663c6362",
+          "text": "El R2 aumentado en foco aórtico es un elemento clínico sugerente de hipertensión arterial.",
+          "correct": true
+        },
+        {
+          "id": "97ddb452-4767-4d2b-87b9-3a0bb6c38c61",
+          "text": "Para el diagnóstico es necesario un valor en consultorio por encima de 140 de presión arterial sistólica, o de 90 de presión arterial diastólica."
+        },
+        {
+          "id": "3d73fb18-79ca-4f6a-b9de-291d5bd1f1ef",
+          "text": "Se busca la causa en todos los pacientes, debido a que el 90 % son hipertensión arterial secundaria."
+        }
+      ]
+    },
+    {
+      "id": "3bcb369e-43fc-43fa-bd76-7df6e46e2755",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "Respecto al musculo liso del aparato respiratorio. Marque lo correcto.",
+      "options": [
+        {
+          "id": "7aae87fa-2fab-4037-851a-326951a16cb3",
+          "text": "Los canales de K (Potasio) se estimulan ante la activación de receptores simpáticos beta2.",
+          "correct": true
+        },
+        {
+          "id": "5134e8e9-887e-42a7-8096-fc20f3f07b4d",
+          "text": "El músculo liso de la vía aérea se relaja por estimulación parasimpática."
+        },
+        {
+          "id": "02707a85-1a6e-4cf0-b1c0-e44541587247",
+          "text": "La disminución de oxígeno en la sangre pulmonar, estimula las corrientes de potasio del músculo liso de los vasos pulmonares."
+        },
+        {
+          "id": "57ded9d9-dc0a-491c-a990-601153600d33",
+          "text": "La estimulación de receptores simpáticos beta2 aumenta la concentración de calcio intracelular."
+        }
+      ]
+    },
+    {
+      "id": "fdc382ff-d399-4126-b2a7-f093c428647b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "Respecto al surfactante pulmonar, marque lo correcto:",
+      "options": [
+        {
+          "id": "3b7e59f5-72cf-4fdf-93e2-9977b022741a",
+          "text": "Permite disminuir la tensión superficial al disminuir el radio alveolar.",
+          "correct": true
+        },
+        {
+          "id": "426aad04-b8b2-4302-9784-c7909dcf6816",
+          "text": "Está constituido mayoritariamente por glúcidos."
+        },
+        {
+          "id": "36e2355b-22e1-4756-b601-8f9fe1af2c09",
+          "text": "Se produce adecuadamente y funciona como en el adulto en embriones de 3 meses de concepción."
+        },
+        {
+          "id": "58903a56-4f47-4858-a9f7-4848ca40b91b",
+          "text": "Su presencia en los alvéolos de menor tamaño, aumenta la presión alveolar."
+        },
+        {
+          "id": "3f1a1270-9d0f-41b2-a6bb-1e1c1e2b0997",
+          "text": "Su tensión superficial es independiente del área del fluido con el cual se mezcla."
+        }
+      ]
+    },
+    {
+      "id": "2ed9c589-a5bd-4d23-9ae1-772facbcc330",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "Si una persona respira dentro de una bolsa de papel durante 10 minutos es esperable que:",
+      "options": [
+        {
+          "id": "7e89b0e4-9339-47af-b6d4-336d5fffb723",
+          "text": "La PCO2 de la sangre aumente y su pH disminuya.",
+          "correct": true
+        },
+        {
+          "id": "78737a21-c69a-4c45-879b-a4849815fa9b",
+          "text": "La PCO2 de la sangre aumente y su pH aumente."
+        },
+        {
+          "id": "a7852b8e-08c7-404e-902c-f4c6dff2a863",
+          "text": "La PCO2 de la sangre disminuya y su pH aumente."
+        },
+        {
+          "id": "a6af976a-d46d-42a8-a0bd-f0e39d134dd5",
+          "text": "La PCO2 de la sangre disminuya y su pH disminuya."
+        },
+        {
+          "id": "aaba7deb-5b7f-4e08-8973-322d8fa9465e",
+          "text": "La PCO2 de la sangre no se modifique porque el riñón regula la concentración sanguínea del CO2."
+        }
+      ]
+    },
+    {
+      "id": "c0c0b88e-7bde-4562-bb68-be585f51e774",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-11-29",
+      "text": "¿Cuál de las siguientes afirmaciones es correcta para una mezcla de gases a una atmósfera de presión (760 mmHg)?",
+      "options": [
+        {
+          "id": "718cbe23-91f0-4399-a2a1-719aafefd32e",
+          "text": "Si la fracción porcentual de oxigeno es 20% en aire a 37 grados centígrados (47 mmHg de vapor de agua), la presión parcial puede calcularse aplicando la formula PO2 = (760-47) x 0.2, siendo PO2 la presión parcial de oxigeno.",
+          "correct": true
+        },
+        {
+          "id": "38124204-3c3d-4511-b2ed-4c30bddc88ba",
+          "text": "Si la fracción porcentual de nitrógeno es 80% en aire a 37 grados centígrados (47 mmHg de vapor de agua), la presión parcial no puede computarse."
+        },
+        {
+          "id": "0698a0dd-987e-438a-87f8-0b695218d4a1",
+          "text": "Si la fracción porcentual de nitrógeno es 80% en aire a 37 grados centígrados (47 mmHg de vapor de agua), la presión parcial puede calcularse como PN2 = (760 + 47) / 0.8."
+        },
+        {
+          "id": "7d9ad204-8d66-44f5-b4ed-0dde32a15e0a",
+          "text": "Si la fracción porcentual de oxigeno es 20% en aire seco, la presión parcial es 76 mmHg (milímetros de mercurio)."
         }
       ]
     },
