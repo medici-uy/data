@@ -820,6 +820,852 @@
       ]
     },
     {
+      "id": "70fc6781-4c35-4a19-a6de-cea85a48cd51",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "A continuación, se asocian organelos y tipos celulares de varias glándulas endócrinas. Indique en cuál de las siguientes opciones el organelo citado es especialmente abundante en el tipo celular indicado:",
+      "options": [
+        {
+          "id": "c7ccf28e-0b5b-4092-b0b6-0e24f34c8c53",
+          "text": "Mitocondrias - células oxífilas de la paratiroides.",
+          "correct": true
+        },
+        {
+          "id": "34dea7cb-798a-42cd-97f3-aec5dda523a1",
+          "text": "Gotas lipídicas - células cromafines."
+        },
+        {
+          "id": "bf152170-ea01-44b1-a0b8-8c07a1d6f4a0",
+          "text": "Gránulos de secreción - células foliculares tiroideas."
+        },
+        {
+          "id": "747a8058-7399-4d3c-b967-4b7cdaac2c6b",
+          "text": "Retículo endoplásmico liso - células beta del islote de Langerhans."
+        },
+        {
+          "id": "1d2f7759-cc1b-47e7-89c2-d0baaa6fbfd4",
+          "text": "Retículo endoplásmico rugoso - células de la zona glomerular de la corteza suprarrenal."
+        }
+      ]
+    },
+    {
+      "id": "f8218174-1bd0-4d62-a3ec-bbe512d29df6",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "A una paciente se le diagnostica hipertiroidismo primario. El perfil hormonal tiroideo en plasma presentará las siguientes alteraciones (marque la opción correcta):",
+      "options": [
+        {
+          "id": "b21dbf0b-e43b-45b8-a5a7-9a2879a657b8",
+          "text": "T3 y T4 libres aumentadas y TSH disminuída.",
+          "correct": true
+        },
+        {
+          "id": "115d1c24-7bb4-4841-9ed6-95f1e8f0ae5e",
+          "text": "T3 y T4 libres aumentadas y TSH aumentada."
+        },
+        {
+          "id": "aa024b2d-637e-4d79-b027-121e1ed4e1e5",
+          "text": "T3 y T4 libres disminuídas y TSH aumentada."
+        },
+        {
+          "id": "06e43d76-a1de-485c-bf6b-db03114eb041",
+          "text": "T3 y T4 libres disminuídas y TSH disminuída."
+        }
+      ]
+    },
+    {
+      "id": "a033a9f8-3cec-4c9b-8415-dcd85b783785",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Acerca de la regulación del metabolismo del colesterol por la HMG-CoA reductasa (hidroximetil glutaril CoA reductasa), señale la opción correcta:",
+      "options": [
+        {
+          "id": "a648ad63-7d6d-41b9-b152-d14d718610ba",
+          "text": "La AMPK (quinasa dependiente de AMP) inhibe la síntesis de colesterol a través de la fosforilación de la HMG-CoA reductasa.",
+          "correct": true
+        },
+        {
+          "id": "c5d0d86d-bed4-4fd6-9a81-c221ad6b324d",
+          "text": "El aumento intracelular de AMPc promueve un aumento muy marcado en la actividad de la HMG-CoA reductasa."
+        },
+        {
+          "id": "9ae3019d-2989-4a6a-8e44-c95ab2385ab0",
+          "text": "El mevalonato constituye un activador alostérico de la HMG-CoA reductasa."
+        },
+        {
+          "id": "4cfdcb91-66f1-436e-a3bb-2bf01e6de978",
+          "text": "La proteína de unión a elementos reguladores de esteroles (SREBP) actúa a nivel ribosomal estimulando la traducción de la HMG-CoA reductasa."
+        },
+        {
+          "id": "5b2133f4-34c0-4ab6-9433-1717bc57c6d2",
+          "text": "Las estatinas de un farmacológico son activadores de la enzima capaces de estimular significativamente la síntesis de colesterol."
+        }
+      ]
+    },
+    {
+      "id": "a240ccf2-a4d2-4392-a863-d6acfb5722b4",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Acerca del metabolismo del nitrógeno, señale la opción correcta:",
+      "options": [
+        {
+          "id": "bbce09b6-8aef-4d28-bd29-4460f5428f6b",
+          "text": "La carbamoil fosfato sintetasa 1 es la principal reguladora del ciclo de la urea requiriendo N-acetil-glutamato como activador alostérico.",
+          "correct": true
+        },
+        {
+          "id": "c88b0f3a-4401-4dd4-af02-4ba3ec384514",
+          "text": "El óxido nítrico es un subproducto del ciclo de la urea."
+        },
+        {
+          "id": "1acaf0ce-7be2-4a3e-b4f0-b38bf7b5cc6a",
+          "text": "En condiciones de activación de la gluconeogénesis por ayuno, el ciclo de la urea se inactiva."
+        },
+        {
+          "id": "1a47b5eb-c0ea-4fad-b0bf-1146eee16607",
+          "text": "La glutamato aminotransferasa inhibe fuertemente el ciclo de la urea."
+        },
+        {
+          "id": "7a4d8818-d5b6-4ad8-890e-586e40f52611",
+          "text": "Las reacciones catalizadas por las aminotransferasas son irreversibles con gasto elevado de ATP."
+        }
+      ]
+    },
+    {
+      "id": "608540b0-07f6-41cb-949e-e5ba1dac186e",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Acerca del metabolismo del ácido araquidónico, señale la opción correcta:",
+      "options": [
+        {
+          "id": "32d33809-6007-4125-b428-07781e0f036c",
+          "text": "La prostaglandina I2 o prostaciclina es uno de los principales metabolitos del ácido araquidónico generado en el endotelio vascular.",
+          "correct": true
+        },
+        {
+          "id": "b4663390-f13d-45d0-a40d-cc045e2f063f",
+          "text": "El tromboxano A2 es el principal producto de la acción de la lipo oxigenasa."
+        },
+        {
+          "id": "3f60cd0e-0894-495c-b142-613d5c25ea2b",
+          "text": "La inhibición de la prostaglandina H sintasa (ciclo oxigenasa) estimula la síntesis de protaglandinas."
+        },
+        {
+          "id": "eef947dd-3a11-48cb-b2ed-cf4e08680f5a",
+          "text": "La prostaglandina E2 constituye un compuesto vaso constrictor potente."
+        }
+      ]
+    },
+    {
+      "id": "674a1a1d-bc92-437e-ae21-d94d5f7d25c7",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Además de su rol como unidades constituyentes de las proteínas, los aminoácidos sirven como precursores de las rutas de biosíntesis de diversos compuestos biológicos. Respecto a esto, indique la opción correcta:",
+      "options": [
+        {
+          "id": "1bf6e5b9-e355-4c95-8072-448ad031c712",
+          "text": "El aminoácido esencial triptófano es precursor de los neurotransmisores serotonina y melatonina.",
+          "correct": true
+        },
+        {
+          "id": "bae1e0c5-b62d-4481-a53a-7b24e6fcc108",
+          "text": "Dado que la tirosina es precursor de la síntesis de DOPA, la acumulación de dicho aminoácido puede llevar a la enfermedad de parkinson."
+        },
+        {
+          "id": "88ced567-5749-42a9-908d-50aa9d57103a",
+          "text": "El déficit en la enzima triptófano hidroxilasa que cataliza la hidroxilación del triptófano puede llevar a albinismo al impedir la correcta producción de melanina."
+        },
+        {
+          "id": "eb71e381-8233-41f4-b80e-8d01cef95475",
+          "text": "La adrenalina y noradrenalina son dos catecolaminas que se sintetizan a partir del aminoácido fenilalanina."
+        },
+        {
+          "id": "7a1edf71-1d95-493d-87fb-221b76d65d65",
+          "text": "La lisina, a partir del grupo amino de su cadena lateral, es precursor del óxido nítrico."
+        }
+      ]
+    },
+    {
+      "id": "c45e0fb4-dc19-4319-9cc5-3ac5656c9987",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Con respecto a los aspectos bioquímicos de la nutrición humana, señale la opción INCORRECTA:",
+      "options": [
+        {
+          "id": "f33e03b5-a269-4157-aaed-1d172b57f11f",
+          "text": "La fibra representa un componente de la dieta de elevado valor energético.",
+          "correct": true
+        },
+        {
+          "id": "111e41bb-c0d5-4eea-b7e7-a60ff20c7e0b",
+          "text": "La dosis recomendad diaria de nutriente es la dosis en la cual no se aprecian significativos niveles de toxicidad o deficiencia."
+        },
+        {
+          "id": "ef9205fe-67cd-4cc7-ae3b-051ffe586666",
+          "text": "Las vitaminas A, D, E y K son liposolubles."
+        },
+        {
+          "id": "a6124121-d58d-48b4-90fc-40f63a2a6622",
+          "text": "Los ácidos grasos omega 3 se encuentran en abundancia en la dieta mediterránea."
+        },
+        {
+          "id": "1a21c1f1-2115-4b04-af3a-13a1f6a9cd97",
+          "text": "Una dieta hipercalórica prolongada puede determinar un aumento del índice de masa corporal por encima de 30."
+        }
+      ]
+    },
+    {
+      "id": "d7869ce3-4326-43a2-8cd4-d0e51a088d3a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Durante la digestión proteica a nivel gástrico y duodenal se generan aminoácidos y una cantidad importante de péptidos de tamaño variable. ¿Qué sucede con estos péptidos u oligopéptidos en el tracto digestivo?",
+      "options": [
+        {
+          "id": "e8632493-485a-4528-bf0b-d13565f6646c",
+          "text": "Proteasas presentes en el borde del epitelio hidrolizan estos péptidos a di y tri péptidos que se absorben como tales en el epitelio.",
+          "correct": true
+        },
+        {
+          "id": "4bf654f7-080d-4b15-99a9-3a13e9174000",
+          "text": "Bacterias de la flora colónica digieren esos péptidos y los aminoácidos se absorben en el colon."
+        },
+        {
+          "id": "9f530c61-f6c3-439c-85aa-1db3779be932",
+          "text": "Proteasas del colon terminan de hidrolizarlos y formar aminoácidos."
+        },
+        {
+          "id": "a5a8f0d4-a038-4e10-acdc-98c23c845e62",
+          "text": "Proteasas presentes en el borde del epitelio hidrolizan estos péptidos a aminoácidos en forma completa."
+        },
+        {
+          "id": "75ceb42a-b4c9-4c2b-89b9-6a073881e713",
+          "text": "Una parte importante de estos péptidos se pierden en las heces."
+        }
+      ]
+    },
+    {
+      "id": "e8331915-d693-4c1a-8f46-b16eb419006f",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "En algunas condiciones, la superficie dorsal del cuerpo de la lengua humana puede tener una apariencia blanquecina. ¿Cuál de los siguientes procesos puede explicar este signo?",
+      "options": [
+        {
+          "id": "c7ba7927-b9ec-4634-b762-70c5f0c14464",
+          "text": "Enlentecimiento en la descamación del epitelio queratinizado superficial.",
+          "correct": true
+        },
+        {
+          "id": "1553fad7-460f-4f9e-8d8f-3c2988bad6a2",
+          "text": "Aumento en la descamación combinado con disminución de la proliferación del epitelio superficial."
+        },
+        {
+          "id": "b3d78615-86f1-4058-a6f7-ec325bd1807a",
+          "text": "Enlentecimiento en la proliferación en la capa basal del epitelio superficial."
+        },
+        {
+          "id": "448df096-b9a2-492e-8113-12fe11d2be38",
+          "text": "Inflamación de las papilas fungiformes."
+        },
+        {
+          "id": "2c49d247-647d-41bb-ae90-bb79c3c97b03",
+          "text": "Respuesta inflamatoria de las amígdalas linguales subepiteliales."
+        }
+      ]
+    },
+    {
+      "id": "a77c61fb-004d-4b93-9b04-9d557b9631cd",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "En relación a la actividad motora del tracto gastrointestinal, señale la opción correcta:",
+      "options": [
+        {
+          "id": "018fe91d-a8ca-436b-880c-20d5e19563d8",
+          "text": "La motilidad gastrointestinal es estimulada principalmente por el sistema nervioso parasimpático.",
+          "correct": true
+        },
+        {
+          "id": "d77e9485-7f6a-4fb8-9d43-afb22841368a",
+          "text": "El sistema nervioso intrínseco se encuentra localizado fuera de la pared gastrointestinal."
+        },
+        {
+          "id": "5555fc84-339b-4ac5-95ea-4d3aa64c25b0",
+          "text": "El óxido nítrico estimula la actividad motora del intestino."
+        },
+        {
+          "id": "0f4310d6-235a-4dcc-b53e-81aaf6cbf7e3",
+          "text": "La noradrenalina es usada como mediador químico por las neuronas excitatorias mientéricas."
+        },
+        {
+          "id": "50ca02c3-5df7-493d-b4bd-1cd891468d4e",
+          "text": "Reflejos intrínsecos coordinan la actividad motora entre regiones distantes del tubo digestivo (estómago-colon)."
+        }
+      ]
+    },
+    {
+      "id": "27795cd4-bdb9-4543-9768-290aaaa07187",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Indique la(s) función(es) de la apoliproteína apoA1.",
+      "options": [
+        {
+          "id": "f0bcab6f-0f63-48b3-bafb-067d36818f17",
+          "text": "Activa la LCAT (lecitina colesterol acil transferasa) e interctúa con el transportador ABCA 1.",
+          "correct": true
+        },
+        {
+          "id": "b0df1f1b-853b-49d1-83c8-36e95d2ff959",
+          "text": "Es co-activador de la lipoproteína lipasa."
+        },
+        {
+          "id": "50707d72-4697-496e-9772-2d445d4de6ae",
+          "text": "Interactúa con el receptor SR-B1."
+        },
+        {
+          "id": "f3fe2609-1c0f-4e6f-b5b4-1bc3dd1e81ee",
+          "text": "Media la transferencia de colesterol desde la VLDL a la HDL."
+        },
+        {
+          "id": "3e789097-3ad2-4019-8d8f-1496b04bc152",
+          "text": "Une el receptor de LDL."
+        }
+      ]
+    },
+    {
+      "id": "226c1f0e-01bc-4675-856f-c19ae26d1290",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "La cortisona se utilizó como droga con efecto glucocorticoide durante un tiempo, aunque posteriormente se generaron otras drogas más efectivas. ¿Cómo logra la cortisona tener cierto efecto glucorticoideo cuando se administra como droga?",
+      "options": [
+        {
+          "id": "783d84cb-82e0-4e18-bc27-233db9bb43d2",
+          "text": "Debido a que la 11-hidroxiesteroide deshidrogenasa tipo I reduce la cortisona en el hígado a cortisol.",
+          "correct": true
+        },
+        {
+          "id": "a8e435d4-b4ab-409a-acd1-e1c0aca8c04c",
+          "text": "Debido a que la cortisona estimula la colesterol desmolasa de la zona fascicular de la glándula suprarrenal y se genera cortisol."
+        },
+        {
+          "id": "a0a21e43-7e46-4a12-8679-f6af70b09934",
+          "text": "Debido a que la cortisona se transforma de dexametasona en el hígado."
+        },
+        {
+          "id": "ab73bdee-9c39-416e-9354-fd87480b92e9",
+          "text": "Debido a que los receptores de glucocorticoides tienen afinidad por la cortisona."
+        }
+      ]
+    },
+    {
+      "id": "b46708ed-a0c6-4e51-b5ea-3362936673bf",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "La formación de amonio en los hepatocitos ocurre por diferentes procesos que se mencionan en las opciones siguientes, EXCEPTO en una:",
+      "options": [
+        {
+          "id": "5e435932-dee2-4bf5-aaf6-88e771ebc75f",
+          "text": "Ciclo de cori entre músculo e hígado (lactato - glucosa).",
+          "correct": true
+        },
+        {
+          "id": "7c48d2d2-fffc-4d12-9602-5666e744d71f",
+          "text": "Ciclo glucosa - alanina entre el músculo e hígado."
+        },
+        {
+          "id": "0eb846da-25a4-4cf4-8a56-2dc3a30c41ef",
+          "text": "Desaminación de la glutamina en glutamato."
+        },
+        {
+          "id": "242cf01f-2298-46a4-a17b-3f56ced1a252",
+          "text": "Desaminación oxidativa del glutamato en alfa-cetoglutarato y de la alanina en piruvato."
+        },
+        {
+          "id": "f98f37e2-94fc-486a-b3d9-ad3e498c7c68",
+          "text": "Por la acción combinada de la aspartato aminotransferasa y la glutamato deshidrogenasa."
+        }
+      ]
+    },
+    {
+      "id": "f703832a-eaca-4da9-81e1-673a9f74a4d1",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "La renovación de las células del epitelio de superficie en las neuronas digestivas es un fenómeno muy dinámico y ocurre a partir de células madre de localización muy específica. ¿Dónde se localizan las células madre que dan lugar a las células parietales de la mucosa gástrica?",
+      "options": [
+        {
+          "id": "1b68a8a4-7658-42b3-99f8-ee7c9a2f6654",
+          "text": "En el istmo de las glándulas fúndicas.",
+          "correct": true
+        },
+        {
+          "id": "9ca4d20e-7220-4606-a07c-db265d098c61",
+          "text": "En el fondo de las criptas de Lieberkuhn."
+        },
+        {
+          "id": "04b98340-0dce-4074-a3c5-dca4dc4d6fbc",
+          "text": "En el fondo de las glándulas fúndicas."
+        },
+        {
+          "id": "977f3372-92cd-455b-87b3-df698287d260",
+          "text": "Intercaladas entre las células mucosas de superficie."
+        },
+        {
+          "id": "db68fe49-43ac-4613-bbd7-84ebeeacbb20",
+          "text": "Intercaladas entre las células principales de las glándulas fúndicas."
+        }
+      ]
+    },
+    {
+      "id": "ef8eeae2-4bac-4b58-837d-0003517e0847",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "La síntesis de cortisol por la glándula suprarrenal se caracteriza por (señale la opción correcta):",
+      "options": [
+        {
+          "id": "eb5d9256-c1ca-4517-9aee-33d489e92a7d",
+          "text": "La ACTH estimula a través del AMPc a la proteína StAR esencial para la traslocación del colesterol a la matriz mitocondrial.",
+          "correct": true
+        },
+        {
+          "id": "2142f389-2883-4155-b6e3-bc776f60697f",
+          "text": "La ACTH se une a sus receptores intracelulares en la zona reticular, que migran al núcleo y estimulan la síntesis de cortisol."
+        },
+        {
+          "id": "bf796b70-f9cb-4aa9-be07-59335a4ce7f3",
+          "text": "La hidroxilación en el carbono 18 es esencial durante la síntesis de cortisol en la corteza suprarrenal."
+        },
+        {
+          "id": "9c265a0b-2f0d-4cb7-a71f-05aec2fde57c",
+          "text": "La mayor parte del colesterol necesario para la síntesis proviene del acetil-CoA proveniente de la oxidación de la glucosa en la glándula suprarrenal."
+        },
+        {
+          "id": "39187b93-b9a3-48f9-8544-3833f23ae49c",
+          "text": "La progesterona es el primer intermediario de la síntesis del cortisol y es común en la ruta de todos los esteroides suprarrenales."
+        }
+      ]
+    },
+    {
+      "id": "ae20561c-0393-4fa5-bf09-fc494d3f7168",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "La síntesis de triglicéridos en el tejido adiposo se realiza fundamentalmente a partir de ácidos grasos presintetizados por el hígado o provenientes de la dieta. Acerca de las siguientes afirmaciones vinculadas a este proceso es correcto que:",
+      "options": [
+        {
+          "id": "e432bf93-8f9b-45b6-bb01-9de3cf5c9d0c",
+          "text": "La lipoproteín lipasa es la enzima que cataliza la desesterificación de los triglicéridos aportados al tejido adiposo.",
+          "correct": true
+        },
+        {
+          "id": "2044e1dd-3dcb-45ad-ae4b-f7d9a1c4f704",
+          "text": "El glicerol necesario para la re esterificación de los triglicéridos en el tejido adiposo proviene en su mayor parte del glicerol liberado en la membrana de los adipocitos."
+        },
+        {
+          "id": "11066476-bc23-4e7b-8df9-8f76eefad80f",
+          "text": "La insulina inhibe el proceso de síntesis de triglicéridos en los adipocitos."
+        },
+        {
+          "id": "49deae11-bc7b-4fbd-99ec-0f3369ffeeba",
+          "text": "Las LDL aportan la mayoro parte de los triglicéridos de origen hepático."
+        },
+        {
+          "id": "cdae7f12-5602-4372-a865-de41d83b37a4",
+          "text": "Los quilomicrones maduros no pueden ceder los triglicéridos al tejido adiposo ya que carecen de apo CII."
+        }
+      ]
+    },
+    {
+      "id": "ee7b2203-fe65-489c-a8bd-2471c913aecf",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "La α-amilasa pancreática (señale lo correcto):",
+      "options": [
+        {
+          "id": "e40c5941-4ffb-4778-8a1a-dc6c421e1b55",
+          "text": "Constituye una endoglicosidas con especificidad por enlaces glicosídicos α1-4.",
+          "correct": true
+        },
+        {
+          "id": "5108e1de-cddd-446e-8ed6-53e77e9abbcb",
+          "text": "Es capaz de hidrolizar los enlaces glicosídicos de la lactosa."
+        },
+        {
+          "id": "fc9fc538-8023-4146-950f-a88db14f3cd2",
+          "text": "Hidroliza los enlaces glicosídicos α1-6 del almidón y glucógeno."
+        },
+        {
+          "id": "3daa4a4f-c7d1-4ae9-97c6-8dceafc22647",
+          "text": "Permite la digestión total del almidón a unidades de glucosa en la luz del duodeno."
+        },
+        {
+          "id": "7819eaea-0174-48f7-937f-7f5d02f016d1",
+          "text": "Se sintetiza como zimógeno inactivo en el páncreas y se activa en la luz del duodeno por acción de la enteroquinasa."
+        }
+      ]
+    },
+    {
+      "id": "3f79a169-706f-47bd-b100-ccf81bb75cb2",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Los monosacáridos se transportan a través de las membranas celulares por una familia de transportadores llamados GLUTs que presentan las siguientes características (señale la opción correcta):",
+      "options": [
+        {
+          "id": "649a2612-3386-4ef8-b73d-67a0844fe035",
+          "text": "Los GLUT2 son transportadores de baja especificidad, alta capacidad y se expresan en los hepatocitos y enterocitos.",
+          "correct": true
+        },
+        {
+          "id": "100a4632-26cf-4a20-a2f1-17492e799b75",
+          "text": "Los GLUT1 transportan glucosa y sodio en las neuronas."
+        },
+        {
+          "id": "bfe16c41-3eb0-4891-8f0e-2cacbb0b78f8",
+          "text": "Los GLUT3 censan la glicemia y permiten La entrada de glucosa a las células beta del páncreas."
+        },
+        {
+          "id": "0a420c90-2e2c-4b2f-aace-3d87facce420",
+          "text": "Los GLUT4 se expresan en la membrana plasmática de los miocitos en muy baja concentración frente al estímulo insulínico."
+        },
+        {
+          "id": "63112f1d-173a-4566-90bc-83dc1f444875",
+          "text": "Los GLUT5 transportan específicamente galactosa en la membrana apical del enterocito."
+        }
+      ]
+    },
+    {
+      "id": "31028726-9ac0-49df-9a36-77db716030db",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Los quilomicrones y las VLDL tienen muchas similitudes y algunas diferencias. Señale cuál de las siguientes afirmaciones es una diferencia entre quilomicrones y VLDL.",
+      "options": [
+        {
+          "id": "53de6d0b-f1b6-41f7-8e8e-d6f5d817560c",
+          "text": "La apoB100 forma parte de las VLDL y la apoB48 forma parte de los quilomicrones.",
+          "correct": true
+        },
+        {
+          "id": "c66a04f3-78d8-445e-b64d-4a36126a71a4",
+          "text": "El lípido más abundante en los quilomicrones son los triacilglicéridos, mientras que en las VLDL son los fosfolípidos."
+        },
+        {
+          "id": "12c299b0-5ace-4fbf-a36b-557b6f5f315e",
+          "text": "La HDL interacciona con las VLDL transfiriéndoles apoC y apoE, mientras no interacciona con los quilomicrones."
+        },
+        {
+          "id": "eaf4414d-5385-43db-bebd-a91cea8b7312",
+          "text": "Las VLDL se transforman en LDL y los quilomicrones en HDL."
+        },
+        {
+          "id": "5507261f-0576-4d9c-91f9-c70bb83faa28",
+          "text": "Los quilomicrones poseen apoE, mientras que apoE no está presente en las VLDL."
+        }
+      ]
+    },
+    {
+      "id": "e32f9f8c-42e7-4358-bb71-91fb3b1b231d",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Respecto a las hormonas liberadas por la neurohipófisis, marque la opción correcta:",
+      "options": [
+        {
+          "id": "7747480b-696d-4452-b700-fd40378ecc74",
+          "text": "Son almacenadas en gránulos secretorios junto con sus respectivas neurofisinas.",
+          "correct": true
+        },
+        {
+          "id": "238e51a6-533a-42d9-b9e4-fb8ca9f3a665",
+          "text": "La concentración de calcio intracelular es irrelevante en su mecanismo de liberación."
+        },
+        {
+          "id": "963a8348-ff20-4dfb-8711-bd1f69be21ee",
+          "text": "Son principalmente hormonas esteroideas."
+        },
+        {
+          "id": "2e56124d-5ed4-44cb-be85-6ab38c606c9a",
+          "text": "Su liberación está controlada principalmente por hormonas liberadoras."
+        }
+      ]
+    },
+    {
+      "id": "bf954c10-a5e7-47f2-94aa-0b77e5b4e578",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Respecto a los efectos biológicos de la hormona de crecimiento (GH), marque la opción correcta:",
+      "options": [
+        {
+          "id": "e59eefe8-3662-4f0d-bca0-8d3ba39396aa",
+          "text": "En condiciones de ayuno, la GH contribuye a mantener la glucosa sanguínea en niveles fisiológicos.",
+          "correct": true
+        },
+        {
+          "id": "235bed8d-7e2e-432d-a568-953793505ba4",
+          "text": "Ante una ingesta de hidratos de carbono se incrementa la secreción de somatomedinas."
+        },
+        {
+          "id": "fc081710-10b1-4d78-9a2e-6bbfc0f98b45",
+          "text": "Cuando hay disponibilidad de sustratos promueve acciones catabólicas."
+        },
+        {
+          "id": "28a75764-7b0a-48ce-9262-8d47a6c03915",
+          "text": "Durante el ayuno aumenta la entrada de glucosa a las células."
+        },
+        {
+          "id": "834cf447-97f5-4ed5-b514-c00503ba8a10",
+          "text": "La GH carece de acciones directas sobre el metabolismo."
+        }
+      ]
+    },
+    {
+      "id": "3b346ebb-e1df-4021-ae7f-f74ea820bc88",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Se dispone de 100 ml de una suspensión de eritrocitos en solución fisiológica de NaCl con una osmolaridad de 280 mOsm/l. El volumen del compartimiento intracelular corresponde al 60% del volumen total de la suspensión. Se agrega a la suspensión un volumen de agua pura de 25 ml. Como consecuencia de esto, y una vez establecidas las condiciones de equilibrio dinámico, se verificará el siguiente resultado (marque la opción correcta):",
+      "options": [
+        {
+          "id": "89c57bb1-82ce-43c7-a5b1-edf8cf409db9",
+          "text": "La osmolaridad de los compartimientos será 224 mOsm/l.",
+          "correct": true
+        },
+        {
+          "id": "cfd05a1e-885f-4f0a-9a0e-b0bcdcb82fb6",
+          "text": "El volumen del compartimiento extracelular corresponderá al 55% del volumen total de la suspensión."
+        },
+        {
+          "id": "bd356455-9808-49c4-8677-1e5a9ae08e5e",
+          "text": "Un incremento (respecto de la situación inicial de 25 ml en el volumen del compartimiento extracelular."
+        },
+        {
+          "id": "c652b29d-24a7-4caa-a62a-2fa302759d23",
+          "text": "Una reducción (respecto de la situación inicial) de 12,5 ml en el volumen del compartimiento intracelular."
+        }
+      ]
+    },
+    {
+      "id": "cddf7104-7fdf-48df-833b-27f174c0dd29",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Sobre los mecanismos bioquímicos que participan en el síndrome metabólico, señale la opción INCORRECTA:",
+      "options": [
+        {
+          "id": "37dcff01-8b7d-40f9-b9c8-7a7d4d326587",
+          "text": "La concentración de ácidos grasos libre en sangre habitualmente se encuentra disminuída.",
+          "correct": true
+        },
+        {
+          "id": "cc426540-325e-47db-92b2-b3c096cdea30",
+          "text": "Dada la expansión de la masa de adipocitos, la concentración de leptina en circulación aumenta."
+        },
+        {
+          "id": "eb648df5-921e-4dcf-8165-b08beadb7b95",
+          "text": "El síndrome metabólico habitualmente transcurre con un estado de resistencia a la insulina."
+        },
+        {
+          "id": "5328a4d1-5c38-4501-9f4d-1fc0573ff613",
+          "text": "La adiponectina en sangre se encuentra habitualmente disminuída en estos pacientes."
+        },
+        {
+          "id": "38d52d8b-aaeb-443b-8c59-74c675e6e0a8",
+          "text": "Los niveles circulantes de citoquinas pro inflamatorias están aumentados."
+        }
+      ]
+    },
+    {
+      "id": "4ff18960-65d0-478f-abca-99a20208ba46",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Una mujer de 20 años tiene una fiesta el fin de semana y decide ayunar por 3 días para poder ponerse un vestido que le prestaron, ingiriendo sólo agua por esos días. ¿Cuál sería la fuente de glucosa para mantener la glicemia en valores normales al tercer día?",
+      "options": [
+        {
+          "id": "18b597ee-0e2d-4721-9a40-65f8d64bfd15",
+          "text": "Gluconeogénesis hepática.",
+          "correct": true
+        },
+        {
+          "id": "b156d16f-e3ab-4d8a-acff-47804e529f25",
+          "text": "Acidos grasos provenientes del tejido adiposo."
+        },
+        {
+          "id": "1a7ffd44-a14e-4bdb-ba72-9076a895069b",
+          "text": "Glucógeno hepático."
+        },
+        {
+          "id": "175f8a3a-7626-4434-8b2a-feeba178a01d",
+          "text": "Glucógeno muscular."
+        },
+        {
+          "id": "45b3bb0f-f80a-41af-b343-cd185db66cac",
+          "text": "Oxidación de cuerpos cetónicos en el hígado."
+        }
+      ]
+    },
+    {
+      "id": "b894247d-fc7c-4f8e-bcbf-ae119ac04eff",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "¿Cuál de las siguientes características es propia de los pituicitos?",
+      "options": [
+        {
+          "id": "9f07ee2a-7941-4edb-90d1-72b84c87c6fb",
+          "text": "Son células de tipo glía.",
+          "correct": true
+        },
+        {
+          "id": "033d2ee5-e141-4a7f-984b-e8032f72f67a",
+          "text": "Contienen material proteico parecido a un coloide."
+        },
+        {
+          "id": "93bc2b08-2117-4ca3-ab4e-c6c1289813f1",
+          "text": "La liberación de sus hormonas depende de la presencia de calcio."
+        },
+        {
+          "id": "504d8b6e-96e4-423b-a77f-738af233a946",
+          "text": "Se disponen en cordones celulares."
+        },
+        {
+          "id": "79fe005d-c348-441a-b478-1a911aff4a15",
+          "text": "Terminan sobre capilares continuos."
+        }
+      ]
+    },
+    {
+      "id": "3ddd5684-ef35-489b-99a6-9c26624c0394",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "¿Cuál de las siguientes enzimas se verían afectadas en caso de una deficiencia nutricional de ácido fólico?",
+      "options": [
+        {
+          "id": "e729b58f-2b63-4acb-8799-55fac39378df",
+          "text": "Timidilato sintasa.",
+          "correct": true
+        },
+        {
+          "id": "5f18411d-5f94-4a23-beb4-6aefa88c36c8",
+          "text": "Acetil CoA carboxilasa."
+        },
+        {
+          "id": "9f72f771-e1e4-4b89-aceb-023f9d28411c",
+          "text": "Glutamato piruvato transaminasa."
+        },
+        {
+          "id": "7507c8e4-9578-472d-b398-fef1d3a0dd17",
+          "text": "Metilmalonil-CoA mutasa."
+        },
+        {
+          "id": "513bda6c-07d1-402b-8e15-138dabfed643",
+          "text": "Piruvato deshidrogenasa."
+        }
+      ]
+    },
+    {
+      "id": "ee722f26-4ebc-4b45-9a12-d24bce1464a4",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "¿Cuál es la única secreción gástrica imprescindible para la vida? Señale la opción correcta:",
+      "options": [
+        {
+          "id": "e4e4edd1-003f-40d6-bb65-f5eea651bc60",
+          "text": "Factor intrínseco.",
+          "correct": true
+        },
+        {
+          "id": "c9ae2c60-16eb-4a55-b39e-de9a8d0c04fc",
+          "text": "Acido palmítico."
+        },
+        {
+          "id": "3842421e-237c-4bba-8f09-fb5ead820de7",
+          "text": "Gastrina."
+        },
+        {
+          "id": "4e81e160-378b-4f4c-b693-0c0ecba592b4",
+          "text": "Pepsina."
+        },
+        {
+          "id": "de14b69b-e006-4d2c-8302-d1f974ed734e",
+          "text": "Vitamina B12."
+        }
+      ]
+    },
+    {
+      "id": "8df3f274-0a38-46c3-a210-61aeb0c420cc",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "¿Por qué la obstrucción de la vía biliar produce una deficiente absorción de lípidos?",
+      "options": [
+        {
+          "id": "de6f9b62-476f-4e96-a7e1-2cad3ce2b067",
+          "text": "Debido a que las sales biliares tienen la capacidad de actuar como agente quelante del ión calcio, que inhibe la digestión lipídica en el duodeno.",
+          "correct": true
+        },
+        {
+          "id": "4ca8bd72-76e2-4631-a6ad-d2f2a3c248e3",
+          "text": "Debido a que la bilirrubina conjugada es necesaria para la emulsificación de los triacilglicéridos."
+        },
+        {
+          "id": "d4d1696c-b9b4-4379-a66d-4d63598c236e",
+          "text": "Debido al efecto estimulador de las sales biliares sobre la lipasa pancreática."
+        },
+        {
+          "id": "5592949d-e26b-4670-a6d6-5d75ed748a11",
+          "text": "Debido al efecto estimulador de las sales biliares sobre la lipasa pancreática."
+        }
+      ]
+    },
+    {
+      "id": "cbf73b05-9840-4bd6-84e7-b29582d7d5b5",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "¿Qué estructura histológica se encuentra en los vértices de un lobulillo portal?",
+      "options": [
+        {
+          "id": "bc892166-935a-4eb1-ab8a-38c50c69e1b3",
+          "text": "Vena centrolobulillar.",
+          "correct": true
+        },
+        {
+          "id": "07321a24-0d68-4da9-a667-c181144d60fe",
+          "text": "Conducto biliar."
+        },
+        {
+          "id": "18e4fb16-bec0-4b67-b99a-5e72087de6c7",
+          "text": "Espacio de Disse."
+        },
+        {
+          "id": "21bdaae2-0d0d-449d-881b-ca61ad76938b",
+          "text": "Espacio de Mall."
+        },
+        {
+          "id": "6d74cedd-2eaa-4b9f-a843-70e26b9c6388",
+          "text": "Espacio portal."
+        }
+      ]
+    },
+    {
       "id": "b251dcfb-6dc8-466f-b8b3-350dcf2aa21f",
       "evaluation": "parcial_1",
       "source": "partial",
