@@ -14,6 +14,962 @@
   "year": 3,
   "questions": [
     {
+      "id": "60f80b57-0956-4494-807c-e4b50a05aea6",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "Acerca de la importancia del consumo de fibra en humanos señale lo correcto:",
+      "options": [
+        {
+          "id": "cf1bf01f-5492-42e8-b017-385986393efa",
+          "text": "Aumenta en varias horas post ingesta el tiempo de tránsito intestinal.",
+          "correct": true
+        },
+        {
+          "id": "6b15a404-c1a6-4daf-ae4f-7b412c122d94",
+          "text": "Aporta significativamente a las calorías presentes en la dieta."
+        },
+        {
+          "id": "4adb0932-a9f3-4291-892c-46d99a4de4b7",
+          "text": "Aumenta significativamente la absorción de colesterol."
+        },
+        {
+          "id": "8b082c31-75dd-4353-bc27-fed180f16be3",
+          "text": "Disminuye el pico posprandial de insulina."
+        },
+        {
+          "id": "da4b7ad9-d775-4287-a8b6-e557f0184c57",
+          "text": "Se recomienda un consumo diario elevado superior a los 1500 gramos."
+        }
+      ]
+    },
+    {
+      "id": "3be2d059-cb11-4269-a61b-d6af8ca1b8ed",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "Acerca del metabolismo del ácido araquidónico es incorrecto afirmar que:",
+      "options": [
+        {
+          "id": "840968a9-95bf-4c2a-8c38-25230e1d16d8",
+          "text": "La prostaglandina E constituye un compuesto vasoconstrictor potente.",
+          "correct": true
+        },
+        {
+          "id": "a87d63a1-fa88-4db9-8d44-d66d6e3914cc",
+          "text": "El ácido araquidónico constituye la fuente principal de prostaglandinas y leucotrienos."
+        },
+        {
+          "id": "68b9fa3f-d96f-46ce-84b9-ba2af57d230d",
+          "text": "La inhibición de la prostaglandina H sintasa 1 (ciclo oxigenasa) tiene como consecuencia una disminución en la síntesis de tromboxanos."
+        },
+        {
+          "id": "569ea35f-22f2-431c-ac18-eb162af7a2f5",
+          "text": "La prostaglandina I2 (prostaciclina) constituye un potente agente vasodilatador, broncodilatador e inhibidor de la agregación plaquetaria."
+        }
+      ]
+    },
+    {
+      "id": "616b4f6b-c7e4-4d00-8fa5-e0049069c6c8",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "Acerca del rol de la leptina es correcto afirmar que:",
+      "options": [
+        {
+          "id": "0158a826-f872-4a40-845b-8c1f50ce4a97",
+          "text": "Es una hormona peptídica que interacciona con receptores nucleares en el hipotálamo.",
+          "correct": true
+        },
+        {
+          "id": "20ac0e87-07ac-44da-a682-df1942e020dd",
+          "text": "En concentraciones normales (rango fisiológico) incrementa la resistencia a la insulina."
+        },
+        {
+          "id": "0ed240a4-6320-478b-8bb1-cace0fd2effd",
+          "text": "En el síndrome metabólico se observa disminución de los receptores de leptina en el páncreas."
+        },
+        {
+          "id": "2536b219-958d-4d3e-9fce-9c5c320fd568",
+          "text": "Estimula el apetito y el consumo de calorías."
+        },
+        {
+          "id": "c112dea5-d940-4bfa-a14e-8ed7655a125a",
+          "text": "Su secreción por el tejido adiposo resulta fuertemente inhibida en el síndrome metabólico."
+        }
+      ]
+    },
+    {
+      "id": "7ed822f7-6156-454e-b84b-dd34084e7ba0",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "Al realizar una técnica inmunohistoquímica sobre un corte histológico en la que se utiliza anticuerpo anticalcitonina. ¿Cuál de los siguientes tipos celulares observaría marcado?",
+      "options": [
+        {
+          "id": "8ecc59c8-1538-4f37-8b5e-992b0f12d613",
+          "text": "Células principales parotiroideas.",
+          "correct": true
+        },
+        {
+          "id": "4d534232-7414-4ccb-87a0-167b46f9763d",
+          "text": "Células cromafines."
+        },
+        {
+          "id": "791bd007-89f6-4698-b165-f074382da07c",
+          "text": "Células delta del páncreas."
+        },
+        {
+          "id": "307882cf-16ed-498d-b83b-1c0a4941bcb7",
+          "text": "Células oxifilas paratiroideas."
+        },
+        {
+          "id": "07308cc5-fddb-4b02-9660-0c11239b092e",
+          "text": "Células parafoliculares."
+        }
+      ]
+    },
+    {
+      "id": "095cdae2-d92f-43e6-87f9-cc884a8d6110",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "De las siguientes moléculas, ¿cuál representa el mayor transportador de nitrógeno en el plasma humano?",
+      "options": [
+        {
+          "id": "0c2c2d69-f0ea-40b4-ac13-f65ab4ceb093",
+          "text": "Glutamina.",
+          "correct": true
+        },
+        {
+          "id": "c00e44fb-218d-45d6-a0b1-1f0f0bb215b9",
+          "text": "Alanina."
+        },
+        {
+          "id": "59e43da0-6e54-4c51-ad99-ea0bd5221a30",
+          "text": "Asparagina."
+        },
+        {
+          "id": "1218613d-8b48-464f-89ce-0bfcb8e346a1",
+          "text": "Glutamato."
+        },
+        {
+          "id": "d70d0b64-4e44-474f-9f18-70129fb81e43",
+          "text": "Ácido úrico."
+        }
+      ]
+    },
+    {
+      "id": "d746b599-5630-4d9a-bef5-9d489399a262",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "De las siguientes opciones, indique cuál es la principal forma por la que los esteroles regulan la síntesis de colesterol a nivel intracelular (señale lo correcto):",
+      "options": [
+        {
+          "id": "d56f6984-e03b-400b-acee-2d37b7776163",
+          "text": "Cuando bajan los niveles de colesterol, se translocan los SREBP al núcleo luego de su procesamiento en el aparato de Golgi.",
+          "correct": true
+        },
+        {
+          "id": "c7682a94-f863-4c01-b9fe-5de24e566b6d",
+          "text": "El colesterol induce un aumento de AMP cíclico que activa la HMG-CoA reductasa (3-hidroxi,3-metil-glutaril-CoA reductasa)."
+        },
+        {
+          "id": "a25dc55b-fb39-4ad3-8dad-8c21f170745e",
+          "text": "En células con carga energética baja, se estimula la síntesis de colesterol."
+        },
+        {
+          "id": "c8fd59f4-e153-4694-8ddd-45d58895b25d",
+          "text": "En células incubadas con esteroles, el factor de transcripción SREBP (proteína de unión a los elementos de respuesta a esteroles) se encuentra en el núcleo."
+        },
+        {
+          "id": "d9769465-c1d1-4d3d-a876-8c58d714462d",
+          "text": "La HMG-CoA reductasa y el receptor de LDL se inducen cuando aumentan los niveles de colesterol."
+        }
+      ]
+    },
+    {
+      "id": "a5a7d8e8-199c-4a25-bc28-83f33df68135",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "De las situaciones descritas en las opciones, ¿cuál se asocia a un balance nitrogenado negativo?",
+      "options": [
+        {
+          "id": "f0375fc9-62d0-4603-8d4d-e5431cd38511",
+          "text": "Ayuno de 4 días.",
+          "correct": true
+        },
+        {
+          "id": "30423da5-ddd0-4698-b832-1df2080a103a",
+          "text": "Dieta ovo lacto vegetariana."
+        },
+        {
+          "id": "6574a657-9421-4a21-826c-89a4a6460eb7",
+          "text": "Embarazo."
+        },
+        {
+          "id": "82be5caf-31e2-48ce-8570-b08610284854",
+          "text": "Infancia durante el primer año de vida."
+        }
+      ]
+    },
+    {
+      "id": "a9ba4ed0-0df5-49a6-a651-b6988c88e018",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "De los siguientes mecanismos que regulan la actividad motora del tracto gastrointestinal, señale la opción INCORRECTA:",
+      "options": [
+        {
+          "id": "2249e169-ef8c-4ff3-bb0f-3f3b291bf2e7",
+          "text": "El sistema parasimpático inhibe la motilidad gastrointestinal.",
+          "correct": true
+        },
+        {
+          "id": "9784a767-ff23-4d56-b2ce-ae24bc970f49",
+          "text": "El óxido nítrico inhibe la actividad motora del intestino."
+        },
+        {
+          "id": "90487a85-c29b-452f-8b4f-df981ac7d1f4",
+          "text": "Existen reflejos extrínsecos que regulan la actividad motora de regiones distantes en el tubo digestivo (ejemplo estómago-colon)."
+        },
+        {
+          "id": "a9ec5dfd-14e2-4d4d-bcf3-adafb8f3a6f4",
+          "text": "Existen reflejos intrínsecos a nivel de la pared gastrointestinal que regulan la actividad motora."
+        },
+        {
+          "id": "925aaf19-6c4a-426d-9835-7e9b4bd8a845",
+          "text": "La acetilcolina es usado como mediador químico por las neuronas excitatorias mientéricas."
+        }
+      ]
+    },
+    {
+      "id": "f26c368b-3fb0-4c8c-ae96-d37da023330c",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "El cortisol es un esteroide de origen suprarrenal que se caracteriza por la siguiente afirmación:",
+      "options": [
+        {
+          "id": "29f994bd-9058-44fc-873d-b5dd424ca130",
+          "text": "El paso limitante para su síntesis es la entrada del colesterol a la matriz mitocondrial, proceso estimulado por la ACTH.",
+          "correct": true
+        },
+        {
+          "id": "05f12e22-f6c5-4deb-adf6-9ad8f5f5f17f",
+          "text": "Estimula el crecimiento y el número de eosinófilos, macrófagos y linfocitos T activados."
+        },
+        {
+          "id": "c87b8ce6-5c84-4a23-a240-336642e118af",
+          "text": "Por su acción sobre el tejido adiposo se estimula la entrada de glucosa en los adipocitos."
+        },
+        {
+          "id": "74638fdb-a1af-4bc8-bfdb-aacd42d6061e",
+          "text": "Su acción en el riñón se ve favorecida ya que la presencia de la enzima beta hidroxiesteroide deshidrogenasa tipo 2 lo transforma en cortisona que se une con gran afinidad al receptor de aldosterona."
+        },
+        {
+          "id": "dc0fa798-73b4-43ea-bb0c-15f44e44c466",
+          "text": "Su síntesis en la zona glomerular está inhibida ya que no se puede sintetizar pregnenolona en esa capa de la corteza suprarrenal."
+        }
+      ]
+    },
+    {
+      "id": "7fcafeac-40fa-4627-b6a7-c987c82dcc65",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "En el artículo discutido en clase \"Insulin-stimulated GLUT4 translocation is mediated by a divergent intracelular signaling pathway\", jbc 270 (1995) 27991-4, se evidencia la traslocación de los transportadores GLUT4 mediada por insulina y se identifica la vía de señalización intracelular que media esta acción. De acuerdo a los resultados y sus conocimientos señale la opción que considere correcta:",
+      "options": [
+        {
+          "id": "98049d89-e479-42b9-a5dc-5d02ff477356",
+          "text": "La microinyección de anticuerpos anti fosfotirosina inhibió la translocación de GLUT4 desde vesículas internas a la membrana plasmática.",
+          "correct": true
+        },
+        {
+          "id": "89ab1c75-0018-4985-87dd-ec7063d42f07",
+          "text": "La inhibición de la proteína Ras (que participa de la vía mitogénica) inhibió la traslocación de GLUT4 pero no tuvo efecto en la expresión génica y síntesis de ADN."
+        },
+        {
+          "id": "bdcb053f-84c5-4189-9168-bda0b60fd04a",
+          "text": "Las acciones mitogénicas y metabólicas desencadenadas por la unión de la insulina a su receptor están mediadas por los mismos componentes en las vías de señalización."
+        }
+      ]
+    },
+    {
+      "id": "284e7168-878e-4392-8a5d-8c6d4eefd499",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "En el artículo discutido en clase: \"A mouse model of arginosuccinic aciduria: biochemical characterization\". Molecular Genetics and Metabolism 78 (2003) 11-12, se estudia el rol de la arginosuccinato liasa (AL) en el metabolismo intermediario. De acuerdo a su conocimiento, indique la opción correcta respecto al estudio presentado en este artículo.",
+      "options": [
+        {
+          "id": "45dc02dc-641b-4734-9e2f-af2efda1780c",
+          "text": "Los ratones knock out en AL presentan un aumento en la cantidad de amonio plasmático con respecto a los ratones salvajes.",
+          "correct": true
+        },
+        {
+          "id": "1b3dc8d3-436b-4996-a143-2be605cfcf25",
+          "text": "Las diferencias en las actividades de las enzimas del ciclo de la urea no pudieron ser determinadas entre los ratones knock out y salvajes incluso en la actividad de la AL."
+        },
+        {
+          "id": "47b03c2b-884a-454f-8734-ba96244ab656",
+          "text": "Se generaron ratones knock out en AL, los cuales no presentan ningún cambio en los metabolitos relacionados al metabolismo del nitrógeno."
+        },
+        {
+          "id": "ab95525b-a173-4090-b47d-42c11e54fd01",
+          "text": "Se observan grandes cambios en los valores de nitrito plasmático debido a una deficiencia en la enzima óxido nítrico sintasa, así como una disminución de la contractilidad arterial en estos ratones."
+        }
+      ]
+    },
+    {
+      "id": "cbfbf915-7f36-4f4a-9234-08e2668f6b7b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "En los experimentos mostrados en el seminario de omeprazol, se estudió la acción inhibitoria del mismo en la formación de ácido en glándulas gástricas y en la H+/K+-ATPasa aislada de humanos. Se midió la secreción de ácido mediante la acumulación de 14C-aminopirina en presencia de tres agonistas: histamina, dibutiril-AMPc y K+. Respecto a dichos experimentos, marque la opción INCORRECTA:",
+      "options": [
+        {
+          "id": "f7308eaf-273f-450c-9702-2dba7863aaaa",
+          "text": "La cimetidina inhibe la secreción ácida estimulada por dibutiril-AMPc.",
+          "correct": true
+        },
+        {
+          "id": "7fe78c66-709c-4525-a6db-b8486f9bbc35",
+          "text": "El omeprazol inhibe en forma dosis dependiente la secreción de ácido."
+        },
+        {
+          "id": "0b674afe-9806-4844-a6b3-4818649d32ac",
+          "text": "El omeprazol inhibe la actividad de la enzima H+/K+-ATPasa."
+        },
+        {
+          "id": "bd666c50-243a-4811-ae73-84ce2462b134",
+          "text": "El omeprazol inhibe la secreción de ácido independientemente de los tres agonistas utilizados."
+        },
+        {
+          "id": "e94e713c-5db0-4f6b-a79a-b4cfeced0fbc",
+          "text": "El omeprazol mostró mayor potencia que la cimetidina en la inhibición de la secreción ácida."
+        }
+      ]
+    },
+    {
+      "id": "16d1e1a3-c3f2-4242-979f-37b035b184f9",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "En un corte histológico de glándula suprarrenal se observan células grandes dispuestas en grupos redondeados en estrecha relación con los capilares y vénulas. Cuando se realiza una incubación con una solución conteniendo dicromato de potasio estas células reaccionan generando un depósito de color pardo rojizo. Indique de cuál de los siguientes grupos celulares se trata:",
+      "options": [
+        {
+          "id": "199b6752-d243-4a85-ac8b-8f52204ee1b5",
+          "text": "Células inervadas por fibras pre ganglionares.",
+          "correct": true
+        },
+        {
+          "id": "36ab556c-4311-4bd1-9f47-7351009732a2",
+          "text": "Células que responden al sistema renina angiotensina."
+        },
+        {
+          "id": "d12d57b0-cc59-4c58-bdfc-336c378b4f28",
+          "text": "Células que se localizan en la corteza de la glándula."
+        },
+        {
+          "id": "8d35e3b6-1772-45dd-a233-1ed2db5d0712",
+          "text": "Células secretoras de glucocorticoides."
+        }
+      ]
+    },
+    {
+      "id": "b46a140c-0594-4c37-b036-b19236270080",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "En un preparado correspondiente a un sector del intestino teñido con hematoxilina y eosina se observan células epiteliales con un citoplasma basal basófilo y gránulos apicales intensamente eosinófilos, dispuestas en grupos en el fondo de estructuras glandulares de la mucosa. ¿Cómo se denominan estas células?",
+      "options": [
+        {
+          "id": "82d3faf3-2f22-4a58-8a1b-d0d1225514f2",
+          "text": "Células de Paneth.",
+          "correct": true
+        },
+        {
+          "id": "de971b3c-432f-4a4f-bf0c-e9e54577eee3",
+          "text": "Células caliciformes."
+        },
+        {
+          "id": "c3af040b-d327-49c6-a0c2-c5ef22466df3",
+          "text": "Células entero endócrinas."
+        },
+        {
+          "id": "5739b64d-5480-47ba-a8e7-2ba562cf855f",
+          "text": "Células oxínticas."
+        },
+        {
+          "id": "fec2f720-3da5-45f4-a29c-5590148af1a7",
+          "text": "Enterocitos."
+        }
+      ]
+    },
+    {
+      "id": "e1a35e95-18b1-4cc9-9d65-73590b2d954a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "Imagine que el eje hipotálamo hipófisis glándula periférica no está funcionando correctamente por un tumor hiper o hipofuncionante en la glándula en la glándula periférica. ¿Qué cambios podríamos detectar? Señalar la opción correcta:",
+      "options": [
+        {
+          "id": "7fdcfd4c-793d-45bc-af19-14456a396d75",
+          "text": "Aumento del factor liberador hipotalámico, aumento de la hormona trófica hipofisaria y disminución de la hormona liberada por la glándula periférica.",
+          "correct": true
+        },
+        {
+          "id": "4d9e4d97-89ba-4690-b775-31a8191577fc",
+          "text": "Aumento del factor liberador hipotalámico, aumento de la hormona trófica hipofisaria y aumento de la hormona liberada por la glándula periférica."
+        },
+        {
+          "id": "e4f9f126-9b54-49d8-aefc-5825f9a91138",
+          "text": "Ausencia de cambio en el factor liberador hipotalámico, ausencia de cambio en la hormona trófica hipofisaria y aumento de la hormona liberada por la glándula periférica."
+        },
+        {
+          "id": "3acf4d15-1562-477b-a1c3-2b3d5649aeee",
+          "text": "Disminución del factor liberador hipotalámico disminución de la hormona trófica hipofisaria y disminución de los niveles de la hormona liberada por la glándula periférica."
+        }
+      ]
+    },
+    {
+      "id": "7c92f03b-4d7b-484e-8b37-5c5cfc9dcb15",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "Indique cuál de las siguientes características histológicas es común a todas las papilas linguales humanas:",
+      "options": [
+        {
+          "id": "c1d62817-aecc-4176-9f61-51356a95656a",
+          "text": "Se encuentra en la superficie dorsolateral de la lengua.",
+          "correct": true
+        },
+        {
+          "id": "464ebf12-8cea-4daf-87f2-733a29a083ee",
+          "text": "Contienen corpúsculos gustativos."
+        },
+        {
+          "id": "cb8bb04f-86b7-46b9-8719-ebc8e6d533ad",
+          "text": "Están rodeadas por un surco profundo."
+        },
+        {
+          "id": "ab70ebf6-87e8-467c-b4fc-9ad50ea5363c",
+          "text": "Se encuentran revestidas por un epitelio con una gruesa capa córnea."
+        },
+        {
+          "id": "192f946a-1cf9-47e3-9dfb-913844fe3714",
+          "text": "Son muy abundantes en la punta de la lengua."
+        }
+      ]
+    },
+    {
+      "id": "63585bdd-b074-4f4b-967e-61cf8723eac1",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "La acción de la alfa-amilasa pancreática sobre el almidón de la dieta genera en la luz del intestino (señale la opción correcta):",
+      "options": [
+        {
+          "id": "473f64e9-1578-4981-8a43-41e0e248579a",
+          "text": "Disacáridos y oligosacáridos de glucosa con enlaces glucosídicos alfa 1-4 y alfa 1-6.",
+          "correct": true
+        },
+        {
+          "id": "c0e611b4-b6f4-4fb3-b931-fdbceff1d622",
+          "text": "Glucosa, fructosa y galactosa como productos finales."
+        },
+        {
+          "id": "0c70adea-9121-4a84-8d1a-ae3833e56971",
+          "text": "Polímeros lineales de glucosa con enlaces glucosídicos alfa 1-6."
+        },
+        {
+          "id": "aa407f24-e958-4d9a-90a6-62a03aef9cef",
+          "text": "Una disminución de la presión osmótica en la luz del intestino."
+        },
+        {
+          "id": "4de3a252-d1a6-4d19-ba00-d9f2213ea008",
+          "text": "Una inhibición de la actividad de la sacarasa."
+        }
+      ]
+    },
+    {
+      "id": "735eca2f-c581-483e-89db-8f645499b76e",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "La bilirrubina es un pigmento liposoluble que se origina de degradación del grupo hemo. El hepatocito modifica este pigmento para aumentar su hidrosolubilidad, ¿cuál es el mecanismo?",
+      "options": [
+        {
+          "id": "33a1d8b2-8c3b-430b-98a5-75bedc9ad012",
+          "text": "Conjugación con ácido glucorónico.",
+          "correct": true
+        },
+        {
+          "id": "831c301c-2b55-462c-8ea1-64371b27b2b5",
+          "text": "Conjugación con glicina."
+        },
+        {
+          "id": "8fe71829-4c99-4f7e-9735-b3e726af2c3d",
+          "text": "Conjugación con glucosa."
+        },
+        {
+          "id": "1b5c8f2e-e259-4601-b61a-6bf1f3fb323d",
+          "text": "Por hidroxilaciones catalizadas por oxidasas que contienen citocromo p450."
+        },
+        {
+          "id": "c2308500-f866-4b26-8c87-2ad32d032124",
+          "text": "Sulfatación de la molécula."
+        }
+      ]
+    },
+    {
+      "id": "bbdc65b9-2c03-4009-885b-83eef0c9fad6",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "La cafeína es un inhibidor potente de la AMPc fosfodiesterasa (enzima que cataliza la hidrólisis del AMPc), ¿cuál de las siguientes consecuencias se esperaría encontrar luego del consumo de cafeína?",
+      "options": [
+        {
+          "id": "8519cdb9-f65b-4554-95f7-d95ddd7dd765",
+          "text": "Una respuesta prolongada a la adrenalina.",
+          "correct": true
+        },
+        {
+          "id": "00049f86-d08f-406d-a11d-2ddaf9ea26bb",
+          "text": "Un aumento de la glucólisis."
+        },
+        {
+          "id": "dce1b7cc-3bde-4104-9e69-a87e0a671bad",
+          "text": "Un aumento de la síntesis de glucógeno."
+        },
+        {
+          "id": "9f7be650-f4b7-4448-aed8-0303579901de",
+          "text": "Una inhibición de la proteína kinasa A."
+        },
+        {
+          "id": "7eb2f92b-2004-4537-8458-6467698b0d54",
+          "text": "Una respuesta prolongada a la insulina."
+        }
+      ]
+    },
+    {
+      "id": "71856613-295e-466c-aa92-2a261d86e7f8",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "La colestiramina es una droga utilizada para tratar hipercolesterolemia. Es una resina polimérica con capacidad de sales biliares, secuestrarlas en la luz del tupo digestivo interfiriendo con la circulación enterohepática de las mismas. El uso de esta droga producirá:",
+      "options": [
+        {
+          "id": "ecde3675-a1ec-4c39-9cc3-dbd74e542aa7",
+          "text": "Un aumento de la excreción fecal de ácido desoxicólico (o desoxicolato).",
+          "correct": true
+        },
+        {
+          "id": "6f32f68c-2605-4e44-98c2-30984c147f4e",
+          "text": "Un aumento de la excreción fecal de bilirrubina conjugada."
+        },
+        {
+          "id": "ba07a03e-14e6-4880-8d37-4ef52f41873c",
+          "text": "Una disminución de la excreción fecal de colesterol."
+        },
+        {
+          "id": "373e56d1-e6e9-4271-a89b-483d566ddac9",
+          "text": "Una inhibición de la 7-alfa hidroxilasa hepatocítica (enzima que cataliza la conversión de colesterol en 7 hidroxicolesterol."
+        },
+        {
+          "id": "2c698f03-b4b1-479d-bc3a-3eefde2be38c",
+          "text": "Una inhibición de la síntesis de sales biliares primarias."
+        }
+      ]
+    },
+    {
+      "id": "89e92962-7110-4009-8355-e2ab5060240e",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "La corteza renal tiene una vascularización particular. ¿Cuál es el vaso sanguíneo que se interpone entre dos lechos capilares?",
+      "options": [
+        {
+          "id": "72507b74-f345-4f8d-a4f9-f7ee62956998",
+          "text": "Arteriola aferente.",
+          "correct": true
+        },
+        {
+          "id": "623eb2dc-7838-4e3b-936e-dde108fe0df9",
+          "text": "Arteriola eferente."
+        },
+        {
+          "id": "ed9436b3-5d5a-434b-8865-bc8174320aa2",
+          "text": "Vena interlobulillar."
+        },
+        {
+          "id": "917392d4-e236-4c7a-9589-af6df46e3217",
+          "text": "Vena porta renal."
+        }
+      ]
+    },
+    {
+      "id": "e43da7ec-e0fb-4bfe-ae35-8e4e66c0b7e2",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "La distribución de solutos en los distintos compartimientos del organismo está determinada por (marque la opción incorrecta):",
+      "options": [
+        {
+          "id": "f4f26576-80a1-42a8-a8bd-bc707b06fc7b",
+          "text": "La presencia de proteínas en el líquido intracelular.",
+          "correct": true
+        },
+        {
+          "id": "457c481a-4649-4d44-86b4-8524996243a3",
+          "text": "El principio de Gibbs-Donan entre el líquido intracelular y el líquido extracelular."
+        },
+        {
+          "id": "d918415c-f042-490e-9e1f-0b7f385718bb",
+          "text": "La actividad de la bomba de Na+/K+-ATPasa entre el plasma y el líquido intersticial."
+        }
+      ]
+    },
+    {
+      "id": "c1f23ea9-f901-479b-bbf9-2538adb18c84",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "La emulsión de las grasas es un proceso necesario para su digestión. Este proceso se inicia en el estómago pero ocurre fundamentalmente en duodeno por la acción de:",
+      "options": [
+        {
+          "id": "1610b998-9781-4e76-bbc1-63b7cd277870",
+          "text": "Lecitina, sales biliares y lipasa pancreática.",
+          "correct": true
+        },
+        {
+          "id": "2205d6d7-bfa4-41f0-8e37-06e3d53ffb4b",
+          "text": "La lipasa intestinal."
+        },
+        {
+          "id": "0343cbf1-5f3d-4b3f-8ccc-12b36c52c364",
+          "text": "La lipasa pancreática y tripsina."
+        },
+        {
+          "id": "57126e16-cf0e-4189-b953-ff719bd496b4",
+          "text": "La lipasa pancreática."
+        },
+        {
+          "id": "7223a7f9-04e7-4c93-9499-302b9778a9c0",
+          "text": "Pigmentos biliares."
+        }
+      ]
+    },
+    {
+      "id": "f39b2cba-f343-470b-9ee1-bc3c8f89d334",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "Las lipoproteínas se caracterizan por una diferencia en el contenido proteico y lipídico que contienen. Esto se refleja, entre otras cosas, por la densidad de dichas proteínas. Dadas las siguientes lipoproteínas: A: HDL; B: LDL; C: Quilomicrones; D: VLDL; E: IDL. Indique dentro de las siguientes opciones el orden de densidad creciente correcto:",
+      "options": [
+        {
+          "id": "60132284-3219-4eae-b7f6-aacfc9773fe0",
+          "text": "C D E B A.",
+          "correct": true
+        },
+        {
+          "id": "bb280b86-62d2-482c-b827-0ed1722cd525",
+          "text": "A B C D E."
+        },
+        {
+          "id": "6af7ff27-d47f-4f77-ab7a-cbe72544b1b6",
+          "text": "A B D E C."
+        },
+        {
+          "id": "dab6153b-f913-4a27-bc68-2f063c99ccc3",
+          "text": "B D E C A."
+        },
+        {
+          "id": "215bc83c-d454-4c41-8250-54b02ee9d9b4",
+          "text": "E D C B A."
+        }
+      ]
+    },
+    {
+      "id": "9aa9835a-7a21-4ebc-8a33-432c8316f341",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "Luego de un ayuno de 24 horas, ¿cuál de los siguientes metabolitos contribuye al mantenimiento de la glucosa sanguínea? Señale lo correcto.",
+      "options": [
+        {
+          "id": "dc6b4aff-da7a-4e5b-902a-e0b841ff5e93",
+          "text": "Aminoácidos provenientes de proteólisis muscular.",
+          "correct": true
+        },
+        {
+          "id": "eccbdb7c-76a7-415b-a141-80bf69cc4ba4",
+          "text": "Cuerpos cetónicos sintetizados en el hígado."
+        },
+        {
+          "id": "1d32a42d-8f17-4629-81c5-f73dc9799406",
+          "text": "Glucógeno hepático."
+        },
+        {
+          "id": "a95f7402-7ef5-4de6-8c86-f023aba009db",
+          "text": "Glucógeno muscular."
+        },
+        {
+          "id": "d3897141-648f-4b15-9973-87da1cc46543",
+          "text": "Ácidos grasos provenientes del tejido adiposo."
+        }
+      ]
+    },
+    {
+      "id": "e3143b34-3dd9-479e-8a9d-a9eb59826b56",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "Respecto al metabolismo celular y transporte de lípidos en el plasma señale lo correcto:",
+      "options": [
+        {
+          "id": "53b724a8-e16f-47c5-a24c-380339fe434a",
+          "text": "La lipoproteín lipasa se localiza en el endotelio y necesita como activador a la apo C.",
+          "correct": true
+        },
+        {
+          "id": "87d2cf99-f260-421e-b508-81ee3b9b0aaf",
+          "text": "La presencia de apo B-48 es indispensable para la remoción de los remanentes de quilomicrones por el hígado."
+        },
+        {
+          "id": "9e732427-8b1a-48d7-8d79-5a683b2acd37",
+          "text": "Las proteínas transferidoras de lípidos transfieren colesterol libre desde las HDL a los QM y VLDL para ser aportado a los tejidos esteroidogénicos."
+        },
+        {
+          "id": "d522e874-113f-4812-86fb-8842d0565c31",
+          "text": "Para la síntesis de ácidos grasos se requiere que la vía de las pentosas fosfato esté inactiva."
+        }
+      ]
+    },
+    {
+      "id": "97015fde-b8a8-4d2a-aa8c-321f6167897b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "Respecto de los efectos directos e indirectos de las hormonas tiroideas, es correcto afirmar que:",
+      "options": [
+        {
+          "id": "01d034b5-3c0b-49ac-9296-8ae7a89e2fc9",
+          "text": "La resistencia vascular periférica está reducida en un individuo hipertiroideo.",
+          "correct": true
+        },
+        {
+          "id": "f8f919d8-dd23-4b62-ac82-58f178398e32",
+          "text": "El volumen de eyección sistólica está aumentado en un individuo hipotiroideo."
+        },
+        {
+          "id": "b5b06b38-5671-45aa-99c1-3be1a9dc2a21",
+          "text": "La concentración de receptores para TRH en la hipófisis está aumentada en un individuo hipertiroideo."
+        },
+        {
+          "id": "1968dc21-8573-4b39-a173-8f7760de15b1",
+          "text": "La gluconeogénesis se encuentra aumentada en un individuo hipotiroideo."
+        }
+      ]
+    },
+    {
+      "id": "8d1f86fd-b86a-4241-ad90-6257715b94ff",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "Sabiendo que, en un individuo sano con una diuresis de 3 ml(min, la sustancia X libremente filtrable presenta una concentración plasmática ([X]pl) de 5 mg/ml, una concentración en el ultrafiltrado ([X]ulf) de 5 mg/ml una concentración en la orina ([Xo]) de 0 mg/ml, x corresponde a (marque la opción correcta):",
+      "options": [
+        {
+          "id": "dea1f7b3-859e-45f2-a4e4-85dabcd582b3",
+          "text": "Glucosa.",
+          "correct": true
+        },
+        {
+          "id": "22b78191-05ef-40a4-b510-3cbc34a8fce7",
+          "text": "Bicarbonato."
+        },
+        {
+          "id": "0e9f4b43-4b1d-4e2d-81c1-111b3729e243",
+          "text": "Proteína."
+        },
+        {
+          "id": "8966a66b-1014-44fb-8a7b-43beebef9ff0",
+          "text": "Sodio."
+        }
+      ]
+    },
+    {
+      "id": "38257329-0b12-4eb9-957b-7a9dc1016a66",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "Se recibe un corte histológico con las siguientes características: tejido parenquimatoso compuesto por acinos serosos y conductos excretores de tipo intercalar y estríado podríamos inferir que el corte que se observa corresponde a (señale la opción correcta):",
+      "options": [
+        {
+          "id": "0ee93df9-2848-438e-b3ad-78a9688d4a59",
+          "text": "Parótida.",
+          "correct": true
+        },
+        {
+          "id": "7c0cea24-3032-47cd-982c-c52d637331ad",
+          "text": "Duodeno."
+        },
+        {
+          "id": "641659e0-78fb-412f-8f1b-d87fc2a1e98c",
+          "text": "Esófago."
+        },
+        {
+          "id": "5f8e2db6-8616-427b-a255-8fa53df9a7ce",
+          "text": "Lengua."
+        },
+        {
+          "id": "91e889d3-94de-424a-8b66-af3a1adf08a8",
+          "text": "Sublingual."
+        }
+      ]
+    },
+    {
+      "id": "ce1ee92b-5367-476f-ae51-b5d18e2579f7",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "Señale cuál de las vitaminas se asocia con todas las afirmaciones siguientes: es sintetizada exclusivamente por microorganismos, se encuentra solamente en alimentos de origen animal, su deficiencia causa anemia perniciosa al bloquear el metabolismo del folato, la absorción a nivel intestinal requiere de una glucoproteína, el factor intrínseco.",
+      "options": [
+        {
+          "id": "2e89261e-4f97-49c6-8c51-4a5d87273aed",
+          "text": "Vitamina B12.",
+          "correct": true
+        },
+        {
+          "id": "75d1fd84-dd32-4560-b506-6641774dba2e",
+          "text": "Vitamina A."
+        },
+        {
+          "id": "5e402278-3024-4643-b26d-0c2f2995631b",
+          "text": "Vitamina B."
+        },
+        {
+          "id": "89a2e183-b04f-433c-84ac-42d779924a88",
+          "text": "Vitamina B3."
+        },
+        {
+          "id": "9633d05a-8998-4ac0-98df-ac6781d03693",
+          "text": "Vitamina D."
+        }
+      ]
+    },
+    {
+      "id": "fbd6aca1-7c8b-4bfe-a2e9-f49b96fb0ea5",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "Un hombre de 40 años presenta dolores de cabeza, deterioro de la visión y pérdida de la líbido debido a un macroadenóma. El nivel inicial de prolactina en suero fue de 3652 ng/ml, lo que confirmó el diagnóstico de macroprolactinoma. Se le realizó un tratamiento farmacológico con un agonista de X a fin de llevar los niveles de prolactina a valores normales. Según sus conocimientos, ¿cuál de los siguientes candidatos es X?",
+      "options": [
+        {
+          "id": "8abf5fe9-b1fb-47ba-9718-ee7c3cee71fe",
+          "text": "Dopamina.",
+          "correct": true
+        },
+        {
+          "id": "8ee78591-3e88-47ea-87c8-5574bc2e5d24",
+          "text": "Hormona liberadora de tirotrofina (TRH)."
+        },
+        {
+          "id": "aef8ca8d-d8b7-448a-9487-a185fe9a52df",
+          "text": "Neurotensina."
+        },
+        {
+          "id": "5a50f7e3-523a-4be0-9e63-44f60291171c",
+          "text": "Oxitocina."
+        }
+      ]
+    },
+    {
+      "id": "bbe97c10-7fd7-4ac8-a18f-48d5d2d82fa1",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "¿Cuál de las siguientes afirmaciones es INCORRECTA en relación a la secreción gástrica y pancreática?",
+      "options": [
+        {
+          "id": "75336f17-d2ba-4cf4-b750-523ded739733",
+          "text": "La actividad óptima de la enzima pepsina se alcanza a pH alcalino.",
+          "correct": true
+        },
+        {
+          "id": "1ec406c5-fd0e-44cb-a18d-2c75bc855f31",
+          "text": "A nivel del conducto principal del páncreas se intercambia ión bicarbonato por cloro aumentando entonces el PH del jugo pancreático."
+        },
+        {
+          "id": "566779ed-78d3-4bbc-857d-ef661f65bb7c",
+          "text": "El componente proteico del jugo pancreático es producido por los acinos pancreáticos."
+        },
+        {
+          "id": "2c8f1c87-18cd-4efa-b078-25b284401213",
+          "text": "La acetilcolina estimula la secreción gástrica y pancreática."
+        },
+        {
+          "id": "f5223132-85d1-4061-aa18-aef80cad0523",
+          "text": "La tripsina estimula la activación de las enzimas digestivas del jugo pancreático."
+        }
+      ]
+    },
+    {
+      "id": "5b6ebaf1-857f-488e-a110-55be862bfb97",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "¿Cuál de las siguientes células del tubo digestivo es necesaria para que se produzca una correcta absorción de la vitamina B12?",
+      "options": [
+        {
+          "id": "8fe3a81b-c9dc-49da-9dac-bd468b2931df",
+          "text": "Célula parietal.",
+          "correct": true
+        },
+        {
+          "id": "1b8e8242-d574-4909-96de-410d2428f0a6",
+          "text": "Célula calciforme."
+        },
+        {
+          "id": "a3cbe03c-ebd8-46b3-95f3-db4b416e2a06",
+          "text": "Célula enteroendócrina."
+        },
+        {
+          "id": "5a504cca-9bc7-45f3-9aed-dc87e1213204",
+          "text": "Célula principal."
+        }
+      ]
+    },
+    {
+      "id": "773cfdf8-f6b3-4fc6-80b0-7d3a859706c1",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "¿Cuál de los siguientes factores inhibirá la reabsorción de agua?",
+      "options": [
+        {
+          "id": "428d8c75-37e2-40ee-9027-64a9e6f933ca",
+          "text": "El bloqueo de receptores V2 (vasopresina 2) en la membrana basolateral del túbulo colector.",
+          "correct": true
+        },
+        {
+          "id": "a2caadb3-b212-463b-a43b-812edc1dc6fe",
+          "text": "El gradiente osmótico entre la luz tubular y el intersticio."
+        },
+        {
+          "id": "633c934d-f545-4612-a07f-b8d23df521a7",
+          "text": "El pasaje de urea desde el colector al intersticio."
+        },
+        {
+          "id": "924dbfb5-7c88-4b8a-8c69-8dd6d538ad70",
+          "text": "La fusión de vesículas citosólicas conteniendo acuoporinas 2 a la membrana luminal del túbulo colector."
+        }
+      ]
+    },
+    {
       "id": "789ccede-8362-4368-94ba-d10539ddccc2",
       "evaluation": "parcial_1",
       "source": "partial",
@@ -1627,10 +2583,6 @@
         },
         {
           "id": "d4d1696c-b9b4-4379-a66d-4d63598c236e",
-          "text": "Debido al efecto estimulador de las sales biliares sobre la lipasa pancreática."
-        },
-        {
-          "id": "5592949d-e26b-4670-a6d6-5d75ed748a11",
           "text": "Debido al efecto estimulador de las sales biliares sobre la lipasa pancreática."
         }
       ]
