@@ -14,6 +14,812 @@
   "year": 3,
   "questions": [
     {
+      "id": "789ccede-8362-4368-94ba-d10539ddccc2",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-04",
+      "text": "Con respecto a la vía biliar intrahepática, indique cuál de las siguientes opciones es correcta:",
+      "options": [
+        {
+          "id": "3e506c78-12f6-4600-8308-51a9c1dab913",
+          "text": "La pared de los canalículos biliares está formada por un sector de la membrana de los hepatocitos.",
+          "correct": true
+        },
+        {
+          "id": "11e27835-21cc-4766-a800-0416ac91fcdc",
+          "text": "Los canalículos biliares son un tipo de conducto interlobulillar."
+        },
+        {
+          "id": "20e8f5cc-2a71-4495-bf90-c81411b0d8e5",
+          "text": "Los conductillos terminales presentan epitelio estratificado plano."
+        },
+        {
+          "id": "237ad481-65e1-4f92-9343-6d0d1f5d39d6",
+          "text": "Los conductos biliares presentan un epitelio simple plano a nivel de los espacios portales."
+        },
+        {
+          "id": "495348a0-b80c-4498-a40b-f8e7a609ad0c",
+          "text": "Los conductos intralobulillares del lobulillo clásico están acompañados por ramas vasculares y linfáticas."
+        }
+      ]
+    },
+    {
+      "id": "88b21415-acb2-4066-ac93-89bc1e0dcd2b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-04",
+      "text": "Con respecto a los aspectos bioquímicos de la nutrición humana es correcto afirmar que:",
+      "options": [
+        {
+          "id": "930cefa3-9c7f-4fe1-bf3b-bfbe1844989d",
+          "text": "Se debe aportar un mínimo de proteínas en la dieta que incluyan los aminoácidos esenciales para que la dieta sea saludable.",
+          "correct": true
+        },
+        {
+          "id": "2a9708c3-827a-4381-9dc8-c976c192f5cf",
+          "text": "La dosis recomendada diaria de un nutriente (RDA) es la dosis por encima de la cuál se aprecian significativos niveles de toxicidad."
+        },
+        {
+          "id": "f26b1d07-c5fc-40f8-87a2-bbe1d2751a6b",
+          "text": "La fibra aporta un alto rendimiento energético de la dieta mayor a 6 kcal/gramo."
+        },
+        {
+          "id": "184d9bb8-0b7d-4b33-aaed-8e0349834138",
+          "text": "Las vitaminas liposolubles no se acumulan en los tejidos por los que ́pueden ser ingeridas por dietas ricas en vitaminas sin riesgo de toxicidad."
+        },
+        {
+          "id": "00048729-17b3-47e7-9f21-ef5c8bd054c0",
+          "text": "Los ácidos grasos insaturados del tipo omega-3 predominan en carnes vacunas rojas de alto contenido graso."
+        }
+      ]
+    },
+    {
+      "id": "3a76302f-881a-4108-9861-554be8ef0185",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-04",
+      "text": "Con respecto al metabolismo del ácido araquidónico señale la opción incorrecta:",
+      "options": [
+        {
+          "id": "9ba4b657-5b1c-4de4-a052-72f971ec0031",
+          "text": "La prostaciclina (prostaglandina I2) es el principal metabolito del ácido araquidónico en plaquetas.",
+          "correct": true
+        },
+        {
+          "id": "3d1ee5c4-7c71-400d-bc66-9a6eee34603c",
+          "text": "El ácido araquidónico no puede ser sintetizado en células de mamífero a partir de la elongación e insaturación del ácido palmítico."
+        },
+        {
+          "id": "23b4671d-b196-460e-9176-a5709778c284",
+          "text": "La inhibición de la enzima lipooxigenasa tiene como efecto la inhibición de la síntesis de leucotrienos."
+        },
+        {
+          "id": "5a10cd90-c9ff-4079-a229-8869efd839a5",
+          "text": "La prostaglandina E2 es un agente vasodilatador potente."
+        },
+        {
+          "id": "fc6c0bb2-741b-4500-bf0e-960c38cc0f6a",
+          "text": "Las prostaglandinas actúan localmente activando receptores de membrana."
+        }
+      ]
+    },
+    {
+      "id": "85e9b634-b181-4a16-976d-594a982e282c",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-04",
+      "text": "El circuito entero-hepático que se produce a través de la secreción biliar funciona de la siguiente forma:",
+      "options": [
+        {
+          "id": "01d57c81-f351-48f2-9eb4-f9200c8d2db7",
+          "text": "Luego de una ingesta rica en lípidos se acelera el circuito entero- hepático aumentando tanto la secreción biliar como la re-absorción de la mayoría de las sales biliares.",
+          "correct": true
+        },
+        {
+          "id": "606c3f01-5ef5-4c58-957b-d3313d6e8abe",
+          "text": "Al igual que las sales biliares, el 95% de los pigmentos biliares son re-absorbidos en el intestino y vuelven al hígado."
+        },
+        {
+          "id": "ceb214b1-e072-4dbc-9299-a55dca269008",
+          "text": "Aproximadamente 50% de las sales biliares se pierden en las heces como forma de eliminar el exceso de colesterol que se absorbe y sintetiza."
+        },
+        {
+          "id": "b41424fc-7e14-475f-915a-2fc74d59a201",
+          "text": "Las sales biliares provenientes de la secreción biliar, se absorben rápidamente en el duodeno para volver al hígado."
+        },
+        {
+          "id": "0dfd551b-c005-4a77-b7d7-c6428a8f9e5c",
+          "text": "Luego de una ingesta rica en lípidos, la cantidad de sales biliares en la luz del intestino se multiplica por 6 aproximadamente."
+        }
+      ]
+    },
+    {
+      "id": "ed416793-6577-4c14-ac57-29334bb47464",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-04",
+      "text": "El cortisol es el principal glucorticoide en el humano. Por su acción en sus órganos blanco se produce:",
+      "options": [
+        {
+          "id": "0a9d1ea7-525a-4a02-a18e-04468c23be15",
+          "text": "Aumento de la entrada de glucosa al hígado.",
+          "correct": true
+        },
+        {
+          "id": "362da1e8-e0c9-4fda-9b5a-093914de7cb6",
+          "text": "Aumento en la producción de interleuquina 6 y otras citoquinas por los linfocitos T."
+        },
+        {
+          "id": "5954427d-947b-4874-b2c4-9d5e066bf3aa",
+          "text": "Disminución de la expresión de receptores beta-adrenérgicos del músculo liso bronquial."
+        },
+        {
+          "id": "fac5a95c-d063-483d-b349-84d39a4a57a3",
+          "text": "Inducción de las enzimas claves de la gluconeogénesis en el hígado."
+        },
+        {
+          "id": "f0fb0011-854c-4252-857c-c0af1cbd086e",
+          "text": "Inhibición del ciclo de la urea en el hígado."
+        }
+      ]
+    },
+    {
+      "id": "50d9c84a-0a71-47c6-b22c-ba92a63a4b6e",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-04",
+      "text": "El principal destino (más del 80%) de la bilirrubina en condiciones normales es:",
+      "options": [
+        {
+          "id": "82fa45d6-7bb6-4b23-9200-fb0656365991",
+          "text": "Su eliminación por las heces como estercobilina.",
+          "correct": true
+        },
+        {
+          "id": "17ad427e-1927-496f-8cfd-aa537f3fb7b0",
+          "text": "Su eliminación en la orina como urobilina."
+        },
+        {
+          "id": "05ece9d0-e72d-45de-a8ea-1b6e281d4941",
+          "text": "Su eliminación por la descamación de las células epiteliales."
+        },
+        {
+          "id": "44b15ad7-78a0-4cb7-adc2-1fdda09e13a8",
+          "text": "Su oxidación a CO2 y agua en las mitocondrias."
+        },
+        {
+          "id": "c9981b74-6668-47fb-9b0e-cd7ed7f2ff3c",
+          "text": "Su reciclaje a protoporfirina IX en la médula ósea e hígado."
+        }
+      ]
+    },
+    {
+      "id": "473523e0-08ce-4f70-a87a-ab7673eacee6",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-04",
+      "text": "En el epitelio intestinal, los enterocitos presentan dos dominios de membrana especializados, uno apical y otro basolateral. Dichos dominios se encuentran separados por:",
+      "options": [
+        {
+          "id": "8e14bf05-97bc-4ee1-a547-1df3936a9641",
+          "text": "Uniones estrechas u ocluyentes.",
+          "correct": true
+        },
+        {
+          "id": "4000af0f-443b-405b-8c78-7252807c9207",
+          "text": "Contactos focales."
+        },
+        {
+          "id": "5df1422e-8dcc-4618-add3-3b5f56e2a519",
+          "text": "Hemidesmosomas."
+        },
+        {
+          "id": "94dba42c-cc8f-42fd-9028-0e0fb93e4b33",
+          "text": "Uniones comunicantes o gap."
+        },
+        {
+          "id": "9f89f515-e9a6-48fe-92e0-cbdda514ac0c",
+          "text": "Uniones de anclaje."
+        }
+      ]
+    },
+    {
+      "id": "ecf0f162-e18f-48a6-98b8-3305dd9d03ad",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-04",
+      "text": "En un medio con pH cercano a 2 la enzima que presentará mayor actividad será (marque la opción correcta):",
+      "options": [
+        {
+          "id": "7bd34929-c906-4104-b99c-73cf2db5bfd6",
+          "text": "Pepsina.",
+          "correct": true
+        },
+        {
+          "id": "7405a88a-3480-4ba4-8b3d-2bb069a2ad98",
+          "text": "Amilasa pancreática."
+        },
+        {
+          "id": "b68d9638-1219-47d9-91ae-2f09581ba1e6",
+          "text": "Amilasa salival."
+        },
+        {
+          "id": "d3a8529e-1261-424a-be8f-28250619e009",
+          "text": "Enteroquinasa."
+        },
+        {
+          "id": "eb9160f3-11eb-4f27-9440-0813881402fa",
+          "text": "Tripsina."
+        }
+      ]
+    },
+    {
+      "id": "d0c87ac6-12b5-4463-8121-3adcda36662b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-04",
+      "text": "Frente a la hiperhidratación isotónica, las consecuencias inmediatas son (señale lo correcto):",
+      "options": [
+        {
+          "id": "6dbff04b-e74b-4f93-9a59-29e1c8f9b763",
+          "text": "Aumento del capital de Na+.",
+          "correct": true
+        },
+        {
+          "id": "eee9b243-bd04-4509-9bba-2651d72c261c",
+          "text": "Aumento de la concentración de Na+."
+        },
+        {
+          "id": "a0699277-f99b-47f0-bb01-71c2ce9c624e",
+          "text": "Aumento de la presión oncótica."
+        },
+        {
+          "id": "ace96b34-f18d-4682-8c1f-23a21c1f7440",
+          "text": "Contracción del medio intracelular."
+        },
+        {
+          "id": "d9f8b527-276c-4378-81e6-40c51b1217f6",
+          "text": "Disminución de la presión osmótica."
+        }
+      ]
+    },
+    {
+      "id": "d6632069-bfe4-4299-a05f-c48cab9e8643",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-04",
+      "text": "Indique cuál de los siguientes componentes histológicos NO se observa en la lengua:",
+      "options": [
+        {
+          "id": "2b2c1566-3134-4ed6-9749-0a68913f4d1b",
+          "text": "Muscular de la mucosa.",
+          "correct": true
+        },
+        {
+          "id": "7ecb43aa-e44f-4f9c-b764-486ab92471ed",
+          "text": "Acinos serosos."
+        },
+        {
+          "id": "0379463f-cba1-4763-b680-ee6fa3b4d26f",
+          "text": "Adipocitos."
+        },
+        {
+          "id": "8e1d8b6a-cade-473d-8698-90fe8f397a2b",
+          "text": "Epitelio estratificado plano."
+        },
+        {
+          "id": "1a91456d-429f-416b-bcf0-0ec258e9dfd2",
+          "text": "Tejido muscular estríado esquelético."
+        }
+      ]
+    },
+    {
+      "id": "becf02a1-7aac-4c42-b5cb-f2600ef44e0c",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-04",
+      "text": "La dextrina límite es un producto de la digestión de los hidratos de carbono. ¿Cómo se genera la dextrina límite y como se metaboliza en el tubo digestivo?",
+      "options": [
+        {
+          "id": "01b3350b-861f-4880-acc4-c4ec2cc2802d",
+          "text": "La dextrina límite se genera por la acción de la α-amilasa sobre la amilopectina y el glucógeno.",
+          "correct": true
+        },
+        {
+          "id": "a001e8ba-e86e-4dd2-b28e-0af4ed1b11b4",
+          "text": "La dextrina límite se absorbe hacia el enterocito y se hidroliza en forma completa dentro del enterocito."
+        },
+        {
+          "id": "99fe848e-f2a7-46a1-b613-8a926bdf6f42",
+          "text": "La dextrina límite se genera por la acción de la sacarosa-isomaltasa sobre la amilopectina."
+        },
+        {
+          "id": "8a5c0ee8-eebe-48ef-a0d8-0cab92ebfe26",
+          "text": "La dextrina límite se genera por la acción de la α-amilasa sobre la amilasa."
+        },
+        {
+          "id": "09a3a23f-20aa-42ed-9be6-724d934c149c",
+          "text": "La dextrina límite se genera por la acción de la α-amilasa sobre la celulosa."
+        }
+      ]
+    },
+    {
+      "id": "30f80a42-2086-4121-9847-441ee6ebee88",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-04",
+      "text": "Los ácidos grasos son una importante fuente de energía en el organismo, con respecto a su metabolismo y transporte, indique la opción correcta:",
+      "options": [
+        {
+          "id": "6ad53a1f-6bb8-45da-a434-9e8babeee805",
+          "text": "Los ácidos grasos pueden sintetizarse en el hígado a partir del acetil-CoA y transportarse a los diferentes tejidos formando triglicéridos en las VLDL.",
+          "correct": true
+        },
+        {
+          "id": "d69bf043-1957-4431-af66-7b9c994253ca",
+          "text": "A excepción del palmitato, todos los ácidos grasos deben ser ingeridos en la dieta."
+        },
+        {
+          "id": "d8c946b2-acc0-4eaf-93f0-b2c77892abda",
+          "text": "En condiciones aeróbicas, los ácidos grasos son la fuente principal de energía para todos los tejidos humanos."
+        },
+        {
+          "id": "064eccb7-ad23-44bb-be81-d94cae688891",
+          "text": "La cantidad de ATP producida por la oxidación de 1 mol de ácidos grasos es menor a la producida por 1 mol de glucosa."
+        },
+        {
+          "id": "a4b45ba1-1699-4d0c-b47b-1bd3f4fa0a7d",
+          "text": "La enzima lipoproteín lipasa se encuentra formando parte de los quilomicrones e hidroliza triacilglicéridos de la dieta para rendir ácidos grasos libres en el plasma."
+        }
+      ]
+    },
+    {
+      "id": "66ebc929-a796-4c20-8dbb-e5b2dc30e83b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-04",
+      "text": "Por acción de la insulina sobre sus órganos blancos se observan los siguientes efectos, A EXCEPCIÓN de:",
+      "options": [
+        {
+          "id": "984b87af-1431-4566-b9de-a346a0b08843",
+          "text": "Activación de la protein-quinasa A y de la protein-quinasa dependiente de AMP en los hepatocitos.",
+          "correct": true
+        },
+        {
+          "id": "357ebd72-cae5-4507-866b-615255d9bc60",
+          "text": "Activación de las fosfoproteínas fosfatasas en los hepatocitos."
+        },
+        {
+          "id": "3b6a85ed-be88-4930-a61d-c0d8ebc66e83",
+          "text": "Aumento de la expresión de transportadores de glucosa tipo GLUT-4 en la membrana plasmática de los adipocitos."
+        },
+        {
+          "id": "d3a32bd0-f7fe-4e02-93f5-9d7d59aaa24b",
+          "text": "Aumento de la síntesis de ácidos grasos en los hepatocitos."
+        },
+        {
+          "id": "dc4320fb-add2-4ff7-8e94-b4cbf6567ddf",
+          "text": "Inhibición de la cetogénesis en los hepatocitos."
+        }
+      ]
+    },
+    {
+      "id": "44a197bf-8d60-4cfd-9ca8-392dee8f8bf6",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-04",
+      "text": "Respecto a la histología de la adenohipófisis, es correcto afirmar que:",
+      "options": [
+        {
+          "id": "e1cdbb04-f56a-448c-a683-e6768879e996",
+          "text": "Recibe factores de liberación producidos por las neuronas de la eminencia media a través del sistema portal hipofisiario.",
+          "correct": true
+        },
+        {
+          "id": "ed9b24c7-d6ed-4bdd-bf87-e502020ff456",
+          "text": "Posee agrupaciones celulares rodeadas por gran cantidad de estroma."
+        },
+        {
+          "id": "5fbbca7a-f1c6-443f-b443-a275c210b99e",
+          "text": "Presenta una gruesa cápsula de tejido conjuntivo denso."
+        },
+        {
+          "id": "b3b86bb8-1ca0-4689-be8e-f80162f61583",
+          "text": "Recibe prolongaciones de cuerpos celulares que se ubican en el hipotálamo."
+        },
+        {
+          "id": "d4c7431f-2b3c-4ca9-86cf-5939e33014a9",
+          "text": "Sus productos de secreción son liberados a capilares de tipo contínuo."
+        }
+      ]
+    },
+    {
+      "id": "3a028efd-98fa-4d6d-b0ed-8dcda6c5316f",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-04",
+      "text": "Respecto a la histología de la glándula suprarrenal es correcto afirmar que:",
+      "options": [
+        {
+          "id": "8f121c17-3d85-4e36-ba81-56ed2fd36bdc",
+          "text": "Las células de la región medular se caracterizan por la presencia de gránulos densos rodeados por membrana.",
+          "correct": true
+        },
+        {
+          "id": "e9e9acdd-2995-4d6f-b800-2620c9c793f6",
+          "text": "Las células de la región medular no presentan inervación."
+        },
+        {
+          "id": "a9d4d190-4a16-4b8f-8095-1ecc5a33aeb8",
+          "text": "Las células de la zona fasciculada contienen abundantes gránulos de contenido proteico."
+        },
+        {
+          "id": "a6a5e55b-e4fd-4cf2-b680-ce5cf8e3810d",
+          "text": "Las células de zona glomerulosa presentan un citoplasma altamente vacuolado."
+        },
+        {
+          "id": "a8fdc9db-1341-4e19-8754-9ee68d8c2612",
+          "text": "No presenta cápsula."
+        }
+      ]
+    },
+    {
+      "id": "8f4b62aa-9822-4e5d-99d8-e5c7eee47e0a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-04",
+      "text": "Respecto a la renovación del epitelio en las mucosas del aparato digestivo, ¿cuál de los siguientes enunciados es correcto?",
+      "options": [
+        {
+          "id": "96aac4dc-f7ed-4850-886b-f633b600aab7",
+          "text": "En la lengua la proliferación ocurre en el sector basal del epitelio.",
+          "correct": true
+        },
+        {
+          "id": "20272b0d-14b1-4080-ad18-2f8d62f214de",
+          "text": "En el intestino delgado la proliferación ocurre en la punta de las vellosidades."
+        },
+        {
+          "id": "6a963e80-223f-4803-a895-4cc7d8c8645d",
+          "text": "Se observa en los distintos segmentos del tubo digestivo excepto en el esófago."
+        },
+        {
+          "id": "0355686e-6437-40e3-bcc1-3ba8b1224e19",
+          "text": "Solamente se renuevan las células de los epitelios de revestimiento."
+        }
+      ]
+    },
+    {
+      "id": "2535b69f-a5f7-4ae8-bc73-2fd1ed665e7d",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-04",
+      "text": "Respecto a las neurohormonas hipotalámicas antidiurética (ADH) y oxitocina, marque la opción correcta:",
+      "options": [
+        {
+          "id": "5c63ad34-9ba8-4f8d-83d5-c12ac0e2f9bc",
+          "text": "La entrada de calcio en la terminal de las neuronas está implicada en su liberación.",
+          "correct": true
+        },
+        {
+          "id": "f9a61f1f-0175-4fe1-a052-d9057e174b3f",
+          "text": "No es posible su determinación en sangre."
+        },
+        {
+          "id": "d839d0d5-0366-4942-8196-5238dfc29709",
+          "text": "Son liberadas a la sangre en la eminencia media."
+        },
+        {
+          "id": "66a5b2fa-8241-4b66-bd4a-a57fe00c90c7",
+          "text": "Son sintetizadas a partir proopiomelanocortina (POMC)."
+        },
+        {
+          "id": "9e8ff651-97eb-4e8d-bd71-4f2736895942",
+          "text": "Son sintetizadas principalmente en neuronas localizadas en el núcleo ventromedial del hipotálamo."
+        }
+      ]
+    },
+    {
+      "id": "677cd4b3-43c3-4323-81f5-1bb3a3bd0490",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-04",
+      "text": "Respecto a las reacciones catalizadas por las transaminasas es INCORRECTO afirmar que:",
+      "options": [
+        {
+          "id": "0f99ba64-0703-48da-9cf4-f807555840c1",
+          "text": "Uno de los productos de la reacción catalizada es el amonio libre.",
+          "correct": true
+        },
+        {
+          "id": "09cdb769-1d32-492c-9873-813c81bda3fb",
+          "text": "Catalizan reacciones reversibles donde siempre participa un aminoácido como sustrato o producto."
+        },
+        {
+          "id": "a93abd3f-bc55-4d50-a9da-7d3a8a81de5e",
+          "text": "El piridoxal fosfato es un cofactor fundamental que participa en el mecanismo catalítico."
+        },
+        {
+          "id": "ed376fa2-045c-464c-b767-de1f82523f3f",
+          "text": "Participan en reacciones de síntesis y degradación de aminoácidos."
+        },
+        {
+          "id": "e13438dd-4beb-4b86-9562-1b88aba351f6",
+          "text": "Una de las más activas en el hígado es la TGO (transaminasa glutámico-oxalacética)."
+        }
+      ]
+    },
+    {
+      "id": "9b460662-6fc0-4e05-bac0-9a70bd408a4e",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-04",
+      "text": "Sobre el metabolismo de los aminoácidos por los distintos tejidos, es correcto afirmar que:",
+      "options": [
+        {
+          "id": "2ed7622f-1b02-4334-be26-9730092baaf2",
+          "text": "Las células cromafines de la médula suprarrenal metabolizan la tirosina para sintetizar adrenalina.",
+          "correct": true
+        },
+        {
+          "id": "b231e21a-ae0d-484b-aedc-420b54baa6d8",
+          "text": "El enterocito utiliza mayoritariamente triptófano para obtener energía."
+        },
+        {
+          "id": "f346abef-096e-406c-b6a8-c383650046f7",
+          "text": "El eritrocito libera altas cantidades de alanina al plasma."
+        },
+        {
+          "id": "21cd1450-651c-448b-8ff0-1b7c9d6b753b",
+          "text": "El triptófano es precursor del óxido nítrico producido por la óxido nítrico sintasa endotelial."
+        },
+        {
+          "id": "d636a106-d242-499c-9099-d70c3aeb32d1",
+          "text": "Los 20 aminoácidos constituyentes de las proteínas sufren reacciones de transaminación en el riñón."
+        }
+      ]
+    },
+    {
+      "id": "cbfa603a-202b-4868-9860-e2e7f657ea77",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-04",
+      "text": "Sobre el metabolismo del tejido adiposo es correcto afirmar que:",
+      "options": [
+        {
+          "id": "958ab1a7-3080-4538-b4d1-1a0ff5f41edb",
+          "text": "La lipogénesis puede darse a partir de una ingesta rica en carbohidratos.",
+          "correct": true
+        },
+        {
+          "id": "8826ffb4-e2b6-4b59-9677-4a6a95269d89",
+          "text": "Durante el período de ayuno, la lipasa hormono sensible del adipocito se inhibe."
+        },
+        {
+          "id": "0e218c11-9486-4911-b880-842efdd018e9",
+          "text": "El aumento de concentración intracelular de ácidos grasos libres bloquea la acción de la proteína desacoplante mitocondrial (UCP1)."
+        },
+        {
+          "id": "93a992a1-4462-4046-8171-170958ecff5a",
+          "text": "La activación de rutas de fosforilación AMPc-dependientes bloquean la lipolisis."
+        },
+        {
+          "id": "76abbe36-3fce-4245-a0ee-398c16dcf5bd",
+          "text": "La lipólisis está normalmente incrementada inmediatamente luego de una ingesta rica en grasas."
+        }
+      ]
+    },
+    {
+      "id": "f17c8db0-ee45-438d-b6cb-0e2cc0575d25",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-04",
+      "text": "Sobre la bilirrubina conjugada es correcto afirmar que:",
+      "options": [
+        {
+          "id": "ffd9d3d4-1fc1-43b9-9003-f30ce60a074d",
+          "text": "Es precursora de los pigmentos urobilinógeno y estercobilinógeno en la luz intestinal.",
+          "correct": true
+        },
+        {
+          "id": "5cc760d0-ccd8-44c9-9790-b2c9f324fa73",
+          "text": "Es la forma de bilirrubina predominante en la sangre."
+        },
+        {
+          "id": "79b45e3b-950b-4b55-be7f-9497dd2534e4",
+          "text": "Es menos hidrosoluble que la biliverdina."
+        },
+        {
+          "id": "0698578c-c9a3-45b6-8bd1-7883fa35a130",
+          "text": "Se forma por acción de la hemo-oxigenasa sobre el grupo hemo."
+        },
+        {
+          "id": "0c34fa68-f66d-4e42-b997-9c828022a123",
+          "text": "Se sintetiza en los hepatocitos por conjugación de la protoporfirina IX con sulfato."
+        }
+      ]
+    },
+    {
+      "id": "bf2556b3-c0e9-4dc4-a004-e2337a81bddd",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-04",
+      "text": "Sobre la hormona adrenocorticotropina (ACTH), marque la opción correcta:",
+      "options": [
+        {
+          "id": "5d741630-7127-495c-996f-5d2cce07080d",
+          "text": "La ACTH, así como el cortisol, presentan un pico de secreción 2-4 horas antes de despertar.",
+          "correct": true
+        },
+        {
+          "id": "847e7b17-b07b-4a4c-8842-1812289578a1",
+          "text": "Circula en sangre unida a una proteína transportadora."
+        },
+        {
+          "id": "8dafa00a-b6fe-4bd5-935b-67f1bff23055",
+          "text": "Concentraciones fisiológicas de ACTH determinan un oscurecimiento de la piel."
+        },
+        {
+          "id": "e3b95d7b-feb7-4af1-81bc-537e39387286",
+          "text": "Esta hormona se libera ante un nivel elevado de cortisol en sangre."
+        },
+        {
+          "id": "7162e876-7217-46a1-ba20-1879e7b8941a",
+          "text": "Los andrógenos suprarrenales son los principales responsables de la retroalimentación negativa en el eje hipotálamo-cortico-suprarrenal."
+        }
+      ]
+    },
+    {
+      "id": "0c9ff611-95c7-4b2f-8a41-23f2ca4a2f30",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-04",
+      "text": "Sobre la secreción pancreática exócrina y su regulación, marque la opción INCORRECTA:",
+      "options": [
+        {
+          "id": "b375db02-212b-4de8-a0ed-02f58f57152e",
+          "text": "La estimulación de la secreción pancreática se inicia en la fase intestinal.",
+          "correct": true
+        },
+        {
+          "id": "bf9c9a6d-011c-4965-9534-f0c4d1b0edd9",
+          "text": "La CCK estimula la secreción enzimática del páncreas."
+        },
+        {
+          "id": "8fc8364c-de64-4e75-afc9-b1376a2d856c",
+          "text": "La colecistoquinina (CCK) es secretada por células duodenales en respuesta a las grasas del quimo."
+        },
+        {
+          "id": "971cbc32-2d7a-4566-8052-013ac87679b3",
+          "text": "La secretina es secretada por células duodenales en respuesta al pH ácido del quimo."
+        },
+        {
+          "id": "bf9851ab-8e06-4b87-b432-7c7e7e48f375",
+          "text": "La secretina estimula la secreción de bicarbonato del páncreas."
+        }
+      ]
+    },
+    {
+      "id": "4f49718e-ff94-4d0b-892a-3dc650b27d00",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-04",
+      "text": "Todos los efectos descritos sobre la acción de la insulina a nivel muscular son correctos a excepción de (señale la opción INCORRECTA):",
+      "options": [
+        {
+          "id": "3e2ffbd5-15dd-476c-8828-766d3eefd809",
+          "text": "A partir de la fosforilación del receptor de insulina se promueven tanto rutas metabólicas como mitogénicas.",
+          "correct": true
+        },
+        {
+          "id": "b79f5909-5e77-443a-b095-0466ff424dbc",
+          "text": "Aumenta la expresión de transportadores tipo GLUT-4 en la membrana plasmática."
+        },
+        {
+          "id": "4357b3fd-52d8-4a71-9192-b73c0519d563",
+          "text": "Estimula la glucógeno sintasa."
+        },
+        {
+          "id": "8f01817d-821d-4ccf-a306-6150801c3e1d",
+          "text": "Promueve la fosforilación de la glucosa estimulando la hexoquinasa."
+        },
+        {
+          "id": "036857e6-3085-4873-bc7a-4505931a6dd6",
+          "text": "Promueve la liberación de ácidos grasos de cadena larga."
+        }
+      ]
+    },
+    {
+      "id": "a8164f62-af8a-4c77-afa1-fa49e0784c76",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-04",
+      "text": "¿Cuál de las siguientes características es típica de las células PRINCIPALES de la mucosa gástrica?",
+      "options": [
+        {
+          "id": "3f80475d-79ec-4d96-ac66-ab1bb3e9b9b0",
+          "text": "Gránulos secretorios en el sector apical del citoplasma.",
+          "correct": true
+        },
+        {
+          "id": "3e02f9ca-7d01-47bb-9e0d-cfaf7b5d4652",
+          "text": "Citoplasma acidófilo."
+        },
+        {
+          "id": "8df0795a-cd21-445c-91d3-8291117a9bfa",
+          "text": "Mitocondrias con crestas tubulares en el sector basal del citoplasma."
+        },
+        {
+          "id": "6319bba2-1470-46d0-9a8f-e5a1cff90403",
+          "text": "Presencia de gránulos de mucinógeno en la región basal del citoplasma."
+        },
+        {
+          "id": "89ff769f-3690-41b0-8a21-e8a5bc496073",
+          "text": "Vesículas y túbulos rodeando un canalículo secretor intracelular."
+        }
+      ]
+    },
+    {
+      "id": "4ecf65fa-ab22-4594-9440-a0ad6045789b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-04",
+      "text": "¿Cuál de las siguientes estrategias farmacológicas espera que sea la más eficiente en reducir la secreción ácida gástrica? Marque la opción correcta.",
+      "options": [
+        {
+          "id": "efb68441-3a17-4f12-8703-32b0956f36d6",
+          "text": "Inhibidores de la bomba de H+/K+-ATPasa.",
+          "correct": true
+        },
+        {
+          "id": "75548b00-ebeb-40db-b57b-6944d6be7077",
+          "text": "Antagonistas de los receptores H2 de histamina."
+        },
+        {
+          "id": "2a3c5ff3-4c0f-4548-8bc2-73d4ba8c12f3",
+          "text": "Antagonistas de los receptores de gastrina."
+        },
+        {
+          "id": "3e9df535-0326-4548-afac-ec7aad1358b1",
+          "text": "Antagonistas de los receptores muscarínicos."
+        },
+        {
+          "id": "b8e37f3e-f766-4113-a79e-54404c5c715b",
+          "text": "Inhibidores de la bomba de Na+/K+-ATPasa."
+        }
+      ]
+    },
+    {
+      "id": "8fed5c24-faeb-4cf5-a272-0c489a183b2b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-04",
+      "text": "¿Cuál es el componente más abundante en los quilomicrones?",
+      "options": [
+        {
+          "id": "64940236-bf01-4374-ac54-73d26b872716",
+          "text": "Triacilglicéridos.",
+          "correct": true
+        },
+        {
+          "id": "faa6089b-e6ec-423a-a1f7-858e55d02165",
+          "text": "ApoB-48."
+        },
+        {
+          "id": "405de8bf-7295-4f5f-bd0a-d239e1c9b355",
+          "text": "Colesterol."
+        },
+        {
+          "id": "e803fabc-a05e-4338-969b-2ea30014a86c",
+          "text": "Fosfolípidos."
+        },
+        {
+          "id": "c8a2920f-5c5a-426a-8937-34b3a62701f5",
+          "text": "Ésteres de colesterol."
+        }
+      ]
+    },
+    {
       "id": "b251dcfb-6dc8-466f-b8b3-350dcf2aa21f",
       "evaluation": "parcial_1",
       "source": "partial",
