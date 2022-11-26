@@ -14,6 +14,740 @@
   "year": 3,
   "questions": [
     {
+      "id": "24f2999d-2ab0-4e9b-bbe6-b7fc257f2826",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-01-01",
+      "text": "Acerca de la regulación del metabolismo intermediario es INCORRECTO afirmar que:",
+      "options": [
+        {
+          "id": "6d2ff6e3-5cf7-435a-b704-195aa2a806b5",
+          "text": "En el hígado el glucagón inhibe la glucógenolisis.",
+          "correct": true
+        },
+        {
+          "id": "0cce40da-86ae-44a0-bf89-66ea27eeb042",
+          "text": "El glucagón tiene un efecto inhibitorio sobre la glucólisis mediante inhibición de la fosfofructoquinasa."
+        },
+        {
+          "id": "d4e191c0-2111-4937-8190-c4743716d0a1",
+          "text": "El glucagón tiene un efecto inhibitorio sobre la síntesis hepática de colesterol."
+        },
+        {
+          "id": "7d508330-c287-48e7-b2d5-428bda096053",
+          "text": "En el tejido adiposo, la insulina estimula la oxidación del piruvato mediante estimulación de la piruvato deshidrogenasa."
+        },
+        {
+          "id": "dbc0e2db-675c-4ace-a625-116b76c1adbf",
+          "text": "La insulina estimula la glucógeno sintasa."
+        }
+      ]
+    },
+    {
+      "id": "b43c6673-3477-4af2-8c71-9976f3f73326",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-01-01",
+      "text": "Acerca de las bases bioquímicas de la nutrición humana, señale lo correcto:",
+      "options": [
+        {
+          "id": "f20cbab2-c4fd-47ba-bbf0-ed797c641e5d",
+          "text": "Un objetivo de las dietas recomendadas en nuestro país es la disminución en el consumo de lípidos saturados concomitante con el consumo de lípidos insaturados.",
+          "correct": true
+        },
+        {
+          "id": "2babb0f5-5cbd-4364-a09b-bc139c322a31",
+          "text": "La principal fuente de vitaminas la constituye la fibra vegetal."
+        },
+        {
+          "id": "9d29d7a6-8d4f-40d1-bc83-305f354f65b9",
+          "text": "Un índice de masa corporal de 23 indica que el paciente presenta importante grado de obesidad."
+        },
+        {
+          "id": "3d4ae167-2a2f-402c-af59-e806dfc3e63b",
+          "text": "Una dieta normoproteica necesita de la ingesta de al menos 300 g de proteínas para un adulto normal de 70 kg de peso."
+        },
+        {
+          "id": "91356db6-a155-4f03-8dac-88ba8d6d4780",
+          "text": "Una fuente abundante de ácidos grasos omega 3 es la ingesta de grasa bovina."
+        }
+      ]
+    },
+    {
+      "id": "17146c8a-c7d1-47c9-9a9c-f5d46d34fb2b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-01-01",
+      "text": "Acerca de las catecolaminas sintetizadas por la médula suprarrenal es correcto afirmar que:",
+      "options": [
+        {
+          "id": "7aac3c04-e638-437d-a206-569fbaa8077b",
+          "text": "Las catecolaminas estimulan la glucogenólisis hepática y muscular por activación de receptores beta 2.",
+          "correct": true
+        },
+        {
+          "id": "a989839f-9b1b-4838-9d9c-827fa878d8e9",
+          "text": "El producto final liberado de la médula suprarrenal es mayoritariamente noradrenalina."
+        },
+        {
+          "id": "fc5084eb-de4e-414c-8975-8ab887a753d9",
+          "text": "La activación de receptores beta adrenérgicos conduce a un aumento de la concentración de Ca2+ como segundo mensajero en las células blanco."
+        },
+        {
+          "id": "cb230237-57a2-48ff-9bef-ecde3ce8f0fd",
+          "text": "Se catabolizan muy lentamente y la mayor parte de la noradrenalina se excreta en la orina como conjugados con ácido glucorónico."
+        },
+        {
+          "id": "38d7708c-379a-4b10-83aa-0c0fbe0d3741",
+          "text": "Se sintetizan a partir del aminoácido triptófano."
+        }
+      ]
+    },
+    {
+      "id": "f77e36aa-4153-4714-aae5-d0a2da935eb3",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-01-01",
+      "text": "Acerca del metabolismo de los aminoácidos señale la opción correcta:",
+      "options": [
+        {
+          "id": "5ecd2849-1a60-4470-949f-81255959f979",
+          "text": "La reacción catalizada por la alanina aminotransferasa favorece la gluconeogénesis hepática.",
+          "correct": true
+        },
+        {
+          "id": "c742cdd2-7fe2-4c6e-8a2b-29bf53079a9f",
+          "text": "El balance neto del ciclo de la urea evidencia que la síntesis de urea no requiere energía (ATP)."
+        },
+        {
+          "id": "feff1c9d-3d11-4868-89ab-e8e1d796ab9d",
+          "text": "El ciclo de la urea ocurre enteramente en el citosol por lo que no posee intermediarios comunes con el ciclo de los ácidos tricarboxílicos."
+        },
+        {
+          "id": "3d1f69f3-09a9-4924-b7e8-2d16e229c3aa",
+          "text": "La carbamoil-fosfato sintasa I es fuertemente inhibida por amonio y estimulada alostéricamente por niveles elevados de urea."
+        },
+        {
+          "id": "a8ae1d6d-29db-4485-ae83-3b8774091d9c",
+          "text": "La glutaminasa favorece el transporte de glutamato del hígado al intestino para su eliminación."
+        }
+      ]
+    },
+    {
+      "id": "27d4135a-f543-4e5d-93bd-2719812ee7c3",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-01-01",
+      "text": "Con respecto a la histología del hígado, es correcto afirmar que:",
+      "options": [
+        {
+          "id": "fdb2339b-7414-432f-a6f2-b340f45554a6",
+          "text": "Las células de Ito almacenan grandes cantidades de vitamina A.",
+          "correct": true
+        },
+        {
+          "id": "561ea8f9-b84c-4c79-b72c-c41cdfbf6879",
+          "text": "En condiciones normales los hepatocitos presentan un índice mitótico elevado."
+        },
+        {
+          "id": "74616cff-98ae-4179-a961-04a8fd4ff863",
+          "text": "La pared de sus sinusoides es de tipo continuo."
+        },
+        {
+          "id": "2854a6f7-e1e5-43aa-9cef-373f1037a42c",
+          "text": "La región central del acino hepático se caracteriza por la presencia de una vena centro lobulillar."
+        },
+        {
+          "id": "90dde9ab-00a2-4311-83b2-35c773e94f16",
+          "text": "Las células de Kupffer ocupan el espacio perisinusoidal."
+        }
+      ]
+    },
+    {
+      "id": "bc5b0028-873d-4f94-8d32-98d5fba4ae0a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-01-01",
+      "text": "En el interior de la capa íntima de la pared arterial los macrófagos son uno de los principales tipos celulares capaces de cargarse de lípidos y acumular colesterol aportado por lipoproteínas, transformándose en las etapas incipientes de la aterosclerosis en las características células espumosas. En cultivo y a pesar de ser incubadas con un exceso de LDL diferentes tipos celulares que poseen al receptor para la LDL acumulan hasta 30 g de colesterol por mg de proteína y no se transforman en células espumosas sin embargo, los macrófagos pueden llegar a acumular hasta 10 veces más, quedando como células espumosas. ¿A qué se deben estas diferencias entre los tipos celulares?",
+      "options": [
+        {
+          "id": "ea983f7d-fe6f-4b09-836d-b8ed9d07d918",
+          "text": "El receptor scavenger presente en los macrófagos no inhibe la captación de colesterol a altas concentraciones intracelulares de colesterol.",
+          "correct": true
+        },
+        {
+          "id": "3114368d-9a83-4aa2-af25-748f58eb340b",
+          "text": "El receptor de LDL (apoE/apoB100) aumenta la captación de colesterol a elevadas concentraciones de colesterol."
+        },
+        {
+          "id": "f74585d5-391a-4467-b6b2-4d3eead44eab",
+          "text": "La cantidad de receptores scavenger presentes en los macrófagos disminuye al aumentar los niveles de colesterol."
+        },
+        {
+          "id": "93d05291-45d8-46e4-9dbe-60c4f0145cf1",
+          "text": "Los distintos tipos celulares presentan distintas afinidades por los niveles de colesterol."
+        }
+      ]
+    },
+    {
+      "id": "280f2010-b240-49eb-a9eb-628a462c1d44",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-01-01",
+      "text": "En el laboratorio de diagnóstico se examina un preparado histológico de vesícula biliar humana normal, ¿cuál de la siguientes NO sería característica del diagnóstico de órgano?",
+      "options": [
+        {
+          "id": "045b0484-3edf-48cd-a860-019b28bb33ce",
+          "text": "Capa muscular de orientación longitudinal, transversal y oblicua muy desarrollada.",
+          "correct": true
+        },
+        {
+          "id": "0982e04b-156b-4358-aaf7-284f02755a10",
+          "text": "Capa submucosa con gran cantidad de glándulas túbuloalveolares."
+        },
+        {
+          "id": "a9079e63-e218-44e4-8958-36a3de528025",
+          "text": "Epitelio cilíndrico alto."
+        },
+        {
+          "id": "25778413-c7f7-42d3-a1de-ab00fa2eaa9c",
+          "text": "Lámina propia con abundantes vasos linfáticos."
+        },
+        {
+          "id": "e59e1048-0669-4dfa-9e2f-33568aee6ac6",
+          "text": "Presencia de microvellosidades en la superficie apical de las células epiteliales."
+        }
+      ]
+    },
+    {
+      "id": "fc1289ac-7399-44c9-88e3-5e0ed461b3b0",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-01-01",
+      "text": "En relación a la distribución de electrolítos en el organismo de un individuo sano, es correcto afirmar que:",
+      "options": [
+        {
+          "id": "af5722b5-ead3-444f-bde3-9dd64b281f90",
+          "text": "La osmolalidad generada por los electrolitos es el principal determinante de la osmolalidad plasmática.",
+          "correct": true
+        },
+        {
+          "id": "3fd8f5dc-ad7c-413f-8eb5-2adf97fda693",
+          "text": "El ion Na+ es el principal catión del líquido intracelular."
+        },
+        {
+          "id": "074ccbf2-1f90-4c73-9ed5-311d1e75896a",
+          "text": "El ion calcio se encuentra más concentrado en el líquido intracelular que en el extracelular."
+        },
+        {
+          "id": "b7d3e942-9654-4cf6-baea-dd583968c324",
+          "text": "Las fuerzas osmóticas provocan el movimiento de iones K+."
+        },
+        {
+          "id": "6e314608-3796-4c81-9f65-340e947ea95c",
+          "text": "Los aniones predominantes del líquido extracelular lo aportan las proteínas."
+        }
+      ]
+    },
+    {
+      "id": "c9ac0446-6be9-4aea-8a39-01b211fead44",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-01-01",
+      "text": "En relación a las bases bioquímicas del síndrome metabólico es correcto afirmar que:",
+      "options": [
+        {
+          "id": "c53fbdcf-0a0b-474f-a732-201fe42106bc",
+          "text": "La masa expandida de tejido adiposo libera factores que contribuyen a la enfermedad tales como el factor de necrosis tumoral alfa.",
+          "correct": true
+        },
+        {
+          "id": "11ef2403-e404-44d6-be48-078562a175f6",
+          "text": "Existe un aumento de la producción de adiponectina proporcional al aumento de masa de tejido adiposo."
+        },
+        {
+          "id": "36911106-16ef-4d64-bf62-225d6c6bab91",
+          "text": "Habitualmente aumentan los niveles en plasma de apolipoproeína A."
+        },
+        {
+          "id": "9eddfcb1-067c-489c-9f5b-28e28b3f2139",
+          "text": "Habitualmente cursa con una disminución de los niveles de leptina en plasma."
+        },
+        {
+          "id": "7c02f31e-2ae5-4dde-9881-5a8f215ced66",
+          "text": "Habitualmente existe una disminución en los niveles de fibrinógeno."
+        }
+      ]
+    },
+    {
+      "id": "d3b439f8-2b42-4706-92f2-21fe7dce9e42",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-01-01",
+      "text": "En relación a los mecanismos de acción hormonal:",
+      "options": [
+        {
+          "id": "669b7365-6560-4ea6-9616-3323784b6efe",
+          "text": "El NO es un mediador parácrino a nivel vascular siendo capaz de estimular la formación de GMPc.",
+          "correct": true
+        },
+        {
+          "id": "262416ba-b315-4020-a1c7-eedc143291d1",
+          "text": "El AMPc es sintetizado mediante la activación de una fosfodiesterasa."
+        },
+        {
+          "id": "08c3c9f5-6918-4e54-a10d-a1b55a3778e6",
+          "text": "El AMPc es un potente inhibidor de PKA."
+        },
+        {
+          "id": "8e9a4916-2fcb-449d-aaea-179c6bd4e48d",
+          "text": "La activación del receptor de insulina, resulta en la activación de la adenil ciclasa."
+        },
+        {
+          "id": "83222879-e385-4739-b545-80bffd4cba16",
+          "text": "Las hormonas que promueven la activación de la fosfolipasa C determinan una disminución intra celular de calcio."
+        }
+      ]
+    },
+    {
+      "id": "ebca4eb7-7b49-4703-9fc9-0bde5c91d24b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-01-01",
+      "text": "En relación al eje hipotálamo-hipófiso-adrenal, marque la opción INCORRECTA:",
+      "options": [
+        {
+          "id": "68213aa5-cd90-414a-9866-f7444297fac8",
+          "text": "La aldosterona secretada por la glándula suprarrenal es la que ejerce el feedback negativo a nivel hipofisario e hipotalámico.",
+          "correct": true
+        },
+        {
+          "id": "9786c29f-dc27-4af3-a12f-b91421762cf5",
+          "text": "El cortisol es una hormona hiperglucemiante."
+        },
+        {
+          "id": "76a6256d-6c0d-4140-8077-4f1bdc94cfc9",
+          "text": "La ACTH estimula la síntesis y secreción de cortisol por la corteza de la glándula suprarrenal."
+        },
+        {
+          "id": "55344548-8836-49a8-8793-e158dda56f7c",
+          "text": "La CRH viaja a la hipófisis anterior por el sistema porta hipotálamo hipofisario para estimular la síntesis y secreción de corticotrofina (ACTH)."
+        },
+        {
+          "id": "34ba23ca-4925-4eb1-be19-f4170415bcbe",
+          "text": "Neuronas hipotalámicas liberan hormonas liberadora de corticotrofina (CRH) en respuesta al estrés."
+        }
+      ]
+    },
+    {
+      "id": "a7c57fe9-16f1-4eba-92ff-de6beff60828",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-01-01",
+      "text": "En relación al metabolismo de glúcidos en el hepatocito es correcto afirmar que:",
+      "options": [
+        {
+          "id": "929c9233-9d96-4a79-ae40-d465a0025780",
+          "text": "La glucoquinasa es la isoforma de la hexoquinasa presente en este órgano y se caracteriza por tener un Km alto para la glucosa.",
+          "correct": true
+        },
+        {
+          "id": "14ee12cb-e3cf-4587-91a7-7b4a400c35a5",
+          "text": "El transportador de glucosa del hepatocito es activado por la insulina."
+        },
+        {
+          "id": "adf14104-a075-4cbc-afcf-4c72b70f0bae",
+          "text": "El transportador de glucosa del hepatocito utiliza ATP para la entrada de glucosa."
+        },
+        {
+          "id": "5f066a02-5028-4327-8d01-c71b0d0205a1",
+          "text": "La presencia de glucosa 6 fosfatasa inhibe el proceso de liberación de glucosa desde el hepatocito al espacio intravascular."
+        },
+        {
+          "id": "ba6a71b6-9057-41cd-9b64-1252be7d81bf",
+          "text": "La salida de glucosa del hepatocito se da por difusión simple."
+        }
+      ]
+    },
+    {
+      "id": "24905e2c-9d36-4f2e-ad2c-1aefe2c52f27",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-01-01",
+      "text": "En un individuo con una deficiencia en la conversión de tripsinógeno en tripsina se esperaría que experimente más efecto perjudicial en la digestión de proteínas, a diferencia de un individuo que tiene un defecto en alguna otra proteasa digestiva. ¿Por qué? Señale la opción correcta.",
+      "options": [
+        {
+          "id": "a629dea2-0382-490b-b75c-a4f7dc8cb3ab",
+          "text": "La tripsina activa a los otros zimógenos que se secretan por el páncreas.",
+          "correct": true
+        },
+        {
+          "id": "522e4e26-9e3f-4fd6-a5d2-8f13c8232010",
+          "text": "La tripsina es muy poco específica por los sustratos."
+        },
+        {
+          "id": "29e25326-eec9-410c-86d0-4682f5a08d74",
+          "text": "La tripsina in activa al tripsinógeno para que la digestión pueda comenzar en el estómago."
+        },
+        {
+          "id": "ac9b15b0-945f-47f2-b3bb-92754bae0485",
+          "text": "La tripsina inhibe la motilidad intestinal para que los sustratos puedan ser hidrolizados por períodos más largos."
+        }
+      ]
+    },
+    {
+      "id": "bbc7091a-1107-4dd9-bb94-7d44ba39c5f5",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-01-01",
+      "text": "En una micrografía electrónica de transmisión de una célula perteneciente a una glándula endócrina se observa gran cantidad de gránulos secretorios, RER y Golgi desarrollados. Indique cuál de las siguientes células podría corresponder a esta descripción con mayor probabilidad.",
+      "options": [
+        {
+          "id": "f4ef32a6-1950-4a58-a2e8-75e99dca9067",
+          "text": "Célula oxifilia de la paratiroides.",
+          "correct": true
+        },
+        {
+          "id": "e1c9f888-1702-4489-bf13-2d6f45c7afd9",
+          "text": "Célula cromofoba de la adenohipófisis."
+        },
+        {
+          "id": "48c00fd5-770b-41a2-9186-3efa43650bf6",
+          "text": "Célula parafolicular de la tiroides."
+        },
+        {
+          "id": "02cd4c06-9ceb-4bd6-b72f-1b7f4fde7fed",
+          "text": "Espongiocito de la corteza suprarrenal."
+        },
+        {
+          "id": "25db2c36-4b89-4d68-b467-b8e2b0b242b2",
+          "text": "Pituicito de la neuro hipófisis."
+        }
+      ]
+    },
+    {
+      "id": "50f0697b-0133-46c0-af25-845e8003b09d",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-01-01",
+      "text": "En una micrografía electrónica de transmisión del epitelio de la mucosa digestiva se observa una célula con las siguientes característica. Forma piramidal que contacta con la membrana basal y la luz, extremo apical poco evidente, con algunas microvellosidades, RER y Golgi con escaso desarrollo, presencia de gránulos electrondensos rodeados de membrana localizados en el sector infranuclear. De acuerdo a dicha descripción, indique a cuál de las siguientes tipos celulares podría corresponder:",
+      "options": [
+        {
+          "id": "d5fadce5-f965-4093-b254-c07db28ddfaa",
+          "text": "Célula zimógena.",
+          "correct": true
+        },
+        {
+          "id": "6b170587-d589-4d35-8a09-f7f66f66b95d",
+          "text": "Célula de Paneth."
+        },
+        {
+          "id": "d841e588-d619-4cf7-8635-30a9c1e59eff",
+          "text": "Célula enteroendócrina."
+        },
+        {
+          "id": "8ca42bf6-4208-4af1-8db9-554a02c1bee2",
+          "text": "Célula parietal u oxíntica."
+        },
+        {
+          "id": "4f8be086-c118-442a-8caf-5cc5c5b44200",
+          "text": "Enterocito."
+        }
+      ]
+    },
+    {
+      "id": "5d856dbf-68a3-4c9f-8163-a3be4cc6f541",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-01-01",
+      "text": "Entre las razones por las que debemos consumir ácidos grasos esenciales, señale la opción correcta:",
+      "options": [
+        {
+          "id": "77f37b3a-da09-4935-9302-b2942dd521c9",
+          "text": "Son precursores del ácido araquidónico.",
+          "correct": true
+        },
+        {
+          "id": "608aaaec-5bc4-4169-a8d8-c4f6ed2ad835",
+          "text": "Porque aunque poseemos la vía biosintética completa, no la solemos utilizar para producir suficientes cantidades de los mismos."
+        },
+        {
+          "id": "956eefda-330d-497f-82c3-3a9781c30037",
+          "text": "Porque los humanos no poseemos ninguna enzima capaz de desaturar ácidos grasos."
+        },
+        {
+          "id": "f72848ec-94c7-4c1a-a94b-fe8881a4443f",
+          "text": "Son esenciales para la absorción de nutrientes liposolubles (ej., vitamina K y E)."
+        },
+        {
+          "id": "f6e188c5-2b69-4806-b2a9-207dd1bfdf62",
+          "text": "Son esenciales para la producción de triglicéridos y almacenamiento de grasas en el tejido adiposo."
+        }
+      ]
+    },
+    {
+      "id": "e20fed5b-2dc4-46bf-8f3b-45b8856f9a0c",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-01-01",
+      "text": "La insulina es una hormona peptídica con acciones mitogénicas y metabólicas. Acerca del mecanismo de acción de esta hormona, señale la opción correcta:",
+      "options": [
+        {
+          "id": "47f664d6-f936-4ba6-a4b4-3b4bf47c4c07",
+          "text": "Las acciones metabólicas de la hormona involucran la activación de la enzima fosfatidilinositol 3-quinasa (PI3K).",
+          "correct": true
+        },
+        {
+          "id": "965e6599-334e-4fa3-a547-2554befd7aeb",
+          "text": "La proteína Ras participa en las acciones metabólicas pero no en las mitogénicas de la insulina."
+        },
+        {
+          "id": "f2964b93-414a-4961-88b5-ea6ce83f47b8",
+          "text": "Las acciones mitogénicas de esta hormona involucran la activación de la enzima fosfatidilinositol 3-quinasa (PI3K)."
+        },
+        {
+          "id": "d5784b87-8b65-4c9d-9492-abd7cbe15e72",
+          "text": "Los receptores de insulina que median las acciones mitogénicas y metabólicas son diferentes."
+        },
+        {
+          "id": "6c880a86-84a7-442b-b7f3-fdc22c186758",
+          "text": "Su receptor se encuentra en el interior celular."
+        }
+      ]
+    },
+    {
+      "id": "4a2e2354-ed4b-417b-8d6a-61c721088e7b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-01-01",
+      "text": "La superficie mucosa del intestino delgado presenta prolongaciones digitiformes o vellosidades, indique lo correcto acerca de estas estructuras.",
+      "options": [
+        {
+          "id": "e30ac028-8dc0-41fe-8ab2-aae407ca8b4d",
+          "text": "Presentan un vaso quilífero en el interior del eje conjuntivo.",
+          "correct": true
+        },
+        {
+          "id": "3303ecf8-e147-41e1-8c3a-7e2d9aa8743e",
+          "text": "Desplazan el contenido del intestino en dirección distal."
+        },
+        {
+          "id": "ab9cb69f-d762-49d5-a86f-c2fc5386304e",
+          "text": "Permiten la distención del intestino durante el pasaje del quimo."
+        },
+        {
+          "id": "ac121e1c-7e2d-4562-bdc6-6ce288b784f3",
+          "text": "Poseen un eje con abundantes microfilamentos de actina."
+        },
+        {
+          "id": "967ec4f5-3ea8-4ca2-877a-e4b4ffe150d4",
+          "text": "Proporcionan puntos de fijación para el mesenterio."
+        }
+      ]
+    },
+    {
+      "id": "bb1e0eb2-d478-456c-9116-0d57dd129e49",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-01-01",
+      "text": "Las células indiferenciadas encargadas de la renovación epitelial del estómago se localizan en:",
+      "options": [
+        {
+          "id": "ad43e804-7560-4990-afcb-8c7c3f17e606",
+          "text": "El cuello de las glándulas gástricas.",
+          "correct": true
+        },
+        {
+          "id": "5b2ce460-040e-4c09-bc3b-3c55ffbbe0f5",
+          "text": "El epitelio superficial."
+        },
+        {
+          "id": "768c60f0-288d-43d6-9aee-a9950766757d",
+          "text": "El fondo de las glándulas gástricas."
+        },
+        {
+          "id": "e3d9e2a4-4d90-4955-882b-d09fa358bc38",
+          "text": "El sector apical de las vellosidades."
+        },
+        {
+          "id": "6c257835-b1a6-4ee1-abe8-7786ed237a46",
+          "text": "Glándulas de la submucosa."
+        }
+      ]
+    },
+    {
+      "id": "edd7fce9-032c-4302-948c-c3ce529d8b32",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-01-01",
+      "text": "Los receptores de glucocorticoides (ej., cortisol) se encuentran en el citoplasma de las células blanco. Estas hormonas incluyen en la transcripción de determinadas proteínas en un proceso que incluye las siguientes afirmaciones, EXCEPTO (señale la afirmación INCORRECTA):",
+      "options": [
+        {
+          "id": "41d7c77f-a1c9-48fc-a307-c37dc2bdb262",
+          "text": "El complejo HSP receptor activado se transloca al núcleo.",
+          "correct": true
+        },
+        {
+          "id": "ba737b46-d77e-43d8-acfe-97a0b24de499",
+          "text": "El complejo activo hormona receptor puede activar o reprimir la transcripción de genes específicos."
+        },
+        {
+          "id": "ac28bb2a-b307-477d-8929-783486db7d50",
+          "text": "En el núcleo el complejo activado hormona receptor se une a secuencias específicas del ADN llamadas HRE (del inglés hormone receptor elementos)."
+        },
+        {
+          "id": "880c2726-6bf5-47f5-be8f-dd98c7f099a5",
+          "text": "La hormona debe estar libre (y no unida a la transcortina) para cruzar la membrana plasmática y unirse a los receptores."
+        },
+        {
+          "id": "01f7fa52-3605-43e1-b10a-c36d21796576",
+          "text": "Los receptores se encuentran en el citosol habitualmente unidos a las proteínas de “shock\" térmico, HSP."
+        }
+      ]
+    },
+    {
+      "id": "2938f201-b4f2-4983-a174-fa436c2ea390",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-01-01",
+      "text": "Respecto a los ácidos biliares es correcto afirmar que:",
+      "options": [
+        {
+          "id": "2d33fed8-d74f-4285-be88-7399a4c0267e",
+          "text": "Se sintetizan en los hepatocitos a partir de colesterol.",
+          "correct": true
+        },
+        {
+          "id": "f16f171a-1dc0-4cf3-9d79-05c383ce5ff3",
+          "text": "A pH fisiológico poseen carga neta positiva."
+        },
+        {
+          "id": "e553caf9-a421-4d7b-a178-9fa7eb3e6bd3",
+          "text": "Al sufrir circulación enterohepática, no conducen a la eliminación neta de colesterol del organismo."
+        },
+        {
+          "id": "60411d8c-4427-4835-bd9f-8b2653ade66a",
+          "text": "En el intestino delgado se conjugan con glicina o con taurina."
+        },
+        {
+          "id": "283d4e3a-7151-45c0-8403-b3d4289f3c71",
+          "text": "La enzima hidroximetil-glutaril-CoA reductasa de colesterol es la enzima reguladora de su síntesis."
+        }
+      ]
+    },
+    {
+      "id": "67e5a3a1-a40a-443b-8257-de616649ac3d",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-01-01",
+      "text": "Sabiendo que en un individuo sano con una diuresis de 1 ml/min la sustancia X que es libremente filtrable, presenta unas concentración plasmática ([X]pl) de 5 mg/ml y una concentración en la orina ([X]o) de 10 mg/ml, marque la opción INCORRECTA:",
+      "options": [
+        {
+          "id": "3e97e0f3-dd07-4227-a65f-bbf4a3757693",
+          "text": "El cleareance de X equivale a 2 ml/min.",
+          "correct": true
+        },
+        {
+          "id": "1f6f3141-4e34-4639-a3b3-60bb89310b87",
+          "text": "El cleareance de X equivale a 10 ml/min."
+        },
+        {
+          "id": "202dd1e4-e44b-4b93-a8e4-4d0c11184f7a",
+          "text": "La carga excretada de X es de 10 mg/min."
+        },
+        {
+          "id": "d684b474-d6bd-4aba-84a0-b7baa5ddff2c",
+          "text": "La concentración de X en el ultrafiltrado ([X]uf) es de 5 mg/ml."
+        }
+      ]
+    },
+    {
+      "id": "982469c0-4a88-4eba-b437-a0d06c0df5d5",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-01-01",
+      "text": "Señale lo correcto respecto a las bilirrubinas:",
+      "options": [
+        {
+          "id": "f4c94234-315f-421c-aecf-4767d6907dd7",
+          "text": "Un aumento de bilirrubina no conjugada (indirecta) en sangre, podría explicarse entre otras causas por un aumento de lisis eritrocitaria o déficit de actividad glucoronil transferasa hepatocítica.",
+          "correct": true
+        },
+        {
+          "id": "8a2b8ab9-7bf9-4e29-972a-3817083ccf2e",
+          "text": "En sangre la concentración normal de bilirrubina total es hasta 3 mg/dl y se encuentra mayoritariamente como bilirrubina conjugada (directa)."
+        },
+        {
+          "id": "b0b51deb-282b-4e87-80a6-cde0f2be87a6",
+          "text": "La asociación de hiperbilirrubinemia con orina colúrica (presencia de derivados de bilirrubina en orina) supera un aumento de bilirrubina a predominio de la forma no conjugada (indirecta) en sangre."
+        },
+        {
+          "id": "bada64c4-6c0b-4d70-856f-8ced7bd27f6b",
+          "text": "La conjugación de bilirrubina con ácido glucorónico en el hepatocito aumenta la hidrofobicidad de la molécula."
+        },
+        {
+          "id": "8e46927f-c706-40bb-9ae9-a80845baa6f1",
+          "text": "Se sintetizan en los eritrocitos a partir de la globina de la hemoglobina."
+        }
+      ]
+    },
+    {
+      "id": "48a1fbf6-a59a-4586-a1bd-722a8c152a3f",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-01-01",
+      "text": "¿Cuál de las siguientes opciones es correcta con respecto a la regulación de la síntesis de colesterol?",
+      "options": [
+        {
+          "id": "03309255-d712-41b6-827f-5f64458e7881",
+          "text": "Para que ocurra la inducción de los genes del receptor de la LDL y de la HMG-CoA reductasa es necesaria la translocación de los SREBPs del retículo endoplásmico al aparato de Golgi.",
+          "correct": true
+        },
+        {
+          "id": "6e9b3575-c672-40bc-ad69-8fcae0c3aa0a",
+          "text": "En células con carga energética baja, se estimula la síntesis de colesterol."
+        },
+        {
+          "id": "4f0742fa-a891-4499-9b50-9189fdc26f52",
+          "text": "En células incubadas con esteroles, el factor de transcripción SREBP se encuentra en el núcleo."
+        },
+        {
+          "id": "b3462db3-eeb1-4263-9c5e-85721f11d4f4",
+          "text": "La HMG-CoA reductasa es activada por fosforilación AMP cíclico dependiente."
+        }
+      ]
+    },
+    {
+      "id": "89833fe4-eb68-44aa-918d-7a6f0497a1cd",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-01-01",
+      "text": "¿Qué son los VLDL? Señale la opción correcta:",
+      "options": [
+        {
+          "id": "8ba14a8e-9e2a-46d1-b8da-74dd714271dd",
+          "text": "Son lipoproteínas sintetizadas en el hígado y que adquieren la ApoC II activador de la LPL (lipoproteína lipasa) desde las HDL.",
+          "correct": true
+        },
+        {
+          "id": "5c48563b-a5b7-44d0-b74f-3a620d88b951",
+          "text": "Son lipoproteínas cuya apoproteína principal es la apo B48 y los lípidos más abundantes son fosfolípidos."
+        },
+        {
+          "id": "933b7dd2-50bb-4770-96b9-58738769a825",
+          "text": "Son lipoproteínas que pueden ser endocitadas por las células extrahepáticas para la captación de colesterol exógeno."
+        },
+        {
+          "id": "ca7ef1e6-8740-4652-a46d-4c033f718811",
+          "text": "Son lipoproteínas que se forman en la circulación debido a que otras lipoproteínas pierden contenido de triglicéridos y aumentan su densidad."
+        },
+        {
+          "id": "d67ff89d-37aa-41f9-895f-421932c54df1",
+          "text": "Son lipoproteínas sintetizadas en el enterocito, cuyo rol es trasportar los lípidos exógenos."
+        }
+      ]
+    },
+    {
       "id": "60f80b57-0956-4494-807c-e4b50a05aea6",
       "evaluation": "parcial_1",
       "source": "partial",
@@ -3485,12 +4219,838 @@
           "text": "Pars intermedia."
         }
       ]
+    },
+    {
+      "id": "2720fadd-15da-44a5-b362-104d18771f51",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "A un hombre sano se le administraron andrógenos en dosis suprafisiológicas. Como resultado de esto (marque la opción correcta):",
+      "options": [
+        {
+          "id": "92a15a85-5afa-4bac-a4ab-69b1a2977e52",
+          "text": "La secreción de hormona luteinizante (LH) estará disminuida.",
+          "correct": true
+        },
+        {
+          "id": "6ada973e-ee2a-4d1f-959b-1bfed1fd4ae3",
+          "text": "La concentración de testosterona en los túbulos seminíferos estará aumentada."
+        },
+        {
+          "id": "1689d18b-5768-4226-97e2-f22eef1de04a",
+          "text": "La espermatogénesis estará incrementada."
+        },
+        {
+          "id": "2be37329-fdbb-466b-a6d0-72e83c628b3d",
+          "text": "La liberación de hormona liberadora de gonadotrofinas (GnRH) permanecerá incambiada."
+        }
+      ]
+    },
+    {
+      "id": "13515bb7-6ebd-4cf0-b7b9-20254c4a4dd6",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "Como respuesta a la activación por Sox9, SF1 y WT1 en el desarrollo gonadal masculino se comienzan a producir testosterona en:",
+      "options": [
+        {
+          "id": "e3fbcae5-d896-4d0f-a376-5b01cfc7161c",
+          "text": "Las células de Leydig.",
+          "correct": true
+        },
+        {
+          "id": "20eaf3ac-47ec-403b-be79-83f03f38334f",
+          "text": "Las células de Sertoli."
+        },
+        {
+          "id": "90ab4c69-3233-46e6-9faf-5fce8e835bb6",
+          "text": "Las células de la teca."
+        },
+        {
+          "id": "c920a907-d86f-4feb-9977-9eb447d65594",
+          "text": "Las células foliculares."
+        },
+        {
+          "id": "58c122aa-cb80-42b7-a044-6f467949de44",
+          "text": "Las ovogonias."
+        }
+      ]
+    },
+    {
+      "id": "8c1c0335-39f2-4e08-894c-2cadcb934842",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "Con respecto a los cambios hormonales en la mujer durante el embarazo, indique la opción correcta:",
+      "options": [
+        {
+          "id": "cba9577a-f96b-46a9-8df5-4fdcf63a1671",
+          "text": "Aumenta la secreción de prolactina materna.",
+          "correct": true
+        },
+        {
+          "id": "5307336c-6901-4ad3-b41c-9d84006b83e8",
+          "text": "Aumenta el número de células productoras de las gonadotrofinas FSH y LH."
+        },
+        {
+          "id": "b41bccfb-f1bb-4e16-9f29-a2bc34a6181e",
+          "text": "El lóbulo anterior de la hipófisis disminuye su tamaño."
+        },
+        {
+          "id": "44e0a0c5-e73a-4e18-80d1-d455be747637",
+          "text": "La detección del lactógeno placentario permite el diagnóstico precoz del embarazo."
+        },
+        {
+          "id": "ff036262-7ba5-4738-9b2d-30aa6ba7e9ba",
+          "text": "La hormona gonadotrofina coriónica humana (hCG) alcanza su máxima concentración hacia el final de la gestación."
+        }
+      ]
+    },
+    {
+      "id": "ba63e3db-3021-43dd-8239-a82cc07a0444",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "De acuerdo con el modelo de cuatro fases de la respuesta sexual humana señale la opción correcta:",
+      "options": [
+        {
+          "id": "4ee451b5-96e4-484b-8c35-4297c29e7a00",
+          "text": "Las mujeres presentan la capacidad de ser multiorgásmicas.",
+          "correct": true
+        },
+        {
+          "id": "78d79cc5-719b-4c4d-953c-69ae41e375c9",
+          "text": "El período refractario es de duración similar entre mujeres y hombres."
+        },
+        {
+          "id": "940dcab4-e229-40c6-b819-dad4cc87cc16",
+          "text": "En la fase de excitación sexual, se observa una disminución de la frecuencia cardíaca y de la temperatura corporal."
+        },
+        {
+          "id": "43a8ba7c-3c38-4c4f-9af5-aa134b8b1ca1",
+          "text": "La fase de deseo sexual es desencadenada únicamente por estimulación mecánica de los genitales externos."
+        }
+      ]
+    },
+    {
+      "id": "3c242b1a-e406-4c6e-a541-081262fcf1b1",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "El factor de crecimiento fibroblástico 23 (FGF23, por sus siglas en inglés) es (indique la opción correcta):",
+      "options": [
+        {
+          "id": "6baad3d7-83c0-49a3-9b4c-8461c8ab6a39",
+          "text": "Una hormona con acción fosfatúrica.",
+          "correct": true
+        },
+        {
+          "id": "38caf37e-bfd4-4d4d-8722-4d6ba6e97b78",
+          "text": "Un compuesto esencial en la dieta."
+        },
+        {
+          "id": "17c30660-02bd-4672-9ae6-9f16b4f83ff5",
+          "text": "Un compuesto que activa a la glutaminasa renal."
+        },
+        {
+          "id": "70eb76e2-639c-4b06-8977-35a4ad5af960",
+          "text": "Un compuesto que estimula la absorción intestinal de calcio."
+        },
+        {
+          "id": "a8144184-9278-444b-af6f-cc69f43fbd4c",
+          "text": "Un intermediario en la ruta de señalización de la insulina."
+        }
+      ]
+    },
+    {
+      "id": "b9f5d88e-b12e-4ae7-8ca9-0ff8fde0f67a",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "En el hombre (XY), la impronta genómica se establece durante:",
+      "options": [
+        {
+          "id": "327f4a9e-fe72-4562-a4e1-e655b9b0e5d9",
+          "text": "La gametogénesis.",
+          "correct": true
+        },
+        {
+          "id": "df3e12c1-57d4-43a2-92b8-9d3dc416637b",
+          "text": "La blástula."
+        },
+        {
+          "id": "a376f9cb-5b5b-4d52-a00c-56fe0b05122e",
+          "text": "La fecundación."
+        },
+        {
+          "id": "02537a8f-777c-46b9-9af7-e163d3e39e7a",
+          "text": "La organogénesis."
+        },
+        {
+          "id": "b324fb56-cdc1-40d2-a1a8-1c7417d9ea3c",
+          "text": "La primera división cigótica."
+        }
+      ]
+    },
+    {
+      "id": "4c25fa69-e3d4-4ac1-931e-0e8cd6673ba2",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "En la circulación fetal, la sangre se oxigena principalmente en (marque la opción correcta):",
+      "options": [
+        {
+          "id": "dbcfa917-0dc3-4cee-a134-a7885a8535a1",
+          "text": "El espacio intervelloso.",
+          "correct": true
+        },
+        {
+          "id": "e4ea33e0-fd80-42e4-afee-9409b11a5e13",
+          "text": "La vena umbilical."
+        },
+        {
+          "id": "cdb6f83e-9ba6-45b4-baf3-d3eb7433f4c0",
+          "text": "Las arterias umbilicales."
+        },
+        {
+          "id": "e8b548e9-4d3d-474c-b1f4-69314bf82c3f",
+          "text": "Los conductos arteriosos."
+        },
+        {
+          "id": "6c6896c4-85f8-459e-a755-6501870a6dd8",
+          "text": "Los conductos venosos."
+        }
+      ]
+    },
+    {
+      "id": "0de0ea0f-11d8-4380-94b5-b4bdea3a8012",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "En la siguiente tabla se muestra la relación de concentraciones entre el fluido tubular y el plasma ([T/P]) para la inulina a lo largo de una nefrona en dos individuos sanos (A y B). Es correcto afirmar que:",
+      "image": "0de0ea0f-11d8-4380-94b5-b4bdea3a8012.webp",
+      "options": [
+        {
+          "id": "993e53b3-3a34-47ad-a144-942d4ce7b4ca",
+          "text": "El individuo A presentará un clearance de agua libre positivo.",
+          "correct": true
+        },
+        {
+          "id": "0cabd1b9-8a00-459d-9ed1-498be128058f",
+          "text": "El individuo A presentará una diuresis disminuida."
+        },
+        {
+          "id": "b9e29044-ca3a-4c56-bedc-14fa74b08a2c",
+          "text": "El individuo B presentará una regulación a la baja de canales de acuaporina 2 (AQP2) en la membrana luminal de las células del túbulo colector."
+        },
+        {
+          "id": "6d710bc0-9020-4c5c-9666-ce2fe82354c0",
+          "text": "El individuo B presentó reabsorción de sal en el segmento fino descendente del asa de henle."
+        }
+      ]
+    },
+    {
+      "id": "dc63f76b-344b-4a37-b358-8aa51b3e292d",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "En la tabla se muestra la osmolalidad del fluido tubular (mOsm/kgH2O) a lo largo de una nefrona para un individuo sano, en dos situaciones (A y B). De acuerdo con los datos presentados, marque la opción correcta:",
+      "image": "dc63f76b-344b-4a37-b358-8aa51b3e292d.webp",
+      "options": [
+        {
+          "id": "866ef56d-a082-4fb1-a5ab-2e5f4cb44254",
+          "text": "La situación A es consistente con niveles altos de acuaporinas en la membrana luminal del túbulo colector.",
+          "correct": true
+        },
+        {
+          "id": "6af94393-aeb8-4cc9-86b1-9d6497286fb2",
+          "text": "La situación A es consistente con los valores obtenidos en una nefrona cortical o de asa corta."
+        },
+        {
+          "id": "8885ed19-8f91-4e62-974c-c3ef4238da2e",
+          "text": "La situación A es consistente con una concentración plasmática mínima de ADH."
+        },
+        {
+          "id": "49b7642b-a563-4a7f-8193-310cef79ab57",
+          "text": "La situación B es consistente con una concentración plasmática máxima de ADH."
+        }
+      ]
+    },
+    {
+      "id": "c2b565ff-f57e-4dc0-8fb6-d74a454c2d40",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "En un corte histológico de un testículo adulto, se realiza la detección inmunohistoquímica de la proteína acrosina. Indique en cuál de los siguientes tipos celulares se encontrará la marca positiva:",
+      "options": [
+        {
+          "id": "89b51d23-e21e-467e-8b9e-39c1f21d26b0",
+          "text": "Espermátidas.",
+          "correct": true
+        },
+        {
+          "id": "a5a6f55f-09eb-4627-ba9e-7cac5d01b1e9",
+          "text": "Espermatocitos primarios."
+        },
+        {
+          "id": "1592b873-b0b4-4aea-bfa7-cbc0f8d3fc4e",
+          "text": "Espermatogonias."
+        },
+        {
+          "id": "2798eb49-fa17-4caa-8173-e82d1fe3f076",
+          "text": "Leydig."
+        },
+        {
+          "id": "76fbe25d-bb8a-43d4-8f9b-56230f1e9839",
+          "text": "Sertoli."
+        }
+      ]
+    },
+    {
+      "id": "9234d2b4-e049-4ee0-855c-f4999a152ca9",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "Entre las anomalías congénitas estructurales, los síndromes corresponden a:",
+      "options": [
+        {
+          "id": "357b8c5a-237e-4486-826e-bff0d6d66df7",
+          "text": "Un conjunto de anomalías que afectan distintos sistemas y resultan en malformaciones múltiples.",
+          "correct": true
+        },
+        {
+          "id": "2175fcf9-7185-431d-9572-2f8ba4ead916",
+          "text": "Alteraciones debidas a la formación anormal de un tejido por alteraciones en la regulación."
+        },
+        {
+          "id": "770e1033-5396-40aa-8f56-be0eb0f9bac6",
+          "text": "Alteraciones morfológicas mecánicas que afectan el proceso de desarrollo."
+        },
+        {
+          "id": "60fc6679-a334-49b6-ba4f-4405e10e040e",
+          "text": "Defectos morfológicos debidas a exposición a teratógenos."
+        },
+        {
+          "id": "3814193d-e106-4039-a24b-150717faadf1",
+          "text": "Un conjunto de anomalías secundarias a una anomalía inicial."
+        }
+      ]
+    },
+    {
+      "id": "cf0c46f3-91ce-4157-8bd2-26a554499c08",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "Indique cuál de las siguientes estructuras embrionarias NO se origina del diencefalo:",
+      "options": [
+        {
+          "id": "abe894f7-4627-48bc-9ad5-6c3e308da7a1",
+          "text": "Placoda óptica.",
+          "correct": true
+        },
+        {
+          "id": "d76ea88d-5efa-42ce-8e0f-ae6856130957",
+          "text": "Copa óptica."
+        },
+        {
+          "id": "a312c6cd-61e8-4b6d-a0bf-a9c0e9bb73bb",
+          "text": "Hipotálamo."
+        },
+        {
+          "id": "cd000a62-8477-422d-9b16-378b1406ca4d",
+          "text": "Nervio óptico."
+        },
+        {
+          "id": "96bdf082-f6b0-40e4-a7ba-618d83a336d6",
+          "text": "Tálamo."
+        }
+      ]
+    },
+    {
+      "id": "bdfd1205-38ba-4614-9c9f-8b38c3ea07a9",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "Indique la opción correcta con respecto al desarrollo de las estructuras venosas del adulto:",
+      "options": [
+        {
+          "id": "94fda1f3-848f-4d23-b9a7-2f17b2576929",
+          "text": "Las venas vitelinas participan en la formación de la vena porta.",
+          "correct": true
+        },
+        {
+          "id": "3e41e4f7-fb03-4476-b610-c445c99f95c9",
+          "text": "La vena umbilical derecha permanece en el adulto como vena cava inferior."
+        },
+        {
+          "id": "7e9f3949-1577-4f5c-8686-b7d8abac770c",
+          "text": "Las arterias pulmonares se originan como ramas del seno venoso."
+        },
+        {
+          "id": "4e87df41-76a2-42c4-8c6a-99a95881ded0",
+          "text": "Las venas cardinales originan la red de capilares sinusoides del hígado."
+        },
+        {
+          "id": "9a56b070-a72f-40ba-bf1a-7b7a314e40b5",
+          "text": "Las venas subcardinales del embrión desaparecen totalmente."
+        }
+      ]
+    },
+    {
+      "id": "c424db6e-5db1-406a-aa3f-9e5fd4249e9b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "La fase lútea del ciclo sexual femenino tiene las siguientes características (marque la opción correcta):",
+      "options": [
+        {
+          "id": "eb73c840-f59a-4c05-ad3d-cb7092f41af4",
+          "text": "Las hormonas producidas por el cuerpo lúteo ejercen retroalimentación negativa sobre la hipófisis.",
+          "correct": true
+        },
+        {
+          "id": "db6c70b6-0893-4e9d-9819-54729e16c507",
+          "text": "Bajas concentraciones plasmáticas de estrógenos y progesterona."
+        },
+        {
+          "id": "566b9968-ef3f-4293-a92c-ed8ce149e92f",
+          "text": "Niveles plasmáticos crecientes de hormona luteinizante."
+        },
+        {
+          "id": "03bc0aab-2e77-4602-a105-8dbbec44b335",
+          "text": "Se promueve la fase proliferativa en el endometrio."
+        }
+      ]
+    },
+    {
+      "id": "8496e17f-8f2a-4dc9-9e44-8e188e90709d",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "La producción masiva de leche durante el embarazo está inhibida por (marque la opción correcta):",
+      "options": [
+        {
+          "id": "486d38db-f3c9-4995-8f7e-19a156fcddd5",
+          "text": "Progesterona.",
+          "correct": true
+        },
+        {
+          "id": "f6643f31-0e7c-4a95-83d7-8e9f766fe2d1",
+          "text": "Estrógenos."
+        },
+        {
+          "id": "befcf751-cebd-4586-9da0-49ca625177e3",
+          "text": "Oxitocina."
+        },
+        {
+          "id": "ac2b8f79-58b4-41d8-896f-5aac2763e246",
+          "text": "Prolactina."
+        }
+      ]
+    },
+    {
+      "id": "42478bf5-b0a5-49cd-a730-5e59005414a4",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "Las células del epiblasto son utilizadas como células madre pues son pluripotentes. Esto quiere decir que son capaces de:",
+      "options": [
+        {
+          "id": "1609c090-77c0-4c75-85fc-e084ffa83698",
+          "text": "Diferenciarse en varios tipos celulares.",
+          "correct": true
+        },
+        {
+          "id": "312e4514-7acc-4af6-ab73-7cc74150f026",
+          "text": "Diferenciarse en tipos celulares dados."
+        },
+        {
+          "id": "4e22a336-7381-422a-aca4-e8b82d15c30a",
+          "text": "Generar células totipotentes."
+        },
+        {
+          "id": "06fa40a3-4a33-4e5f-9814-32f8e351ad09",
+          "text": "Regenerar el trofoblasto."
+        },
+        {
+          "id": "33fc852b-ab1b-4164-a6f5-01fefb365d11",
+          "text": "Regenerar un organismo completo."
+        }
+      ]
+    },
+    {
+      "id": "1709b26f-e440-4ea7-a0a0-959b3d8802bb",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "Los sistemas buffers o tampones participan amortiguando los cambios de pH en los diferentes compartimientos biológicos. Sobre las características de los buffers biológicos es correcto afirmar que:",
+      "options": [
+        {
+          "id": "d909e6ce-0744-4e1d-a75b-b882b5719998",
+          "text": "A pH fisiológico, en la sangre predomina la base o sal del par formado por el HCO3-/CO2 (pKa 6.1).",
+          "correct": true
+        },
+        {
+          "id": "75dd72c0-997a-4441-a265-f583a0945c6e",
+          "text": "A pH 7.4, la capacidad amortiguadora de las proteínas depende fundamentalmente de los grupos carboxilo de los glutamatos."
+        },
+        {
+          "id": "9c3b0dba-2b67-4bc3-9104-b1e43c84ce7b",
+          "text": "A pH fisiológico, predomina el NH3 sobre el NH4+ en la sangre (pKa 9.3)."
+        },
+        {
+          "id": "72630e10-462a-4a63-a737-9f4444d42383",
+          "text": "El buffer formado por el fosfato dibásico/fosfato monobásico (HPO42-/H2PO4-) aporta el 15% de la capacidad amortiguadora de la sangre debido a su concentración y pKa cercano a 7."
+        },
+        {
+          "id": "0103f439-09fb-4ac9-b80e-ad9c8681a486",
+          "text": "El principal buffer en la orina es el formado por el par HCO3-/CO2."
+        }
+      ]
+    },
+    {
+      "id": "f60d4961-22f8-462e-8ccf-7df55b835842",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "Respecto a la metodología del gen reportero ejemplificada en la figura, seleccione qué proteína NO es necesaria para la producción del color azul:",
+      "image": "f60d4961-22f8-462e-8ccf-7df55b835842.webp",
+      "options": [
+        {
+          "id": "727158f1-f91e-4a9f-aa1e-396497981449",
+          "text": "La que contiene la secuencia a estudiar.",
+          "correct": true
+        },
+        {
+          "id": "ce33e7ac-3af9-4874-91e3-0f0735229e42",
+          "text": "ARN polimerasa."
+        },
+        {
+          "id": "8f34820b-104c-401a-b45e-2e6df0e808ad",
+          "text": "B-galactosidasa."
+        },
+        {
+          "id": "d1ca4721-93ec-4eda-a78b-ff22b44d833b",
+          "text": "Ribosomales."
+        },
+        {
+          "id": "e8385f6b-c132-4fdf-8ba8-d7ca4feaa8a7",
+          "text": "TBP (TATA-binding protein)."
+        }
+      ]
+    },
+    {
+      "id": "70437bda-039b-4bb1-af57-e7ee504d60cb",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "Respecto al manejo renal de Na+ en el túbulo proximal, marque la opción INCORRECTA:",
+      "options": [
+        {
+          "id": "29b1c252-e1dd-4fad-9672-02c8dd1d47b1",
+          "text": "La reabsorción de Na+ provoca la secreción de Mg2+ en este sector de la nefrona.",
+          "correct": true
+        },
+        {
+          "id": "8123a07d-f634-4326-b232-7f4067715d87",
+          "text": "Dos tercios de la carga filtrada será reabsorbida en este sector de la nefrona."
+        },
+        {
+          "id": "bd412e54-2251-407b-8e40-9e8553d60fa0",
+          "text": "El gradiente de Na+ determinará el transporte secundariamente activo de aminoácidos."
+        },
+        {
+          "id": "ade0d126-d5f4-46a7-bd85-885066aaa42f",
+          "text": "El intercambiador Na+/H+ es responsable de la reabsorción de bicarbonato."
+        }
+      ]
+    },
+    {
+      "id": "1febb629-df32-4495-8491-fd032ac56f34",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "Señale la opción correcta sobre las funciones de la hormona paratiroidea (PTH).",
+      "options": [
+        {
+          "id": "074da295-73ec-4e17-b423-339c0a57f255",
+          "text": "Aumenta la reabsorción tubular renal de calcio.",
+          "correct": true
+        },
+        {
+          "id": "2a235d3d-b6f5-4231-9b87-539831d74903",
+          "text": "Aumenta la reabsorción renal de fosfato."
+        },
+        {
+          "id": "2edabcc8-2ed5-4a48-be5b-9d386a06e8ad",
+          "text": "Disminuye la conversión de vitamina D en su forma activa en los riñones."
+        },
+        {
+          "id": "7d8ef717-3277-4ab8-9ed6-62b496016020",
+          "text": "Potencia la secreción digestiva de calcio."
+        }
+      ]
+    },
+    {
+      "id": "edc5251d-b921-4ccc-9760-17409d0dd6cc",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "Teniendo en cuenta la tabla presentada a continuación en relación a una sustancia X, es correcto afirmar que X:",
+      "image": "edc5251d-b921-4ccc-9760-17409d0dd6cc.webp",
+      "options": [
+        {
+          "id": "22d0d015-6c7e-40ee-8577-d1b9a16cd314",
+          "text": "Posee un clearance menor al FPR (flujo plasmático renal).",
+          "correct": true
+        },
+        {
+          "id": "881db7c5-269e-49a5-9f16-49bc2355d0a6",
+          "text": "Corresponde a la hemoglobina."
+        },
+        {
+          "id": "cccbf5fa-48f0-4a12-8170-9ad4243ba7a6",
+          "text": "Su concentración en el plasma es mayor que en el ultrafiltrado."
+        },
+        {
+          "id": "82b465a0-2e16-464f-b56a-7ba9b2cc4066",
+          "text": "Sufre secreción neta."
+        }
+      ]
+    },
+    {
+      "id": "802b4177-73c2-4e31-aff1-91244b0674fe",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "Un hombre de 70 años portador de un EPOC (enfermedad pulmonar obstructiva crónica) concurre a emergencia por agravamiento de sus síntomas respiratorios. Se le realiza una gasometría arterial que muestra: pH = 7.32; pO2 = 57 mmHg; pCO2 = 63 mmHg; HCO3- = 31 mM (pKa del buffer HCO3-/CO2 = 6.1; coeficiente de solubilidad del CO2 = 0.03). De acuerdo a los datos aportados se deduce que:",
+      "options": [
+        {
+          "id": "36dd7033-072b-4617-934b-d33a158516e5",
+          "text": "La concentración de bicarbonato refleja que el riñón generó más bicarbonato respecto a la situación control.",
+          "correct": true
+        },
+        {
+          "id": "5a3cfe15-f74f-449c-8375-69cc1b2cdb0d",
+          "text": "El paciente presenta una acidosis respiratoria sin elementos de compensación."
+        },
+        {
+          "id": "77646b88-927e-452e-80db-8e6034cb94fa",
+          "text": "El paciente presenta una alcalosis respiratoria."
+        },
+        {
+          "id": "7ee62039-30d5-4546-85a4-b3e846b03f5e",
+          "text": "El paciente presenta una falla renal aguda."
+        },
+        {
+          "id": "b1205df4-ec93-40f8-94b5-4b1d97aec26e",
+          "text": "La concentración de bicarbonato refleja que la acidosis en este paciente es metabólica."
+        }
+      ]
+    },
+    {
+      "id": "2e0ebb85-0fdf-40c0-a24c-1755bb3e68f8",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "Un receptor transmembrana de una vía de transducción de señales puede actuar como:",
+      "options": [
+        {
+          "id": "3c021e74-05b5-4d47-9c93-c6759841181d",
+          "text": "Factor de competencia.",
+          "correct": true
+        },
+        {
+          "id": "53d36da1-1a6d-496f-8c84-3d0f431b013a",
+          "text": "Factor de transcripción."
+        },
+        {
+          "id": "92a5911f-c0aa-4510-861a-52c26d09760b",
+          "text": "Inductor."
+        },
+        {
+          "id": "a593979c-5081-4435-a0fe-e4d5ce07937e",
+          "text": "Morfógeno."
+        },
+        {
+          "id": "b2814a66-615f-43c0-bcf1-99384f34ef4f",
+          "text": "Remodelador de la cromatina."
+        }
+      ]
+    },
+    {
+      "id": "444a4705-f324-4832-8c38-83ba34a10a31",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "¿Cuál de estos factores aumenta el clearance de Na+? Marque la opción correcta.",
+      "options": [
+        {
+          "id": "812b7e8e-bc0c-47dc-bef1-55d03fd73b4b",
+          "text": "El péptido atrial natriurético.",
+          "correct": true
+        },
+        {
+          "id": "599ac32c-c71a-43ce-baf7-1bf6d25fb55e",
+          "text": "La aldosterona."
+        },
+        {
+          "id": "0cfc5467-c1b2-453c-a48e-5e242b1e9e54",
+          "text": "La angiotensina II."
+        },
+        {
+          "id": "dc71895b-026e-4de6-a041-cb7ae5082ab7",
+          "text": "La estimulación del co-transportador Na+/K+/2Cl- ubicado en el segmento grueso ascendente del asa de Henle."
+        }
+      ]
+    },
+    {
+      "id": "8e4e2265-087f-49e6-b6bb-67954f9eb2df",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "¿Cuál de las siguientes clases de genes culminan la delimitación de segmentos a lo largo del eje antero-posterior en el embrión de la mosca Drosophila?",
+      "options": [
+        {
+          "id": "389b05ce-981b-44f0-9ccc-b2dd606feb5d",
+          "text": "Genes de polaridad de segmento.",
+          "correct": true
+        },
+        {
+          "id": "12776b01-5160-4045-ada9-4ce76c0f00da",
+          "text": "Genes de regla par."
+        },
+        {
+          "id": "c17b5b5a-36e5-4c2e-8890-a039c9ba40cb",
+          "text": "Genes gap."
+        },
+        {
+          "id": "a2b69183-ea50-432b-8cc2-2a23ef2285bf",
+          "text": "Genes homeóticos."
+        },
+        {
+          "id": "5bb61bfc-55f2-455a-9d2c-77eadb2e04b4",
+          "text": "Genes maternos."
+        }
+      ]
+    },
+    {
+      "id": "f9815241-3600-4d72-bfd8-2e5b8352dc87",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "¿Cuál de las siguientes enzimas regulan negativamente la expresión génica?",
+      "options": [
+        {
+          "id": "a37f991a-74a5-48be-a73b-a174e37bf1bc",
+          "text": "Metiltransferasa de ADN de novo (DNMT1).",
+          "correct": true
+        },
+        {
+          "id": "1a93dbff-c5de-4813-97ee-aaf247c28bbb",
+          "text": "Acetiltransferasa de histonas (HAT)."
+        },
+        {
+          "id": "39c982ce-8e3e-48c7-a95f-b5db4cd0be4e",
+          "text": "Demetilasa de histona (HDM)."
+        },
+        {
+          "id": "a0990bc6-f93d-41fc-8594-a10536a810ad",
+          "text": "Demetilasas de ADN (TET)."
+        }
+      ]
+    },
+    {
+      "id": "25394ee2-bf00-446c-922d-c0ca863bc4c9",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "¿Cuál de las siguientes sustancias tendrá el mínimo valor de clearance renal en condiciones fisiológicas? Marque la opción correcta.",
+      "options": [
+        {
+          "id": "b7fe54fc-3dd4-48b5-8856-73984c9698ea",
+          "text": "Glucosa.",
+          "correct": true
+        },
+        {
+          "id": "b003b30a-fe67-4570-aa3d-3ffb14612661",
+          "text": "Creatinina."
+        },
+        {
+          "id": "9bf4ff9c-7306-4578-bfe9-c2a2e7aa2f9b",
+          "text": "Inulina."
+        },
+        {
+          "id": "bd134b3e-1146-41bb-a31a-ea5996fd657d",
+          "text": "Ácido paraaminohipúrico (PAH)."
+        }
+      ]
+    },
+    {
+      "id": "123f7af4-e04a-4079-906f-740835a70fe5",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "¿Cómo se constituye el sistema porta en las nefronas yuxtamedulares del riñón?",
+      "options": [
+        {
+          "id": "c76faf61-2a83-4858-a884-5d3a646056b1",
+          "text": "Capilares glomerulares - arteriola eferente - vasos rectos.",
+          "correct": true
+        },
+        {
+          "id": "b103626a-12a7-4bfe-a215-8b2e77ff0a78",
+          "text": "Arterias interlobares - arteriola aferente - capilares glomerulares."
+        },
+        {
+          "id": "b8e1a906-5785-4e01-84a4-9f6e9a69a5d0",
+          "text": "Arterias interlobulillares - arteriola aferente - capilares glomerulares."
+        },
+        {
+          "id": "1218e886-0424-4e51-8e32-ead0f20cdf70",
+          "text": "Arteriola aferente - capilares glomerulares - arteriola eferente."
+        },
+        {
+          "id": "6382c858-c120-47e4-b1b4-99d7f85b8b7e",
+          "text": "Capilares glomerulares - arteriola aferente - vasos rectos."
+        }
+      ]
+    },
+    {
+      "id": "a24d5dd8-387c-4acb-a4fe-6adbfd2dea2b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "¿Qué características histológicas presenta una placenta madura?",
+      "options": [
+        {
+          "id": "b6209a58-dd85-4057-88b2-6064add4f999",
+          "text": "Presencia de material fibrinoide en la superficie de las vellosidades.",
+          "correct": true
+        },
+        {
+          "id": "44543c3e-d090-4505-a9a4-0619a880a2f5",
+          "text": "Adelgazamiento del epitelio cúbico simple que forma el amnios."
+        },
+        {
+          "id": "b907258a-1e9b-406a-bf78-707fced7d67f",
+          "text": "Aumento del espacio intervelloso que contiene sangre materna."
+        },
+        {
+          "id": "e4ac6d2e-2b7a-4b8f-95b0-eb73898cbe64",
+          "text": "Ausencia de placas o nodos sincitiales en las vellosidades."
+        }
+      ]
     }
   ],
   "evaluations": [
     {
       "key": "parcial_1",
       "name": "1° parcial"
+    },
+    {
+      "key": "parcial_2",
+      "name": "2° parcial"
     }
   ]
 }
