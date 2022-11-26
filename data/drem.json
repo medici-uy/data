@@ -4221,6 +4221,250 @@
       ]
     },
     {
+      "id": "e37b6f0b-d610-4f69-ab70-91e15217bc53",
+      "evaluation": "parcial_1_tp",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "En relación al grupo celular encerrado por la línea amarilla, indique lo correcto:",
+      "image": "e37b6f0b-d610-4f69-ab70-91e15217bc53.webp",
+      "options": [
+        {
+          "id": "86ba9c4b-3a06-44c2-91f2-573b5b895597",
+          "text": "Presentan abundantes mitocondrias.",
+          "correct": true
+        },
+        {
+          "id": "af9a85d5-95e8-48ee-9cea-457294e5ae93",
+          "text": "Constituye un islote de Langerhans."
+        },
+        {
+          "id": "42725b19-fa26-4e49-a11d-96db306e0191",
+          "text": "Corresponde a células neuroendócrinas."
+        },
+        {
+          "id": "85992807-bd9d-4d42-a473-8afeaa139570",
+          "text": "Presentan inclusiones lipídicas."
+        },
+        {
+          "id": "51020343-e1ef-4e9c-9a61-5a4521108fef",
+          "text": "Son células ganglionares de la médula suprarrenal."
+        }
+      ]
+    },
+    {
+      "id": "703b10cd-085f-4f11-a9c6-cb43f0db94e2",
+      "evaluation": "parcial_1_tp",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "Indique cuál zona de las señaladas con letras azules presenta células cromafines:",
+      "image": "703b10cd-085f-4f11-a9c6-cb43f0db94e2.webp",
+      "options": [
+        {
+          "id": "66be16ba-7b48-441f-ada8-63335445c5b2",
+          "text": "C.",
+          "correct": true
+        },
+        {
+          "id": "8a8c3660-0ed7-4fad-bafb-ba6ff2f28c64",
+          "text": "A."
+        },
+        {
+          "id": "3036a5a5-f5b3-4017-bf1f-f4f48dbc17c7",
+          "text": "B."
+        },
+        {
+          "id": "e81f50e1-3edb-4e17-84fa-5dde8d7f921a",
+          "text": "D."
+        },
+        {
+          "id": "f1542777-5bcb-444c-883b-71ccd1e2c063",
+          "text": "E."
+        }
+      ]
+    },
+    {
+      "id": "7e1c1c0d-0824-46de-be8e-b8bd631f248a",
+      "evaluation": "parcial_1_tp",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "La siguiente fotomicrografía fue obtenida de un preparado histológico. Indique el tipo celular señalado:",
+      "image": "7e1c1c0d-0824-46de-be8e-b8bd631f248a.webp",
+      "options": [
+        {
+          "id": "e2d598f6-df70-419d-b59e-1dfdbc41cb2d",
+          "text": "Célula mucosa de revestimiento.",
+          "correct": true
+        },
+        {
+          "id": "8f0ebbb7-d729-4848-98c1-8797d48604bb",
+          "text": "Célula enteroendócrina."
+        },
+        {
+          "id": "6a2205a7-8f16-4f10-941b-9a00774780d3",
+          "text": "Célula mucosa del cuello."
+        },
+        {
+          "id": "30eb3fa0-ee9c-457a-8fda-ee18baef135e",
+          "text": "Célula parietal."
+        },
+        {
+          "id": "6fb7af44-fc80-489d-ac66-026c8863b42f",
+          "text": "Célula principal."
+        }
+      ]
+    },
+    {
+      "id": "673a4780-0a68-4308-b684-5ef75498fdac",
+      "evaluation": "parcial_1_tp",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "La siguiente fotomicrografía fue obtenida de un órgano parenquimatoso con un aumento de 10X. Indique de qué órgano se trata:",
+      "image": "673a4780-0a68-4308-b684-5ef75498fdac.webp",
+      "options": [
+        {
+          "id": "d5e46943-fa03-46a0-8408-e20379dc852e",
+          "text": "Parótida.",
+          "correct": true
+        },
+        {
+          "id": "5aa66f8e-8723-4cfa-bc64-01f748563ee5",
+          "text": "Páncreas."
+        },
+        {
+          "id": "a0441556-0053-4f41-8217-d0b21641e8bf",
+          "text": "Submandibular."
+        },
+        {
+          "id": "5f33f3c5-86c0-4f8d-bf79-c5370f3bdc5b",
+          "text": "Submaxilar."
+        },
+        {
+          "id": "563b8e6b-66b6-4fda-9361-9d7c48e4a26d",
+          "text": "Von Ebner."
+        }
+      ]
+    },
+    {
+      "id": "b95cf8fa-9443-46de-8f01-f9ff7f1625e7",
+      "evaluation": "parcial_1_tp",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "La siguiente fotomicrografía se obtuvo a partir de un preparado histológico teñido con hematoxilina-eosina. Indique cuál podría ser el órgano blanco del producto secretado por la célula señalada:",
+      "image": "b95cf8fa-9443-46de-8f01-f9ff7f1625e7.webp",
+      "options": [
+        {
+          "id": "f553312b-82c2-4687-be86-57006de1e84a",
+          "text": "Tiroides.",
+          "correct": true
+        },
+        {
+          "id": "7ccd4c4b-64a4-4cb0-a9d9-70b68e86f89d",
+          "text": "Hueso."
+        },
+        {
+          "id": "afa1ef76-ffd7-479d-ae28-2087d0c9d45d",
+          "text": "Médula suprarrenal."
+        },
+        {
+          "id": "eb693a92-a16d-49cd-a6ca-58fa767f6458",
+          "text": "Paratiroides."
+        },
+        {
+          "id": "c800b6fd-128b-4593-a100-79b26cce8ba6",
+          "text": "Riñón."
+        }
+      ]
+    },
+    {
+      "id": "61d703fa-b59b-433b-96f6-66109702ed57",
+      "evaluation": "parcial_1_tp",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "La siguiente imagen fue adquirida de una sección de un órgano parenquimatoso con una magnificación 20X. La flecha señala (indique lo correcto):",
+      "image": "61d703fa-b59b-433b-96f6-66109702ed57.webp",
+      "options": [
+        {
+          "id": "419d49bc-150a-4a90-8f97-1de32dfc66c7",
+          "text": "Una rama de la vena porta.",
+          "correct": true
+        },
+        {
+          "id": "9054cc9b-5caf-4908-b9f0-887b8ec240f3",
+          "text": "Un capilar sanguíneo."
+        },
+        {
+          "id": "00968c8a-0081-4067-9323-fed3abab6397",
+          "text": "Un conducto biliar."
+        },
+        {
+          "id": "36399345-6705-430d-a4a0-8df76724d7eb",
+          "text": "Una rama de la arteria hepática."
+        },
+        {
+          "id": "2393e34e-011e-4216-9619-ce553a2ab023",
+          "text": "Una rama de la vena hepática."
+        }
+      ]
+    },
+    {
+      "id": "8f6ee663-ecc7-4405-873a-082d8b8ce492",
+      "evaluation": "parcial_1_tp",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "La siguiente microfotografía electrónica representa un sector de una célula endócrina productora de hormonas esteroideas. Indique el nombre de la estructura señalada.",
+      "image": "8f6ee663-ecc7-4405-873a-082d8b8ce492.webp",
+      "options": [
+        {
+          "id": "5e8f7e03-df10-448e-9085-f9f6818712d2",
+          "text": "Mitocondria.",
+          "correct": true
+        },
+        {
+          "id": "f1b1a45d-2fe5-4638-946f-aec8f54e4bed",
+          "text": "Cuerpo multivesicular."
+        },
+        {
+          "id": "5ff6d588-e5bf-489a-82ba-3db32c51e465",
+          "text": "Gránulo de secreción."
+        },
+        {
+          "id": "c38b206d-4e19-46d0-ba0c-29c88df9b7d8",
+          "text": "Lisosoma."
+        },
+        {
+          "id": "6cb5a573-c7d8-44b8-9ec2-a58af00df7d1",
+          "text": "Vacuola lípidica."
+        }
+      ]
+    },
+    {
+      "id": "56c6edcd-8e89-4929-8ac0-f2958a3c8d32",
+      "evaluation": "parcial_1_tp",
+      "source": "partial",
+      "asked_at": "2021-04-30",
+      "text": "Las imágenes corresponden a fotomicrografías ópticas de dos regiones diferentes del tubo digestivo. Ambas regiones tienen en común:",
+      "image": "56c6edcd-8e89-4929-8ac0-f2958a3c8d32.webp",
+      "options": [
+        {
+          "id": "b5fc9d7f-881d-468b-b503-4138fb386340",
+          "text": "La presencia de glándulas en la mucosa.",
+          "correct": true
+        },
+        {
+          "id": "e6d8f65b-0a21-4b09-9ba8-4f2806e8f5b4",
+          "text": "La ausencia de muscular de la mucosa."
+        },
+        {
+          "id": "eda20bc5-ddba-463b-8f5c-0f94d4d55b18",
+          "text": "La presencia de glándulas en la submucosa."
+        },
+        {
+          "id": "da175db7-4b93-47f8-984b-cfb10e5fbd4e",
+          "text": "La presencia de vellosidades."
+        }
+      ]
+    },
+    {
       "id": "2720fadd-15da-44a5-b362-104d18771f51",
       "evaluation": "parcial_2",
       "source": "partial",
@@ -5047,6 +5291,10 @@
     {
       "key": "parcial_1",
       "name": "1° parcial"
+    },
+    {
+      "key": "parcial_1_tp",
+      "name": "1° parcial teórico-práctico"
     },
     {
       "key": "parcial_2",
