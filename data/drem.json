@@ -4465,6 +4465,874 @@
       ]
     },
     {
+      "id": "996524e0-a7c9-4e67-bde3-f122b882d9b3",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "A medida que se produce la filtración a lo largo del capilar glomerular, aumenta (marque lo correcto):",
+      "options": [
+        {
+          "id": "a7cc1ada-d97e-4c30-83a8-749a2434b16e",
+          "text": "La presión oncótica en el capilar glomerular.",
+          "correct": true
+        },
+        {
+          "id": "75a8da5e-7e2a-45f4-8b1e-996993315c65",
+          "text": "La presión hidrostática en el capilar glomerular."
+        },
+        {
+          "id": "e6480db8-7d96-4f52-8003-adbb5d23a239",
+          "text": "La presión hidrostática en la cápsula de Bowman."
+        },
+        {
+          "id": "15ab6b58-9ed0-4905-a746-7d91b3d61aa6",
+          "text": "La presión oncótica en la cápsula de Bowman."
+        },
+        {
+          "id": "8fff3147-3ddf-49c3-935a-419b5fdabbbf",
+          "text": "Ninguna de las otras opciones."
+        }
+      ]
+    },
+    {
+      "id": "be962203-0cce-46a9-a8c1-0e306b41d5ed",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Acerca de la regulación del metabolismo fosfo-cálcico, señale la opción INCORRECTA:",
+      "options": [
+        {
+          "id": "d87a1988-ef8d-4196-8def-3c385051d3d1",
+          "text": "La vitamina D activa estimula la excreción renal de fosfato.",
+          "correct": true
+        },
+        {
+          "id": "dece34c7-2090-4be4-bfd5-e4bf3a5fe5ba",
+          "text": "En condiciones de aumento de las concentraciones séricas de calcio (hipercalcemia) la actividad de la calcitonina es máxima y la PTH se encuentra inhibida."
+        },
+        {
+          "id": "466253b1-9039-4326-a4cf-141ef3477c3f",
+          "text": "La PTH estimula la producción de vitamina D activa."
+        },
+        {
+          "id": "d29a44f4-83d1-4f2c-a83b-27b7a62f509a",
+          "text": "La hormona paratiroidea (PTH) es secretada en forma de pro-hormona, requiriendo de etapas de clivaje a nivel de las paratiroides e hígado necesarias para su reconocimiento por el receptor."
+        },
+        {
+          "id": "c69d3faa-7007-4db7-a299-57c59ea21fc0",
+          "text": "La hormona paratiroidea (PTH) estimula la reabsorción ósea."
+        }
+      ]
+    },
+    {
+      "id": "4e34529e-b458-499d-800a-499eb5d372eb",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Ante la administración exógena de ADH (marque la opción correcta):",
+      "options": [
+        {
+          "id": "6e3135d2-61df-49f3-9b26-a6093b366076",
+          "text": "Un individuo sano aumentará los niveles de ARN mensajero para AQP2 en el colector.",
+          "correct": true
+        },
+        {
+          "id": "a8b5909d-89c2-4abb-866c-d6ec0abe1d1d",
+          "text": "En las nefronas corticales la osmolaridad del fluido tubular al final del colector llagaría a los 1200 mosm/kg de agua."
+        },
+        {
+          "id": "f869807a-6557-45c8-94b4-79973faa4dbc",
+          "text": "La relación T/P de la inulina disminuirá en el túbulo colector."
+        },
+        {
+          "id": "b8fa7307-e19b-415d-a520-1797f14cccc1",
+          "text": "Un apaciente con diabetes insípida nefrogénica por alteración de los receptores V2 presentará un aumento de la cantidad de AQP2 en la membrana luminal del colector."
+        },
+        {
+          "id": "a7f0967c-95fc-4a9a-a5dd-6b38a6618218",
+          "text": "Un individuo sano presentará un aumento de su diuresis."
+        }
+      ]
+    },
+    {
+      "id": "e0e241a9-fad5-4750-9980-2f9ed20ced0e",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Con respecto al amnios, indique la opción correcta:",
+      "options": [
+        {
+          "id": "06dcc3a8-d97e-42fe-8745-983aecc008ed",
+          "text": "Su pared permanece separada de la pared uterina por el celoma extraembrionario hasta el final de la gestación.",
+          "correct": true
+        },
+        {
+          "id": "eaa36c81-756e-4f13-bea6-7a98157bc443",
+          "text": "En la etapa de disco trilaminar su epitelio es continuo con el saco vitelino."
+        },
+        {
+          "id": "6932ada2-5418-4f50-854d-9b4bf359e704",
+          "text": "Luego de la delimitación queda rodeando completamente al embrión."
+        },
+        {
+          "id": "b4ddcb96-4eb0-4e27-857e-c6d0be133cf5",
+          "text": "No está presente en la etapa de disco bilaminar."
+        },
+        {
+          "id": "b361c264-66dc-4d16-9813-ccb8b8bff136",
+          "text": "Su epitelio es de origen endodérmico."
+        }
+      ]
+    },
+    {
+      "id": "2531875e-d884-4251-bb7a-bb548d058fb9",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Determine en cuál de estas situaciones aumentará la velocidad de excreción de Na+:",
+      "options": [
+        {
+          "id": "eb1f6ea7-0d94-4c77-b136-1de27e0f206b",
+          "text": "Administración de diuréticos de asa (furosemide).",
+          "correct": true
+        },
+        {
+          "id": "b6e1cc73-d93f-4328-8ad6-9ea4ea73051e",
+          "text": "Aumento de los niveles plasmáticos de aldosterona."
+        },
+        {
+          "id": "6be02cb2-82c6-4e14-8be5-26b40cc75278",
+          "text": "Disminución de la liberación de factor natriurético."
+        }
+      ]
+    },
+    {
+      "id": "adf21d24-33af-4823-8410-5cffc8bcbb97",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Durante el embarazo (marque la opción INCORRECTA):",
+      "options": [
+        {
+          "id": "f3ffb223-f478-4fe4-9878-a14132ab023d",
+          "text": "El aumento de progesterona contribuye con la lactogénesis.",
+          "correct": true
+        },
+        {
+          "id": "3d525990-99c9-4b60-bc95-9d90e7598dc2",
+          "text": "El aumento de estrógenos contribuye a la mamogénesis."
+        },
+        {
+          "id": "1cf3dedc-34d7-42bd-9dd5-3d5eabe28fe2",
+          "text": "El aumento de estrógenos contribuye con el aumento de prolactina."
+        },
+        {
+          "id": "53e48d2f-241c-4873-8da2-6eda01f5da45",
+          "text": "El aumento de progesterona contribuye a la mamogénesis."
+        },
+        {
+          "id": "c90c105a-b56d-4e68-9dac-33945782b8a8",
+          "text": "El aumento de prolactina contribuye a la mamogénesis."
+        }
+      ]
+    },
+    {
+      "id": "6bd60929-18cc-4366-b118-99fbddaba2b6",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "El gen de la miostatina codifica un factor de crecimiento TGF-β, que inhibe el desarrollo muscular esquelético. En ratones una mutación puntual en el intrón 1 produce una variante de splicing no funcional que resulta en hipertrofia muscular. Recientemente se conoció un segundo caso de hipertrofia muscular humana pero que no ésta asociada a esta mutación. ¿Cuál de los siguientes genes puede ser el candidato más probable a explicar este caso de hipertrofia muscular humana?",
+      "options": [
+        {
+          "id": "8d1a0925-72c1-42d0-bc31-19d63e6321bf",
+          "text": "Una mutación de receptor de miostatina.",
+          "correct": true
+        },
+        {
+          "id": "c995c4df-6bfa-46b0-93c3-2d8e3371341a",
+          "text": "Una mutación de la miosina."
+        },
+        {
+          "id": "3aa62083-6d05-4c71-9f4f-f0260820386d",
+          "text": "Una mutación en el factor de transcripción TFIID."
+        },
+        {
+          "id": "924a64ee-27fb-4514-879d-af5db58d77d3",
+          "text": "Una mutación en la m-caderinas."
+        },
+        {
+          "id": "e39dba26-5b7c-45cc-90f0-a3d222541a4f",
+          "text": "Una mutación en una quinasa de la vía hedgehog."
+        }
+      ]
+    },
+    {
+      "id": "eddbdb2b-7833-41ae-b34f-1c2d1d91819d",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "En cuál de los siguientes periodos existe una mayor susceptibilidad al desarrollo de malformaciones de los miembros causados por teratógenos:",
+      "options": [
+        {
+          "id": "bf8d0938-d1c6-40b3-8fb7-12273f51071d",
+          "text": "Cuarta y quinta semana.",
+          "correct": true
+        },
+        {
+          "id": "571a18e4-d0e8-4180-a037-160b4c86a882",
+          "text": "Primera y segunda semana."
+        },
+        {
+          "id": "d43aff49-786d-4d69-bc14-6c09a30f0073",
+          "text": "Quinta y sexta semana."
+        },
+        {
+          "id": "15a682c1-8813-4b64-acda-a7521b9b933c",
+          "text": "Segunda y tercera semana."
+        },
+        {
+          "id": "6c0cdc71-2d8f-4915-99ba-dd93f105e873",
+          "text": "Tercera y cuarta semana."
+        }
+      ]
+    },
+    {
+      "id": "f01cf8bd-3715-43e8-8779-d9055c7b6847",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "En relación a los mecanismos de regulación del equilibrio ácido base es correcto afirmar que:",
+      "options": [
+        {
+          "id": "7c11e784-eb56-4eff-95ac-9b85adf45eae",
+          "text": "En condiciones de acidosis, la captación de glutamina sanguínea por las células del túbulo proximal aumenta respecto a una condición de pH normal.",
+          "correct": true
+        },
+        {
+          "id": "e4b6916a-64b0-498f-a763-6813cc80bc84",
+          "text": "A nivel de sangre arterial, el sistema buffer compuesto por HCO3-/CO2 amortigua mejor el agregado de un álcali que el de un ácido."
+        },
+        {
+          "id": "52a3f555-cce5-4487-a3c6-12f487a8ca93",
+          "text": "El fosfato (HPO2-/H2PO4) aporta el 60% de la capacidad amortiguadora total del plasma."
+        },
+        {
+          "id": "32a43c71-29d0-4d31-8ffc-dd38ed6364ce",
+          "text": "Las células del túbulo proximal secretan bicarbonato cuando la concentración plasmática del mismo es menor a 22 mM."
+        },
+        {
+          "id": "c5ff06f0-1714-4250-9362-ea7283cc656b",
+          "text": "Por su pKa (9), el amoniaco y el amonio constituyen un sistema amortiguador con alta capacidad amortiguadora a nivel sanguíneo."
+        }
+      ]
+    },
+    {
+      "id": "eb05a732-fb75-4dcf-924d-e34e7cbb6473",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "En una situación experimental hipotética, se hace expresar un marcador fluorescente en las células del esclerótomo del sector caudal del embrión, propiedad que se transmite a su descendencia. Indique en dónde esperaría encontrar la marca fluorescente en la vida del individuo:",
+      "options": [
+        {
+          "id": "b68697a9-4801-4733-864d-fc30c4915d35",
+          "text": "Cuerpos de las vértebras lumbares.",
+          "correct": true
+        },
+        {
+          "id": "867c7098-7e26-4e1f-be6f-18e86c7f4bd4",
+          "text": "Médula suprarrenal."
+        },
+        {
+          "id": "192c653d-1a4b-45a5-ba60-f4d528da6619",
+          "text": "Músculos paravertebrales."
+        },
+        {
+          "id": "6c3c6ddd-e5a8-4a8a-9c0b-dce6f1720a40",
+          "text": "Nefronas."
+        },
+        {
+          "id": "fc030052-ec2c-41b0-8026-cbc7257635e3",
+          "text": "No hay marca ya que no persisten células de ese sector en el adulto."
+        }
+      ]
+    },
+    {
+      "id": "8383410b-ed30-4994-a9d0-0a6330d982e8",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Está investigando el papel del gen Dro1 del ratón, que es homólogo a un gen de Drosophila importante en el desarrollo. ¿Cuál será la estrategia mas apropiada para conocer en qué región del embrión se expresa el gen Dro1?",
+      "options": [
+        {
+          "id": "a4ec9894-a7ae-4471-994a-f21ce7c8ba19",
+          "text": "Utilizar una construcción con el gen reportero beta-galactosidasa y el promotor de Dro1.",
+          "correct": true
+        },
+        {
+          "id": "6a0752f4-49c3-4515-8eba-f5374afa44e9",
+          "text": "Determinar la expresión del gen por PCR cuantitativo."
+        },
+        {
+          "id": "11d4d0b8-9732-44e8-a489-aae23fe90a2e",
+          "text": "Extraer ARN y analizar la presencia del transcripto por northern blot."
+        },
+        {
+          "id": "16c2d25c-44bb-4c74-a327-96680c7e35da",
+          "text": "Generar un animal transgénico defectivo para el gen Dro1."
+        },
+        {
+          "id": "5fd8782d-483d-407e-9ee8-ced549aaf6f4",
+          "text": "Utilizar una construcción con el gen Dro1 y el promotor del gen bicoid."
+        }
+      ]
+    },
+    {
+      "id": "5bc2022f-a19e-4984-abe2-d2b31332f00f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Indique cuál de las siguientes afirmaciones sobre la impronta genómica es INCORRECTA:",
+      "options": [
+        {
+          "id": "9ab744b5-f6db-4e71-b5f4-02c5f4faee38",
+          "text": "Implica una organización local distinta de la cromatina en el cromosoma paterno y materno.",
+          "correct": true
+        },
+        {
+          "id": "c938b879-c32b-4d4a-bce6-0094c2b2b443",
+          "text": "Debe resetearse al inicio de la gametogénesis."
+        },
+        {
+          "id": "6af05157-2537-4e3a-b02d-80cb6310c513",
+          "text": "Implica la expresión diferencial de alelos de un mismo locus."
+        },
+        {
+          "id": "90a61dca-acb5-4c33-9d39-6f1cb4d621af",
+          "text": "Implica la expresión diferencial de un gen según el sexo del embrión."
+        },
+        {
+          "id": "20037e7b-0700-41b6-b7ef-a43e6159d85b",
+          "text": "Puede resultar en la expresión fenotípica de alelos recesivos."
+        }
+      ]
+    },
+    {
+      "id": "637598ff-762a-40cd-8be2-093b72b8b88b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Indique cuál de las siguientes afirmaciones sobre los ARNm maternos de Drosophila es INCORRECTA:",
+      "options": [
+        {
+          "id": "0b42296e-6de7-44ba-86e3-4952e2ff7cb0",
+          "text": "Codifican para receptores de vías de señalización.",
+          "correct": true
+        },
+        {
+          "id": "8051fc18-d01e-458e-bbbf-1830b0900a4d",
+          "text": "Se localizan diferencialmente en los polos del ovocito."
+        },
+        {
+          "id": "f945e50d-0328-4afa-b302-5c0a7f57a9d9",
+          "text": "Se transcriben y traducen en células distintas."
+        },
+        {
+          "id": "413967fc-2685-4fae-b339-8ad4dd2b3945",
+          "text": "Son esenciales para determinar el eje antero-posterior."
+        },
+        {
+          "id": "95493110-8327-4fb3-8b8c-877dff3fd9b0",
+          "text": "Su distribución es dependiente del citoesqueleto."
+        }
+      ]
+    },
+    {
+      "id": "ba17edb8-3db3-4d89-b57f-110e68a39221",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Indique cuál de los siguientes elementos de la barrera de ultrafiltración renal evita que en el ultrafiltrado aparezcan eritrocitos:",
+      "options": [
+        {
+          "id": "b838738a-4046-4bfa-8b37-212388ce40a0",
+          "text": "Las fenestras endoteliales.",
+          "correct": true
+        },
+        {
+          "id": "1fbce93a-80f4-4aa0-ab2c-ac29d9885bd2",
+          "text": "El diafragma del espacio interpedicelar."
+        },
+        {
+          "id": "8f429490-25bd-409f-9348-a391026b95c0",
+          "text": "El heparán sulfato de la lámina basal."
+        },
+        {
+          "id": "fe60b5c3-786e-4668-bb95-c3f07fa9d4e6",
+          "text": "La lámina basal."
+        },
+        {
+          "id": "dafd12f5-7b65-4b0a-87c4-068b41b26337",
+          "text": "Los pedicelos de los podocitos."
+        }
+      ]
+    },
+    {
+      "id": "cfe7561a-6dc3-48c5-b388-61d116e6d1d0",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Ingresa a la emergencia un individuo de aspecto muy adelgazado, en estado de confusión mental. Fue trasladado desde el puerto de Montevideo, habiéndose encontrado en un barco. Se desconocen antecedentes personales. Se realiza una serie de exámenes paraclínicos algunos de los cuáles se informan aquí: Gasometría arterial: pH: 7,3; pCO2: 31 mmHg; pO2: 93 mmHg; HCO3-: 15 mM; Glicemia: 75 mg/100ml. De acuerdo a estos resultados es correcto afirmar que:",
+      "options": [
+        {
+          "id": "977a5dee-b62f-4d6e-9d88-eac8e26a07b9",
+          "text": "El paciente presenta una acidosis metabólica.",
+          "correct": true
+        },
+        {
+          "id": "2795ce8f-e312-47c3-873d-5ffd376e5bd8",
+          "text": "El exceso de bases será positivo en este paciente."
+        },
+        {
+          "id": "2f32225f-c425-4cfd-a82a-64f8ce171839",
+          "text": "El paciente presenta una acidosis respiratoria."
+        },
+        {
+          "id": "c311c788-0a66-4d20-b6ce-c4080d30dfa2",
+          "text": "La descompensación de una diabetes es la causa más probable de la alteración ácido-base observada."
+        },
+        {
+          "id": "335ee7ba-b8ea-429a-a6bb-788120742b9c",
+          "text": "La relación entre [HCO3-]/[CO2] arterial es de 20 a 1 en este paciente."
+        }
+      ]
+    },
+    {
+      "id": "2275b011-e266-4cd2-9fa0-a03421342d6a",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "La inulina es un polímero de fructosa que filtra libremente, y que no se reabsorbe ni se secreta. En relación a la inulina, marque la opción INCORRECTA:",
+      "options": [
+        {
+          "id": "9b316ba4-87e9-4ebe-8bd7-05c2d1e220f6",
+          "text": "La relación de concentraciones T/P para la inulina en el túbulo colector disminuye cuando aumentan los niveles plasmáticos de ADH.",
+          "correct": true
+        },
+        {
+          "id": "10132807-520c-4f89-a24b-efac4a3c1dae",
+          "text": "La relación de concentraciones T/P para la inulina en el túbulo colector de las nefronas yuxtamedulares alcanzará valores mayores que en las corticales."
+        },
+        {
+          "id": "cd3649ca-4c3a-4db1-b900-d981a11dec54",
+          "text": "La relación de concentraciones T/P para la inulina es 1 a nivel de la cápsula de Bowman."
+        },
+        {
+          "id": "a944bb2a-da0e-4e1d-a8e1-d0cda5240bf1",
+          "text": "Su clearance es mayor que el clearance de una sustancia que sufre reabsorción neta."
+        },
+        {
+          "id": "72a49c18-84c4-4728-a726-77c69fcc9e4e",
+          "text": "Su clearance es un indicador de la VFG (velocidad de filtración glomerular)."
+        }
+      ]
+    },
+    {
+      "id": "9497b51b-23dc-490b-978c-965883381b78",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "La onda del epitelio seminífero se define como:",
+      "options": [
+        {
+          "id": "b1bad36a-92a3-4bee-a4bc-753c725fd179",
+          "text": "La distribución de asociaciones celulares en la longitud del tubo seminífero.",
+          "correct": true
+        },
+        {
+          "id": "c0eff767-300d-4cca-8324-bd06333912f9",
+          "text": "La disposición en parcelas de las asociaciones celulares en determinado sitio del túbulo seminífero."
+        },
+        {
+          "id": "202ce3d3-c4d0-4bd5-a5b2-b09f39b9a7be",
+          "text": "La serie de estadios que hay dentro de una asociación celular concreta."
+        },
+        {
+          "id": "3da108bb-83ec-4c42-b5f6-0ccae4d3675b",
+          "text": "La serie de estadios que hay entre dos apariciones sucesivas de una asociación celular en cualquier sitio del túbulo seminífero."
+        }
+      ]
+    },
+    {
+      "id": "47222124-2106-498f-be05-32ec32813c76",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "La señalización entre células adyacentes a través de contactos de proteínas de membrana corresponde a la señalización:",
+      "options": [
+        {
+          "id": "8d1acc1c-3fda-41f7-a40f-f2ac3cfae4c5",
+          "text": "Juxtácrina.",
+          "correct": true
+        },
+        {
+          "id": "7c4b4f90-5c70-42ee-8e94-83430e46c9a7",
+          "text": "Autocrina."
+        },
+        {
+          "id": "178e2f98-90fb-4291-9eee-5793f3e1a4fc",
+          "text": "Endócrina."
+        },
+        {
+          "id": "9152ce24-7d43-4140-9b72-92c60a85fcbb",
+          "text": "Paracrina."
+        }
+      ]
+    },
+    {
+      "id": "1c6e949b-353e-4d34-a162-859199f90de6",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Respecto a las células de Sértoli se puede afirmar que (señale la opción INCORRECTA):",
+      "options": [
+        {
+          "id": "a9f95ae2-34c2-4ea0-be24-aa8f9d0573ef",
+          "text": "Producen testosterona.",
+          "correct": true
+        },
+        {
+          "id": "01580bda-3f40-4177-9d3e-82c669f48126",
+          "text": "Evitan el pasaje de antígenos hacia la sangre."
+        },
+        {
+          "id": "e1637896-3c4b-4135-97d2-331bf059f77a",
+          "text": "Poseen receptores para la testosterona."
+        },
+        {
+          "id": "d477ae83-1de8-4371-965d-17f8ce246efd",
+          "text": "Producen la proteína de unión a andrógenos."
+        },
+        {
+          "id": "5b7d055c-90df-4e61-8136-da77aac49542",
+          "text": "Proveen apoyo estructural a las espermátidas."
+        }
+      ]
+    },
+    {
+      "id": "daf351ce-f815-46e8-bdea-d1b887f59782",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Respecto a las modificaciones en el sistema endócrino que ocurre en la mujer gravídica, marque la opción correcta:",
+      "options": [
+        {
+          "id": "8e97ece9-f3e4-4ba3-ad6c-01d58f166b8b",
+          "text": "La hormona melanocitoestimulante (MSH) es la responsable de los cambios en la pigmentación de la piel en la embarazada.",
+          "correct": true
+        },
+        {
+          "id": "dda20f55-fd8c-4ba1-b15a-8cea920097c5",
+          "text": "El nivel de estrógenos sanguíneo disminuye constantemente a lo largo del embarazo."
+        },
+        {
+          "id": "d5640499-3b46-4ce9-b557-4cd8164494bc",
+          "text": "La secreción de aldosterona disminuye durante el embarazo."
+        },
+        {
+          "id": "b9bca492-d26c-4ce2-b9ba-372d126eb2c1",
+          "text": "La subunidad alfa de la hormona gonadotrofina coriónica humana (hCG) es la utilizada en las pruebas rutinarias de diagnóstico de embarazo."
+        },
+        {
+          "id": "a7210025-3e97-4867-a7b1-ef8510bf56d6",
+          "text": "Los niveles de estrógenos y progesterona sanguíneos tienen un pico en el segundo trimestre del embarazo."
+        }
+      ]
+    },
+    {
+      "id": "d5172156-7f57-4226-beda-ff6821bfe966",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Respecto al desarrollo del sistema arterial, es correcto afirmar que:",
+      "options": [
+        {
+          "id": "225de772-1d5b-478b-bc03-a61d41f5d39b",
+          "text": "El cayado de la aorta es un derivado del cuarto arco aórtico izquierdo.",
+          "correct": true
+        },
+        {
+          "id": "b1218925-ee5c-4319-be8c-0093c8fc5f53",
+          "text": "El conducto arterioso se forma a partir del cuarto arco aórtico."
+        },
+        {
+          "id": "4955351e-f82f-430c-bd5f-e105233db673",
+          "text": "En el humano se forman seis pares de arcos aórticos funcionales."
+        },
+        {
+          "id": "a65b3635-fbb1-421f-a13d-ca214c906a95",
+          "text": "La aorta se forma por la fusión de ambos vasos cardiales."
+        },
+        {
+          "id": "6361b6b5-5846-4f91-bb88-d2bdf2cc40bc",
+          "text": "Las ramas segmentarias ventrales de la aorta originan las arterias vinculadas al aparato urogenital."
+        }
+      ]
+    },
+    {
+      "id": "7214d44b-c653-43f5-b837-5555cdbfa5b1",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Respecto al manejo de agua y electrolitos a lo largo del túbulo contorneado proximal de la nefrona, es correcto afirmar que:",
+      "options": [
+        {
+          "id": "3a6cb982-c1f7-43c3-9dd7-94739ff9af2d",
+          "text": "El movimiento de agua provoca el fenómeno de arrastre de solvente.",
+          "correct": true
+        },
+        {
+          "id": "3279816e-b250-46d1-9ae8-ac6dc8e3cf93",
+          "text": "El 33% de agua filtrada se reabsorbe en este sector."
+        },
+        {
+          "id": "56f9b6ce-fdeb-41a0-8d1c-a2ffe129b0d2",
+          "text": "Hacia el final del túbulo el líquido es ligeramente hiperosmolar."
+        },
+        {
+          "id": "3b26ab13-fd95-4ff8-afca-c44b39b193f5",
+          "text": "La reabsorción de sodio está limitada por transporte máximo."
+        },
+        {
+          "id": "2395f484-3735-4877-9424-667f5a09eb8d",
+          "text": "Se reabsorbe el 100% de la creatinina filtrada."
+        }
+      ]
+    },
+    {
+      "id": "7388dd93-34c5-4bad-8df3-0dbfd9afb064",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Si pudiéramos inhibir experimentalmente la formación de las células de la cresta neural, ¿cuál de los siguientes órganos y estructuras presentarían déficits en alguno de sus tipos celulares constituyentes?",
+      "options": [
+        {
+          "id": "1dd8733d-791a-43f1-9ca6-44f71091fb76",
+          "text": "Glándulas suprarrenales.",
+          "correct": true
+        },
+        {
+          "id": "7fa4cac4-e9db-41cc-b14a-a7dc8c4856ba",
+          "text": "Epitelio intestinal."
+        },
+        {
+          "id": "caef1a1a-7202-457c-9542-d1950e60560c",
+          "text": "Fibras del cristalino."
+        },
+        {
+          "id": "9866462f-2ca7-4006-8953-eee963f93470",
+          "text": "Hipófisis."
+        },
+        {
+          "id": "dc8b0f45-53f3-47be-bd31-8a3db69a17ec",
+          "text": "Neocortex."
+        }
+      ]
+    },
+    {
+      "id": "d45c76d6-ce1e-4426-a27f-cae8bfdd6e0c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Sobre la circulación placentaria y fetal, indique la opción correcta:",
+      "options": [
+        {
+          "id": "cde4b318-f212-483a-b2f4-53bce821c009",
+          "text": "La presión parcial de oxígeno para una saturación de 50% de la hemoglobina es menor en el feto que en lamadre.",
+          "correct": true
+        },
+        {
+          "id": "aabc191f-4552-4159-8d91-a074d5891640",
+          "text": "El hematocrito fetal es menor que el hematocrito materno."
+        },
+        {
+          "id": "05db2644-afcb-433d-865e-8a01ed1f480e",
+          "text": "La hemoglobina fetal tiene menor afinidad por el oxigeno que la hemoglobina materna."
+        },
+        {
+          "id": "4ac36a32-9e39-41b8-bf06-57d7d95d2ee3",
+          "text": "La vena umbilical tiene menor contenido de oxigeno que las arterias umbilicales."
+        },
+        {
+          "id": "4f796714-cc5a-4ebf-8bce-50dd72baa2fd",
+          "text": "Las venas placentarias maternas tienen menor contenido de oxigeno que las arterias umbilicales."
+        }
+      ]
+    },
+    {
+      "id": "05e5136e-4165-4705-9137-7dd0a732c17f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Sobre los mecanismos de regulación del eje hipotálamo-hipofiso-gonadal, marque la opción correcta:",
+      "options": [
+        {
+          "id": "646774f5-2966-429a-b8fa-d83479d06da6",
+          "text": "Niveles altos de prolactina en sangre inhiben la liberación de GnRH a nivel del hipotálamo.",
+          "correct": true
+        },
+        {
+          "id": "4769f4a3-4b65-4207-8341-9780b4340aaa",
+          "text": "Al inicio de la fase folicular la concentración plasmática de estrógenos estimula la liberación de GnRHa nivel hipotalámico."
+        },
+        {
+          "id": "6c9014b6-9eb5-48ac-bf00-43b4fb8e8abe",
+          "text": "La activina estimula la liberación de FSH por vía paracrina."
+        },
+        {
+          "id": "4c983498-584c-4646-9788-5b59c79374b0",
+          "text": "La liberación de inhibina se inicia durante la fase ovulatoria."
+        }
+      ]
+    },
+    {
+      "id": "439446b3-b2f4-4f2f-9f54-671745ecdfb2",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Un aumento en los niveles plasmáticos de aldosterona inducirá a su vez un aumento en (marque la opción correcta):",
+      "options": [
+        {
+          "id": "7bf78145-19ff-4bcd-b11d-068a156e153c",
+          "text": "La cantidad de canales de sodio en la membrana apical del túbulo renal.",
+          "correct": true
+        },
+        {
+          "id": "7f263dfe-ef02-4fa2-8f8f-577ee7925744",
+          "text": "El clearance de sodio."
+        },
+        {
+          "id": "5ef8b36d-94c5-4738-8a04-48cb020cea63",
+          "text": "La carga excretada de sodio."
+        },
+        {
+          "id": "f9c8b77d-d611-46e1-9e23-250c030874e9",
+          "text": "La concentración plasmática de Na+."
+        }
+      ]
+    },
+    {
+      "id": "5da9f80c-0469-4f56-80b9-e01c6dae7423",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Un individuo con la composición cromosómica 45 X0 es:",
+      "options": [
+        {
+          "id": "36a73342-de3e-4749-b27b-af949d6f44b4",
+          "text": "Una mujer con síndrome de Turner.",
+          "correct": true
+        },
+        {
+          "id": "683f71bd-feaf-4dda-9720-77314d7dc429",
+          "text": "No puede determinarse."
+        },
+        {
+          "id": "a5f9353e-b1fb-4d97-9a11-8cf9ce437034",
+          "text": "Un hombre con síndrome de Klinefelter."
+        },
+        {
+          "id": "1ba8ff3c-5e18-42a2-aca4-57ed8763acf6",
+          "text": "Una mujer normal."
+        }
+      ]
+    },
+    {
+      "id": "69ec22f9-230a-4788-b66b-c34dcc90554b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "¿Cuál de los siguientes es requisito, a nivel del asa de Henle, para la generación del gradiente osmótico medular?",
+      "options": [
+        {
+          "id": "6361d7e1-741c-4b82-a656-56278efb65a3",
+          "text": "Transporte activo en el segmento ascendente grueso.",
+          "correct": true
+        },
+        {
+          "id": "248740ae-fe7a-4c9e-91c0-c81772df2d11",
+          "text": "Igual permeabilidad a los solutos en sus diferentes segmentos."
+        },
+        {
+          "id": "34af2578-f456-43e8-8176-f01c78754475",
+          "text": "Igual permeabilidad al agua en sus diferentes segmentos."
+        },
+        {
+          "id": "976293c9-dc50-499d-a9f9-1bd158fc8545",
+          "text": "Reabsorción pasiva de urea en el segmento ascendente."
+        }
+      ]
+    },
+    {
+      "id": "1bb54d76-bfb0-423f-8884-07dec220c075",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "¿En qué etapa de la meiosis se encuentra el ovocito localizado en un folículo maduro de de Graaf?",
+      "options": [
+        {
+          "id": "43c5b8eb-ec9e-4f26-a52a-2f0b197d4a27",
+          "text": "Metafase de la meiosis II.",
+          "correct": true
+        },
+        {
+          "id": "aba42417-9039-49e8-b8e7-bfb566e2ca6f",
+          "text": "Diploteno de la meiosis I."
+        },
+        {
+          "id": "dc168a62-0f89-4a40-9ea2-610e8d4dfc4a",
+          "text": "Paquiteno de la meiosis I."
+        },
+        {
+          "id": "f23287cb-dea7-405c-820b-e9684526ef0f",
+          "text": "Profase de la meiosis II."
+        },
+        {
+          "id": "5c6c90ef-6b6f-4c0b-afc4-5e096d7e30bc",
+          "text": "Telofase de la meiosis I."
+        }
+      ]
+    },
+    {
+      "id": "a999eef8-b0dc-442d-8f32-b0d3d9afedfe",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "¿Qué efecto y/o mecanismos a nivel renal induciría la ingesta por vía oral de NH4Cl (cloruro de amonio) en un individuo?",
+      "options": [
+        {
+          "id": "7368322c-70aa-4695-a3de-853d60fa7c50",
+          "text": "Un aumento de la excreción de H+ por la orina.",
+          "correct": true
+        },
+        {
+          "id": "76f48e31-02fd-4f01-97ef-afe09e26c9b6",
+          "text": "Una alcalosis metabólica."
+        },
+        {
+          "id": "c0a21e65-afb6-4c9f-b9f4-9aea1481b211",
+          "text": "Una alcalosis respiratoria."
+        },
+        {
+          "id": "cb2f354b-01f4-40bb-b90a-a44afcb330a9",
+          "text": "Una disminución de la excreción de H+ por la orina."
+        },
+        {
+          "id": "edacebe6-06d8-4883-8eea-034f57c34229",
+          "text": "Una disminución de la reabsorción de bicarbonato por el túbulo proximal."
+        }
+      ]
+    },
+    {
       "id": "9b204f36-4c27-41fb-9334-e8d522d8d494",
       "evaluation": "parcial_2",
       "source": "partial",
