@@ -4465,6 +4465,1622 @@
       ]
     },
     {
+      "id": "9b204f36-4c27-41fb-9334-e8d522d8d494",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "Acerca del mecanismo renal de concentración y dilución de la orina, es INCORRECTO afirmar que:",
+      "options": [
+        {
+          "id": "9da970fc-efbc-43b2-ad73-4bbfe7643577",
+          "text": "La osmolaridad máxima del gradiente es mayor cuando el flujo a través del Asa de Henle, conducto colector y vasa recta es alto.",
+          "correct": true
+        },
+        {
+          "id": "26d233e7-4723-41d3-bad1-5afaf2d6116f",
+          "text": "El diurético furosemida limita la generación del gradiente peritubular."
+        },
+        {
+          "id": "446f1802-debd-4a83-8308-999109fac4af",
+          "text": "El mecanismo de generación del gradiente peritubular por \"multiplicación por contracorriente\" opera tanto en las nefronas de asa corta como de asa larga."
+        },
+        {
+          "id": "eb5dfbe3-be58-49c7-a098-91e8ebd52318",
+          "text": "La ausencia de ADH disminuye el gradiente osmótico medular al impedir que se eleve la concentración de urea a nivel peritubular."
+        },
+        {
+          "id": "548bbf15-e8d9-4545-a26d-aa1b998b1a38",
+          "text": "Para la génesis del gradiente osmótico peritubular debe existir un mecanismo de transporte activo que establezca el gradiente osmótico horizontal."
+        }
+      ]
+    },
+    {
+      "id": "5fad37dd-6304-4a19-868a-89e497c0564e",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "Con respecto a la acción de la hormona antidiurética (ADH), marque la opción incorrecta:",
+      "options": [
+        {
+          "id": "fcd06b0b-b7eb-41d3-9663-58ed19c79327",
+          "text": "En la respuesta al bloqueo de su receptor se observa aumento de la osmolaridad urinaria.",
+          "correct": true
+        },
+        {
+          "id": "a482ca3d-c124-4fcf-977d-ba5c5847038f",
+          "text": "Actúa aumentando la reabsorción de agua en todo el túbulo colector."
+        },
+        {
+          "id": "e42fb9f2-21c5-430e-8f2c-1ab3056bba96",
+          "text": "La AQP2 está presente en el túbulo colector."
+        },
+        {
+          "id": "294b75cb-01e2-4e59-a871-cbbbb85b91eb",
+          "text": "La unión de ADH a su receptor aumenta el número de AQP2 (acuaporina 2) en la membrana apical."
+        },
+        {
+          "id": "f8196f07-7763-466d-b931-b0b8a9c4c1b8",
+          "text": "Si se somete a un animal a un exceso de consumo de agua, la expresión de la proteína de AQP2 disminuye."
+        }
+      ]
+    },
+    {
+      "id": "e97ef29e-95d2-4f5a-a6d5-108d49393670",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "Con respecto a los genes Hox en el hombre, marque la característica INCORRECTA:",
+      "options": [
+        {
+          "id": "ef851f84-b984-4c66-905a-2d7149f00355",
+          "text": "Son reprimidos por el ácido retinoico.",
+          "correct": true
+        },
+        {
+          "id": "7f8ebfe2-22aa-4044-bbb1-a641a133b18c",
+          "text": "Existen cuatro grupos o clusters de genes Hox en distintos cromosomas."
+        },
+        {
+          "id": "351c8965-3c12-4dcd-bfe3-9ebc24f499b5",
+          "text": "Los genes Hox codifican proteínas reguladoras de la transcripción."
+        },
+        {
+          "id": "95508ead-d1ac-453b-80f3-c49b71f48541",
+          "text": "Participan en la determinación de identidad de parte del tubo neural y mesodermo."
+        },
+        {
+          "id": "5eac8d82-6f99-4fb9-9a7c-8b2d14ccea88",
+          "text": "Se expresan ordenadamente a lo largo del embrión."
+        }
+      ]
+    },
+    {
+      "id": "ffe528ff-4b63-4146-a65d-2a0fb9b68972",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "Con respecto al fenómeno de capacitación natural de los espermatozoides, es correcto afirmar que:",
+      "options": [
+        {
+          "id": "7cf44967-a062-4571-9698-647affe48777",
+          "text": "Aumenta la permeabilidad de la membrana plasmática del espermatozoide al Ca2+.",
+          "correct": true
+        },
+        {
+          "id": "06cf7bc6-3d02-45d4-9da2-67a34aad029f",
+          "text": "Es independiente de su interacción con el tracto genital femenino."
+        },
+        {
+          "id": "c7fee122-3b83-4f7a-b474-1ca06172ce1b",
+          "text": "Induce disminución de la motilidad espermática."
+        },
+        {
+          "id": "f0014cf7-987b-4175-bd76-5c54f4362b5d",
+          "text": "Ocurre en el conducto del epidídimo."
+        },
+        {
+          "id": "ba591cd1-4159-4c3c-bee2-10cbe5b22cfb",
+          "text": "Posibilita la adición de colesterol a la membrana plasmática del espermatozoide."
+        }
+      ]
+    },
+    {
+      "id": "a2bf4679-cbc7-48bc-a965-d95816a203be",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "Durante el embarazo debido a la acción de la progesterona sobre el centro respiratorio, ocurren modificaciones fisiológicas que tienen como consecuencia (señale la opción correcta):",
+      "options": [
+        {
+          "id": "dd6df8e0-548c-4636-a315-26aacf3f3efc",
+          "text": "Aumento del volumen corriente.",
+          "correct": true
+        },
+        {
+          "id": "db9848c7-57ce-4134-8f01-6b698f187d09",
+          "text": "Aumento de la capacidad residual funcional."
+        },
+        {
+          "id": "d0407ccf-dd79-487f-b892-f9d15f6fea49",
+          "text": "Aumento de la frecuencia respiratoria."
+        },
+        {
+          "id": "768c7c20-2f2e-498f-8cbc-bd38870e8442",
+          "text": "Hipoventilación alveolar."
+        }
+      ]
+    },
+    {
+      "id": "598084e8-a42d-44ad-99ac-08d99b846da1",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "El control de la expresión génica a nivel epigenético NO implica cambios en:",
+      "options": [
+        {
+          "id": "8e35a369-d5ec-412e-833a-2708dd7179d5",
+          "text": "La secuencia del ADN.",
+          "correct": true
+        },
+        {
+          "id": "75027a73-508c-4741-8674-c940ce60e909",
+          "text": "La acetilación de las histonas."
+        },
+        {
+          "id": "146f0391-7d8e-4c4f-82e8-fde0367a40b8",
+          "text": "La compactación de la cromatina ."
+        },
+        {
+          "id": "8f734258-e659-4f6c-92f2-eced359c45b4",
+          "text": "La metilación de las histonas."
+        },
+        {
+          "id": "53b6f65a-5b5b-4357-bc08-fe4f1ab05b53",
+          "text": "La metilación del ADN."
+        }
+      ]
+    },
+    {
+      "id": "0f3585da-3cfc-4899-8963-9df06c13280b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "El exceso de consumo de vitamina D puede producir los siguientes efectos metabólicos (señale la opción correcta):",
+      "options": [
+        {
+          "id": "f3f02fbb-d361-486e-bf78-88e67649af8d",
+          "text": "Aumento de la reabsorción renal de calcio y fosfato.",
+          "correct": true
+        },
+        {
+          "id": "26c1ef45-c9a3-48bc-b7d8-a9256cde7930",
+          "text": "Aumento de la concentración plasmática de hormona paratiroidea (PTH)."
+        },
+        {
+          "id": "1f9cef0f-2fda-4d28-9fa6-dbc52a828e3e",
+          "text": "Disminución de la concentración de calcio plasmático (hipocalcemia)."
+        },
+        {
+          "id": "12d5f537-b0fd-40fe-94ae-e0bf8eb2e374",
+          "text": "Disminución de la concentración de fosfato plasmático (hipofosfatemia)."
+        },
+        {
+          "id": "89a06366-2977-4a9c-9ff7-3cbdd7c16b6b",
+          "text": "Hiperparatiroidismo primario."
+        }
+      ]
+    },
+    {
+      "id": "81407e17-75e0-4f55-92c1-c32d70d97640",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "El gen SRY se expresa fundamentalmente en:",
+      "options": [
+        {
+          "id": "aec8ab46-bb09-4f76-98b6-a2d5079824dc",
+          "text": "Los precursores de las células de Sertoli.",
+          "correct": true
+        },
+        {
+          "id": "84dff935-a1eb-4bf0-bfb2-adf2fad3d3f6",
+          "text": "Las células de la creta urogenital."
+        },
+        {
+          "id": "b1c06b78-0056-4c1e-b37e-a20dfd1209af",
+          "text": "Las células germinales primordiales."
+        },
+        {
+          "id": "d6b60575-6472-4479-8050-f3914fd8d624",
+          "text": "Los precursores de las células foliculares."
+        },
+        {
+          "id": "2585b0fc-4e7e-475f-a16e-564ae8d2d644",
+          "text": "Todos los tipos celulares que forman la gónada indiferenciada."
+        }
+      ]
+    },
+    {
+      "id": "6acf8a9c-ec37-4497-8d62-decf847f479f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "El labio leporino es una malformación congénita de la cara producto de una falla de la fusión entre el proceso maxilar y el:",
+      "options": [
+        {
+          "id": "f77cf81b-50dc-458c-8ded-19f4920d93cc",
+          "text": "Proceso nasal medial.",
+          "correct": true
+        },
+        {
+          "id": "3a276c6b-1760-4556-9e16-5925137595e5",
+          "text": "Proceso mandibular."
+        },
+        {
+          "id": "3b061e16-1547-4ce1-83f1-21f4426e00c9",
+          "text": "Proceso nasal lateral."
+        },
+        {
+          "id": "f05dc5c8-a0e4-48e6-ad87-06500c58c942",
+          "text": "Proceso palatino."
+        }
+      ]
+    },
+    {
+      "id": "2931c93b-424c-4f85-9f16-6617a43a4943",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "Elija la mejor opción. Un morfógeno es:",
+      "options": [
+        {
+          "id": "77edb754-5523-4802-860d-73a705721889",
+          "text": "Una molécula señalizadora que confiere información posicional.",
+          "correct": true
+        },
+        {
+          "id": "7b23f97a-d7c2-47ff-8b13-dbd51df78561",
+          "text": "Una célula que provoca el movimiento de las otras células."
+        },
+        {
+          "id": "4af88d74-62ef-4cf0-8734-9110234708ec",
+          "text": "Una célula que provoca la especificación de las otras células."
+        },
+        {
+          "id": "0210d21d-89bb-414d-9f43-978df1bb4f3d",
+          "text": "Una molécula señalizadora de acción independiente de su concentración."
+        },
+        {
+          "id": "de2d5e15-a67c-4262-b2ba-b9c9b36830a1",
+          "text": "Una molécula señalizadora que provoca especificación similar de células vecinas."
+        }
+      ]
+    },
+    {
+      "id": "7c07bdcf-4d96-4f7e-9101-c0026f25e21c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "En condiciones de acidosis, en el túbulo proximal se desencadenan cambios metabólicos que incluyen (señale la opción correcta):",
+      "options": [
+        {
+          "id": "abbfbde6-7cce-4029-ad9f-5029e7e7f2ec",
+          "text": "Aumento de la formación de bicarbonato que se transporta a los capilares.",
+          "correct": true
+        },
+        {
+          "id": "fb066de6-7c30-4806-9589-63b0eb114827",
+          "text": "Aumento en la expresión de la enzima glutamina sintetasa."
+        },
+        {
+          "id": "14661334-1a95-463b-8814-f56465650908",
+          "text": "Aumento en la formación del ácido úrico."
+        },
+        {
+          "id": "408dc4a3-8d5c-4352-ad11-948950ebd03f",
+          "text": "Disminución de la captación de glutaminaplasmática."
+        },
+        {
+          "id": "18fd7bfd-0e92-4a4a-b697-be5154153c7d",
+          "text": "Estimulo de glucolisis."
+        }
+      ]
+    },
+    {
+      "id": "362354f2-b08d-4739-a11a-60446f5f1e30",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "En la formación de los miembros, el eje antero-posterior está fundamentalmente coordinado por:",
+      "options": [
+        {
+          "id": "57c3add2-ad5d-4a87-a41a-24f8d47fcfea",
+          "text": "Gradientes de SHH.",
+          "correct": true
+        },
+        {
+          "id": "8c47b1c7-684a-471f-b12c-481ed437f2fc",
+          "text": "Expresión de genes homeóticos."
+        },
+        {
+          "id": "a6a0404e-6fce-46a9-a78a-664f5ecd3371",
+          "text": "La expresión de distintos FGFs."
+        },
+        {
+          "id": "3db110d3-f528-49c0-b1d1-e7732c945074",
+          "text": "Señalización mediada por TGFB."
+        },
+        {
+          "id": "9b17cb43-cca6-4bc5-8730-893b785a6011",
+          "text": "Señalización mediada por la vía Wnt."
+        }
+      ]
+    },
+    {
+      "id": "f089b3d7-6bce-4887-affb-485ffe1ce926",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "En la orina se eliminan uno 70 mmoles/día de protones (H+). ¿Bajo qué forma se excretan esos protones? Señale la opción correcta:",
+      "options": [
+        {
+          "id": "2dca00ad-762d-490b-984a-1127f9bb9091",
+          "text": "Entre 15 a 20 mmoles como H2PO4-.",
+          "correct": true
+        },
+        {
+          "id": "13762802-744d-44bf-bd19-6f6d43f318ed",
+          "text": "A un pH urinario de 4.5, un 50% de los H+ están libres en solución."
+        },
+        {
+          "id": "64db2e18-11a6-4800-8c89-f14e3e546be2",
+          "text": "Hasta 100 mmoles como HCO3-."
+        },
+        {
+          "id": "609dbd29-0c3b-4f50-82fb-675fc25c0817",
+          "text": "Un 10% como CO2 y H2O."
+        },
+        {
+          "id": "6a721049-7cd8-442d-b063-8c7124bbfa76",
+          "text": "Un 10% como H2CO3."
+        }
+      ]
+    },
+    {
+      "id": "dcc83f2c-fe82-4f8d-841d-a12591980ff9",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "En la relación de las características del eje hipotálamo-hipófiso-ovárico, señale la opción correcta:",
+      "options": [
+        {
+          "id": "df87c46f-4931-4348-9a7f-d54a1c82ef14",
+          "text": "La ovulación ocurre como consecuencia de un mecanismo de retroalimentación positiva sobre el eje.",
+          "correct": true
+        },
+        {
+          "id": "6e6a801b-1d27-4e5f-b159-9870f437b337",
+          "text": "Durante la fase folicular la secreción de progesterona estimula la liberación de las gonadotrofinas."
+        },
+        {
+          "id": "1b74902f-138c-480f-963d-ca7796d32f6c",
+          "text": "Durante la fase lútea las hormonas ováricas ejercen un mecanismo de retroalimentación positiva sobre el eje."
+        },
+        {
+          "id": "813e41cd-b27b-4219-be15-7baf539dc6e2",
+          "text": "Luego de la menopausia los niveles de gonadotrofinas disminuyen."
+        }
+      ]
+    },
+    {
+      "id": "6a048ef5-ab56-4e63-9d4b-02f8654daa00",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "En relación a la fisiología de la respuesta sexual humana, indique lo correcto:",
+      "options": [
+        {
+          "id": "19a18993-9aea-4993-be0a-d02366f294c9",
+          "text": "Durante la fase de meseta en la mujer, el evento mas relevante es la formación de la plataforma orgásmica por la vasocongestión de las paredes vaginales.",
+          "correct": true
+        },
+        {
+          "id": "cfbdb833-b354-4d91-961b-12283f44561c",
+          "text": "La división parasimpática del sistema nervioso autónomo es responsable de la eyaculación en el hombre."
+        },
+        {
+          "id": "21fa8119-a4c6-4fe0-96a0-748aadc0a8fe",
+          "text": "La lubricación de la vagina depende de la secreción de glándulas endometriales."
+        },
+        {
+          "id": "96155cb3-783d-4d3b-8656-b87fc7817016",
+          "text": "La vasocongestión observada en la zona genital es debido a la acción del sistema nervioso simpático."
+        }
+      ]
+    },
+    {
+      "id": "90e93e19-a5c8-48d9-899a-7752a4774fb6",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "Indique cuál de las siguientes estructuras se origina del esclerótomo de los somites:",
+      "options": [
+        {
+          "id": "b7e700d9-f820-4f3d-8c64-bd0bc5f4bb6d",
+          "text": "Hueso sacro.",
+          "correct": true
+        },
+        {
+          "id": "14916aad-b3cc-468b-b039-37f7caba022e",
+          "text": "Cúbito y radio."
+        },
+        {
+          "id": "61e0d2dd-df33-4c56-a447-6da760a1e2d7",
+          "text": "Dermis de la piel de la espalda."
+        },
+        {
+          "id": "393aaa42-3dda-46a7-a783-bb43017f8188",
+          "text": "Músculos epiaxiales."
+        },
+        {
+          "id": "e0f154dc-586b-4b2f-9172-fe6e47c62c31",
+          "text": "Núcleo pulposo del disco intervertebral."
+        }
+      ]
+    },
+    {
+      "id": "0c165002-0385-4e9f-87f5-320f9b96d394",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "Indique cuál es el patrón de desarrollo esperado de un embrión de Drosophila homocigota para la mutación recesiva de manos con ambos padres heterocigotas para este gen.",
+      "options": [
+        {
+          "id": "3c732abe-a225-4830-8edf-6984804b1d5e",
+          "text": "El embrión se desarrolla normalmente.",
+          "correct": true
+        },
+        {
+          "id": "377b034a-f7b5-4b05-9d19-bb4f9d235301",
+          "text": "El embrión no presenta estructuras abdominales."
+        },
+        {
+          "id": "9aaf64b9-d03f-4fd2-9707-41130aea1e9a",
+          "text": "El embrión presenta una expresión de genes anteriores alterada."
+        },
+        {
+          "id": "66cb6ac4-df54-497c-931c-536f4b2f663d",
+          "text": "El embrión presenta una región torácica alterada."
+        },
+        {
+          "id": "c04478de-4e18-4f88-ab9e-fb68a5631bd2",
+          "text": "El embrión presenta una segmentación alterada."
+        }
+      ]
+    },
+    {
+      "id": "03c2c381-b063-41b5-9e02-566635057277",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "La impronta genómica se borra en:",
+      "options": [
+        {
+          "id": "63cc30f8-9d19-47e1-a405-a03b1dc1682b",
+          "text": "Primordios de las células germinales.",
+          "correct": true
+        },
+        {
+          "id": "bff3e0fe-d6e0-49bd-9ad5-283848a1d856",
+          "text": "El cigoto."
+        },
+        {
+          "id": "bc571f40-c8a6-49ee-94dd-02fb5bee497e",
+          "text": "Las células del macizo celular interno."
+        },
+        {
+          "id": "60890cf8-3ef4-4c16-829c-3c1881a4f9a0",
+          "text": "Las células del trofoblasto."
+        },
+        {
+          "id": "f8f06d22-d7eb-4b32-ad77-594712899daf",
+          "text": "Los gametos."
+        }
+      ]
+    },
+    {
+      "id": "80de2e27-1204-4dc6-adb7-75c8d97666fe",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "La osmolaridad del líquido tubular que deja el asa de Henle para ingresar en la nefrona distal (marque la opción correcta):",
+      "options": [
+        {
+          "id": "950a582a-0950-4bbd-9bff-edc54f1caa15",
+          "text": "Es menor que la osmolaridad del líquido tubular que ingresa al asa desde el túbulo proximal.",
+          "correct": true
+        },
+        {
+          "id": "05ee7220-6e03-44cc-9f89-6e3289e83e2e",
+          "text": "Es mayor que la osmolaridad del líquido tubular en el extremo de la horquilla de las nefronas de asa corta."
+        },
+        {
+          "id": "3db24aa1-33cb-4660-ad95-29194dd0d288",
+          "text": "Es mayor que la osmolaridad del líquido tubular en el extremo de la horquilla de las nefronas de asa larga."
+        },
+        {
+          "id": "c20089a7-ddb1-480c-8b08-2ec5036134ed",
+          "text": "Es mayor que la osmolaridad peritubular a nivel de la corteza."
+        },
+        {
+          "id": "561e158f-7887-4644-ab84-335966def4b2",
+          "text": "Es mayor que la osmolaridad peritubular a nivel de la médula."
+        }
+      ]
+    },
+    {
+      "id": "e39efe5f-438f-4046-8f08-1a6c200131a2",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "Las células llamadas embrionarias o ES son células pluripotenciales obtenidas de:",
+      "options": [
+        {
+          "id": "61c47bee-866d-4275-9f19-3819e881ff6f",
+          "text": "Macizo celular interno.",
+          "correct": true
+        },
+        {
+          "id": "4e9292a2-1ced-4164-b5d7-c2224408f5ef",
+          "text": "Capa basal de tejidos adultos."
+        },
+        {
+          "id": "234cbf2f-6e0d-4399-a971-6e4407807753",
+          "text": "Células adultas desdiferenciadas."
+        },
+        {
+          "id": "f19899a8-6b17-43db-bf1d-37b55e927c08",
+          "text": "Gástrula tardía."
+        },
+        {
+          "id": "116a2be2-9c8b-4827-9437-3358996f238a",
+          "text": "Trofoectodermo."
+        }
+      ]
+    },
+    {
+      "id": "15b39c14-63d6-4f69-ba6e-08c9ac3933eb",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "Los fenómenos de INDUCCIÓN durante la embriogénesis NO requieren:",
+      "options": [
+        {
+          "id": "b1df6e47-8ab6-4c81-9521-11a6dfbddb7e",
+          "text": "Interacción directa entre células inductoras y células respondedoras.",
+          "correct": true
+        },
+        {
+          "id": "db3893c6-cb58-44b1-b790-4d250ec72ee3",
+          "text": "Cambios en la expresión génica."
+        },
+        {
+          "id": "811c57a3-ccfb-40d7-9a59-b355df2621ab",
+          "text": "Coordinación temporal."
+        },
+        {
+          "id": "c2aa5a2d-8f4d-4056-b244-385d54505125",
+          "text": "Expresión de moléculas especificas en las células respondedoras."
+        },
+        {
+          "id": "92c389d5-8d47-4c25-a270-47b67c4992e7",
+          "text": "Proximidad entre las células inductoras y las células repondedoras."
+        }
+      ]
+    },
+    {
+      "id": "b7290c50-da4e-4592-949a-e673bfb10333",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "Marque la opción INCORRECTA con respecto al gen materno caudal de Drosophila:",
+      "options": [
+        {
+          "id": "6d173c5b-548c-4976-af99-8c886c1749a0",
+          "text": "El ARNm caudal se localiza en la porción posterior del embrión.",
+          "correct": true
+        },
+        {
+          "id": "3b7e218d-d441-495f-a8b1-f18641a77070",
+          "text": "El ARNm caudal se sintetiza en las células nodriza."
+        },
+        {
+          "id": "ccffa336-cea8-4afe-bb1b-1422ad952a8e",
+          "text": "La proteína Caudal es un regulador transcripcional de genes de segmentación."
+        },
+        {
+          "id": "f8fd2c94-392d-427f-8799-b2f2cd0989a5",
+          "text": "La proteína caudal forma un gradiente postero-anterior."
+        },
+        {
+          "id": "96833aff-8f5f-4195-ab60-a9e8f61fe17b",
+          "text": "La traducción del ARNm caudal es inhibida por la proteína bicoid."
+        }
+      ]
+    },
+    {
+      "id": "7d053583-4b97-4a62-96c2-077c3b4f38ca",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "Respecto a la fisiología de la placenta, marque la opción correcta:",
+      "options": [
+        {
+          "id": "dda5bece-81c7-4e93-acc5-d86d05f7e9a9",
+          "text": "El agua es transportada en la placenta por vía paracelular y transcelular.",
+          "correct": true
+        },
+        {
+          "id": "1df1806d-91eb-4156-918d-c8f05f911be1",
+          "text": "La barrera placentaria evita el pasaje del alcohol desde la madre al feto."
+        },
+        {
+          "id": "2419b5d8-525e-4270-9ce7-0de2dc216298",
+          "text": "La concentración de aminoácidos es mayor en la sangre de la madre que en la del feto."
+        },
+        {
+          "id": "036afe40-38ac-4838-91d1-02e16f09ecc2",
+          "text": "La glucosa es transportada hacia el feto en contra su gradiente de concentración."
+        },
+        {
+          "id": "ccaef4c5-d7f0-4059-905a-d3f41f5e0070",
+          "text": "Las inmunoglobulinas M (lgM) atraviesan con facilidad la placenta."
+        }
+      ]
+    },
+    {
+      "id": "fab24947-6984-4850-b661-a1a405b41f71",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "Respecto a la hormona testosterona marque la opción correcta:",
+      "options": [
+        {
+          "id": "7989cb9a-1012-475c-9e38-233d1294f2c2",
+          "text": "Tanto en la testosterona, la deshidrotestosterona, como los estrógenos, inhiben la liberación de la hormona luteinizante (LH).",
+          "correct": true
+        },
+        {
+          "id": "212db7e6-2021-4731-84bd-ec3797c40ce0",
+          "text": "Es sintetizada por las células de Sertoli."
+        },
+        {
+          "id": "870fc7a0-fc57-47e3-ae3e-bf3f118c29a2",
+          "text": "Estimula el catabolismo proteico."
+        },
+        {
+          "id": "637a5a6f-b212-4a32-8958-0e622acc7588",
+          "text": "Su administración exógena mejora la fertilidad."
+        },
+        {
+          "id": "b135b996-ee2b-4344-8276-05d4b0203e97",
+          "text": "Su concentración plasmática es similar en el hombre y en la mujer adultos."
+        }
+      ]
+    },
+    {
+      "id": "c76a2113-1e03-472b-9d27-f216e3743c37",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "Respecto al mesonefros, es correcto afirmar que:",
+      "options": [
+        {
+          "id": "a514a892-fb08-4314-88d6-edf34b272872",
+          "text": "Se desarrolla entre la 4ª y 6ª semana del periodo embrionario.",
+          "correct": true
+        },
+        {
+          "id": "aeef0202-dce9-4fc3-af5b-e180e92b9f6e",
+          "text": "Es de origen ectodérmico."
+        },
+        {
+          "id": "e15436e1-4b00-408d-a0ee-24b8b6ca8dd8",
+          "text": "Se forma de la porción lumbo-sacra del cordón nefrogénico."
+        },
+        {
+          "id": "51029876-5da6-4ff6-9615-0bdf7b193894",
+          "text": "Se trata de una estructura transitoria no funcional."
+        }
+      ]
+    },
+    {
+      "id": "d77510c5-71a3-4bf0-9648-deef485daf18",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "Respecto al proceso de gastrulación es correcto afirmar que:",
+      "options": [
+        {
+          "id": "d5980eef-7dfe-463a-91d9-b54c8b0fbcef",
+          "text": "El proceso notocordal es un derivado mesodérmico.",
+          "correct": true
+        },
+        {
+          "id": "4e72fd7e-1f25-4a62-9dbb-3785aa7d7d60",
+          "text": "Durante esta etapa el embrión se constituye como una entidad bilaminar."
+        },
+        {
+          "id": "fbc06887-17c2-4288-a2c1-4ace39d43495",
+          "text": "El endodermo definitivo se diferencia a partir delhipoblasto."
+        },
+        {
+          "id": "b834bd7d-a0cf-4d66-b10a-5cecc70d79fe",
+          "text": "En este proceso se produce el mayor crecimiento del embrión."
+        },
+        {
+          "id": "fb6e8aa0-f7d2-4d85-b17c-9f2961972bec",
+          "text": "La aparición de la línea primitiva ocurre en región cefálica del disco embrionario."
+        }
+      ]
+    },
+    {
+      "id": "e3f881df-2981-43ae-8960-9b66c504f404",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "Sabiendo que VFG = 120 ml/min, X es una sustancia que filtra libremente y su clearance = 600 ml/min, X podría ser (marque la opción correcta):",
+      "options": [
+        {
+          "id": "7722297c-72d0-41ed-a051-a1648d24a000",
+          "text": "PAH (para-aminohipurato).",
+          "correct": true
+        },
+        {
+          "id": "738a0479-fd6a-404f-ab70-9bc3b9247c8b",
+          "text": "Creatinina."
+        },
+        {
+          "id": "7b190b83-6b41-4e54-bd56-f693259e66b2",
+          "text": "Glucosa."
+        },
+        {
+          "id": "3242707b-a5a0-40f4-a2eb-24faefd3bf23",
+          "text": "Insulina."
+        },
+        {
+          "id": "29aa7680-3a73-4069-9e56-ede9eb07a657",
+          "text": "Urea."
+        }
+      ]
+    },
+    {
+      "id": "e1310d94-1e74-4289-a037-be5c81e925b2",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "Sobre las hormonas involucradas en la lactancia, marque la opción INCORRECTA:",
+      "options": [
+        {
+          "id": "b541b746-c898-4047-8fdf-3a37552d9afd",
+          "text": "El incremento de la concentración plasmática de progesterona luego del alumbramiento es necesario para la lactogénesis.",
+          "correct": true
+        },
+        {
+          "id": "22ffd3a5-5c85-4d4d-84da-b36545743fb4",
+          "text": "El incremento de estrógenos durante el embarazo es necesario para el correcto desarrollo de la glándula mamaria."
+        },
+        {
+          "id": "225283c9-a48d-4def-a7d5-819e8819ba7b",
+          "text": "El incremento de la prolactina durante el embarazo es necesario para la mamogénesis."
+        },
+        {
+          "id": "f3eb5d1f-9387-4a91-b72c-5b09f196adfc",
+          "text": "La progesterona actúa sinérgicamente con los estrógenos y prolactina para el desarrollo de la glándula mamaria durante el embarazo."
+        },
+        {
+          "id": "d51a185a-9d15-48f6-87bd-5e4bd5484d24",
+          "text": "La prolactina y la oxitocina son imprescindibles para el mantenimiento de la lactancia luego de la lactogénesis."
+        }
+      ]
+    },
+    {
+      "id": "4328714d-c78a-4275-b1d9-553b34cb3698",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "Un aumento del volumen de los líquidos orgánicos determina (marque la opción correcta):",
+      "options": [
+        {
+          "id": "8a83d6dd-a882-481e-9e61-0921ec3ea2fe",
+          "text": "La secreción del péptido natriurético auricular.",
+          "correct": true
+        },
+        {
+          "id": "f9742630-dcbc-4fea-aaf6-f995898a5e50",
+          "text": "La secreción de ADH."
+        },
+        {
+          "id": "3ed23cae-2616-412c-877d-276fb914afd2",
+          "text": "Un aumento de la reabsorción renal de Na+ por estimulación del simpático eferente renal."
+        },
+        {
+          "id": "ffd126d5-ba2c-42bb-ad58-bc9568e78733",
+          "text": "Un aumento de los niveles plasmáticos de angiotensina II."
+        }
+      ]
+    },
+    {
+      "id": "04d12556-c271-4ad1-bd7e-3ef6b6f9f4bf",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "Un paciente joven sin antecedentes patológicos previos sufrió un accidente de tránsito con traumatismo de tórax y se le realiza una gasometría arterial al ingreso en emergencia cuyo resultado se indica a continuación. pH = 7.30; pCO2 = 65 mmHg; HCO3- = 25 mM; BE = -2. De acuerdo con estos resultados es correcto afirmar que:",
+      "options": [
+        {
+          "id": "b584bc60-512a-4dfa-a4f5-1a2caeae0360",
+          "text": "Este paciente presenta una acidosis respiratoria no compensada.",
+          "correct": true
+        },
+        {
+          "id": "75615d5b-74d1-47dd-8458-50dcd13811e3",
+          "text": "El paciente presenta una acidosis metabólica."
+        },
+        {
+          "id": "1ce8fa96-ec76-4ac8-b6d6-695254e71ef8",
+          "text": "En el plasma de este paciente, la relación [HCO3-]/[CO2] es de 20."
+        },
+        {
+          "id": "16dc43ea-fe6b-4729-8bdc-ad10ffccada2",
+          "text": "Este paciente presenta una acidosis crónica."
+        },
+        {
+          "id": "ae4b96ce-1ffb-4e9d-a3ff-6e804bb42dd3",
+          "text": "La concentración plasmática de bicarbonato refleja una falla renal."
+        }
+      ]
+    },
+    {
+      "id": "9ff2655b-84bf-4896-a7b1-17f0d9e7f415",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "¿Cuál de los siguientes elementos esperaría encontrar en abundancia en una placenta humana en el séptimo mes de gestación?",
+      "options": [
+        {
+          "id": "00ae7c2e-44b3-46d2-8adf-f70b72d6f6fe",
+          "text": "Vellosidades terciarias con un eje de mesénquima muy vascularizado.",
+          "correct": true
+        },
+        {
+          "id": "a108470f-d80e-4316-b51c-1e25e78aef8b",
+          "text": "Espacios intervellositarios conteniendo sangre fetal."
+        },
+        {
+          "id": "e2e6db7a-3ac0-4c9f-bf01-f4423f11d485",
+          "text": "Espacios lacunares conteniendo mesénquima embrionaria y capilares maternos."
+        },
+        {
+          "id": "17e0600a-3a80-4c5e-afd8-ee775bc23e05",
+          "text": "Vellosidades formadas por un eje sincitiotrofoblasto rodeado por una capa citotrofoblasto."
+        },
+        {
+          "id": "870174ea-6df9-4693-a087-f4dcfc36019f",
+          "text": "Vellosidades tapizadas por un citotrofoblasto y un eje de mesénquima avascular."
+        }
+      ]
+    },
+    {
+      "id": "5643905f-b9ef-485b-8e1b-9a15462d7cfd",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "A un hombre sano se le administraron andrógenos en dosis suprafisiológicas. Marque la opción correcta:",
+      "options": [
+        {
+          "id": "a381d378-4099-487a-ac35-e861c4552dc5",
+          "text": "La concentración de testosterona en los túbulos seminíferos estará disminuída.",
+          "correct": true
+        },
+        {
+          "id": "b5033eff-918b-46da-b83f-414083033534",
+          "text": "La espermatogénesis estará incrementada."
+        },
+        {
+          "id": "b2f67220-7ba7-49ba-9f4a-7477713ab628",
+          "text": "La liberación de hormona liberadora de gonadotrofina (GnRH) permanecerá incambiada."
+        },
+        {
+          "id": "8faf24a1-90ab-4f13-9503-cee51a16b081",
+          "text": "La secreción de hormona luteinizante (LH) estará aumentada."
+        }
+      ]
+    },
+    {
+      "id": "ab186985-d687-4f54-afa2-04a9be5d5460",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Con respecto al cuello uterino, indique cuál opción es correcta:",
+      "options": [
+        {
+          "id": "2985753e-0051-4a2e-8f8f-37a45e65ad29",
+          "text": "Su túnica muscular presenta mayor cantidad de tejido conjuntivo que en el cuerpo uterino.",
+          "correct": true
+        },
+        {
+          "id": "a426ccfd-24dd-4f7b-9fdf-9eb9245be4d3",
+          "text": "El epitelio de revestimiento del endocérvix es de tipo estratificado plano queratinizado."
+        },
+        {
+          "id": "d880304b-fcfd-48dd-80cf-ba56adc7f535",
+          "text": "El espesor de la mucosa es menor en la fase secretoria que durante la etapa menstrual del ciclo."
+        },
+        {
+          "id": "f8699d1a-fed3-4dc9-be46-475196b1a00b",
+          "text": "La mucosa carece las glándulas."
+        },
+        {
+          "id": "64e08345-8b78-4230-bbd9-450aaebde38d",
+          "text": "La transición entre el epitelio de revestimiento del endocérvix y el del exocérvix es gradual."
+        }
+      ]
+    },
+    {
+      "id": "24e0be09-78f4-42c1-9e6b-31b39bef48f5",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "De acuerdo con el modelo de cuatro fases de la respuesta sexual humano señale la opción correcta:",
+      "options": [
+        {
+          "id": "d9780ff6-6854-42d3-93e1-7617764e0165",
+          "text": "Las mujeres presentan la capacidad de ser multiorgánicas.",
+          "correct": true
+        },
+        {
+          "id": "b1452863-d57f-4db5-a050-1b23556c73ce",
+          "text": "El período refractario es de duración similar en mujeres y hombres."
+        },
+        {
+          "id": "57e8785f-ec5d-4aaf-906b-22aba1c76c29",
+          "text": "En la fase de excitación sexual, se observa una disminución de la frecuencia cardíaca y de la temperatura corporal."
+        },
+        {
+          "id": "d6608270-d42e-46fa-93e0-e5fe7629b926",
+          "text": "La fase de deseo sexual es desencadenada únicamente por estimulación mecánica de los genitales externos."
+        }
+      ]
+    },
+    {
+      "id": "f85cf639-2b28-49fc-b261-3672ad09dbab",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "El ácido retinoico es un potente morfógeno cuya síntesis está altamente regulada. Indique cuál de estos factores NO regula directamente el nivel de ácido retinoico:",
+      "options": [
+        {
+          "id": "518a2024-65cb-47d9-a980-14a14b1a33d3",
+          "text": "Proteína HOX.",
+          "correct": true
+        },
+        {
+          "id": "63f17f02-bf5e-4cba-9317-20156dd2150d",
+          "text": "Proteína unión al retinol."
+        },
+        {
+          "id": "8beac355-858c-4e7d-8fd2-32461d874fc4",
+          "text": "Retinol deshidrogenasa."
+        },
+        {
+          "id": "30de2d6f-1de2-45c8-a316-28d0cc23312e",
+          "text": "Transporte de retinol."
+        },
+        {
+          "id": "1b882591-260a-44d7-bbc3-d37e60e37c17",
+          "text": "Vitamina A."
+        }
+      ]
+    },
+    {
+      "id": "5bd75298-cdbe-4447-ac34-ceb7c949b6d9",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "En relación a la gonadotrofina coriónica humana, marque la opción correcta:",
+      "options": [
+        {
+          "id": "f816e55b-83ec-4d7e-b7fe-256fd7c16b1e",
+          "text": "Su síntesis comienza antes de la semana 4 de gestación.",
+          "correct": true
+        },
+        {
+          "id": "0c996455-361b-4f14-b0a6-b334dae960d0",
+          "text": "Aumenta la utilización de glucosa por el tejido materno."
+        },
+        {
+          "id": "7218c169-bb2e-4f96-873b-4e1041776fa7",
+          "text": "Presenta un pico máximo de síntesis al final del embarazo."
+        },
+        {
+          "id": "9d819a79-f66f-4914-8563-238bf2aeea4d",
+          "text": "Promueve la luteólisis."
+        },
+        {
+          "id": "77a716ec-207a-4266-927f-55cb87f19f75",
+          "text": "Su estructura es similar a la hormona de crecimiento hipofisaria."
+        }
+      ]
+    },
+    {
+      "id": "f3e69854-92d1-4b2e-8824-8d56a1d9df82",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "En relación al cotransportador Na+/K+/2Cl- ubicado en el segmento grueso ascendente del Asa de Henle, es correcto que la actividad de dicho transportador se estimulará ante las siguientes situaciones:",
+      "options": [
+        {
+          "id": "82d04ba0-bacf-4c7c-b407-cc93ca812d53",
+          "text": "Aumento de los niveles plasmáticos de ADH.",
+          "correct": true
+        },
+        {
+          "id": "de809ac7-983b-44c1-b3e9-d7dd2a98f917",
+          "text": "Administración de ouabaína (inhibidor de la bomba de Na+/K+ ATPasa)."
+        },
+        {
+          "id": "a8542f24-a324-4714-86d0-6bfddd0c1882",
+          "text": "Administración de un diurético de asa."
+        },
+        {
+          "id": "534ea2d0-2685-4c0b-b0b0-d1c9d74d081f",
+          "text": "Disminución de la carga (cantidad) tubular de Na+."
+        }
+      ]
+    },
+    {
+      "id": "0f9a5eff-f54a-48bc-a0e3-7abcda7227d3",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "En un paciente con déficit de vitamina D en la dieta, la calcemia se puede mantener en niveles normales debido a (señale la opción correcta):",
+      "options": [
+        {
+          "id": "69bb23ef-cae1-4349-a11c-ae62466f9a3e",
+          "text": "Un aumento de los niveles circulantes de PTH.",
+          "correct": true
+        },
+        {
+          "id": "6d879481-6eec-4f8c-bdd0-779a0fc36847",
+          "text": "Aumentando la excreción renal de calcio."
+        },
+        {
+          "id": "34d4e22d-62ab-4219-b189-9cb3db6594b0",
+          "text": "Un aumento de los niveles circulantes de calcitonina."
+        },
+        {
+          "id": "c3916b7e-ed41-4af7-9979-3ba3d9ac5fc9",
+          "text": "Una disminución en la resorción ósea renal de calcio."
+        }
+      ]
+    },
+    {
+      "id": "9b44c564-4e0e-4f37-a7aa-8c848c56b9c8",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Indique cuál de las siguientes estructuras adquiere su localización definitiva, en el futuro tórax del embrión, como consecuencia del plegamiento longitudinal del mismo:",
+      "options": [
+        {
+          "id": "08bfdfac-4154-479c-9ebb-f7e886537d6a",
+          "text": "El mesodermo cardiogénico.",
+          "correct": true
+        },
+        {
+          "id": "049e95f3-3818-4af3-b757-e586871e09dd",
+          "text": "La hoja somática del mesodermo lateral."
+        },
+        {
+          "id": "e96a8fd4-9297-49a1-9dde-2432a1269668",
+          "text": "La membrana cloacal."
+        },
+        {
+          "id": "9da864da-b710-4828-a321-33669998fe4e",
+          "text": "La vesícula alantoidea."
+        }
+      ]
+    },
+    {
+      "id": "8f427739-0787-49cd-8faa-8850ec711d07",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Indique cuál de las siguientes situaciones son suficientes para la determinación del sexo femenino a nivel gonadal (primaria):",
+      "options": [
+        {
+          "id": "0a0b0420-ed45-4cde-91c7-bffca347c2fe",
+          "text": "La ausencia del gen SRY.",
+          "correct": true
+        },
+        {
+          "id": "079f3309-1c5e-48ad-9d96-38bddd9b4172",
+          "text": "La ausencia de la hormona anti mulleriana."
+        },
+        {
+          "id": "025e5bfc-8535-4fb1-891b-fe8495d378ed",
+          "text": "La expresión de DAX1 a partir del cromosoma X."
+        },
+        {
+          "id": "7855e107-fe7d-4de3-9ec0-28b58f207630",
+          "text": "La expresión de SOX9 en la gónada embrionaria."
+        },
+        {
+          "id": "d3124fa5-dd5f-4c08-b2ee-bbd07db98e2d",
+          "text": "Mutaciones en el gen del receptor de andrógenos que lo inactiven."
+        }
+      ]
+    },
+    {
+      "id": "e963774b-e163-449a-9866-631b7e373f4a",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Las ramas intersegmentarias ventrales de la aorta dan origen a:",
+      "options": [
+        {
+          "id": "d0516611-49b2-4d0e-81df-6891d59eb566",
+          "text": "El tronco celíaco.",
+          "correct": true
+        },
+        {
+          "id": "da42a057-09aa-4886-8d03-3270d5e28182",
+          "text": "Las arterias ilíacas."
+        },
+        {
+          "id": "4f73512e-c6c1-4273-8f7c-d3c2b13fb65e",
+          "text": "Las arterias intercostales."
+        },
+        {
+          "id": "e8b7af5d-6e7e-48b7-910f-2a04ce4c8deb",
+          "text": "Las arterias pulmonares."
+        },
+        {
+          "id": "baec5b4b-d83d-4ce6-905f-c77e0f47653e",
+          "text": "Las arterias renales."
+        }
+      ]
+    },
+    {
+      "id": "25601c6e-3045-4d4e-9581-d3c6207b6a24",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Las siguientes opciones respecto a la próstata son correctas EXCEPTO que:",
+      "options": [
+        {
+          "id": "00eac286-8a2f-432b-8cbc-73cd8cec7d6d",
+          "text": "Posee epitelio estratificado.",
+          "correct": true
+        },
+        {
+          "id": "1c2f35d5-108c-439a-b144-c2e4f09886d6",
+          "text": "Está compuesta por glándulas tubuloalveolares."
+        },
+        {
+          "id": "b177b285-bb45-4dfe-ade0-67fca52bd492",
+          "text": "Puede presentar cuerpos amiláceos."
+        },
+        {
+          "id": "1194550a-8a25-404b-9335-fa7305e62291",
+          "text": "Sus células epiteliales producen enzimas."
+        }
+      ]
+    },
+    {
+      "id": "279639b3-d34d-40a4-9086-516e0f68113a",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Los principales amortiguadores y buffers de la sangre son:",
+      "options": [
+        {
+          "id": "b1a060a2-8e79-4de8-9454-c87da9426cc9",
+          "text": "La hemoglobina y el bicarbonato.",
+          "correct": true
+        },
+        {
+          "id": "ffef779c-3c4c-480f-a22f-c81847cf325f",
+          "text": "El bicarbonato y el amonio."
+        },
+        {
+          "id": "25dfe276-7930-4456-84e0-4489df2d0267",
+          "text": "El fosfato y el bicarbonato."
+        },
+        {
+          "id": "be3a2419-2bcd-4bff-931e-5a7d64b9fc46",
+          "text": "La albúmina y el bicarbonato."
+        },
+        {
+          "id": "975ce585-53ca-418e-a65b-8591e2e31158",
+          "text": "La hemoglobina y el fosfato."
+        }
+      ]
+    },
+    {
+      "id": "1bb17251-7491-4c97-8681-c0886a8319f4",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Para compensar una acidosis respiratoria se ponen en marcha una serie de mecanismos entre los que se mencionan (señale lo correcto):",
+      "options": [
+        {
+          "id": "7014708b-30ea-4838-9eb3-3c1ca1301b9c",
+          "text": "Aumento de la captación de glutamina por el túbulo proximal.",
+          "correct": true
+        },
+        {
+          "id": "0b1ba8b2-6f63-43e2-9bc8-ebbd36c55064",
+          "text": "Aumento de la secreción de HCO3-."
+        },
+        {
+          "id": "885a3ca0-f10b-4781-8e7b-a1006d50befd",
+          "text": "Disminución de la excreción renal de hidrogeniones."
+        },
+        {
+          "id": "477c1ad2-e3b8-48ea-ac24-1418a5abce16",
+          "text": "Hipoventilación alveolar."
+        },
+        {
+          "id": "b47379fc-d896-48af-9401-ce48ab3fed09",
+          "text": "Inhibición de la glutaminólisis a nivel del túbulo proximal."
+        }
+      ]
+    },
+    {
+      "id": "c74f1f31-e58f-4881-b3b2-915080e7aaec",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Respecto a la reabsorción de glucosa en el túbulo proximal, es correcto afirmar que:",
+      "options": [
+        {
+          "id": "79c3cacf-522f-4da0-b07e-8903702a71b4",
+          "text": "La entrada de Na+ desde la luz tubular a las células del túbulo es impulsada por un gradiente electroquímico generado por la Na+/K+ ATPasa.",
+          "correct": true
+        },
+        {
+          "id": "1dbb1bb7-ebb2-43f4-953e-ac977e5d6809",
+          "text": "El cotransportador Na+/glucosa SLGT2 presenta mayor afinidad por la glucosa que SLGT1."
+        },
+        {
+          "id": "e75d3bd2-1538-42a7-8f65-ee0fd798bb5d",
+          "text": "Es un proceso pasivo."
+        },
+        {
+          "id": "e5052335-afe5-45eb-a109-b597e4f6d73b",
+          "text": "Luego que los cotransportadores Na+/glucosa se saturan el clearance de glucosa es igual a 0 ml/min."
+        }
+      ]
+    },
+    {
+      "id": "861a00b7-834b-42ca-ad94-e6704e6680a8",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Se habla de genes maternos en desarrollo cuando:",
+      "options": [
+        {
+          "id": "86b87338-5828-442e-b268-2ac893b272f4",
+          "text": "Su ARNm, está presente en el citoplasma del ovocito no fecundado.",
+          "correct": true
+        },
+        {
+          "id": "284933bf-43d2-4114-aace-3b7893da436d",
+          "text": "No están presentes en el genoma del ovocito no fecundado."
+        },
+        {
+          "id": "8dd813d5-a338-415a-a938-bf35a54047fb",
+          "text": "Su ARNm es sintetizado en el ovocito no fecundado."
+        },
+        {
+          "id": "f0faa75e-5bad-4d82-a214-97ffb907c5a3",
+          "text": "Su proteína es sintetizada en el ovocito no fecundado."
+        },
+        {
+          "id": "c50472a4-d6ea-4c1a-9e35-24b1fe47fed9",
+          "text": "Su proteína está presente en el citoplasma del ovocito no fecundado."
+        }
+      ]
+    },
+    {
+      "id": "4848f962-6a2d-40d9-ad2b-29f025e7e9d0",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Un individuo se acerca a la consulta genética buscando saber si tiene riesgo de transmitir a sus hijos una malformación congénita que consiste en la reducción de desarrollo de los miembros superiores. Otros individuos de su familia tienen también esa alteración. ¿Cuál de los siguientes genes le sugeriría secuenciar en primer lugar para buscar mutaciones causantes de la malformación en cuestión?",
+      "options": [
+        {
+          "id": "f425b80b-5867-4eb9-ab84-337899bed00c",
+          "text": "TBX5.",
+          "correct": true
+        },
+        {
+          "id": "3c25db85-e29b-4ce5-afaa-83b4bff6fc5e",
+          "text": "DHRS."
+        },
+        {
+          "id": "4a688faf-6b7f-437f-bf7d-9f58d0bfd443",
+          "text": "FGF8."
+        },
+        {
+          "id": "a197bba6-e01d-4779-9029-16dfd7227108",
+          "text": "SHH."
+        },
+        {
+          "id": "295b4d0d-46af-4731-93e8-798c4b8210cd",
+          "text": "TBX4."
+        }
+      ]
+    },
+    {
+      "id": "2385db1f-cd8a-46f7-96cc-dfef57bdc3a9",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Un receptor transmembrana de una vía de transducción da señales puede actuar como:",
+      "options": [
+        {
+          "id": "c3837b1c-a012-408f-9d94-6c96dd4a7066",
+          "text": "Factor de competencia.",
+          "correct": true
+        },
+        {
+          "id": "27d66666-74b7-4f9e-a634-ebfa678f62a4",
+          "text": "Factor de transcripción."
+        },
+        {
+          "id": "15878e4c-d514-463a-9dae-f3c45b0c88df",
+          "text": "Inductor."
+        },
+        {
+          "id": "be951244-82e4-4ee9-ab95-3b95bd912182",
+          "text": "Morfógeno."
+        },
+        {
+          "id": "dff8f535-27a9-4df4-a831-f48f1724bd1a",
+          "text": "Remodelador de la cromatina."
+        }
+      ]
+    },
+    {
+      "id": "6357612f-7ce3-426a-83d7-512cc4d20106",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Utilizando la tecnología disponible en la actualidad, ¿cuál de estas células podría originar un organismo completo? Elija la mejor respuesta:",
+      "options": [
+        {
+          "id": "5ea11840-8440-4c9b-9561-0f05eab7dc16",
+          "text": "Todas las otras respuestas.",
+          "correct": true
+        },
+        {
+          "id": "ebcee29f-d5c2-4bdd-89ef-e0f0ed3ef86a",
+          "text": "Fibroblastos diferenciados."
+        },
+        {
+          "id": "2a1c5f1d-68cc-4afa-8125-b3d5bf9a6a4c",
+          "text": "Inducidas pluripotentes."
+        },
+        {
+          "id": "b4cb4cf1-799f-4c95-b57e-4bb19482fe0e",
+          "text": "Macizo celular interno."
+        },
+        {
+          "id": "425897f4-a8b6-41f2-a841-54e89645b5e8",
+          "text": "Progenitoras neuronales adultos."
+        }
+      ]
+    },
+    {
+      "id": "09b7d5c6-3f60-45eb-8a61-ed17501c493d",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "¿Cuál de las presiones de la ecuación de Starling es la que más favorece la filtración en el capilar glomerular renal? Marque la opción correcta:",
+      "options": [
+        {
+          "id": "bbddf55a-45fc-4308-9d47-fd2aa185bb13",
+          "text": "Hidrostática en el capilar glomerular.",
+          "correct": true
+        },
+        {
+          "id": "09e62562-7a7d-4c51-8857-e6e52df0d780",
+          "text": "Hidrostática en la cápsula de Bowman."
+        },
+        {
+          "id": "ef227095-0110-4c05-85c4-5511fd2c88e8",
+          "text": "Oncótica en el capilar glomerular."
+        },
+        {
+          "id": "8554c982-3187-4705-9155-edd4151a78db",
+          "text": "Oncótica en la cápsula de Bowman."
+        },
+        {
+          "id": "b848b652-4485-4461-a82c-9f5d8bf31c17",
+          "text": "Osmótica en el capilar glomerular."
+        }
+      ]
+    },
+    {
+      "id": "3f1b3100-3e32-42c7-b84b-e180d977589f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "¿Cuál de las siguientes condiciones estimula la secreción de aldosterona?",
+      "options": [
+        {
+          "id": "8957d079-74f9-43e7-8b1a-6c850dcfaf1d",
+          "text": "Disminución de la carga tubular renal de Na+.",
+          "correct": true
+        },
+        {
+          "id": "64f4ead3-556e-494b-bf24-6e7fac88b808",
+          "text": "Aumento de la osmolaridad del plasma."
+        },
+        {
+          "id": "cb2631e9-afcf-44a2-8b0b-71139efcc08d",
+          "text": "Aumento de la presión de perfusión renal."
+        },
+        {
+          "id": "8ed87d5d-88f1-4511-ab81-ae924db7775c",
+          "text": "Inhibición de la secreción de renina."
+        }
+      ]
+    },
+    {
+      "id": "b0ef5026-8f87-40ad-bd6d-8531f52d141b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "¿Cuál de las siguientes células no presentan inactivación del cromosoma X en humanos?",
+      "options": [
+        {
+          "id": "dd007bd8-1c04-4ade-a4b5-f9fcfe22e6d7",
+          "text": "Somáticas masculinas.",
+          "correct": true
+        },
+        {
+          "id": "1463bc66-9757-4a68-b853-cd5497d46a22",
+          "text": "Epiblasto tardío.."
+        },
+        {
+          "id": "8c97a341-7872-48fc-980b-16762058d43f",
+          "text": "Espermatozoides."
+        },
+        {
+          "id": "aa0293aa-f5d2-40ab-ae3e-e03a71815baa",
+          "text": "Extraembrionarias."
+        },
+        {
+          "id": "950734ff-bdb2-4072-9ed0-14087d6c6449",
+          "text": "Óvulos."
+        }
+      ]
+    },
+    {
+      "id": "0e7c921f-3186-4022-8384-a4c75b891577",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "¿Cuál de las siguientes es una adaptación al embarazo?",
+      "options": [
+        {
+          "id": "8524da9e-e0e4-4cd2-ac08-0d3d62c105a6",
+          "text": "Disminución de la osmolalidad plasmática.",
+          "correct": true
+        },
+        {
+          "id": "0e200fed-c486-4db5-91c3-50cef7ab39db",
+          "text": "Aumento de la presión arterial."
+        },
+        {
+          "id": "76fb9b8a-f7fe-4bbd-8f37-aa74e6ce87ae",
+          "text": "Aumento del hematocrito."
+        },
+        {
+          "id": "1ac9a1a2-d1ba-49cd-a9ba-09d44147a5d1",
+          "text": "Disminución del PH plasmático."
+        },
+        {
+          "id": "1a8bdba6-2c9c-48d4-a562-0fea4d004324",
+          "text": "Disminución del volumen corriente respiratorio."
+        }
+      ]
+    },
+    {
+      "id": "78cb9d5f-f7f2-4b1b-8226-5fd514098e65",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "¿Cuál de las siguientes opciones produce aumento de la concentración plasmática de prolactina en una madre durante la lactancia? Marque la opción correcta:",
+      "options": [
+        {
+          "id": "2129ad03-3103-44e3-bfa5-9a01336ae5d6",
+          "text": "Que el lactante succione el pezón materno.",
+          "correct": true
+        },
+        {
+          "id": "80b64fae-2e67-4a4b-adee-3936a4d96a23",
+          "text": "Aumento de la secreción de dopamina por el hipotálamo."
+        },
+        {
+          "id": "c1d2d842-6147-4ff7-a712-6c4c05e5bb47",
+          "text": "Disminución de la secreción de TRH por el hipotálamo."
+        },
+        {
+          "id": "488601bb-db3f-44a8-b0c6-cdd2c7f9e283",
+          "text": "Oír el llanto del lactante."
+        }
+      ]
+    },
+    {
+      "id": "dd61c032-1c41-4bd3-a631-22f8356938c8",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "¿Cuál de los siguientes eventos es parte del mecanismo de silenciamiento génico que mantiene a las células diferenciadas?",
+      "options": [
+        {
+          "id": "78090144-ebee-4533-9ce5-d45f1b7f03bd",
+          "text": "Modificación de histonas.",
+          "correct": true
+        },
+        {
+          "id": "2df0c928-0117-4280-bb57-2712e901cabd",
+          "text": "Degradación de las DNMTs."
+        },
+        {
+          "id": "d1db3f9a-ca92-4a70-8c96-1e68d5031319",
+          "text": "Exportación del ARN."
+        },
+        {
+          "id": "14b4bd13-3470-498b-a9c3-2bc8bbb39411",
+          "text": "Metilación de los ARNribosomales."
+        },
+        {
+          "id": "2320747a-30f8-4881-85ff-301c74c4bc24",
+          "text": "Splicing alternativo."
+        }
+      ]
+    },
+    {
+      "id": "b0afd5f4-f3d4-41c9-8186-e76a5740d000",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "¿Cuál de los siguientes eventos ocurre en la espermiogénesis?",
+      "options": [
+        {
+          "id": "a98adefb-f0df-42d0-ad40-50b3a061ee3c",
+          "text": "La remodelación y diferenciación celular de la espermátide.",
+          "correct": true
+        },
+        {
+          "id": "d9f7327e-c7f7-45f8-9959-7a260ad191b4",
+          "text": "La división de la espermatogonia es espermátides."
+        },
+        {
+          "id": "d4bc651a-e858-487f-bd2d-5a0ad357cef2",
+          "text": "La formación de los espermatocitos primarios."
+        },
+        {
+          "id": "1a535cbb-96cf-42d5-8fd9-25f6f0fba996",
+          "text": "La liberación de espermatozoide desde la célula de Sertoli."
+        }
+      ]
+    },
+    {
       "id": "2720fadd-15da-44a5-b362-104d18771f51",
       "evaluation": "parcial_2",
       "source": "partial",
@@ -5287,68 +6903,6 @@
       ]
     },
     {
-      "id": "e65646e9-35ed-4f17-b5d2-735e23177c91",
-      "evaluation": "parcial_2_tp",
-      "source": "partial",
-      "asked_at": "2021-07-01",
-      "text": "La siguiente imagen fue obtenida de un preparado de útero humano. De acuerdo a las características estructurales que se observan, indique la opción correcta:",
-      "image": "e65646e9-35ed-4f17-b5d2-735e23177c91.webp",
-      "options": [
-        {
-          "id": "2f936cfd-5a16-4963-a319-ddc2327232e6",
-          "text": "Su epitelio glandular está proliferando activamente.",
-          "correct": true
-        },
-        {
-          "id": "fdc8d736-8f10-47e5-9b9d-631d7d11f9b7",
-          "text": "Está siendo estimulado principalmente por la progesterona."
-        },
-        {
-          "id": "f54e4d7c-465a-4486-b0d9-b605e4414910",
-          "text": "La ausencia de epitelio superficial indica que está en fase menstrual."
-        },
-        {
-          "id": "4d4e38e7-6971-49ab-aecb-76395b170552",
-          "text": "Solamente observamos el estrato basal."
-        },
-        {
-          "id": "44b54efa-b2e4-4a59-a2dc-b28003312dad",
-          "text": "Sus glándulas se encuentran dilatadas por la acumulación de secreción."
-        }
-      ]
-    },
-    {
-      "id": "b73e5e04-5a42-43c7-9927-dbe126c4e014",
-      "evaluation": "parcial_2_tp",
-      "source": "partial",
-      "asked_at": "2021-07-01",
-      "text": "La siguiente imagen se obtuvo a mayor aumento de un preparado de testículo (20X). Con respecto a las células señaladas, corresponden a (indique la opción correcta):",
-      "image": "b73e5e04-5a42-43c7-9927-dbe126c4e014.webp",
-      "options": [
-        {
-          "id": "976a2c05-472f-4cae-9f45-1729c4900ccc",
-          "text": "Espermatidas redondas.",
-          "correct": true
-        },
-        {
-          "id": "4cfe0479-e6d6-40c9-9635-459de4fb3059",
-          "text": "Células de Sértoli."
-        },
-        {
-          "id": "99148b87-fd3b-4bb9-910a-65f9c29f0b1a",
-          "text": "Espermatocitos en leptoteno."
-        },
-        {
-          "id": "dfa8b8d0-683f-48ea-bc36-0bc43a97cc55",
-          "text": "Espermatocitos en paquiteno."
-        },
-        {
-          "id": "488b6628-fdff-4d98-8fce-39f016ef28a4",
-          "text": "Espermatogonias."
-        }
-      ]
-    },
-    {
       "id": "8e5364b5-b4b7-46e0-9099-0e30557c1702",
       "evaluation": "parcial_2_tp",
       "source": "partial",
@@ -5527,6 +7081,68 @@
         {
           "id": "f2d8679f-5a73-4b27-b6fd-a3fde111cd81",
           "text": "Forma parte del aparato yuxtaglomerular."
+        }
+      ]
+    },
+    {
+      "id": "e65646e9-35ed-4f17-b5d2-735e23177c91",
+      "evaluation": "parcial_2_tp",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "La siguiente imagen fue obtenida de un preparado de útero humano. De acuerdo a las características estructurales que se observan, indique la opción correcta:",
+      "image": "e65646e9-35ed-4f17-b5d2-735e23177c91.webp",
+      "options": [
+        {
+          "id": "2f936cfd-5a16-4963-a319-ddc2327232e6",
+          "text": "Su epitelio glandular está proliferando activamente.",
+          "correct": true
+        },
+        {
+          "id": "fdc8d736-8f10-47e5-9b9d-631d7d11f9b7",
+          "text": "Está siendo estimulado principalmente por la progesterona."
+        },
+        {
+          "id": "f54e4d7c-465a-4486-b0d9-b605e4414910",
+          "text": "La ausencia de epitelio superficial indica que está en fase menstrual."
+        },
+        {
+          "id": "4d4e38e7-6971-49ab-aecb-76395b170552",
+          "text": "Solamente observamos el estrato basal."
+        },
+        {
+          "id": "44b54efa-b2e4-4a59-a2dc-b28003312dad",
+          "text": "Sus glándulas se encuentran dilatadas por la acumulación de secreción."
+        }
+      ]
+    },
+    {
+      "id": "b73e5e04-5a42-43c7-9927-dbe126c4e014",
+      "evaluation": "parcial_2_tp",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "La siguiente imagen se obtuvo a mayor aumento de un preparado de testículo (20X). Con respecto a las células señaladas, corresponden a (indique la opción correcta):",
+      "image": "b73e5e04-5a42-43c7-9927-dbe126c4e014.webp",
+      "options": [
+        {
+          "id": "976a2c05-472f-4cae-9f45-1729c4900ccc",
+          "text": "Espermatidas redondas.",
+          "correct": true
+        },
+        {
+          "id": "4cfe0479-e6d6-40c9-9635-459de4fb3059",
+          "text": "Células de Sértoli."
+        },
+        {
+          "id": "99148b87-fd3b-4bb9-910a-65f9c29f0b1a",
+          "text": "Espermatocitos en leptoteno."
+        },
+        {
+          "id": "dfa8b8d0-683f-48ea-bc36-0bc43a97cc55",
+          "text": "Espermatocitos en paquiteno."
+        },
+        {
+          "id": "488b6628-fdff-4d98-8fce-39f016ef28a4",
+          "text": "Espermatogonias."
         }
       ]
     },
