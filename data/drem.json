@@ -4221,6 +4221,37 @@
       ]
     },
     {
+      "id": "ed1f680d-c595-4f65-af90-64038ca30bdd",
+      "evaluation": "parcial_1",
+      "source": "exam",
+      "asked_at": "2021-07-22",
+      "text": "La fotomicrografía adjunta muestra un sector de una glándula del fundus teñida con hematoxilina-eosina. Indique un aspecto ultraestructural distintivo que tendrían las células eosinófilas que se observan en la misma.",
+      "image": "ed1f680d-c595-4f65-af90-64038ca30bdd.webp",
+      "options": [
+        {
+          "id": "6eeec0ab-3c97-4611-bf7e-c658a0956f61",
+          "text": "Presentan numerosas mitocondrias.",
+          "correct": true
+        },
+        {
+          "id": "68737c89-b067-4717-8e4a-0046cb7c91f6",
+          "text": "Presentan abundantes gránulos de secreción."
+        },
+        {
+          "id": "98292bfd-7102-441d-b25b-a836547f6904",
+          "text": "Presentan abundantes lisosomas."
+        },
+        {
+          "id": "003b9f72-f870-4484-aa5a-9ee05dd20aef",
+          "text": "Presentan abundantes peroxisomas."
+        },
+        {
+          "id": "0632c8bc-4a02-4120-aca6-b67740bcf8a0",
+          "text": "Presentan numerosas vesículas secretorias."
+        }
+      ]
+    },
+    {
       "id": "e37b6f0b-d610-4f69-ab70-91e15217bc53",
       "evaluation": "parcial_1_tp",
       "source": "partial",
@@ -7767,6 +7798,95 @@
         {
           "id": "e4ac6d2e-2b7a-4b8f-95b0-eb73898cbe64",
           "text": "Ausencia de placas o nodos sincitiales en las vellosidades."
+        }
+      ]
+    },
+    {
+      "id": "697f3c5e-ba0e-4ccf-bc8c-f045b675a7d7",
+      "evaluation": "parcial_2",
+      "source": "exam",
+      "asked_at": "2021-07-22",
+      "text": "Con respecto a las estructuras marcadas con la flecha negra (indique lo correcto):",
+      "image": "697f3c5e-ba0e-4ccf-bc8c-f045b675a7d7.webp",
+      "options": [
+        {
+          "id": "88d66516-eefb-4c94-a2b1-718d601b6f79",
+          "text": "Poseen un citoesqueleto de actina.",
+          "correct": true
+        },
+        {
+          "id": "d606cd96-a7b7-4009-afa1-741f3385e938",
+          "text": "Conforman una chapa estriada."
+        },
+        {
+          "id": "43d3a71e-655b-4ae3-949f-ec7823c5b364",
+          "text": "Representan espermatozoides adheridos a la luz del órgano."
+        },
+        {
+          "id": "d2d28c17-a19f-4b92-a733-c2205a3665c4",
+          "text": "Representan prolongaciones con un eje de microtúbulos."
+        },
+        {
+          "id": "48945b7b-2b30-4059-b205-0e976a25c576",
+          "text": "Se denominan cilios."
+        }
+      ]
+    },
+    {
+      "id": "541498a0-cac3-41e2-8ca0-3cfb83974be7",
+      "evaluation": "parcial_2",
+      "source": "exam",
+      "asked_at": "2021-07-22",
+      "text": "Dadas las estructuras distintivas que se observan en el corte del embrión humano (Carnagie estadio 17), indique la altura céfalo-caudal al cual tuvo que ser realizado:",
+      "image": "541498a0-cac3-41e2-8ca0-3cfb83974be7.webp",
+      "options": [
+        {
+          "id": "66ecb5db-1974-4783-9a5e-c88f0ab75724",
+          "text": "3.",
+          "correct": true
+        },
+        {
+          "id": "aad950b3-0abe-4a8f-a0bc-fa2093875a4a",
+          "text": "1."
+        },
+        {
+          "id": "02681940-c590-4d4c-a577-acdec98e6f50",
+          "text": "2."
+        },
+        {
+          "id": "8f196cc8-5e08-4cb1-b2e6-a7b2d707e409",
+          "text": "4."
+        }
+      ]
+    },
+    {
+      "id": "25e0b77d-1797-4273-992a-460b551789d8",
+      "evaluation": "parcial_2",
+      "source": "exam",
+      "asked_at": "2021-07-22",
+      "text": "La siguiente fotomicrografia fue obtenida de un preparado histológico observado a X10. Indique el sector donde se localizarían células mesangiales:",
+      "image": "25e0b77d-1797-4273-992a-460b551789d8.webp",
+      "options": [
+        {
+          "id": "4a654fd6-d4d3-4928-a708-69bbe8f70752",
+          "text": "A.",
+          "correct": true
+        },
+        {
+          "id": "19deda3d-cd68-4fdb-ace6-4f13b4906891",
+          "text": "B."
+        },
+        {
+          "id": "4d4fa74f-1ec2-4b7d-b14f-54d19b413dbb",
+          "text": "C."
+        },
+        {
+          "id": "d2f5b6db-4902-4df6-bbb7-83ed3c29f395",
+          "text": "D."
+        },
+        {
+          "id": "3693b7a4-4343-4aad-b683-191f5b782c73",
+          "text": "E."
         }
       ]
     },
