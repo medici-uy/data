@@ -5285,12 +5285,345 @@
           "text": "Ausencia de placas o nodos sincitiales en las vellosidades."
         }
       ]
+    },
+    {
+      "id": "e65646e9-35ed-4f17-b5d2-735e23177c91",
+      "evaluation": "parcial_2_tp",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "La siguiente imagen fue obtenida de un preparado de útero humano. De acuerdo a las características estructurales que se observan, indique la opción correcta:",
+      "image": "e65646e9-35ed-4f17-b5d2-735e23177c91.webp",
+      "options": [
+        {
+          "id": "2f936cfd-5a16-4963-a319-ddc2327232e6",
+          "text": "Su epitelio glandular está proliferando activamente.",
+          "correct": true
+        },
+        {
+          "id": "fdc8d736-8f10-47e5-9b9d-631d7d11f9b7",
+          "text": "Está siendo estimulado principalmente por la progesterona."
+        },
+        {
+          "id": "f54e4d7c-465a-4486-b0d9-b605e4414910",
+          "text": "La ausencia de epitelio superficial indica que está en fase menstrual."
+        },
+        {
+          "id": "4d4e38e7-6971-49ab-aecb-76395b170552",
+          "text": "Solamente observamos el estrato basal."
+        },
+        {
+          "id": "44b54efa-b2e4-4a59-a2dc-b28003312dad",
+          "text": "Sus glándulas se encuentran dilatadas por la acumulación de secreción."
+        }
+      ]
+    },
+    {
+      "id": "b73e5e04-5a42-43c7-9927-dbe126c4e014",
+      "evaluation": "parcial_2_tp",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "La siguiente imagen se obtuvo a mayor aumento de un preparado de testículo (20X). Con respecto a las células señaladas, corresponden a (indique la opción correcta):",
+      "image": "b73e5e04-5a42-43c7-9927-dbe126c4e014.webp",
+      "options": [
+        {
+          "id": "976a2c05-472f-4cae-9f45-1729c4900ccc",
+          "text": "Espermatidas redondas.",
+          "correct": true
+        },
+        {
+          "id": "4cfe0479-e6d6-40c9-9635-459de4fb3059",
+          "text": "Células de Sértoli."
+        },
+        {
+          "id": "99148b87-fd3b-4bb9-910a-65f9c29f0b1a",
+          "text": "Espermatocitos en leptoteno."
+        },
+        {
+          "id": "dfa8b8d0-683f-48ea-bc36-0bc43a97cc55",
+          "text": "Espermatocitos en paquiteno."
+        },
+        {
+          "id": "488b6628-fdff-4d98-8fce-39f016ef28a4",
+          "text": "Espermatogonias."
+        }
+      ]
+    },
+    {
+      "id": "8e5364b5-b4b7-46e0-9099-0e30557c1702",
+      "evaluation": "parcial_2_tp",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "De acuerdo a las características estructurales que se observan en la siguiente imagen obtenida a bajo aumento, podemos decir que el órgano corresponde a (indique la opción correcta):",
+      "image": "8e5364b5-b4b7-46e0-9099-0e30557c1702.webp",
+      "options": [
+        {
+          "id": "0cbcf00e-5f58-4dc3-82bd-6681bbb8385b",
+          "text": "Cuello uterino.",
+          "correct": true
+        },
+        {
+          "id": "aebb3b9c-e93c-4462-a03f-fa66b40c6504",
+          "text": "Próstata."
+        },
+        {
+          "id": "b428935e-0df0-4cb5-a8bb-80df9b77800d",
+          "text": "Vagina."
+        },
+        {
+          "id": "ca4b3a35-1d11-4715-908d-fe2c26be5e53",
+          "text": "Vejiga."
+        },
+        {
+          "id": "f745f67e-617c-45ab-92b4-d4764fa473d5",
+          "text": "Útero."
+        }
+      ]
+    },
+    {
+      "id": "8c62de25-896f-45ea-a9a4-c62468276c80",
+      "evaluation": "parcial_2_tp",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "El gen que codifica para la proteína TBX5 posee 9 exones. Para investigar qué regiones reguladoras del gen son responsables de la expresión en la proteína TBX5 se hicieron ensayos de gen reportero. Se construyeron dos reporteros, uno con la región indicada como 1 y otro con la región indicada como 2. Las fotos de los embriones con los transgenes reporteros muestran la actividad del gen reportero 1 (1) y 2 (2). Para comprar se muestra una hibridación in situ con una sonda para TBX5 (\"in situ\"), donde se indica la marcación en el corazón (C) y el primordio de la extremidad anterior (E). Para responder considere que la marcación en 1 y 2 son idénticas. ¿Qué afirmación es INCORRECTA acerca de las secuencias potenciadoras que permiten la expresión del gen TBX5 en la extremidad anterior del ratón normal?",
+      "image": "8c62de25-896f-45ea-a9a4-c62468276c80.webp",
+      "options": [
+        {
+          "id": "897e5c7e-6f57-48cf-80d8-df7c1c6626f5",
+          "text": "Puede estimular la transcripción sin necesidad de un promotor.",
+          "correct": true
+        },
+        {
+          "id": "22aa1abc-a7b7-4003-92cd-afc6d5c75b63",
+          "text": "Están presentes en todas las células del organismo."
+        },
+        {
+          "id": "dccdda11-7f4c-432a-8952-0cf6902cef32",
+          "text": "Se encuentra corriente abajo (3') del inicio de la transcripción del gen."
+        },
+        {
+          "id": "f03fd142-687b-4d53-9555-ff6158fe31ae",
+          "text": "Se encuentra en un intrón."
+        },
+        {
+          "id": "456ec1df-366e-4811-b408-de63b3c3aa53",
+          "text": "Su función activadora depende de su interacción con factores de transcripción."
+        }
+      ]
+    },
+    {
+      "id": "5a59525b-798d-4f89-b020-332469f7772c",
+      "evaluation": "parcial_2_tp",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "El gen que codifica para la proteína TBX5 posee 9 exones. Para investigar qué regiones reguladoras del gen son responsables de la expresión en la proteína TBX5 se hicieron ensayos de gen reportero. Se construyeron dos reporteros, uno con la región indicada como 1 y otro con la región indicada como 2. Las fotos de los embriones con los transgenes reporteros muestran la actividad del gen reportero 1 (1) y 2 (2). Para comprar se muestra una hibridación in situ con una sonda para TBX5 (\"in situ\"), donde se indica la marcación en el corazón (C) y el primordio de la extremidad anterior (E). Para responder considere que la marcación en 1 y 2 son idénticas. ¿Qué afirmación es INCORRECTA respecto a las secuencias potenciadoras que permiten la expresión del gen TBX5 en el corazón del ratón normal?",
+      "image": "5a59525b-798d-4f89-b020-332469f7772c.webp",
+      "options": [
+        {
+          "id": "bb7a08f1-2063-4da9-b055-3885d61f07ef",
+          "text": "Se ubican fuera de la secuencia del gen.",
+          "correct": true
+        },
+        {
+          "id": "e3a1afe8-fb70-4a1f-9f0d-c90b27834fa0",
+          "text": "Existen en todas las células."
+        },
+        {
+          "id": "fd3f42c9-ae29-416b-ad2a-5efe5794d3ac",
+          "text": "No se ubican en la región 1."
+        },
+        {
+          "id": "44b1ab52-8d67-4c44-803d-941f18f0b5e4",
+          "text": "No se ubican en región 2."
+        },
+        {
+          "id": "6e8523ea-d36b-4ca3-9dee-d33efbc98b9f",
+          "text": "Son reconocidas por factores de transcripción que se expresan en el corazón y no se expresan en los primordios de las extremidades anteriores."
+        }
+      ]
+    },
+    {
+      "id": "fcc621e6-0edd-4561-a22c-d3ec6cd906cb",
+      "evaluation": "parcial_2_tp",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "Es correcto afirmar que el sector encerrado por el circulo rojo en la siguiente imagen:",
+      "image": "fcc621e6-0edd-4561-a22c-d3ec6cd906cb.webp",
+      "options": [
+        {
+          "id": "15768ae5-fcfd-477f-9683-f34b3e9518dd",
+          "text": "Forma parte de la rama ascendente del tubo distal.",
+          "correct": true
+        },
+        {
+          "id": "686a7a27-0c70-4fb8-83fb-1adfee18abb6",
+          "text": "Forma parte del túbulo proximal."
+        },
+        {
+          "id": "790bd30c-1848-41b3-84c5-5e273ca9007a",
+          "text": "Hace contacto con la arteriola eferente."
+        },
+        {
+          "id": "2dcff3b0-b0db-483b-9be7-d06acf8fb4d7",
+          "text": "Recibe el ultrafiltrado de la cápsula de Bowman."
+        }
+      ]
+    },
+    {
+      "id": "c2853ab4-442f-4418-be97-ca9e8476770f",
+      "evaluation": "parcial_2_tp",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "La figura muestra un experimento de hibridación in situ utilizando una sonda para determinar la expresión de TBX5 en embriones de pollo y ratón en los estadios el desarrollo indicados. Las flechas coloreadas indican las tres regiones principalmente marcadas. En virtud de sus conocimientos generales y el resultado mostrado, conteste cuál de las siguientes afirmaciones es INCORRECTA:",
+      "image": "c2853ab4-442f-4418-be97-ca9e8476770f.webp",
+      "options": [
+        {
+          "id": "39f7c5e9-8c60-4ee3-9240-70226a2efd6a",
+          "text": "La proteína TBX5 está presente en las tres regiones indicadas.",
+          "correct": true
+        },
+        {
+          "id": "b04a980a-2291-4eb7-ab92-a891c0531566",
+          "text": "El ARNm de TBX5 está ausente en las regiones no teñidas."
+        },
+        {
+          "id": "3e1a9ad3-eb85-4b97-a0b0-9cde6a8790e4",
+          "text": "La secuencia nucleotídica del gen TBX5 es similar en pollo y ratón."
+        },
+        {
+          "id": "459be8ff-44bd-4e1a-971f-0ff9a99a51a1",
+          "text": "La sonda usada es una secuencia de ADN complementaria a una región del ARNm de TBX5."
+        },
+        {
+          "id": "2526a8b6-acc0-49e7-888c-c1d8e7e79cc6",
+          "text": "TBX5 está regulado por factores de transcripción tejido específicos."
+        }
+      ]
+    },
+    {
+      "id": "c7058de2-321b-4527-b45b-7cd99facdbe9",
+      "evaluation": "parcial_2_tp",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "La imagen pertenece a la barrera de filtración glomerular. La célula marcada con A (indique lo correcto):",
+      "image": "c7058de2-321b-4527-b45b-7cd99facdbe9.webp",
+      "options": [
+        {
+          "id": "f7c293bf-4de7-4cb5-8df3-1048451cc2b5",
+          "text": "Es una célula de la capa visceral de la cápsula de Bowman.",
+          "correct": true
+        },
+        {
+          "id": "056fea30-c068-4685-bb29-37a6938419bb",
+          "text": "Es una célula de la capa parietal de la cápsula de Bowman."
+        },
+        {
+          "id": "46d01168-ffff-49e2-b3d1-d4123ee18a62",
+          "text": "Es una célula endotelial."
+        },
+        {
+          "id": "2411e91a-28fc-47a7-8784-7c206bc3a9a9",
+          "text": "Es una célula mesangial."
+        },
+        {
+          "id": "f2d8679f-5a73-4b27-b6fd-a3fde111cd81",
+          "text": "Forma parte del aparato yuxtaglomerular."
+        }
+      ]
+    },
+    {
+      "id": "57d1cda9-3445-4a7d-82c0-5cc8ee688f2f",
+      "evaluation": "parcial_2_tp",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "La siguiente imagen se obtuvo a mayor aumento de un preparado de testículo (25X). Con respecto a las células señaladas, corresponden a (indique la opción correcta):",
+      "image": "57d1cda9-3445-4a7d-82c0-5cc8ee688f2f.webp",
+      "options": [
+        {
+          "id": "6ab8ecf5-6949-413c-a321-dfe8c6ee01cc",
+          "text": "Espermatocitos I en zigoteno.",
+          "correct": true
+        },
+        {
+          "id": "8deb8649-3209-4b78-8cca-89bf15f11885",
+          "text": "Células de Sértoli."
+        },
+        {
+          "id": "3ad910c0-736c-4ac6-80fb-ef680208ebf5",
+          "text": "Espermatidas redondas."
+        },
+        {
+          "id": "5e802299-3f42-4567-9b7a-6ea0db8978c1",
+          "text": "Espermatocitos en diploteno."
+        },
+        {
+          "id": "b83ee9cf-b571-4ca1-82bb-805431d6eecf",
+          "text": "Espermatogonias."
+        }
+      ]
+    },
+    {
+      "id": "0ef39e67-8461-4cfc-8fa9-18f25c2056a5",
+      "evaluation": "parcial_2_tp",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "La siguiente sección corresponde a un embrión de mamífero. Indique el nombre de la estructura señalada:",
+      "image": "0ef39e67-8461-4cfc-8fa9-18f25c2056a5.webp",
+      "options": [
+        {
+          "id": "d355ad1d-b510-4847-8188-a6c386017e25",
+          "text": "Metanefros.",
+          "correct": true
+        },
+        {
+          "id": "44cfe102-da1a-4b41-8e42-7bbb13ea1759",
+          "text": "Esbozo pulmonar."
+        },
+        {
+          "id": "352a35de-5988-4ac8-9d3b-0beaf0099695",
+          "text": "Gónada."
+        },
+        {
+          "id": "de88b9d8-c82c-4e28-9d66-faa308fd2836",
+          "text": "Hígado."
+        },
+        {
+          "id": "b84f2478-eabc-4e6c-999e-17b9afd8cb76",
+          "text": "Mesonefros."
+        }
+      ]
+    },
+    {
+      "id": "bc73cf1e-8696-48fe-9165-2d9976a20d95",
+      "evaluation": "parcial_2_tp",
+      "source": "partial",
+      "asked_at": "2021-07-01",
+      "text": "La siguiente sección corresponde a un embrión de mamífero. Indique nombre de la estructura señalada:",
+      "image": "bc73cf1e-8696-48fe-9165-2d9976a20d95.webp",
+      "options": [
+        {
+          "id": "1753b5b2-4656-4dac-90e2-05a4fdfe4450",
+          "text": "Esbozo pulmonar.",
+          "correct": true
+        },
+        {
+          "id": "15ba657f-cf04-455e-87ab-ef1f13a22957",
+          "text": "Hígado."
+        },
+        {
+          "id": "65ee06e8-2b69-4263-8cf7-4db9847c87ee",
+          "text": "Metanefros."
+        },
+        {
+          "id": "0baad016-fe37-4b7d-bba6-75f002e0124c",
+          "text": "Páncreas."
+        }
+      ]
     }
   ],
   "evaluations": [
     {
       "key": "parcial_1",
-      "name": "1° parcial"
+      "name": "1° parcial teórico"
     },
     {
       "key": "parcial_1_tp",
@@ -5298,7 +5631,11 @@
     },
     {
       "key": "parcial_2",
-      "name": "2° parcial"
+      "name": "2° parcial teórico"
+    },
+    {
+      "key": "parcial_2_tp",
+      "name": "2° parcial teórico-práctico"
     }
   ]
 }
