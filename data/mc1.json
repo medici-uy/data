@@ -3366,6 +3366,60 @@
       ]
     },
     {
+      "id": "dd0e1920-0f68-45b5-8d27-05eccb1d972e",
+      "evaluation": "parcial_2",
+      "source": "self_assessment",
+      "text": "Estudiando el efecto del estrés sobre la presión arterial, se quiere investigar si la presión arterial sistólica en personas estresadas es mayor a 150 mm de Hg. Para ello se selecciona una muestra aleatoria de 36 varones jóvenes estresados, encontrándose una media de 154 mm de Hg y un desvío estándar muestral de 10 mm de Hg. La conclusión de este contraste de hipótesis se referirá a:",
+      "options": [
+        {
+          "id": "75344f12-9af7-4855-ab79-1632aefd1413",
+          "text": "La población de hombres jóvenes estresados.",
+          "correct": true
+        },
+        {
+          "id": "8f98622c-f5af-4f1a-8099-b10c87b68d60",
+          "text": "La muestra de hombres jóvenes estresados."
+        },
+        {
+          "id": "0a2ec989-8652-47d8-9f34-c0b8c7c28b05",
+          "text": "La población de jóvenes estresados."
+        },
+        {
+          "id": "003a0e4b-31ef-48e5-9a83-319ad1ecd79e",
+          "text": "La población en general."
+        }
+      ]
+    },
+    {
+      "id": "5c2ef91a-2a10-46de-ba1b-868656f9a136",
+      "evaluation": "parcial_2",
+      "source": "self_assessment",
+      "text": "Estudiando el efecto del estrés sobre la presión arterial, se quiere investigar si la presión arterial sistólica en personas estresadas es mayor a 150 mm de Hg. Para ello se selecciona una muestra aleatoria de 36 varones jóvenes estresados, encontrándose una media de 154 mm de Hg y un desvío estándar muestral de 10 mm de Hg. Una forma correcta de plantear la hipótesis nula para este contraste es:",
+      "options": [
+        {
+          "id": "1b7429cf-1590-4f3a-a812-795e24173d25",
+          "text": "μ ≤ 150 mm de Hg.",
+          "correct": true
+        },
+        {
+          "id": "4e0c2091-273a-4e8e-bd71-3338d5ded1d8",
+          "text": "x̄ = 150 mm de Hg."
+        },
+        {
+          "id": "fd76f0bf-44ac-4397-96ff-dc1f94260442",
+          "text": "x̄ > 150 mm de Hg."
+        },
+        {
+          "id": "73a5eef5-e9c2-494f-a5a8-f1b95b04f2b5",
+          "text": "μ = 154 mm de Hg."
+        },
+        {
+          "id": "c7f37aeb-4575-44f2-8922-478bc3b4533b",
+          "text": "μ > 150 mm de Hg."
+        }
+      ]
+    },
+    {
       "id": "12ac540a-f88a-45b0-b75a-986bf5664d52",
       "evaluation": "parcial_2",
       "source": "partial",
@@ -4022,6 +4076,776 @@
       ]
     },
     {
+      "id": "d3027db6-acac-41f0-b076-6f7892bb46e3",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-12-12",
+      "text": "En un estudio clínico para evaluar la eficacia de un nuevo medicamento en el tratamiento de la crisis de migraña (señale la correcta):",
+      "options": [
+        {
+          "id": "12d30856-6152-4109-a167-12c3f93d880a",
+          "text": "La asignación aleatoria aumenta la validez interna del estudio.",
+          "correct": true
+        },
+        {
+          "id": "604258b9-2649-46fd-bba1-4b14f68a5966",
+          "text": "El enmascaramiento reduce la validez interna del estudio."
+        },
+        {
+          "id": "c30d4490-87c7-4199-90c2-85ea635df3b2",
+          "text": "El grupo control con placebo aumenta la validez externa del estudio."
+        },
+        {
+          "id": "4845d5b7-80a9-4a9d-8c82-4b1e279aceec",
+          "text": "Unos criterios de exclusión estrictos reducen la validez interna del estudio."
+        }
+      ]
+    },
+    {
+      "id": "9a2b866f-b5fd-4ca3-bc21-f657ce7a124e",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-12-12",
+      "text": "Acerca de las revisiones sistemáticas (RS), señale la opción correcta:",
+      "options": [
+        {
+          "id": "85d92cd2-7c80-4882-9a4e-9ff7735b4020",
+          "text": "Una RS es una revisión exhaustiva y sistemática de la literatura.",
+          "correct": true
+        },
+        {
+          "id": "fb186150-bbc6-4590-a506-c4f27d78d2f3",
+          "text": "Siempre concluyen en la realización de un meta-análisis."
+        },
+        {
+          "id": "a7537095-98d9-46ac-8851-a644a15acd71",
+          "text": "Una RS no requiere del análisis crítico de las publicaciones."
+        },
+        {
+          "id": "72ec1d2b-2b77-416a-be75-f03ea9a3a121",
+          "text": "Una RS recolecta y analiza los datos provenientes de investigaciones pre-clínicas."
+        }
+      ]
+    },
+    {
+      "id": "f9765415-4a00-4286-8db2-a0d63b0c2e6a",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-12-12",
+      "text": "Con relación a las RS con meta-análisis, eñale la opción correcta:",
+      "options": [
+        {
+          "id": "bec5a81b-0a25-444b-aa98-109d6cac04a5",
+          "text": "Implica la obtención de una medida común.",
+          "correct": true
+        },
+        {
+          "id": "9a1b5eea-c542-4c9e-aa87-669b59f731f6",
+          "text": "Es posible realizarlo cuando muestra resultados homogéneos."
+        },
+        {
+          "id": "5ee317f1-a346-4dcc-8a1d-62920bc604de",
+          "text": "La medida común se obtiene de los estudios de mayor calidad."
+        },
+        {
+          "id": "3cc4d412-a4d9-4e28-881d-f6e298343cbe",
+          "text": "Solo se lleva a cabo cuando las medidas de resultado son riesgos relativos (RR)."
+        }
+      ]
+    },
+    {
+      "id": "e2647fec-9afe-4dc4-bc37-d5fa49bc902f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-12-12",
+      "text": "Con relación a las RS, señale la opción correcta:",
+      "options": [
+        {
+          "id": "60acb481-0986-4f9e-957d-0f7c2805db1d",
+          "text": "Si existe una variedad importante en cuanto a la calidad de los estudios, se realiza un análisis de sensibilidad.",
+          "correct": true
+        },
+        {
+          "id": "90c4b343-e45c-4ccf-8053-9f99ff6cab0b",
+          "text": "En general solo se incluyen estudios con grandes tamaños muestrales."
+        },
+        {
+          "id": "26a11f41-19ff-453c-becb-8863998cf77c",
+          "text": "Las revisiones Cochrane pueden ser narrativas."
+        },
+        {
+          "id": "4d269be5-e254-40b9-a573-ec4cc132d8b6",
+          "text": "Las revisiones Cochrane siempre conllevan meta-análisis."
+        }
+      ]
+    },
+    {
+      "id": "6277a233-b798-4154-8a65-a60fff2d8148",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-12-12",
+      "text": "Con respecto a la presentación de un protocolo de investigación en un comité de ética de la investigación en seres humanos, la misma debe realizarse únicamente cuando:",
+      "options": [
+        {
+          "id": "97c1110c-df6b-470c-a37e-fe24f77b53af",
+          "text": "Involucra seres humanos o sus datos personales.",
+          "correct": true
+        },
+        {
+          "id": "5d77e46a-eec5-42f6-a13f-71740d06cbbb",
+          "text": "Se tenga la intención de publicar los datos."
+        },
+        {
+          "id": "bb5830df-d34a-44b8-a000-8fe6fe1eb2d9",
+          "text": "Sea necesario solicitar consentimiento informado."
+        }
+      ]
+    },
+    {
+      "id": "ec909a60-ab4f-479f-b1df-2753ad2ad981",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-12-12",
+      "text": "Cuando se desea comparar una media de una población respecto a un valor de referencia, la elección del estadístico de prueba (Z o T) depende (marque la opción correcta):",
+      "options": [
+        {
+          "id": "71718f94-1c3d-44a2-bbad-5d902e82a926",
+          "text": "Del tamaño de la muestra y del conocimiento del desvío poblacional de la variable estudiada.",
+          "correct": true
+        },
+        {
+          "id": "bf63eb31-2697-4d64-9b17-b854cc8d7121",
+          "text": "Del tamaño de la muestra y del tipo de muestreo."
+        },
+        {
+          "id": "0508f72a-c103-4676-b92c-0de36c95c7c4",
+          "text": "Únicamente del conocimiento de la varianza de la variable en la población objetivo."
+        },
+        {
+          "id": "8a75e429-f002-412b-b5e6-b5fc1011ef1c",
+          "text": "Únicamente del tamaño de la muestra analizada."
+        }
+      ]
+    },
+    {
+      "id": "a03f7cb7-b0dc-4c34-960e-8fdda9e5cdc9",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-12-12",
+      "text": "De los estudios epidemiológicos observacionales analíticos, los que proporcionan una mejor calidad de evidencia científica son los de:",
+      "options": [
+        {
+          "id": "31a72d90-9850-47d4-a6fc-fec521283b2a",
+          "text": "Cohorte.",
+          "correct": true
+        },
+        {
+          "id": "fd7835c3-9129-4f6f-9602-8c539612b721",
+          "text": "Caso control."
+        },
+        {
+          "id": "89d533f5-bac0-40ac-a366-592940b06c77",
+          "text": "Ecológicos."
+        },
+        {
+          "id": "a9e6d316-97b9-470d-a834-7f86b7962e82",
+          "text": "Ensayos clínicos."
+        }
+      ]
+    },
+    {
+      "id": "7948dd11-1d72-4847-badb-6fb008fa5004",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-12-12",
+      "text": "Disponemos de dos tests para diagnosticar una enfermedad de pronóstico grave. La prueba A tiene una sensibilidad del 95% y una especificidad del 60% y la prueba B tiene una sensibilidad del 70% y una especificidad del 99%. Disponemos de un tratamiento eficaz pero que produce efectos adversos importantes y además tiene un coste muy elevado. ¿Qué prueba elegiríamos para hacer el diagnóstico?",
+      "options": [
+        {
+          "id": "027ffbc0-9fef-45af-8439-7313a8c96e63",
+          "text": "La prueba B porque tiene unamayor especificidad.",
+          "correct": true
+        },
+        {
+          "id": "8e64cb99-055a-45a9-92b7-fc108b583cb3",
+          "text": "La prueba A porque detectará más falsos negativos."
+        },
+        {
+          "id": "75010721-b149-4c59-9385-16b3c9ae91eb",
+          "text": "La prueba A porque tiene una sensibilidad mayor."
+        },
+        {
+          "id": "639cc5b9-9494-474f-a575-2193e5364e56",
+          "text": "La prueba B porque detectará más falsos positivos."
+        }
+      ]
+    },
+    {
+      "id": "8fcde15c-b7c3-49bf-a907-5e773ff1b608",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-12-12",
+      "text": "El Decreto 379/008 referente a la investigación con seres humanos, asume una posición con respecto al doble estándar estableciendo que los posibles beneficios, riesgos, costos y eficacia de todo procedimiento nuevo deben ser evaluados mediante comparación con los mejores procedimientos o tratamientos:",
+      "options": [
+        {
+          "id": "0c44be5a-7e27-4a9a-af01-e6f2fbedd809",
+          "text": "Probados.",
+          "correct": true
+        },
+        {
+          "id": "8aab849d-7a00-4cf3-a942-9fc0df5d5369",
+          "text": "Accesibles."
+        },
+        {
+          "id": "27a78a25-0153-4804-8fb3-4ff2df046620",
+          "text": "Disponibles."
+        }
+      ]
+    },
+    {
+      "id": "fbd925c2-cd94-404a-b572-b3b3f8500e01",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-12-12",
+      "text": "El error de tipo II (beta) corresponde a la probabilidad de (marque la opción correcta):",
+      "options": [
+        {
+          "id": "097f61c1-869d-4650-80ef-5c1f1a865f9b",
+          "text": "No rechazar Ho cuando esta es falsa.",
+          "correct": true
+        },
+        {
+          "id": "cd96f067-3615-4194-b620-2e7fd13ab4c0",
+          "text": "No rechazar Ho cuando esta es cierta."
+        },
+        {
+          "id": "f4ace884-dd57-4adc-9ecb-17565d5443d5",
+          "text": "Rechazar Ho cuando esta es cierta."
+        },
+        {
+          "id": "68284902-27f8-41cb-aea6-7af01e2acd1a",
+          "text": "Rechazar Ho cuando esta es falsa."
+        }
+      ]
+    },
+    {
+      "id": "d0145f77-c738-4f3d-a0f6-640e85268915",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-12-12",
+      "text": "El siguiente enunciado corresponde al apartado material y métodos de un estudio epidemiológico: \"en el presente estudio se incluyeron pacientes con fractura traumática de cadera que ingresaron a una Institución Mutual de Uruguay, comparándolos con pacientes de igual sexo y edad (± 5 años) que hubieran ingresado en la misma semana por una causa diferente (médica o quirúrgica). Se relevaron datos demográficos y consumo de medicamentos potencialmente involucrados en fracturas de cadera. Se consideró consumo de BZD, haberlas recibido durante cinco días previos a la fractura\". ¿A qué tipo de diseño experimental hace referencia este enunciado?",
+      "options": [
+        {
+          "id": "e1362228-15b3-4b2e-a54c-15f3365be12c",
+          "text": "Casos y controles.",
+          "correct": true
+        },
+        {
+          "id": "f161d8cf-06a5-42f9-b161-b88e175bb8d5",
+          "text": "Cohortes."
+        },
+        {
+          "id": "31c42742-87f4-4c2d-b99e-77e282b34059",
+          "text": "Ensayo clínico aleatorizado."
+        },
+        {
+          "id": "8861ce1d-527e-42e7-81a3-cc8a829e09f3",
+          "text": "Prevalencia."
+        }
+      ]
+    },
+    {
+      "id": "801f83b8-644f-4aa7-bf86-b775706a3baa",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-12-12",
+      "text": "El valor p de la prueba corresponde a la probabilidad de:",
+      "options": [
+        {
+          "id": "f1d150ca-3951-4656-91e2-758b2fc8e270",
+          "text": "Obtener un valor del estadístico igual o más extremo al calculado, bajo el supuesto de Ho cierta.",
+          "correct": true
+        },
+        {
+          "id": "782b0c5f-ea22-42f5-9268-13bec249a698",
+          "text": "Obtener un valor del estadístico igual o más extremo al calculado, bajo el supuesto de Ha cierta."
+        },
+        {
+          "id": "63ecced1-c73c-4eaf-be6e-646cb6d2d72e",
+          "text": "Obtener un valor del estadístico menor al calculado, bajo el supuesto de Ho cierta."
+        }
+      ]
+    },
+    {
+      "id": "00381320-348a-468b-b623-756b3c5965f6",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-12-12",
+      "text": "La investigación en niños tiene su justificación desde el punto de vista ético si:",
+      "options": [
+        {
+          "id": "45db0432-8ee9-4120-a7c4-5d8f924bdd6f",
+          "text": "Da respuesta a problemas propios del grupo.",
+          "correct": true
+        },
+        {
+          "id": "e0d4b062-c359-49cf-a8ab-939fe9be8f8e",
+          "text": "Es necesaria para obtener avances científicos."
+        },
+        {
+          "id": "b60c42e7-7af9-482c-a7d8-f182cc8a5db8",
+          "text": "Produce beneficios para la ciencia y sociedad."
+        }
+      ]
+    },
+    {
+      "id": "9cb618b2-024c-4d58-a6c1-303579225448",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-12-12",
+      "text": "La justificación ética del acceso a los beneficios post investigación se afirma en los principios de:",
+      "options": [
+        {
+          "id": "349e2c4f-6dc1-4966-831b-99b55f1105c2",
+          "text": "Protección y justicia.",
+          "correct": true
+        },
+        {
+          "id": "40f047e7-a1a3-4f99-a8ba-a3c677a2eb97",
+          "text": "Autonomía y no maleficencia."
+        },
+        {
+          "id": "4cc8ffe5-0cad-475b-80fb-af6fbf48a4ad",
+          "text": "Intervención y beneficencia."
+        }
+      ]
+    },
+    {
+      "id": "92f9b1ca-01ce-471b-845f-70403d7262e4",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-12-12",
+      "text": "La probabilidad de error de tipo I (alfa), denominada \"nivel de significación de la prueba\", es:",
+      "options": [
+        {
+          "id": "cd5b4e1c-cf43-4098-9904-770d05e9df07",
+          "text": "La probabilidad de rechazar la hipótesis nula siendo cierta que el investigador esté dispuesto a admitir.",
+          "correct": true
+        },
+        {
+          "id": "fbdefd30-21f6-448e-b27f-f2c161df78ef",
+          "text": "La probabilidad de no rechazar la hipótesis nula siendo cierta que el investigador puede calcular con posterioridad a la obtención de la muestra."
+        },
+        {
+          "id": "483a9c42-e342-4191-b242-0f27fba1294d",
+          "text": "La probabilidad de no rechazar la hipótesis nula siendo falsa que el investigador esté dispuesto a admitir."
+        },
+        {
+          "id": "00885fbd-25dc-4554-aea6-c79188ef77ed",
+          "text": "La probabilidad de rechazar la hipótesis nula siendo cierta que el investigador calcula una vez que obtuvo la muestra."
+        }
+      ]
+    },
+    {
+      "id": "3dbc603a-7c54-41f9-a748-5b721c5e4bd6",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-12-12",
+      "text": "Las obligaciones post-investigación por parte de investigadores y/o patrocinadores según nuestra normativa (Decreto 379/08) son:",
+      "options": [
+        {
+          "id": "10df4f56-bd35-4470-9fa0-f7b0e026da11",
+          "text": "Asegurar que recibirán los beneficios de la investigación.",
+          "correct": true
+        },
+        {
+          "id": "c6325506-2764-47f5-a270-bf6d596bd597",
+          "text": "Acuerdos realizados entre el investigador y patrocinador."
+        },
+        {
+          "id": "5b088adc-0ac6-4296-9d92-75939e2fb02b",
+          "text": "Suministradas por el Estado como derecho adquirido."
+        }
+      ]
+    },
+    {
+      "id": "a976b3c2-0e20-4919-ad66-26573779814c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-12-12",
+      "text": "Los estudios epidemiológicos que pretenden establecer una relación causal son los de:",
+      "options": [
+        {
+          "id": "24786ea0-8d6e-41c1-b6bc-50675778355e",
+          "text": "Todos los otros estudios mencionados.",
+          "correct": true
+        },
+        {
+          "id": "c05df59e-5874-4017-bbf6-ed91cf25b84d",
+          "text": "Caso control."
+        },
+        {
+          "id": "9637fc7f-cc2c-4e0d-8360-db8a8818fe33",
+          "text": "Cohorte."
+        },
+        {
+          "id": "2f1abb67-c8a1-41ec-815e-9ed39a217afe",
+          "text": "Ensayos clínicos."
+        }
+      ]
+    },
+    {
+      "id": "5cb4c3c9-c1e4-487d-a72c-22bc2ad12b2c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-12-12",
+      "text": "Se está planificando un ensayo clínico en fase III para evaluar la eficacia, en términos de erradicación microbiológica, de una nueva fluorquinolona en pacientes con infección del tracto urinario. ¿Cuál de los siguientes diseños es el más apropiado?",
+      "options": [
+        {
+          "id": "83a115cc-87b6-4d2f-9f3b-8efbaf31aa76",
+          "text": "Paralelo, aleatorizado, doble ciego, controlado con otro antibiótico activo frente a Gram negativos.",
+          "correct": true
+        },
+        {
+          "id": "4cf4b930-64e7-4e62-897a-e2edc4fb9bf5",
+          "text": "Cruzado, aleatorizado, doble ciego, controlado con otro antibiótico activo frente a Gram negativos."
+        },
+        {
+          "id": "99e31f7a-6b9b-4c3d-8060-95ab8d4c88a7",
+          "text": "Cruzado, aleatorizado, doble ciego, controlado con placebo."
+        },
+        {
+          "id": "dbfb4dfb-dae2-4dac-8618-977ab7efeca6",
+          "text": "Paralelo, aleatorizado, doble ciego, controlado con otro antibiótico activo frente a Gram negativos."
+        }
+      ]
+    },
+    {
+      "id": "fd7e3258-dc04-42fd-980e-5dc07117d4f3",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-12-12",
+      "text": "Se ha realizado un estudio epidemiológico con el objetivo de dilucidar si existe asociación entre la administración de una nueva vacuna antigripal y la aparición de síndrome de Guillain-Barré. Para ello se recogieron los datos de todos los sujetos vacunados en determinada área geográfica y mediante la conexión de estos datos con los de nuevos diagnósticos de Síndrome de Guillain-Barré registrados en los hospitales de ese mismo área, se comparó la incidencia de Síndrome Guillain-Barré en sujetos expuestos y en no expuestos a la vacuna en una ventana temporal definida. ¿A qué tipo de diseño corresponde este estudio?",
+      "options": [
+        {
+          "id": "64e8a3dd-9904-4a8d-bfeb-88c5a155be87",
+          "text": "Estudio de cohortes.",
+          "correct": true
+        },
+        {
+          "id": "33ceb761-f23c-493a-b610-24ddcdeae610",
+          "text": "Estudio de casos y controles anidado en una cohorte."
+        },
+        {
+          "id": "a685c107-0ec2-4504-b335-7e62e9ee0b3e",
+          "text": "Estudio de casos y controles de campo."
+        },
+        {
+          "id": "73d019ee-245b-4985-9dd1-a4a3e399c3d2",
+          "text": "Estudio de corte transversal."
+        }
+      ]
+    },
+    {
+      "id": "7cdb0e72-73dd-4d42-9384-b10b97a92222",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-12-12",
+      "text": "Se lleva a cabo un estudio para evaluar la relación entre el cáncer de pulmón y la exposición al sílice. Se seleccionaron 400 pacientes con diagnóstico de cáncer de pulmón del registro de tumores y se eligen 400 personas sanas de forma aleatoria de la población residente del mismo lugar. El resultado de la evaluación de esta relación es OR = 1,67; IC95% = 1,27-2,21. Es cierto:",
+      "options": [
+        {
+          "id": "9427821c-340d-4135-bf1b-96a8267499f3",
+          "text": "Se trata de un estudio de casos y controles con una asociación positiva entre la exposición al sílice y el cáncer de pulmón.",
+          "correct": true
+        },
+        {
+          "id": "d243cdd5-dfdf-4e4f-b231-c8385a44e967",
+          "text": "Con este estudio no se puede evaluar la relación entre el sílice y el cáncer de pulmón."
+        },
+        {
+          "id": "1e450ef1-a29f-4d7e-9f28-b3c8f2380188",
+          "text": "No hay relación entre la exposición al sílice y el cáncer de pulmón."
+        },
+        {
+          "id": "071ff068-9e39-4335-a779-6bb2eb75e454",
+          "text": "Se trata de un estudio experimental aleatorizado con una asociación positiva entre la exposición al sílice y el cáncer de pulmón."
+        }
+      ]
+    },
+    {
+      "id": "0d8e615f-4172-4d89-bbd6-a1457638f9fb",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-12-12",
+      "text": "Se quiere estudiar si la Vitamina D puede incrementar la incidencia del cáncer de mama. En nuestra zona disponemos de un registro poblacional de cáncer. Para conseguir nuestro objetivo se seleccionan todas las mujeres diagnosticadas de cáncer de mama del registro que disponemos y cada uno de los casos se aparea con dos controles. ¿Qué diseño de estudio se ha escogido?",
+      "options": [
+        {
+          "id": "d637338a-51fa-4025-a1f2-627fee2fb90c",
+          "text": "Estudio de casos y controles.",
+          "correct": true
+        },
+        {
+          "id": "a45105d4-98f2-4f33-ab81-88ce7cd8d454",
+          "text": "Estudio de cohortes prospectivo."
+        },
+        {
+          "id": "c35bb667-a330-4baf-949b-6dd47c1dc367",
+          "text": "Estudio de cohortes retrospectivo."
+        },
+        {
+          "id": "5c5e105f-016a-4c23-94d6-c41a89dc5ac7",
+          "text": "Estudio ecológico."
+        }
+      ]
+    },
+    {
+      "id": "ef7d6591-5e53-45a1-9145-2236770cb2b9",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-12-12",
+      "text": "Se quiere investigar si hay asociación entre la frecuencia cardíaca (FC) basal y el tiempo semanal dedicado a hacer ejercicio. Se entrevistaron 50 personas. Por ejemplo, la frecuencia cardíaca más baja fue de 59 latidos por minuto (lpm) en ausencia de alteraciones del ritmo, en un hombre que realizaba 3 horas diarias de ejercicio físico intenso; el valor mayor fue una FC de 98 lpm en un paciente que no hacía ejercicio. ¿Cuál sería la mejor forma de analizar los datos?",
+      "options": [
+        {
+          "id": "5b503c76-c67d-4833-9172-a394812e03f6",
+          "text": "Construir un diagrama de dispersión y realizar un análisis de correlación.",
+          "correct": true
+        },
+        {
+          "id": "891f71d6-5e55-4f18-9aa2-3b8a4dd24c0e",
+          "text": "Construir un boxplot y realizar una comparación de medias."
+        },
+        {
+          "id": "763ab1ce-4e07-4b51-8c5a-5742d2acab24",
+          "text": "Construir un gráfico de barras y realizar un test de chi cuadrado."
+        }
+      ]
+    },
+    {
+      "id": "e8c329eb-c6f1-4cc3-84f6-57c469803fcd",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-12-12",
+      "text": "Según Ezekiel Emanuel, los aspectos metodológicos de una investigación:",
+      "options": [
+        {
+          "id": "9e76610b-c0f6-4420-b8e8-632001887587",
+          "text": "Forman parte de los requisitos éticos para valorar una investigación previa a su implementación.",
+          "correct": true
+        },
+        {
+          "id": "cad95d92-4d81-4031-950a-cf09ba806689",
+          "text": "A diferencia de los aspectos éticos, es necesario y suficiente que sean evaluados por un comité científico."
+        },
+        {
+          "id": "33c1b721-f8d1-465e-8af1-4bb95be635bf",
+          "text": "Serán valorados luego que un comité de ética de la investigación apruebe el protocolo."
+        }
+      ]
+    },
+    {
+      "id": "0f13576c-6355-435c-af3b-33eb8ddce791",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-12-12",
+      "text": "Señale la afirmación correcta sobre los estudios epidemiológicos de cohorte:",
+      "options": [
+        {
+          "id": "caf5e26e-4471-4d3f-9c6a-9f1205bf6650",
+          "text": "Posibilitan estudiar más de un desenlace derivado de la exposición.",
+          "correct": true
+        },
+        {
+          "id": "c6d55750-0d10-4eb8-9fe2-c63b86ad8d43",
+          "text": "Establecen una relación temporal entre exposición y desenlace: la enfermedad precede a la exposición."
+        },
+        {
+          "id": "752c6ea1-a010-4f0a-ab63-1790c2f7e5d3",
+          "text": "No permiten la cuantificación del riesgo."
+        },
+        {
+          "id": "e1d15053-e3b8-40e1-b6aa-66800f406e07",
+          "text": "Son eficientes para el estudio de enfermedades raras."
+        }
+      ]
+    },
+    {
+      "id": "84069f53-6015-4829-a998-c5e5161a989c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-12-12",
+      "text": "Señale la afirmación correcta sobre los estudios epidemiológicos de cohorte:",
+      "options": [
+        {
+          "id": "85a30db5-9823-4cfe-99d7-b4ce3a25b112",
+          "text": "Son estudios en donde el investigador observa pasivamente los eventos que suceden.",
+          "correct": true
+        },
+        {
+          "id": "da84c669-9ba7-459b-a367-473379da4c85",
+          "text": "En el diseño de cohorte se selecciona a los sujetos en función de la presencia o ausencia de la enfermedad o evento en estudio."
+        },
+        {
+          "id": "6437b732-099a-4166-af40-02cb7356b18d",
+          "text": "Son estudios en donde el investigador interviene en la asignación de la exposición."
+        },
+        {
+          "id": "17e7c5c6-dcf6-4f65-9328-0c4cdbd33ee2",
+          "text": "Son los estudios epidemiológicos que proveen información que ayuda a generar hipótesis sobre las posible causas de un resultado."
+        }
+      ]
+    },
+    {
+      "id": "f577af5d-7748-488f-ae95-182f71dc76c9",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-12-12",
+      "text": "Señale la afirmación correcta sobre los estudios epidemiológicos de cohorte:",
+      "options": [
+        {
+          "id": "e1299e9c-d5e3-4acc-bb49-d1bc35bcc923",
+          "text": "Los sujetos no expuestos deben ser similares a los expuestos excepto por la exposición.",
+          "correct": true
+        },
+        {
+          "id": "18019af2-d5fc-40b8-902a-43756eafe4df",
+          "text": "El seguimiento se realiza únicamente en los sujetos expuestos."
+        },
+        {
+          "id": "d9004d54-1318-4933-86da-08cf8c3a147d",
+          "text": "En los sujetos expuestos y no expuestos se valora el efecto de una o varias intervenciones."
+        },
+        {
+          "id": "053887ee-2182-46d1-9217-4efcd5da59da",
+          "text": "Los sujetos expuestos deben ser distintos a los no expuestos excepto por la exposición."
+        }
+      ]
+    },
+    {
+      "id": "d17cbb4b-595d-411b-8004-374f8c51e81b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-12-12",
+      "text": "Si en un estudio se están comparando los valores de una variable en dos grupos y se informa que \"el valor p es menor que 0.05\", significa que:",
+      "options": [
+        {
+          "id": "1a24a904-8249-4b94-ada7-98ede86b12c6",
+          "text": "La probabilidad de que esta diferencia ocurra si la hipótesis nula es cierta es menor a 0.05.",
+          "correct": true
+        },
+        {
+          "id": "66ef7c9d-0f1a-43fd-8b58-e3e31d7bdda4",
+          "text": "La probabilidad de que el estudio sea metodológicamente correcto es de 0.05."
+        },
+        {
+          "id": "d742ff8b-2f5d-4816-84a6-f907984b24c0",
+          "text": "La probabilidad de que esta diferencia ocurra si la hipótesis nula es falsaes menor a 0.05."
+        },
+        {
+          "id": "c8e3d2f5-db4b-40b4-ad62-1ace9eb6b1ad",
+          "text": "La probabilidad de que esta diferencia ocurra solo por azar es igual a 0.05."
+        },
+        {
+          "id": "a2e1e184-8182-4028-aaec-3f95b74bf383",
+          "text": "Si el estudio se repitiera, hay una probabilidad menor a 0.05 de encontrar el mismo resultado."
+        }
+      ]
+    },
+    {
+      "id": "6b9d7e82-6bfd-4e79-bb46-f5f99ebdfbc6",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-12-12",
+      "text": "Son ejemplos de estudios epidemiológicos observacionales, los estudios de:",
+      "options": [
+        {
+          "id": "cf033511-3f17-43cd-903b-217d5ccb365a",
+          "text": "Todos los otros estudios mencionados.",
+          "correct": true
+        },
+        {
+          "id": "0b295719-8c02-4a02-aab6-3e6377749561",
+          "text": "Caso control."
+        },
+        {
+          "id": "8b514c4f-f06b-41eb-b201-04362aca142a",
+          "text": "Cohorte."
+        },
+        {
+          "id": "204772f6-33af-45c9-83e6-e0e7ac3da769",
+          "text": "Transversales."
+        }
+      ]
+    },
+    {
+      "id": "38edda43-dbce-4874-aeaa-f25e338a6370",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-12-12",
+      "text": "Son excepciones para la obtención del consentimiento informado las investigaciones que:",
+      "options": [
+        {
+          "id": "5402972c-1358-48f6-8e48-91482c8560cb",
+          "text": "Son de tipo epidemiológico realizadas por una entidad regulatoria.",
+          "correct": true
+        },
+        {
+          "id": "33305429-f871-45c0-9318-79d674f2ebe1",
+          "text": "Se garantice que la persona no tomará conocimiento de la misma."
+        },
+        {
+          "id": "5995dc9a-a78a-4c85-a86c-7a0597f6692f",
+          "text": "Se realizan con personas incapaces de otorgar su consentimiento."
+        }
+      ]
+    },
+    {
+      "id": "3445af8a-8c1d-459b-811c-5cc06ef24151",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-12-12",
+      "text": "¿Cuál de las siguientes definiciones se corresponde con mayor precisión al concepto de metaanálisis?",
+      "options": [
+        {
+          "id": "e85eb2fa-228d-42d2-8a61-24ac6422ad10",
+          "text": "Es una revisión en la que se combinan estadísticamente los resultados de los estudios incluidos.",
+          "correct": true
+        },
+        {
+          "id": "412dd838-a7d4-41be-ba2f-5a64068e9be2",
+          "text": "Es una revisión narrativa en las que se presentan tablas estructuradas de los resultados de los distintos estudios incluidos."
+        },
+        {
+          "id": "f2d747a9-e53b-416c-8091-abdc67b543ec",
+          "text": "Es una revisión sistemática en la que la bibliografía se busca de manera no estructurada."
+        },
+        {
+          "id": "153f8f24-5495-4863-9363-08ad6e65182e",
+          "text": "Es una revisión sistemática en la que se presentan tablas estructuradas de los resultados de los distintos estudios incluidos."
+        }
+      ]
+    },
+    {
+      "id": "e82df362-d4b9-47d5-a198-57e2cb3104ec",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-12-12",
+      "text": "¿Cuál sería el mecanismo de autorización de los sujetos de investigación menores de edad para su participación en esta investigación?",
+      "options": [
+        {
+          "id": "06238d11-35d8-4fa6-9de0-9ed71c4f8d8d",
+          "text": "Consentimiento de los padres y asentimiento del menor.",
+          "correct": true
+        },
+        {
+          "id": "ce17469a-ac74-4105-bf67-2111bf3eb9c8",
+          "text": "Consentimiento de los padres firmado es suficiente."
+        },
+        {
+          "id": "848f0633-da40-445b-8c48-6d973dde38d8",
+          "text": "Consentimiento de los padres y del investigador."
+        }
+      ]
+    },
+    {
       "id": "56619ac6-a6be-442b-a737-e279eca6953d",
       "evaluation": "parcial_2",
       "source": "partial",
@@ -4322,7 +5146,7 @@
       "evaluation": "parcial_2",
       "source": "partial",
       "asked_at": "2017-12-02",
-      "text": "Marque cual es de los siguientes pasos es el primero en una RSL.",
+      "text": "Marque cuál de los siguientes pasos es el primero en una RSL.",
       "options": [
         {
           "id": "0732fdd9-4d30-4481-acf0-1367a5439694",
