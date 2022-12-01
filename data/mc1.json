@@ -4076,32 +4076,6 @@
       ]
     },
     {
-      "id": "d3027db6-acac-41f0-b076-6f7892bb46e3",
-      "evaluation": "parcial_2",
-      "source": "partial",
-      "asked_at": "2016-12-12",
-      "text": "En un estudio clínico para evaluar la eficacia de un nuevo medicamento en el tratamiento de la crisis de migraña (señale la correcta):",
-      "options": [
-        {
-          "id": "12d30856-6152-4109-a167-12c3f93d880a",
-          "text": "La asignación aleatoria aumenta la validez interna del estudio.",
-          "correct": true
-        },
-        {
-          "id": "604258b9-2649-46fd-bba1-4b14f68a5966",
-          "text": "El enmascaramiento reduce la validez interna del estudio."
-        },
-        {
-          "id": "c30d4490-87c7-4199-90c2-85ea635df3b2",
-          "text": "El grupo control con placebo aumenta la validez externa del estudio."
-        },
-        {
-          "id": "4845d5b7-80a9-4a9d-8c82-4b1e279aceec",
-          "text": "Unos criterios de exclusión estrictos reducen la validez interna del estudio."
-        }
-      ]
-    },
-    {
       "id": "9a2b866f-b5fd-4ca3-bc21-f657ce7a124e",
       "evaluation": "parcial_2",
       "source": "partial",
@@ -4132,7 +4106,7 @@
       "evaluation": "parcial_2",
       "source": "partial",
       "asked_at": "2016-12-12",
-      "text": "Con relación a las RS con meta-análisis, eñale la opción correcta:",
+      "text": "Con relación a las RS con meta-análisis, señale la opción correcta:",
       "options": [
         {
           "id": "bec5a81b-0a25-444b-aa98-109d6cac04a5",
@@ -4262,7 +4236,7 @@
       "options": [
         {
           "id": "027ffbc0-9fef-45af-8439-7313a8c96e63",
-          "text": "La prueba B porque tiene unamayor especificidad.",
+          "text": "La prueba B porque tiene una mayor especificidad.",
           "correct": true
         },
         {
@@ -4372,6 +4346,32 @@
         {
           "id": "63ecced1-c73c-4eaf-be6e-646cb6d2d72e",
           "text": "Obtener un valor del estadístico menor al calculado, bajo el supuesto de Ho cierta."
+        }
+      ]
+    },
+    {
+      "id": "d3027db6-acac-41f0-b076-6f7892bb46e3",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-12-12",
+      "text": "En un estudio clínico para evaluar la eficacia de un nuevo medicamento en el tratamiento de la crisis de migraña (señale la correcta):",
+      "options": [
+        {
+          "id": "12d30856-6152-4109-a167-12c3f93d880a",
+          "text": "La asignación aleatoria aumenta la validez interna del estudio.",
+          "correct": true
+        },
+        {
+          "id": "604258b9-2649-46fd-bba1-4b14f68a5966",
+          "text": "El enmascaramiento reduce la validez interna del estudio."
+        },
+        {
+          "id": "c30d4490-87c7-4199-90c2-85ea635df3b2",
+          "text": "El grupo control con placebo aumenta la validez externa del estudio."
+        },
+        {
+          "id": "4845d5b7-80a9-4a9d-8c82-4b1e279aceec",
+          "text": "Unos criterios de exclusión estrictos reducen la validez interna del estudio."
         }
       ]
     },
@@ -4737,7 +4737,7 @@
         },
         {
           "id": "d742ff8b-2f5d-4816-84a6-f907984b24c0",
-          "text": "La probabilidad de que esta diferencia ocurra si la hipótesis nula es falsaes menor a 0.05."
+          "text": "La probabilidad de que esta diferencia ocurra si la hipótesis nula es falsa es menor a 0.05."
         },
         {
           "id": "c8e3d2f5-db4b-40b4-ad62-1ace9eb6b1ad",
