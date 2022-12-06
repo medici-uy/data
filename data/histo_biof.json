@@ -1,0 +1,840 @@
+{
+  "name": "Histología general y Biofísica",
+  "short_name": "Histo y Biofísica",
+  "aliases": [
+    "histo",
+    "histología",
+    "biofísica"
+  ],
+  "year": 2,
+  "questions": [
+    {
+      "id": "fccb460b-c474-4570-9cf4-c3e2301e464a",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Indique cuál de las siguientes afirmaciones asociadas con los estudios cinemáticos del movimiento humano utilizando dinamometría o electromiografía es correcta:",
+      "options": [
+        {
+          "id": "cb6a4b63-2af1-4c28-89b3-d1f7ba2a3159",
+          "text": "La electromiografía es una técnica de monitoreo de la manifestación eléctrica de la activación neuromuscular asociada con la contracción muscular.",
+          "correct": true
+        },
+        {
+          "id": "159d6248-e9a2-4825-956a-d90992a7dc07",
+          "text": "A partir de los registros de una plataforma de fuerzas podemos obtener importante información para describir el movimiento de nuestros segmentos corporales."
+        },
+        {
+          "id": "e0d935c3-690f-4b5c-afcd-df2fd0030f76",
+          "text": "En el momento que ocurre el pico de contacto, la tensión (presión) sobre las estructuras que componen nuestro aparato locomotor es baja debido a que la superficie de apoyo es grande."
+        },
+        {
+          "id": "60a93552-76d7-4e2e-a0cb-d25cacdc05b9",
+          "text": "Si nuestro peso es 800 N y la componente vertical de fuerza en un momento es de 500 N, en ese momento el centro de masa de nuestro cuerpo va a tender a elevarse."
+        }
+      ]
+    },
+    {
+      "id": "7f9ac78b-07ef-4662-90ce-4a42a84f237f",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Indique cuál de las siguientes afirmaciones relacionadas con los valores angulares para las articulaciones de miembros inferiores durante la marcha es correcta:",
+      "options": [
+        {
+          "id": "03fcc927-9c99-488f-8bf7-6decb007a9d2",
+          "text": "La flexión máxima de cadera se alcanza al principio y al final del ciclo.",
+          "correct": true
+        },
+        {
+          "id": "ab5b67f7-af96-45e7-b150-9c509d4d7b9a",
+          "text": "A cualquier velocidad de marcha, el máximo de flexión de rodilla se alcanza al final de la fase de apoyo."
+        },
+        {
+          "id": "6f4e9d6b-4a51-4e13-b2a5-162deb4d89a9",
+          "text": "Durante la fase de doble apoyo inicial a pelvis en el plano transversal se mantiene en rotación neutra (0°)."
+        },
+        {
+          "id": "a6dac834-fc9d-47a2-bd6d-eff01661ecd2",
+          "text": "El ángulo de extensión máxima de cadera no se modifica al variar la velocidad de marcha."
+        }
+      ]
+    },
+    {
+      "id": "4c158111-4310-412e-86b4-da06cb994304",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Acerca de las propiedades mecánicas del músculo esquelético, marque la opción correcta:",
+      "options": [
+        {
+          "id": "e79f3f30-65f2-4c32-a3dc-0c99b2bfafb7",
+          "text": "En el músculo entero, la fuerza pasiva tiene contribuciones de la titina, de la membrana celular y de estructuras no musculares (tejido conjuntivo, tendón, etc.).",
+          "correct": true
+        },
+        {
+          "id": "46425f25-5a8c-4b53-801e-1fc26c8ed3dd",
+          "text": "El máximo de fuerza contráctil isométrica corresponde a un longitud de sarcómero igual al doble de la suma de la longitud de filamento fino y grueso."
+        },
+        {
+          "id": "cf64be1a-eb74-4fe2-87ee-433f792ff372",
+          "text": "El máximo de fuerza contráctil isométrica corresponde a un longitud total del músculo que es mucho mayor que la longitud de inserción ósea."
+        }
+      ]
+    },
+    {
+      "id": "79ae7ce1-c85c-468e-a480-5daad3442153",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Acerca de los distintos tipos de fibras musculares esqueléticas de los mamíferos, marque la opción correcta:",
+      "options": [
+        {
+          "id": "1f738a36-b6c5-4d93-ba67-197fa7865f00",
+          "text": "Las unidades motoras (grupos de fibras inervadas por la misma neurona motora) están constituidas por fibras de un mismo tipo.",
+          "correct": true
+        },
+        {
+          "id": "59630c8b-97a6-4fa9-85a0-a91026ea70d7",
+          "text": "El umbral de las neuronas que inervan las fibras de tipo IIb es el más bajo."
+        },
+        {
+          "id": "8f357ce1-f030-484f-8960-617876e63249",
+          "text": "En las fibras resistentes a la fatiga esto se debe a que en estas la miosina accede a un estado que genera fuerza con bajo consumo de ATP (\"latch\" o \"cerrojo\")."
+        },
+        {
+          "id": "7d40c4c7-e961-488d-8f6c-8bd422709e4c",
+          "text": "Las fibras rápidas fatigables presentan intensa tinción para las enzimas mitocondriales."
+        },
+        {
+          "id": "91bfefce-516e-41cd-ab90-e4a94b1c20c9",
+          "text": "Las unidades motoras de un mismo músculo son todas de un mismo tipo."
+        }
+      ]
+    },
+    {
+      "id": "d9165c52-b3c7-4d8b-99de-97df7b773f23",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Indique cuál de las siguientes afirmaciones asociadas con la duración de fases y tareas en el ciclo de marcha es correcta:",
+      "options": [
+        {
+          "id": "50572ee1-6f54-4819-8c0c-b0ede1ae5f7d",
+          "text": "Por encima de 2 m/s, la velocidad de la marcha aumenta, debido a un incremento de la frecuencia del ciclo.",
+          "correct": true
+        },
+        {
+          "id": "89cb7192-a92f-4e7a-a6f1-3528a8da60ce",
+          "text": "A baja velocidad, cada fase de doble apoyo representa cerca del 5% de la duración del ciclo."
+        },
+        {
+          "id": "2420c485-e342-450b-a97f-699893750b62",
+          "text": "A una velocidad media de 5 m/s (1,8 km/h), la longitud del ciclo es aproximadamente de 2 m y la frecuencia, de alrededor de un ciclo por segundo."
+        },
+        {
+          "id": "49432fa0-b0f9-4544-b432-7e1fe9985b72",
+          "text": "La fase de apoyo simple del miembro inferior de referencia en velocidades intermedias (4 km/h), abarca entre el 5 y el 20% del ciclo."
+        }
+      ]
+    },
+    {
+      "id": "1b83dbf2-08fa-4605-8199-22ad97f34cf7",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Indique cuál de las siguientes afirmaciones asociadas con la nivelación y la transferencia de energía mecánica del centro de masa en la marcha es correcta:",
+      "options": [
+        {
+          "id": "c35233a4-94c9-4ad7-bc78-ebaa1a5606ee",
+          "text": "El energyrecovery (R), es un cociente que incluye diferentes componentes del trabajo mecánico asociado con el movimiento del centro de masa respecto al entorno (Wext).",
+          "correct": true
+        },
+        {
+          "id": "3a5876d2-a893-4b09-a3a0-ce9eacb91a14",
+          "text": "A velocidades intermedias la pelvis adopta una posición neutra en torno al 40% del ciclo."
+        },
+        {
+          "id": "522a24c0-245c-467a-a29f-d7ab49367be2",
+          "text": "A velocidades intermedias, la pelvis se desvía a la derecha en el momento del ataque del talón derecho."
+        },
+        {
+          "id": "2b79764d-99ed-4dfd-91f9-5559197aec59",
+          "text": "La extensión relativa de rodilla luego de la máxima flexión alcanzada en el apoyo medio hace que el centro de masa pierda altura al final del apoyo."
+        }
+      ]
+    },
+    {
+      "id": "7e6f16bd-a41e-4a16-8152-3caff2e4ebbb",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Indique cuál de las siguientes afirmaciones asociadas con las medidas que permiten evaluar la eficiencia en la marcha es correcta:",
+      "options": [
+        {
+          "id": "df647894-3dc2-4028-a167-0e66ba669e7b",
+          "text": "El rendimiento metabólico (Rm) indica qué parte de la energía consumida se transforma en trabajo muscular positivo.",
+          "correct": true
+        },
+        {
+          "id": "9ce2387a-a974-404e-b433-2c23cb15e0f8",
+          "text": "El costo de transporte (C), es el producto depotencia neta (Pnet) por la velocidad de desplazamiento."
+        },
+        {
+          "id": "c9fe58b8-ab73-4842-8740-48576a6b81a4",
+          "text": "El costo de transporte (C), representa la cantidad de energía necesaria para desplazar todo el cuerpo una distancia de 1 m."
+        },
+        {
+          "id": "ad127869-6c89-4cb3-b36a-5d9353e1d8c3",
+          "text": "La potencia neta (Pnet) que los músculos deben desarrollar para mantener el cuerpo en movimiento se define como: Pnet = Fres * V, siendo Fres la resistencia al desplazamiento y V la velocidad."
+        }
+      ]
+    },
+    {
+      "id": "0e95496b-8bbf-4e6f-b9fe-dd43eff9eb8d",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Indique cuál de las siguientes afirmaciones asociadas con los efectos del cambio del tamaño sobre el mecanismo y la energética de la marcha es correcta:",
+      "options": [
+        {
+          "id": "9145cab5-dc8d-4e3d-83cb-81192085a33a",
+          "text": "Si consideramos el número de Froude (Fr), el costo de transporte (C) para velocidad autoseleccionada en los niños luego de los 4 o 5 años de edad se superpone al registro de C para los adultos.",
+          "correct": true
+        },
+        {
+          "id": "bd8a4b50-6d07-4584-b423-2458921e100e",
+          "text": "El trabajo asociado con el movimiento relativo de los segmentos corporales (Wint) es similar para los niños de todas las edades y los adultos."
+        },
+        {
+          "id": "c686e75f-37b8-4d78-a436-5eee0a32732e",
+          "text": "Los estudios realizados en pacientes con enanismo hipofisario muestran que la frecuencia de paso y por tanto Wintson menores que para sujetos saludables."
+        },
+        {
+          "id": "b65783eb-6d75-43b2-baa0-6f7ed49d5d36",
+          "text": "Los mayores efectos debido a la edad en la mecánica y energética de la marcha se dan en niños mayores de 12 años."
+        }
+      ]
+    },
+    {
+      "id": "3a8abb05-e061-46eb-b3d2-29976ba2b821",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Indique cuál de las siguientes afirmaciones asociadas con los efectos del gradiente del terreno sobre el mecanismo y energética de la marcha es correcta:",
+      "options": [
+        {
+          "id": "9e192e92-4e8a-4220-950c-620c19572fee",
+          "text": "Caminando en terreno plano, el trabajo externo positivo (aquel necesario para ascender y acelerar el COM) y el negativo (aquel necesario para descender y desacelerar el COM) son equivalentes.",
+          "correct": true
+        },
+        {
+          "id": "e0675aeb-c574-4e6b-b74c-25a32a897f1f",
+          "text": "El costo de transporte (C) mínimo se produce a un gradiente positivo muy cercano a 10% para cualquier velocidad de marcha."
+        },
+        {
+          "id": "86976363-742f-425f-b51e-243bfcc5f626",
+          "text": "En gradientes negativos el costo de energía por unidad de distancia aumenta linealmente incluso cuando nos movemos a velocidad óptima."
+        },
+        {
+          "id": "bba895b4-cd24-49d1-9e12-cc44c9cf891f",
+          "text": "La fracción de trabajo positivo disminuye en un patrón sigmoidal desde casi el 100% con un gradiente del -15% hasta volverse casi nulo en un gradiente positivo de 15%."
+        }
+      ]
+    },
+    {
+      "id": "091beb20-ae98-4d42-ad5b-369a3554956e",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Indique cuál de las siguientes afirmaciones asociadas con los estudios cinemáticos del movimiento humano utilizando cinemetría es correcta:",
+      "options": [
+        {
+          "id": "4fe70c54-ec82-4b6a-b81d-2caf4f0bea06",
+          "text": "Las cámaras deben mantener sus parámetros inalterados durante la filmación del calibrador y el registro de movimiento de un individuo.",
+          "correct": true
+        },
+        {
+          "id": "f940de92-7c7d-447d-9b77-ab06324fc626",
+          "text": "En biomecánica, la cinemática tiene como objetivo describir los movimientos de los segmentos corporales considerando las fuerzas que generan tales movimientos."
+        },
+        {
+          "id": "3bf863f3-844b-4682-a30d-24bef63a720e",
+          "text": "En los estudios cinemáticos es habitual recurrir a tablas que permiten determinar la posición del centro de masa total del cuerpo en cualquier posición."
+        },
+        {
+          "id": "3c23062e-a6f0-40fc-947d-b66c35719b44",
+          "text": "En los estudios de tipo cinemático lo más común es considerar 5 segmentos rígidos para describir el movimiento del cuerpo completo."
+        }
+      ]
+    },
+    {
+      "id": "d3f2bf2f-f59a-4bc3-acae-f3231987b661",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Respecto a la modulación por proteín quinasa A (PKA) en miocardio contráctil (marque lo correcto):",
+      "options": [
+        {
+          "id": "2478fd39-5ff9-4d59-9a0f-06aec497d3a3",
+          "text": "La inyección en una célula cardíaca de la subunidad catalítica C de la PKA, aumenta la duración de la meseta del potencial de acción.",
+          "correct": true
+        },
+        {
+          "id": "4c56a601-948f-4077-813d-402208a9960e",
+          "text": "Cuando hay estimulación de receptores adrenérgicos, disminuye la actividad de la PKA."
+        },
+        {
+          "id": "8e2c77c6-d8ec-4497-817d-db6110fc5437",
+          "text": "La inyección en una célula cardíaca de AMPc disminuye la amplitud de la contracción."
+        },
+        {
+          "id": "2e9b12cc-3b30-4dd7-908c-0ce1cafddd38",
+          "text": "La inyección en una célula cardíaca de la subunidad catalítica C de la PKA, disminuye la amplitud de dicha corriente de calcio."
+        }
+      ]
+    },
+    {
+      "id": "ea4fc30b-23f6-4fef-b14a-b2844a642001",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Respecto al acoplamiento excitación contracción en músculo esquelético (marque lo correcto):",
+      "options": [
+        {
+          "id": "36f5930f-d696-4b28-90a9-977faa116e3e",
+          "text": "Se produce por acoplamiento directo por la interacción alternada de 4 sensores de voltaje por 1 receptor de ryanodina.",
+          "correct": true
+        },
+        {
+          "id": "b5fc8d78-7c16-4737-b6bf-9cfc2baf919a",
+          "text": "La liberación de calcio del retículo sarcoplasmático, disminuye con la depolarización de la membrana de los túbulos T."
+        },
+        {
+          "id": "a3b521bf-94a5-49c5-92a6-87c4b4b48ddc",
+          "text": "No se produce contracción en ausencia de calcio extracelular."
+        },
+        {
+          "id": "7c4fa1c9-09fd-4dd3-a912-0d1a48e357a7",
+          "text": "Se produce por liberación de inositol trifosfato desde el sensor de voltaje o o receptor de dihidropiridinas del túbulo T."
+        }
+      ]
+    },
+    {
+      "id": "0dcae322-843a-4e9f-a8db-e6c2e11e9bb4",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Respecto al acoplamiento excitación-contracción en miocardio contráctil (marque lo correcto):",
+      "options": [
+        {
+          "id": "604833a9-9d4c-4f23-bee1-b92e7567c21f",
+          "text": "A altos potenciales despolarizantes (+80 mV), disminuye la liberación de calcio del retículo sarcoplasmático.",
+          "correct": true
+        },
+        {
+          "id": "199029ef-d60d-4d5e-b765-22e61c5cf4ae",
+          "text": "El mecanismo principal por el que se produce la contracción es por unión de calcio a calmodulina."
+        },
+        {
+          "id": "71134894-ba78-40d4-8064-115a1c13f1be",
+          "text": "Existe contacto directo entre el canal de calcio L, el intercambiador Na-Ca (NCX) y receptor de ryanodina tipo 2 transmitiéndose así la respuesta excitable a respuesta contráctil."
+        },
+        {
+          "id": "d450b88b-51f6-49d0-b8c8-1519cb529961",
+          "text": "La mayor parte del calcio que se une a los filamentos finos, proviene de entrada directa desde los túbulos T."
+        }
+      ]
+    },
+    {
+      "id": "ca51dab0-2a3f-45af-9c65-208244ca0d1b",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Respecto al músculo liso, marque lo correcto:",
+      "options": [
+        {
+          "id": "3d5380e0-42d6-4dab-b915-09ffdc45199a",
+          "text": "Puede producir un estado de contracción muy prolongada (varios segundos de duración), denominado \"latch\" o cerrojo.",
+          "correct": true
+        },
+        {
+          "id": "083ddd66-318b-431e-bc0a-b1b818f67ddc",
+          "text": "El músculo liso unitario se caracteriza por poseer inervación más abundante que el músculo liso multiunitario."
+        },
+        {
+          "id": "bd8115d0-80ff-487d-8d66-133f23964168",
+          "text": "La curva longitud tensión no cuenta con una longitud óptima para la cual se ejerce un máximo de tensión."
+        },
+        {
+          "id": "7fe25ff1-0b03-4501-99a5-4e35037ff199",
+          "text": "La curva velocidad fuerza y sus parámetros, son independientes del grado de fosforilación de los filamentos gruesos."
+        }
+      ]
+    },
+    {
+      "id": "e58049b8-57c0-42e5-8dc9-02513d2bac50",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Respecto al músculo liso, marque lo correcto:",
+      "options": [
+        {
+          "id": "b0002121-92a0-4f9b-84cb-474bff66d14f",
+          "text": "Puede producirse una contracción sin depolarización de la membrana durante el acoplamiento fármacomecánico.",
+          "correct": true
+        },
+        {
+          "id": "31f0c5e2-c597-4c3c-b8e7-fa9f3ae78aa3",
+          "text": "El mecanismo de regulación por calcio de la contracción está ligado a la desfosforilación de la cadena pesada de la miosina en el filamento grueso."
+        },
+        {
+          "id": "cad9400f-3864-4d5f-8233-f2b47d5cbefc",
+          "text": "La liberación de calcio se produce por acoplamiento directo de la respuesta eléctrica en el túbulo T, con los canales de liberación de calcio en el retículo sarcoplasmático."
+        },
+        {
+          "id": "db3e92d6-efdc-4162-bb3d-712bef1fddc5",
+          "text": "La regulación hormonal solo puede estimular y no inhibir su actividad."
+        }
+      ]
+    },
+    {
+      "id": "46b07b12-582d-40b2-9b93-faab0b904270",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Respecto al potencial de acción cardíaco en miocardio contráctil (marque lo correcto):",
+      "options": [
+        {
+          "id": "6c1b6ead-9405-4e63-9ab1-6474ea685ca6",
+          "text": "Por el intercambiador Na-Ca (NCX), en condiciones normales, se produce extrusión o salida de Calcio del mioplasma al medio extracelular durante la diástole ventricular.",
+          "correct": true
+        },
+        {
+          "id": "15a2e2ec-0943-4526-bada-67c8ae34cf4d",
+          "text": "En el síndrome de QT largo es frecuente encontrar las corrientes de potasio por el canal de K+ rectificador retardado (KCNQ) aumentadas."
+        },
+        {
+          "id": "9977acac-04e7-4607-b9ca-3c756e63289f",
+          "text": "La corriente por el canal de K+ rectificador entrante, es máxima durante la meseta del potencial de acción."
+        },
+        {
+          "id": "396ed190-ba5e-42f8-a0b6-013f83b88a45",
+          "text": "Los canales HCN juegan un rol central en la fase 0 del potencial de acción."
+        }
+      ]
+    },
+    {
+      "id": "62cb1185-104d-4d09-a2bd-03ffcf5a6f6e",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Respecto al potencial de acción en nódulo marcapaso y su modulación, marque lo correcto:",
+      "options": [
+        {
+          "id": "e87bbd8d-4673-40fd-88b0-5ad137200617",
+          "text": "Si se aplica dihidropiridina 1 a 5 uM en el medio extracelular, disminuye la amplitud del potencial de acción.",
+          "correct": true
+        },
+        {
+          "id": "f33c3842-a74c-4235-81fb-6d4e88977c50",
+          "text": "Durante la fase de repolarización comienza a generarse una corriente de Na+ entrante por los canales HCN."
+        },
+        {
+          "id": "51282642-e4a3-4b06-b014-dfe16a1c14f0",
+          "text": "La estimulación simpática, estimula la actividad de los canales de K+ rectificadores retardados (KCNQ)."
+        },
+        {
+          "id": "ba1cadef-876d-4682-9933-2321a3a4b0d5",
+          "text": "La fase de depolarización depende del cierre de los canales de K+ rectificadores entrantes."
+        }
+      ]
+    },
+    {
+      "id": "8f85bfc2-370f-44dd-9e11-e8092017271a",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Sobre el mecanismo molecular de la contracción del músculo esquelético:",
+      "options": [
+        {
+          "id": "371050fe-de67-420b-9f88-b4b100141d41",
+          "text": "Después de la liberación de los productos de hidrólisis se produce un cambio conformacional en S1 que genera el golpe de fuerza.",
+          "correct": true
+        },
+        {
+          "id": "e3e97312-2ff8-4cbc-a8f6-6b97a0b2f8ce",
+          "text": "La menor afinidad entre S1 y actina en presencia de ATP resulta de inhibición competitiva a nivel del sitio catalítico."
+        },
+        {
+          "id": "fcb0b102-5e5a-4f6e-8ccf-819fed1ad6bb",
+          "text": "La velocidad de hidrólisis de ATP por S1 es aumentada por la unión de Ca2+ al mismo."
+        },
+        {
+          "id": "ba39232e-26de-4fe0-ac12-47781e2fdd2f",
+          "text": "La velocidad de la hidrólisis de ATP por el segmento S1 es disminuida por su unión a actina."
+        }
+      ]
+    },
+    {
+      "id": "6133f7cc-b8a0-4f79-aa39-dc4f7f591841",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Sobre el sistema de regulación de la contracción en el músculo esquelético, marque la opción correcta:",
+      "options": [
+        {
+          "id": "c0f82378-cbf0-4032-b11a-4750f0003dfc",
+          "text": "El sensor de Ca2+ reside en la troponina C presente en el filamento fino.",
+          "correct": true
+        },
+        {
+          "id": "fe43aaa8-49f9-4d55-8e6b-7e34fa45bc2c",
+          "text": "En el músculo relajado, la inhibición por tropomiosina se produce porque esta se une al sitio catalítico del segmento S1."
+        },
+        {
+          "id": "60a95dc3-c625-479a-a387-901974339010",
+          "text": "La troponina T es una proteína presente en el filamento grueso."
+        }
+      ]
+    },
+    {
+      "id": "f5e638e8-8af6-4829-83c8-17fb7e6087ec",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Sobre la contracción a poscarga, marque lo correcto:",
+      "options": [
+        {
+          "id": "a3e5c86d-649f-4b82-b643-0c9bfd356a5d",
+          "text": "La máxima carga que el músculo puede levantar depende de la longitud inicial.",
+          "correct": true
+        },
+        {
+          "id": "990e2f10-d015-462e-a257-18f4dccc333b",
+          "text": "La fase isométrica tiene una duración independiente de la carga a levantar."
+        },
+        {
+          "id": "b5de315b-1e01-480b-b26a-78e999f011c4",
+          "text": "La velocidad de acortamiento a carga cero es la misma para todos los tipos (I, IIa, IIb) de fibras musculares."
+        },
+        {
+          "id": "3d0cc839-027b-4c01-98d5-b0b517bec9b7",
+          "text": "La velocidad de acortamiento es una función creciente de la carga a desplazar."
+        }
+      ]
+    },
+    {
+      "id": "94f301d4-4bd2-43e1-a070-14b462a307d3",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2021-06-30",
+      "text": "Con respecto a la regulacion del sistema nervioso autonomo de la fecuencia cardíaca, señale la opción correcta:",
+      "options": [
+        {
+          "id": "3bd39785-ecae-4a11-bf08-f43f555a45f6",
+          "text": "El sistema nervioso simpatico tiene un efecto cronotrópico positivo al aumentar la intensidad de corriente a traves de canales HCN.",
+          "correct": true
+        },
+        {
+          "id": "b1846c98-a13c-4159-8fd6-414a91e5d346",
+          "text": "El sistema nervioso parasimpatico tiene un efecto cronotrópico negativo al aumentar la intensidad de corriente a través de canales HCN."
+        },
+        {
+          "id": "8201f195-0daf-4b92-a596-f0ca159b4846",
+          "text": "El sistema nervioso parasimpatico tiene un efecto cronotrópico negativo al aumentar la pendiente de la fase 4 del potencial de accion automático."
+        },
+        {
+          "id": "48ad10a5-ecb9-4a1c-bc9a-4c747a315939",
+          "text": "El sistema nervioso simpatico tiene un efecto cronotrópico negativo al disminur la pendiente de la fase 4 del potencial de accion automatico."
+        }
+      ]
+    },
+    {
+      "id": "2d0bab55-c990-45b4-a400-8c029889e023",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2021-06-30",
+      "text": "Con respecto a las bases del registro electromiográfico, señale la opción correcta:",
+      "options": [
+        {
+          "id": "03b32a0d-9aea-4088-bfbf-51b4b9125c91",
+          "text": "Para obtener señales estables en la electromiografía de superficie los electrodos se colocan en puntos preestablecidos entre la placa motora y el tendón y en dirección longitudinal de las fibras.",
+          "correct": true
+        },
+        {
+          "id": "849e2639-36dc-4663-af60-8a81bdc322ad",
+          "text": "La señal bruta obtenida con un electromiógrafo permite sacar conclusiones de la coordinación entre músculos y del nivel de activación muscular."
+        },
+        {
+          "id": "190b6cee-a190-4595-af76-4c8347ab496a",
+          "text": "La señal obtenida con electromiografía de superficie corresponde al potencial de acción."
+        },
+        {
+          "id": "4533ea7a-08fb-4a8d-9132-e252e6437a58",
+          "text": "Para comparar los niveles de actividad de dos músculos de un mismo sujeto no es necesario realizar una normalización en amplitud."
+        },
+        {
+          "id": "6cd6009e-2267-46fc-ace8-4c3d96efbc3c",
+          "text": "Un análisis en el dominio de la frecuencia de las señales electromiográficas es el abordaje común para obtener diagramas on-off sobre la participación muscular en un determinado movimiento, por ejemplo el ciclo de marcha."
+        }
+      ]
+    },
+    {
+      "id": "c5c45d75-c7bd-495c-bf3b-64ceebfed2c4",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2021-06-30",
+      "text": "Con respecto al musculo liso, marque lo correcto:",
+      "options": [
+        {
+          "id": "d277bd97-cbc4-4dee-9744-ecf6e3c208f3",
+          "text": "No hay opciones correctas.",
+          "correct": true
+        },
+        {
+          "id": "d13061e2-c5d5-4d56-a26d-b5d9cb19d70c",
+          "text": "En el musculo liso la velocidad no varia con el grado de fosforilacion de cadena liviana de miosina."
+        },
+        {
+          "id": "08629b80-c775-4e5c-b673-864f2520b23e",
+          "text": "Las contracciones fasicas (rapidas), generalmente se asocian a propulsión como por ejemplo movimientos persitalticos en tracto gastrointestinal."
+        },
+        {
+          "id": "a112489c-2c4b-48bf-80d7-053876ec02c1",
+          "text": "Las contracciones tónicas generalmente se deben a variedades de musculo unitario."
+        }
+      ]
+    },
+    {
+      "id": "8d829ee0-c66e-4e4e-9258-a7764410aaec",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2021-06-30",
+      "text": "Con respecto al sarcómero, marque la opción correcta:",
+      "options": [
+        {
+          "id": "f400fb91-c2f8-47a3-831a-e87753b96ba3",
+          "text": "El espesor de la banda A es constante durante la contracción con acortamiento.",
+          "correct": true
+        },
+        {
+          "id": "c1cf948c-4297-499b-8138-a4729ff31f7c",
+          "text": "La relación entre la tensión activa y la longitud del sarcómero en una célula aislada no muestra un máximo como en el músculo entero."
+        },
+        {
+          "id": "8e820ef3-1379-4cea-b576-2c405b52e3a8",
+          "text": "Los cambios de longitud durante la contracción ocurren a expensas del ancho de la banda I porque los filamentos finos se acortan."
+        }
+      ]
+    },
+    {
+      "id": "d0dc1c3e-f3a7-4bf8-92d9-d7f23d66aacf",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2021-06-30",
+      "text": "Desde una biopsia de músculo Vastus lateralis resultó un muy alto porcentaje de fibras lentas tipo I. Señale la asociación correcta:",
+      "options": [
+        {
+          "id": "50a15958-2980-4098-9f7d-7a9ff8287751",
+          "text": "Alto % fibras rojas oxidativas, persona entrenada a ejercicios aeróbicos de larga duración.",
+          "correct": true
+        },
+        {
+          "id": "6673622d-4a7b-40d0-9f84-eeb9ba1420ca",
+          "text": "Alto % fibras blancas anaeróbicas, persona entrenada a ejercicios máximales de corto plazo."
+        },
+        {
+          "id": "96f9d6ca-a5a2-4b05-be0b-92e5210781f3",
+          "text": "Alto % fibras blancas oxidativas, persona entrenada a ejercicios aeróbicos de larga duración."
+        },
+        {
+          "id": "26092c45-b235-4931-bf97-cb00b7c3faf3",
+          "text": "Alto % fibras intermedias anaeróbicas, persona entrenada a saltos o sprint rápidos."
+        },
+        {
+          "id": "639ef754-9316-46ef-ad67-63647cb4d99f",
+          "text": "Alto % fibras rojas oxidativas, persona entrenada a ejercicios máximales de corto plazo."
+        }
+      ]
+    },
+    {
+      "id": "942f8c95-f7f8-4de4-bc33-fd960d4b96e8",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2021-06-30",
+      "text": "En relación a la mecánica muscular esquelética, marque la opción correcta:",
+      "options": [
+        {
+          "id": "008155b0-5c3f-437b-bd73-75d89a987e19",
+          "text": "En un músculo entero la fuerza de contracción muscular depende del grado de reclutamiento de fibras musculares esqueléticas independientes y con ello de la intensidad del estímulo.",
+          "correct": true
+        },
+        {
+          "id": "87f51c42-0881-4b54-908a-3204e8567505",
+          "text": "El máximo de tensión activa observado a la longitud óptima se explica exclusivamente por un aumento de la sensibilidad al Ca2+ por parte del elemento contráctil."
+        },
+        {
+          "id": "b27419de-ae4d-473f-84b9-98f2898ffa8a",
+          "text": "La tensión pasiva que se corresponde a la longitud óptima suele ser elevada debido a la cantidad abundante de tejido conjuntivo, protegiendo contra desgarros."
+        }
+      ]
+    },
+    {
+      "id": "55bf1362-1b09-4c13-b631-33a1f97777d4",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2021-06-30",
+      "text": "En relación con los registros dinámicos durante el ciclo de marcha normal (marque lo correcto):",
+      "options": [
+        {
+          "id": "0a1fc187-63f1-4a2a-836d-eaf9b95b4cdb",
+          "text": "Durante el ciclo, la componente vertical de fuerza para el pie de referencia presenta dos picos por encima del valor peso.",
+          "correct": true
+        },
+        {
+          "id": "03f9fa45-1a97-4282-a484-d637445aa60e",
+          "text": "Durante el primer apoyo doble la componente vertical de fuerza asociada a la acción del pie de referencia disminuye."
+        },
+        {
+          "id": "edbb8af3-47b2-44f8-bbde-9f9fb00d3f07",
+          "text": "Durante la respuesta a la carga hay una superficie de contacto del pie que permite minimizar la tensión relativa sobre las estructuras."
+        },
+        {
+          "id": "eb375626-6418-452d-8bcb-fdef997caaa5",
+          "text": "El registro de componente de fuerza antero-posterior durante el apoyo permite ver que el impulso durante el frenado y el empuje son claramente diferentes."
+        },
+        {
+          "id": "9e5ffecf-ff61-421e-88b2-c96e5a62bccb",
+          "text": "La tensión se define como el área dividida por la fuerza actuante."
+        }
+      ]
+    },
+    {
+      "id": "8f61e79b-e4f4-46f2-ba9a-102e3ede5e2b",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2021-06-30",
+      "text": "Respecto a la electromiografía de superficie, que se entiende por \"cross-talk\"? Marque lo correcto.",
+      "options": [
+        {
+          "id": "682dfcd9-b02f-4d0f-bdbb-6758af18c1d7",
+          "text": "Es una interferencia de señales de músculos que se encuentran alrededor del músculo en análisis.",
+          "correct": true
+        },
+        {
+          "id": "eb895ec5-757e-4096-8270-9b8ae1ad88e2",
+          "text": "Es cuando se ponen diferentes electrodos sobre un mismo músculo."
+        },
+        {
+          "id": "858bbe1a-4025-4de0-9c10-e1ae94cf67d3",
+          "text": "Es una señal de interferencia electrónica debida a radio, celulares u otros equipos."
+        },
+        {
+          "id": "167c1081-e4aa-4846-9911-5f1e4779f826",
+          "text": "Se trata de una técnica computacional para obtener el espectro de frecuencias de una señal EMG."
+        },
+        {
+          "id": "71645743-80f9-4e60-b994-42b29a7d1e1b",
+          "text": "Se trata del protocolo de comunicación entre los sensores y el equipo de registro."
+        }
+      ]
+    },
+    {
+      "id": "711760c6-22a4-4f3e-b554-3c745106d823",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2021-06-30",
+      "text": "Respecto a las corrientes de potasio implicadas en el potencial de accion cardíaco, señale la opcion correcta:",
+      "options": [
+        {
+          "id": "a662a75c-2fa0-4cf8-b4e3-c758dcbca6dd",
+          "text": "La corriente IK1 o del canal rectificador entrante, es la principal corriente de potasio durante el potencial de reposo del músculo ventricular.",
+          "correct": true
+        },
+        {
+          "id": "837ec027-4b8d-46b6-a281-3cf5300ada49",
+          "text": "El músculo cardíaco inespecífico posee las mismas corrientes y canales que las células de los nodos."
+        },
+        {
+          "id": "52dc2268-ab82-4ee8-85e4-56ee52b2c537",
+          "text": "La rapida cinética de activación para el potasio en la fase 2 es la principal determinante de la meseta."
+        },
+        {
+          "id": "a52df0ca-f8d5-48c1-a2d3-11709472e2f0",
+          "text": "Las corrientes dadas por canales rectificadores retardados tienen una pronunciada inactivación."
+        },
+        {
+          "id": "bfb5eeff-7c06-4ea4-9339-472c0a87ecea",
+          "text": "Los rectificadores retardados tienen una cinética de activación similar a la corriente de sodio responsable de la despolarización."
+        }
+      ]
+    },
+    {
+      "id": "bf399f56-f049-4683-bb22-12cc9e3cf3bc",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2021-06-30",
+      "text": "Respecto al ciclo quimio mecánico (Lymn-Taylor) del músculo esquelético, marque la opción correcta:",
+      "options": [
+        {
+          "id": "ed74f4cf-1511-4fbf-a0da-d7c6d36e41b6",
+          "text": "La adición de actina a una solución de S1 y ATP aumenta la producción de ADP y P inorgánico.",
+          "correct": true
+        },
+        {
+          "id": "f7f53283-05e2-44d1-bd6a-2896842b88f5",
+          "text": "El cambio conformacional de la actina produce el deslizamiento de los filamentos."
+        },
+        {
+          "id": "6718377a-e972-48a5-82a9-4e8d8b3358a3",
+          "text": "En el estado de rigor el segmento S1 de miosina es perpendicular al filamento fino."
+        },
+        {
+          "id": "d653fe81-d76b-4d24-8705-6e9d44d38a92",
+          "text": "La hidrólisis de 3 moléculas de ATP es necesaria para completar el ciclo."
+        },
+        {
+          "id": "f097eaae-b7fe-4ff3-9cd1-e655fd90b73d",
+          "text": "La unión de ATP a la cabeza de miosina (S1) produce la rápida liberación de los productos de hidrólisis."
+        }
+      ]
+    },
+    {
+      "id": "9f7b8a3b-2756-4817-9649-621b5b46f207",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2021-06-30",
+      "text": "Sobre el rol del calcio en el acoplamiento excito contráctil en el miocardio (marque lo correcto):",
+      "options": [
+        {
+          "id": "ade98717-8f38-445e-b270-197270705dc7",
+          "text": "La disminución de calcio en el mioplasma ocurre principalmente por bombas de transporte activo con consumo de ATP y expulsion de calcio al exterior en diastole por el intercambiador Na+/Ca2+.",
+          "correct": true
+        },
+        {
+          "id": "c51773c5-db5d-40f4-93e5-0d77dcefafce",
+          "text": "El aumento de calcio en el mioplasma de debe al ingreso del catión del medio extracelular principalmente."
+        },
+        {
+          "id": "2fe89f13-1eaf-4f82-a5e4-666bff08548c",
+          "text": "La relajación es un fenómeno pasivo ya que el calcio se dirige al medio extracelular a favor de su gradiente de concentración."
+        },
+        {
+          "id": "33aada7d-d65e-4efd-ac4f-457da63ab062",
+          "text": "Se une a tropomiosina para comenzar la formación de puentes cruzados."
+        },
+        {
+          "id": "153af2a1-dbcd-4e29-b7a8-66103a2d5dd6",
+          "text": "Se une a troponina I para comenzar la formación de puentes cruzados."
+        }
+      ]
+    }
+  ],
+  "evaluations": [
+    {
+      "key": "parcial_2_t",
+      "name": "2° parcial teórico"
+    }
+  ]
+}
