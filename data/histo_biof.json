@@ -10,6 +10,1436 @@
   "year": 2,
   "questions": [
     {
+      "id": "26c14e23-ad35-41f7-a904-3cc606813a90",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "En relación a lo tratado sobre marcha humana indique lo correcto.",
+      "options": [
+        {
+          "id": "aeaf2689-2a67-4b79-aca4-6b181ce981d1",
+          "text": "La velocidad media de la marcha es un importante predictor clínico.",
+          "correct": true
+        },
+        {
+          "id": "7032dbe9-0334-4b93-866f-413495711750",
+          "text": "Durante todo el ciclo de marcha el centro de masas total del cuerpo está ubicado aproximadamente en la mitad del tronco sobre la columna vertebral."
+        },
+        {
+          "id": "029d65c9-a2f1-4b0e-8b91-ae1a42b359c8",
+          "text": "Las dos fases generales de la marcha normal tienen aproximadamente la misma duración."
+        }
+      ]
+    },
+    {
+      "id": "cd8ec748-8782-4196-9498-cc587ed75b6f",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "Indique la opción correcta de las siguientes relacionadas con la transferencia de energía mecánica durante la marcha:",
+      "options": [
+        {
+          "id": "d59e7074-8f90-4dbf-b7a5-e3648ffbfef7",
+          "text": "El modelo de péndulo invertido explica que la velocidad de marcha y el costo metabólico tengan una relación funcional con un mínimo cerca de los 4 km/h.",
+          "correct": true
+        },
+        {
+          "id": "7b7d2492-5dcd-4588-b5ba-5a3a4a5fe49d",
+          "text": "El modelo de péndulo invertido permite explicar el alineamiento del centro de masas del cuerpo en el plano coronal."
+        },
+        {
+          "id": "d3ae4375-e81f-4092-ab93-fe5605e307fd",
+          "text": "Las transformaciones de energía mecánica a nivel del centro de masa pueden alcanzar cerca de un 60% cuando la velocidad de marcha es muy baja o muy alta."
+        }
+      ]
+    },
+    {
+      "id": "978186a0-5aac-4937-8c0f-cd7c40c4e592",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "Sobre la contracción a poscarga (marque lo correcto):",
+      "options": [
+        {
+          "id": "2ce897db-8712-4b87-bcf1-b70f224748d6",
+          "text": "La duración de la fase isométrica depende directamente de la carga (es mayor si la carga es mayor).",
+          "correct": true
+        },
+        {
+          "id": "b2f3328f-86df-4f04-8ee7-de38cac088fa",
+          "text": "La longitud inicial depende de la carga a desplazar."
+        },
+        {
+          "id": "fd6a4d9b-3ab0-46d6-9820-c7556a04705a",
+          "text": "La velocidad de acortamiento es la misma a distintas longitudes iniciales."
+        }
+      ]
+    },
+    {
+      "id": "2ff55815-d3d5-4e10-b0b1-d6ee5cae3efd",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "El músculo estriado cardíaco se diferencia del músculo estriado esquelético en que (indique lo correcto):",
+      "options": [
+        {
+          "id": "e7137fd3-2944-4d9e-bff2-edf242495201",
+          "text": "Sus células se unen mediante uniones mecánicas específicas.",
+          "correct": true
+        },
+        {
+          "id": "f49001d9-b58f-4bac-957d-d51b53017407",
+          "text": "Carece de organelos capaces de almacenar calcio."
+        },
+        {
+          "id": "ab5cb463-0e91-45e8-82c2-f3a541f5c6ca",
+          "text": "Carece de unidades contráctiles como el sarcómero."
+        },
+        {
+          "id": "4847fdff-4a39-488e-95d5-9413cf50cc34",
+          "text": "Presenta menor cantidad de mitocondrias."
+        }
+      ]
+    },
+    {
+      "id": "7d9c6209-8b74-4f2f-babb-6d58062239aa",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "En relación al potencial de acción en el músculo cardíaco ventricular marque la opción correcta.",
+      "options": [
+        {
+          "id": "c9f4d62e-3c29-4da1-bd51-1c2d8ddd6a60",
+          "text": "La repolarización depende del aumento de las corrientes de K+.",
+          "correct": true
+        },
+        {
+          "id": "01e08a39-fd66-4f1a-b443-298ae6856516",
+          "text": "La conductancia de la membrana durante la fase de meseta es mayor que en el reposo."
+        },
+        {
+          "id": "29f596c1-93b6-494a-a52d-fe7234876872",
+          "text": "La duración del potencial de acción está determinada fundamentalmente por la corriente de Na+."
+        },
+        {
+          "id": "9df10e29-02ed-4673-af5b-bf407846220b",
+          "text": "La fase de despolarización rápida (fase 0) depende de la concentración de Ca2+ extracelular."
+        }
+      ]
+    },
+    {
+      "id": "97b35486-63d4-4060-a94a-618042f6d0de",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "Indique cuál de las siguientes localizaciones NO es correcta con respecto al músculo liso:",
+      "options": [
+        {
+          "id": "31cf0f2f-c813-48e0-b8dc-8cdf656da199",
+          "text": "Esfínter anal externo.",
+          "correct": true
+        },
+        {
+          "id": "69adc2cb-63cc-432c-ac9e-f0bc3ed54356",
+          "text": "Pared de vasos sanguíneos."
+        },
+        {
+          "id": "1dc9129b-55e5-4238-9883-256bb45a3be5",
+          "text": "Pared de vísceras huecas del tubo digestivo."
+        },
+        {
+          "id": "f5366c6e-93fc-4a11-831b-17818ddac66a",
+          "text": "Útero en gestación."
+        }
+      ]
+    },
+    {
+      "id": "9b533726-360e-4cf3-84a9-133b41d5b408",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "Indique lo correcto en relación al túbulo T presente en el músculo estriado:",
+      "options": [
+        {
+          "id": "695ec079-0c5d-43ae-ae39-97baa39eb369",
+          "text": "Se originan a partir del sarcolema.",
+          "correct": true
+        },
+        {
+          "id": "3b5fbd0e-1e14-4a29-864b-99ae9d6dd039",
+          "text": "Almacenan calcio durante la contracción muscular."
+        },
+        {
+          "id": "a5df6d3b-1ce6-4f15-a2a9-6996870fc512",
+          "text": "Son dilataciones del retículo sarcoplasmático."
+        },
+        {
+          "id": "61181d78-8160-4fdf-869f-19a8f1a08c35",
+          "text": "Son funcionalmente equivalentes a las cavéolas del músculo liso."
+        }
+      ]
+    },
+    {
+      "id": "0baf8315-9b1b-47c0-9be0-091794fe29ea",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "Marque la opción correcta en relación al músculo cardíaco ventricular.",
+      "options": [
+        {
+          "id": "0146a6de-55de-4473-8fae-107a57a43096",
+          "text": "La mutación de los canales de K+ puede explicar el aumento en la duración del potencial de acción causante del síndrome de QT prolongado.",
+          "correct": true
+        },
+        {
+          "id": "82f35378-b3e0-4769-9cc9-1fa308750066",
+          "text": "La corriente denominada ITO contribuye significativamente a la despolarización durante la fase de meseta del potencial de acción."
+        },
+        {
+          "id": "2f55cfb8-80b6-4be9-9b2c-6b481109dc14",
+          "text": "La despolarización moderada de la membrana (a -45 mV) suprime el potencial de acción."
+        },
+        {
+          "id": "2766c49d-1d95-40b0-bae4-6182efdca67d",
+          "text": "La fase de meseta en el músculo normal es consecuencia de la inactivación incompleta del canal de Na+."
+        },
+        {
+          "id": "13b2307d-7c3a-41af-81f9-3d5c81f064ad",
+          "text": "La reducción del Ca2+ extracelular no tiene efectos sobre el potencial de acción."
+        }
+      ]
+    },
+    {
+      "id": "70ab7f1f-13a8-47df-9f5d-11c7c53d4dc1",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "Marque la opción correcta en relación al músculo cardíaco.",
+      "options": [
+        {
+          "id": "ed9b79c4-8723-4592-98dd-ad0c7ab48a80",
+          "text": "El Ca2+ que participa en la activación contráctil proviene fundamentalmente del liberado por el retículo sarcoplasmático.",
+          "correct": true
+        },
+        {
+          "id": "09cae0e4-f9c9-4da5-9e76-7135973ba180",
+          "text": "El aumento de la concentración de Ca2+ intracelular responsable de la activación contráctil se produce como consecuencia de la activación del receptor de inositoltrifosfato (IP3)."
+        },
+        {
+          "id": "70a67950-898a-4691-a785-514c010f8ebb",
+          "text": "La tensión desarrollada en respuesta a un potencial de acción se reduce si la corriente de Ca2+ lenta es mayor."
+        },
+        {
+          "id": "1718966c-9116-4d1b-8ac2-17531d8cc261",
+          "text": "Un aumento en la frecuencia de estimulación de una célula cardíaca produce una disminución de la tensión desarrollada en cada contracción."
+        }
+      ]
+    },
+    {
+      "id": "a4f50b2c-f39a-4acf-b1b0-12d65c2a1c94",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "Respecto a la modulación del automatismo en nódulo sinusal (marque lo correcto):",
+      "options": [
+        {
+          "id": "bb868038-ce4d-45a0-a2a2-533a1eee809d",
+          "text": "Los nucleótidos cíclicos son importantes agentes moduladores de la actividad de canales HCN, responsables de la corriente If.",
+          "correct": true
+        },
+        {
+          "id": "ff7c00c3-9d99-4d20-a4df-c4282f1f0ab2",
+          "text": "Durante el ejercicio o estados de ansiedad, aumenta la corriente por canales de K+ rectificadores retardados (KCNQ)."
+        },
+        {
+          "id": "bc53f116-ce95-4a29-ae29-1d4b22d86140",
+          "text": "El ion Ca2+ es el catión más importante que permea por los canales HCN."
+        },
+        {
+          "id": "bb0e8bb1-5bae-46bd-9a47-e7d7bca19937",
+          "text": "La corriente If aumenta ante la aplicación de acetilcolina."
+        },
+        {
+          "id": "05de92a6-9901-4ac1-b88d-fb47e4ec5d7e",
+          "text": "La repolarización del potencial de acción inhibe a la corriente If."
+        }
+      ]
+    },
+    {
+      "id": "2f4dcf7f-c26f-4c89-ad92-d05b60829d68",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "Respecto a las propiedades mecánicas del músculo liso (marque lo correcto):",
+      "options": [
+        {
+          "id": "25c800b3-b570-4d63-a97f-983cc5601d34",
+          "text": "El fenómeno relajación de estrés (o viscoelástica) es un fenómeno pasivo que se caracteriza por un aumento de tensión/presión seguido de inmediata disminución de las mismas al estirar el músculo mediante aumento de longitud/volumen.",
+          "correct": true
+        },
+        {
+          "id": "ef89477f-962b-4086-8da3-284825b45fc0",
+          "text": "A diferencia del músculo esquelético, no sigue la ley de Hill."
+        },
+        {
+          "id": "b780bb66-18d1-4684-89f0-f6445bca23df",
+          "text": "La curva longitud-tensión para la tensión activa, no presenta una longitud óptima para la cual se desarrolla el máximo de tensión activa."
+        },
+        {
+          "id": "c8494f40-e76f-4614-b32e-fbf96ce3a367",
+          "text": "La tensión total en la curva longitud-tensión es similar a la que presenta el músculo esquelético."
+        },
+        {
+          "id": "9ff4940a-179d-4546-8bb6-8db6886cb635",
+          "text": "La velocidad máxima de contracción disminuye con la fosforilación de la miosina."
+        }
+      ]
+    },
+    {
+      "id": "177cdd9a-3698-4354-9dc7-92b3b6409f91",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "Respecto a las variables lineales de un ciclo de marcha que constituyen los requisitos mínimos que se deben describir en un análisis cinemático, indique cuál definición es correcta:",
+      "options": [
+        {
+          "id": "67e4f5af-8363-4222-8b89-6979fae8da54",
+          "text": "La cadencia es el número de pasos que ocurren en cada unidad de tiempo.",
+          "correct": true
+        },
+        {
+          "id": "2f6b8c33-6bb4-47f1-abda-d88ace583972",
+          "text": "El largo de ciclo es la distancia recorrida entre el toque de un pie y el otro."
+        },
+        {
+          "id": "78aaeddd-952a-4ca3-bc0c-52ed8f652a8f",
+          "text": "El largo de paso corresponde a la distancia entre iguales puntos de referencia del mismo pie durante el doble apoyo."
+        }
+      ]
+    },
+    {
+      "id": "ddbea237-48d3-4ca0-a792-2a799f06b1fb",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "Respecto al acoplamiento contráctil en músculo liso (marque lo correcto):",
+      "options": [
+        {
+          "id": "b0960cea-a897-4f16-bedb-f7d7412b27fc",
+          "text": "Como en todos los músculos, depende de un aumento de la concentración de Ca2+ intracelular.",
+          "correct": true
+        },
+        {
+          "id": "17ab4d16-e91e-4329-b5b8-abe96ab6c9b0",
+          "text": "Generalmente es más rápido que en el músculo cardíaco."
+        },
+        {
+          "id": "3dd988ce-5354-4f80-a976-f4d5de019610",
+          "text": "La liberación de Ca2+ se produce sobre todo desde las cavéolas."
+        },
+        {
+          "id": "93781734-14ca-4730-afde-77ed003f559f",
+          "text": "No se puede producir si se bloquean los canales de Ca2+ L."
+        },
+        {
+          "id": "fcc0aada-cb37-48f3-894c-44faf991f283",
+          "text": "Se produce por acoplamiento e interacción molecular directa entre los canales de Ca2+ L de la membrana y el receptor de inositoltrifosfato (RIP3)."
+        }
+      ]
+    },
+    {
+      "id": "e4a94dd8-a0a2-49c8-aaaf-4f22b8d447ea",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "Respecto al automatismo en nódulo sinusal (marque lo correcto):",
+      "options": [
+        {
+          "id": "5a23e0e8-9700-49ea-92cc-3ddac34902a0",
+          "text": "La activación de receptores muscarínicos de acetilcolina, activa la corriente por canales de K+ rectificadores retardados.",
+          "correct": true
+        },
+        {
+          "id": "b29df1cc-52f3-438b-acc3-8aad13ba50a2",
+          "text": "El potencial de membrana más negativo que alcanza, es equiparable al del miocardio de contracción."
+        },
+        {
+          "id": "9c018ded-ef60-4662-b333-4032445c1dbc",
+          "text": "La activación de receptores beta-adrenérgicos por agonistas beta, aumenta la duración del potencial del nodo al doble."
+        },
+        {
+          "id": "0aff15e1-c999-4e93-9e53-947dd08ffeee",
+          "text": "La repolarización se produce por canales de K+ rectificadores entrantes (IKr o IK1)."
+        },
+        {
+          "id": "4f2e35e0-3e42-4149-91d3-f23568a352a2",
+          "text": "Su actividad se registra como la onda P del electrocardiograma."
+        }
+      ]
+    },
+    {
+      "id": "bedb67ae-af3b-45f9-85d5-41e33eaca568",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "Sobre el acoplamiento excitación-contracción del músculo esquelético (marque lo correcto):",
+      "options": [
+        {
+          "id": "0d2cd729-52f5-4991-a24a-15112a2ebf93",
+          "text": "Prácticamente todo el Ca2+ que activa la contracción es transportado hacia la luz del retículo sarcoplasmático durante la relajación.",
+          "correct": true
+        },
+        {
+          "id": "dca472d7-c2c7-46f2-8fed-7a6d84c3c4b4",
+          "text": "Durante el potencial de acción ingresa a la célula (desde el exterior) una parte importante del Ca2+ que activa la contracción."
+        },
+        {
+          "id": "dfbae3a6-6aed-48bd-a523-9af2608dd1d2",
+          "text": "La velocidad con que se abren los receptores de dihidropiridina es suficiente para que una fracción mayoritaria de ellos se encuentran permeables durante el potencial de acción."
+        },
+        {
+          "id": "779c1247-849e-44d4-8d3e-8125d8f32467",
+          "text": "Los receptores de ryanodina se encuentran uniformemente distribuidos en el retículo sarcoplasmático."
+        }
+      ]
+    },
+    {
+      "id": "0a59bf1c-3f61-4af1-bd99-8a8a8e3d7346",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "Sobre la contracción del músculo esquelético (marque lo correcto):",
+      "options": [
+        {
+          "id": "1725f048-6d65-48bc-a5e3-0814cca6ae5b",
+          "text": "La velocidad de acortamiento sin carga se correlaciona directamente con el consumo de ATP por unidad de tiempo.",
+          "correct": true
+        },
+        {
+          "id": "48a82b2d-0682-4282-9adb-f91336f89bbe",
+          "text": "La fuerza pasiva es una función lineal de la longitud de reposo."
+        },
+        {
+          "id": "6e0db9e7-c0b1-4d1c-821a-c84cf99c84e5",
+          "text": "La fuerza tetánica isométrica máxima corresponde a una longitud igual al doble de la longitud de inserción ósea."
+        },
+        {
+          "id": "e1f5b854-5a6a-4ef1-b78d-da0d860e651e",
+          "text": "La velocidad de acortamiento sin carga es directamente proporcional al número de puentes transversales formados."
+        }
+      ]
+    },
+    {
+      "id": "ffab6c72-b423-460b-a06c-3e570c8a8bec",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "Sobre las bases moleculares de la contracción muscular (marque lo correcto):",
+      "options": [
+        {
+          "id": "63576cf5-739b-4404-a0f1-2cef9ac7f284",
+          "text": "La unión de ATP a la miosina disminuye la afinidad de esta por actina.",
+          "correct": true
+        },
+        {
+          "id": "5abcd2e4-f7a8-4140-8145-6cd0f238a83b",
+          "text": "Durante el ciclo del puente transversal la ruptura del enlace fosfato de alta energía del ATP ocurre cuando la miosina está unida a actina."
+        },
+        {
+          "id": "4856beef-46d8-4463-9577-0c2131487af3",
+          "text": "La liberación de los productos de hidrólisis requiere la unión de Ca2+ a la miosina."
+        }
+      ]
+    },
+    {
+      "id": "390c7b5a-e130-4417-8fd6-a140c374b0a7",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Con respecto a las acciones necesarias para tener una marcha normal que permita minimizar el costo metabólico y mantener la estabilidad:",
+      "options": [
+        {
+          "id": "129f605a-ff28-4651-b8a2-a19bc33274f7",
+          "text": "Durante todo el apoyo el calcáneo el tobillo y el ante-pié sirven como \"rodamientos\" que permiten al cuerpo avanzar.",
+          "correct": true
+        },
+        {
+          "id": "4f4b288d-b0c5-40cd-8a5e-25ee89390970",
+          "text": "La extensión de rodilla que sigue al contacto inicial permite la amortiguación del impacto."
+        },
+        {
+          "id": "aba3765a-d5b1-4059-9d54-cb5eaaf1d809",
+          "text": "Para una correcta progresión sobre el miembro apoyado resulta fundamental minimizar la amplitud de extensión pasiva de rodilla y cadera."
+        }
+      ]
+    },
+    {
+      "id": "ecec47b4-2421-45f1-aac7-1808739a2b5d",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Con respecto al mecanismo de la contracción muscular (marque lo correcto):",
+      "options": [
+        {
+          "id": "06e54be7-3fd9-458d-b9c5-3cb320b98c57",
+          "text": "El cambio en la orientación de la cabeza de la miosina está vinculado a la liberación de los productos de la hidrólisis del ATP.",
+          "correct": true
+        },
+        {
+          "id": "3667a1e9-df26-451d-bbd6-aad49ad5eea6",
+          "text": "Al unir Ca2+ la tropomiosina permite la interacción actina-miosina."
+        },
+        {
+          "id": "e7a7c4a3-0cd4-45ef-af69-6be4dc981065",
+          "text": "En ausencia de ATP y en presencia de Ca2+ actina y miosina no interactúan."
+        },
+        {
+          "id": "4b783319-c0d5-458c-bac1-44a393b64ebe",
+          "text": "La afinidad de la miosina por la actina aumenta cuando el ATP se une a la primera."
+        }
+      ]
+    },
+    {
+      "id": "e399589c-4e55-4e0e-a2e0-108614fed398",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Con respecto al músculo liso (marque lo correcto):",
+      "options": [
+        {
+          "id": "bb86c79b-2357-4b17-a465-a045aba5f4f4",
+          "text": "La recaptación de Ca2+ hacia el retículo sarcoplasmático junto al transporte de Ca2+ mediado por el intercambiador Na+/Ca2+ contribuyen a la relajación muscular.",
+          "correct": true
+        },
+        {
+          "id": "43fd73e2-79e8-43ef-9093-9d9fff0b384e",
+          "text": "La contracción va siempre precedida de la despolarización de la membrana celular."
+        },
+        {
+          "id": "136d3ceb-026d-4e52-9b93-8d3c45c80de4",
+          "text": "La entrada de IP3 por canales no selectivos determina la activación de los receptores para este mensajero en el retículo sarcoplasmático."
+        },
+        {
+          "id": "f14dcb39-a55e-4c37-a475-4856e4b249e6",
+          "text": "La unión del IP3 a la fosforilasa de la cadena liviana de la miosina activa la contracción."
+        }
+      ]
+    },
+    {
+      "id": "a82313d7-49b2-4c1e-9052-374dc3023251",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Con respecto al tejido marcapaso cardíaco (marque lo correcto):",
+      "options": [
+        {
+          "id": "d6b94cd1-4a9d-44b1-9b5d-55cbbd90c004",
+          "text": "La corriente If se activa al hiperpolarizar la membrana.",
+          "correct": true
+        },
+        {
+          "id": "26623305-d138-4eb1-b18d-8496b95dfd8f",
+          "text": "El canal HCN responsable de If es modulado por una fosforilación dependiente de la proteína quinasa A."
+        },
+        {
+          "id": "bb46b95c-fcac-428b-b2c6-d77cebf44c1a",
+          "text": "La frecuencia de disparo del nodo auriculo-ventricular es en general mayor que la del nodo sinusal."
+        },
+        {
+          "id": "2eebe16d-0e95-4d6b-8f9d-9383740da03b",
+          "text": "La participación del rectificador entrante es fundamental para la repolarización en el nodo sinusal."
+        }
+      ]
+    },
+    {
+      "id": "fb75ded9-64b2-4907-a5e9-d6252bd2814b",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "De las siguientes opciones referidas a términos que habitualmente son utilizados en el estudio de la marcha, indique la correcta:",
+      "options": [
+        {
+          "id": "abd7c6c9-8e12-4bcb-80dd-fa2443fedf41",
+          "text": "El estadio rítmico de la marcha es el intervalo de tiempo en el que se mantiene una velocidad de progresión más o menos constante.",
+          "correct": true
+        },
+        {
+          "id": "480a6f78-393c-49c7-9f69-a756036bbb4f",
+          "text": "El largo del ciclo se puede medir entre 2 toques sucesivos cualesquiera de los pies."
+        },
+        {
+          "id": "b7811db4-ec41-4c83-9445-64eadbb34ab9",
+          "text": "En general cuando aumenta la cadencia disminuye la velocidad media de desplazamiento."
+        }
+      ]
+    },
+    {
+      "id": "883e4316-a23e-4f57-a402-0d94cb8d2c82",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "El túbulo T o túbulo transverso del músculo estriado (indique la opción correcta):",
+      "options": [
+        {
+          "id": "bdbc7c8d-641b-4936-b549-d182b6637266",
+          "text": "Es parte del sarcolema.",
+          "correct": true
+        },
+        {
+          "id": "3ba5b392-bf0d-4881-a1b2-3616c7584dff",
+          "text": "Almacena glucógeno."
+        },
+        {
+          "id": "025ebf1c-db13-440c-97eb-fa3fe9aa29c0",
+          "text": "Es continuo con el retículo sarcoplásmico."
+        },
+        {
+          "id": "8eeebb2e-db48-4e8f-900b-cf534092dd4c",
+          "text": "Es un reservorio de calcio."
+        }
+      ]
+    },
+    {
+      "id": "9da27e11-8752-4be8-9f5a-4d89c76b8ae7",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "En el músculo esquelético la activación de la liberación de Ca2+ se debe a (marque lo correcto):",
+      "options": [
+        {
+          "id": "5a50e05b-3029-4291-bf23-fb293b3364cd",
+          "text": "La interacción del receptor de dihidropiridina (DHP) con el receptor de rianodina (RyR).",
+          "correct": true
+        },
+        {
+          "id": "b6febae8-380f-4812-bfec-3400f3e1711c",
+          "text": "La despolarización electrotónica de los túbulos transversos."
+        },
+        {
+          "id": "c28da2e0-58bb-492a-8ead-99d204c5f38e",
+          "text": "La entrada de Ca2+ por el canal de Ca2+ tipo T."
+        },
+        {
+          "id": "113bb795-49c4-4c9f-b2b3-ed0655e48ba0",
+          "text": "La fosforilación del receptor de rianodina mediada por PKA."
+        }
+      ]
+    },
+    {
+      "id": "fb1e3564-15e9-4acb-bd23-9e4e9f622894",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "En relación al músculo liso (marque lo correcto):",
+      "options": [
+        {
+          "id": "dafa3759-18aa-48ed-a94c-15e6420178fc",
+          "text": "La activación de la contracción implica la unión del Ca2+ a la calmodulina.",
+          "correct": true
+        },
+        {
+          "id": "5ab7934c-22fd-43e6-ba65-657c34c4829a",
+          "text": "En el diagrama velocidad-carga se verifica que a niveles altos de fosforilación se alcanzan velocidades de contracción comparables con las del músculo esquelético."
+        },
+        {
+          "id": "c0792caa-2d17-43ac-8603-87b09abf9c83",
+          "text": "En el mecanismo de la contracción interviene la fosforilación de la actina."
+        },
+        {
+          "id": "111428f2-38f1-4140-b513-4e4f5a1a52ed",
+          "text": "La relación tensión longitud es lineal."
+        }
+      ]
+    },
+    {
+      "id": "5311393f-50bb-467b-ba95-8d57fcf33037",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "En relación con las divisiones del ciclo de marcha para su estudio:",
+      "options": [
+        {
+          "id": "39f40494-5f24-4409-a599-7536e9febb08",
+          "text": "En la marcha normal, el \"balanceo terminal\" o \"balanceo final\" comienza cuando la pierna del miembro de referencia está vertical.",
+          "correct": true
+        },
+        {
+          "id": "0b772799-7dde-41ea-9057-3ca29e4686b8",
+          "text": "Considerando la totalidad del ciclo como 100%, la fase de apoyo total tiene una duración aproximada del 40% a cualquier velocidad de marcha."
+        },
+        {
+          "id": "a54b36cc-683b-4bd4-b697-8c281e07bcbf",
+          "text": "El doble apoyo inicial queda comprendido desde el toque del pie opuesto hasta el desprendimiento del pie de referencia."
+        }
+      ]
+    },
+    {
+      "id": "61dba030-50f0-4cc1-b88a-47fe3bccd349",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Indique cual de las siguientes afirmaciones asociadas con la velocidad durante la marcha humana considera correcta.",
+      "options": [
+        {
+          "id": "c013d8fe-ea88-4d45-875f-f9e4304b804a",
+          "text": "En pacientes geriátricos, la velocidad media es un predictor del riesgo de sufrir caídas.",
+          "correct": true
+        },
+        {
+          "id": "948a4f70-ef95-4adf-9074-dec233ca0ded",
+          "text": "Gráficamente la velocidad corresponde a la tangente en cada punto de la curva de aceleración con respecto al tiempo."
+        },
+        {
+          "id": "b6851187-375a-44ff-bcf0-265149853339",
+          "text": "Por encima de la velocidad autoseleccionada (aproximadamente 4 km/h), la marcha se vuelve más eficiente."
+        }
+      ]
+    },
+    {
+      "id": "73bbaf3f-fde5-43f8-93f7-3521b4f35f9a",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Señale cuál de las siguientes correspondencias entre dimensiones físicas y unidades es la correcta:",
+      "options": [
+        {
+          "id": "a04c496a-ab11-4b22-b358-483b7d2c4a7e",
+          "text": "Energía - Nm",
+          "correct": true
+        },
+        {
+          "id": "1711ad09-d81b-4649-a2c6-7b8cc040bfe7",
+          "text": "Fuerza - kgms-1"
+        },
+        {
+          "id": "7f6c14a3-0da3-48ef-a549-c10c6e7693e7",
+          "text": "Tensión - kgms-2"
+        },
+        {
+          "id": "c1dc6b83-ef28-4ef0-94e1-78f7c52316c7",
+          "text": "Torque - N"
+        }
+      ]
+    },
+    {
+      "id": "aefac168-2c41-40a5-9ab3-002d5e416f52",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Sobre el acoplamiento excitación contracción en el miocito ventricular cardíaco (marque la opción correcta).",
+      "options": [
+        {
+          "id": "1d918dcd-1973-423a-8102-642479c2ba39",
+          "text": "La adrenalina aumenta la intensidad de la contracción (efecto inotrópico positivo).",
+          "correct": true
+        },
+        {
+          "id": "83a31b4a-354e-46f4-bffd-33339f8a6a29",
+          "text": "La célula continúa contrayéndose en una solución extracelular sin Ca2+."
+        },
+        {
+          "id": "d0c3a3a0-067f-4377-aa59-623914482cd0",
+          "text": "La relajación es la consecuencia de que todo el Ca2+ que activa la contracción se transporta hacia el exterior por medio de un bombeo que consume ATP."
+        }
+      ]
+    },
+    {
+      "id": "ad00fc4f-f94c-4bf7-affd-3d4e2ccfadb3",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Sobre el potencial de acción ventricular (marque la opción correcta).",
+      "options": [
+        {
+          "id": "156e3895-1632-41c0-bd54-22a668bb7f51",
+          "text": "La duración de la meseta en el miocito normal depende del balance de las corrientes de Ca2+ (por los canales L) y de K+ (por los canales rectificadores tardíos y entrantes).",
+          "correct": true
+        },
+        {
+          "id": "80d30772-f64a-4f91-a986-74198f57fe3e",
+          "text": "La corriente a través de los rectificadores entrantes es mayor durante la meseta que al potencial de reposo debido al aumento de la fuerza electromotriz para K+."
+        },
+        {
+          "id": "4f335b05-34dd-4cda-8fc7-d5e9ec4727e8",
+          "text": "Una forma familiar de síndrome de QT largo es debida al aumento de la corriente a través de los rectificadores tardíos en las células enfermas."
+        }
+      ]
+    },
+    {
+      "id": "4f2223cd-7ede-4dc2-881d-6e4177ab746e",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Sobre la corriente de Ca2+ a través de los canales L (marque la opción correcta).",
+      "options": [
+        {
+          "id": "56677291-a7d5-4a45-af23-16cbd83f4e2f",
+          "text": "La activación de los canales L ocurre a voltajes más positivos que la de los canales de Na+.",
+          "correct": true
+        },
+        {
+          "id": "65cebfa0-770e-41ad-915d-f61d653fcc2f",
+          "text": "Durante la meseta su intensidad es siempre mayor que la de las corrientes de K+."
+        },
+        {
+          "id": "1de029f1-c2d0-4cd0-85f4-38e1e1e89946",
+          "text": "Es inhibida por la acción de adrenalina."
+        },
+        {
+          "id": "7eceb839-69ea-4b63-9877-8ed4f5822d9f",
+          "text": "Es modulada por la acción directa sobre el canal de la enzima adenilciclasa."
+        },
+        {
+          "id": "0ea38b21-7524-42fa-9bfb-faeefe343003",
+          "text": "No presenta inactivación."
+        }
+      ]
+    },
+    {
+      "id": "0c2659d8-c02d-4f43-9127-87953807dc56",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Sobre la curva tensión-longitud isométrica (marque lo correcto):",
+      "options": [
+        {
+          "id": "fb043282-896a-4dc0-a249-85ad4027e5c1",
+          "text": "La fuerza activa es proporcional al número de puentes transversales simultáneamente formados.",
+          "correct": true
+        },
+        {
+          "id": "f78b7b85-ace3-49d6-a3b2-1449cac5bc46",
+          "text": "La longitud óptima de la tensión activa corresponde a longitudes mayores al doble de la longitud de inserción ósea."
+        },
+        {
+          "id": "ed5d3e55-194b-459e-adc2-07f40ff9171d",
+          "text": "La tensión pasiva es debida a una elasticidad de Hooke (lineal)."
+        }
+      ]
+    },
+    {
+      "id": "fee5ac08-9400-460a-8529-ad1d509d074e",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Sobre las fibras rápidas fatigables (marque la opción correcta).",
+      "options": [
+        {
+          "id": "7e8cdf51-1248-403b-ba8a-1ab76b1a78d9",
+          "text": "El contenido de mitocondrias por unidad de volumen es bajo comparado con las fibras lentas.",
+          "correct": true
+        },
+        {
+          "id": "64db7116-d38c-443c-a774-227a1787a3f1",
+          "text": "Participan de unidades motoras mixtas junto a fibras lentas."
+        },
+        {
+          "id": "f1e3eeeb-8d6a-4dad-90a2-66de47635c34",
+          "text": "Su diámetro no es significativamente mayor que el de los otros tipos de fibras."
+        },
+        {
+          "id": "bff67661-7fb5-477b-a765-51defe30897e",
+          "text": "Tiene el mismo tipo de ATPasa que las fibras lentas."
+        }
+      ]
+    },
+    {
+      "id": "78f5cf5e-0766-401a-bab4-8df08f9ff2ea",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "¿Cuál de estas opciones explica correctamente cómo se calcula el momento que una fuerza ejerce sobre un objeto que posee un eje de rotación perpendicular a la misma?",
+      "options": [
+        {
+          "id": "ebc54f55-402f-4cc5-b550-7ac1d28c628f",
+          "text": "Se multiplica el módulo de la fuerza por el brazo de la fuerza y luego se utiliza la regla de la mano derecha semicerrada para determinar el sentido del momento resultante.",
+          "correct": true
+        },
+        {
+          "id": "0c480ba9-536a-4e0b-b10a-f6e397857184",
+          "text": "Se calcula el producto punto de la fuerza por el brazo de la fuerza."
+        },
+        {
+          "id": "aa20d2d7-8181-4d8e-8422-b8748e262006",
+          "text": "Se calcula el producto punto de la fuerza por la posición."
+        }
+      ]
+    },
+    {
+      "id": "0b3fc0ae-5f97-4db4-873e-d5106dc2816f",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "¿Cuál de las siguientes afirmaciones es correcta?",
+      "options": [
+        {
+          "id": "04b8a563-0849-47e6-a248-eface0b333f8",
+          "text": "Las fuerzas internas de un objeto son las que lo mantienen unido y con una forma dada mientras está sometido a una carga.",
+          "correct": true
+        },
+        {
+          "id": "c4034887-f3cf-4ab2-8b0a-93f98500e1a7",
+          "text": "El módulo de Young del hueso compacto es menor que el correspondiente a los ligamentos."
+        },
+        {
+          "id": "499bd2e0-7874-42c9-b51d-b8e8e235e262",
+          "text": "Las colisiones elastoplásticas son aquellas en las que se conservan la energía cinética total y la cantidad de movimiento total."
+        },
+        {
+          "id": "b917f20b-29f9-4903-8b1b-7860865f93f4",
+          "text": "Para medir la deformación de cuerpos con independencia del tamaño del objeto en estudio y así comparar resultados se normaliza la fuerza usando el área de sección (además de otras normalizaciones)."
+        }
+      ]
+    },
+    {
+      "id": "02dda888-5cfc-4a3c-85ad-66e402ab1a00",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "¿Cuál de las siguientes características ultraestructurales es exclusiva de la variedad lisa del tejido muscular (indique la opción correcta)?",
+      "options": [
+        {
+          "id": "beddbf30-2000-45b7-8c9b-04d9c2987819",
+          "text": "Presencia de cuerpos densos.",
+          "correct": true
+        },
+        {
+          "id": "62649152-6f2e-47d3-aa9a-808a94fd98c5",
+          "text": "Abundantes filamentos de actina."
+        },
+        {
+          "id": "c967560b-b857-4a20-92a0-51afd4892eff",
+          "text": "Abundantes mitocondrias."
+        },
+        {
+          "id": "b3efa8ce-eb46-42e4-a77a-c535b3018c3d",
+          "text": "Presencia de gránulos de glucógeno."
+        }
+      ]
+    },
+    {
+      "id": "a0c1d7d7-4679-4558-8eeb-c29b28a4d16f",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "¿Qué tipo de uniones intercelulares se encuentran en el componente transversal de los discos intercalares del miocardio (indique la opción correcta)?",
+      "options": [
+        {
+          "id": "f9282431-e4ea-455c-a71e-66e45083db0c",
+          "text": "Desmosomas.",
+          "correct": true
+        },
+        {
+          "id": "58bb12c8-9e84-4750-bf37-efd60a9ddcfe",
+          "text": "Hemidesmosomas."
+        },
+        {
+          "id": "ccd30f83-1fc7-4ed5-ac0f-8a486d8e1b41",
+          "text": "Uniones de hendidura."
+        },
+        {
+          "id": "fe379e19-138a-4822-ad0c-684de3b0923a",
+          "text": "Zónulas ocluyentes."
+        }
+      ]
+    },
+    {
+      "id": "2c49943e-8f34-485f-ae32-91bb8a8e0cc6",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2018-07-02",
+      "text": "Con respecto a las fases y eventos de la marcha humana normal.",
+      "options": [
+        {
+          "id": "651310be-99ea-4ab4-9761-cdf47f4aa85c",
+          "text": "A velocidad normal o autoseleccionada la fase de balanceo suele tener menor duración relativa al total del ciclo que la fase de apoyo.",
+          "correct": true
+        },
+        {
+          "id": "ab9a088b-1381-451a-97a8-57acbf17b574",
+          "text": "A velocidad autoseleccionada, el segundo doble apoyo ocurre aproximadamente entre el 65-85% del ciclo."
+        },
+        {
+          "id": "58f772ed-ba41-4ae4-afef-65ba78b7ea8c",
+          "text": "Aproximadamente entre 90 al 100% la rodilla de referencia termina su flexión y el pie se pone en posición para el siguiente ataque del talón."
+        }
+      ]
+    },
+    {
+      "id": "e296399a-ed6c-45f7-8ce1-aba560545bb8",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2018-07-02",
+      "text": "Con respecto a las propiedades mecánicas del músculo esquelético (marque la opción correcta):",
+      "options": [
+        {
+          "id": "0969705e-3942-46ef-9a4b-9765eff502aa",
+          "text": "En una contracción a postcarga el músculo se contrae isométricamente en tanto la tensión desarrollada no supere la carga que el músculo debe levantar.",
+          "correct": true
+        },
+        {
+          "id": "904e5c69-4b0d-44b7-b613-5d00e1b71461",
+          "text": "Durante una contracción isométrica no se consume energía porque no se realiza trabajo mecánico."
+        },
+        {
+          "id": "f697ebfa-4ab5-4ca4-95f9-7b25f9690c81",
+          "text": "La velocidad máxima de acortamiento (a carga nula) en una contracción a postcarga depende marcadamente de la longitud inicial del músculo."
+        }
+      ]
+    },
+    {
+      "id": "b6eece0d-be82-40b1-a936-bb045459f807",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2018-07-02",
+      "text": "Con respecto a los resultados obtenidos en el trabajo \"Aprovechamiento de energía, cinemática y estabilidad en la marcha de un paciente con amputación transfemoral sin abordaje de rehabilitación\".",
+      "options": [
+        {
+          "id": "14a42176-e32f-4675-b34e-3eb49c2c6602",
+          "text": "Se observaron variaciones en los parámetros espacio-temporales con el cambio de la velocidad que no son consistentes con los encontrados en otros estudios de amputados.",
+          "correct": true
+        },
+        {
+          "id": "2a56fb9a-8fab-42db-a0fc-b2e2ac97232b",
+          "text": "El uso de prótesis en las condiciones en las que fue realizada la evaluación no compromete la recuperación de energía mecánica en la marcha del paciente."
+        },
+        {
+          "id": "f3ba080e-c330-4b4c-8c75-46e8280f5980",
+          "text": "Los valores angulares, principalmente a nivel de rodilla y tobillo fueron simétricos en todas las velocidades estudiadas."
+        }
+      ]
+    },
+    {
+      "id": "33821db1-cc0d-4ac3-b0db-b0a5742f16ef",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2018-07-02",
+      "text": "Con respecto a los valores angulares de miembro inferior durante la marcha humana normal.",
+      "options": [
+        {
+          "id": "70329c7c-f561-4d9c-b682-b22d35f5dbd8",
+          "text": "A medida que aumenta la velocidad de marcha, la flexión de rodilla en la primera mitad del ciclo es menos pronunciada.",
+          "correct": true
+        },
+        {
+          "id": "ddceb323-979d-4407-96e7-acf838c5565b",
+          "text": "En el memento del contacto inicial el tobillo debe estar en flexión plantar para poder contribuir a amortiguar el impacto durante la respuesta a la carga."
+        },
+        {
+          "id": "6e225c92-3cb7-48bd-baec-8f5ac77bb46e",
+          "text": "Si observamos el ángulo de cadera en el plano sagital a diferentes velocidades de marcha veremos que se da una mayor flexión a medida que aumenta la velocidad."
+        }
+      ]
+    },
+    {
+      "id": "b9856fcc-244d-4b5a-b1f7-ff4c5b1d5015",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2018-07-02",
+      "text": "Con respecto al acoplamiento excitación-contracción en el músculo esquelético (marque la opción correcta):",
+      "options": [
+        {
+          "id": "83a18de7-7270-49f7-a076-36bed575115a",
+          "text": "El canal de liberación de Ca2+ del retículo sarcoplasmático fija con alta afinidad el alcaloide rianodina.",
+          "correct": true
+        },
+        {
+          "id": "ca1df8db-4da9-4f08-9c72-dce870504461",
+          "text": "El segmento transmembrana 2 del dominio III del receptor de dihidropiridina es el responsable de la interacción con el canal de liberación del retículo sarcoplasmático."
+        },
+        {
+          "id": "49dd6c09-8321-4c5c-a302-8c9e4dfd2114",
+          "text": "La despolarización del túbulo transverso se propaga electrotónicamente al retículo sarcoplasmático determinado la activación de los canales de liberación de Ca2+."
+        },
+        {
+          "id": "9b1fdb65-275c-4fa1-b693-15718e73a292",
+          "text": "La relajación muscular se produce como consecuencia del cese de la liberación de Ca2+ junto al transporte activo del mismo hacia el exterior celular."
+        }
+      ]
+    },
+    {
+      "id": "bc47e7c3-3548-443d-b31e-bd4b61963008",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2018-07-02",
+      "text": "Con respecto al acoplamiento excitación-contracción en el músculo ventricular normal (indique la opción correcta):",
+      "options": [
+        {
+          "id": "32972eae-4308-4dc3-ba4e-5e2d51b12602",
+          "text": "La proteína quinasa A se activa como consecuencia del aumento de la actividad de la adenil-ciclasa y determina un aumento de la entrada de Ca2+ a través del canal L.",
+          "correct": true
+        },
+        {
+          "id": "2551608c-46ce-4a46-8cf2-230255ffc2c8",
+          "text": "Debido a que su potencial de equilibrio es más negativo que el potencial de reposo del miocito cardíaco, el intercambiador Na+-Ca2+ contribuye significativamente a la remoción del Ca2+ citoplasmático."
+        },
+        {
+          "id": "64bcfa96-0de7-45da-b537-040bdeb89715",
+          "text": "El 50% de los canales de liberación (RyR2) se activan por interacción directa con el receptor de dihidropiridina (rDHP)."
+        },
+        {
+          "id": "a8d6850f-149b-4e0d-a01c-9996bfa783e4",
+          "text": "La estimulación beta-adrenérgica disminuye la velocidad de la fase de relajación de la contracción."
+        }
+      ]
+    },
+    {
+      "id": "5535bffc-e261-4326-bbe2-2dd1378ca0a7",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2018-07-02",
+      "text": "Con respecto al mecanismo de la contracción en el músculo esquelético (marque la opción correcta):",
+      "options": [
+        {
+          "id": "2d27e83e-9d0a-4a17-9cd5-509ed6df3af0",
+          "text": "La capacidad de la miosina de hidrolizar el ATP se localiza a nivel del segmento S1.",
+          "correct": true
+        },
+        {
+          "id": "d80a0375-278e-4e0f-9ebf-325adf94d19a",
+          "text": "El complejo de rigor es una unión estable entre actina y titina."
+        },
+        {
+          "id": "6211629f-4128-4bd9-9232-309c30e612e9",
+          "text": "En condiciones de reposo la troponina T inhibe la interacción del segmento S1 con la actina."
+        }
+      ]
+    },
+    {
+      "id": "f92d5853-542f-428a-ab00-5226afcd5e71",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2018-07-02",
+      "text": "Con respecto al músculo ventricular, marque la opción correcta.",
+      "options": [
+        {
+          "id": "b7bbe189-c9b8-4c5f-8475-6fcda42c0382",
+          "text": "Durante la intoxicación digitálica se verifican despolarizaciones espontáneas que se originan como consecuencia de un aumento de la actividad del intercambiador Na+-Ca2+.",
+          "correct": true
+        },
+        {
+          "id": "280568a6-a6d9-4d26-a742-b7f7714a5fa3",
+          "text": "El bloqueo de los canales de Ca2+ tipo L reduce en un 50% la contracción."
+        },
+        {
+          "id": "88e15640-11be-414d-b97d-7a67c98e13a7",
+          "text": "El transitorio de Ca2+ citoplasmático se genera por el Ca2+ que llega del medio extracelular a través de ICaL."
+        },
+        {
+          "id": "bfa2386a-ac94-4a3b-bc33-6172be52eaa9",
+          "text": "La inyección intracelular de un quelante de Ca2+ (por ejemplo EGTA), no afecta la contracción."
+        },
+        {
+          "id": "ceebab77-20ea-443e-a1c5-a90ccd8f1244",
+          "text": "Si se aplican pulsos de voltaje que lleven la membrana al potencial de inversión de ICaL, el transitorio de Ca2+ será máximo."
+        }
+      ]
+    },
+    {
+      "id": "1fbcf829-37b2-4b51-8ac8-6efe8d9049d3",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2018-07-02",
+      "text": "En el músculo esquelético (marque la opción correcta):",
+      "options": [
+        {
+          "id": "d36ef20e-8efe-415a-9d1c-907bf6ffe0d8",
+          "text": "La liberación de los productos de hidrólisis del ATP desde el sitio catalítico es el paso limitante de velocidad de ciclo.",
+          "correct": true
+        },
+        {
+          "id": "c5bd416e-d34e-434e-b183-f41addc44e0a",
+          "text": "El ATP consumido durante la contracción solamente es repuesto a partir del fosfato de creatina por una quinasa."
+        },
+        {
+          "id": "e65c0e24-3b1f-467d-a64e-e287f5ae1b26",
+          "text": "El segmento S1 de la miosina no presenta cadenas livianas."
+        },
+        {
+          "id": "3643641e-b8fd-47ea-b686-42fc89ba0519",
+          "text": "En ausencia de ATP el equilibrio actina+miosina <----> actomiosina se halla fuertemente desplazado a la izquierda."
+        }
+      ]
+    },
+    {
+      "id": "6def7467-21d8-4b7d-8d80-bc8c6c432023",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2018-07-02",
+      "text": "En relación con los conceptos de trabajo mecánico y costo metabólico.",
+      "options": [
+        {
+          "id": "0f5121b8-3ecd-4bd3-8896-fdcfa8ac8d27",
+          "text": "El trabajo mecánico externo puede ser cuantificado mediante la reconstrucción del movimiento a partir de imágenes y en determinados movimientos utilizando una plataforma de fuerzas.",
+          "correct": true
+        },
+        {
+          "id": "2703ea37-9c51-4404-8d60-71bf9bae5adf",
+          "text": "El trabajo mecánico interno se cuantifica a partir de la variación de energía potencial del cuerpo."
+        },
+        {
+          "id": "72136c89-f52d-488a-8698-3208842fbe83",
+          "text": "En un sistema multisegmentado en movimiento, la energía potencial puede ser particionada en la del centro de masa del sistema en relación al entorno y la de cada segmento en relación al centro de masa del cuerpo."
+        }
+      ]
+    },
+    {
+      "id": "53c82ca0-c9d5-4fa0-8a93-9c98550fd74d",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2018-07-02",
+      "text": "Marque la opción correcta con respecto al músculo liso.",
+      "options": [
+        {
+          "id": "a52f4046-9555-4bef-b125-2b5b41e06dd0",
+          "text": "La quinasa de la cadena liviana de la miosina activada por la calmodulina transfiere un fosfato del ATP a la miosina.",
+          "correct": true
+        },
+        {
+          "id": "ca3f4a0c-1a10-49a7-9d1e-36f4976a24c2",
+          "text": "El Ca2+ activador de la contracción proviene exclusivamente del medio extracelular."
+        },
+        {
+          "id": "d8a322bb-f9d2-446d-93de-330b41143a71",
+          "text": "La desfosforilación de la cadena liviana de la miosina implica necesariamente la separación de actina y miosina."
+        },
+        {
+          "id": "897fc282-537d-4c40-b75c-b7f8e4f90e13",
+          "text": "Los canales de IP3 se activan por su interacción con el sensor de voltaje de la membrana."
+        }
+      ]
+    },
+    {
+      "id": "6227c1ab-9024-49c7-88d4-74a8ee11ba58",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2018-07-02",
+      "text": "Marque la opción correcta con respecto al músculo liso.",
+      "options": [
+        {
+          "id": "4980d092-f86f-4a01-b70a-cbef4448e61d",
+          "text": "En una contracción tónica la concentración de Ca2+ citoplasmática aumenta inicialmente pero luego desciende aunque la tensión se mantiene.",
+          "correct": true
+        },
+        {
+          "id": "e2ca28e3-1400-458c-a143-37162343a6f2",
+          "text": "La curva de tensión activa vs longitud no muestra un máximo como en el músculo estriado."
+        },
+        {
+          "id": "a1d40652-422d-4717-9f0a-cc2f49cd8800",
+          "text": "La velocidad máxima de contracción es independiente del nivel de fosforilación."
+        }
+      ]
+    },
+    {
+      "id": "e53f577d-529c-400c-bc85-41eb47410a51",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2018-07-02",
+      "text": "Marque la opción correcta en relación al nodo sinusal.",
+      "options": [
+        {
+          "id": "3c8b7a3d-68c7-4810-a73d-10d6eb5db15b",
+          "text": "El rectificador retardado juega un rol fundamental en la repolarización del potencial de acción y en el inicio de la despolarización espontánea.",
+          "correct": true
+        },
+        {
+          "id": "0df65a2c-771d-4300-9b55-fa8d8fe58152",
+          "text": "El canal HCN presenta un sitio de unión para la adrenalina que lo activa."
+        },
+        {
+          "id": "a08bc479-36cb-4b89-9553-5c0c2cb92645",
+          "text": "La duración de la meseta es menor que en el músculo ventricular debido a que se debe a la activación del canal de Ca2+ tipo T."
+        },
+        {
+          "id": "0e356531-ab9d-46de-82a8-1508d950a838",
+          "text": "La mutación del canal de Na+ determina un síndrome de QT prolongado tipo LQT1."
+        },
+        {
+          "id": "8000d502-d78d-47e5-aa6b-773553b39504",
+          "text": "La pendiente de la fase de despolarización diastólica es independiente de la frecuencia."
+        }
+      ]
+    },
+    {
+      "id": "44bff2a3-9a12-4ff2-b018-2bff8fc27da6",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2018-07-02",
+      "text": "Marque lo correcto en relación al nodo sinusal.",
+      "options": [
+        {
+          "id": "9b2c2682-1fd4-4c11-80d6-dd5c4589b486",
+          "text": "La acetilcolina determina una disminución de la frecuencia de disparo debido a la activación de un canal de K+.",
+          "correct": true
+        },
+        {
+          "id": "ea0d560e-1027-4978-baaa-bbd3f6b7c1ad",
+          "text": "El canal HCN responsable de If se inactiva al hiperpolarizar la membrana."
+        },
+        {
+          "id": "398841be-0fd0-4536-9114-3964baa97163",
+          "text": "El canal responsable de If es modulado por un mecanismo de fosforilación mediado por proteína quinasa A (PKA)."
+        },
+        {
+          "id": "c23d7b13-a59d-432c-a3dd-7fd7aeafc2d5",
+          "text": "La corriente If es una corriente transportada por aniones."
+        }
+      ]
+    },
+    {
+      "id": "41975511-c0c5-4291-ad50-f304fbd3297b",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2018-07-02",
+      "text": "Según lo discutido respecto al modelo de péndulo invertido y la teoría de similaridad dinámica.",
+      "options": [
+        {
+          "id": "1a9bee86-8c98-448c-a784-02d41b89e2b3",
+          "text": "El número de Froude permite calcular la velocidad de marcha de dos sujetos con diferente longitud de miembros inferiores para que la tarea mecánica sea equivalente.",
+          "correct": true
+        },
+        {
+          "id": "16424aef-90dd-4e1e-aeac-0d1a2cc78f73",
+          "text": "El cálculo del porcentaje de energía mecánica recuperada durante la marcha llamado \"recovery\" requiere del cálculo de trabajo mecánico interno y externo y por tanto no se basa únicamente en el modelo de péndulo invertido."
+        },
+        {
+          "id": "23a2dc2e-9783-48d4-b383-091e434d33f7",
+          "text": "El modelo de péndulo invertido es un mecanismo que representa el movimiento global del cuerpo en el plano frontal y sagital."
+        }
+      ]
+    },
+    {
+      "id": "98622446-8f48-4106-b4b0-be34f50bc715",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2018-07-02",
+      "text": "Sobre el músculo estriado (marque la opción correcta):",
+      "options": [
+        {
+          "id": "1f20d3e2-8be8-4be7-a0be-836393e75e87",
+          "text": "La duración de la fase isométrica de una contracción a postcarga aumenta con la carga.",
+          "correct": true
+        },
+        {
+          "id": "4877ba23-f9a6-47c4-bce0-b1871e3f84fa",
+          "text": "La longitud de inserción ósea es mucho mayor que la correspondiente al máximo de la curva tensión-longitud isométrica."
+        },
+        {
+          "id": "06ceaad6-1512-48e6-b9c0-156786621a63",
+          "text": "La tensión pasiva del músculo determina una longitud de equilibrio mucho menor que la longitud óptima para la función del mecanismo contráctil."
+        },
+        {
+          "id": "27eb3972-72d2-4baf-bc13-570ad228aded",
+          "text": "Para una longitud inicial dada, la máxima carga que el músculo puede mover durante una contracción a postcarga es independiente de esa longitud."
+        }
+      ]
+    },
+    {
+      "id": "6107ab42-1d17-48e5-9e16-db66ed6d8fad",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2018-07-02",
+      "text": "Sobre el potencial de acción del músculo ventricular (marque la opción correcta):",
+      "options": [
+        {
+          "id": "d24ca210-fc20-4a2f-8b20-db7b8b94d77c",
+          "text": "La corriente de K+ a través del rectificador entrante es menor durante la meseta que durante la fase de repolarización.",
+          "correct": true
+        },
+        {
+          "id": "b174363f-0161-4a43-b502-712e46eccac4",
+          "text": "Durante la fase 4 se verifica una despolarización muy lenta."
+        },
+        {
+          "id": "686e6d09-980b-4826-a4d6-f2eb72af37aa",
+          "text": "El bloqueo de los canales de Ca+2 no afecta la fase de meseta."
+        },
+        {
+          "id": "524a891c-8d12-4110-aa90-e373e41a89fa",
+          "text": "La amplitud de la corriente de Na+ es comparable con la de la corriente de Ca2+."
+        },
+        {
+          "id": "cbed7e56-5dab-41ef-9f6d-861a49a45e88",
+          "text": "La inactivación de los canales de Na+ no tiene ningún efecto sobre el potencial de acción."
+        }
+      ]
+    },
+    {
+      "id": "e2e5cd7b-6447-4267-b1e6-9226f39629cd",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2018-07-02",
+      "text": "Sobre la bioquimíca de la contracción del musculo esquelético (marque la opción correcta):",
+      "options": [
+        {
+          "id": "ad67f336-7d26-41fb-86dd-7fcda40bab8b",
+          "text": "La velocidad de hidrólisis de ATP por la miosina es aumentada por la actina.",
+          "correct": true
+        },
+        {
+          "id": "ad71a7c5-285c-40fa-930c-24c5f66d484c",
+          "text": "La interacción de S1 y actina se encuentra normalmente inhibida por una proteína presente en el filamento grueso."
+        },
+        {
+          "id": "2ab04483-2505-40a0-a8c7-5986fd0fa7fc",
+          "text": "La unión de actina a S1 aumenta la afinidad del sitio catalítico por ADP y Pi."
+        },
+        {
+          "id": "949936fa-f868-448b-a401-e788869c8f03",
+          "text": "Se acepta que la liberación de los productos de hidrólisis de ATP es un paso del ciclo bioquímico vinculado con el cambio de orientación de S1 de 45° a 90° respecto al eje de los miofilamentos."
+        }
+      ]
+    },
+    {
+      "id": "e1659e63-0c3b-4d69-839c-f122343175ad",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2018-07-02",
+      "text": "Sobre la contracción en el músculo esquelético (marque la opción correcta):",
+      "options": [
+        {
+          "id": "01210960-3350-413f-8e9b-596870713d80",
+          "text": "Durante la fase de acortamiento en una contracción a postcarga la tensión desarrollada permanece constante.",
+          "correct": true
+        },
+        {
+          "id": "279ae678-9bb2-495f-b422-2e669de1025b",
+          "text": "En el diagrama tensión longitud, una contracción isotónica se representa sobre una trayectoria perpendicular al eje de las abscisas."
+        },
+        {
+          "id": "7495aa05-a339-40d9-9766-31c06b4b89c3",
+          "text": "La tensión pasiva depende del número de puentes transversales formados en el reposo."
+        },
+        {
+          "id": "70edcad1-8311-48e6-8a92-3f197293f2ca",
+          "text": "La velocidad de acortamiento del músculo disminuye linealmente con el aumento de la carga aplicada."
+        }
+      ]
+    },
+    {
+      "id": "6824e396-e6f0-4940-8bb3-ac8599dbc6f3",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2018-07-02",
+      "text": "Sobre los abordajes metodológicos que permiten el análisis de la locomoción.",
+      "options": [
+        {
+          "id": "99b6eb12-32ed-4d5c-90dc-fdc432f5e248",
+          "text": "Una plataforma de fuerzas nos permite conocer los valores de las componentes vertical, medio-lateral y anteroposterior de fuerza durante el tiempo de contacto y por tanto también la velocidad y posición del centro de masa del cuerpo.",
+          "correct": true
+        },
+        {
+          "id": "af3d48e3-7c94-4443-8f08-2bfc02a2e90b",
+          "text": "El análisis de la señal electromiografica de un músculo en el tiempo nos permite estimar el porcentaje relativo de fibras de dicho músculo."
+        },
+        {
+          "id": "220cccd8-d389-45cd-a4be-024ba5b48e60",
+          "text": "Los estudios con cinemetría están limitados en general a análisis en dos dimensiones."
+        }
+      ]
+    },
+    {
       "id": "4c158111-4310-412e-86b4-da06cb994304",
       "evaluation": "parcial_2_t",
       "source": "partial",
