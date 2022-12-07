@@ -6,60 +6,9 @@
     "histología",
     "biofísica"
   ],
+  "image": "histo_biof.webp",
   "year": 2,
   "questions": [
-    {
-      "id": "fccb460b-c474-4570-9cf4-c3e2301e464a",
-      "evaluation": "parcial_2_t",
-      "source": "partial",
-      "asked_at": "2019-01-01",
-      "text": "Indique cuál de las siguientes afirmaciones asociadas con los estudios cinemáticos del movimiento humano utilizando dinamometría o electromiografía es correcta:",
-      "options": [
-        {
-          "id": "cb6a4b63-2af1-4c28-89b3-d1f7ba2a3159",
-          "text": "La electromiografía es una técnica de monitoreo de la manifestación eléctrica de la activación neuromuscular asociada con la contracción muscular.",
-          "correct": true
-        },
-        {
-          "id": "159d6248-e9a2-4825-956a-d90992a7dc07",
-          "text": "A partir de los registros de una plataforma de fuerzas podemos obtener importante información para describir el movimiento de nuestros segmentos corporales."
-        },
-        {
-          "id": "e0d935c3-690f-4b5c-afcd-df2fd0030f76",
-          "text": "En el momento que ocurre el pico de contacto, la tensión (presión) sobre las estructuras que componen nuestro aparato locomotor es baja debido a que la superficie de apoyo es grande."
-        },
-        {
-          "id": "60a93552-76d7-4e2e-a0cb-d25cacdc05b9",
-          "text": "Si nuestro peso es 800 N y la componente vertical de fuerza en un momento es de 500 N, en ese momento el centro de masa de nuestro cuerpo va a tender a elevarse."
-        }
-      ]
-    },
-    {
-      "id": "7f9ac78b-07ef-4662-90ce-4a42a84f237f",
-      "evaluation": "parcial_2_t",
-      "source": "partial",
-      "asked_at": "2019-01-01",
-      "text": "Indique cuál de las siguientes afirmaciones relacionadas con los valores angulares para las articulaciones de miembros inferiores durante la marcha es correcta:",
-      "options": [
-        {
-          "id": "03fcc927-9c99-488f-8bf7-6decb007a9d2",
-          "text": "La flexión máxima de cadera se alcanza al principio y al final del ciclo.",
-          "correct": true
-        },
-        {
-          "id": "ab5b67f7-af96-45e7-b150-9c509d4d7b9a",
-          "text": "A cualquier velocidad de marcha, el máximo de flexión de rodilla se alcanza al final de la fase de apoyo."
-        },
-        {
-          "id": "6f4e9d6b-4a51-4e13-b2a5-162deb4d89a9",
-          "text": "Durante la fase de doble apoyo inicial a pelvis en el plano transversal se mantiene en rotación neutra (0°)."
-        },
-        {
-          "id": "a6dac834-fc9d-47a2-bd6d-eff01661ecd2",
-          "text": "El ángulo de extensión máxima de cadera no se modifica al variar la velocidad de marcha."
-        }
-      ]
-    },
     {
       "id": "4c158111-4310-412e-86b4-da06cb994304",
       "evaluation": "parcial_2_t",
@@ -265,6 +214,58 @@
         {
           "id": "3c23062e-a6f0-40fc-947d-b66c35719b44",
           "text": "En los estudios de tipo cinemático lo más común es considerar 5 segmentos rígidos para describir el movimiento del cuerpo completo."
+        }
+      ]
+    },
+    {
+      "id": "fccb460b-c474-4570-9cf4-c3e2301e464a",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Indique cuál de las siguientes afirmaciones asociadas con los estudios cinemáticos del movimiento humano utilizando dinamometría o electromiografía es correcta:",
+      "options": [
+        {
+          "id": "cb6a4b63-2af1-4c28-89b3-d1f7ba2a3159",
+          "text": "La electromiografía es una técnica de monitoreo de la manifestación eléctrica de la activación neuromuscular asociada con la contracción muscular.",
+          "correct": true
+        },
+        {
+          "id": "159d6248-e9a2-4825-956a-d90992a7dc07",
+          "text": "A partir de los registros de una plataforma de fuerzas podemos obtener importante información para describir el movimiento de nuestros segmentos corporales."
+        },
+        {
+          "id": "e0d935c3-690f-4b5c-afcd-df2fd0030f76",
+          "text": "En el momento que ocurre el pico de contacto, la tensión (presión) sobre las estructuras que componen nuestro aparato locomotor es baja debido a que la superficie de apoyo es grande."
+        },
+        {
+          "id": "60a93552-76d7-4e2e-a0cb-d25cacdc05b9",
+          "text": "Si nuestro peso es 800 N y la componente vertical de fuerza en un momento es de 500 N, en ese momento el centro de masa de nuestro cuerpo va a tender a elevarse."
+        }
+      ]
+    },
+    {
+      "id": "7f9ac78b-07ef-4662-90ce-4a42a84f237f",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Indique cuál de las siguientes afirmaciones relacionadas con los valores angulares para las articulaciones de miembros inferiores durante la marcha es correcta:",
+      "options": [
+        {
+          "id": "03fcc927-9c99-488f-8bf7-6decb007a9d2",
+          "text": "La flexión máxima de cadera se alcanza al principio y al final del ciclo.",
+          "correct": true
+        },
+        {
+          "id": "ab5b67f7-af96-45e7-b150-9c509d4d7b9a",
+          "text": "A cualquier velocidad de marcha, el máximo de flexión de rodilla se alcanza al final de la fase de apoyo."
+        },
+        {
+          "id": "6f4e9d6b-4a51-4e13-b2a5-162deb4d89a9",
+          "text": "Durante la fase de doble apoyo inicial a pelvis en el plano transversal se mantiene en rotación neutra (0°)."
+        },
+        {
+          "id": "a6dac834-fc9d-47a2-bd6d-eff01661ecd2",
+          "text": "El ángulo de extensión máxima de cadera no se modifica al variar la velocidad de marcha."
         }
       ]
     },
