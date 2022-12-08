@@ -10,68 +10,522 @@
   "year": 2,
   "questions": [
     {
-      "id": "26c14e23-ad35-41f7-a904-3cc606813a90",
-      "evaluation": "parcial_2_t",
+      "id": "e6ec1a18-a3a2-45cc-8344-bd6765190196",
+      "evaluation": "parcial_1_t",
       "source": "partial",
-      "asked_at": "2016-01-01",
-      "text": "En relación a lo tratado sobre marcha humana indique lo correcto.",
+      "asked_at": "2019-01-01",
+      "text": "En relación a la renovación celular del epitelio que reviste el intestino delgado, indique la opción correcta:",
       "options": [
         {
-          "id": "aeaf2689-2a67-4b79-aca4-6b181ce981d1",
-          "text": "La velocidad media de la marcha es un importante predictor clínico.",
+          "id": "9f7105f8-556a-479e-9c44-0f41fabbd625",
+          "text": "Se regenera a partir de células madres localizadas en la base de las glándulas intestinales.",
           "correct": true
         },
         {
-          "id": "7032dbe9-0334-4b93-866f-413495711750",
-          "text": "Durante todo el ciclo de marcha el centro de masas total del cuerpo está ubicado aproximadamente en la mitad del tronco sobre la columna vertebral."
+          "id": "96156eae-ff73-4120-bb47-bddf3a70946d",
+          "text": "No se regenera."
         },
         {
-          "id": "029d65c9-a2f1-4b0e-8b91-ae1a42b359c8",
-          "text": "Las dos fases generales de la marcha normal tienen aproximadamente la misma duración."
+          "id": "5be1ed99-bc4b-4b84-9b51-f51e4fe102f0",
+          "text": "Se regenera por mitosis de las células epiteliales ya diferenciadas."
+        },
+        {
+          "id": "26c6e806-c7d2-4307-81aa-d466736dca5d",
+          "text": "Se regenera solo cuando hay una lesión epitelial."
         }
       ]
     },
     {
-      "id": "cd8ec748-8782-4196-9498-cc587ed75b6f",
-      "evaluation": "parcial_2_t",
+      "id": "65f51416-2d96-4bed-947f-4e9c2cc4c275",
+      "evaluation": "parcial_1_t",
       "source": "partial",
-      "asked_at": "2016-01-01",
-      "text": "Indique la opción correcta de las siguientes relacionadas con la transferencia de energía mecánica durante la marcha:",
+      "asked_at": "2019-01-01",
+      "text": "En relación al tejido cartilaginoso, indique la opción correcta:",
       "options": [
         {
-          "id": "d59e7074-8f90-4dbf-b7a5-e3648ffbfef7",
-          "text": "El modelo de péndulo invertido explica que la velocidad de marcha y el costo metabólico tengan una relación funcional con un mínimo cerca de los 4 km/h.",
+          "id": "d468ca0f-8388-47ea-8754-6bcf798cab21",
+          "text": "El factor de transcripción SOX-9 desencadena la diferenciación de las células mesenquimatosas en condroblastos durante la condrogénesis.",
           "correct": true
         },
         {
-          "id": "7b7d2492-5dcd-4588-b5ba-5a3a4a5fe49d",
-          "text": "El modelo de péndulo invertido permite explicar el alineamiento del centro de masas del cuerpo en el plano coronal."
+          "id": "c489efed-70d0-40e3-b013-75b45cb210f5",
+          "text": "La elasticidad del cartílago está dada por la gran capacidad de las fibras de colágeno II en retener moléculas de agua, generando una matriz altamente hidratada."
         },
         {
-          "id": "d3ae4375-e81f-4092-ab93-fe5605e307fd",
-          "text": "Las transformaciones de energía mecánica a nivel del centro de masa pueden alcanzar cerca de un 60% cuando la velocidad de marcha es muy baja o muy alta."
+          "id": "662bbac9-4c7c-4629-aa2e-b7ef34b011e4",
+          "text": "La presencia de vasos sanguíneos en este tejido permite la correcta distribución de nutrientes a pesar de la consistencia de su matriz extracelular."
+        },
+        {
+          "id": "9faac1b9-73dd-4bfd-9e47-c8214d5fdabb",
+          "text": "Los condrocitos carecen de la capacidad de multiplicarse por mitosis como recurso para el crecimiento tisular."
         }
       ]
     },
     {
-      "id": "978186a0-5aac-4937-8c0f-cd7c40c4e592",
-      "evaluation": "parcial_2_t",
+      "id": "d2bde125-befc-4061-bf4b-a6cc1d512c7d",
+      "evaluation": "parcial_1_t",
       "source": "partial",
-      "asked_at": "2016-01-01",
-      "text": "Sobre la contracción a poscarga (marque lo correcto):",
+      "asked_at": "2019-01-01",
+      "text": "Indique cuál de los siguientes componentes de la fibra muscular estriada es el encargado de la propagación del potencial de membrana hacia el interior de la fibra durante el acoplamiento excitación-contracción:",
       "options": [
         {
-          "id": "2ce897db-8712-4b87-bcf1-b70f224748d6",
-          "text": "La duración de la fase isométrica depende directamente de la carga (es mayor si la carga es mayor).",
+          "id": "cbd58f95-a9d7-486c-bd12-b543c9369f3f",
+          "text": "El túbulo T.",
           "correct": true
         },
         {
-          "id": "b2f3328f-86df-4f04-8ee7-de38cac088fa",
-          "text": "La longitud inicial depende de la carga a desplazar."
+          "id": "ef902ed4-53f0-443b-a9e1-c601cbe76681",
+          "text": "El disco z."
         },
         {
-          "id": "fd6a4d9b-3ab0-46d6-9820-c7556a04705a",
-          "text": "La velocidad de acortamiento es la misma a distintas longitudes iniciales."
+          "id": "d2aa6514-acd7-4aa4-a9ec-1a66fa196383",
+          "text": "El retículo sarcoplásmico."
+        },
+        {
+          "id": "d0275825-297d-4c27-82a3-fcc3fe3a53a9",
+          "text": "La cisterna terminal."
+        }
+      ]
+    },
+    {
+      "id": "0b0eb331-b52b-4dc1-bfcd-8454702cf190",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Indique en qué sector del organismo abundan las fibras elásticas (indique la opción correcta):",
+      "options": [
+        {
+          "id": "7f4ef660-ccbc-4b9f-b447-5c4673fdff4c",
+          "text": "En el intersticio pulmonar.",
+          "correct": true
+        },
+        {
+          "id": "0fa2c676-830b-4f52-9a35-465cd78fadbe",
+          "text": "En el cartílago hialino."
+        },
+        {
+          "id": "22337830-06ba-485b-b30f-44073a317682",
+          "text": "En los huesos largos."
+        },
+        {
+          "id": "c1ba2584-e44c-444c-8cd8-efe24ed02da7",
+          "text": "En lámina basal de los epitelios."
+        }
+      ]
+    },
+    {
+      "id": "45b48144-84ea-457c-8764-3ab08ce27f7b",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Con respecto a las células musculares cardíacas, marque la opción correcta:",
+      "options": [
+        {
+          "id": "3475b6d9-640c-4277-b5af-f2d2a738732a",
+          "text": "Sus células funcionan como un sincicio gracias a la presencia de las uniones comunicantes (nexo) entre sus células.",
+          "correct": true
+        },
+        {
+          "id": "5678f1d1-ef22-4ef4-ade4-9e76643af2f4",
+          "text": "El túbulo T y el retículo sarcoplásmico forman estructuras llamadas tríadas."
+        },
+        {
+          "id": "06830aa7-cb8f-4ee9-b3d2-6f05a70b9e47",
+          "text": "Sus filamentos finos carecen de tropomiosina asociada."
+        },
+        {
+          "id": "10889aef-9388-45c2-b391-f7452db5d0ab",
+          "text": "Sus múltiples núcleos se localizan en la periferia del citoplasma inmediatamente por debajo del sarcolema."
+        }
+      ]
+    },
+    {
+      "id": "2873f0f2-df47-4f65-85cb-e6876c46134a",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Con respecto a las estructuras basófilas que pueden encontrarse en una célula (indique la opción correcta):",
+      "options": [
+        {
+          "id": "4556f43d-fb4d-4676-ad1f-27092052e4a5",
+          "text": "Se caracterizan por su alta concentración de componentes ácidos.",
+          "correct": true
+        },
+        {
+          "id": "07c72db8-2b1a-465f-a980-bd6376c984e1",
+          "text": "Se colorean con eosina."
+        },
+        {
+          "id": "7e026589-ccc4-4874-8e56-4bb8c9731c72",
+          "text": "Se localizan fundamentalmente en el citoplasma de la mayoría de las células."
+        },
+        {
+          "id": "e9a61471-bccb-4d5c-bc79-92b57e5cdb6c",
+          "text": "Son electrondensas al microscopio electrónico."
+        }
+      ]
+    },
+    {
+      "id": "5f6cd3b6-940a-436e-b5f0-9b35e725e93d",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Con respecto al proceso de diferenciación celular (indique la opción correcta):",
+      "options": [
+        {
+          "id": "b564c898-2c80-4a0d-b6d6-b15926cffc98",
+          "text": "Existen grupos de proteínas que facilitan o inhiben la expresión de algunos genes.",
+          "correct": true
+        },
+        {
+          "id": "7672b6e2-c4d8-4713-b197-cfb639133033",
+          "text": "A mayor grado de diferenciación celular, mayor potencialidad de la célula."
+        },
+        {
+          "id": "856ca161-a9a6-4cea-997c-42c5c1c99331",
+          "text": "Implica la eliminación de los genes que no se transcriben."
+        },
+        {
+          "id": "af819b41-5816-4f41-8a71-f8ab2eb75b82",
+          "text": "Ocurre solamente durante el desarrollo embrionario."
+        }
+      ]
+    },
+    {
+      "id": "d17beda1-052e-4334-95ab-23cea9540e3c",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Con respecto al proceso de resorción de la matriz ósea (indique la opción correcta):",
+      "options": [
+        {
+          "id": "c6f576e4-ebc1-4875-9690-514c83a434c5",
+          "text": "Involucra una bomba de protones presente en la membrana de los osteoclastos.",
+          "correct": true
+        },
+        {
+          "id": "44a997ac-0464-47bc-93ee-74b95bfd905d",
+          "text": "El calcio liberado se almacena en vesículas en el citoplasma de los osteoclastos."
+        },
+        {
+          "id": "1ccb6a6f-7404-4f7d-8750-b2a39e226457",
+          "text": "Es estimulado durante estados hipercalcémicos (incremento del nivel de calcio sanguíneo)."
+        },
+        {
+          "id": "919a8ebb-1bf6-4190-8a27-518548849d72",
+          "text": "Necesita una alcalinización del medio local para que el calcio pueda liberarse."
+        }
+      ]
+    },
+    {
+      "id": "0a41aed0-0f75-414a-b054-5701c9f731ac",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "En la osificación endocondral, las trabéculas directrices se caracterizan por estar:",
+      "options": [
+        {
+          "id": "88c6c83d-590b-42f6-a97a-3e136e37cb36",
+          "text": "Formadas por matriz cartilaginosa mineralizada.",
+          "correct": true
+        },
+        {
+          "id": "5ae8312e-fa4c-4280-ba58-dd2a474948ca",
+          "text": "Alejadas de la zona de degeneración."
+        },
+        {
+          "id": "ce23bc5e-6465-4e3f-8ff8-c4e78f294f06",
+          "text": "Asociadas a la presencia de osteoblastos."
+        },
+        {
+          "id": "049eb563-baad-46cf-974a-0ab82a689d9c",
+          "text": "Presentar ostecitos atrapados en su matriz."
+        }
+      ]
+    },
+    {
+      "id": "db62a161-bc8c-4900-aef5-b7bb189529a4",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "En qué etapa de la secreción del colágeno es necesaria la vitamina C (indique la opción correcta):",
+      "options": [
+        {
+          "id": "26a296c6-5e32-46e0-b43b-2cb48d3c0bb3",
+          "text": "Para la hidroxilación de la prolina y la lisina.",
+          "correct": true
+        },
+        {
+          "id": "e508a17c-8acd-4271-af8a-9fb1ab3e0967",
+          "text": "Para la formación de las vesículas de secreción."
+        },
+        {
+          "id": "c1a0c532-51a2-4d6b-beb4-44da0ec8fc48",
+          "text": "Para la polimerización de las moléculas de colágeno para formar las fibras."
+        },
+        {
+          "id": "ebc7a6ed-7e93-4845-92d7-16e0c84a7afb",
+          "text": "Para la transcripción del ARNm."
+        }
+      ]
+    },
+    {
+      "id": "6bf5cc8a-235c-451a-ae22-c816cccf13b6",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "En una glándula apócrina (indique la opción correcta):",
+      "options": [
+        {
+          "id": "edbc6699-1618-4c81-bb12-d7fcd75617e9",
+          "text": "El producto secretado se descarga junto con una pequeña porción de citoplasma.",
+          "correct": true
+        },
+        {
+          "id": "a14b9605-0d04-4cd3-98f4-e56bd447d52f",
+          "text": "El producto secretado se vierte a la sangre."
+        },
+        {
+          "id": "0fb003e1-a407-4918-9087-8b16f734ff08",
+          "text": "Es la forma más frecuente de organización del epitelio glandular."
+        },
+        {
+          "id": "5864a6a3-c6d9-4033-9d02-d806f6a3dfa1",
+          "text": "Se almacena en los peroxisomas."
+        }
+      ]
+    },
+    {
+      "id": "f98771d2-a19f-47de-b094-562525a417ff",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Indique cuál de las siguientes estructuras se encuentra formada por tejido linfoideo nodular:",
+      "options": [
+        {
+          "id": "7f8c574c-7642-490d-ad53-7d609e6019a0",
+          "text": "Corteza superficial del linfonodo.",
+          "correct": true
+        },
+        {
+          "id": "278141e1-671a-4d12-9898-0e940c5cb53d",
+          "text": "Corteza del timo."
+        },
+        {
+          "id": "13ecd045-8101-4cae-91b0-73df0dcab8a1",
+          "text": "Paracorteza del ganglio linfoide."
+        },
+        {
+          "id": "7606f025-be2a-4e4a-aa41-cdc59aafbb94",
+          "text": "Pulpa roja del bazo."
+        }
+      ]
+    },
+    {
+      "id": "33867be9-f27c-46bc-bd19-ca39265ed93e",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Indique en cuál de los siguientes huesos la osificación intramembranosa es preponderante:",
+      "options": [
+        {
+          "id": "6ac78106-6e68-4df6-b110-c49ed64dca02",
+          "text": "Clavícula.",
+          "correct": true
+        },
+        {
+          "id": "dfd23185-0b2f-4702-8134-6ef5cf030eee",
+          "text": "Fémur."
+        },
+        {
+          "id": "7724226d-f608-417e-88f5-5961a806dcdc",
+          "text": "Húmero."
+        },
+        {
+          "id": "ba12007f-4033-4685-8ddf-2bc8370d1f46",
+          "text": "Pelvis."
+        }
+      ]
+    },
+    {
+      "id": "0a8ce9d5-cc4e-41fc-b654-b9ae0134b849",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Las células reticulares presentes en la corteza del timo poseen origen (indique lo correcto):",
+      "options": [
+        {
+          "id": "8e718a15-7c00-473c-9ccf-57a0af74b3b2",
+          "text": "Epitelial.",
+          "correct": true
+        },
+        {
+          "id": "4d34cfb6-31ad-48c7-8683-13768036ed0d",
+          "text": "Conjuntivo."
+        },
+        {
+          "id": "8b4dbe2f-dea3-421a-b679-52e8f0cb9120",
+          "text": "Epidérmico."
+        },
+        {
+          "id": "de1684d0-2b13-4e41-b9a1-35c0459c8f2d",
+          "text": "Mesenquimal."
+        }
+      ]
+    },
+    {
+      "id": "70eaf359-6257-4d87-9d0c-b42d7a50d117",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Los sinusoides esplénicos se caracterizan por presentar (indique lo correcto):",
+      "options": [
+        {
+          "id": "8b6b579a-e05b-42c5-99db-4ce86806a13f",
+          "text": "Discontinuidad endotelial.",
+          "correct": true
+        },
+        {
+          "id": "9a5e9e37-7488-4046-8ade-15bc12f5f9ce",
+          "text": "Endotelio cuboideo alto."
+        },
+        {
+          "id": "ab9fc338-53e1-40bb-b779-bb7dac2cf2f3",
+          "text": "Fenestras endoteliales."
+        },
+        {
+          "id": "a913f9f9-3b88-4dc9-b925-b76eff8d183a",
+          "text": "Una gruesa lámina basal."
+        }
+      ]
+    },
+    {
+      "id": "7264ae64-0492-4361-b963-4d34ea320b48",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Mencione cuales de las siguientes células se pueden encontrar en sangre periférica y son indicadores de respuesta medular (hematopoyesis):",
+      "options": [
+        {
+          "id": "fd5ad14c-4c41-42a9-903b-65b4d50ffcfe",
+          "text": "Reticulocitos y neutrófilos en banda (cayado).",
+          "correct": true
+        },
+        {
+          "id": "5545571a-f243-4138-a64c-884fa6e77346",
+          "text": "Mielocitos y promielocitos."
+        },
+        {
+          "id": "601abceb-1f7a-44fc-965c-72adf9b0b2fc",
+          "text": "Neutrófilos y eosinófilos."
+        },
+        {
+          "id": "48a7bdc9-b1cf-4ae5-b211-959f3b9f705d",
+          "text": "Plaquetas y megacariocitos."
+        }
+      ]
+    },
+    {
+      "id": "909ceeaa-b90a-4588-9e0a-cdc5779e6fec",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Mencione cuál es el contenido de los gránulos secundarios de los basófilos (indique la opción correcta):",
+      "options": [
+        {
+          "id": "ca5470e2-8f25-4fbd-b4a9-227d7d06100d",
+          "text": "Heparina e histamina.",
+          "correct": true
+        },
+        {
+          "id": "6369c299-e15a-44f4-a711-f87b5c2b2bd8",
+          "text": "Hidrolasa, lisozima y fosfolipasa."
+        },
+        {
+          "id": "64de63cf-7e07-4b8d-96d3-b833a184556b",
+          "text": "Mieloperoxidasa y defensina."
+        },
+        {
+          "id": "36b8a93e-7147-40e9-b271-31bfa36678c7",
+          "text": "Proteína catiónica mayor, peroxidasa y neurotoxina."
+        }
+      ]
+    },
+    {
+      "id": "a9966c39-9733-4173-9278-8885704012d4",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Respecto a los adipocitos del tejido adiposo blanco, indique la opción correcta:",
+      "options": [
+        {
+          "id": "2bd948d5-a4a4-4317-beba-259902c17d2c",
+          "text": "Se caracterizan por estar asociadas a terminales nerviosas noradrenérgicas.",
+          "correct": true
+        },
+        {
+          "id": "71921982-ca7e-4307-8853-6d5d9bb463b0",
+          "text": "Participan activamente en el proceso de termogénesis."
+        },
+        {
+          "id": "b5b12912-3cd2-4492-86d3-a46661a3ea7f",
+          "text": "Presentan gran cantidad de mitocondrias capaces de desacoplar el proceso de fosforilación oxidativa."
+        },
+        {
+          "id": "2d889f6f-3a58-435b-b404-18c06420161e",
+          "text": "Se desarrollan a partir del último mes de embarazo."
+        }
+      ]
+    },
+    {
+      "id": "6587c776-d6a3-44a6-9f58-be45ca2d15ad",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Señale cuál de las siguientes características es propia de las células que se encargan de la trombopoyesis (indique la opción correcta):",
+      "options": [
+        {
+          "id": "2829d5f1-0028-464c-aa76-808025456e9e",
+          "text": "Abundante citoplasma y núcleo polilobulado.",
+          "correct": true
+        },
+        {
+          "id": "a9a1be6b-adfb-4169-922b-523cc0d5fc2b",
+          "text": "Escaso citoplasma altamente granulado y núcleo heterocromático."
+        },
+        {
+          "id": "d0ba8864-5f16-41aa-b392-72c0439cefcf",
+          "text": "Escaso citoplasma y núcleo único eucromático."
+        },
+        {
+          "id": "658affd4-8c9a-43b3-9509-6976b4d03727",
+          "text": "Multinucleada con abundante citoplasma rico en granulaciones eosinófilas."
+        }
+      ]
+    },
+    {
+      "id": "afaab60a-ea12-465b-85dc-98f3d1943c11",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Una micrografía electrónica de transmisión obtenida a partir de la superficie luminal de un epitelio, revela que las células que lo conforman presentan en el citoplasma apical varias vesículas fusiformes (o lenticulares) unidas a filamentos de actina que se caracterizan por tener membrana engrosada y de aspecto rígido. Este tipo de vesículas es característico de (indique la opción correcta):",
+      "options": [
+        {
+          "id": "d75af2d4-488c-4416-b54a-4ea4ecc99d57",
+          "text": "Un epitelio transicional.",
+          "correct": true
+        },
+        {
+          "id": "b75ad5e6-c94f-4a1c-bb1f-b51ce9c05807",
+          "text": "Un epitelio absortivo."
+        },
+        {
+          "id": "26776eaa-d776-441d-84c8-9bb13f54acbb",
+          "text": "Un epitelio glandular."
+        },
+        {
+          "id": "548db4c6-4a0f-44c9-aff0-3b7152fd61b6",
+          "text": "Un epitelio queratinizado."
         }
       ]
     },
@@ -98,6 +552,28 @@
         {
           "id": "4847fdff-4a39-488e-95d5-9413cf50cc34",
           "text": "Presenta menor cantidad de mitocondrias."
+        }
+      ]
+    },
+    {
+      "id": "26c14e23-ad35-41f7-a904-3cc606813a90",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "En relación a lo tratado sobre marcha humana indique lo correcto.",
+      "options": [
+        {
+          "id": "aeaf2689-2a67-4b79-aca4-6b181ce981d1",
+          "text": "La velocidad media de la marcha es un importante predictor clínico.",
+          "correct": true
+        },
+        {
+          "id": "7032dbe9-0334-4b93-866f-413495711750",
+          "text": "Durante todo el ciclo de marcha el centro de masas total del cuerpo está ubicado aproximadamente en la mitad del tronco sobre la columna vertebral."
+        },
+        {
+          "id": "029d65c9-a2f1-4b0e-8b91-ae1a42b359c8",
+          "text": "Las dos fases generales de la marcha normal tienen aproximadamente la misma duración."
         }
       ]
     },
@@ -150,6 +626,28 @@
         {
           "id": "f5366c6e-93fc-4a11-831b-17818ddac66a",
           "text": "Útero en gestación."
+        }
+      ]
+    },
+    {
+      "id": "cd8ec748-8782-4196-9498-cc587ed75b6f",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "Indique la opción correcta de las siguientes relacionadas con la transferencia de energía mecánica durante la marcha:",
+      "options": [
+        {
+          "id": "d59e7074-8f90-4dbf-b7a5-e3648ffbfef7",
+          "text": "El modelo de péndulo invertido explica que la velocidad de marcha y el costo metabólico tengan una relación funcional con un mínimo cerca de los 4 km/h.",
+          "correct": true
+        },
+        {
+          "id": "7b7d2492-5dcd-4588-b5ba-5a3a4a5fe49d",
+          "text": "El modelo de péndulo invertido permite explicar el alineamiento del centro de masas del cuerpo en el plano coronal."
+        },
+        {
+          "id": "d3ae4375-e81f-4092-ab93-fe5605e307fd",
+          "text": "Las transformaciones de energía mecánica a nivel del centro de masa pueden alcanzar cerca de un 60% cuando la velocidad de marcha es muy baja o muy alta."
         }
       ]
     },
@@ -400,6 +898,28 @@
         {
           "id": "779c1247-849e-44d4-8d3e-8125d8f32467",
           "text": "Los receptores de ryanodina se encuentran uniformemente distribuidos en el retículo sarcoplasmático."
+        }
+      ]
+    },
+    {
+      "id": "978186a0-5aac-4937-8c0f-cd7c40c4e592",
+      "evaluation": "parcial_2_t",
+      "source": "partial",
+      "asked_at": "2016-01-01",
+      "text": "Sobre la contracción a poscarga (marque lo correcto):",
+      "options": [
+        {
+          "id": "2ce897db-8712-4b87-bcf1-b70f224748d6",
+          "text": "La duración de la fase isométrica depende directamente de la carga (es mayor si la carga es mayor).",
+          "correct": true
+        },
+        {
+          "id": "b2f3328f-86df-4f04-8ee7-de38cac088fa",
+          "text": "La longitud inicial depende de la carga a desplazar."
+        },
+        {
+          "id": "fd6a4d9b-3ab0-46d6-9820-c7556a04705a",
+          "text": "La velocidad de acortamiento es la misma a distintas longitudes iniciales."
         }
       ]
     },
@@ -2263,6 +2783,10 @@
     }
   ],
   "evaluations": [
+    {
+      "key": "parcial_1_t",
+      "name": "1° parcial teórico"
+    },
     {
       "key": "parcial_2_t",
       "name": "2° parcial teórico"
