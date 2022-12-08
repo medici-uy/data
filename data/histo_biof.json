@@ -10,106 +10,1042 @@
   "year": 2,
   "questions": [
     {
-      "id": "e6ec1a18-a3a2-45cc-8344-bd6765190196",
+      "id": "82413d25-c188-4f39-91c8-578b71d8233a",
       "evaluation": "parcial_1_t",
       "source": "partial",
-      "asked_at": "2019-01-01",
-      "text": "En relación a la renovación celular del epitelio que reviste el intestino delgado, indique la opción correcta:",
+      "asked_at": "2017-01-01",
+      "text": "Cuál de las siguientes características NO es característica de un fibroblasto?",
       "options": [
         {
-          "id": "9f7105f8-556a-479e-9c44-0f41fabbd625",
-          "text": "Se regenera a partir de células madres localizadas en la base de las glándulas intestinales.",
+          "id": "34def07d-e712-4839-b5f6-195213f34fc5",
+          "text": "Son células indiferenciadas.",
           "correct": true
         },
         {
-          "id": "96156eae-ff73-4120-bb47-bddf3a70946d",
-          "text": "No se regenera."
+          "id": "6a9d258b-f20a-49fe-a176-87a93b881b63",
+          "text": "Elabora componentes de la matriz extracelular."
         },
         {
-          "id": "5be1ed99-bc4b-4b84-9b51-f51e4fe102f0",
-          "text": "Se regenera por mitosis de las células epiteliales ya diferenciadas."
+          "id": "fbcc4975-75c6-4632-a41f-7e67c9217eba",
+          "text": "Posee capacidad fibrogénica."
         },
         {
-          "id": "26c6e806-c7d2-4307-81aa-d466736dca5d",
-          "text": "Se regenera solo cuando hay una lesión epitelial."
+          "id": "fb49f1df-bde0-4f72-962e-ac8454247827",
+          "text": "Presenta citoplasma levemente eosinófilo."
         }
       ]
     },
     {
-      "id": "65f51416-2d96-4bed-947f-4e9c2cc4c275",
+      "id": "e4f193b9-c2ef-45aa-9aeb-92a14aab5f51",
       "evaluation": "parcial_1_t",
       "source": "partial",
-      "asked_at": "2019-01-01",
-      "text": "En relación al tejido cartilaginoso, indique la opción correcta:",
+      "asked_at": "2017-01-01",
+      "text": "De las siguientes estructuras, indique aquella que se encuentra por debajo del poder de resolución del microscopio óptico:",
       "options": [
         {
-          "id": "d468ca0f-8388-47ea-8754-6bcf798cab21",
-          "text": "El factor de transcripción SOX-9 desencadena la diferenciación de las células mesenquimatosas en condroblastos durante la condrogénesis.",
+          "id": "4d6d49e9-d240-4103-8ff2-f829d6f9736e",
+          "text": "Ribosomas.",
           "correct": true
         },
         {
-          "id": "c489efed-70d0-40e3-b013-75b45cb210f5",
-          "text": "La elasticidad del cartílago está dada por la gran capacidad de las fibras de colágeno II en retener moléculas de agua, generando una matriz altamente hidratada."
+          "id": "9f7d26bc-6041-4c52-aa84-0e5f5749199d",
+          "text": "Bacterias."
         },
         {
-          "id": "662bbac9-4c7c-4629-aa2e-b7ef34b011e4",
-          "text": "La presencia de vasos sanguíneos en este tejido permite la correcta distribución de nutrientes a pesar de la consistencia de su matriz extracelular."
+          "id": "96056fde-6fa2-48a6-8e9d-776ac5236f6b",
+          "text": "Mitocondrias."
         },
         {
-          "id": "9faac1b9-73dd-4bfd-9e47-c8214d5fdabb",
-          "text": "Los condrocitos carecen de la capacidad de multiplicarse por mitosis como recurso para el crecimiento tisular."
+          "id": "7edf7cb2-7d57-4815-a995-dcc578a8b230",
+          "text": "Núcleo celular."
         }
       ]
     },
     {
-      "id": "d2bde125-befc-4061-bf4b-a6cc1d512c7d",
+      "id": "6acd6847-ec9e-4e3c-91e1-8b260db5c178",
       "evaluation": "parcial_1_t",
       "source": "partial",
-      "asked_at": "2019-01-01",
-      "text": "Indique cuál de los siguientes componentes de la fibra muscular estriada es el encargado de la propagación del potencial de membrana hacia el interior de la fibra durante el acoplamiento excitación-contracción:",
+      "asked_at": "2017-01-01",
+      "text": "De las variedades del tejido conjuntivo es correcto afirmar que:",
       "options": [
         {
-          "id": "cbd58f95-a9d7-486c-bd12-b543c9369f3f",
-          "text": "El túbulo T.",
+          "id": "41817549-e92f-408b-92c7-8a9adab057a2",
+          "text": "El de tipo mucoso es poco frecuente en el adulto.",
           "correct": true
         },
         {
-          "id": "ef902ed4-53f0-443b-a9e1-c601cbe76681",
-          "text": "El disco z."
+          "id": "73924f3e-f6a0-4828-b5f1-5bd991e16112",
+          "text": "El de tipo denso irregular es el componente principal del cordón umbilical."
         },
         {
-          "id": "d2aa6514-acd7-4aa4-a9ec-1a66fa196383",
-          "text": "El retículo sarcoplásmico."
+          "id": "4c8a410a-4e1d-4c2f-810a-af7972400391",
+          "text": "El de tipo denso regular es característico del cartílago."
         },
         {
-          "id": "d0275825-297d-4c27-82a3-fcc3fe3a53a9",
-          "text": "La cisterna terminal."
+          "id": "7d680d40-a1da-484f-aeeb-713562265e1b",
+          "text": "El de tipo laxo es característico de la cápsula de los órganos parenquimatosos."
         }
       ]
     },
     {
-      "id": "0b0eb331-b52b-4dc1-bfcd-8454702cf190",
+      "id": "2f6aea49-9465-4480-a6a9-607ef1566ee5",
       "evaluation": "parcial_1_t",
       "source": "partial",
-      "asked_at": "2019-01-01",
-      "text": "Indique en qué sector del organismo abundan las fibras elásticas (indique la opción correcta):",
+      "asked_at": "2017-01-01",
+      "text": "De los siguientes roles atribuibles a la médula ósea, indique cuál NO es correcto:",
       "options": [
         {
-          "id": "7f4ef660-ccbc-4b9f-b447-5c4673fdff4c",
-          "text": "En el intersticio pulmonar.",
+          "id": "efa1af14-08a0-4690-a5aa-81e0260d649c",
+          "text": "Asegura la maduración de los linfocitos T.",
           "correct": true
         },
         {
-          "id": "0fa2c676-830b-4f52-9a35-465cd78fadbe",
-          "text": "En el cartílago hialino."
+          "id": "be6188c1-2fa0-4d10-86ae-741b5bce54e7",
+          "text": "Sintetiza factores estimulantes e inhibidores."
         },
         {
-          "id": "22337830-06ba-485b-b30f-44073a317682",
-          "text": "En los huesos largos."
+          "id": "544e0a7c-e30e-4a6f-8a7f-af646a0eef7d",
+          "text": "Genera un microambiente inductor."
         },
         {
-          "id": "c1ba2584-e44c-444c-8cd8-efe24ed02da7",
-          "text": "En lámina basal de los epitelios."
+          "id": "99a9db11-08e0-437a-8671-81714ca5cb2d",
+          "text": "Proporciona soporte estructural."
+        }
+      ]
+    },
+    {
+      "id": "1cb2c375-d982-4437-a1a8-2201c618e3c9",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "En el linfonodo existe una región timo-dependiente, llamada así porque presenta la mayoría de los linfocitos T de ese órgano. Esta región corresponde a:",
+      "options": [
+        {
+          "id": "79c25317-a3b7-43b4-a119-a785288ca41d",
+          "text": "La paracorteza.",
+          "correct": true
+        },
+        {
+          "id": "bc52f5fa-db61-4486-8e30-7fb8915bda69",
+          "text": "La corteza externa."
+        },
+        {
+          "id": "c03c3b74-9240-4495-952f-07692a0b640c",
+          "text": "La cápsula."
+        },
+        {
+          "id": "91ded52a-e266-4649-b4e7-fcf052d61222",
+          "text": "La médula."
+        }
+      ]
+    },
+    {
+      "id": "fb075f61-fcd9-4f22-86cd-7268c9e191be",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "En la osificación endocondral, ¿cuál de las siguientes moléculas es expresada por las células mesenquimáticas previo a su diferenciación en condroblastos?",
+      "options": [
+        {
+          "id": "2d352f75-53e7-4bfb-b8df-7f8dd6ea479a",
+          "text": "Colágeno tipo II.",
+          "correct": true
+        },
+        {
+          "id": "b7ae56f6-cdb9-4105-a44c-3393caedce35",
+          "text": "Colágeno tipo I."
+        },
+        {
+          "id": "492e0057-600d-4395-97dd-7e934befeec1",
+          "text": "Glucógeno."
+        },
+        {
+          "id": "43260182-c113-4b7e-9549-b57dd7590a4b",
+          "text": "Osteocalcina."
+        }
+      ]
+    },
+    {
+      "id": "8721f92a-9992-40b1-a4e7-b012b8e8bf56",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "En relación al tejido epitelial de revestimiento, indique la opción correcta:",
+      "options": [
+        {
+          "id": "3a11f4a8-b93c-4223-a50c-4fcdc8916211",
+          "text": "En algunos epitelios, es posible encontrar células secretoras exócrinas distribuidas entre células no secretoras.",
+          "correct": true
+        },
+        {
+          "id": "2f592da9-3ad4-41ed-804f-e700dbc0c520",
+          "text": "Algunos células epiteliales presentan cilias apicales densamente agregadas para aumentar su superficie luminal y capacidad absortiva."
+        },
+        {
+          "id": "43ddbcbd-2b43-4324-97fa-5d7c527dbf6f",
+          "text": "En el epitelio seudoestratificado no todas las células que lo conforman contactan con la membrana basal."
+        },
+        {
+          "id": "9b5baa57-321d-4472-8e12-b5130d92ec8f",
+          "text": "Son tejidos vascularizados."
+        }
+      ]
+    },
+    {
+      "id": "d7148363-a132-4928-83ac-a29b683e79de",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "En un corte histológico podemos distinguir un órgano linfoide rodeado por una cápsula delgada de tejido conjuntivo, con tabiques que dividen el parénquima en lobulillos. Presenta una corteza muy basófila y una médula eosinófila con grupos de células epiteliorreticulares dispuestas concéntricamente. En base a esta descripción, podemos inferir que el órgano corresponde a:",
+      "options": [
+        {
+          "id": "12967a76-7756-4954-a881-b26e89f44e16",
+          "text": "Timo.",
+          "correct": true
+        },
+        {
+          "id": "8b2d437e-929a-42a3-80fe-532226e550ff",
+          "text": "Amígdala."
+        },
+        {
+          "id": "44d9e160-5f03-4290-93eb-4176a10ef7d9",
+          "text": "Bazo."
+        },
+        {
+          "id": "c37813be-1049-4173-b049-2cc353a066cc",
+          "text": "Linfonodo."
+        }
+      ]
+    },
+    {
+      "id": "2a7fa224-6e3c-4e94-ac12-522e79259f7c",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "En una imagen obtenida mediante microscopía electrónica de un elemento forme de la sangre, se observa un fragmento celular anucleado que presenta una zona periférica compuesta por microtúbulos, filamentos de actina y miosina y una zona central cubierta de gránulos electrondensos. Indique, de acuerdo a ésta descripción, a qué estructura corresponde:",
+      "options": [
+        {
+          "id": "84c44221-af52-4a3b-90aa-7bba2f45c6fe",
+          "text": "Plaqueta.",
+          "correct": true
+        },
+        {
+          "id": "a65869f0-3ac3-452a-9ece-501b6207dcef",
+          "text": "Leucocito eosinófilo."
+        },
+        {
+          "id": "94da8399-7121-4753-8ed0-b94aaf22ef89",
+          "text": "Eritrocito."
+        },
+        {
+          "id": "167949c2-461d-4cba-a791-d0e0c4e4d529",
+          "text": "Linfocito."
+        }
+      ]
+    },
+    {
+      "id": "e30961dd-e961-483e-b662-46eb67b6177d",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "JM de 65 años de edad se encuentra cursando una infección bacteriana grave del parénquima pulmonar. Se le realiza un hemograma donde se espera encontrar (indique lo correcto):",
+      "options": [
+        {
+          "id": "353cdffd-1f8a-4309-b676-3cb70a17193f",
+          "text": "Aumento en el recuento de neutrófilos.",
+          "correct": true
+        },
+        {
+          "id": "b0aa9737-149a-4508-bfd9-c8caf40b8095",
+          "text": "Aumento en el recuento de linfocitos."
+        },
+        {
+          "id": "d11377f5-e369-472c-8aaa-ec53f2878e64",
+          "text": "Ausencia de plaquetas."
+        },
+        {
+          "id": "32a4b411-ea3a-4fb9-9076-52185350e614",
+          "text": "Recuento de eosinófilos mayor a 85%."
+        }
+      ]
+    },
+    {
+      "id": "b6df2dd1-9045-4c0a-bde3-2be23d75e4d3",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "La observación al microscopio de una biopsia de médula ósea permite distinguir un nicho de células eritropoyéticas en diferenciación. Entre ellas se observa una célula pequeña de citoplasma eosinófilo con núcleo redondo, pequeño, ligeramente excéntrico y con cromatina intensamente compactada. En base a esta descripción es correcto afirmar que se trata de un:",
+      "options": [
+        {
+          "id": "05bdd226-e02d-4558-8471-0c1ec6d153dd",
+          "text": "Eritroblasto ortocromático.",
+          "correct": true
+        },
+        {
+          "id": "e5c9cc32-cf00-4fe2-afc7-4c30de367228",
+          "text": "Eritroblasto basófilo."
+        },
+        {
+          "id": "16ab39b3-67ee-49e1-bf88-472e4c90f53a",
+          "text": "Eritroblasto policromatófilo."
+        },
+        {
+          "id": "962df876-a82d-424e-943e-2d5ad47ce281",
+          "text": "Proeritroblasto."
+        }
+      ]
+    },
+    {
+      "id": "1c72505f-8f6a-495f-8c43-7f6675dfb054",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "La osteoporosis es la enfermedad ósea más prevalente que se produce por disminución de la densidad del tejido óseo. Esto puede ser causado por:",
+      "options": [
+        {
+          "id": "786f7d21-3f82-4d9f-8c62-074762a0608c",
+          "text": "Aumento de la resorción y disminución de la formación ósea.",
+          "correct": true
+        },
+        {
+          "id": "e5dfa77d-a8f8-485a-826c-69a815d8fa7f",
+          "text": "Activación de los osteoblastos y osteocitos."
+        },
+        {
+          "id": "28686573-bcd6-474d-b9d9-9568d6ea4b34",
+          "text": "Aumento de la mineralización de la matriz ósea."
+        },
+        {
+          "id": "708247b8-1c41-482c-a23c-5c65af2c3a0d",
+          "text": "El efecto estimulador de las hormonas sexuales femeninas sobre los osteoclastos."
+        }
+      ]
+    },
+    {
+      "id": "98f8a489-d71c-4825-a6ba-179b5b8d89a5",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Los cambios en la ultraestructura que sufren las células osteoprogenitoras para diferenciarse en osteoblastos se hacen evidentes al microscopio óptico porque:",
+      "options": [
+        {
+          "id": "b81c6aaf-0953-493d-992a-823a69603336",
+          "text": "Su citoplasma cambia de eosinófilo a basófilo.",
+          "correct": true
+        },
+        {
+          "id": "e70738ab-79f5-4fb6-9029-70990a3932f9",
+          "text": "Se observan inclusiones citoplasmáticas."
+        },
+        {
+          "id": "a9db3570-ea16-4f4b-b517-cc60bff8fa22",
+          "text": "Su tamaño aumenta significativamente."
+        },
+        {
+          "id": "4045458c-4e80-4bca-bf4d-b4d35fac8045",
+          "text": "Su tamaño se reduce significativamente."
+        }
+      ]
+    },
+    {
+      "id": "3d67536a-fb32-4acc-a29b-ae6bb1dcd9da",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Los epitelios glandulares endócrinos se caracterizan por (indique lo correcto):",
+      "options": [
+        {
+          "id": "a87ccfeb-b635-4697-b651-1289b9715deb",
+          "text": "Carecer de conductos.",
+          "correct": true
+        },
+        {
+          "id": "21295144-b7d8-4963-841b-5396f7fec424",
+          "text": "Estár menos vascularizados que los de secreción exócrina."
+        },
+        {
+          "id": "0c45539e-eaa8-443c-bf03-f025cb38e610",
+          "text": "No presentar membrana basal."
+        },
+        {
+          "id": "f79c5df8-5f32-4172-b5c8-5535f7a0d425",
+          "text": "Presentar adenómeros formados por acinos."
+        }
+      ]
+    },
+    {
+      "id": "ff537eca-1c36-48bf-b4b0-1ba51739cf5e",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Respecto los componentes fibrilares de la matriz extracelular es correcto afirmar que:",
+      "options": [
+        {
+          "id": "f8fbde30-6029-4258-a165-299369a8e412",
+          "text": "La polimerización de las moléculas de colágeno es extracelular.",
+          "correct": true
+        },
+        {
+          "id": "4549a8dd-4f21-4c92-a968-117d4ac35670",
+          "text": "El colágeno tipo III está formado por polímeros de disacáridos."
+        },
+        {
+          "id": "adbea8f6-78f5-494f-ab52-7a4f6e414070",
+          "text": "El colágeno tipo IV es característico de los tendones."
+        },
+        {
+          "id": "2960f429-be0f-4c9e-adbf-c59819cc51af",
+          "text": "En los cortes histológicos las fibras colágenas se tiñen con colorantes basófilos."
+        }
+      ]
+    },
+    {
+      "id": "6af81385-d135-46f8-b270-e3d434d6bbd0",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Un patólogo define el principal componente tisular de una muestra de tejido que llega al laboratorio como tejido conjuntivo denso regular. En cuál de las siguientes características se apoyó el profesional para dar tal definición:",
+      "options": [
+        {
+          "id": "bd22e3d4-db9c-43ee-9c12-def9be6fb4ac",
+          "text": "Predominio de componente fibrilar ordenado y bajo número de células.",
+          "correct": true
+        },
+        {
+          "id": "b611fada-d420-4295-ba23-1d8ddbd7da7a",
+          "text": "Predominio de células libres sobre una trama de fibras reticulares."
+        },
+        {
+          "id": "6ee8adba-9052-4c27-9480-cd742f0e864f",
+          "text": "Predominio de células sobre la matriz y ramificación de las fibras."
+        },
+        {
+          "id": "efaa3f70-2b80-4945-a076-217d482222be",
+          "text": "Predominio de sustancia fundamental en el tejido analizado."
+        }
+      ]
+    },
+    {
+      "id": "66e5e27c-396c-4c1b-bb60-b6e4911207aa",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "Una enfermedad dermatológica se caracteriza por presentar auto-anticuerpos que reaccionan contra moléculas específicas ubicadas en la piel determinando la formación vesículas, ampollas y bullas. La histología realizada en una muestra de un paciente con dichas lesiones constata que el epitelio se encuentra completamente separado de la membrana basal. Teniendo en cuenta sus conocimientos, indique cuál sería la unión celular más probablemente afectada por la presencia de estos auto-anticuerpos:",
+      "options": [
+        {
+          "id": "19c2f27d-c3c2-4427-9a46-e7e53c63235f",
+          "text": "Hemidesmosoma.",
+          "correct": true
+        },
+        {
+          "id": "a229fb5d-3eb5-4a6e-9f19-16ccea317a8c",
+          "text": "Desmosoma."
+        },
+        {
+          "id": "15524f51-0af3-43d6-9246-e366f7127529",
+          "text": "Unión gap."
+        },
+        {
+          "id": "368f8e64-e8a5-4eb9-a8b4-68545262dbd0",
+          "text": "Zónula adherente."
+        }
+      ]
+    },
+    {
+      "id": "50141528-ecb6-4e07-a5db-55326f9fdc66",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "¿Qué características particulares puede presentar el tejido adiposo unilocular de un individuo obeso? Marque la opción correcta.",
+      "options": [
+        {
+          "id": "ec925c67-d02e-4512-a30e-1cc665e5f547",
+          "text": "Adipocitos hipertrofiados y abundantes macrófagos pro-inflamatorios.",
+          "correct": true
+        },
+        {
+          "id": "54f21847-bf28-48aa-9fc3-b8ff25734306",
+          "text": "Adipocitos de tamaño y morfología normal con escasa cantidad de macrófagos."
+        },
+        {
+          "id": "cdf407b9-92c4-40a1-83e2-6e84c18fb17b",
+          "text": "Adipocitos hipotróficos y abundantes mastocitos."
+        },
+        {
+          "id": "e61fa8d2-64d5-46cd-8121-2f5d698c1f0d",
+          "text": "Adipocitos normales con abundante vascularización."
+        }
+      ]
+    },
+    {
+      "id": "9ce88420-c542-4f6c-811d-3a019328c058",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "¿Qué características tiene la matriz extracelular del cartílago hialino? Marque la opción correcta.",
+      "options": [
+        {
+          "id": "409c25ae-420c-4ef2-9dbc-2f52e676494a",
+          "text": "Es altamente hidratada y tiene una consistencia de gel firme.",
+          "correct": true
+        },
+        {
+          "id": "868c5abf-57c5-4d2c-b52f-43d46e488038",
+          "text": "Abundante cantidad de colágeno tipo I y escasa cantidad de colágeno tipo II."
+        },
+        {
+          "id": "7107d191-0ae7-466c-8c31-71e7a829c254",
+          "text": "Abundantes fibras elásticas y reticulares."
+        },
+        {
+          "id": "d0ef4618-6640-49a4-8638-f35ea321376a",
+          "text": "Se tiñe intensamente con técnicas de orceína y resorcina-fucsina."
+        }
+      ]
+    },
+    {
+      "id": "6259cad8-785c-4394-a634-656af0e03b94",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2017-01-01",
+      "text": "¿Qué características ultraestructurales presenta un osteocito latente?",
+      "options": [
+        {
+          "id": "e1d0314f-d7b7-4176-b244-04f025e082d8",
+          "text": "Núcleo heterocromático, citoplasma escaso, rodeado de matriz ósea mineralizada.",
+          "correct": true
+        },
+        {
+          "id": "fc7f6e27-fcba-40db-97cd-39fba6404225",
+          "text": "Célula multinucleada con distintos dominios de membrana."
+        },
+        {
+          "id": "d94689ad-0b98-47d3-bd23-497b4b9c26c0",
+          "text": "Célula multinucleada y citoplasma con abundantes lisosomas y mitocondrias."
+        },
+        {
+          "id": "26719894-6634-48d9-9984-54d4a4d5a09c",
+          "text": "Núcleo eucromático, abundante retículo endoplásmico rugoso, rodeado de matriz osteoide."
+        }
+      ]
+    },
+    {
+      "id": "bdc01042-6517-4169-8ce2-31618f65fd7e",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "Con respecto a las fibras de colágeno del tejido conjuntivo (indique la opción correcta):",
+      "options": [
+        {
+          "id": "4feea0e2-59be-4b14-92ec-be3900284161",
+          "text": "El colágeno tipo II predomina en la matriz del cartílago hialino.",
+          "correct": true
+        },
+        {
+          "id": "89308e8a-dc03-4464-badb-6e541e7ffdd5",
+          "text": "El colágeno tipo I es un componente esencial de las láminas basales."
+        },
+        {
+          "id": "17cbae7e-9ace-4fe9-8121-503ef457b9f0",
+          "text": "El colágeno tipo IV es característico de las fibras reticulares."
+        },
+        {
+          "id": "d90799c0-3a41-4ce0-a1ac-7b57e565087e",
+          "text": "Todo el proceso de síntesis y ensamblaje de las fibras de colágeno se produce en forma intracelular."
+        }
+      ]
+    },
+    {
+      "id": "ef0d3618-5677-476d-b97c-2881ba368fe9",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "Con respecto a los epitelios glandulares endócrinos, indique la opción correcta:",
+      "options": [
+        {
+          "id": "d9c0b378-2403-45cd-8535-4dccbe9e2da7",
+          "text": "Pueden localizarse junto con epitelios exócrinos, formando glándulas mixtas.",
+          "correct": true
+        },
+        {
+          "id": "2e07b6f4-f0b0-4f38-b295-6b63bd50d4af",
+          "text": "Las células caliciformes forman parte de estos epitelios endócrinos."
+        },
+        {
+          "id": "72da9379-6c59-4718-baa0-dace146ae424",
+          "text": "Mantienen la conexión con el epitelio superficial del cual se originaron."
+        },
+        {
+          "id": "dd0971d7-db55-46ff-886a-6367ef000851",
+          "text": "Sus células pueden disponerse formando acinos o alvéolos."
+        }
+      ]
+    },
+    {
+      "id": "c6482142-f50b-48bc-a016-981667718b8e",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "En relación a la vaina linfática periarteriolar (VLPA) presente en el bazo (indique la opción correcta):",
+      "options": [
+        {
+          "id": "6f379fbe-42ac-43a2-9399-7111dcc8b824",
+          "text": "Rodea a la arteria central.",
+          "correct": true
+        },
+        {
+          "id": "1b76bf18-601b-4a48-83c8-0f761e4043a8",
+          "text": "Contiene tejido conjuntivo fibroso."
+        },
+        {
+          "id": "81fbb1b9-3449-478a-9b90-0ddcc0ad1ba7",
+          "text": "Está formada por tejido linfoideo cortical."
+        },
+        {
+          "id": "8f0c5e66-b814-4aff-80aa-f51e4e1c6b65",
+          "text": "Se localiza a nivel de la pulpa roja."
+        }
+      ]
+    },
+    {
+      "id": "6251bcb6-5045-48fd-81f6-d0442772e539",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "En relación al periostio (indique la opción correcta):",
+      "options": [
+        {
+          "id": "cce02933-71a3-46c5-89d7-ae367080a345",
+          "text": "Su capa interna contiene células que se diferencian en osteoblastos.",
+          "correct": true
+        },
+        {
+          "id": "65f29018-b2da-4fa6-8db6-a078b1faceac",
+          "text": "Alberga células de recubrimiento óseo que se diferencian en osteoclastos."
+        },
+        {
+          "id": "f98089c1-59fd-4e0b-b789-625c98e24e26",
+          "text": "Su capa externa fibrosa contiene células osteoprogenitoras."
+        },
+        {
+          "id": "c2b34517-6fdb-48ce-a0a8-372fb581c0b5",
+          "text": "Tapiza las superficies internas de la cavidad medular del hueso."
+        }
+      ]
+    },
+    {
+      "id": "2c85ab75-c28e-40ea-8d92-2b7791e6c111",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "En un ensayo experimental se introducen moléculas fluorescentes pequeñas en el citoplasma de una célula determinada. Luego de un tiempo se comprueba que dichas moléculas se encuentran localizadas en las células vecinas, las cuales no fueron manipuladas en la mencionada situación experimental. Indique qué estructura celular se pondría en evidencia por medio del experimento:",
+      "options": [
+        {
+          "id": "15e056b6-260f-44df-ade1-5632f4cc89e0",
+          "text": "Uniones gap.",
+          "correct": true
+        },
+        {
+          "id": "3ed17b4f-d623-4f7b-91ba-a5aa8f7f7609",
+          "text": "Cuerpos basales."
+        },
+        {
+          "id": "1504f520-c45c-4375-ade9-f29f79cfa673",
+          "text": "Microvellosidades."
+        },
+        {
+          "id": "58100983-3203-4e42-b0ec-61060c0108b9",
+          "text": "Uniones ocluyentes."
+        }
+      ]
+    },
+    {
+      "id": "a9e9417b-d0b1-4457-b725-9bf75f10f9b6",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "En un individuo que presenta un defecto severo en la producción de elastina, indique cuál de las siguientes alteraciones esperaría encontrar:",
+      "options": [
+        {
+          "id": "743bd788-61c3-4f1a-86a5-9d23affa6667",
+          "text": "Mayor fragilidad de la pared de las grandes arterias.",
+          "correct": true
+        },
+        {
+          "id": "a77cbd7b-6e68-4e85-a14a-98bce0258d88",
+          "text": "Alteraciones estructurales importantes en los tendones."
+        },
+        {
+          "id": "79b7a52b-dad7-4b85-b967-d1a98721d0e9",
+          "text": "Debilidad de las placas de cartílago hialino."
+        },
+        {
+          "id": "abb8c911-95fd-410a-9037-a10fc4c0fe5f",
+          "text": "Formación de ampollas por separación del epitelio del conjuntivo subyacente."
+        }
+      ]
+    },
+    {
+      "id": "9624d29d-04c3-4287-8088-26bf8d6a7066",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "En una micrografía electrónica de transmisión de una muestra de tejido muscular, el componente que nos permite afirmar que la misma corresponde a músculo cardíaco, es (indique la opción correcta):",
+      "options": [
+        {
+          "id": "addeba61-5e85-44d9-b518-de29289b451e",
+          "text": "Fascias adherentes entre células vecinas.",
+          "correct": true
+        },
+        {
+          "id": "55ebff8f-4e5d-46d9-94b6-6c5317587a2c",
+          "text": "Ausencia de banda H."
+        },
+        {
+          "id": "4a977186-6b3d-4e2e-b38c-c46a700ef505",
+          "text": "Presencia de mitocondrias."
+        },
+        {
+          "id": "1f7b8018-07f1-4553-a8f4-397dd03d56a4",
+          "text": "Presencia de sarcómero."
+        }
+      ]
+    },
+    {
+      "id": "92ecca73-67c8-4de9-b212-bbf518e5c812",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "En una micrografía electrónica del epitelio que tapiza el lumen de la vejiga, se observa que las células superficiales presentan un sector apical con gran cantidad de vesículas fusiformes. Con respecto a estas vesículas (indique la opción correcta):",
+      "options": [
+        {
+          "id": "df7c1574-f30c-4f0f-82b1-4e80b61ecfb5",
+          "text": "Su número disminuye cuando el epitelio se encuentra distendido.",
+          "correct": true
+        },
+        {
+          "id": "dadfc6d1-39d8-4972-909c-11886b95151e",
+          "text": "Están vinculadas con el proceso de pinocitosis celular."
+        },
+        {
+          "id": "d233d800-b4d5-4c0c-b1a9-4d892d020140",
+          "text": "Representan eventos de endocitosis mediada por receptor."
+        },
+        {
+          "id": "409b7aa0-2256-4fc4-a0a2-1033816d612d",
+          "text": "Su número aumenta al incrementarse la absorción epitelial."
+        }
+      ]
+    },
+    {
+      "id": "d8393860-959e-492b-ab86-499bbfb0cbe5",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "Es una característica propia de los mastocitos (marque la opción correcta):",
+      "options": [
+        {
+          "id": "6dc3f48d-190e-4233-99ef-18e62f2116f4",
+          "text": "La presencia de gránulos metacromáticos en su citoplasma.",
+          "correct": true
+        },
+        {
+          "id": "51d0c34a-7137-4a5b-923d-46b5d2d0211a",
+          "text": "Numerosos lisosomas debido a su actividad fagocítica."
+        },
+        {
+          "id": "f783d1ea-b53f-48d3-a01b-907f8c81591b",
+          "text": "Un extenso retículo rugoso para la síntesis de inmunoglobulinas."
+        },
+        {
+          "id": "ed7010a2-bff8-40d2-90a4-844ce264db63",
+          "text": "Un núcleo polilobulado."
+        }
+      ]
+    },
+    {
+      "id": "ef83575e-dd3b-4416-8397-073483a67bcc",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "Indique cuál de las siguientes asociaciones entre componentes del citoesqueleto y su localización dentro del sarcómero es la correcta:",
+      "options": [
+        {
+          "id": "48816417-a8da-4d91-a242-59e9c915e053",
+          "text": "Filamento de actina / banda I.",
+          "correct": true
+        },
+        {
+          "id": "7b14c739-d217-439e-914f-509ae84682ed",
+          "text": "Filamento de actina / banda H."
+        },
+        {
+          "id": "654cc378-0ca9-4856-bb7c-acb1187b4155",
+          "text": "Filamento de actina / línea M."
+        },
+        {
+          "id": "7c5b7bc6-f9f8-4a70-bdbf-27d5ed9ed72d",
+          "text": "Filamento de miosina / línea Z."
+        }
+      ]
+    },
+    {
+      "id": "2dfb415f-2b07-4252-a6cb-502d6989b0d1",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "Indique cuál de las siguientes familias de genes se expandieron notablemente en los organismos eucariotas multicelulares en comparación con los eucariotas unicelulares. Aquellas que codifican para (indique la opción correcta):",
+      "options": [
+        {
+          "id": "f1447274-bdda-4799-92ab-4d68217443c1",
+          "text": "Proteínas que regulan la expresión génica.",
+          "correct": true
+        },
+        {
+          "id": "184d4d94-5e4b-484f-bee8-fa18d4ce07e4",
+          "text": "ARN de transferencias."
+        },
+        {
+          "id": "05e1fc2b-126b-42e3-a571-afd524cd6008",
+          "text": "Enzimas de glicosilan proteínas."
+        },
+        {
+          "id": "98c3ccdf-425b-423d-94a0-492b7563fcc7",
+          "text": "Histonas."
+        }
+      ]
+    },
+    {
+      "id": "68e81618-7450-49ed-ada6-6576429804d8",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "Indique cuál de las siguientes propiedades es característica de una célula madre (indique la opción correcta):",
+      "options": [
+        {
+          "id": "8584c85c-fee9-40a9-8e4f-3f6be57e5c44",
+          "text": "Al dividirse origina una célula idéntica de sí misma y otra que puede diferenciarse.",
+          "correct": true
+        },
+        {
+          "id": "c749717d-dffc-4f03-a948-934ff709d08c",
+          "text": "Están ausentes en los epitelios glandulares."
+        },
+        {
+          "id": "f5c755b3-6c84-4a0a-991d-09cc50cc8ee1",
+          "text": "Expresa las mismas proteínas que la célula diferenciada a la que daorigen."
+        },
+        {
+          "id": "c3afe504-06a3-437c-9d3c-f60193053bce",
+          "text": "Siempre puede originar todos los tipos celulares del cuerpo."
+        }
+      ]
+    },
+    {
+      "id": "fe6fe3a4-f040-4d8c-8727-40de67c94ef4",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "Indique cuál de los siguientes elementos está ausente en el tejido adiposo (indique la opción correcta):",
+      "options": [
+        {
+          "id": "5966eb5f-5c15-4e54-a591-3c5afa81ebb6",
+          "text": "Células musculares esqueléticas.",
+          "correct": true
+        },
+        {
+          "id": "cb3953d5-e8fa-4b08-8961-29ba365fdfde",
+          "text": "Capilares sanguíneos."
+        },
+        {
+          "id": "bbceecb4-43cc-45ab-92ed-f18fdef8fc58",
+          "text": "Fibras del sistema nervioso autónomo."
+        },
+        {
+          "id": "17e940a2-1108-4ee5-8ac1-0b1e5fbf477e",
+          "text": "Fibroblastos."
+        }
+      ]
+    },
+    {
+      "id": "d2694bf0-ad77-4df1-9b54-cc2ce2f0b18a",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "Indique cuál de los siguientes elementos que forman parte del cartílago es responsable directo de sus funciones (indique la opción correcta):",
+      "options": [
+        {
+          "id": "2fb733c9-a97b-4de6-9aee-4d13daeca53d",
+          "text": "La matriz extracelular.",
+          "correct": true
+        },
+        {
+          "id": "ab1e2299-ce3c-408b-bf85-1e562d0314ea",
+          "text": "El pericondrio."
+        },
+        {
+          "id": "57f700e0-4166-4011-9d17-bc6bfaa45b3c",
+          "text": "Los condroblastos."
+        },
+        {
+          "id": "6d72dcee-62c7-4613-a8a3-c0a2131b306d",
+          "text": "Los condrocitos."
+        }
+      ]
+    },
+    {
+      "id": "d523b4bb-7981-46eb-afcd-bc46232f2680",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "Las vénulas poscapilares presentes en el linfonodo (indique la opción correcta):",
+      "options": [
+        {
+          "id": "3f8c0e93-2b92-47e7-924f-4585cdd214ba",
+          "text": "Se localizan en la corteza profunda, cerca del límite córtico-medular.",
+          "correct": true
+        },
+        {
+          "id": "ed627d62-7d4d-41b0-bb8d-ed93ddc809c5",
+          "text": "Carecen de moléculas de adhesión celular."
+        },
+        {
+          "id": "d7b0d1d0-43bc-4e92-b912-15c5375babf0",
+          "text": "Permiten la recirculación de macrófagos."
+        },
+        {
+          "id": "7e3d6047-c728-4228-8a4a-1980a6dd45ab",
+          "text": "Presentan un endotelio estratificado."
+        }
+      ]
+    },
+    {
+      "id": "1358cffd-91ed-4b65-a247-431860f2d536",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "Los corpúsculos de Hassall son estructuras características que se localizan exclusivamente en (indique la opción correcta):",
+      "options": [
+        {
+          "id": "9f098522-030d-476c-bd3c-6c564eb2d4f6",
+          "text": "La médula tímica.",
+          "correct": true
+        },
+        {
+          "id": "2efd43dc-5d6b-410c-a24c-479c4f3e77c1",
+          "text": "La corteza del linfonodo."
+        },
+        {
+          "id": "0029a0a6-a41d-4cbc-9155-b47b0daed516",
+          "text": "La corteza del timo."
+        },
+        {
+          "id": "c9709f67-554c-4705-89d2-dffe062d9926",
+          "text": "La pulpa roja del bazo."
+        }
+      ]
+    },
+    {
+      "id": "5c9cfc5b-3085-43e2-9c10-0904fa398bfc",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "Los eritrocitos, deben su citoplasma eosinófilo a (indique a la opción correcta):",
+      "options": [
+        {
+          "id": "539954d9-6ba3-4576-876d-0161d288261b",
+          "text": "La concentración de hemoglobina.",
+          "correct": true
+        },
+        {
+          "id": "c46fab03-294d-42c3-a149-f5bec71466fb",
+          "text": "La cantidad de oxígeno disuelto."
+        },
+        {
+          "id": "b4a47f43-34ab-49df-b6f4-01e90d3df67f",
+          "text": "La cantidad de vesículas citoplasmáticas."
+        },
+        {
+          "id": "d451b442-3d19-45e5-92f9-cc905758ea8d",
+          "text": "La densidad de mitocondria."
+        }
+      ]
+    },
+    {
+      "id": "baf3683c-c70e-4153-b73d-879bf0f6c22f",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "¿Cuál de las siguientes variedades de tejido conjuntivo presenta grandes restricciones a la difusión de moléculas a través de su matriz extracelular?",
+      "options": [
+        {
+          "id": "9302f6e5-f834-4ca1-8752-e0af3326da58",
+          "text": "Tejido óseo compacto.",
+          "correct": true
+        },
+        {
+          "id": "354de5a8-abfe-4414-9a85-0e5f3c113ea6",
+          "text": "Tejido adiposo unilocular."
+        },
+        {
+          "id": "51b3ac5d-ef92-41a4-ad5d-43f5f19975e8",
+          "text": "Tejido cartilaginoso."
+        },
+        {
+          "id": "248218a6-2fc9-4774-bc26-b1ec0e088b48",
+          "text": "Tejido conjuntivo laxo."
+        }
+      ]
+    },
+    {
+      "id": "fc24cbad-9794-4028-9fe2-7e87bde6b1ff",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "¿Cuál de los siguientes eventos es el primer indicio del proceso de osificación en los huesos planos de la bóveda craneana?",
+      "options": [
+        {
+          "id": "bf5dd17b-d30f-4a66-814e-2aeb7770bea5",
+          "text": "Proliferación y posterior condensación de células en una placa membranosa de mesénquima.",
+          "correct": true
+        },
+        {
+          "id": "8bd082b3-2e1f-4137-a454-92456d07c070",
+          "text": "Calcificación progresiva de la matriz extracelular del molde de cartílago hialino."
+        },
+        {
+          "id": "13765110-b4ae-4ee7-90e7-c15bf1d78d9a",
+          "text": "Formación de un collar óseo o manguito periostal en la superficie del mesénquima."
+        },
+        {
+          "id": "489172a6-b888-490c-a86b-39f23ce98449",
+          "text": "Invasión vascular del molde de cartílago hialino a través del periostio."
+        }
+      ]
+    },
+    {
+      "id": "f1d97c27-2626-4c66-960f-62986e04500c",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2018-01-01",
+      "text": "¿Cuál de los siguientes tipos celulares NO presenta gránulos azurófilos?",
+      "options": [
+        {
+          "id": "9fc16345-4516-4bbe-81a0-e5a1b33712a1",
+          "text": "Eritrocitos.",
+          "correct": true
+        },
+        {
+          "id": "cc495754-c1b9-4be2-beae-d2afc5feed39",
+          "text": "Linfocitos."
+        },
+        {
+          "id": "e9aa9b3e-8f4e-44ef-9a13-3f22dcef0afc",
+          "text": "Megacariocitos."
+        },
+        {
+          "id": "6dc088dc-8932-4abc-ac39-2a81035535c0",
+          "text": "Monocitos."
         }
       ]
     },
@@ -270,6 +1206,58 @@
       ]
     },
     {
+      "id": "e6ec1a18-a3a2-45cc-8344-bd6765190196",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "En relación a la renovación celular del epitelio que reviste el intestino delgado, indique la opción correcta:",
+      "options": [
+        {
+          "id": "9f7105f8-556a-479e-9c44-0f41fabbd625",
+          "text": "Se regenera a partir de células madres localizadas en la base de las glándulas intestinales.",
+          "correct": true
+        },
+        {
+          "id": "96156eae-ff73-4120-bb47-bddf3a70946d",
+          "text": "No se regenera."
+        },
+        {
+          "id": "5be1ed99-bc4b-4b84-9b51-f51e4fe102f0",
+          "text": "Se regenera por mitosis de las células epiteliales ya diferenciadas."
+        },
+        {
+          "id": "26c6e806-c7d2-4307-81aa-d466736dca5d",
+          "text": "Se regenera solo cuando hay una lesión epitelial."
+        }
+      ]
+    },
+    {
+      "id": "65f51416-2d96-4bed-947f-4e9c2cc4c275",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "En relación al tejido cartilaginoso, indique la opción correcta:",
+      "options": [
+        {
+          "id": "d468ca0f-8388-47ea-8754-6bcf798cab21",
+          "text": "El factor de transcripción SOX-9 desencadena la diferenciación de las células mesenquimatosas en condroblastos durante la condrogénesis.",
+          "correct": true
+        },
+        {
+          "id": "c489efed-70d0-40e3-b013-75b45cb210f5",
+          "text": "La elasticidad del cartílago está dada por la gran capacidad de las fibras de colágeno II en retener moléculas de agua, generando una matriz altamente hidratada."
+        },
+        {
+          "id": "662bbac9-4c7c-4629-aa2e-b7ef34b011e4",
+          "text": "La presencia de vasos sanguíneos en este tejido permite la correcta distribución de nutrientes a pesar de la consistencia de su matriz extracelular."
+        },
+        {
+          "id": "9faac1b9-73dd-4bfd-9e47-c8214d5fdabb",
+          "text": "Los condrocitos carecen de la capacidad de multiplicarse por mitosis como recurso para el crecimiento tisular."
+        }
+      ]
+    },
+    {
       "id": "6bf5cc8a-235c-451a-ae22-c816cccf13b6",
       "evaluation": "parcial_1_t",
       "source": "partial",
@@ -322,6 +1310,32 @@
       ]
     },
     {
+      "id": "d2bde125-befc-4061-bf4b-a6cc1d512c7d",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Indique cuál de los siguientes componentes de la fibra muscular estriada es el encargado de la propagación del potencial de membrana hacia el interior de la fibra durante el acoplamiento excitación-contracción:",
+      "options": [
+        {
+          "id": "cbd58f95-a9d7-486c-bd12-b543c9369f3f",
+          "text": "El túbulo T.",
+          "correct": true
+        },
+        {
+          "id": "ef902ed4-53f0-443b-a9e1-c601cbe76681",
+          "text": "El disco z."
+        },
+        {
+          "id": "d2aa6514-acd7-4aa4-a9ec-1a66fa196383",
+          "text": "El retículo sarcoplásmico."
+        },
+        {
+          "id": "d0275825-297d-4c27-82a3-fcc3fe3a53a9",
+          "text": "La cisterna terminal."
+        }
+      ]
+    },
+    {
       "id": "33867be9-f27c-46bc-bd19-ca39265ed93e",
       "evaluation": "parcial_1_t",
       "source": "partial",
@@ -344,6 +1358,32 @@
         {
           "id": "ba12007f-4033-4685-8ddf-2bc8370d1f46",
           "text": "Pelvis."
+        }
+      ]
+    },
+    {
+      "id": "0b0eb331-b52b-4dc1-bfcd-8454702cf190",
+      "evaluation": "parcial_1_t",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Indique en qué sector del organismo abundan las fibras elásticas (indique la opción correcta):",
+      "options": [
+        {
+          "id": "7f4ef660-ccbc-4b9f-b447-5c4673fdff4c",
+          "text": "En el intersticio pulmonar.",
+          "correct": true
+        },
+        {
+          "id": "0fa2c676-830b-4f52-9a35-465cd78fadbe",
+          "text": "En el cartílago hialino."
+        },
+        {
+          "id": "22337830-06ba-485b-b30f-44073a317682",
+          "text": "En los huesos largos."
+        },
+        {
+          "id": "c1ba2584-e44c-444c-8cd8-efe24ed02da7",
+          "text": "En lámina basal de los epitelios."
         }
       ]
     },
