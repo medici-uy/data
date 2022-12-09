@@ -1570,6 +1570,396 @@
       ]
     },
     {
+      "id": "91426aa3-1227-4f37-b280-82759748e5fc",
+      "evaluation": "parcial_1_t",
+      "source": "exam",
+      "asked_at": "2019-12-01",
+      "text": "Indique cuál de los siguientes tipos de colágeno no forma fibras.",
+      "options": [
+        {
+          "id": "e444faf6-e2c9-43b4-895f-177158e8d997",
+          "text": "IV.",
+          "correct": true
+        },
+        {
+          "id": "e7e1d888-acbe-4714-8589-96db0f441932",
+          "text": "I."
+        },
+        {
+          "id": "0a26f2a1-d3e4-4cea-a659-00ff150688df",
+          "text": "II."
+        },
+        {
+          "id": "fcc64228-c90d-4757-ba49-f9515638565c",
+          "text": "III."
+        }
+      ]
+    },
+    {
+      "id": "2659b1db-4644-44a9-8f07-e0aee4e1c259",
+      "evaluation": "parcial_1_t",
+      "source": "exam",
+      "asked_at": "2019-12-01",
+      "text": "Indique cómo es la estructura de las moléculas de colágeno cuando son secretadas:",
+      "options": [
+        {
+          "id": "966326b9-7112-4fa4-b07d-8d41ff4e7ae3",
+          "text": "Están formada por tres cadenas alfa enrolladas entre si.",
+          "correct": true
+        },
+        {
+          "id": "66de73ec-75be-4fb8-9f73-9795a42fe3af",
+          "text": "Consisten en cadenas alfa libres."
+        },
+        {
+          "id": "eaaf49c6-4415-4db4-bd25-ee0c21ffc4a5",
+          "text": "Contienen la mayoría de las prolina y lisina no hidroxiladas."
+        },
+        {
+          "id": "d49497e9-dd60-4089-95e0-6e501788339a",
+          "text": "Presentan una estriación transversal característica."
+        }
+      ]
+    },
+    {
+      "id": "60a06c08-c26e-4924-9318-9f3bfcd89bcb",
+      "evaluation": "parcial_1_t",
+      "source": "exam",
+      "asked_at": "2019-12-01",
+      "text": "Los leucocitos eosinófilos se pueden reconocer fácilmente en la microscopia óptica por:",
+      "options": [
+        {
+          "id": "696b791d-3838-4c2d-8823-00f4df72b208",
+          "text": "La afinidad de sus gránulos por los colorantes ácidos.",
+          "correct": true
+        },
+        {
+          "id": "94df62a8-b7e8-4cc4-83cf-3f622d6a3541",
+          "text": "Ser los leucocitos circulantes de mayor tamaño."
+        },
+        {
+          "id": "8f6ef51f-b174-4305-9afb-5667acc16a3c",
+          "text": "Su alta relación núcleo-citoplasma."
+        },
+        {
+          "id": "f44c637b-4787-4b0a-81e5-108866a6d62b",
+          "text": "Su núcleo heterocromático redondeado."
+        }
+      ]
+    },
+    {
+      "id": "c76fc75d-6b8b-4f42-a1a4-2a638287b25d",
+      "evaluation": "parcial_1_t",
+      "source": "exam",
+      "asked_at": "2019-12-01",
+      "text": "El citoplasma de un osteoblasto activo se caracteriza por:",
+      "options": [
+        {
+          "id": "ad2636f3-fa3b-4822-a87c-ae0f66a7bb5b",
+          "text": "Presentar numerosas cisternas de retículo endoplásmico rugoso.",
+          "correct": true
+        },
+        {
+          "id": "2a60f2bb-0d0c-45c8-8564-0c0d637d757e",
+          "text": "La cristalización de la hidroxiapatita en vesículas asociadas al aparato de Golgi."
+        },
+        {
+          "id": "5d7ac372-407f-4e8e-8312-23d751f51c4b",
+          "text": "La presencia de abundantes gránulos secretorios."
+        },
+        {
+          "id": "4a113a7f-ce46-43e5-bc39-d4f51f62fedb",
+          "text": "Su marcada eosinofilia."
+        }
+      ]
+    },
+    {
+      "id": "d1af1fa6-bd71-45c8-bc1e-5d38b605c1b8",
+      "evaluation": "parcial_1_t",
+      "source": "exam",
+      "asked_at": "2019-12-01",
+      "text": "El incremento del tejido adiposo unilocular en el adulto provoca:",
+      "options": [
+        {
+          "id": "65136722-ed9d-4c0b-91a8-fe3f97f3c45f",
+          "text": "El desarrollo de un estado inflamatorio crónico.",
+          "correct": true
+        },
+        {
+          "id": "4b1b799d-20a3-4366-b1e3-fca4e6d40504",
+          "text": "Su transformación en tejido adiposo multilocular."
+        },
+        {
+          "id": "b46012c2-8077-4fe1-b1d4-4153e066d6ce",
+          "text": "Un aumento de su vascularización."
+        },
+        {
+          "id": "36c6da87-546e-423c-9b56-1f982c89566f",
+          "text": "Un aumento en su capacidad termogénica."
+        }
+      ]
+    },
+    {
+      "id": "379d5f91-811b-4f6a-8949-7dbc90153b29",
+      "evaluation": "parcial_1_t",
+      "source": "exam",
+      "asked_at": "2019-12-01",
+      "text": "En la eritropoyesis los precursores del eritrocito van perdiendo su núcleo y su citoplasma se torna más eosinófilo. La basofilia citoplasmática de estos precursores se explica por:",
+      "options": [
+        {
+          "id": "e32d8778-d99d-4457-bbc7-1bffabbfc8a4",
+          "text": "La presencia de abundantes ribosomas libres.",
+          "correct": true
+        },
+        {
+          "id": "cee086a7-8a15-4aa9-860b-19885f5d0258",
+          "text": "Abundante retículo endoplásmico rugoso."
+        },
+        {
+          "id": "76a346bc-accc-42ae-a563-df690d656a0c",
+          "text": "La presencia de grandes cantidades de hemoglobina."
+        },
+        {
+          "id": "4ebedf33-b9b6-42b9-af1f-3351ea742254",
+          "text": "Una gran cantidad de gránulos basófilos revestidos por membrana."
+        }
+      ]
+    },
+    {
+      "id": "ee1e54ae-7f97-47a8-90f0-524132237367",
+      "evaluation": "parcial_1_t",
+      "source": "exam",
+      "asked_at": "2019-12-01",
+      "text": "En una animal de experimentación se inyecta hidróxido de lantano (un coloide de alto peso molecular y electrón denso) en la circulación. Luego se fija el páncreas para ser observado al microscopio electrónico de transmisión. En el preparado obtenido se observa que el lantano difundió desde la sangre rellenando el espacio extracelular que separa las superficies laterales de células acinares adyacentes hasta un punto en que no puede penetrar más allá por la presencia de una unión de membrana. Dadas las características mencionadas indique que unión se está evidenciando en el experimento:",
+      "options": [
+        {
+          "id": "05b062c9-40f4-45bc-b224-176ad2662b68",
+          "text": "Unión ocluyente.",
+          "correct": true
+        },
+        {
+          "id": "6d6651c9-894b-446e-bc9c-7e7acafaff90",
+          "text": "Desmosoma."
+        },
+        {
+          "id": "a0db1156-a6f7-4975-8020-6284afdb5cc1",
+          "text": "Unión gap."
+        },
+        {
+          "id": "293b90e7-6525-450c-9edd-f14e74403bb1",
+          "text": "Zónula adherente."
+        }
+      ]
+    },
+    {
+      "id": "a873c507-b3e8-43b8-962e-15357c906d76",
+      "evaluation": "parcial_1_t",
+      "source": "exam",
+      "asked_at": "2019-12-01",
+      "text": "En una glándula sebácea, la secreción se asocia a un proceso de muerte celular programada y la secreción liberada al conducto incluye el producto sintetizado y restos celulares. Indique como se llama el mencionado mecanismo de secreción:",
+      "options": [
+        {
+          "id": "f0f43e8c-2957-4d0e-91ef-b999e1a220a8",
+          "text": "Holócrina.",
+          "correct": true
+        },
+        {
+          "id": "7380c6c5-8fe2-4aec-b237-498a4d9818be",
+          "text": "Endócrina."
+        },
+        {
+          "id": "499a629b-017f-4684-b1c3-8e66dde4fe82",
+          "text": "Merócrina."
+        },
+        {
+          "id": "4ec9fb7d-d196-4131-98cd-c71f75f33a78",
+          "text": "Parácrina."
+        }
+      ]
+    },
+    {
+      "id": "da170a38-edae-4daf-86c1-8366781e5f89",
+      "evaluation": "parcial_1_t",
+      "source": "exam",
+      "asked_at": "2019-12-01",
+      "text": "Indique en cuál de las siguientes células del tejido conectivo se observan gránulos de secreción:",
+      "options": [
+        {
+          "id": "07ee817b-d7ee-4e3f-a618-422671c38024",
+          "text": "Mastocitos.",
+          "correct": true
+        },
+        {
+          "id": "ec880065-1161-4453-b298-86e7fdc8feff",
+          "text": "Adipocitos."
+        },
+        {
+          "id": "8561c0c8-5c74-46d4-b425-9d6e424260a8",
+          "text": "Fibroblastos."
+        },
+        {
+          "id": "0c086c4f-e0dc-4289-a1fb-cfec94ffe5fd",
+          "text": "Plasmocitos."
+        }
+      ]
+    },
+    {
+      "id": "05da8700-86c8-44a8-b6db-613ae09dea40",
+      "evaluation": "parcial_1_t",
+      "source": "exam",
+      "asked_at": "2019-12-01",
+      "text": "La matriz ósea madura tiene características que la hacen en algunos aspectos muy diferente a la de otros tejidos conjuntivos. Indique cual de las siguientes opciones es correcta:",
+      "options": [
+        {
+          "id": "6895bc71-3116-4927-933b-b4c70de37f45",
+          "text": "El 99% del calcio del organismo se encuentra depositado en la matriz ósea.",
+          "correct": true
+        },
+        {
+          "id": "0626e83d-9a9f-4759-a6e7-9686348259c2",
+          "text": "Los componentes orgánicos de la matriz superan ampliamente a los inorgánicos."
+        },
+        {
+          "id": "ee6964da-061d-424c-aad6-e7d58232ff57",
+          "text": "Sus fibras colágenas se disponen de forma desordenada."
+        },
+        {
+          "id": "01f1d4b7-6e68-4453-8a1e-c7a8f58d12b4",
+          "text": "Sus principales componentes orgánicos son las glucoproteínas osteonectina y osteopontina."
+        }
+      ]
+    },
+    {
+      "id": "ba4fb578-e39c-4cd2-aada-cfa90f8bc1a0",
+      "evaluation": "parcial_1_t",
+      "source": "exam",
+      "asked_at": "2019-12-01",
+      "text": "Las células endoteliales que forman los sinusoides esplénicos se caracterizan por:",
+      "options": [
+        {
+          "id": "12b5e425-5541-4512-bf26-82e779e68dad",
+          "text": "Ser largas y ahusadas.",
+          "correct": true
+        },
+        {
+          "id": "7e941f36-edbd-4f98-a9d7-de6abf720720",
+          "text": "Presentar abundantes complejos de unión."
+        },
+        {
+          "id": "f73dcfd4-79da-4ee8-a3a8-382f096ea1aa",
+          "text": "Presentar múltiples núcleos periféricos."
+        },
+        {
+          "id": "4e3e90cd-1655-4060-8c2d-8f22ad7a5df7",
+          "text": "Rodearse de una lámina basal continua."
+        }
+      ]
+    },
+    {
+      "id": "1ab1a7d1-ea4e-4697-9e27-28d7dcda05d4",
+      "evaluation": "parcial_1_t",
+      "source": "exam",
+      "asked_at": "2019-12-01",
+      "text": "Las células reticulares que forman parte del timo se caracterizan por:",
+      "options": [
+        {
+          "id": "e8f001c0-92b9-4ccf-b11c-8753ad4b8795",
+          "text": "Participar en la maduración de los linfocitos T.",
+          "correct": true
+        },
+        {
+          "id": "16931400-0768-4a5a-80bf-87f0d9c0668f",
+          "text": "Carecer de prolongaciones citoplasmáticas."
+        },
+        {
+          "id": "4d573b17-8223-4e5d-85f9-8f245ba8ec0a",
+          "text": "Presentar la cromatina dispuesta en rueda de carro."
+        },
+        {
+          "id": "23e4b369-8b1f-42c2-aab4-16fa57cffcbc",
+          "text": "Sintetizar fibras reticulares."
+        }
+      ]
+    },
+    {
+      "id": "7391feb2-1804-44f6-aa42-b3c8489b6db8",
+      "evaluation": "parcial_1_t",
+      "source": "exam",
+      "asked_at": "2019-12-01",
+      "text": "Los canalículos presentes en la matriz ósea contienen en su interior:",
+      "options": [
+        {
+          "id": "c4cf45bd-867f-44e9-ad26-ea1233f7e18f",
+          "text": "Prolongaciones de los osteocitos.",
+          "correct": true
+        },
+        {
+          "id": "058839f6-6231-4fe2-b8bf-f815a08e5653",
+          "text": "Capilares sanguíneos."
+        },
+        {
+          "id": "8933a5ed-0c31-4a8f-9c3b-25931357bcab",
+          "text": "Fibras nerviosas amielínicas."
+        },
+        {
+          "id": "ec45a202-d4b0-4f77-b69d-fb5cc10c4051",
+          "text": "Tejido conjuntivo laxo."
+        }
+      ]
+    },
+    {
+      "id": "99b954c0-0164-4533-a88f-26469eb24038",
+      "evaluation": "parcial_1_t",
+      "source": "exam",
+      "asked_at": "2019-12-01",
+      "text": "Respecto al pericondrio, indique la opción correcta:",
+      "options": [
+        {
+          "id": "1b749f7d-0442-4977-baeb-fb3c15562a04",
+          "text": "Las células que lo forman secretan colágeno tipo II.",
+          "correct": true
+        },
+        {
+          "id": "ebf5ddb1-6fe5-4a3e-816c-893683bcde1b",
+          "text": "Es avascular."
+        },
+        {
+          "id": "c13eef47-68a5-472b-b930-8b533f6ddde8",
+          "text": "Es característico del cartílago articular maduro."
+        },
+        {
+          "id": "8877cf4a-0733-4825-aad6-95329f8b6d63",
+          "text": "Es responsable del crecimiento intersticial del cartílago."
+        }
+      ]
+    },
+    {
+      "id": "c7cbdcbb-c539-4daf-a3ac-9c8e353ae402",
+      "evaluation": "parcial_1_t",
+      "source": "exam",
+      "asked_at": "2019-12-01",
+      "text": "Usted quiere analizar la presencia de glúcidos en la secreción de un tipo celular particular. Indique cual de las siguientes técnicas resultaría más adecuada para dicho objetivo:",
+      "options": [
+        {
+          "id": "16b3c0c9-b44c-4d95-828b-fb4f892cd4fb",
+          "text": "Coloración histoquímica (como el PAS - Peryodic Acid - Schiff) y observación al microscopio óptico.",
+          "correct": true
+        },
+        {
+          "id": "81d3cf42-21db-4e1b-a618-d7049f258f1b",
+          "text": "Coloración topográfica (como la hematoxilina y eosina) y observación al microscopio óptico."
+        },
+        {
+          "id": "4c0217b7-154d-42ca-a8b6-b8f2c8d84b64",
+          "text": "Inmunohistoquímica utilizando anticuerpos contra proteínas del citoesqueleto."
+        },
+        {
+          "id": "13676b20-62a9-4936-87a5-5b29e542d4ef",
+          "text": "Microscopía electrónica de transmisión."
+        }
+      ]
+    },
+    {
       "id": "24c3ba42-5405-4b0e-9ad1-9530c0c7b4c2",
       "evaluation": "parcial_1_t",
       "source": "exam",
@@ -3906,6 +4296,368 @@
       ]
     },
     {
+      "id": "00e17912-1fa8-40dc-bfd9-2f81601447bb",
+      "evaluation": "parcial_2_t",
+      "source": "exam",
+      "asked_at": "2019-12-01",
+      "text": "Sobre el potencial de acción de la célula ventricular cardíaca (marque lo correcto):",
+      "options": [
+        {
+          "id": "5053bee1-c8bd-41f1-b434-e786062bdc63",
+          "text": "La duración de la meseta aumenta si se aumenta la [Ca2+] extracelular.",
+          "correct": true
+        },
+        {
+          "id": "1b9368d4-4380-463c-add3-b266fbdf01a0",
+          "text": "El síndrome QT largo familiar más frecuente es debido a una mutación que hace más lenta la inactivación de los canales de Ca2+ L."
+        },
+        {
+          "id": "675d66de-fad4-4407-8d96-2e2a2ca743ab",
+          "text": "La fase 0 es insensible a la TTX aplicada extracelularmente."
+        },
+        {
+          "id": "6ca6436e-c6e7-4288-a984-6ff7814da47e",
+          "text": "La inactivación de los canales de Na+ suprime totalmente la excitabilidad, es decir no se pueden generar potenciales de acción."
+        }
+      ]
+    },
+    {
+      "id": "6a1a17a6-442b-45eb-8d2d-08759d4ad6b0",
+      "evaluation": "parcial_2_t",
+      "source": "exam",
+      "asked_at": "2019-12-01",
+      "text": "Acerca de las propiedades mecánicas del músculo esquelético, marque la opción correcta:",
+      "options": [
+        {
+          "id": "5b18083c-bf43-44ba-afd6-d504f2e95cce",
+          "text": "El máximo de fuerza contráctil isométrica corresponde a un longitud total del músculo que es aproximadamente igual a la longitud de inserción ósea.",
+          "correct": true
+        },
+        {
+          "id": "7dbeba64-3ee6-4c57-b80b-95db405662f6",
+          "text": "La fuerza pasiva tiene como mecanismo más importante los puentes transversales formados a la [Ca2+] citoplasmático de reposo."
+        },
+        {
+          "id": "f2455916-6ab9-4008-8914-0827a9561c87",
+          "text": "La velocidad inicial de acortamiento de la fase isotónica de la contracción a postcarga es independiente de la longitud inicial del músculo."
+        }
+      ]
+    },
+    {
+      "id": "9faad8ff-da58-42d0-aa03-4bb46a502037",
+      "evaluation": "parcial_2_t",
+      "source": "exam",
+      "asked_at": "2019-12-01",
+      "text": "Indique cuál de las siguientes afirmaciones asociadas con las diferentes metodologías utilizadas en los estudios biomecánicos de la marcha humana normal es correcta:",
+      "options": [
+        {
+          "id": "5977d927-a489-4adb-8312-a818e23c63f6",
+          "text": "Durante las fases de doble apoyo el registro de la componente vertical total de fuerza presenta dos picos separados por un valle.",
+          "correct": true
+        },
+        {
+          "id": "46ac5733-058b-4896-9449-3856ddca2e09",
+          "text": "En un ciclo de marcha normal, el registro de la componente vertical de fuerza nunca supera el valor del peso corporal."
+        },
+        {
+          "id": "16dfb40a-35a8-40f4-aa82-fa5cf17c0aeb",
+          "text": "La fuerza muscular desarrollada por un músculo durante el ciclo de marcha se puede determinar a partir de un registro electromiográfico."
+        }
+      ]
+    },
+    {
+      "id": "54285c54-08d5-46a8-8f53-4ffbf7072461",
+      "evaluation": "parcial_2_t",
+      "source": "exam",
+      "asked_at": "2019-12-01",
+      "text": "Indique cuál de las siguientes afirmaciones asociadas con los cambiosen las variables espacio-temporales que ocurren con la velocidad en la marcha humana normal es correcta:",
+      "options": [
+        {
+          "id": "a84b318a-2f15-4e4c-b666-96323391ac1d",
+          "text": "A bajas velocidades, las fases de doble apoyo tienen mayor duración que a altas velocidades.",
+          "correct": true
+        },
+        {
+          "id": "2586fac2-97fc-401c-aca9-820cf9c6eb9f",
+          "text": "A velocidades intermedias (~4 km/h), el doble apoyo inicial se extiende aproximadamente entre el 0 y el 60 % del ciclo."
+        },
+        {
+          "id": "6ba532a9-9c7c-42f6-97b5-0cfd28ffdf43",
+          "text": "En velocidades de 6 Km/h la pelvisen el plano frontal alcanza su inclinación máxima aproximadamente al 40% del ciclo."
+        },
+        {
+          "id": "ad3d07f1-240a-4d8b-a251-eedf34e9ac02",
+          "text": "Más allá de los 2 m/s de velocidad de marcha, el largo de paso se incrementa significativamente."
+        }
+      ]
+    },
+    {
+      "id": "3aeb23fd-2fb1-4283-a6c8-ad881a54e8f5",
+      "evaluation": "parcial_2_t",
+      "source": "exam",
+      "asked_at": "2019-12-01",
+      "text": "Indique cuál de las siguientes afirmaciones asociadas con los conceptos de trabajo mecánico, costo de transporte y nivelación del COM es correcta:",
+      "options": [
+        {
+          "id": "fbd3adf4-cced-4bff-8710-5643531f7adb",
+          "text": "La flexión de la rodilla durante el apoyo medio permite disminuir la elevación del COM en el momento en que éste pasa por encima del miembro de sustentación.",
+          "correct": true
+        },
+        {
+          "id": "fccfd421-0ff9-4a86-b59f-fb5df11f6e83",
+          "text": "El costo de transporte (C) corresponde a la cantidad de energía utilizada por unidad de masa corporal."
+        },
+        {
+          "id": "298500a3-6cee-4f61-b511-44c194d02b43",
+          "text": "El energyrecovery (R), es un parámetro que se calcula considerando el trabajo mecánico interno (Wint)."
+        }
+      ]
+    },
+    {
+      "id": "5f0144e8-ef4d-4e1b-9f93-7bfd47f776e1",
+      "evaluation": "parcial_2_t",
+      "source": "exam",
+      "asked_at": "2019-12-01",
+      "text": "Indique cuál de las siguientes afirmaciones asociadas con los efectos del cambio del tamaño corporal sobre el mecanismo y la energética de la marcha es correcta:",
+      "options": [
+        {
+          "id": "4be5efb4-956f-48e9-83fa-d5b554b3fed7",
+          "text": "En términos relativos los niños menores de cuatro años realizan un mayor desplazamiento vertical del COM que los adultos y por tanto su trabajo vertical (Wv) es mayor.",
+          "correct": true
+        },
+        {
+          "id": "3a211fd0-2988-41bb-b59f-dff153829cec",
+          "text": "El costo de transporte (C) para velocidad autoseleccionada es menor en los niños menores de 4 años de edad que en los adultos."
+        },
+        {
+          "id": "7e06afd0-c6c1-4352-a0f3-de4169abc701",
+          "text": "Los estudios realizados en pacientes con enanismo hipofisario muestran bajos valores de Wint en términos comparativos a los valores de referencia para adultos."
+        },
+        {
+          "id": "959caedc-feff-4378-abac-055e07296b09",
+          "text": "Los valores de número de Froude correspondientes a las velocidades equivalentes espontáneas (autoseleccionadas) van aumentando a medida que aumenta la edad desde los cinco años en adelante."
+        },
+        {
+          "id": "fa5e2430-edd8-44e1-8cf3-b4b97a0a2be8",
+          "text": "Por debajo de los cuatro años de edad (aproximadamente), la longitud relativa del paso al caminara una velocidad dada es menor que el de un adulto."
+        }
+      ]
+    },
+    {
+      "id": "a2d69aa6-fa27-4c9f-af22-4e27cc19ef07",
+      "evaluation": "parcial_2_t",
+      "source": "exam",
+      "asked_at": "2019-12-01",
+      "text": "Indique cuál de las siguientes afirmaciones asociadas con los efectos del gradiente del terreno sobre el mecanismo y energética de la marcha es correcta:",
+      "options": [
+        {
+          "id": "8a56979b-7dd3-434c-8cd8-b9ac252086d9",
+          "text": "Cuando el gradiente del terreno es 0 (piso plano) las contribuciones del trabajo positivo (W+) y negativo (W-) sobre el costode transporte (C) son equivalentes.",
+          "correct": true
+        },
+        {
+          "id": "0daa216b-17b4-4811-90b1-6eb25d793f33",
+          "text": "El costo de transporte (C) mínimo se produce a 0% de gradiente para cualquier velocidad de marcha."
+        },
+        {
+          "id": "27bbec10-3f8b-4b25-b0ee-8beca33ab9dc",
+          "text": "La fracción de trabajo negativo disminuye en un patrón sigmoidal desde casi el 100% con un gradiente del 15% hasta volverse casi nulo en un gradiente de -15%."
+        }
+      ]
+    },
+    {
+      "id": "3572d812-25a4-4a07-bbd9-82730c264aa8",
+      "evaluation": "parcial_2_t",
+      "source": "exam",
+      "asked_at": "2019-12-01",
+      "text": "Indique cuál de las siguientes afirmaciones asociadas con los valores angulares de las articulaciones de miembros inferiores durante la marcha humana normal es correcta:",
+      "options": [
+        {
+          "id": "1710e7c8-6d45-4c13-9532-570cdce7736e",
+          "text": "El valor máximo de flexión de rodilla durante el apoyo cambia significativamente con la velocidad.",
+          "correct": true
+        },
+        {
+          "id": "d76ea95a-6a16-4f2e-acb4-93ea21c6facb",
+          "text": "El valor de flexo-extensión del tobillo en el contacto inicial sufre cambios significativos con el aumento o disminución de velocidad."
+        },
+        {
+          "id": "c428688b-058d-480e-8170-208445534739",
+          "text": "En velocidades intermedias, al final del doble apoyo (~15-20% del ciclo), la pelvis se encuentra en rotación neutra."
+        }
+      ]
+    },
+    {
+      "id": "611393bc-ba8c-4f0b-8f67-9c131ceb8991",
+      "evaluation": "parcial_2_t",
+      "source": "exam",
+      "asked_at": "2019-12-01",
+      "text": "Respecto a curvas longitud tensión en músculo esquelético, marque la opción correcta:",
+      "options": [
+        {
+          "id": "a1db074f-0e0b-4995-8b6f-c1903d1e27ff",
+          "text": "Una contracción isométrica se representa por la diferencia entre tensión total y tensión pasiva a una longitud dada.",
+          "correct": true
+        },
+        {
+          "id": "41ee8292-1b82-43fc-bb8f-2a879c7f86b0",
+          "text": "La tensión activa es máxima a longitudes de sarcómero menores a 1 micra."
+        },
+        {
+          "id": "21e1bf62-09de-4f60-9c6a-2aab35bfaa93",
+          "text": "La tensión pasiva es directamente proporcional a la longitud de estiramiento."
+        },
+        {
+          "id": "1cda84a4-7cb0-47dc-b470-1d1a039039fd",
+          "text": "Una contracción isotónica se representa por la diferencia entre tensión total y tensión pasiva a una longitud dada."
+        }
+      ]
+    },
+    {
+      "id": "5558c573-a1b9-4068-bb24-860a8f152cd4",
+      "evaluation": "parcial_2_t",
+      "source": "exam",
+      "asked_at": "2019-12-01",
+      "text": "Respecto a tipos de fibras en músculo esquelético, marque la opción correcta:",
+      "options": [
+        {
+          "id": "90e71948-5fa8-439e-a815-9a15dfd6fe64",
+          "text": "Las fibras blancas (II), usualmente tienen mayor diámetro que las fibras rojas (I).",
+          "correct": true
+        },
+        {
+          "id": "eb2fc086-6f63-404d-945a-c501b81f0f9c",
+          "text": "En las fibras blancas (II), la generación de ATP a partir de mitocondrias es proporcionalmente mayor que en las fibras rojas (I)."
+        },
+        {
+          "id": "6258f913-31df-4bee-91c1-30001c837da1",
+          "text": "Las fibras rojas (I), almacenan más glucógeno que las fibras blancas (II)."
+        },
+        {
+          "id": "9e890a65-a03a-46d8-beb1-2c739f3706a5",
+          "text": "Las fibras rojas (I), son las que exhiben mayor velocidad de acortamiento."
+        }
+      ]
+    },
+    {
+      "id": "6751ac27-d7f4-4970-bab3-0895d89ff891",
+      "evaluation": "parcial_2_t",
+      "source": "exam",
+      "asked_at": "2019-12-01",
+      "text": "Respecto al acoplamiento excitación contracción en músculo esquelético de mamíferos, marque la opción correcta:",
+      "options": [
+        {
+          "id": "873538e0-15d7-419e-8df9-ffc9a91f188f",
+          "text": "No depende de la entrada de Calcio desde el medio extracelular.",
+          "correct": true
+        },
+        {
+          "id": "bc389e64-7452-4eca-81f0-ad60b45ebdd5",
+          "text": "Este proceso dura un mínimo de 200 milisegundos."
+        },
+        {
+          "id": "f223273a-326b-414f-956d-de6fcbe18fd9",
+          "text": "Está inhibida durante un tétanos completo."
+        },
+        {
+          "id": "4f536e89-edb1-4fbc-ab1c-5d888fe70e55",
+          "text": "Se produce por liberación de Calcio desde el collar fenestrado del Retículo Sarcoplasmático."
+        }
+      ]
+    },
+    {
+      "id": "54dd4fe1-6819-4bed-9641-5e3f0ed2830e",
+      "evaluation": "parcial_2_t",
+      "source": "exam",
+      "asked_at": "2019-12-01",
+      "text": "Sobre el músculo esquelético, marque la opción correcta:",
+      "options": [
+        {
+          "id": "dcb4f992-59cf-4783-9bdc-142a5f027d89",
+          "text": "Para [Ca2+] citoplasmático igual o menor a la de reposo la tropomiosina se ubica sobre el sitio de unión de actina de los S1 impidiéndola.",
+          "correct": true
+        },
+        {
+          "id": "dc55e7b3-09ff-44a9-83cb-b203ea862102",
+          "text": "La afinidad de actina y miosina es aumentada si se incrementa la [ATP] en el mioplasma."
+        },
+        {
+          "id": "003047e8-b688-4af7-be3b-351a39f84dcd",
+          "text": "La velocidad del ciclo ATPasa del S1 de la miosina es independiente de la presencia de actina."
+        }
+      ]
+    },
+    {
+      "id": "3b9ee5c3-7ca9-4ba3-99d7-e755966cfb68",
+      "evaluation": "parcial_2_t",
+      "source": "exam",
+      "asked_at": "2019-12-01",
+      "text": "Sobre el músculo liso (marque lo correcto):",
+      "options": [
+        {
+          "id": "0777cf29-aa79-4c9c-b30b-143f263015ac",
+          "text": "Existen filamentos finos de actina y gruesos de miosina que no presentan una clara organización sarcomérica.",
+          "correct": true
+        },
+        {
+          "id": "66809d57-ea88-450a-a902-c2067126e0ed",
+          "text": "El Ca2+ se une a las cadenas livianas de miosina y desinhibe la interacción de actina con miosina."
+        },
+        {
+          "id": "8626bd20-a97e-4754-a973-699d6e42a66d",
+          "text": "El denominado multiunitario presenta una organización anatómica y funcional similar al músculo cardíaco."
+        },
+        {
+          "id": "91c62a06-575c-480a-b23f-6f0c250f5ae4",
+          "text": "La activación contráctil fisiológica requiere inexorablemente la despolarización del potencial de membrana."
+        }
+      ]
+    },
+    {
+      "id": "7966f2c7-9e08-4248-ae11-4f1251f50e2d",
+      "evaluation": "parcial_2_t",
+      "source": "exam",
+      "asked_at": "2019-12-01",
+      "text": "Sobre el músculo liso (marque lo correcto):",
+      "options": [
+        {
+          "id": "5a1b392e-b09e-4d9c-bfbc-537caa55222c",
+          "text": "La velocidad de hidrólisis de ATP es mucho menor que la del músculo esquelético lento.",
+          "correct": true
+        },
+        {
+          "id": "794d3e9e-a6e5-4958-9228-f0dad2b93b04",
+          "text": "La activación contráctil fisiológica puede ocurrir sin aumento de la concentración de Ca2+ citoplasmático."
+        },
+        {
+          "id": "38ba1a20-6c5a-41ad-b590-1dc7d53d3e77",
+          "text": "La tensión activa isométrica aumenta monótonamente con la longitud del músculo."
+        }
+      ]
+    },
+    {
+      "id": "e9a01b33-b837-48c9-a03c-03dfaf7b2fc2",
+      "evaluation": "parcial_2_t",
+      "source": "exam",
+      "asked_at": "2019-12-01",
+      "text": "Sobre la activación contráctil durante un potencial de acción en la célula ventricular cardíaca (marque lo correcto):",
+      "options": [
+        {
+          "id": "0b0fc7bc-8c56-457e-9f55-f1ff87afac2a",
+          "text": "Es suprimida si se remueve completamente el Ca2+ en el medio extracelular.",
+          "correct": true
+        },
+        {
+          "id": "73774f97-1e6f-40b7-96db-53b40ca61dd5",
+          "text": "La relajación de la contracción es debida exclusivamente al transporte activo de Ca2+ hacia el retículo sarcoplasmático."
+        },
+        {
+          "id": "3ecb5735-e0d8-47e9-a063-dd4edf1ca359",
+          "text": "Los agentes adrenérgicos que activan los receptores beta tienen efecto inotrópico negativo."
+        }
+      ]
+    },
+    {
       "id": "94f301d4-4bd2-43e1-a070-14b462a307d3",
       "evaluation": "parcial_2_t",
       "source": "partial",
@@ -4332,12 +5084,12 @@
           "correct": true
         },
         {
-          "id": "ebb52a62-4eff-4ebc-9ff1-d85f49af58fe",
-          "text": "La electromiografía de superficie es una técnica utilizada para determinar la tensión asociada a la acción muscular durante el movimiento humano."
-        },
-        {
           "id": "ec1b7927-937e-4676-8d03-044c972929c7",
           "text": "La cinemetría, cuenta con la limitación de que solo permite conocer valores asociados al movimiento del centro de masa corporal."
+        },
+        {
+          "id": "ebb52a62-4eff-4ebc-9ff1-d85f49af58fe",
+          "text": "La electromiografía de superficie es una técnica utilizada para determinar la tensión asociada a la acción muscular durante el movimiento humano."
         },
         {
           "id": "904b577f-a2d0-46a5-90c2-530a2785192c",
@@ -4504,16 +5256,16 @@
           "correct": true
         },
         {
+          "id": "817153ab-f90a-439d-92e3-fb6c196ff09c",
+          "text": "El diagrama tensión longitud presenta ausencia de longitud óptima para la tensión activa."
+        },
+        {
           "id": "7d499b7c-08e2-4147-830c-6b645e36ed96",
           "text": "El musculo liso unitario casi no presenta uniones gap."
         },
         {
           "id": "dfefe532-530d-49e0-abc2-171ab16b7412",
           "text": "La velocidad máxima tiene valores similares a los del musculo esquelético y por lo tanto un alto consumo de ATP."
-        },
-        {
-          "id": "817153ab-f90a-439d-92e3-fb6c196ff09c",
-          "text": "El diagrama tensión longitud presenta ausencia de longitud óptima para la tensión activa."
         }
       ]
     },
