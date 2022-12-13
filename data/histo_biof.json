@@ -12,7 +12,7 @@
     {
       "id": "4a856c07-8bbb-4bb4-9059-95503ab9198f",
       "evaluation": "parcial_1_p",
-      "source": "unknown",
+      "source": "other",
       "text": "Diagnostique el órgano.",
       "image": "4a856c07-8bbb-4bb4-9059-95503ab9198f.webp",
       "options": [
@@ -42,7 +42,7 @@
     {
       "id": "50de5dbb-ce0d-4c07-b578-486e94a95aed",
       "evaluation": "parcial_1_p",
-      "source": "unknown",
+      "source": "other",
       "text": "En esta microfotografía electrónica de barrido se ven adipocitos sostenidos por:",
       "image": "50de5dbb-ce0d-4c07-b578-486e94a95aed.webp",
       "options": [
@@ -72,7 +72,7 @@
     {
       "id": "215aaee1-a96b-4658-93d4-c88a031372e3",
       "evaluation": "parcial_1_p",
-      "source": "unknown",
+      "source": "other",
       "text": "En esta micrografía coloreada con la técnica tricrómico de Cajal-Gallego (TCG) se tiñen intensamente de color azul las fibras:",
       "image": "215aaee1-a96b-4658-93d4-c88a031372e3.webp",
       "options": [
@@ -102,7 +102,7 @@
     {
       "id": "bbca50e8-84b8-4b78-8d41-f6987111441f",
       "evaluation": "parcial_1_p",
-      "source": "unknown",
+      "source": "other",
       "text": "En este preparado se observa un tipo de fibra en abundancia. Indique cuál de las siguientes es una característica especial de estas fibras.",
       "image": "bbca50e8-84b8-4b78-8d41-f6987111441f.webp",
       "options": [
@@ -132,7 +132,7 @@
     {
       "id": "f1e40794-e6cb-415e-a407-115ef96164e9",
       "evaluation": "parcial_1_p",
-      "source": "unknown",
+      "source": "other",
       "text": "Esta es una célula capaz de secretar:",
       "image": "f1e40794-e6cb-415e-a407-115ef96164e9.webp",
       "options": [
@@ -162,7 +162,7 @@
     {
       "id": "3a0d285b-f908-425b-9f16-701460fa16c4",
       "evaluation": "parcial_1_p",
-      "source": "unknown",
+      "source": "other",
       "text": "Identifique la estructura observada y marque la opción correcta.",
       "image": "3a0d285b-f908-425b-9f16-701460fa16c4.webp",
       "options": [
@@ -188,7 +188,7 @@
     {
       "id": "8d9872f0-543b-4211-99ea-7e5fb144996d",
       "evaluation": "parcial_1_p",
-      "source": "unknown",
+      "source": "other",
       "text": "Identifique las estructuras señaladas esta micrografía electrónica de transmisión (MET) de una célula sanguínea (un leucocito monomorfonuclear agranulocito monocito) y marque la opción correcta.",
       "image": "8d9872f0-543b-4211-99ea-7e5fb144996d.webp",
       "options": [
@@ -218,7 +218,7 @@
     {
       "id": "c924591e-1893-4618-a3ec-95b0f0ac9014",
       "evaluation": "parcial_1_p",
-      "source": "unknown",
+      "source": "other",
       "text": "Identifique las estructuras señaladas.",
       "image": "c924591e-1893-4618-a3ec-95b0f0ac9014.webp",
       "options": [
@@ -248,7 +248,7 @@
     {
       "id": "a29ee1eb-d7c7-4f8e-b3a9-7f79a596d5d6",
       "evaluation": "parcial_1_p",
-      "source": "unknown",
+      "source": "other",
       "text": "Indique cuál de estas funciones es la que cumplen las microvellosidades.",
       "image": "a29ee1eb-d7c7-4f8e-b3a9-7f79a596d5d6.webp",
       "options": [
@@ -278,7 +278,7 @@
     {
       "id": "7bf9da2d-ecfc-4890-bc1d-7557d931e098",
       "evaluation": "parcial_1_p",
-      "source": "unknown",
+      "source": "other",
       "text": "Indique cuál de las siguientes afirmaciones es INCORRECTA sobre el epitelio de la imagen.",
       "image": "7bf9da2d-ecfc-4890-bc1d-7557d931e098.webp",
       "options": [
@@ -308,7 +308,7 @@
     {
       "id": "c4669f47-58cc-438e-9d82-cb4d7c07b4e1",
       "evaluation": "parcial_1_p",
-      "source": "unknown",
+      "source": "other",
       "text": "Indique cuál es la función principal de este tipo de epitelio.",
       "image": "c4669f47-58cc-438e-9d82-cb4d7c07b4e1.webp",
       "options": [
@@ -338,7 +338,7 @@
     {
       "id": "b7cd1036-9193-4316-bd91-7d902ac2b565",
       "evaluation": "parcial_1_p",
-      "source": "unknown",
+      "source": "other",
       "text": "Indique cuál es una característica de esta célula en su MET.",
       "image": "b7cd1036-9193-4316-bd91-7d902ac2b565.webp",
       "options": [
@@ -368,7 +368,7 @@
     {
       "id": "33763919-3b39-42f8-af5f-7795ef194298",
       "evaluation": "parcial_1_p",
-      "source": "unknown",
+      "source": "other",
       "text": "Indique cuál flecha señala una estructura que participa de la formación del huso mitótico.",
       "image": "33763919-3b39-42f8-af5f-7795ef194298.webp",
       "options": [
@@ -398,7 +398,7 @@
     {
       "id": "e52f2c31-bf52-4d21-ad9e-212b158f37b3",
       "evaluation": "parcial_1_p",
-      "source": "unknown",
+      "source": "other",
       "text": "Indique la opción INCORRECTA sobre el tejido al que pertenece esta célula.",
       "image": "e52f2c31-bf52-4d21-ad9e-212b158f37b3.webp",
       "options": [
@@ -428,7 +428,7 @@
     {
       "id": "cc5fce95-29ee-4a17-ab5c-c01d784d17ad",
       "evaluation": "parcial_1_p",
-      "source": "unknown",
+      "source": "other",
       "text": "Indique la opción correcta sobre las dos imágenes de arriba.",
       "image": "cc5fce95-29ee-4a17-ab5c-c01d784d17ad.webp",
       "options": [
@@ -454,7 +454,7 @@
     {
       "id": "fdc72fa3-aece-494b-a35a-283b401c20c0",
       "evaluation": "parcial_1_p",
-      "source": "unknown",
+      "source": "other",
       "text": "La renovación epitelial del órgano se da desde la:",
       "image": "fdc72fa3-aece-494b-a35a-283b401c20c0.webp",
       "options": [
@@ -480,7 +480,7 @@
     {
       "id": "8adca9e2-c55e-4ccf-86d8-e94c949692eb",
       "evaluation": "parcial_1_p",
-      "source": "unknown",
+      "source": "other",
       "text": "Se observa un fibroblasto y varias fibras del tejido conjuntivo. Marque la opción correcta.",
       "image": "8adca9e2-c55e-4ccf-86d8-e94c949692eb.webp",
       "options": [
@@ -510,7 +510,7 @@
     {
       "id": "2c3731e9-92c5-460c-bc28-6d4e3f39e6b0",
       "evaluation": "parcial_1_p",
-      "source": "unknown",
+      "source": "other",
       "text": "Se observa una MET de un organelo. Sobre este, indique la afirmación INCORRECTA:",
       "image": "2c3731e9-92c5-460c-bc28-6d4e3f39e6b0.webp",
       "options": [
@@ -540,7 +540,7 @@
     {
       "id": "d0a59780-b446-477c-a02a-ea9bd51ddbdc",
       "evaluation": "parcial_1_p",
-      "source": "unknown",
+      "source": "other",
       "text": "Se observa una microfotografía de un linfonodo en la que se observa un tipo de fibras en particular. Indique cuál de las siguientes afirmaciones es INCORRECTA sobre las mismas.",
       "image": "d0a59780-b446-477c-a02a-ea9bd51ddbdc.webp",
       "options": [
@@ -570,7 +570,7 @@
     {
       "id": "78d67bff-b131-47db-b624-2522c4a7e313",
       "evaluation": "parcial_1_p",
-      "source": "unknown",
+      "source": "other",
       "text": "Se observan diferentes variedades de tejido conjuntivo no especializado. Indique la afirmación correcta.",
       "image": "78d67bff-b131-47db-b624-2522c4a7e313.webp",
       "options": [
@@ -600,7 +600,7 @@
     {
       "id": "6856a5e9-057c-4979-8ab3-120c58112ec1",
       "evaluation": "parcial_1_p",
-      "source": "unknown",
+      "source": "other",
       "text": "Se observan los 3 tipos de epitelios glandulares acinares. Indique la opción correcta.",
       "image": "6856a5e9-057c-4979-8ab3-120c58112ec1.webp",
       "options": [
@@ -630,7 +630,7 @@
     {
       "id": "cac3c132-1458-4bcc-b513-29b938cdb0bb",
       "evaluation": "parcial_1_p",
-      "source": "unknown",
+      "source": "other",
       "text": "Se observan varios tipos de epitelios diferentes. Identifique cada uno e indique cuál de los siguientes NO se observa.",
       "image": "cac3c132-1458-4bcc-b513-29b938cdb0bb.webp",
       "options": [
@@ -660,7 +660,7 @@
     {
       "id": "cb83410e-10ac-424d-9ee1-43503832b83d",
       "evaluation": "parcial_1_p",
-      "source": "unknown",
+      "source": "other",
       "text": "Sobre las células presentes en la lámina propia intestinal, señale la opción correcta.",
       "image": "cb83410e-10ac-424d-9ee1-43503832b83d.webp",
       "options": [
@@ -690,7 +690,7 @@
     {
       "id": "8771aad7-370f-44ac-b6c6-88574f7a2791",
       "evaluation": "parcial_1_p",
-      "source": "unknown",
+      "source": "other",
       "text": "Sobre las estructuras señaladas en la imagen, marque la opción correcta.",
       "image": "8771aad7-370f-44ac-b6c6-88574f7a2791.webp",
       "options": [
@@ -720,7 +720,7 @@
     {
       "id": "14ccb61d-8cb6-48a0-9d17-49aefd3cc541",
       "evaluation": "parcial_1_p",
-      "source": "unknown",
+      "source": "other",
       "text": "Sobre las estructuras señaladas, indique la opción INCORRECTA.",
       "image": "14ccb61d-8cb6-48a0-9d17-49aefd3cc541.webp",
       "options": [
@@ -750,7 +750,7 @@
     {
       "id": "6a536bb8-218a-48a3-ad47-86c64fd95369",
       "evaluation": "parcial_1_p",
-      "source": "unknown",
+      "source": "other",
       "text": "Sobre las estructuras señaladas, marque la opción correcta.",
       "image": "6a536bb8-218a-48a3-ad47-86c64fd95369.webp",
       "options": [
@@ -776,7 +776,7 @@
     {
       "id": "77b7f500-89fc-44e1-9ff6-a95d0cef44ed",
       "evaluation": "parcial_1_p",
-      "source": "unknown",
+      "source": "other",
       "text": "Sobre las uniones intercelulares de la imagen, marque la opción correcta.",
       "image": "77b7f500-89fc-44e1-9ff6-a95d0cef44ed.webp",
       "options": [
@@ -806,7 +806,7 @@
     {
       "id": "a7eea5c3-2a22-4b84-b247-f3d3a7ab1be5",
       "evaluation": "parcial_1_p",
-      "source": "unknown",
+      "source": "other",
       "text": "Sobre las uniones intercelulares en general, marque la opción correcta.",
       "options": [
         {
