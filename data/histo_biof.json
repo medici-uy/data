@@ -1,5 +1,5 @@
 {
-  "name": "Histología general y Biofísica",
+  "name": "Histología General y Biofísica",
   "short_name": "Histo y Biofísica",
   "aliases": [
     "histo",
@@ -9,6 +9,829 @@
   "image": "histo_biof.webp",
   "year": 2,
   "questions": [
+    {
+      "id": "4a856c07-8bbb-4bb4-9059-95503ab9198f",
+      "evaluation": "parcial_1_p",
+      "source": "unknown",
+      "text": "Diagnostique el órgano.",
+      "image": "4a856c07-8bbb-4bb4-9059-95503ab9198f.webp",
+      "options": [
+        {
+          "id": "75c43079-bfc4-417c-bc7e-e2e1504ddb64",
+          "text": "Esófago.",
+          "correct": true
+        },
+        {
+          "id": "d614e31e-cbca-4606-a480-cd3999cbc91f",
+          "text": "Intestino delgado."
+        },
+        {
+          "id": "141b677f-20ba-49b0-84b1-3b9be5ca73d6",
+          "text": "Piel."
+        },
+        {
+          "id": "6dc9276e-e58d-4dae-bdf4-e93ca23e97fe",
+          "text": "Tráquea."
+        },
+        {
+          "id": "f3c8066b-9fba-4cd9-b170-1df41fa7042c",
+          "text": "Vejiga."
+        }
+      ]
+    },
+    {
+      "id": "50de5dbb-ce0d-4c07-b578-486e94a95aed",
+      "evaluation": "parcial_1_p",
+      "source": "unknown",
+      "text": "En esta microfotografía electrónica de barrido se ven adipocitos sostenidos por:",
+      "image": "50de5dbb-ce0d-4c07-b578-486e94a95aed.webp",
+      "options": [
+        {
+          "id": "919d63c0-399a-4d03-ba1f-104b7909c1cb",
+          "text": "Fibras reticulares.",
+          "correct": true
+        },
+        {
+          "id": "cace90eb-389f-4e30-9e58-ce53254de480",
+          "text": "Fibras colágenas tipo I."
+        },
+        {
+          "id": "3ad1d213-c0a3-44a3-a3d1-b5971cd8d7a0",
+          "text": "Fibras colágenas tipo II."
+        },
+        {
+          "id": "611c6760-e968-411e-9ad3-c7b2884f1c34",
+          "text": "Fibras colágenas tipo IV."
+        },
+        {
+          "id": "069c553c-fa1d-40e5-9b41-e3130fe97125",
+          "text": "Fibras elásticas."
+        }
+      ]
+    },
+    {
+      "id": "215aaee1-a96b-4658-93d4-c88a031372e3",
+      "evaluation": "parcial_1_p",
+      "source": "unknown",
+      "text": "En esta micrografía coloreada con la técnica tricrómico de Cajal-Gallego (TCG) se tiñen intensamente de color azul las fibras:",
+      "image": "215aaee1-a96b-4658-93d4-c88a031372e3.webp",
+      "options": [
+        {
+          "id": "650ea9b1-bba7-4402-b104-e506b7624536",
+          "text": "Colágenas tipo I.",
+          "correct": true
+        },
+        {
+          "id": "fc91f3ba-0ba1-49bc-becd-73fb64f0f8d6",
+          "text": "Colágenas tipo II."
+        },
+        {
+          "id": "b40d87e8-e310-4df9-aec3-08fa8094625c",
+          "text": "Colágenas tipo IV."
+        },
+        {
+          "id": "0826e075-3cee-4867-9e51-daf2fea26fdc",
+          "text": "Elásticas."
+        },
+        {
+          "id": "8146ba5a-ee7d-44c8-966a-c4839f0138cb",
+          "text": "Reticulares."
+        }
+      ]
+    },
+    {
+      "id": "bbca50e8-84b8-4b78-8d41-f6987111441f",
+      "evaluation": "parcial_1_p",
+      "source": "unknown",
+      "text": "En este preparado se observa un tipo de fibra en abundancia. Indique cuál de las siguientes es una característica especial de estas fibras.",
+      "image": "bbca50e8-84b8-4b78-8d41-f6987111441f.webp",
+      "options": [
+        {
+          "id": "81002880-51d8-4f03-8481-282d36fd54e9",
+          "text": "Contienen microfibrillas de fibrilina.",
+          "correct": true
+        },
+        {
+          "id": "82be9bc6-14ee-47eb-85b8-afcab0709943",
+          "text": "Están hechas por colágeno tipo III."
+        },
+        {
+          "id": "51defc0f-9053-4e17-a97a-ad15bd6f93fb",
+          "text": "Poseen un patrón de bandas de 68 nm."
+        },
+        {
+          "id": "1e7e07df-82b7-45c3-af66-4292e75a23ce",
+          "text": "Se tiñen fuertemente con eosina."
+        },
+        {
+          "id": "03ee5577-a6b1-4800-adeb-7349b402dd2e",
+          "text": "Son rectilíneas."
+        }
+      ]
+    },
+    {
+      "id": "f1e40794-e6cb-415e-a407-115ef96164e9",
+      "evaluation": "parcial_1_p",
+      "source": "unknown",
+      "text": "Esta es una célula capaz de secretar:",
+      "image": "f1e40794-e6cb-415e-a407-115ef96164e9.webp",
+      "options": [
+        {
+          "id": "7ab2e11a-3591-40a2-bfc3-4381003362ff",
+          "text": "Heparina.",
+          "correct": true
+        },
+        {
+          "id": "626777d4-de9d-4752-b33a-a6d5a95a15ed",
+          "text": "Cimógeno."
+        },
+        {
+          "id": "f75cdb5c-21a4-4304-a57e-84ab96045766",
+          "text": "Colágeno."
+        },
+        {
+          "id": "50382df3-edfe-4a14-86e4-2733e20ee5ab",
+          "text": "Inmunoglobulinas."
+        },
+        {
+          "id": "eff432a7-dc9e-4872-a077-d54bff1c4fd7",
+          "text": "Leptina."
+        }
+      ]
+    },
+    {
+      "id": "3a0d285b-f908-425b-9f16-701460fa16c4",
+      "evaluation": "parcial_1_p",
+      "source": "unknown",
+      "text": "Identifique la estructura observada y marque la opción correcta.",
+      "image": "3a0d285b-f908-425b-9f16-701460fa16c4.webp",
+      "options": [
+        {
+          "id": "54de97ce-0eb5-4e13-9c33-456c5abc2bc7",
+          "text": "La flecha verde señala la chapa estriada.",
+          "correct": true
+        },
+        {
+          "id": "fda69bad-1629-475b-af13-d75e080ca8a3",
+          "text": "La célula señalada con la flecha azul es ciliada."
+        },
+        {
+          "id": "6f41ebf5-6c74-44e2-8885-dbef0e3b15ce",
+          "text": "La flecha anaranjada señala un epitelio simple cúbico."
+        },
+        {
+          "id": "ac7edd41-f6b9-46db-ad78-e31ce227dbee",
+          "text": "La flecha azul señala una célula de revestimiento."
+        }
+      ]
+    },
+    {
+      "id": "8d9872f0-543b-4211-99ea-7e5fb144996d",
+      "evaluation": "parcial_1_p",
+      "source": "unknown",
+      "text": "Identifique las estructuras señaladas esta micrografía electrónica de transmisión (MET) de una célula sanguínea (un leucocito monomorfonuclear agranulocito monocito) y marque la opción correcta.",
+      "image": "8d9872f0-543b-4211-99ea-7e5fb144996d.webp",
+      "options": [
+        {
+          "id": "486fab1a-b55d-4907-818a-fccf09c3831a",
+          "text": "La flecha verde señala una mitocondria.",
+          "correct": true
+        },
+        {
+          "id": "f2d0d733-6808-42b9-a73e-e15cbf8dff83",
+          "text": "La flecha anaranjada señala heterocromatina."
+        },
+        {
+          "id": "64478100-6864-44ad-8371-61acad32aa9e",
+          "text": "La flecha azul señala un haz de microtúbulos."
+        },
+        {
+          "id": "d0602758-0ae0-4904-b145-c32be926721a",
+          "text": "La flecha roja señala eucromatina."
+        },
+        {
+          "id": "269077da-8d48-47ad-8f9c-338de2e1a709",
+          "text": "La flecha rosa señala retículo endoplasmático rugoso."
+        }
+      ]
+    },
+    {
+      "id": "c924591e-1893-4618-a3ec-95b0f0ac9014",
+      "evaluation": "parcial_1_p",
+      "source": "unknown",
+      "text": "Identifique las estructuras señaladas.",
+      "image": "c924591e-1893-4618-a3ec-95b0f0ac9014.webp",
+      "options": [
+        {
+          "id": "aaca3646-1a5a-4c52-9bda-7f880fed45e1",
+          "text": "La flecha anaranjada señala el velo terminal.",
+          "correct": true
+        },
+        {
+          "id": "ffc4ac52-4e85-4a8b-b59e-9e15c6710cb0",
+          "text": "La flecha amarilla señala una especialización de membrana lateral."
+        },
+        {
+          "id": "a350dd6a-90d7-48dd-bedf-72536bf1c37f",
+          "text": "La flecha azul señala una zonula occludens (unión ocluyente)."
+        },
+        {
+          "id": "9b050185-b985-4082-bebd-873f884e1411",
+          "text": "La flecha roja señala una zona de uniones GAP."
+        },
+        {
+          "id": "11ef0ca2-807b-4e05-b56d-1da5638e7615",
+          "text": "La flecha verde señala una vesícula secretora."
+        }
+      ]
+    },
+    {
+      "id": "a29ee1eb-d7c7-4f8e-b3a9-7f79a596d5d6",
+      "evaluation": "parcial_1_p",
+      "source": "unknown",
+      "text": "Indique cuál de estas funciones es la que cumplen las microvellosidades.",
+      "image": "a29ee1eb-d7c7-4f8e-b3a9-7f79a596d5d6.webp",
+      "options": [
+        {
+          "id": "484f85d8-e0a1-47bc-81ce-3a52f16ed969",
+          "text": "Barrer el moco.",
+          "correct": true
+        },
+        {
+          "id": "1eeb8e3a-0d8c-465b-82b9-7a7237b888f2",
+          "text": "Aumentar la superficie celular."
+        },
+        {
+          "id": "9d443663-3b79-47b9-9fa9-6f0000b7950f",
+          "text": "Barrer el quimo."
+        },
+        {
+          "id": "f9e6b23b-04ad-4c67-ab12-519af5eaa308",
+          "text": "Protección mecánica."
+        },
+        {
+          "id": "aff79edd-82b1-469f-898f-59170a851711",
+          "text": "Protección química."
+        }
+      ]
+    },
+    {
+      "id": "7bf9da2d-ecfc-4890-bc1d-7557d931e098",
+      "evaluation": "parcial_1_p",
+      "source": "unknown",
+      "text": "Indique cuál de las siguientes afirmaciones es INCORRECTA sobre el epitelio de la imagen.",
+      "image": "7bf9da2d-ecfc-4890-bc1d-7557d931e098.webp",
+      "options": [
+        {
+          "id": "ba606f8b-c67d-41c2-a2e3-fcd9d51fbfa0",
+          "text": "La luz del órgano está llena de contenido.",
+          "correct": true
+        },
+        {
+          "id": "c159a386-037a-4caf-9eab-562052dfce0b",
+          "text": "El órgano de la imagen encuentra contraído."
+        },
+        {
+          "id": "50096fd4-6dae-4a86-9f9b-d45bd0cd450a",
+          "text": "La capa basal posee células madre."
+        },
+        {
+          "id": "b2562253-be29-4612-9634-b98d10f8e5ed",
+          "text": "Las células de Dogiel (en sombrilla o cupuliformes) poseen vesículas fusiformes."
+        },
+        {
+          "id": "3a07890b-7fd4-46df-8b5b-4f017ddb59e6",
+          "text": "Se encuentra en la vejiga."
+        }
+      ]
+    },
+    {
+      "id": "c4669f47-58cc-438e-9d82-cb4d7c07b4e1",
+      "evaluation": "parcial_1_p",
+      "source": "unknown",
+      "text": "Indique cuál es la función principal de este tipo de epitelio.",
+      "image": "c4669f47-58cc-438e-9d82-cb4d7c07b4e1.webp",
+      "options": [
+        {
+          "id": "1bf054a2-b8f3-4408-83a7-5591362ecefe",
+          "text": "Protección mecánica.",
+          "correct": true
+        },
+        {
+          "id": "23502466-4c82-4f3b-888a-c2e567bdbd90",
+          "text": "Barrido de sustancias."
+        },
+        {
+          "id": "3b9e5071-b52a-41a8-896d-32ffff57d931",
+          "text": "Protección química."
+        },
+        {
+          "id": "cc560fd7-9ed0-4093-a5fa-b70864da393f",
+          "text": "Secreción mucosa."
+        },
+        {
+          "id": "f10d4eb8-94dd-45e5-a6f7-b5f6a5bc3a0a",
+          "text": "Secreción serosa."
+        }
+      ]
+    },
+    {
+      "id": "b7cd1036-9193-4316-bd91-7d902ac2b565",
+      "evaluation": "parcial_1_p",
+      "source": "unknown",
+      "text": "Indique cuál es una característica de esta célula en su MET.",
+      "image": "b7cd1036-9193-4316-bd91-7d902ac2b565.webp",
+      "options": [
+        {
+          "id": "df2c07df-4e95-4680-ba39-7a6f49728f76",
+          "text": "Alta cantidad de vesículas endocíticas, lisosomas, endosomas y fagolisosomas.",
+          "correct": true
+        },
+        {
+          "id": "b9d541b0-ac2a-4563-9010-441d3ba46307",
+          "text": "Alta cantidad de mitocondrias."
+        },
+        {
+          "id": "c10e7ed9-c520-4246-ba88-b3eaf7acb302",
+          "text": "Núcleo multilobular."
+        },
+        {
+          "id": "0213a040-5c22-49a5-9fcd-5c7ae8409760",
+          "text": "Presencia de cilias."
+        },
+        {
+          "id": "945962e7-a0ea-4c91-add5-8ee47261bbdb",
+          "text": "Presencia de vesículas de secreción electrondensas."
+        }
+      ]
+    },
+    {
+      "id": "33763919-3b39-42f8-af5f-7795ef194298",
+      "evaluation": "parcial_1_p",
+      "source": "unknown",
+      "text": "Indique cuál flecha señala una estructura que participa de la formación del huso mitótico.",
+      "image": "33763919-3b39-42f8-af5f-7795ef194298.webp",
+      "options": [
+        {
+          "id": "0f07d26f-b30e-46b1-a556-eaf0c03d3f8e",
+          "text": "Azul.",
+          "correct": true
+        },
+        {
+          "id": "adce2397-2958-4394-bcab-1980e31d6e1c",
+          "text": "Celeste."
+        },
+        {
+          "id": "1fafcdd5-d6d4-4861-8cf4-1ae3444b6ce6",
+          "text": "Rosa."
+        },
+        {
+          "id": "0a224780-98e4-4a35-a26e-4f9a389fdd14",
+          "text": "Verde."
+        },
+        {
+          "id": "4d28040a-fec2-42a9-8afc-fed581f6fa59",
+          "text": "Violeta."
+        }
+      ]
+    },
+    {
+      "id": "e52f2c31-bf52-4d21-ad9e-212b158f37b3",
+      "evaluation": "parcial_1_p",
+      "source": "unknown",
+      "text": "Indique la opción INCORRECTA sobre el tejido al que pertenece esta célula.",
+      "image": "e52f2c31-bf52-4d21-ad9e-212b158f37b3.webp",
+      "options": [
+        {
+          "id": "1df42b21-61e8-4f04-a780-8321628ba2c4",
+          "text": "Abunda en el adulto.",
+          "correct": true
+        },
+        {
+          "id": "3ad90e56-5dec-4b8e-a28f-1940908ff128",
+          "text": "Genera calor."
+        },
+        {
+          "id": "f23d063e-53b2-4055-b711-cde7133cac0d",
+          "text": "Presenta fibras nerviosas."
+        },
+        {
+          "id": "9c63066f-6abd-4fdf-9e15-be8415490ecb",
+          "text": "Rodea órganos."
+        },
+        {
+          "id": "60db6a70-58a1-4d8d-8ee0-85dc901ac5fd",
+          "text": "Sus células poseen muchas mitocondrias."
+        }
+      ]
+    },
+    {
+      "id": "cc5fce95-29ee-4a17-ab5c-c01d784d17ad",
+      "evaluation": "parcial_1_p",
+      "source": "unknown",
+      "text": "Indique la opción correcta sobre las dos imágenes de arriba.",
+      "image": "cc5fce95-29ee-4a17-ab5c-c01d784d17ad.webp",
+      "options": [
+        {
+          "id": "3ee2354a-ee8f-48c2-9d5b-eefa18d03199",
+          "text": "La imagen de la derecha muestra una estructura móvil.",
+          "correct": true
+        },
+        {
+          "id": "1362f5a1-2630-46c8-9a68-1113a2eb70f4",
+          "text": "Ambas son la misma estructura seccionada de manera diferente."
+        },
+        {
+          "id": "c86b15ef-6431-4bbf-9be4-80cbc2ddba05",
+          "text": "La flecha rosa señala un cuerpo basal."
+        },
+        {
+          "id": "1ccbaf7d-1892-4471-8e79-89e92fcbcaa7",
+          "text": "La imagen de la izquierda muestra estereocilias."
+        }
+      ]
+    },
+    {
+      "id": "fdc72fa3-aece-494b-a35a-283b401c20c0",
+      "evaluation": "parcial_1_p",
+      "source": "unknown",
+      "text": "La renovación epitelial del órgano se da desde la:",
+      "image": "fdc72fa3-aece-494b-a35a-283b401c20c0.webp",
+      "options": [
+        {
+          "id": "9e66c4f9-024a-4f4d-8cdf-b1db49f679f1",
+          "text": "Flecha amarilla.",
+          "correct": true
+        },
+        {
+          "id": "cae57280-b4b7-4245-9495-e9bc542424fb",
+          "text": "Flecha azul."
+        },
+        {
+          "id": "ae6b2a6a-dd26-45b6-ba3a-d4d00b3a552e",
+          "text": "Flecha roja."
+        },
+        {
+          "id": "9b640110-4f88-46a1-be2c-f6113dc88a3e",
+          "text": "Flecha verde."
+        }
+      ]
+    },
+    {
+      "id": "8adca9e2-c55e-4ccf-86d8-e94c949692eb",
+      "evaluation": "parcial_1_p",
+      "source": "unknown",
+      "text": "Se observa un fibroblasto y varias fibras del tejido conjuntivo. Marque la opción correcta.",
+      "image": "8adca9e2-c55e-4ccf-86d8-e94c949692eb.webp",
+      "options": [
+        {
+          "id": "8e027f74-d8f3-4ef0-b3f1-8eaee4518ec4",
+          "text": "La flecha celeste señala microfibrillas de fibrilina.",
+          "correct": true
+        },
+        {
+          "id": "8b28ad40-1413-47da-81d1-4736075d2b42",
+          "text": "La flecha celeste señala una estructura compuesta por colágeno tipo II."
+        },
+        {
+          "id": "b00217fb-c600-4a83-8238-2d746bad11d4",
+          "text": "La flecha roja señala una evaginación celular."
+        },
+        {
+          "id": "7a819e0c-5192-4f64-832e-361b301234b1",
+          "text": "La flecha roja señala una fibra reticular."
+        },
+        {
+          "id": "6cdedc14-81b2-46b3-ae9f-6c3aaa27be21",
+          "text": "La flecha verde señala un corte longitudinal de fibras colágenas."
+        }
+      ]
+    },
+    {
+      "id": "2c3731e9-92c5-460c-bc28-6d4e3f39e6b0",
+      "evaluation": "parcial_1_p",
+      "source": "unknown",
+      "text": "Se observa una MET de un organelo. Sobre este, indique la afirmación INCORRECTA:",
+      "image": "2c3731e9-92c5-460c-bc28-6d4e3f39e6b0.webp",
+      "options": [
+        {
+          "id": "d7bde908-37e3-4115-98f0-d424b123d03f",
+          "text": "Presentan un compartimento interno.",
+          "correct": true
+        },
+        {
+          "id": "34d24d61-1649-4082-8ad2-9deb231b269c",
+          "text": "Mide entre 0,5 y 1 µm."
+        },
+        {
+          "id": "8030bea5-8f13-4cd0-af4e-5520e104cb67",
+          "text": "Se cree que precede de una relación endosimbiótica."
+        },
+        {
+          "id": "121c6d29-838d-4b7e-be3f-f1c34b6e2f89",
+          "text": "Su membrana externa es muy permeable."
+        },
+        {
+          "id": "a4e02a28-df06-4e65-bf4f-047570c4ff62",
+          "text": "Tienen crestas."
+        }
+      ]
+    },
+    {
+      "id": "d0a59780-b446-477c-a02a-ea9bd51ddbdc",
+      "evaluation": "parcial_1_p",
+      "source": "unknown",
+      "text": "Se observa una microfotografía de un linfonodo en la que se observa un tipo de fibras en particular. Indique cuál de las siguientes afirmaciones es INCORRECTA sobre las mismas.",
+      "image": "d0a59780-b446-477c-a02a-ea9bd51ddbdc.webp",
+      "options": [
+        {
+          "id": "ef2e5431-60bf-41fd-9913-c8fd9c79daf8",
+          "text": "Su síntesis está dada por fibroblastos.",
+          "correct": true
+        },
+        {
+          "id": "9d1c3e3f-2e28-440e-9c45-db342c306f33",
+          "text": "Están recubiertas por prolongaciones citoplasmáticas."
+        },
+        {
+          "id": "f249d551-d1f6-4ee8-8e85-22d4617d29ac",
+          "text": "Forman redes mediante múltiples anastomosis."
+        },
+        {
+          "id": "4a60e7db-039e-460d-a1bf-d9660f40d08e",
+          "text": "Se hallan en una gran variedad de órganos parenquimatosos."
+        },
+        {
+          "id": "6b7ad35d-3bfc-42e7-95af-833af2dc7544",
+          "text": "Su función principal es de sostén."
+        }
+      ]
+    },
+    {
+      "id": "78d67bff-b131-47db-b624-2522c4a7e313",
+      "evaluation": "parcial_1_p",
+      "source": "unknown",
+      "text": "Se observan diferentes variedades de tejido conjuntivo no especializado. Indique la afirmación correcta.",
+      "image": "78d67bff-b131-47db-b624-2522c4a7e313.webp",
+      "options": [
+        {
+          "id": "a86b0e73-2445-41ea-a10a-66d2ac1d6765",
+          "text": "El tejido en C contiene mayor cantidad de células migratorias en comparación a los otros.",
+          "correct": true
+        },
+        {
+          "id": "a6209af3-1b1a-4cd2-adab-1ab0988c0c1e",
+          "text": "El tejido en A es de tipo denso irregular."
+        },
+        {
+          "id": "4be1dc9d-bb05-4e89-a938-e8b4297763dd",
+          "text": "El tejido en A se encuentra únicamente en los tendones."
+        },
+        {
+          "id": "ffccd7e5-77e6-4247-a5d3-4748268dd016",
+          "text": "El tejido en B es el principal tipo de tejido que otorga vascularización a los epitelios."
+        },
+        {
+          "id": "000a4e42-745f-4968-ad2c-e5b313264e97",
+          "text": "El tejido en C contiene un mayor contenido de fibras que de células."
+        }
+      ]
+    },
+    {
+      "id": "6856a5e9-057c-4979-8ab3-120c58112ec1",
+      "evaluation": "parcial_1_p",
+      "source": "unknown",
+      "text": "Se observan los 3 tipos de epitelios glandulares acinares. Indique la opción correcta.",
+      "image": "6856a5e9-057c-4979-8ab3-120c58112ec1.webp",
+      "options": [
+        {
+          "id": "23d533d2-c150-4566-a073-f2830b766adb",
+          "text": "El acino en B tiene células polarizadas.",
+          "correct": true
+        },
+        {
+          "id": "f2743fe4-0310-43f0-b9e1-51a7edc8809c",
+          "text": "El acino A es de tipo seroso."
+        },
+        {
+          "id": "62e18b8f-f2f6-495b-baec-207815e990ba",
+          "text": "El acino en A secreta cimógeno."
+        },
+        {
+          "id": "d100c886-b010-47b2-b362-e899bc669cbd",
+          "text": "El acino en B tiene núcleos basales aplanados."
+        },
+        {
+          "id": "affe541f-6b42-45e0-9879-26f408c8edc4",
+          "text": "El acino en C es de tipo mucoso."
+        }
+      ]
+    },
+    {
+      "id": "cac3c132-1458-4bcc-b513-29b938cdb0bb",
+      "evaluation": "parcial_1_p",
+      "source": "unknown",
+      "text": "Se observan varios tipos de epitelios diferentes. Identifique cada uno e indique cuál de los siguientes NO se observa.",
+      "image": "cac3c132-1458-4bcc-b513-29b938cdb0bb.webp",
+      "options": [
+        {
+          "id": "8b87f111-8dbc-4396-b0a1-3005eb6e69b4",
+          "text": "Epitelio pseudoestratificado cilíndrico ciliado.",
+          "correct": true
+        },
+        {
+          "id": "fb3efbb1-d16b-48f1-a336-6c19a71a6d2c",
+          "text": "Epitelio estratificado plano no queratinizado."
+        },
+        {
+          "id": "5589018a-0359-4248-9835-193e22a23de3",
+          "text": "Epitelio glandular."
+        },
+        {
+          "id": "fffbfd08-00ba-4547-916f-96167d76ab39",
+          "text": "Epitelio simple cúbico."
+        },
+        {
+          "id": "e39cea70-72f9-4368-8911-bb90a00e03e5",
+          "text": "Epitelio simple plano."
+        }
+      ]
+    },
+    {
+      "id": "cb83410e-10ac-424d-9ee1-43503832b83d",
+      "evaluation": "parcial_1_p",
+      "source": "unknown",
+      "text": "Sobre las células presentes en la lámina propia intestinal, señale la opción correcta.",
+      "image": "cb83410e-10ac-424d-9ee1-43503832b83d.webp",
+      "options": [
+        {
+          "id": "b9df75a7-49d9-480a-8159-f3aea3651e1c",
+          "text": "La flecha anaranjada señala un plasmocito.",
+          "correct": true
+        },
+        {
+          "id": "882c68c6-08cd-4a46-b44c-af008fe7b8e5",
+          "text": "La flecha amarilla señala un linfocito."
+        },
+        {
+          "id": "cf7ecf5b-9659-4d1b-ad48-5404a0a6b111",
+          "text": "La flecha negra señala un fibroblasto."
+        },
+        {
+          "id": "1d348d39-be72-487e-8fd3-ccbbdd9b6f22",
+          "text": "La flecha roja señala un eosinófilo."
+        },
+        {
+          "id": "8de4946b-3781-4995-a6db-a903e784e0db",
+          "text": "La flecha verde señala un eritrocito."
+        }
+      ]
+    },
+    {
+      "id": "8771aad7-370f-44ac-b6c6-88574f7a2791",
+      "evaluation": "parcial_1_p",
+      "source": "unknown",
+      "text": "Sobre las estructuras señaladas en la imagen, marque la opción correcta.",
+      "image": "8771aad7-370f-44ac-b6c6-88574f7a2791.webp",
+      "options": [
+        {
+          "id": "92baebe2-601c-4bec-b028-bf2e05d5e412",
+          "text": "Con 5 se señala citoplasma.",
+          "correct": true
+        },
+        {
+          "id": "ae8783c1-7268-49b5-b78c-c7dc93954751",
+          "text": "Con 1 se señala tejido conjuntivo laxo."
+        },
+        {
+          "id": "9e4abef5-133f-4511-8c1d-2eed3b4dda17",
+          "text": "Con 2 se señala una célula capaz de desacoplar el proceso de fosforilación oxidativa."
+        },
+        {
+          "id": "c30ab6a4-670e-4706-b115-1784debe12c9",
+          "text": "Con 6 se señala el núcleo del adipocito."
+        },
+        {
+          "id": "c9d8381d-6b59-40a0-94e4-1f01e4c3a17f",
+          "text": "Con 7 se señalan macrófagos."
+        }
+      ]
+    },
+    {
+      "id": "14ccb61d-8cb6-48a0-9d17-49aefd3cc541",
+      "evaluation": "parcial_1_p",
+      "source": "unknown",
+      "text": "Sobre las estructuras señaladas, indique la opción INCORRECTA.",
+      "image": "14ccb61d-8cb6-48a0-9d17-49aefd3cc541.webp",
+      "options": [
+        {
+          "id": "23424aba-bba5-4721-8c66-423753158a95",
+          "text": "La flecha rosa señala una célula que no contacta con la membrana basal.",
+          "correct": true
+        },
+        {
+          "id": "a3476441-76c7-40ea-96af-afa5598581de",
+          "text": "La flecha amarilla señala cilias."
+        },
+        {
+          "id": "0d7288f6-af88-4ede-bbac-cd2fc3e95359",
+          "text": "La flecha celeste señala una célula ciliada."
+        },
+        {
+          "id": "edb87120-b470-4794-be88-1c80c8ec188f",
+          "text": "La flecha roja señala una célula caliciforme."
+        },
+        {
+          "id": "589bc91e-9181-4ea3-ac74-aec6279a4154",
+          "text": "La flecha rosa señala una célula capaz de diferenciarse."
+        }
+      ]
+    },
+    {
+      "id": "6a536bb8-218a-48a3-ad47-86c64fd95369",
+      "evaluation": "parcial_1_p",
+      "source": "unknown",
+      "text": "Sobre las estructuras señaladas, marque la opción correcta.",
+      "image": "6a536bb8-218a-48a3-ad47-86c64fd95369.webp",
+      "options": [
+        {
+          "id": "e1a3a107-3b12-4d1b-a017-ee46966b20f1",
+          "text": "La célula señalada en verde tiene función de absorción.",
+          "correct": true
+        },
+        {
+          "id": "d77cb4ad-3b43-452a-8f6c-f4d65a6263f4",
+          "text": "La célula señalada en rojo es PAS negativa."
+        },
+        {
+          "id": "ddb1ed08-a406-4baf-ab99-004308bfbfc2",
+          "text": "La célula señalada en rojo es de tipo glandular unicelular endócrina."
+        },
+        {
+          "id": "8aa60863-2ea0-420f-b816-70f5bf599728",
+          "text": "La célula señalada en verde no presenta especialización de membrana apical."
+        }
+      ]
+    },
+    {
+      "id": "77b7f500-89fc-44e1-9ff6-a95d0cef44ed",
+      "evaluation": "parcial_1_p",
+      "source": "unknown",
+      "text": "Sobre las uniones intercelulares de la imagen, marque la opción correcta.",
+      "image": "77b7f500-89fc-44e1-9ff6-a95d0cef44ed.webp",
+      "options": [
+        {
+          "id": "673bb20d-1987-4448-bdb5-1eeb4b37fd03",
+          "text": "La unión en C está anclada a filamentos intermedios.",
+          "correct": true
+        },
+        {
+          "id": "14745d23-16da-419d-af1b-3cbf5404118a",
+          "text": "La unión en A está dada por conexinas."
+        },
+        {
+          "id": "b60c60a2-5469-4413-9ab1-eba0d62f33be",
+          "text": "La unión en A se da por integrinas."
+        },
+        {
+          "id": "422de67f-a2e1-4e45-b19c-48cb9e72c8a7",
+          "text": "La unión en B contiene ocludinas y claudinas."
+        },
+        {
+          "id": "6c9320ab-7f09-4ce7-bde6-9e5fa4be7b95",
+          "text": "La unión en B es una macula adherens."
+        }
+      ]
+    },
+    {
+      "id": "a7eea5c3-2a22-4b84-b247-f3d3a7ab1be5",
+      "evaluation": "parcial_1_p",
+      "source": "unknown",
+      "text": "Sobre las uniones intercelulares en general, marque la opción correcta.",
+      "options": [
+        {
+          "id": "e6fab91a-c1ec-4a66-8349-4e2940dc08d3",
+          "text": "Las cadherinas permiten las uniones de anclaje célula-célula.",
+          "correct": true
+        },
+        {
+          "id": "4ec58ea2-4958-4bc8-996a-739f308cf7dc",
+          "text": "Las uniones GAP se forman mediante la unión de 6 conexinas capaces de formar un poro intercelular."
+        },
+        {
+          "id": "35b32082-bbb2-4e21-8240-3d0f5d69a550",
+          "text": "Las zonulas occludens típicamente se ubican en la membrana basal."
+        },
+        {
+          "id": "5ca43e08-0004-4394-8abb-ca8704736bbf",
+          "text": "Los desmosomas se unen al citoesqueleto de actina."
+        },
+        {
+          "id": "5b70887c-8ae4-4aab-8858-91ce8b870224",
+          "text": "Los hemidesmosomas son uniones de anclaje célula-célula."
+        }
+      ]
+    },
     {
       "id": "82413d25-c188-4f39-91c8-578b71d8233a",
       "evaluation": "parcial_1_t",
@@ -1050,84 +1873,6 @@
       ]
     },
     {
-      "id": "01c335c4-2a10-4c1d-8791-66eae6dd514f",
-      "evaluation": "parcial_1_t",
-      "source": "exam",
-      "asked_at": "2018-12-01",
-      "text": "Indique cuál de las siguientes opciones es CORRECTA en relación al proceso de remodelación ósea:",
-      "options": [
-        {
-          "id": "2bb729a5-28c2-4804-b05a-4be6265995f8",
-          "text": "En la cavidad que dará lugar a la futura osteona las laminillas óseas sucesivas se depositan desde la periferia hacia el interior.",
-          "correct": true
-        },
-        {
-          "id": "a1e8fa75-e258-4444-8d09-a6db2f03a6b0",
-          "text": "Durante este proceso se remplaza tejido óseo laminillar por tejido óseo no laminillar."
-        },
-        {
-          "id": "a2a2818f-1619-4bd2-a64e-51fb46047d3a",
-          "text": "Se refiere al cambio de forma y tamaño del hueso durante el periodo de crecimiento."
-        },
-        {
-          "id": "2f5b1463-d459-47f7-ba35-ecf8beb334de",
-          "text": "Termina con el cierre de la placa epifisaria."
-        }
-      ]
-    },
-    {
-      "id": "93351528-7823-4651-9403-e7bb7663b8a1",
-      "evaluation": "parcial_1_t",
-      "source": "exam",
-      "asked_at": "2018-12-01",
-      "text": "Indique cuál de las siguientes uniones presentes en los epitelios involucran proteínas del grupo de las integrinas:",
-      "options": [
-        {
-          "id": "4ecc9519-35ce-4c13-969d-ec49b0090f7f",
-          "text": "Hemidesmosomas.",
-          "correct": true
-        },
-        {
-          "id": "dca64bef-d570-4182-9901-69cad6405a16",
-          "text": "Desmosomas o máculas adherentes."
-        },
-        {
-          "id": "e4b76247-8fbc-40a3-b9f5-469283a050fa",
-          "text": "Gap o nexos."
-        },
-        {
-          "id": "7eef2630-c203-4ad2-924d-093573ee1580",
-          "text": "Zónulas ocluyentes."
-        }
-      ]
-    },
-    {
-      "id": "a9a8a510-3d47-4a1a-b324-b922fc40b228",
-      "evaluation": "parcial_1_t",
-      "source": "exam",
-      "asked_at": "2018-12-01",
-      "text": "Indique cuál de los siguientes tipos celulares pertenecientes al tejido conjuntivo se caracteriza por sintetizar y acumular histamina en sus gránulos:",
-      "options": [
-        {
-          "id": "e6c27b6b-29b5-4e3c-bf62-5f63e3b7ba1b",
-          "text": "Mastocitos.",
-          "correct": true
-        },
-        {
-          "id": "a490908a-a91e-40ef-8ede-0cf876d30876",
-          "text": "Granulocitos neutrófilos."
-        },
-        {
-          "id": "576f22d3-18dc-4a6f-8309-1cd2f87b3395",
-          "text": "Linfocitos."
-        },
-        {
-          "id": "6a192446-2de2-42e9-9c22-3ef31374117a",
-          "text": "Macrófagos."
-        }
-      ]
-    },
-    {
       "id": "fd36bbd6-7a55-4a09-b2af-4ed2b6c30275",
       "evaluation": "parcial_1_t",
       "source": "exam",
@@ -1284,6 +2029,32 @@
       ]
     },
     {
+      "id": "01c335c4-2a10-4c1d-8791-66eae6dd514f",
+      "evaluation": "parcial_1_t",
+      "source": "exam",
+      "asked_at": "2018-12-01",
+      "text": "Indique cuál de las siguientes opciones es CORRECTA en relación al proceso de remodelación ósea:",
+      "options": [
+        {
+          "id": "2bb729a5-28c2-4804-b05a-4be6265995f8",
+          "text": "En la cavidad que dará lugar a la futura osteona las laminillas óseas sucesivas se depositan desde la periferia hacia el interior.",
+          "correct": true
+        },
+        {
+          "id": "a1e8fa75-e258-4444-8d09-a6db2f03a6b0",
+          "text": "Durante este proceso se remplaza tejido óseo laminillar por tejido óseo no laminillar."
+        },
+        {
+          "id": "a2a2818f-1619-4bd2-a64e-51fb46047d3a",
+          "text": "Se refiere al cambio de forma y tamaño del hueso durante el periodo de crecimiento."
+        },
+        {
+          "id": "2f5b1463-d459-47f7-ba35-ecf8beb334de",
+          "text": "Termina con el cierre de la placa epifisaria."
+        }
+      ]
+    },
+    {
       "id": "f876334e-7ace-471d-bd05-6239ef55caad",
       "evaluation": "parcial_1_t",
       "source": "exam",
@@ -1362,6 +2133,32 @@
       ]
     },
     {
+      "id": "93351528-7823-4651-9403-e7bb7663b8a1",
+      "evaluation": "parcial_1_t",
+      "source": "exam",
+      "asked_at": "2018-12-01",
+      "text": "Indique cuál de las siguientes uniones presentes en los epitelios involucran proteínas del grupo de las integrinas:",
+      "options": [
+        {
+          "id": "4ecc9519-35ce-4c13-969d-ec49b0090f7f",
+          "text": "Hemidesmosomas.",
+          "correct": true
+        },
+        {
+          "id": "dca64bef-d570-4182-9901-69cad6405a16",
+          "text": "Desmosomas o máculas adherentes."
+        },
+        {
+          "id": "e4b76247-8fbc-40a3-b9f5-469283a050fa",
+          "text": "Gap o nexos."
+        },
+        {
+          "id": "7eef2630-c203-4ad2-924d-093573ee1580",
+          "text": "Zónulas ocluyentes."
+        }
+      ]
+    },
+    {
       "id": "1fb72888-c026-49e8-8e3c-bb950cc91b86",
       "evaluation": "parcial_1_t",
       "source": "exam",
@@ -1384,6 +2181,32 @@
         {
           "id": "22f097df-95c9-46e1-abce-c654f7525bcd",
           "text": "La membrana plasmática."
+        }
+      ]
+    },
+    {
+      "id": "a9a8a510-3d47-4a1a-b324-b922fc40b228",
+      "evaluation": "parcial_1_t",
+      "source": "exam",
+      "asked_at": "2018-12-01",
+      "text": "Indique cuál de los siguientes tipos celulares pertenecientes al tejido conjuntivo se caracteriza por sintetizar y acumular histamina en sus gránulos:",
+      "options": [
+        {
+          "id": "e6c27b6b-29b5-4e3c-bf62-5f63e3b7ba1b",
+          "text": "Mastocitos.",
+          "correct": true
+        },
+        {
+          "id": "a490908a-a91e-40ef-8ede-0cf876d30876",
+          "text": "Granulocitos neutrófilos."
+        },
+        {
+          "id": "576f22d3-18dc-4a6f-8309-1cd2f87b3395",
+          "text": "Linfocitos."
+        },
+        {
+          "id": "6a192446-2de2-42e9-9c22-3ef31374117a",
+          "text": "Macrófagos."
         }
       ]
     },
@@ -6174,6 +6997,10 @@
     {
       "key": "parcial_1_t",
       "name": "1° parcial teórico"
+    },
+    {
+      "key": "parcial_1_p",
+      "name": "1° parcial práctico"
     },
     {
       "key": "parcial_2_t",
