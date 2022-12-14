@@ -8,6 +8,7 @@
   ],
   "image": "histo_biof.webp",
   "year": 2,
+  "order": 2,
   "questions": [
     {
       "id": "4a856c07-8bbb-4bb4-9059-95503ab9198f",
@@ -6995,12 +6996,12 @@
   ],
   "evaluations": [
     {
-      "key": "parcial_1_t",
-      "name": "1° parcial teórico"
-    },
-    {
       "key": "parcial_1_p",
       "name": "1° parcial práctico"
+    },
+    {
+      "key": "parcial_1_t",
+      "name": "1° parcial teórico"
     },
     {
       "key": "parcial_2_t",

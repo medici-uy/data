@@ -27,6 +27,7 @@ pub struct CourseData {
     pub aliases: Vec<String>,
     pub image_file_name: Option<PathBuf>,
     pub year: Option<i16>,
+    pub order: Option<i16>,
 
     #[serde(skip)]
     pub questions: Vec<QuestionData>,
@@ -38,8 +39,17 @@ pub struct CourseData {
 impl CourseData {
     pub fn new(key: String, raw: RawCourseData) -> Self {
         let questions: Vec<QuestionData> = raw.questions.into_iter().map(Into::into).collect();
-        let evaluations: Vec<CourseEvaluationData> =
-            raw.evaluations.into_iter().map(Into::into).collect();
+        let evaluations: Vec<CourseEvaluationData> = raw
+            .evaluations
+            .into_iter()
+            .map(CourseEvaluationData::from)
+            .enumerate()
+            .map(|(index, mut evaluation)| {
+                evaluation.order.replace(index as i16 + 1);
+
+                evaluation
+            })
+            .collect();
 
         Self {
             key,
@@ -48,6 +58,7 @@ impl CourseData {
             aliases: raw.aliases,
             image_file_name: raw.image,
             year: raw.year,
+            order: raw.order,
             questions,
             evaluations,
             hash: Default::default(),
@@ -190,6 +201,10 @@ impl Hashable for CourseData {
 
         if let Some(year) = self.year {
             bytes.extend(&year.to_be_bytes());
+        }
+
+        if let Some(order) = self.order {
+            bytes.extend(&order.to_be_bytes());
         }
 
         bytes.extend(
@@ -494,6 +509,7 @@ pub struct CourseEvaluationData {
     pub key: String,
     pub name: String,
     pub hash: String,
+    pub order: Option<i16>,
 }
 
 impl CourseEvaluationData {
@@ -503,6 +519,7 @@ impl CourseEvaluationData {
             key: raw.key,
             name: raw.name,
             hash: Default::default(),
+            order: None,
         }
     }
 
@@ -538,6 +555,10 @@ impl Hashable for CourseEvaluationData {
 
         bytes.extend(self.course_key().as_bytes());
         bytes.extend(self.name.as_bytes());
+
+        if let Some(order) = self.order {
+            bytes.extend(&order.to_be_bytes());
+        }
 
         bytes
     }

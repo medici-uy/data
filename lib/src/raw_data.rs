@@ -16,6 +16,8 @@ pub struct RawCourseData {
     #[serde(skip_serializing_if = "Option::is_none")]
     pub image: Option<PathBuf>,
     pub year: Option<i16>,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub order: Option<i16>,
     pub questions: Vec<RawQuestionData>,
     pub evaluations: Vec<RawCourseEvaluationData>,
 }
@@ -37,6 +39,7 @@ impl From<CourseData> for RawCourseData {
             aliases: data.aliases,
             image: data.image_file_name,
             year: data.year,
+            order: data.order,
             questions: raw_questions,
             evaluations: raw_evaluations,
         }
