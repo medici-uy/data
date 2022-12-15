@@ -3800,6 +3800,118 @@
       ]
     },
     {
+      "id": "0fa6546d-68eb-44b2-b210-6c9984035ae4",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "A esta altura del órgano se encuentra la barrera hematotímica (no es la única zona donde hay barrera). Indique cuál de los siguientes NO es un componente de la misma.",
+      "image": "0fa6546d-68eb-44b2-b210-6c9984035ae4.webp",
+      "options": [
+        {
+          "id": "9d370ef1-fc5f-4fd6-8710-21f1d2608adb",
+          "text": "Células epiteliorreticulares tipo III.",
+          "correct": true
+        },
+        {
+          "id": "432bdb9b-ed28-4947-8fd3-0d1ebce9dd2a",
+          "text": "Células epiteliorreticulares tipo I."
+        },
+        {
+          "id": "bdfd8ba0-7248-43b8-8790-6226f75fc49c",
+          "text": "Endotelio."
+        },
+        {
+          "id": "b22f83c3-05d7-41bf-bc03-69097ce7a762",
+          "text": "Macrófagos."
+        },
+        {
+          "id": "12663801-53dc-44e9-b35d-fc53b7050923",
+          "text": "Membrana basal."
+        }
+      ]
+    },
+    {
+      "id": "9247562b-3ad0-47e8-bd0a-5bfee8466b4b",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Con respecto a lo señalado, marque la opción correcta.",
+      "image": "9247562b-3ad0-47e8-bd0a-5bfee8466b4b.webp",
+      "options": [
+        {
+          "id": "e1a3092c-7117-4405-9e0d-b0208cd67467",
+          "text": "La flecha amarilla señala eritrocitos.",
+          "correct": true
+        },
+        {
+          "id": "628cd29a-a073-433d-b7b2-05428fa78c12",
+          "text": "La flecha azul señala fibras colágenas."
+        },
+        {
+          "id": "ed412568-ebba-47ac-97fe-84fd3f9189cf",
+          "text": "La flecha roja señala núcleos celulares."
+        },
+        {
+          "id": "3a56bc05-d4b6-4815-af1a-98078ea4a427",
+          "text": "La flecha verde señala túbulos de retículo sarcoplásmico."
+        }
+      ]
+    },
+    {
+      "id": "6cc6381b-a5ee-40eb-96a8-fc58b83c88f4",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Con respecto al preparado, señale la opción correcta:",
+      "image": "6cc6381b-a5ee-40eb-96a8-fc58b83c88f4.webp",
+      "options": [
+        {
+          "id": "8a3215db-6b2d-4603-81c4-07c2499ec5cd",
+          "text": "La flecha verde señala miocardio específico.",
+          "correct": true
+        },
+        {
+          "id": "95e4e76f-f7b4-480c-a03f-52e1e8057fe5",
+          "text": "La flecha roja señala miocardio específico."
+        },
+        {
+          "id": "74f76ff8-7862-4ad6-9786-e1e4c1222440",
+          "text": "La flecha roja señala músculo estriado esquelético."
+        },
+        {
+          "id": "b4ff8de4-e227-4161-8c34-1390d0e435ee",
+          "text": "La flecha verde señala miocardio inespecífico."
+        }
+      ]
+    },
+    {
+      "id": "6591650b-6de4-4d3c-bf44-c6370cf0c028",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Diagnostique el órgano y señale la opción correcta.",
+      "image": "6591650b-6de4-4d3c-bf44-c6370cf0c028.webp",
+      "options": [
+        {
+          "id": "8f486d59-ec57-471d-9016-f206d9689f7c",
+          "text": "En él ocurre respuesta inmunitaria.",
+          "correct": true
+        },
+        {
+          "id": "e00be271-1220-4f6b-9393-ddc715cd926a",
+          "text": "Es de tipo primario."
+        },
+        {
+          "id": "ba67702c-aefb-46b7-a47c-4b5e43cfd0b0",
+          "text": "No posee estroma dado por fibras reticulares."
+        },
+        {
+          "id": "7a280774-858e-4e29-b29e-060238646b71",
+          "text": "Pertenece al MALT."
+        },
+        {
+          "id": "f68c9344-0b67-48ab-82e5-4c03a381b845",
+          "text": "Su capsula está hecha de tejido conjuntivo denso regular."
+        }
+      ]
+    },
+    {
       "id": "c5ab6abb-5c1b-45bd-80ab-c106b51f3311",
       "evaluation": "parcial_2_p",
       "source": "other",
@@ -3976,6 +4088,88 @@
       ]
     },
     {
+      "id": "a81e767a-a4dd-4b52-ba46-3ca22595faf1",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Identifique las estructuras señaladas y marque la opción correcta.",
+      "image": "a81e767a-a4dd-4b52-ba46-3ca22595faf1.webp",
+      "options": [
+        {
+          "id": "364af739-8145-4e33-a613-f9b9faca5403",
+          "text": "La flecha roja señala el endomisio.",
+          "correct": true
+        },
+        {
+          "id": "6be0ceff-aba7-4cd0-ab31-4d204bfbca40",
+          "text": "La flecha anaranjada señala un haz de fibras musuclares."
+        },
+        {
+          "id": "99bd45c3-0f1a-4365-aab3-95f89fc570e5",
+          "text": "La flecha negra señala el perimisio."
+        },
+        {
+          "id": "c6b92d7c-fe49-4d06-abca-24c09b75f7fb",
+          "text": "La flecha verde señala el epimisio."
+        }
+      ]
+    },
+    {
+      "id": "82150c51-baca-4eaf-a954-f45936017324",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Identifique los diferentes tipos de tejido muscular.",
+      "image": "82150c51-baca-4eaf-a954-f45936017324.webp",
+      "options": [
+        {
+          "id": "dd84060b-490e-417d-98b3-14db2ccfd3ae",
+          "text": "El asterisco negro señala un tejido muscular estriado esquelético.",
+          "correct": true
+        },
+        {
+          "id": "6f6db33f-8571-4dc6-a3c8-f8c3135c0fe4",
+          "text": "El asterisco azul señala un tejido muscular estriado cardíaco."
+        },
+        {
+          "id": "0593a3aa-e9c9-4ae3-9700-ecc34a7ff5ef",
+          "text": "El asterisco negro señala un tejido muscular liso."
+        },
+        {
+          "id": "e5738e2e-0556-4f3b-8b57-375ec94944ba",
+          "text": "El tejido azul señala un tejido muscular estriado cardíaco."
+        }
+      ]
+    },
+    {
+      "id": "22ee055d-4167-469d-add2-62bcd1d67e50",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Indique cuál de ellas tiene la función de la selección negativa durante la educación tímica.",
+      "image": "22ee055d-4167-469d-add2-62bcd1d67e50.webp",
+      "options": [
+        {
+          "id": "207bb394-6994-47de-b847-cb06b8192827",
+          "text": "V.",
+          "correct": true
+        },
+        {
+          "id": "e2e1a499-5f93-464f-b860-15197d8de031",
+          "text": "II."
+        },
+        {
+          "id": "696a0bb5-b7d4-4f32-9012-e910aae5c726",
+          "text": "III."
+        },
+        {
+          "id": "0dd5d420-439a-4636-b22f-52242ceb728b",
+          "text": "IV."
+        },
+        {
+          "id": "acff880e-9bda-4f41-932f-cbfbe07915ad",
+          "text": "VI."
+        }
+      ]
+    },
+    {
       "id": "7b39bebb-1159-45e1-9354-89b7479be2a8",
       "evaluation": "parcial_2_p",
       "source": "other",
@@ -4002,6 +4196,65 @@
         {
           "id": "f13f3eb7-395d-48ce-9946-318ed64e75de",
           "text": "D."
+        }
+      ]
+    },
+    {
+      "id": "884ef6f5-c5fc-4d4f-89ca-d0cb50afcb77",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Indique cuál de las siguientes bandas o líneas presenta superposición de actina y miosina.",
+      "options": [
+        {
+          "id": "177c1bd4-fcf7-4b46-b8cf-35ee99f26466",
+          "text": "A.",
+          "correct": true
+        },
+        {
+          "id": "faabd24b-e441-4403-b260-8c6126e4faa5",
+          "text": "H."
+        },
+        {
+          "id": "c2bcad95-3543-4059-9802-9fb83ee06eb8",
+          "text": "I."
+        },
+        {
+          "id": "043529f5-fe2f-45ce-8457-eb4ea9ef5dd1",
+          "text": "M."
+        },
+        {
+          "id": "70e1bf87-720c-4ab1-8b62-bc250f128e65",
+          "text": "Z."
+        }
+      ]
+    },
+    {
+      "id": "fe26f2d4-16a0-44dc-925b-e5d0531828ea",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Indique cuál de las siguientes características del tejido de la imagen es INCORRECTA.",
+      "image": "fe26f2d4-16a0-44dc-925b-e5d0531828ea.webp",
+      "options": [
+        {
+          "id": "d0785f3d-d78b-4f91-88da-50b5454387ca",
+          "text": "Sus células son fusiformes.",
+          "correct": true
+        },
+        {
+          "id": "835b5098-bc93-4fb7-b959-b63731c15828",
+          "text": "Forman haces musculares."
+        },
+        {
+          "id": "8d49ced1-6f50-4d16-9776-c3f43129370e",
+          "text": "Presentan un gran citoesqueleto de actina."
+        },
+        {
+          "id": "1e8240f4-526a-4b8d-9034-1d579be2d704",
+          "text": "Son células multinucleadas."
+        },
+        {
+          "id": "5bcf932a-9a2d-4673-a40f-97fb3f4c096f",
+          "text": "Sus células poseen alta tasa metabólica."
         }
       ]
     },
@@ -4060,6 +4313,28 @@
         {
           "id": "38fb0fd1-0393-4ea5-8ce7-1c8e3bed9751",
           "text": "Periostiocito (célula de revestimiento del periostio)."
+        }
+      ]
+    },
+    {
+      "id": "7641d627-9dde-4659-bac9-0c7d58763903",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Indique cuál de las zonas señaladas es timodependiente.",
+      "image": "7641d627-9dde-4659-bac9-0c7d58763903.webp",
+      "options": [
+        {
+          "id": "2de37ad9-6a40-487a-93ea-9954926987d9",
+          "text": "Flecha verde.",
+          "correct": true
+        },
+        {
+          "id": "4b74f97c-57d9-497d-a2c0-876815fba076",
+          "text": "Flecha celeste."
+        },
+        {
+          "id": "2aeb5155-e91f-4826-a417-773b43c6da27",
+          "text": "Flecha roja."
         }
       ]
     },
@@ -4154,6 +4429,35 @@
       ]
     },
     {
+      "id": "d4028340-3f4b-45e6-a4db-86a84d7c5ab9",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Indique desde qué estructura vascular nacen los senos marginales.",
+      "options": [
+        {
+          "id": "11dd4ecd-ddf6-457d-9ca0-030aa11a9687",
+          "text": "Arteria central.",
+          "correct": true
+        },
+        {
+          "id": "80cc822a-d152-497a-bf76-cf4ba81c89f0",
+          "text": "Arteria nodular."
+        },
+        {
+          "id": "53436729-6d58-4c3d-bb93-3ff44c78c955",
+          "text": "Arteria trabecular."
+        },
+        {
+          "id": "0c422502-924c-49a6-99db-920a0cf31fa9",
+          "text": "Arteriola penicilada."
+        },
+        {
+          "id": "93c9a550-707c-4812-a053-b626bbe86e63",
+          "text": "Seno medular."
+        }
+      ]
+    },
+    {
       "id": "86537db8-3044-4447-8f49-4a7202303411",
       "evaluation": "parcial_2_p",
       "source": "other",
@@ -4209,6 +4513,61 @@
         {
           "id": "84f29d3d-488c-46a1-8845-7f5e8f745ce3",
           "text": "Sus gránulos secundarios específicos son neutros."
+        }
+      ]
+    },
+    {
+      "id": "c9dda3e8-f881-4b03-a75c-721060548b2e",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Indique la opción correcta sobre las estructuras señaladas.",
+      "image": "c9dda3e8-f881-4b03-a75c-721060548b2e.webp",
+      "options": [
+        {
+          "id": "99648103-d685-4805-a604-265b1a943a87",
+          "text": "La flecha verde señala una zona con células dendríticas.",
+          "correct": true
+        },
+        {
+          "id": "329e597e-8651-4285-88df-41e3d9b5004f",
+          "text": "La flecha anaranjada señala una zona con células epiteliorreticulares tipo V."
+        },
+        {
+          "id": "81869a4f-b98f-4098-b694-0c75486fed28",
+          "text": "La flecha negra señala la cápsula."
+        },
+        {
+          "id": "64c4fbdb-2709-4964-af0c-f8c78122defe",
+          "text": "La flecha roja señala un vaso sanguíneo."
+        }
+      ]
+    },
+    {
+      "id": "a5525278-fa61-405e-808f-c47d241a54b9",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Indique la razón de que los capilares envainados se llamen así.",
+      "options": [
+        {
+          "id": "8c70a6bf-96cc-49b3-af0f-8af3a67b6dbb",
+          "text": "Están rodeados por macrófagos.",
+          "correct": true
+        },
+        {
+          "id": "016048a0-209c-4900-9551-847902fba481",
+          "text": "Están rodeados extensamente por células reticulares."
+        },
+        {
+          "id": "97504ca7-2a4b-4c3b-826d-d455d6427970",
+          "text": "Están rodeados por células dendríticas."
+        },
+        {
+          "id": "c6531458-eb0d-4764-a7e5-268877afab61",
+          "text": "Presentan un endotelio de dos capas celulares."
+        },
+        {
+          "id": "5cee50c7-b831-4dc5-a970-324d9f6d2b0d",
+          "text": "Presentan una membrana basal prominente."
         }
       ]
     },
@@ -4298,6 +4657,66 @@
       ]
     },
     {
+      "id": "e3c53222-da2a-4d24-92df-c698d66822f1",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Se muestra un corpúsculo de Malpighi esplénico, marque la opción correcta sobre las estructuras señaladas.",
+      "image": "e3c53222-da2a-4d24-92df-c698d66822f1.webp",
+      "options": [
+        {
+          "id": "ba6a6119-9c91-4d52-b130-62f556377d81",
+          "text": "La flecha celeste señala una zona donde ha ocurrido respuesta inmunitaria.",
+          "correct": true
+        },
+        {
+          "id": "9f3aef69-2f8f-493c-9e2c-e4dc548a0589",
+          "text": "La flecha amarilla señala la zona del manto."
+        },
+        {
+          "id": "91567647-4a6f-4839-88d3-f11af743a8e8",
+          "text": "La flecha negra señala una arteria nodular."
+        },
+        {
+          "id": "ecd92adf-a98c-46a5-bb18-4591b9ccd1bd",
+          "text": "La flecha roja señala la vaina linfática periarterial."
+        },
+        {
+          "id": "9b7f63ae-eca8-412b-b326-cbd59f845d16",
+          "text": "La flecha verde señala la zona marginal."
+        }
+      ]
+    },
+    {
+      "id": "072fefb9-1d2f-4610-9740-66a5d50e5c66",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Se muestra una técnica inmunocitoquímica para citoqueratina, demostrando la distribución de las células epiteliorreticulares. Indique cuál de estas células se conoce también como células nodriza.",
+      "image": "072fefb9-1d2f-4610-9740-66a5d50e5c66.webp",
+      "options": [
+        {
+          "id": "1ab488b8-0b25-4df8-8f68-e973d33f2485",
+          "text": "II.",
+          "correct": true
+        },
+        {
+          "id": "4737d26e-34f5-4de8-9186-382ce4e0244a",
+          "text": "III."
+        },
+        {
+          "id": "7648f6ca-eb65-4747-9f45-65f9ffdad3b8",
+          "text": "IV."
+        },
+        {
+          "id": "849b865a-b2dc-4c72-aea7-ea98e6e9867c",
+          "text": "V."
+        },
+        {
+          "id": "41186851-b1f1-4b31-862c-061de4cd8ee7",
+          "text": "VI."
+        }
+      ]
+    },
+    {
       "id": "5eac628d-4e1c-4be8-a7ee-3ca66b267bd7",
       "evaluation": "parcial_2_p",
       "source": "other",
@@ -4320,6 +4739,66 @@
         {
           "id": "46270032-71ce-48c1-bc5e-5d2eb4414f27",
           "text": "D."
+        }
+      ]
+    },
+    {
+      "id": "d8302908-f317-4bb7-8df5-4ebe92b0e8be",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Se muestran varios cortes de un mismo órgano linfoideo. Indique la razón de las diferencias encontradas.",
+      "image": "d8302908-f317-4bb7-8df5-4ebe92b0e8be.webp",
+      "options": [
+        {
+          "id": "331df054-e518-4e21-9721-64ab960ffecc",
+          "text": "El tejido adiposo invade el órgano con el pasaje de los años.",
+          "correct": true
+        },
+        {
+          "id": "704290c9-4abf-4a4c-92bd-d45f70f84674",
+          "text": "Almacena gran cantidad de grasas cuando el individuo es obeso."
+        },
+        {
+          "id": "64899cc4-786d-4f84-97ab-4f5607a6e625",
+          "text": "El órgano en A es fetal, en C es joven y en B es adulto."
+        },
+        {
+          "id": "9b1d58fd-843d-4c89-ac99-273bc8b3e8ea",
+          "text": "Su tejido linfoide se vuelve más abundante con el pasaje de los años."
+        },
+        {
+          "id": "5582bd39-ef1c-4f0d-ab32-e693215a43f1",
+          "text": "Varía con el sexo."
+        }
+      ]
+    },
+    {
+      "id": "b0d81f92-8817-4d91-bd15-07f81c7f93d3",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Se observa el límite corticomedular del timo. Sobre estas zonas, marque la opción INCORRECTA.",
+      "image": "b0d81f92-8817-4d91-bd15-07f81c7f93d3.webp",
+      "options": [
+        {
+          "id": "5128dafa-6365-4a39-998e-d1a8a63051ec",
+          "text": "Los linfocitos abandonan el órgano a través de las vénulas poscapilares corticales.",
+          "correct": true
+        },
+        {
+          "id": "e1177486-d908-4d82-98c0-2991e7001ea0",
+          "text": "En el límite corticomedular hay células epiteliorreticulares tipo III."
+        },
+        {
+          "id": "1042bd01-7555-4625-bec6-0cb01a979fbe",
+          "text": "En la corteza subcapsular hay linfoblastos (o linfocitos pre-T)"
+        },
+        {
+          "id": "959b8b7a-7e59-4b7b-9379-dbb8f5793b98",
+          "text": "En la médula hay corpúsculos de Hassall."
+        },
+        {
+          "id": "3f2adc46-6184-42b9-aab0-69238c28da22",
+          "text": "Los macrófagos fagocitan cuerpos apoptóticos."
         }
       ]
     },
@@ -4414,6 +4893,66 @@
       ]
     },
     {
+      "id": "5db0405e-c54d-4fce-8a3a-19b83524ad7a",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Se observa una MET de miocardio inespecífico. Señale la opción correcta:",
+      "image": "5db0405e-c54d-4fce-8a3a-19b83524ad7a.webp",
+      "options": [
+        {
+          "id": "aeeeaf80-7124-40ec-8039-89451fe46d15",
+          "text": "La flecha anaranjada señala un túbulo T.",
+          "correct": true
+        },
+        {
+          "id": "f6682e96-5073-4e65-a35c-523b204b6852",
+          "text": "La flecha amarilla señala el núcleo celular."
+        },
+        {
+          "id": "808856e6-5709-4d87-bfc5-79cc4eccff3f",
+          "text": "La flecha azul señala fibras de colágeno."
+        },
+        {
+          "id": "fe90b444-35f8-4d67-8b93-2844dc219dbe",
+          "text": "La flecha roja señala un compartimento del complejo de Golgi."
+        },
+        {
+          "id": "0cb84251-88ed-4309-9162-d63efdbc18fa",
+          "text": "La flecha verde señala una banda A."
+        }
+      ]
+    },
+    {
+      "id": "b03b3ac0-9982-417c-a1ac-acb629f79358",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Se observa una MET de miocardio inespecífico. Señale la opción correcta:",
+      "image": "b03b3ac0-9982-417c-a1ac-acb629f79358.webp",
+      "options": [
+        {
+          "id": "f0ff5542-49aa-4f63-927b-2ae291d32ae5",
+          "text": "Las flechas rojas señalan uniones GAP.",
+          "correct": true
+        },
+        {
+          "id": "156477b0-3881-45e4-b77b-b8ba0c8a4a2b",
+          "text": "Las flechas negras señalan uniones GAP."
+        },
+        {
+          "id": "b1827d76-2439-402a-9359-6e7fd35e67e0",
+          "text": "Los trazos escaleriformes permiten sólo la unión eléctrica intercelular."
+        },
+        {
+          "id": "65d4b0e2-d6b2-401f-bae3-5dd76751ae0d",
+          "text": "Los trazos escaleriformes permiten sólo la unión mecánica intercelular."
+        },
+        {
+          "id": "57653db8-95c3-4b65-93ee-34f2ae6d1536",
+          "text": "Los trazos escaleriformes permiten sólo la unión metabólica intercelular."
+        }
+      ]
+    },
+    {
       "id": "7144d738-56d2-4f50-899c-dedc92c33bcc",
       "evaluation": "parcial_2_p",
       "source": "other",
@@ -4474,6 +5013,62 @@
       ]
     },
     {
+      "id": "79154d8e-5a0d-4f86-b6e0-eeb55073cfcb",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Se observa una MET en la que se identifican cortes transversales de varias células musculares lisas. Indique cuál de las siguientes estructuras NO es característica de esta célula.",
+      "image": "79154d8e-5a0d-4f86-b6e0-eeb55073cfcb.webp",
+      "options": [
+        {
+          "id": "7d826587-f247-4f1c-9754-c84a99cae1f1",
+          "text": "Sarcómeros.",
+          "correct": true
+        },
+        {
+          "id": "413b25f8-57f4-4f85-9418-c91c6b96e64d",
+          "text": "Caveolas."
+        },
+        {
+          "id": "15a7097d-a5c1-4242-9210-d9f03d29fa62",
+          "text": "Cuerpos densos."
+        },
+        {
+          "id": "e4f1dc49-d511-4b40-b332-54a22efa5e7d",
+          "text": "Lámina externa."
+        },
+        {
+          "id": "f9039871-6171-479a-9963-c228df08dcd6",
+          "text": "Uniones GAP abundantes."
+        }
+      ]
+    },
+    {
+      "id": "a24d5145-f253-405d-abb1-8152019c2cf2",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Se observa una microfotografía de miocardio. Señale la opción correcta:",
+      "image": "a24d5145-f253-405d-abb1-8152019c2cf2.webp",
+      "options": [
+        {
+          "id": "44334e79-654a-4ec0-b72a-e8866281a943",
+          "text": "La flecha anaranjada señala un disco intercalar.",
+          "correct": true
+        },
+        {
+          "id": "cf2262b1-4e00-499f-81f9-6128dfc77c8a",
+          "text": "La flecha negra señala una fibra específica."
+        },
+        {
+          "id": "42f1e4cf-f9b1-47ca-8c69-614fb83c06fd",
+          "text": "La flecha verde señala el núcleo de un mioblasto."
+        },
+        {
+          "id": "4da2c960-a516-46af-96e2-28320fa907a3",
+          "text": "No se observan capilares sanguíneos."
+        }
+      ]
+    },
+    {
       "id": "c87c7de4-12df-4268-ba1b-65a5359ab2eb",
       "evaluation": "parcial_2_p",
       "source": "other",
@@ -4530,6 +5125,114 @@
         {
           "id": "8ab37035-afa4-43aa-838b-6f168fdf12f3",
           "text": "La flecha negra señala una célula de revestimiento óseo."
+        }
+      ]
+    },
+    {
+      "id": "8c62bcaa-adc6-4271-b833-ed22315e2306",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Se observa una técnica inmunohistoquímica para identificar miosina lenta. Indique cuál fibra muscular ha sido señalada con verde.",
+      "image": "8c62bcaa-adc6-4271-b833-ed22315e2306.webp",
+      "options": [
+        {
+          "id": "ba7d0026-8a76-4f76-a8fd-f333fcaa677e",
+          "text": "I (roja).",
+          "correct": true
+        },
+        {
+          "id": "2513f7c6-f492-42b4-ab0d-ccb62f56731e",
+          "text": "IIa (intermedia)."
+        },
+        {
+          "id": "9626e972-22f5-40a6-9ccc-5ec082cb95da",
+          "text": "IIb (blanca)."
+        }
+      ]
+    },
+    {
+      "id": "c9394c0f-2fb4-4cae-9035-3d32147205a8",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Se observa una zona de la pulpa roja. Indique a cuál de las siguientes estructuras corresponde el número 2.",
+      "image": "c9394c0f-2fb4-4cae-9035-3d32147205a8.webp",
+      "options": [
+        {
+          "id": "f570b255-ab2c-40dd-a0cb-d7fe6e600ae9",
+          "text": "Senos medulares.",
+          "correct": true
+        },
+        {
+          "id": "e7d40bcd-3b1b-4337-9445-ac1ce2fd8f25",
+          "text": "Arterias."
+        },
+        {
+          "id": "be9dc4e4-aa3f-4819-8e29-385584652a7d",
+          "text": "Capilares envainados."
+        },
+        {
+          "id": "065ced3a-d5a0-48f6-bac2-101a6d726dd5",
+          "text": "Cordones esplénicos (de Billroth)."
+        }
+      ]
+    },
+    {
+      "id": "69dd6e8c-14ac-492a-b704-a2516ba83a05",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Señale la opción correcta sobre el vaso del centro de la imagen.",
+      "image": "69dd6e8c-14ac-492a-b704-a2516ba83a05.webp",
+      "options": [
+        {
+          "id": "c9adf7ac-c952-409d-9884-577c158f75f2",
+          "text": "Es un vaso sanguíneo atípico.",
+          "correct": true
+        },
+        {
+          "id": "924e9e91-dcf4-4482-bdf4-b06bcc8d9ffd",
+          "text": "Es un vaso linfático."
+        },
+        {
+          "id": "ddfc5736-d7b3-41c2-89bf-5fa31251b4e7",
+          "text": "No participa de la reabsorción de líquido ni electrolitos."
+        },
+        {
+          "id": "f90a58df-6f7b-45a6-ba4c-20ad343b4dbd",
+          "text": "Permite la entrada del 10% de los linfocitos al órgano."
+        },
+        {
+          "id": "7d4211d8-ce71-4a27-95f8-52667f9131f4",
+          "text": "Posee un endotelio simple plano."
+        }
+      ]
+    },
+    {
+      "id": "4cb89d11-36d0-42f1-b7f2-2ecf89f30322",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Señale la opción correcta sobre las estructuras señaladas.",
+      "image": "4cb89d11-36d0-42f1-b7f2-2ecf89f30322.webp",
+      "options": [
+        {
+          "id": "c3177bdb-922d-4cb2-bc74-e86dad15da9d",
+          "text": "La flecha negra señala el seno paratrabecular, el cual se encuentra atravesado por numerosas fibras reticulares y prolongaciones de células reticulares, y por pseudópodos de macrófagos.",
+          "correct": true
+        },
+        {
+          "id": "139ebba9-6ac8-4f72-8d9d-fa8dc4a070ad",
+          "text": "La flecha negra señala el seno paratrabecular, el cual posee un endotelio continuo en todo su espesor."
+        },
+        {
+          "id": "487dcccc-aab6-4619-8f4c-9d934f50aded",
+          "text": "La flecha negra señala el seno subcapsular, el cual transporta linfa."
+        },
+        {
+          "id": "cab8f55e-8b31-4477-afad-6eac9cac9c62",
+          "text": "La flecha verde señala el seno paratrabecular, el cual transporta sangre."
+        },
+        {
+          "id": "c390e10d-e066-41c1-81ef-5563f38e2fa3",
+          "text": "La flecha verde señala el seno subcapsular, el cual transporta sangre."
         }
       ]
     },
@@ -4619,6 +5322,35 @@
         {
           "id": "e9901238-1a9f-49f1-9682-2ff881fa06cd",
           "text": "Linfocito T regulador."
+        }
+      ]
+    },
+    {
+      "id": "d5326b79-0b4f-4fcf-b7bf-228ba1f9b398",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Sobre la pulpa roja, marque la opción INCORRECTA.",
+      "options": [
+        {
+          "id": "9eda1320-2dee-46f2-afd4-44e6a1d5cf05",
+          "text": "Los senos medulares poseen un endotelio fenestrado y lámina basal continua.",
+          "correct": true
+        },
+        {
+          "id": "c26825d0-b6a7-4bbc-a4f9-67ba7e1eba51",
+          "text": "La circulación cerrada implica la conexión entre capilar envainado y seno medular."
+        },
+        {
+          "id": "3e5ebcb5-99d4-4cf2-b0db-3a65eb6c15f3",
+          "text": "Las células dendríticas funcionan como presentadoras de antígeno."
+        },
+        {
+          "id": "46dab296-2d8c-40f4-961f-504dc25362d2",
+          "text": "Los cordones esplénicos contienen linfocitos, plasmocitos, macrófagos y granulocitos."
+        },
+        {
+          "id": "fbd267d9-8752-4a3b-8e86-b834a6c1d480",
+          "text": "Se encarga de la depuración sanguínea."
         }
       ]
     },
@@ -4713,6 +5445,36 @@
       ]
     },
     {
+      "id": "e29b71d3-cea5-4cfc-bded-f8326309dd63",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Sobre las estructuras señaladas, marque la opción INCORRECTA.",
+      "image": "e29b71d3-cea5-4cfc-bded-f8326309dd63.webp",
+      "options": [
+        {
+          "id": "81f8c0e8-2d9d-4516-a557-cc7f774740f7",
+          "text": "La flecha celeste señala un centro germinal.",
+          "correct": true
+        },
+        {
+          "id": "b39a2021-ddca-4794-a917-a1e17ea1b2c2",
+          "text": "En la flecha negra hay linfocitos B."
+        },
+        {
+          "id": "55b69e32-1791-49c3-9819-bf26745a9d2a",
+          "text": "La flecha anaranjada señala una zona con células dendríticas."
+        },
+        {
+          "id": "7b974f73-aeb0-43ba-9f11-16a440765048",
+          "text": "La flecha roja señala tejido linfoide difuso internodular."
+        },
+        {
+          "id": "e08d4497-f473-49e4-91ea-8a8167f4f04d",
+          "text": "La flecha verde señala la paracorteza."
+        }
+      ]
+    },
+    {
       "id": "16ddd180-c60b-4022-b628-7f497f5259b9",
       "evaluation": "parcial_2_p",
       "source": "other",
@@ -4739,6 +5501,32 @@
         {
           "id": "fc555ba7-8d1b-482a-9ca8-4ec47d06e502",
           "text": "La flecha verde señala un conducto de Volkmann."
+        }
+      ]
+    },
+    {
+      "id": "4da18c21-e5a1-473b-b78a-43959438813d",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Sobre las estructuras señaladas, marque la opción correcta.",
+      "image": "4da18c21-e5a1-473b-b78a-43959438813d.webp",
+      "options": [
+        {
+          "id": "26b716ab-4545-4518-b24f-a1517741f98b",
+          "text": "La zona en D se divide en dos capas.",
+          "correct": true
+        },
+        {
+          "id": "b83503dc-42c5-47d7-9735-fc329be7f532",
+          "text": "En A se señalan aglomeraciones de linfocitos T."
+        },
+        {
+          "id": "a093df64-d000-470c-89b5-bfd8729f548b",
+          "text": "En B atraviesan vasos linfáticos aferentes."
+        },
+        {
+          "id": "41fe0353-c7dd-4eef-99a1-aa119a4ccdf3",
+          "text": "La zona en C presenta corpúsculos de Hassall."
         }
       ]
     },
@@ -4791,6 +5579,36 @@
         {
           "id": "81709ba2-c603-40a1-a74b-ccee44e45fd8",
           "text": "La flecha roja marca un capilar fenestrado."
+        }
+      ]
+    },
+    {
+      "id": "bde380dd-358d-451e-8012-e8bb2816d9db",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Sobre las zonas señaladas, marque la opción correcta.",
+      "image": "bde380dd-358d-451e-8012-e8bb2816d9db.webp",
+      "options": [
+        {
+          "id": "da98cd81-a2b0-4a26-ab78-21e81e6c256a",
+          "text": "La zona en rojo es la banda A.",
+          "correct": true
+        },
+        {
+          "id": "4a1f3b5e-99df-4cef-bee8-ef932d1e7f51",
+          "text": "La zona en amarillo es la banda M."
+        },
+        {
+          "id": "906dec11-a154-4ffd-8e26-a072f8aaaac0",
+          "text": "La zona en anaranjado es la banda H."
+        },
+        {
+          "id": "a1f94c7f-244b-4847-8cc3-c8855fe89d76",
+          "text": "La zona en azul es la línea I."
+        },
+        {
+          "id": "f9c92bfc-eb9b-400a-aae7-201d0ee09d7d",
+          "text": "La zona en marrón es la línea Z."
         }
       ]
     },
