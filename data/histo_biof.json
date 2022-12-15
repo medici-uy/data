@@ -41,6 +41,36 @@
       ]
     },
     {
+      "id": "25dd930b-a7dd-43c7-bde3-ab1001a65eec",
+      "evaluation": "parcial_1_p",
+      "source": "other",
+      "text": "En ambas MET se observan elementos de la matriz cartilaginosa. Indique la opción correcta sobre las mismas.",
+      "image": "25dd930b-a7dd-43c7-bde3-ab1001a65eec.webp",
+      "options": [
+        {
+          "id": "ec1980e3-14c0-437b-96a6-5b20943e301d",
+          "text": "En ninguna se observa una molécula de hialuronato.",
+          "correct": true
+        },
+        {
+          "id": "eaf36230-ffc1-4e9b-83ac-8943a6327b93",
+          "text": "En A se muestra un agregado de agrecán."
+        },
+        {
+          "id": "936a9a98-136f-4ad8-b251-c901e994667c",
+          "text": "En A se muestran varias fibrillas de colágeno tipo X unidas a una de colágeno tipo II."
+        },
+        {
+          "id": "d6fd6be0-5629-4f58-aaa7-0800d0ba1e5f",
+          "text": "En B se muestra queratán sulfato y condoitín sulfato unidos a una proteína central compuesta por colágeno tipo X."
+        },
+        {
+          "id": "4828da06-65b5-4c99-8873-e3f9b5850d3a",
+          "text": "En B se muestra una condronectina."
+        }
+      ]
+    },
+    {
       "id": "50de5dbb-ce0d-4c07-b578-486e94a95aed",
       "evaluation": "parcial_1_p",
       "source": "other",
@@ -157,6 +187,92 @@
         {
           "id": "eff432a7-dc9e-4872-a077-d54bff1c4fd7",
           "text": "Leptina."
+        }
+      ]
+    },
+    {
+      "id": "705546e0-9a51-4dd9-88fc-705630ddd643",
+      "evaluation": "parcial_1_p",
+      "source": "other",
+      "text": "Identifique cada estructura.",
+      "image": "705546e0-9a51-4dd9-88fc-705630ddd643.webp",
+      "options": [
+        {
+          "id": "0e1c4249-fad9-4bd2-ab3d-29a9252b2646",
+          "text": "El tejido en A es cartílago elástico.",
+          "correct": true
+        },
+        {
+          "id": "8b501fe7-762d-4c70-99e1-54d9190bfe0d",
+          "text": "El tejido en A es cartílago fibroso (fibrocartílago)."
+        },
+        {
+          "id": "726ff5ac-7eaf-4ef5-9218-d55b4cfd8ea2",
+          "text": "El tejido en B es cartílago articular."
+        },
+        {
+          "id": "c90e4658-0985-4592-9036-ac9ca6184c76",
+          "text": "El tejido en C es cartílago hialino."
+        }
+      ]
+    },
+    {
+      "id": "4259a4fc-9a5c-4404-a73c-b61559934ecf",
+      "evaluation": "parcial_1_p",
+      "source": "other",
+      "text": "Identifique cada parte del órgano.",
+      "image": "4259a4fc-9a5c-4404-a73c-b61559934ecf.webp",
+      "options": [
+        {
+          "id": "3c1bd697-6beb-4db0-be59-ea2a6940e6c1",
+          "text": "La flecha verde señala hipodermis.",
+          "correct": true
+        },
+        {
+          "id": "8a695081-a032-4759-b8aa-d9464beccfea",
+          "text": "La flecha amarilla señala la epidermis."
+        },
+        {
+          "id": "2c64fcd4-bcc5-47b1-b939-ff15d5f608a9",
+          "text": "La flecha celeste señala la dermis reticular."
+        },
+        {
+          "id": "d26e59fc-556d-4bc8-8956-2493f7308f7d",
+          "text": "La flecha negra señala la dermis papilar."
+        },
+        {
+          "id": "de848828-53a1-4460-aa88-c0eedfc12330",
+          "text": "La flecha roja señala la capa córnea."
+        }
+      ]
+    },
+    {
+      "id": "180acd8c-aa88-40ce-a4f3-85ca75e829fe",
+      "evaluation": "parcial_1_p",
+      "source": "other",
+      "text": "Identifique cada una de las capas señaladas.",
+      "image": "180acd8c-aa88-40ce-a4f3-85ca75e829fe.webp",
+      "options": [
+        {
+          "id": "20a33395-1cd2-4cd2-a094-59aad0f280a6",
+          "text": "La flecha amarilla señala el estrato córneo.",
+          "correct": true
+        },
+        {
+          "id": "893b09e6-d05a-4cf8-86f6-fc1b442ba648",
+          "text": "La flecha amarilla señala el estrato basal."
+        },
+        {
+          "id": "01e290e1-9c04-4395-ad34-3905269f79dc",
+          "text": "La flecha anaranjada señala el estrato lúcido."
+        },
+        {
+          "id": "424ef514-d70d-4491-80e1-84a4ece75085",
+          "text": "La flecha negra señala el estrato espinoso."
+        },
+        {
+          "id": "6ebf979d-d9de-47ff-a572-ccf4be28fd74",
+          "text": "La flecha verde señala el estrato granuloso."
         }
       ]
     },
@@ -659,6 +775,96 @@
       ]
     },
     {
+      "id": "86df3dc8-91ac-4ed0-a177-60f7120e9e2c",
+      "evaluation": "parcial_1_p",
+      "source": "other",
+      "text": "Sobre este epitelio en particular, indique la opción correcta.",
+      "image": "86df3dc8-91ac-4ed0-a177-60f7120e9e2c.webp",
+      "options": [
+        {
+          "id": "8763e812-c21c-4e76-9b8e-8b23ee6b546b",
+          "text": "Sus células presentan abundantes maculas adherens.",
+          "correct": true
+        },
+        {
+          "id": "f3ee2000-8126-4309-9391-7c3021548fbd",
+          "text": "Es de tipo estratificado cúbico."
+        },
+        {
+          "id": "998cf2c2-9633-4ecb-a4be-fa1ab6b16f3f",
+          "text": "La capa córnea tiene células secretoras de queratohialina."
+        },
+        {
+          "id": "fc4c67f4-fca0-43b2-a5de-38a0590813fe",
+          "text": "La descamación ocurre desde el estrato basal."
+        },
+        {
+          "id": "2a569bf2-380d-4ae6-8a28-fed2f5e5a7bd",
+          "text": "La renovación celular ocurre desde el estrato granuloso."
+        }
+      ]
+    },
+    {
+      "id": "600d4d87-1004-4201-af74-bd0ae983a35e",
+      "evaluation": "parcial_1_p",
+      "source": "other",
+      "text": "Sobre la ubicación de los diferentes tejidos, marque la opción correcta.",
+      "image": "600d4d87-1004-4201-af74-bd0ae983a35e.webp",
+      "options": [
+        {
+          "id": "e2b0e9ef-f868-47e1-88fb-32f6df3ad6c4",
+          "text": "El cartílago en A podría estar presente en las articulaciones sinoviales.",
+          "correct": true
+        },
+        {
+          "id": "871fb335-d2f0-46a0-af2f-62a0ba92341e",
+          "text": "El cartílago en A podría estar presente en el tabique nasal."
+        },
+        {
+          "id": "423862f5-e708-4b03-8935-c534b26e9295",
+          "text": "El cartílago en B podría estar presente en el pabellón auricular."
+        },
+        {
+          "id": "aaad069c-1aad-4a16-bf0b-c3b100467f47",
+          "text": "El cartílago en B podría estar presente en la epiglotis."
+        },
+        {
+          "id": "bbf9309a-99eb-4775-8f12-da1a83090db6",
+          "text": "El cartílago en C podría estar presente en los discos intervertebrales."
+        }
+      ]
+    },
+    {
+      "id": "0b3bbd54-2cab-41bc-bb6d-3939878715a8",
+      "evaluation": "parcial_1_p",
+      "source": "other",
+      "text": "Sobre las células marcadas, señale la opción correcta.",
+      "image": "0b3bbd54-2cab-41bc-bb6d-3939878715a8.webp",
+      "options": [
+        {
+          "id": "2192adc6-440b-4cc3-880d-cd15a7642b5e",
+          "text": "La flecha celeste señala una célula espinosa.",
+          "correct": true
+        },
+        {
+          "id": "4df43e36-6f8e-4be5-97c3-abb2ba20bf64",
+          "text": "La flecha amarilla señala un melanocito."
+        },
+        {
+          "id": "b920091e-5bab-4b17-95cb-32bb21447889",
+          "text": "La flecha celeste señala una célula granulosa."
+        },
+        {
+          "id": "84bafcff-132a-4c09-8866-c86c72d06fd9",
+          "text": "La flecha negra señala una célula migratoria."
+        },
+        {
+          "id": "155eaa48-5172-48bd-8b22-3d9c42c40fdb",
+          "text": "La flecha roja señala un queratinocito no pigmentado."
+        }
+      ]
+    },
+    {
       "id": "cb83410e-10ac-424d-9ee1-43503832b83d",
       "evaluation": "parcial_1_p",
       "source": "other",
@@ -745,6 +951,36 @@
         {
           "id": "589bc91e-9181-4ea3-ac74-aec6279a4154",
           "text": "La flecha rosa señala una célula capaz de diferenciarse."
+        }
+      ]
+    },
+    {
+      "id": "2ffb1a20-4166-4027-ae6e-748148b1c7a1",
+      "evaluation": "parcial_1_p",
+      "source": "other",
+      "text": "Sobre las estructuras señaladas, marque la opción correcta.",
+      "image": "2ffb1a20-4166-4027-ae6e-748148b1c7a1.webp",
+      "options": [
+        {
+          "id": "309c156e-cc34-44db-9fd5-b12c533491e7",
+          "text": "La flecha amarilla señala un grupo isógeno axial.",
+          "correct": true
+        },
+        {
+          "id": "0ca1142d-acb0-40a1-8ddc-a84e732e85c2",
+          "text": "La flecha anaranjada señala un grupo isógeno coronario de condroblastos."
+        },
+        {
+          "id": "cfb7f9eb-85c3-41e8-9a1d-bbbd6f37a3e4",
+          "text": "La flecha negra señala la capa condrogénica del pericondrio."
+        },
+        {
+          "id": "0b09cbb2-3284-41ac-9268-976ccad60cde",
+          "text": "La flecha roja señala una capa con tejido conjuntivo denso irregular."
+        },
+        {
+          "id": "ca14f65c-ba03-4e83-94ed-2279b34ca1db",
+          "text": "La flecha verde señala matriz territorial."
         }
       ]
     },
@@ -3560,6 +3796,1061 @@
         {
           "id": "4e1ecc95-9f48-4e8c-b270-9fd244e3147b",
           "text": "Las técnicas histoquímicas ayudan a identificar material radiactivo."
+        }
+      ]
+    },
+    {
+      "id": "c5ab6abb-5c1b-45bd-80ab-c106b51f3311",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Diagnostique el órgano/estructura.",
+      "image": "c5ab6abb-5c1b-45bd-80ab-c106b51f3311.webp",
+      "options": [
+        {
+          "id": "7834f91a-f582-46bb-8c55-8a8391212635",
+          "text": "Amígdala.",
+          "correct": true
+        },
+        {
+          "id": "7c967227-0d9c-4b3b-976c-7ab26c86bc6d",
+          "text": "Bazo."
+        },
+        {
+          "id": "9912af26-1809-4fea-a4a8-4b3c238eb73f",
+          "text": "Linfonodo."
+        },
+        {
+          "id": "675fca6d-19e1-4a43-9564-8f1f15bc3ac8",
+          "text": "Placa de Peyer."
+        },
+        {
+          "id": "cc397c07-5108-4cc3-a1a2-300ed4a248d4",
+          "text": "Timo."
+        }
+      ]
+    },
+    {
+      "id": "259dca69-cbd6-45c8-8afa-a4daa2a9a016",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "El disco epifisario contiene tres zonas de cartílago bien diferenciadas. Indique cuál de ellas no posee síntesis activa de matriz cartilaginosa.",
+      "image": "259dca69-cbd6-45c8-8afa-a4daa2a9a016.webp",
+      "options": [
+        {
+          "id": "a33d182f-5410-4814-8f0e-114ee3073cbc",
+          "text": "A.",
+          "correct": true
+        },
+        {
+          "id": "8c87fb94-8138-49fc-a690-b6e7a29f3412",
+          "text": "B."
+        },
+        {
+          "id": "94c063d0-230e-4eb8-85ef-7567c0d15a17",
+          "text": "C."
+        },
+        {
+          "id": "7effa5e1-04d9-446f-ae76-648f2f826636",
+          "text": "Otra presente en la imagen (D y E)."
+        }
+      ]
+    },
+    {
+      "id": "865818a9-7133-436a-ba33-e984c7d9abd6",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "En cuanto al estroma de este tejido, marque la opción INCORRECTA.",
+      "image": "865818a9-7133-436a-ba33-e984c7d9abd6.webp",
+      "options": [
+        {
+          "id": "0995052b-f5a3-436f-8180-512af8bd4ebc",
+          "text": "Es un tejido encapsulado.",
+          "correct": true
+        },
+        {
+          "id": "d55b9d42-1c55-4593-abc9-5881e1372f61",
+          "text": "Contiene células reticulares."
+        },
+        {
+          "id": "b3056a1f-c000-4337-982b-8b390912275a",
+          "text": "El tejido óseo le otorga un espacio para ubicarse y lo protege."
+        },
+        {
+          "id": "3978e023-d5b1-4a1c-bc87-99af081ec7f9",
+          "text": "Está sostenido por fibras colágenas tipo III."
+        },
+        {
+          "id": "b93fe52e-27f2-454e-9683-96449d7cc2d5",
+          "text": "Los vasos sanguíneos están revestidos por células especializadas, además del endotelio."
+        }
+      ]
+    },
+    {
+      "id": "ace2b143-667a-43b8-b878-fae5852e8384",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Existen varias formas de clasificar estas células. Indique cuál es la posible razón de las diferencias ultraestructurales entre los leucocitos monomorfonucleares agranulocitos linfocitos en A y B.",
+      "image": "ace2b143-667a-43b8-b878-fae5852e8384.webp",
+      "options": [
+        {
+          "id": "c46991eb-8d7b-4b20-85c2-2c7fb3afa876",
+          "text": "Se diferencian en su grado de maduración.",
+          "correct": true
+        },
+        {
+          "id": "c7688ac2-441b-4da8-8ccd-65384f83eda0",
+          "text": "A es un linfocito NK y B es un linfocito T citotóxico (CD8+)."
+        },
+        {
+          "id": "c0700906-91c6-4c88-9046-26fdb7143040",
+          "text": "A es un linfocito T cooperador (CD4+) y B es un linfocito B."
+        },
+        {
+          "id": "6f4c2235-62f1-48bb-ac14-7b9280328e0e",
+          "text": "A no posee gránulos azurófilos, mientras que B sí."
+        },
+        {
+          "id": "ce85975e-b055-49c2-8331-be154e82e021",
+          "text": "La célula B mide lo mismo que un eritrocito, mientras que A es más grande."
+        }
+      ]
+    },
+    {
+      "id": "6855a9ca-1019-4de6-bddb-2442a52e455c",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Identifique el leucocito monomorfonuclear agranulocito monocito.",
+      "image": "6855a9ca-1019-4de6-bddb-2442a52e455c.webp",
+      "options": [
+        {
+          "id": "654dda04-2515-4773-b0a9-1e570fa44358",
+          "text": "B.",
+          "correct": true
+        },
+        {
+          "id": "4e655003-fa80-4f86-9d97-8eb30252c566",
+          "text": "A."
+        },
+        {
+          "id": "c136845f-b159-457e-b434-86a6e1d6749c",
+          "text": "C."
+        },
+        {
+          "id": "10a6e2ab-9f0e-4205-96ed-2c3665e6a113",
+          "text": "D."
+        },
+        {
+          "id": "388896b9-92fb-4467-a185-2a6087f46ecc",
+          "text": "E."
+        }
+      ]
+    },
+    {
+      "id": "72e710a5-97c0-4279-ac99-f142c4326355",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Identifique las estructuras señaladas y marque la opción INCORRECTA.",
+      "image": "72e710a5-97c0-4279-ac99-f142c4326355.webp",
+      "options": [
+        {
+          "id": "9a9a37da-edad-41ad-bfc7-ad62d2ddd365",
+          "text": "La flecha roja señala la lámina osmiófila.",
+          "correct": true
+        },
+        {
+          "id": "3a86c296-4798-4845-8a65-c6794798cb03",
+          "text": "La flecha anaranjada señala matriz no mineralizada."
+        },
+        {
+          "id": "673b057a-a461-4fbc-854a-07bee1a44bb0",
+          "text": "La flecha azul señala un osteoblasto."
+        },
+        {
+          "id": "9eac7924-75ca-482f-a4dc-7cf4a81cdf6a",
+          "text": "La flecha rosa señala un canalículo."
+        },
+        {
+          "id": "bf92fa24-aab0-4877-a91c-8a3481d2b73b",
+          "text": "La flecha verde señala matriz mineralizada."
+        }
+      ]
+    },
+    {
+      "id": "7b39bebb-1159-45e1-9354-89b7479be2a8",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Indique cuál de las células está encargada de combatir infestaciones parasitarias.",
+      "image": "7b39bebb-1159-45e1-9354-89b7479be2a8.webp",
+      "options": [
+        {
+          "id": "9be759de-aa99-4c44-a241-5935e94e024a",
+          "text": "E.",
+          "correct": true
+        },
+        {
+          "id": "ce649d19-8a46-4c73-9f97-fae85d28ead8",
+          "text": "A."
+        },
+        {
+          "id": "299413dd-2f8b-44ea-b205-171a75223063",
+          "text": "B."
+        },
+        {
+          "id": "2a30adb1-3685-4fc7-a28c-ddd6b587bfeb",
+          "text": "C."
+        },
+        {
+          "id": "f13f3eb7-395d-48ce-9946-318ed64e75de",
+          "text": "D."
+        }
+      ]
+    },
+    {
+      "id": "6bd2a20f-6582-45c8-8da9-f7c4fea50401",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Indique cuál de las siguientes células es resultado de la monopoyesis.",
+      "options": [
+        {
+          "id": "a2362415-6320-4d4e-b0b1-5c4ed375756d",
+          "text": "Todas las otras opciones son correctas.",
+          "correct": true
+        },
+        {
+          "id": "26117919-2484-4d13-9554-48e87b18015b",
+          "text": "Macrófagos alveolares del pulmón."
+        },
+        {
+          "id": "8430e2c6-cb9b-4c9f-9b7b-b200fa908325",
+          "text": "Macrófagos del tejido conjuntivo."
+        },
+        {
+          "id": "9314dee6-9072-4457-9631-4309b3b03daf",
+          "text": "Microglía del tejido nervioso."
+        },
+        {
+          "id": "9c3ec57d-e564-40f0-8c7b-e0ced5b65177",
+          "text": "Osteoclastos del tejido óseo."
+        }
+      ]
+    },
+    {
+      "id": "47bbec94-8bda-44df-a973-39a8ade88077",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Indique cuál de las siguientes células no forma parte del linaje de los osteoblastos.",
+      "options": [
+        {
+          "id": "61d2324a-1a68-4eae-b9f8-14d60861c7ed",
+          "text": "Osteoclasto.",
+          "correct": true
+        },
+        {
+          "id": "33075a3e-d5dd-40c8-9146-749ba717954d",
+          "text": "Célula osteoprogenitora."
+        },
+        {
+          "id": "bf16af91-926d-47f1-b7ce-580a4b5e1696",
+          "text": "Endostiocito (célula de revestimiento del endostio)."
+        },
+        {
+          "id": "4466a870-7399-40cb-b8a0-52b1dcd8135b",
+          "text": "Osteocito."
+        },
+        {
+          "id": "38fb0fd1-0393-4ea5-8ce7-1c8e3bed9751",
+          "text": "Periostiocito (célula de revestimiento del periostio)."
+        }
+      ]
+    },
+    {
+      "id": "0d6d58f7-ee12-40a4-b73d-414e77d5fa61",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Indique cuál de los siguientes fenómenos NO sufre esta célula.",
+      "image": "0d6d58f7-ee12-40a4-b73d-414e77d5fa61.webp",
+      "options": [
+        {
+          "id": "096d3d3e-6086-4f8b-bb49-20151e25bcc9",
+          "text": "Cariocinesis.",
+          "correct": true
+        },
+        {
+          "id": "05ed06c8-9833-478b-a2c5-cc6b7a71c845",
+          "text": "Crecimiento citoplasmático."
+        },
+        {
+          "id": "ad41ab3f-4fe7-4b00-ac25-d6f3cb1008b6",
+          "text": "Endomitosis."
+        },
+        {
+          "id": "c377af91-e446-4021-86dc-4e52089aefce",
+          "text": "Fragmentación."
+        },
+        {
+          "id": "4bcc9377-05d4-400e-b2e2-4637eb5ac2e1",
+          "text": "Unión a los vasos de la médula ósea."
+        }
+      ]
+    },
+    {
+      "id": "fbea3666-ca71-4d23-b482-aa573de8e03a",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Indique cuál de los siguientes huesos se forma a partir de este tipo de osificación.",
+      "image": "fbea3666-ca71-4d23-b482-aa573de8e03a.webp",
+      "options": [
+        {
+          "id": "9b4a5b76-c034-4eb6-af7b-58ab58df946f",
+          "text": "Clavícula.",
+          "correct": true
+        },
+        {
+          "id": "16990a06-7902-41d5-9782-067a70aebab7",
+          "text": "Axis."
+        },
+        {
+          "id": "9376b868-3c95-40ca-ac3d-d7535cc3dcac",
+          "text": "Fémur."
+        },
+        {
+          "id": "6982348b-b24a-49a3-9b77-cc5cafdc3da4",
+          "text": "Húmero."
+        },
+        {
+          "id": "9c96049c-3641-4345-b881-b8bd9db44bc5",
+          "text": "Sacro."
+        }
+      ]
+    },
+    {
+      "id": "20be71fc-6638-48a4-9a38-f881a4eceb78",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Indique cuál es la célula que ocupa el 20,5% - 51,1% de la población leucocitaria.",
+      "image": "20be71fc-6638-48a4-9a38-f881a4eceb78.webp",
+      "options": [
+        {
+          "id": "64d4b9e7-98ee-457e-a9e8-438b710cc84f",
+          "text": "D.",
+          "correct": true
+        },
+        {
+          "id": "a478f5e6-090a-4c6a-8ba6-38e05aaa2517",
+          "text": "A."
+        },
+        {
+          "id": "2ac75dd4-b672-45c0-b8f0-2e3c0f8236f4",
+          "text": "B."
+        },
+        {
+          "id": "db2d29c1-ed82-494f-bf02-4c8f07345090",
+          "text": "C."
+        },
+        {
+          "id": "142db6e2-69c0-4603-8ccd-a42a6301b6d2",
+          "text": "E."
+        }
+      ]
+    },
+    {
+      "id": "86537db8-3044-4447-8f49-4a7202303411",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Indique en cuál de las siguientes células del linaje granulocítico (granulopoyesis) se desarrollan por primera vez los gránulos secundarios específicos.",
+      "options": [
+        {
+          "id": "70be5630-20cf-40a0-9762-d0c9090509af",
+          "text": "Mielocito.",
+          "correct": true
+        },
+        {
+          "id": "a06ce343-fe15-4310-ac54-5abf9c8db0b7",
+          "text": "Granulocito encayado."
+        },
+        {
+          "id": "bc3fb55e-bf29-4df8-afc4-adfca9c8859b",
+          "text": "Metamielocito."
+        },
+        {
+          "id": "b315c08b-3148-428b-ba68-c2411948b853",
+          "text": "Mieloblasto."
+        },
+        {
+          "id": "24795923-8b11-4d28-9f7d-1e5be74844ff",
+          "text": "Promielocito."
+        }
+      ]
+    },
+    {
+      "id": "2d05a23f-e61b-4be8-871f-c8cff110c75c",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Indique la opción INCORRECTA con respecto a esta célula.",
+      "image": "2d05a23f-e61b-4be8-871f-c8cff110c75c.webp",
+      "options": [
+        {
+          "id": "78176f09-aa44-4980-9703-69ad0a383651",
+          "text": "Es el leucocito de mayor tamaño.",
+          "correct": true
+        },
+        {
+          "id": "4a2a5ed5-ed11-41ec-ac8c-3dd13f999ae1",
+          "text": "Fagocita bacterias."
+        },
+        {
+          "id": "56d5cccd-aea6-4fb8-a3a9-d550077c6107",
+          "text": "Posee gránulos terciarios."
+        },
+        {
+          "id": "7305f865-51fc-4149-ab8b-cb1972caa132",
+          "text": "Su núcleo es polilobular."
+        },
+        {
+          "id": "84f29d3d-488c-46a1-8845-7f5e8f745ce3",
+          "text": "Sus gránulos secundarios específicos son neutros."
+        }
+      ]
+    },
+    {
+      "id": "3fd59df5-e69b-46d1-908e-4a7e9672b67c",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "La línea de erosión se encuentra entre las capas:",
+      "image": "3fd59df5-e69b-46d1-908e-4a7e9672b67c.webp",
+      "options": [
+        {
+          "id": "1e2aa0e3-97a6-4349-822d-91ebf49d9fc8",
+          "text": "D y E.",
+          "correct": true
+        },
+        {
+          "id": "cd536c16-953b-45bc-a17e-60c4ae60aeab",
+          "text": "A y B."
+        },
+        {
+          "id": "36dacfc3-0512-4fa5-b9fe-06ac84b0c73d",
+          "text": "B y C."
+        },
+        {
+          "id": "1fe198db-d415-4fb4-b500-7fc06cec111d",
+          "text": "C y D."
+        }
+      ]
+    },
+    {
+      "id": "8b6aeb52-edae-4ccd-b094-27e50d9f30f9",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Las células madre hematopoyéticas son:",
+      "options": [
+        {
+          "id": "eb484c14-97df-4bad-bdb2-68b47e654756",
+          "text": "Multipotentes.",
+          "correct": true
+        },
+        {
+          "id": "95bca220-b701-4a4e-9878-532faae298af",
+          "text": "Oligo/bipotentes."
+        },
+        {
+          "id": "e28e2fd3-32d9-4f2c-99ff-364efeddb10c",
+          "text": "Pluripotentes."
+        },
+        {
+          "id": "5a88cd79-8fd0-433d-9a22-4f391c075da4",
+          "text": "Totipotentes."
+        },
+        {
+          "id": "5dc1f7fa-77e1-4888-ba9f-471139812a66",
+          "text": "Unipotentes."
+        }
+      ]
+    },
+    {
+      "id": "6b901692-4bf8-43b3-b23b-19955c2fa966",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Ordene la secuencia de osificación endocondral.",
+      "image": "6b901692-4bf8-43b3-b23b-19955c2fa966.webp",
+      "options": [
+        {
+          "id": "6fedb150-2a38-464e-801f-9fd03e5d09c1",
+          "text": "D → A → B → E → C.",
+          "correct": true
+        },
+        {
+          "id": "f0f2ce7c-df05-4e44-be41-df9fb41e843d",
+          "text": "A → B → C → D → E."
+        },
+        {
+          "id": "b7d0489b-a245-4d7f-9d09-2f0ee89fab77",
+          "text": "A → D → E → B → C."
+        },
+        {
+          "id": "1b269b72-ae76-4316-9f00-3fd4da395219",
+          "text": "D → A → B → C → E."
+        },
+        {
+          "id": "f161093c-2af1-4e3f-a343-520d6e330390",
+          "text": "D → B → A → E → C."
+        }
+      ]
+    },
+    {
+      "id": "5eac628d-4e1c-4be8-a7ee-3ca66b267bd7",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Se muestran diferentes trabéculas generadas en el proceso de osificación endocondral (en C tome en cuenta la trabécula señalada). Indique cuál de ellas es una trabécula osiforme.",
+      "image": "5eac628d-4e1c-4be8-a7ee-3ca66b267bd7.webp",
+      "options": [
+        {
+          "id": "0e5390a5-9497-4a75-8aa4-fb17a3d4522c",
+          "text": "B.",
+          "correct": true
+        },
+        {
+          "id": "a75f2fbc-60f9-4b30-be87-0b942e315dac",
+          "text": "A."
+        },
+        {
+          "id": "7542581c-f60c-45bb-b2ae-6c0bd5161c40",
+          "text": "C."
+        },
+        {
+          "id": "46270032-71ce-48c1-bc5e-5d2eb4414f27",
+          "text": "D."
+        }
+      ]
+    },
+    {
+      "id": "4b66772a-f6c0-4b49-8714-00c9e4c628d7",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Se observa la eritropoyesis, indique cuál de las siguientes células tiene origen a partir de la misma célula precursora que el proteritroblasto.",
+      "image": "4b66772a-f6c0-4b49-8714-00c9e4c628d7.webp",
+      "options": [
+        {
+          "id": "2ec36640-0c5b-4f0f-95e8-e13c1dffc2c4",
+          "text": "Megacariocitos.",
+          "correct": true
+        },
+        {
+          "id": "b3db4b95-713b-4961-b06b-16e22afbfc02",
+          "text": "Célula progenitora mieloide común."
+        },
+        {
+          "id": "587f24a8-939b-4178-8c7d-ef4ee944fbc4",
+          "text": "Metamielocitos."
+        },
+        {
+          "id": "ce2f681d-eeb9-450a-94ba-90453686874a",
+          "text": "Monocitos."
+        },
+        {
+          "id": "dcb4dd05-817a-4598-9daa-baf5b96c7288",
+          "text": "Plaquetas."
+        }
+      ]
+    },
+    {
+      "id": "7bc4f1ef-b5bf-4743-a82f-bbb6b8f05911",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Se observa un corte longitudinal de un conducto de Havers. Indique, en general, cuál de las siguientes estructuras NO se encuentra dentro de dicho conducto.",
+      "image": "7bc4f1ef-b5bf-4743-a82f-bbb6b8f05911.webp",
+      "options": [
+        {
+          "id": "aa625619-4553-42d8-bb26-701333bdd187",
+          "text": "Vasos linfáticos.",
+          "correct": true
+        },
+        {
+          "id": "69dd8e38-e2c5-4df7-b800-87c6207592d1",
+          "text": "Arteriolas."
+        },
+        {
+          "id": "75e7b3fa-6a66-421a-a047-402f7d664eed",
+          "text": "Endostio."
+        },
+        {
+          "id": "7d81d467-9129-4157-917b-8f0b6c726fec",
+          "text": "Fibras nerviosas."
+        },
+        {
+          "id": "1b365dca-7e96-41ae-ba4c-70f3d29efba9",
+          "text": "Vénulas."
+        }
+      ]
+    },
+    {
+      "id": "d26c80c9-16f5-4490-9a48-077fb96ef3f1",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Se observa un nicho de:",
+      "image": "d26c80c9-16f5-4490-9a48-077fb96ef3f1.webp",
+      "options": [
+        {
+          "id": "b207d727-67ea-471a-91e0-463ca583c202",
+          "text": "Granulopoyesis.",
+          "correct": true
+        },
+        {
+          "id": "4a5abb79-67c9-4929-8952-7f6c5979b77d",
+          "text": "Eritropoyesis."
+        },
+        {
+          "id": "e4949d53-687b-49e2-b2b7-8dbf60b33134",
+          "text": "Linfopoyesis."
+        },
+        {
+          "id": "a10ad352-9e5f-4944-8425-99b727c4c9be",
+          "text": "Monopoyesis."
+        },
+        {
+          "id": "084e115c-512e-4379-8a98-7da542021d96",
+          "text": "Trombopoyesis."
+        }
+      ]
+    },
+    {
+      "id": "7144d738-56d2-4f50-899c-dedc92c33bcc",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Se observa una MET de tejido conjuntivo laxo en la que se reconocen varias células. Indique cuál de ellas es una célula migratoria.",
+      "image": "7144d738-56d2-4f50-899c-dedc92c33bcc.webp",
+      "options": [
+        {
+          "id": "698d0124-833d-4793-884a-a73a0828b617",
+          "text": "Asterisco rojo.",
+          "correct": true
+        },
+        {
+          "id": "1710d45d-8f99-47b4-b47c-1c310e8c6e52",
+          "text": "Asterisco azul."
+        },
+        {
+          "id": "6dd3cae4-9973-4167-8499-1255a9059db7",
+          "text": "Asterisco verde."
+        },
+        {
+          "id": "c65bdad5-3d09-429c-983f-b29d5d298410",
+          "text": "Asteriscos rojo y verde."
+        },
+        {
+          "id": "be4e38c7-2b0f-45ab-8bbd-6569544241c3",
+          "text": "Ninguna es migratoria."
+        }
+      ]
+    },
+    {
+      "id": "1ad15705-000e-4a98-88ed-98b661b355ae",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Se observa una MET de una célula ósea. Indique de cuál se trata.",
+      "image": "1ad15705-000e-4a98-88ed-98b661b355ae.webp",
+      "options": [
+        {
+          "id": "d64900d0-f568-4a8d-bdce-fed93f959bef",
+          "text": "Osteocito formativo.",
+          "correct": true
+        },
+        {
+          "id": "6b7dc136-461a-4062-835c-263a7f9ad756",
+          "text": "Osteoblasto activo."
+        },
+        {
+          "id": "4122693d-582b-42b0-8dbc-41b16b3d4293",
+          "text": "Osteocito latente."
+        },
+        {
+          "id": "37ef74b4-b7bb-47d2-89be-a5de41d22dd1",
+          "text": "Osteocito resortivo."
+        },
+        {
+          "id": "89ca5fcc-0f4c-4ac2-b4d6-006b90d1d800",
+          "text": "Osteoclasto."
+        }
+      ]
+    },
+    {
+      "id": "c87c7de4-12df-4268-ba1b-65a5359ab2eb",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Se observa una micrografía de un corte transversal de hueso largo fresco a nivel de la diáfisis. Marque la opción correcta.",
+      "image": "c87c7de4-12df-4268-ba1b-65a5359ab2eb.webp",
+      "options": [
+        {
+          "id": "adddb2e2-5597-48ae-9774-92c5d292b728",
+          "text": "La flecha verde señala el sistema circunferencial interno.",
+          "correct": true
+        },
+        {
+          "id": "276dbbd5-cc9e-4be5-a780-b7e01c63ac00",
+          "text": "La flecha amarilla señala el pericondrio."
+        },
+        {
+          "id": "57147668-f78a-4cde-b139-a8ab9941c0de",
+          "text": "La flecha anaranjada señala el endostio."
+        },
+        {
+          "id": "2240e497-ab3d-4b70-bf95-038e2003cdcd",
+          "text": "La flecha azul señala un conducto de Volkmann."
+        },
+        {
+          "id": "0f06ff4e-f543-4808-8314-991df352c850",
+          "text": "La flecha roja señala un conducto de Havers."
+        }
+      ]
+    },
+    {
+      "id": "78a1209a-d040-47dd-a144-83fae0bd1ff9",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Se observa una trabécula ósea en proceso de osificación intramembranosa. Indique la opción correcta sobre las estructuras señaladas.",
+      "image": "78a1209a-d040-47dd-a144-83fae0bd1ff9.webp",
+      "options": [
+        {
+          "id": "bd26958a-4295-4ec7-a66d-df55bce3e88a",
+          "text": "La flecha verde señala matriz osteoide.",
+          "correct": true
+        },
+        {
+          "id": "89f57ff4-da85-4dcb-a819-2b4d9ca2fe5a",
+          "text": "La flecha amarilla señala un osteoblasto."
+        },
+        {
+          "id": "6a1b6dbc-365e-46b4-8eeb-09d100b5a5ef",
+          "text": "La flecha anaranjada señala tejido conjuntivo laxo."
+        },
+        {
+          "id": "0782e98e-5c47-4d19-8e00-3328eb04e053",
+          "text": "La flecha celeste señala matriz cartilaginosa calcificada."
+        },
+        {
+          "id": "8ab37035-afa4-43aa-838b-6f168fdf12f3",
+          "text": "La flecha negra señala una célula de revestimiento óseo."
+        }
+      ]
+    },
+    {
+      "id": "064a771a-028d-43d6-b520-0859bb4a93ed",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Sobre este gránulo, marque la opción correcta.",
+      "image": "064a771a-028d-43d6-b520-0859bb4a93ed.webp",
+      "options": [
+        {
+          "id": "7c7fd980-7b06-4d8c-b446-00e75ac6f474",
+          "text": "Es acidófilo.",
+          "correct": true
+        },
+        {
+          "id": "f464c875-5f36-4502-9359-acd311bc05e5",
+          "text": "Contiene heparina."
+        },
+        {
+          "id": "8f51ed3a-d791-4e3e-815a-7137d3213b19",
+          "text": "Contiene histamina."
+        },
+        {
+          "id": "93158880-b70b-45e4-9009-52fef339af81",
+          "text": "Es un gránulo azurófilo."
+        },
+        {
+          "id": "b6b1533e-b87a-4b68-853e-c6438ed1a7af",
+          "text": "Pertenece a un leucocito polimorfonuclear agranulocito eosinófilo."
+        }
+      ]
+    },
+    {
+      "id": "f9c084eb-a6bd-4bab-94cb-409db7e1b310",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Sobre la estructura observada en la imagen, que corresponde a un hueso largo, señale la opción INCORRECTA.",
+      "image": "f9c084eb-a6bd-4bab-94cb-409db7e1b310.webp",
+      "options": [
+        {
+          "id": "5274e619-039d-4646-b177-fd3d79336012",
+          "text": "Produce una forma de osificación indirecta.",
+          "correct": true
+        },
+        {
+          "id": "48b6ba46-9a5c-47e1-8de4-e159ce7414f3",
+          "text": "Contiene células osteoprogenitoras."
+        },
+        {
+          "id": "2bdf47ca-3132-4728-a4e7-6aea22511c4a",
+          "text": "Permite el crecimiento aposicional del hueso."
+        },
+        {
+          "id": "53d5e4b0-2827-4d84-8957-e1c93a283c92",
+          "text": "Posee dos capas."
+        },
+        {
+          "id": "b9c00754-bff6-4542-9b02-5a89483bc2bd",
+          "text": "Se forma a partir del pericondrio."
+        }
+      ]
+    },
+    {
+      "id": "76696eb1-cd66-45ba-a810-7a728c3db792",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Sobre la linfopoyesis, indique cuál de los siguientes linfocitos es capaz de diferenciarse en un plasmocito.",
+      "options": [
+        {
+          "id": "8719f49a-e6f4-4776-88b7-767bf4181c12",
+          "text": "Linfocito B.",
+          "correct": true
+        },
+        {
+          "id": "00400707-a38b-4932-b463-0ac3d1ad671b",
+          "text": "Linfocito NK."
+        },
+        {
+          "id": "3bf91d55-4cef-459b-9f40-34eb8077b9db",
+          "text": "Linfocito T citotóxico (CD8+)."
+        },
+        {
+          "id": "da86f162-d0f9-4391-92f4-60b4b3ed2cd2",
+          "text": "Linfocito T cooperador (CD4+)."
+        },
+        {
+          "id": "e9901238-1a9f-49f1-9682-2ff881fa06cd",
+          "text": "Linfocito T regulador."
+        }
+      ]
+    },
+    {
+      "id": "ed12c330-3230-44f6-bace-3fefae87b4bf",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Sobre las diferentes zonas de este proceso, marque la opción correcta.",
+      "image": "ed12c330-3230-44f6-bace-3fefae87b4bf.webp",
+      "options": [
+        {
+          "id": "12a2316a-2762-422d-ace7-e11aa944e411",
+          "text": "En C se muestra la zona de hipertrofia.",
+          "correct": true
+        },
+        {
+          "id": "03708c81-1817-43ed-9029-27bbd469b2d8",
+          "text": "En A se muestra la zona de proliferación."
+        },
+        {
+          "id": "48857b58-c0ab-44b9-9f39-8d0adca58b5f",
+          "text": "En B se muestra la zona de reserva."
+        },
+        {
+          "id": "b2859e89-6d1e-4b51-84f7-9a3fb6680d51",
+          "text": "En D se muestra la zona de resorción."
+        },
+        {
+          "id": "fd10f43f-64a5-45b7-aafc-725ee4b7a33d",
+          "text": "En E se muestra la zona de calcificación."
+        }
+      ]
+    },
+    {
+      "id": "4457b6d2-6536-4037-b71f-8c155ea75c5b",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Sobre las estructuras observadas, marque la opción INCORRECTA.",
+      "image": "4457b6d2-6536-4037-b71f-8c155ea75c5b.webp",
+      "options": [
+        {
+          "id": "2122f58b-f368-43ce-b628-92577bb4fdd7",
+          "text": "Los gránulos más abundantes son gránulos δ.",
+          "correct": true
+        },
+        {
+          "id": "b5cb6aa1-6239-4d1a-89d2-7e4f9a1c4d83",
+          "text": "El sistema tubular denso almacena Ca2+."
+        },
+        {
+          "id": "6e72fcef-4f32-44db-9a57-031d9939cca6",
+          "text": "Las flechas señalan microtúbulos."
+        },
+        {
+          "id": "d83a4ab6-2286-4c02-a0e3-041ff9300d41",
+          "text": "Los gránulos más grandes contienen fibrinógeno."
+        },
+        {
+          "id": "e615400f-c400-4bb7-9a13-fb756154a72f",
+          "text": "Toda la estructura celular posee 4 zonas bien diferenciadas."
+        }
+      ]
+    },
+    {
+      "id": "6a7a3fb7-dcf5-4d2a-bdb8-1948c79d56ce",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Sobre las estructuras señaladas en este conducto óseo, marque la opción correcta.",
+      "image": "6a7a3fb7-dcf5-4d2a-bdb8-1948c79d56ce.webp",
+      "options": [
+        {
+          "id": "7d871ecb-8308-4d6d-97fe-0d6ef59337b1",
+          "text": "En 12 se señalan canalículos.",
+          "correct": true
+        },
+        {
+          "id": "65e6129e-f38a-4f56-b3ba-1bb467d85b5e",
+          "text": "En 1 se señala la línea de cemento."
+        },
+        {
+          "id": "b1bc84fb-0eea-4d7b-8fef-1f480170e843",
+          "text": "En 3 se señala la última laminilla formada."
+        },
+        {
+          "id": "92f2687e-ac91-4ebc-bac6-86591fb012d8",
+          "text": "En 4 se señala el conducto de Volkmann."
+        },
+        {
+          "id": "aba050bc-97c2-48f7-946a-e210b918d628",
+          "text": "En 5 se señala un conducto de Volkmann."
+        }
+      ]
+    },
+    {
+      "id": "16ddd180-c60b-4022-b628-7f497f5259b9",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Sobre las estructuras señaladas, marque la opción correcta.",
+      "image": "16ddd180-c60b-4022-b628-7f497f5259b9.webp",
+      "options": [
+        {
+          "id": "16d52d0d-3f64-4a97-92e0-b493b2b3ad38",
+          "text": "La flecha negra se señala el sistema intersticial.",
+          "correct": true
+        },
+        {
+          "id": "c8ec1e75-0b8c-49ee-9961-01dc2a222c2c",
+          "text": "La flecha amarilla señala un capilar."
+        },
+        {
+          "id": "70ed580c-33ac-4302-a75d-88bc59bfc1e2",
+          "text": "La flecha celeste se señala un osteocito."
+        },
+        {
+          "id": "a43e3dcf-2634-4bbd-9afb-4a0795208446",
+          "text": "La flecha roja señala el límite de una osteona."
+        },
+        {
+          "id": "fc555ba7-8d1b-482a-9ca8-4ec47d06e502",
+          "text": "La flecha verde señala un conducto de Volkmann."
+        }
+      ]
+    },
+    {
+      "id": "51e2d852-40e5-4e29-b540-93d2bdcee672",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Sobre las estructuras señaladas, marque la opción correcta.",
+      "image": "51e2d852-40e5-4e29-b540-93d2bdcee672.webp",
+      "options": [
+        {
+          "id": "233f23fd-0c07-453e-8b1e-2b4a85d795c7",
+          "text": "La flecha fina señala tejido mieloide.",
+          "correct": true
+        },
+        {
+          "id": "8f69909a-f4c7-4dac-ad56-bab3a2ebb541",
+          "text": "La flecha fina señala tejido hematopoyético de la médula ósea roja."
+        },
+        {
+          "id": "2f797cf8-8f19-478c-88c7-74a656d2ff8a",
+          "text": "La flecha gruesa señala tejido óseo compacto."
+        },
+        {
+          "id": "4832c321-fe93-49d5-aed4-8d96a2a7498b",
+          "text": "La punta de flecha señala un compartimento vascular."
+        }
+      ]
+    },
+    {
+      "id": "8f47b963-0c99-4b4f-9686-236f9b03c8a3",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Sobre las estructuras señaladas, marque la opción correcta.",
+      "image": "8f47b963-0c99-4b4f-9686-236f9b03c8a3.webp",
+      "options": [
+        {
+          "id": "609f1ec5-edcd-4482-89f4-d34395c3e0b9",
+          "text": "La flecha verde señala un nicho hematopoyético.",
+          "correct": true
+        },
+        {
+          "id": "e20edbae-dd7a-4348-9412-6a6d83f885f4",
+          "text": "La flecha amarilla señala una célula no diferenciada."
+        },
+        {
+          "id": "1561373f-3625-4238-909c-0bc1e6ba5d29",
+          "text": "La flecha negra señala un artefacto."
+        },
+        {
+          "id": "81709ba2-c603-40a1-a74b-ccee44e45fd8",
+          "text": "La flecha roja marca un capilar fenestrado."
+        }
+      ]
+    },
+    {
+      "id": "bba3dbfb-19ae-428b-bad9-99f68743cdf2",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "Sobre los elementos celulares, marque la opción correcta.",
+      "image": "bba3dbfb-19ae-428b-bad9-99f68743cdf2.webp",
+      "options": [
+        {
+          "id": "3f2418a8-4f2a-40fb-83bf-c4a776ecab47",
+          "text": "En 9 se señalan endostiocitos (células de revestimiento del endostio).",
+          "correct": true
+        },
+        {
+          "id": "115a7b54-3a9b-4778-9a20-dcf597384b5b",
+          "text": "En 10 se señala un osteblasto."
+        },
+        {
+          "id": "1a9dd509-63ad-46d9-b449-b65f6481b48d",
+          "text": "En 8 se señalan osteoblastos."
+        },
+        {
+          "id": "9cece961-9a4c-481a-bb85-17122dd10cfd",
+          "text": "En 9 se señalan células osteoprogenitoras."
+        },
+        {
+          "id": "c1028cd3-135c-4768-b913-da14ed140605",
+          "text": "En 9 se señalan periostiocitos (células de revestimiento del periostio)."
+        }
+      ]
+    },
+    {
+      "id": "26bee24b-f11d-49f6-8f89-e8756f4c5436",
+      "evaluation": "parcial_2_p",
+      "source": "other",
+      "text": "¿Cuál de las siguientes características NO corresponde al hueso de la imagen?",
+      "image": "26bee24b-f11d-49f6-8f89-e8756f4c5436.webp",
+      "options": [
+        {
+          "id": "720d8107-8795-44ec-b900-72b94558f761",
+          "text": "Presencia de laminillas.",
+          "correct": true
+        },
+        {
+          "id": "1671ebb1-8d4b-45c7-a11e-e3aa5aa2efcf",
+          "text": "Alta cantidad de sustancia fundamental."
+        },
+        {
+          "id": "96bbe41f-194c-48e2-8cf0-b4f32e220a77",
+          "text": "Disposición aleatoria las sus células."
+        },
+        {
+          "id": "27e3b94f-3bc3-49c0-ad34-c742260d37a0",
+          "text": "Fibras colágenas entrelazadas."
+        },
+        {
+          "id": "55488303-ab79-48c9-8026-c93fe6d7124d",
+          "text": "Gran cantidad de células."
         }
       ]
     },
@@ -7002,6 +8293,10 @@
     {
       "key": "parcial_1_t",
       "name": "1° parcial teórico"
+    },
+    {
+      "key": "parcial_2_p",
+      "name": "2° parcial práctico"
     },
     {
       "key": "parcial_2_t",
