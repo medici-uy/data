@@ -3,12 +3,872 @@
   "short_name": "IBCM",
   "aliases": [
     "ibcm",
-    "biologia"
+    "biologia",
+    "molecular",
+    "celular"
   ],
   "image": "ibcm.avif",
   "year": 1,
   "order": 1,
   "questions": [
+    {
+      "id": "261b48f6-65cf-491c-a107-ee1c42fbc21f",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-05-25",
+      "text": "Considerando los valores de electronegatividad de los átomos de carbono C (2,5) y de hidrógeno H (2,1), ¿qué tipo de enlace forman entre sí?",
+      "options": [
+        {
+          "id": "0da15fd6-37ab-474b-8aa8-779c6a4fbb13",
+          "text": "Covalente apolar.",
+          "correct": true
+        },
+        {
+          "id": "bfa22325-4301-448d-99ff-4a30de2ccaa1",
+          "text": "Covalente polar."
+        },
+        {
+          "id": "ed76fc40-f0d0-4c74-889d-eac6d7bfee35",
+          "text": "Interacción hidrofóbica."
+        },
+        {
+          "id": "63a4001d-9c19-4eb9-812d-90793de7fda0",
+          "text": "Iónico."
+        },
+        {
+          "id": "6f8afc04-9a53-4f3b-b33e-5d6c3f41c642",
+          "text": "Puente de hidrógeno."
+        }
+      ]
+    },
+    {
+      "id": "4adec631-c79b-4f0d-bafc-2a55d840705f",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-05-25",
+      "text": "Determine el valor de la constante de disociación (Ka) del fosfato diprótico (H2PO4-), sabiendo que su valor de pKa es 6,8. H2PO4- ⇌ HPO42- + H+.",
+      "options": [
+        {
+          "id": "42c067dd-2dc8-4e65-918b-cc2055811001",
+          "text": "1,58 x 10^-7.",
+          "correct": true
+        },
+        {
+          "id": "efd2e8e1-7fb4-4d62-935f-d68cdb45f549",
+          "text": "1,58 x 10^-3."
+        },
+        {
+          "id": "85b734a5-26e0-4bed-a0a0-be241f55f44b",
+          "text": "6,30 x 10^6."
+        },
+        {
+          "id": "f0e9ca6a-6c02-4ec1-af8d-8cd6ad25754c",
+          "text": "6,80 x 10^3."
+        },
+        {
+          "id": "088feba7-19ab-434b-81e3-d1eb8a6318a8",
+          "text": "6,80."
+        }
+      ]
+    },
+    {
+      "id": "2e1c393d-4611-48c0-98d5-8b3363000972",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-05-25",
+      "text": "El polisacárido que tienen como función actuar como reserva de combustible en las células animales es:",
+      "options": [
+        {
+          "id": "0ab952b5-44dc-4f28-8431-ef3e0d0b82c6",
+          "text": "Glucógeno.",
+          "correct": true
+        },
+        {
+          "id": "7c76eb1f-b5ac-4bd7-85a1-790e6f2f4212",
+          "text": "Almidón."
+        },
+        {
+          "id": "def28ee0-ac6f-47cc-b809-1bff73592d29",
+          "text": "Amilosa."
+        },
+        {
+          "id": "552dc73d-ef48-472c-bf56-ce5659fee553",
+          "text": "Celulosa."
+        },
+        {
+          "id": "0fd5bf59-79ed-4364-bd19-23fee9ea865b",
+          "text": "Dextrano."
+        }
+      ]
+    },
+    {
+      "id": "3f2bb021-bde9-4124-bbfd-9deae85cd634",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-05-25",
+      "text": "En la tabla se indican algunos ácidos grasos saturados e insaturados. Indique cuál es el que presenta el menor punto de fusión:",
+      "image": "3f2bb021-bde9-4124-bbfd-9deae85cd634.avif",
+      "options": [
+        {
+          "id": "e6c4731a-e6c8-4456-bb6d-869a83715285",
+          "text": "Linolénico.",
+          "correct": true
+        },
+        {
+          "id": "9ce7202e-1a21-442d-adc0-6f7a9579c02b",
+          "text": "Esteárico."
+        },
+        {
+          "id": "63db9947-2454-4fa0-a57a-8dc571d06540",
+          "text": "Linoleico."
+        },
+        {
+          "id": "c00637e8-6b65-4c1a-9959-21d13bd3ae7f",
+          "text": "Oleico."
+        }
+      ]
+    },
+    {
+      "id": "c03ac41e-232d-4511-b7bd-c9e43f1d2a34",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-05-25",
+      "text": "Indique cuál es la osmolaridad de una solución que contiene 10 g de CaCl2 en un volumen final de 90 mL. Peso molecular del CaCl2: 111 g/mol.",
+      "options": [
+        {
+          "id": "9c2ab65d-c489-4f6e-89fe-1e4133cecaa2",
+          "text": "3,00 Osm.",
+          "correct": true
+        },
+        {
+          "id": "46583204-3735-4d5b-8900-70a170a6ae54",
+          "text": "0,27 Osm."
+        },
+        {
+          "id": "e9ee7926-c67e-4ebb-86b4-8e2b9cbdc311",
+          "text": "1,00 Osm."
+        },
+        {
+          "id": "a8b2805c-71c4-443c-8af4-0771f6b4a549",
+          "text": "2,00 Osm."
+        },
+        {
+          "id": "4a8d7712-04b3-4c57-b474-a3bdf3ac177f",
+          "text": "4,00 Osm."
+        }
+      ]
+    },
+    {
+      "id": "1a0dc8b7-5e61-40c9-b48d-479e920c9d96",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-05-25",
+      "text": "Indique el valor de pH de una solución 0,01 M de ácido propiónico (CH3CH2COOH). Ka CH3CH2COOH = 1 x 10^-5 M. pKa CH3CH2COOH = 5,0.",
+      "options": [
+        {
+          "id": "a5393d9f-2c2f-4e4f-91c5-6caf11ae14d8",
+          "text": "3,50.",
+          "correct": true
+        },
+        {
+          "id": "2cb725fb-72c1-466a-8136-76fb6dcfdf8a",
+          "text": "0,01."
+        },
+        {
+          "id": "1815e57d-8925-4d32-8886-e1da9fcc70dc",
+          "text": "1,50."
+        },
+        {
+          "id": "6c136818-fced-4774-8ee3-a1150dccce04",
+          "text": "2,00."
+        },
+        {
+          "id": "d7cf1102-3222-46fa-8932-77ce1f98eb3e",
+          "text": "5,00."
+        }
+      ]
+    },
+    {
+      "id": "83879946-3222-4dc9-a6e2-320d9278c6e8",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-05-25",
+      "text": "La biomolécula representada en la figura corresponde a:",
+      "image": "83879946-3222-4dc9-a6e2-320d9278c6e8.avif",
+      "options": [
+        {
+          "id": "8d2ee8a4-03b7-43b8-b087-5e3a36c25fe3",
+          "text": "Una aldosa.",
+          "correct": true
+        },
+        {
+          "id": "2e6a5a58-a5ee-4947-b101-82f18908b775",
+          "text": "Un aminoácido."
+        },
+        {
+          "id": "0ddb6f56-cd5d-4881-9e51-75a4016036fe",
+          "text": "Un ácido graso."
+        },
+        {
+          "id": "4c047c80-4ce6-49f5-8488-89417fbdfcf6",
+          "text": "Una cetosa."
+        },
+        {
+          "id": "e9c266d0-8e7f-4291-86d0-150be7d17149",
+          "text": "Una ribosa."
+        }
+      ]
+    },
+    {
+      "id": "0c0b0fbf-e046-42ce-80e8-335bf3cdb428",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-05-25",
+      "text": "La estructura terciaria de las proteínas:",
+      "options": [
+        {
+          "id": "fbaac437-db83-4301-bb0b-902904547263",
+          "text": "Se puede alterar por variaciones en el pH, calor o por el agregado de disolventes apolares.",
+          "correct": true
+        },
+        {
+          "id": "cadf6d54-ad1b-46c7-ab90-e49b30af609b",
+          "text": "Es el resultado del plegamiento espacial de los aminoácidos adyacentes en la estructura primaria."
+        },
+        {
+          "id": "cbd85059-df80-4723-801d-21515f9f581f",
+          "text": "Es estabilizada por enlaces covalentes entre los aminoácidos distantes en la secuencia lineal."
+        },
+        {
+          "id": "9d45bed6-650e-46fa-817a-d8bfd9bd5ca0",
+          "text": "Se forma por interacciones entre subunidades en proteínas que tienen más de una cadena polipeptídica."
+        },
+        {
+          "id": "478e51ec-6d70-4683-9ab1-89f2915a6c46",
+          "text": "Solo está presente en las proteínas formadas por una sola cadena polipeptídica."
+        }
+      ]
+    },
+    {
+      "id": "ad7a5919-c178-4fef-9a51-7a0167cf4818",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-05-25",
+      "text": "La figura muestra el péptido Ala-Thr-Leu-Asp-Ala-Lys. El péptido presenta:",
+      "image": "ad7a5919-c178-4fef-9a51-7a0167cf4818.avif",
+      "options": [
+        {
+          "id": "b0ac6655-837f-48ac-829b-64014dd6c247",
+          "text": "Un aminoácido con grupo R polar con carga negativa o ácido.",
+          "correct": true
+        },
+        {
+          "id": "2e1b7c81-6f98-4350-853e-d9690d8576a5",
+          "text": "Dos aminoácidos con grupo R apolar."
+        },
+        {
+          "id": "124aac0c-ab68-4ae0-aa78-086045590966",
+          "text": "Dos aminoácidos con grupo R polar con carga positiva o básicos."
+        },
+        {
+          "id": "d5a09714-63b2-43dc-b3a6-3b96cd120f5a",
+          "text": "Un aminoácido con grupo R aromático."
+        }
+      ]
+    },
+    {
+      "id": "7f64f716-7f14-424e-a490-c4939da320a5",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-05-25",
+      "text": "La figura muestra el péptido Ala-Thr-Leu-Asp-Ala-Lys. El péptido representado en la figura se encuentra a pH:",
+      "image": "7f64f716-7f14-424e-a490-c4939da320a5.avif",
+      "options": [
+        {
+          "id": "293bd3e3-c08f-4ba0-977d-37e35f830d40",
+          "text": "7.",
+          "correct": true
+        },
+        {
+          "id": "51a008e3-700c-4870-8418-93761ee89bf7",
+          "text": "0."
+        },
+        {
+          "id": "ce8417a8-9702-4da5-aef8-2a0e8b03d24e",
+          "text": "1."
+        },
+        {
+          "id": "1f07d8fd-c8a9-45a9-9d50-d8762799d718",
+          "text": "12."
+        },
+        {
+          "id": "9f0a253a-7de2-4790-bcaf-7c6b1800504d",
+          "text": "14."
+        }
+      ]
+    },
+    {
+      "id": "83380798-00c8-43f6-96e6-57872a760c74",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-05-25",
+      "text": "La figura muestra el péptido Ala-Thr-Leu-Asp-Ala-Lys. El átomo de hidrógeno señalado con el asterisco, ¿puede formar un enlace o puente de hidrógeno?",
+      "image": "83380798-00c8-43f6-96e6-57872a760c74.avif",
+      "options": [
+        {
+          "id": "06e3ec11-f77c-4dca-9442-3f1ac89b726b",
+          "text": "No, no lo puede formar ya que es un hidrógeno unido a un átomo de carbono.",
+          "correct": true
+        },
+        {
+          "id": "433d2a57-49fa-4423-b09d-065953016f28",
+          "text": "Sí, con el átomo de hidrógeno de una molécula de agua."
+        },
+        {
+          "id": "c20f19a6-8e41-47a0-ba4a-b3091568c982",
+          "text": "Sí, con el átomo de nitrógeno de un grupo amino."
+        },
+        {
+          "id": "3dfda15a-5ebc-4771-bc5a-9e8adb7202a9",
+          "text": "Sí, con el átomo de oxígeno de un grupo carboxilo."
+        },
+        {
+          "id": "68aa9497-f114-45a2-a4bf-ee16be010390",
+          "text": "Sí, con el átomo de oxígeno de una molécula de agua."
+        }
+      ]
+    },
+    {
+      "id": "a2a23d69-4753-4def-bbe0-7c5866a99da7",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-05-25",
+      "text": "La figura muestra el péptido Ala-Thr-Leu-Asp-Ala-Lys. La carga del mismo péptido a pH 1 es:",
+      "image": "a2a23d69-4753-4def-bbe0-7c5866a99da7.avif",
+      "options": [
+        {
+          "id": "e1db46df-9af3-4f82-9add-7f12c520ddde",
+          "text": "+2.",
+          "correct": true
+        },
+        {
+          "id": "c2ba96a6-5326-47d4-bea2-8644f849184a",
+          "text": "+1."
+        },
+        {
+          "id": "fafe9d64-9382-4569-b554-1122ea4b11f5",
+          "text": "-1."
+        },
+        {
+          "id": "74d77741-89ba-47b1-a37f-f9386620aa51",
+          "text": "-2."
+        },
+        {
+          "id": "2ef6dd49-893e-4378-9b5b-ffbd695dc00e",
+          "text": "0."
+        }
+      ]
+    },
+    {
+      "id": "285ab50a-e816-4e8a-abca-44082ce35aa0",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-05-25",
+      "text": "La hoja plegada beta es un tipo de estructura muy común en las proteínas. Indique qué tipo de interacciones la estabilizan.",
+      "options": [
+        {
+          "id": "a0f5cf31-c233-4915-b122-3cf33c7fd3d0",
+          "text": "Enlaces de hidrógeno entre los grupos -C=O y -NH de la cadena principal.",
+          "correct": true
+        },
+        {
+          "id": "3d48143e-2787-46d1-ae40-92b085c12005",
+          "text": "Enlaces de hidrógeno entre átomos de los grupos de la cadena lateral o R."
+        },
+        {
+          "id": "5562a40b-109a-4391-9368-728b2884b03a",
+          "text": "Enlaces disulfuro."
+        },
+        {
+          "id": "07701e74-34c4-4c8f-a680-4228672b67bd",
+          "text": "Enlaces iónicos o electrostáticos."
+        },
+        {
+          "id": "df1a068d-2b83-448b-9ada-db55af30146d",
+          "text": "Interacciones apolares o hidrofóbicas."
+        }
+      ]
+    },
+    {
+      "id": "58a302b3-6823-4888-b2b7-7af9f6bdb23e",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-05-25",
+      "text": "La siguiente figura muestra una molécula de un ácido nucleico. El anillo aromático que se marca con la letra D es una:",
+      "image": "58a302b3-6823-4888-b2b7-7af9f6bdb23e.avif",
+      "options": [
+        {
+          "id": "d97c0054-13b6-4fbb-b568-267e586ab0b7",
+          "text": "Pirimidina.",
+          "correct": true
+        },
+        {
+          "id": "c501a5a8-7ba5-4e4d-875a-ff66a02a6f6c",
+          "text": "Hexosa."
+        },
+        {
+          "id": "7bd1fceb-4f7f-4e86-bea7-54345459db41",
+          "text": "Pentosa."
+        },
+        {
+          "id": "0458a52c-728d-4792-9013-7b273af033c9",
+          "text": "Purina."
+        }
+      ]
+    },
+    {
+      "id": "7f9da29f-e830-461c-af65-249986105c02",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-05-25",
+      "text": "La siguiente figura muestra una molécula de un ácido nucleico. ¿Cuál es el tipo de enlace marcado en el rectángulo B?",
+      "image": "7f9da29f-e830-461c-af65-249986105c02.avif",
+      "options": [
+        {
+          "id": "a720da3d-d021-43c7-9d6c-5d442d658787",
+          "text": "Enlace fosfodiéster.",
+          "correct": true
+        },
+        {
+          "id": "af65ab5f-1785-45f6-8ec4-f2880cb17069",
+          "text": "Enlace glucosídico."
+        },
+        {
+          "id": "73901d4f-787d-4265-960f-995b60b2b87f",
+          "text": "Enlace peptídico."
+        },
+        {
+          "id": "ab346b92-14e1-406e-8acc-467b9a504c1a",
+          "text": "Puentes de hidrógeno."
+        }
+      ]
+    },
+    {
+      "id": "998fd07a-ab48-4307-bf46-8703c78ce86a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-05-25",
+      "text": "La siguiente figura muestra una molécula de un ácido nucleico. ¿Cuál es el tipo de enlace marcado en el rectángulo C?",
+      "image": "998fd07a-ab48-4307-bf46-8703c78ce86a.avif",
+      "options": [
+        {
+          "id": "372a6e21-3e4a-405c-96c2-8c49f310d28c",
+          "text": "Puentes de hidrógeno.",
+          "correct": true
+        },
+        {
+          "id": "caaabec4-8749-4cfd-9ca4-fd00d5b7109c",
+          "text": "Enlace fosfodiéster."
+        },
+        {
+          "id": "e5dba552-1fa6-412b-8089-ebf8b3a9a98b",
+          "text": "Enlace glucosídico."
+        },
+        {
+          "id": "53c00e5c-ec07-442f-ae46-321ae63e548a",
+          "text": "Enlace peptídico."
+        }
+      ]
+    },
+    {
+      "id": "bea1b750-83b7-44ff-bc94-86b2fd8101c6",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-05-25",
+      "text": "La siguiente figura muestra una molécula de un ácido nucleico. ¿Qué base nitrogenada llevará el próximo nucleótido que será incorporado a la molécula?",
+      "image": "bea1b750-83b7-44ff-bc94-86b2fd8101c6.avif",
+      "options": [
+        {
+          "id": "77f547ef-02de-4372-b504-582a25ab92c8",
+          "text": "Guanina.",
+          "correct": true
+        },
+        {
+          "id": "e4b07ed9-53ae-4527-9331-3a18eaa42e18",
+          "text": "Adenina."
+        },
+        {
+          "id": "87af328a-6205-43c0-8ed8-75576f4ef0a2",
+          "text": "Citosina."
+        },
+        {
+          "id": "7af43ced-8619-4a19-a0a1-12bbb95eddae",
+          "text": "Timina."
+        },
+        {
+          "id": "c340ef5d-5e7f-432a-9243-9eb81b93f80c",
+          "text": "Uracilo."
+        }
+      ]
+    },
+    {
+      "id": "4253784b-820e-46fa-893b-a2e26bfdcbe0",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-05-25",
+      "text": "La siguiente figura muestra una molécula de un ácido nucleico. ¿Qué extremo se indica con la flecha A?",
+      "image": "4253784b-820e-46fa-893b-a2e26bfdcbe0.avif",
+      "options": [
+        {
+          "id": "3872946a-ff4c-443d-ab5e-9a5f83a7b6fc",
+          "text": "Extremo 5´ de una molécula de ADN.",
+          "correct": true
+        },
+        {
+          "id": "ac8795eb-1a87-4345-b773-c55bf56533bd",
+          "text": "Extremo 3´ de una molécula de ADN."
+        },
+        {
+          "id": "1eacd8f8-b0d4-4721-935f-9ceeb83af2fa",
+          "text": "Extremo 3´ de una molécula de ARN."
+        },
+        {
+          "id": "b4b1c9d5-59bb-41de-ad48-18a26e5bb82e",
+          "text": "Extremo 5´ de una molécula de ARN."
+        }
+      ]
+    },
+    {
+      "id": "747df9e4-7ff2-47a5-b3c0-7fe5612b7add",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-05-25",
+      "text": "La siguiente figura muestra una molécula de un ácido nucleico. ¿Qué pares de bases intervienen en el enlace marcado en el rectángulo C?",
+      "image": "747df9e4-7ff2-47a5-b3c0-7fe5612b7add.avif",
+      "options": [
+        {
+          "id": "8eba4165-804f-4f55-88ae-843e07e5d8ce",
+          "text": "A-T.",
+          "correct": true
+        },
+        {
+          "id": "9edae72a-d193-4191-b440-24cf82f048fc",
+          "text": "A-G."
+        },
+        {
+          "id": "14ed133f-9d33-4b95-9ad5-9b98089943a4",
+          "text": "A-U."
+        },
+        {
+          "id": "f5f1eb6b-2afe-485d-b376-7cce6cd9750f",
+          "text": "G-C."
+        },
+        {
+          "id": "99301269-b161-4a80-a85c-7d6d170926e3",
+          "text": "G-T."
+        }
+      ]
+    },
+    {
+      "id": "4d050466-589f-4a83-b28d-9fed2d63db5c",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-05-25",
+      "text": "Los grupos R de los aminoácidos glicina y leucina representados en la figura son:",
+      "image": "4d050466-589f-4a83-b28d-9fed2d63db5c.avif",
+      "options": [
+        {
+          "id": "00abe963-e731-4ee5-93cd-e715aef61a34",
+          "text": "Apolares.",
+          "correct": true
+        },
+        {
+          "id": "568edc6e-07cf-4492-8cc2-85fdfa909232",
+          "text": "Aromáticos."
+        },
+        {
+          "id": "e94ff91d-0893-422e-b6eb-2ebf91e7dcd8",
+          "text": "Polares con carga negativa a pH fisiológico."
+        },
+        {
+          "id": "a397e498-a583-480d-b2ed-72e4e09848e9",
+          "text": "Polares con carga positiva a pH fisiológico."
+        },
+        {
+          "id": "350784db-2c64-45bd-8027-3d93050f4ee4",
+          "text": "Polares sin carga."
+        }
+      ]
+    },
+    {
+      "id": "11189729-1989-465f-9ae9-915e1fa40a97",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-05-25",
+      "text": "Los valores de pKa del aspartato o ácido aspártico (Asp) representado en la figura son: pK1 = 1,88; pKR = 3,65; pK2 = 9,60. El punto isoleléctrico del aspartato (Asp) es:",
+      "image": "11189729-1989-465f-9ae9-915e1fa40a97.avif",
+      "options": [
+        {
+          "id": "4233aa80-523b-4a70-a4e3-4df81ec8daa0",
+          "text": "2,76.",
+          "correct": true
+        },
+        {
+          "id": "61c54284-8b90-47cf-8844-1d73ed377b4d",
+          "text": "1,88."
+        },
+        {
+          "id": "fc3a6508-6d4a-463c-b026-985a551c2552",
+          "text": "3,65."
+        },
+        {
+          "id": "162c4253-3c54-4d5a-8c1c-8348394f5ba8",
+          "text": "5,00."
+        },
+        {
+          "id": "f89c9eda-fbe9-48dd-ad5b-4ffbbe4c2cf3",
+          "text": "6,60."
+        }
+      ]
+    },
+    {
+      "id": "049a6e0c-3a32-499e-9b4a-76ddd0c73d73",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-05-25",
+      "text": "Los valores de pKa del aspartato o ácido aspártico (Asp) representado en la figura son: pK1 = 1,88; pKR = 3,65; pK2 = 9,60. ¿Qué carga tiene el aminoácido a pH = 11,0?",
+      "image": "049a6e0c-3a32-499e-9b4a-76ddd0c73d73.avif",
+      "options": [
+        {
+          "id": "c9787892-0b21-4187-b534-65c1e8ed3ba8",
+          "text": "-2.",
+          "correct": true
+        },
+        {
+          "id": "297c2f3e-38b2-4106-a978-c559d7a49842",
+          "text": "+1."
+        },
+        {
+          "id": "6f50ee99-2fdd-45f8-a47f-dadc702ecd84",
+          "text": "+2."
+        },
+        {
+          "id": "67d430ec-c864-4847-82e6-fedbbe16f0c9",
+          "text": "-1."
+        },
+        {
+          "id": "c151eb6e-cc2a-4f28-b246-e4ec0744407f",
+          "text": "0."
+        }
+      ]
+    },
+    {
+      "id": "4cb97063-7ae2-441a-85e1-c7233e75a59c",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-05-25",
+      "text": "Un enlace de hidrógeno entre una molécula de agua y el etanol (CH₃-CH₂OH) se forma cuando:",
+      "options": [
+        {
+          "id": "e68b6c65-f172-4516-952e-5edbc053a50d",
+          "text": "Uno de los átomos de hidrógeno del agua interacciona con el átomo de oxígeno del grupo hidroxilo del etanol.",
+          "correct": true
+        },
+        {
+          "id": "fc41afc7-1a90-4828-bf3b-f1f019b2fd74",
+          "text": "El átomo de oxígeno del agua interacciona con uno de los hidrógenos del -CH₃ del etanol."
+        },
+        {
+          "id": "e15ffb41-bb16-49e8-a81b-740bb28f00ef",
+          "text": "Uno de los átomos de hidrógeno del agua forma un enlace covalente con el oxígeno del etanol."
+        },
+        {
+          "id": "48ae4b59-3752-45ce-96f5-373c201dfff4",
+          "text": "Uno de los átomos de hidrógeno del agua forma una interacción iónica o electrostática con el grupo hidroxilo del etanol."
+        },
+        {
+          "id": "4dfb1e87-e56b-4488-9869-8ea72b44f874",
+          "text": "Uno de los átomos de hidrógeno del agua interacciona con el átomo de carbono del -CH₃ del etanol."
+        }
+      ]
+    },
+    {
+      "id": "b32fa0f8-1ab4-4205-af9f-4a9655191b40",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-05-25",
+      "text": "Una solución amortiguadora es aquella formada por:",
+      "options": [
+        {
+          "id": "a243d1b9-ab1f-4b1b-ade4-9e60df038b41",
+          "text": "50% de un ácido débil y 50% de su base conjugada.",
+          "correct": true
+        },
+        {
+          "id": "73c71ed1-0c1a-49cf-a2fe-21fe826ca776",
+          "text": "5% de un ácido débil y 95% de su base conjugada."
+        },
+        {
+          "id": "a24e6993-dd09-48c1-9ee7-27d8a0d27810",
+          "text": "50% de un ácido fuerte y 50% de una base fuerte."
+        },
+        {
+          "id": "07aef169-b743-49ce-a487-fc51f0060388",
+          "text": "95% de un ácido débil y 5% de su base conjugada."
+        }
+      ]
+    },
+    {
+      "id": "70bbe8a2-5dc8-4411-9a91-a713d591a9f4",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-05-25",
+      "text": "¿Cuál es el nombre abreviado del siguiente ácido graso?",
+      "image": "70bbe8a2-5dc8-4411-9a91-a713d591a9f4.avif",
+      "options": [
+        {
+          "id": "5ab004fb-cd77-4ea4-a391-7dad4ca5c6cb",
+          "text": "16:1 cΔ9.",
+          "correct": true
+        },
+        {
+          "id": "80fdcc19-5312-4f1f-8f8f-509c51057abb",
+          "text": "16:0 ω-3."
+        },
+        {
+          "id": "6b874910-a641-48cd-974d-8c8e8dc81243",
+          "text": "16:0."
+        },
+        {
+          "id": "a46fef6b-94ed-4578-9070-6110b82393db",
+          "text": "16:1 cΔ7."
+        },
+        {
+          "id": "dabae3be-efa3-4a13-a05f-bf27a79b58b5",
+          "text": "16:2 cΔ9,10."
+        }
+      ]
+    },
+    {
+      "id": "6176d1d5-a62a-41fa-a803-a0c1035d844a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-05-25",
+      "text": "¿Cuál es la concentración de hidrogeniones (H+) de una solución de HCl cuyo valor de pOH es 11?",
+      "options": [
+        {
+          "id": "00f0f5c6-7356-459a-894e-c3b39664f802",
+          "text": "1,0 x 10^-3 M.",
+          "correct": true
+        },
+        {
+          "id": "1ea25136-782b-44af-8cf4-f16e87bc4084",
+          "text": "1,0 x 10^-11 M."
+        },
+        {
+          "id": "435ff78d-22b2-4c05-9398-17ffdfaa671e",
+          "text": "1,0 x 10^-2 M."
+        },
+        {
+          "id": "84305115-c04d-4c12-bff2-7a59120a9d30",
+          "text": "1,0 x 10^11 M."
+        },
+        {
+          "id": "2f9a47f3-beb1-494c-a411-44a851e0bf1e",
+          "text": "1,0 x 10^3 M."
+        }
+      ]
+    },
+    {
+      "id": "b6c23f8a-f249-48f6-88ec-6232d4d37686",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-05-25",
+      "text": "¿Cuál es la normalidad de una solución de H2SO4 4,9 g/L? Peso molecular del H2SO4: 98 g/mol.",
+      "options": [
+        {
+          "id": "db7b3d9d-b8d0-48ae-a625-6853ea612c87",
+          "text": "0,10 N.",
+          "correct": true
+        },
+        {
+          "id": "4ce1cd9b-99b4-410d-9d26-b7c19d965304",
+          "text": "0,05 N."
+        },
+        {
+          "id": "b281bdb6-d222-4a2d-b40b-310b46e5b669",
+          "text": "0,20 N."
+        },
+        {
+          "id": "0a2d1ea9-8760-47c5-823d-92fce646abd7",
+          "text": "0,40 N."
+        },
+        {
+          "id": "f36d308b-84ec-45e2-aac0-9818d63de084",
+          "text": "1,00 N."
+        }
+      ]
+    },
+    {
+      "id": "8e53e6e3-26c1-48a8-a132-576ec9650979",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-05-25",
+      "text": "¿Cuántos gramos de ZnCl2 se deben disolver en un volumen final de 500 mL para obtener una solución 5 % (m/v)?",
+      "options": [
+        {
+          "id": "c2c5e929-ffd9-4bbd-ae06-9126b75c65f3",
+          "text": "25,0 g.",
+          "correct": true
+        },
+        {
+          "id": "28f4ee58-f020-4fc9-b617-17e941c687c8",
+          "text": "0,5 g."
+        },
+        {
+          "id": "75f4e166-7c44-4902-982c-88ff240cbfbb",
+          "text": "1,0 g."
+        },
+        {
+          "id": "880b0678-0bf2-43f3-86d6-488e790d4e60",
+          "text": "10,0 g."
+        },
+        {
+          "id": "1576510f-3e6e-42db-835c-23f42b77a89c",
+          "text": "5,0 g."
+        }
+      ]
+    },
+    {
+      "id": "2f13ea86-6fec-4947-a9d3-3dff8089c726",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-05-25",
+      "text": "¿Qué molaridad tiene una solución de KCl preparada disolviendo 14,9 g en un volumen final de 200 mL? Peso molecular del KCl: 74,5 g/mol.",
+      "options": [
+        {
+          "id": "2a15e490-49db-4afb-a0ca-144db3d606ab",
+          "text": "1,0 M.",
+          "correct": true
+        },
+        {
+          "id": "5390dbdf-4847-4b9c-8f0d-d64496521051",
+          "text": "0,2 M."
+        },
+        {
+          "id": "fc53411d-4210-4f5b-a33c-8bd2ddfe9035",
+          "text": "0,5 M."
+        },
+        {
+          "id": "f2bc6045-499b-41df-afb0-e040b6771655",
+          "text": "1,5 M."
+        },
+        {
+          "id": "e41dbc46-024a-48e3-9dcf-a6346ef956dd",
+          "text": "2,0 M."
+        }
+      ]
+    },
     {
       "id": "5eb3585f-1adb-41bd-9634-cd7514f79627",
       "evaluation": "parcial_1",
@@ -75,7 +935,7 @@
       "evaluation": "parcial_1",
       "source": "partial",
       "asked_at": "2021-05-29",
-      "text": "Dadas las siguientes reacciones con sus respectivas constantes de equilibrio (Keq): 1: A → Y + B Keq = 1.77 x10⁻². 2: X + Y → C Keq = 3.19 x10³. RT = 2.479 kJ/mol. Marque la opción correcta",
+      "text": "Dadas las siguientes reacciones con sus respectivas constantes de equilibrio (Keq): 1: A → Y + B Keq = 1.77 x 10⁻². 2: X + Y → C Keq = 3.19 x 10³. RT = 2.479 kJ/mol. Marque la opción correcta",
       "options": [
         {
           "id": "6a459596-a3cb-4538-81a9-381cb961944a",
@@ -524,7 +1384,7 @@
       "evaluation": "parcial_1",
       "source": "partial",
       "asked_at": "2021-05-29",
-      "text": "Indique cuál es el valor de pH de una solución que contiene ácido benzoico (C₆H₅COOH) 80 mM y benzoato de sodio (C₆H₅COO⁻) 120 mM. Dato: el valor de pKa es 4,18 y Ka = 6,6x10⁻⁵.",
+      "text": "Indique cuál es el valor de pH de una solución que contiene ácido benzoico (C₆H₅COOH) 80 mM y benzoato de sodio (C₆H₅COO⁻) 120 mM. Dato: el valor de pKa es 4,18 y Ka = 6,6 x 10⁻⁵.",
       "options": [
         {
           "id": "17359b97-3f12-4d6c-afe2-54c3e6dbe8e4",
