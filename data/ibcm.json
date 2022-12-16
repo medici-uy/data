@@ -12,6 +12,859 @@
   "order": 1,
   "questions": [
     {
+      "id": "ad63bb94-8471-4b08-90e7-a1250d25d44b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "Al final de la meiosis I, los ovocitos poseen:",
+      "options": [
+        {
+          "id": "eef008d0-0b77-4026-85c7-46f2e5ff1f63",
+          "text": "n cromosomas con dos cromátides cada uno.",
+          "correct": true
+        },
+        {
+          "id": "a77d41fb-5902-4ce9-b365-ebe03fab7d32",
+          "text": "2n cromosomas con dos cromátides cada uno."
+        },
+        {
+          "id": "726e54dc-56bc-4da4-8034-690bc1bdd807",
+          "text": "2n cromosomas con una cromátide cada uno."
+        },
+        {
+          "id": "2cc20eb4-6fbd-48e7-9d21-07a0ab5bda95",
+          "text": "n cromosomas con una cromátide cada uno."
+        }
+      ]
+    },
+    {
+      "id": "391a54be-66de-49ff-9556-55121d6ef8b0",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "Conteste observando la figura. ¿Cómo se denomina el enlace señalado con la flecha?",
+      "image": "391a54be-66de-49ff-9556-55121d6ef8b0.avif",
+      "options": [
+        {
+          "id": "522c5685-af06-4159-8e8e-b44ae3d13651",
+          "text": "Enlace fosfodiester.",
+          "correct": true
+        },
+        {
+          "id": "a7caaa3a-cc0d-481e-ab36-792d1e4eb3de",
+          "text": "Enlace beta-glucosídico."
+        },
+        {
+          "id": "89c41a71-c1ee-40e7-aea7-241de0f94be7",
+          "text": "Enlace iónico."
+        },
+        {
+          "id": "c3728b77-621f-439a-9a48-f69d8832b7e6",
+          "text": "Enlace peptídico."
+        }
+      ]
+    },
+    {
+      "id": "c41e3f7c-697f-4111-a7b3-450c450c59cd",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "Conteste observando la figura. ¿Cómo se llaman los extremos indicados con la letra A y B?",
+      "image": "c41e3f7c-697f-4111-a7b3-450c450c59cd.avif",
+      "options": [
+        {
+          "id": "61cd6399-ddac-4113-ae20-a74d23100a41",
+          "text": "Extremo 5´ y 3´ respetivamente.",
+          "correct": true
+        },
+        {
+          "id": "1c3c6830-8aec-4a1e-bb88-61f6fe5574aa",
+          "text": "Extremo 3´y 5´ respetivamente."
+        },
+        {
+          "id": "5c02bdbc-f061-4304-9ff0-07b50bfbf616",
+          "text": "Extremo amino y carboxilo respetivamente."
+        },
+        {
+          "id": "539c78cf-b02d-48a0-987e-92c986140970",
+          "text": "Extremo carboxilo y amino respetivamente."
+        }
+      ]
+    },
+    {
+      "id": "bf6dfdc6-dd97-4c6b-b316-0e39d3428f28",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "De acuerdo a la estructura de proteínas, la hélice alfa:",
+      "options": [
+        {
+          "id": "3d3d9433-65f7-4596-b73c-59ac89b8406c",
+          "text": "Tiene las cadenas laterales de los aminoácidos (grupos R) orientadas hacia el exterior de la hélice.",
+          "correct": true
+        },
+        {
+          "id": "525b0f1b-95c0-40a4-a517-1b6ba67e8f0d",
+          "text": "Se caracteriza por la formación de un enlace covalente entre el grupo carbonilo del aminoácido 1 y el grupo amino del aminoácido 4."
+        },
+        {
+          "id": "edc72138-aaf2-4ba1-ad4d-2dd09fceb275",
+          "text": "Se estabiliza por la formación de enlaces disulfuro entre los residuos de cisteína de las cadenas."
+        },
+        {
+          "id": "11bf2eae-4896-4c69-a179-4140115f0913",
+          "text": "Tiene 7 residuos de aminoácidos por vuelta de la hélice."
+        }
+      ]
+    },
+    {
+      "id": "be2cc6fb-1f89-4bad-a92e-ccbd07c24fb9",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "El cariotipo puede obtenerse utilizando células en:",
+      "options": [
+        {
+          "id": "a39872e8-0e81-4114-b73b-214bcc461868",
+          "text": "Fase M.",
+          "correct": true
+        },
+        {
+          "id": "5cad1d78-9062-42de-a06f-58b3de925e29",
+          "text": "Fase G1."
+        },
+        {
+          "id": "d94e4a1f-30f8-4f48-8a11-88dd85a028c9",
+          "text": "Fase G2."
+        },
+        {
+          "id": "274c0d0b-9f6b-4b28-a9d8-64bf8ed07e89",
+          "text": "Fase S."
+        }
+      ]
+    },
+    {
+      "id": "9ea79162-28b6-4381-81ae-3a3fc41d3d6e",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "El polisacárido que tiene como función actuar como reserva de combustible en las células animales es:",
+      "options": [
+        {
+          "id": "5bb2c965-6e39-467e-87b2-ab6573142f68",
+          "text": "Glucógeno.",
+          "correct": true
+        },
+        {
+          "id": "8e7eadcd-93e6-470a-afe3-bb8b9d8e14f3",
+          "text": "Almidón."
+        },
+        {
+          "id": "14f15223-e4f3-4cdf-9f30-15344049b39f",
+          "text": "Amilosa."
+        },
+        {
+          "id": "8e8cf1b7-b730-4984-8881-7c526130db7b",
+          "text": "Celulosa."
+        },
+        {
+          "id": "58e434de-e667-472c-834f-498b368e17cb",
+          "text": "Quitina."
+        }
+      ]
+    },
+    {
+      "id": "c2048434-0524-43e7-b3aa-71852c950338",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "El proceso de replicación del ADN es:",
+      "options": [
+        {
+          "id": "42cff628-dd0e-4fbb-8965-9b71797df2a0",
+          "text": "Semiconservativo.",
+          "correct": true
+        },
+        {
+          "id": "33707f73-b3d0-4ad3-a566-5205b8ed95fd",
+          "text": "Conservativo."
+        },
+        {
+          "id": "04237be0-5f18-43be-831b-23faf3bae7ee",
+          "text": "Disperso."
+        }
+      ]
+    },
+    {
+      "id": "7695a34f-6d51-423a-b8f0-22a8bde9d696",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "En la siguiente figura se representan las estructuras de tres monosacáridos. Indique cuál es la afirmación correcta:",
+      "image": "7695a34f-6d51-423a-b8f0-22a8bde9d696.avif",
+      "options": [
+        {
+          "id": "11464891-1fb3-406d-9775-16e29652887a",
+          "text": "Las estructuras A y B son aldohexosas y la C es una cetohexosa.",
+          "correct": true
+        },
+        {
+          "id": "3aa59a46-bd45-4253-8de7-77dd8634d507",
+          "text": "Las estructuras A y B son aldohexosas y la C es una cetopentosa."
+        },
+        {
+          "id": "73edf173-f5c0-4b49-afc5-64835d57d6c6",
+          "text": "Las estructuras A y B son cetohexosas y la C es una aldopentosa."
+        },
+        {
+          "id": "33ae6b54-e937-4d13-94fe-438d91c362f4",
+          "text": "Las tres estructuras son aldohexosas."
+        },
+        {
+          "id": "9d082cfe-be52-403b-a2f4-13ed601f0064",
+          "text": "Las tres estructuras son cetohexosas."
+        }
+      ]
+    },
+    {
+      "id": "4c3ea7c3-b00f-4c6e-8945-f5e6d0c0d7a7",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "En relación a la estructura terciaria de las proteínas:",
+      "options": [
+        {
+          "id": "65f1467d-cbd4-4a8d-b359-a6d6d954ccb4",
+          "text": "La función de la proteína dependerá de su estructura tridimensional.",
+          "correct": true
+        },
+        {
+          "id": "c365de72-f97c-44e6-bf8b-acdd56c20be4",
+          "text": "Depende de la estructura secundaria, siendo independiente de la secuencia de aminoácidos en la estructura primaria."
+        },
+        {
+          "id": "bcd27000-bb26-4c1a-8849-273391b7288b",
+          "text": "Está estabilizada principalmente por enlaces covalentes."
+        },
+        {
+          "id": "56b1365b-32dc-447e-a21f-082f803cb289",
+          "text": "Se define como la secuencia de aminoácidos de la cadena polipeptídica."
+        },
+        {
+          "id": "786e0fe7-6ed4-4aa0-ba29-e2d86704ce87",
+          "text": "Sólo está presente en las proteínas que están formadas por más de una cadena polipeptídica."
+        }
+      ]
+    },
+    {
+      "id": "a305a237-ff7e-410c-b804-045150d7cba6",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "Escriba la secuencia de ADN complementaria a la siguiente secuencia: 5´-GCTTAGCTA-3´.",
+      "options": [
+        {
+          "id": "90574b1c-7718-45e3-9474-2d5ca0a32543",
+          "text": "TAGCTAAGC.",
+          "correct": true
+        },
+        {
+          "id": "6e847c3b-082a-4fd9-9ac2-a9f6bee465ae",
+          "text": "CGAATCGAT."
+        },
+        {
+          "id": "c96a7040-33ce-4242-be3d-c7080fa90062",
+          "text": "CGAAUCGAU."
+        },
+        {
+          "id": "25380fab-b593-4f06-9c90-407d9404a620",
+          "text": "UAGCUAAGC."
+        }
+      ]
+    },
+    {
+      "id": "c4117c68-afc4-4cf1-8a07-eb2f70f0dd77",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "La biomolécula representada en la figura corresponde a un:",
+      "image": "c4117c68-afc4-4cf1-8a07-eb2f70f0dd77.avif",
+      "options": [
+        {
+          "id": "a30ec2b8-7182-488a-a339-8dbdaf6aac81",
+          "text": "ARN.",
+          "correct": true
+        },
+        {
+          "id": "a5b92449-0471-490a-baa9-47a2efb6dc23",
+          "text": "ADN."
+        },
+        {
+          "id": "96cd8a0d-73f8-4d69-a6e2-78894fdb6f0b",
+          "text": "Carbohidrato."
+        },
+        {
+          "id": "64b9c227-ca60-4e05-a138-8235651858f9",
+          "text": "Lípido."
+        }
+      ]
+    },
+    {
+      "id": "77d6a536-1426-4b8a-b1c4-0ec539a2b1f1",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "La estructura, valores de pK y curva de titulación del aminoácido glutamato se representan en la siguiente figura. El punto isoeléctrico del glutamato es:",
+      "image": "77d6a536-1426-4b8a-b1c4-0ec539a2b1f1.avif",
+      "options": [
+        {
+          "id": "7b820cbb-70ee-4d8b-a9b2-fc060b77f2d9",
+          "text": "3,22.",
+          "correct": true
+        },
+        {
+          "id": "f38ce857-6017-45cc-9332-e590636081a4",
+          "text": "2,19."
+        },
+        {
+          "id": "a6be41a5-928f-4846-b9ce-81fd365ce9a2",
+          "text": "4,25."
+        },
+        {
+          "id": "ee4fc340-f752-49c5-9f9b-c5dcce18a9a9",
+          "text": "5,37."
+        },
+        {
+          "id": "2c7cb48e-5227-4a16-94fc-fe64eb75d0bf",
+          "text": "6,96."
+        }
+      ]
+    },
+    {
+      "id": "b7cc910f-6b1d-4f62-a3f1-45a23fd753bf",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "La estructura, valores de pK y curva de titulación del aminoácido glutamato se representan en la siguiente figura. En la estructura de una proteína, el grupo R del glutamato es más probable que interaccione con otro aminoácido de grupo R:",
+      "image": "b7cc910f-6b1d-4f62-a3f1-45a23fd753bf.avif",
+      "options": [
+        {
+          "id": "e9204518-4489-4e76-a590-1dcd045b6f04",
+          "text": "Polar con carga positiva a pH = 7,0.",
+          "correct": true
+        },
+        {
+          "id": "088580e2-4383-4a18-b3b5-b9c94b89e028",
+          "text": "Apolar."
+        },
+        {
+          "id": "2ac534b8-e168-41b5-b156-88ff0efa255a",
+          "text": "Aromático."
+        },
+        {
+          "id": "7fd20011-f2dc-4c2b-b19c-6562b5fad792",
+          "text": "Polar con carga negativa a pH = 7,0."
+        },
+        {
+          "id": "f5e63835-bdf8-4c04-8aad-ead30961ff96",
+          "text": "Polar sin carga."
+        }
+      ]
+    },
+    {
+      "id": "ac4cbfd4-80b2-4c59-9423-fefb3c393481",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "La estructura, valores de pK y curva de titulación del aminoácido glutamato se representan en la siguiente figura. Indique la afirmación correcta referida a los puntos indicados de A hasta G en la curva de titulación.",
+      "image": "ac4cbfd4-80b2-4c59-9423-fefb3c393481.avif",
+      "options": [
+        {
+          "id": "fbd1f3f6-4fe5-4fc4-a546-1e8e6b0410b8",
+          "text": "En el punto F, la mitad de los grupos amino del glutamato se encuentran protonados y la otra mitad desprotonados.",
+          "correct": true
+        },
+        {
+          "id": "74c26ae2-ec5f-4718-89aa-e0f896d8ad3d",
+          "text": "En el punto A, el glutamato se encuentra totalmente desprotonado."
+        },
+        {
+          "id": "cd0ed1fe-290c-4dcd-8a4a-b8c89891d69b",
+          "text": "En el punto C, la carga neta del glutamato es +1."
+        },
+        {
+          "id": "cb502087-bb70-4b69-8545-7cffec1d7dcc",
+          "text": "En el punto C, predomina la forma con carga neta -1 del glutamato."
+        },
+        {
+          "id": "be59ec49-5caf-465a-98b6-9dec7d79e63b",
+          "text": "En el punto D, el glutamato se encuentra totalmente titulado."
+        }
+      ]
+    },
+    {
+      "id": "555f185d-01df-4f99-b71f-133d26b0c7ef",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "La estructura, valores de pK y curva de titulación del aminoácido glutamato se representan en la siguiente figura. ¿A cuál de los siguientes valores de pH espera encontrar al glutamato mayoritariamente con carga neta positiva?",
+      "image": "555f185d-01df-4f99-b71f-133d26b0c7ef.avif",
+      "options": [
+        {
+          "id": "63b8bb8d-5336-4071-9da5-6229867b8ad4",
+          "text": "pH 1,0.",
+          "correct": true
+        },
+        {
+          "id": "9e77f35e-c9ee-4e1c-b085-4c53f99fdb29",
+          "text": "pH 2,19."
+        },
+        {
+          "id": "428cc3c8-4662-47ca-b813-dac2043f0802",
+          "text": "pH 5,0."
+        },
+        {
+          "id": "79e95907-c29a-4f48-bbda-d16475cc8a82",
+          "text": "pH 6,5."
+        },
+        {
+          "id": "cf3f8d7a-c76b-46f9-8449-bd60963be8b6",
+          "text": "pH 9,67."
+        }
+      ]
+    },
+    {
+      "id": "af95b032-919d-4ef6-9d12-6b2531ea4eda",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "La estructura, valores de pK y curva de titulación del aminoácido glutamato se representan en la siguiente figura. ¿Cómo se clasifica este aminoácido según su grupo R?",
+      "image": "af95b032-919d-4ef6-9d12-6b2531ea4eda.avif",
+      "options": [
+        {
+          "id": "8fe2914c-c2d4-4c41-a26c-7ea015ec6a13",
+          "text": "Polar con carga negativa a pH = 7,0.",
+          "correct": true
+        },
+        {
+          "id": "a3d5fd57-c6c1-4790-89c8-1ccedb9c1180",
+          "text": "Apolar."
+        },
+        {
+          "id": "d96d07c1-7625-4b36-9350-9d4f6a7606eb",
+          "text": "Aromático."
+        },
+        {
+          "id": "5e5c70f7-f13f-4865-973b-2d4df522aef9",
+          "text": "Polar con carga positiva a pH = 7,0."
+        },
+        {
+          "id": "3b98555c-a591-4aa4-a557-badbe6431eb2",
+          "text": "Polar sin carga."
+        }
+      ]
+    },
+    {
+      "id": "1c37eeef-e4fb-4dfc-9a72-5fce43596930",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "La siguiente figura muestra un grupo de aminoácidos. Si generamos el pentapéptido: glutamato-valina-glicina-arginina-fenilalanina (desde carboxilo-terminal a amino-terminal). ¿Cuál será la carga neta del péptido a pH = 1?",
+      "image": "1c37eeef-e4fb-4dfc-9a72-5fce43596930.avif",
+      "options": [
+        {
+          "id": "ffd9d9ea-daef-4d75-9476-a108b5c33912",
+          "text": "+2.",
+          "correct": true
+        },
+        {
+          "id": "80a0677a-d6c7-49e7-9c96-6f40829dc609",
+          "text": "+1."
+        },
+        {
+          "id": "f6d44757-1666-4c75-b3e4-cc43dab195e7",
+          "text": "-1."
+        },
+        {
+          "id": "b1b9e4ed-cf0a-4d0b-b4f7-de14f265dfef",
+          "text": "-2."
+        },
+        {
+          "id": "c71fd387-b2a9-45c1-9341-3a56dcd130a8",
+          "text": "0."
+        }
+      ]
+    },
+    {
+      "id": "d4d6d747-228c-4bd2-a298-f69cf2a14903",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "La siguiente figura muestra un grupo de aminoácidos. Una proteína contiene un residuo de valina que se desea mutar por otro aminoácido. ¿Por cuál de los siguientes aminoácidos lo mutaría de modo de alterar lo menos posible la estructura de la proteína?",
+      "image": "d4d6d747-228c-4bd2-a298-f69cf2a14903.avif",
+      "options": [
+        {
+          "id": "9cf187e4-5c5b-4d98-ac61-d5bcb4977970",
+          "text": "Alanina.",
+          "correct": true
+        },
+        {
+          "id": "6b23b75f-e61d-4d7a-aec6-b08b58d52170",
+          "text": "Arginina."
+        },
+        {
+          "id": "1bafaa9b-ac80-4a4b-ba1b-57bd7b425a9b",
+          "text": "Glutamato."
+        },
+        {
+          "id": "ec40fd9f-b395-4993-b424-dcf310ecdae0",
+          "text": "Serina."
+        }
+      ]
+    },
+    {
+      "id": "e9584ad5-b0f4-4d9e-81d3-7cf074ee4488",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "La siguiente figura muestra un grupo de aminoácidos. ¿Cuál de los siguientes aminoácidos es más probable encontrar en el interior compacto de una proteína?",
+      "image": "e9584ad5-b0f4-4d9e-81d3-7cf074ee4488.avif",
+      "options": [
+        {
+          "id": "608ec49b-87e4-47e5-85e6-45137b45e140",
+          "text": "Valina.",
+          "correct": true
+        },
+        {
+          "id": "eb008c7d-89e7-42c5-9eea-23167250a54b",
+          "text": "Arginina."
+        },
+        {
+          "id": "8183edee-7d38-4bfc-8cf3-6802087911e2",
+          "text": "Glutamato."
+        },
+        {
+          "id": "56a06528-4308-452c-8e90-064705d242f0",
+          "text": "Serina."
+        }
+      ]
+    },
+    {
+      "id": "a36968a8-d409-4b91-8e56-f1f71828db7b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "La siguiente figura muestra un grupo de aminoácidos. ¿Cuál de los siguientes aminoácidos es más probable que este interaccionando con un residuo de serina de otra proteína?",
+      "image": "a36968a8-d409-4b91-8e56-f1f71828db7b.avif",
+      "options": [
+        {
+          "id": "b0613ed4-cd1e-4b03-b06b-3cc71da0cb1e",
+          "text": "Arginina.",
+          "correct": true
+        },
+        {
+          "id": "3d55458d-0891-4173-81f0-697a228d5d35",
+          "text": "Alanina."
+        },
+        {
+          "id": "2deb5ef5-e8ea-45ef-a0c1-321d0118ba77",
+          "text": "Fenilalanina."
+        },
+        {
+          "id": "403270b0-43f8-4e51-91a4-002f27e21bd4",
+          "text": "Glicina."
+        },
+        {
+          "id": "494170f4-c159-4285-9124-c947185ad8f4",
+          "text": "Valina."
+        }
+      ]
+    },
+    {
+      "id": "64e4e071-9663-451a-9f2f-54c93aa72a7f",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "La siguiente figura muestra un grupo de aminoácidos. ¿Cuál de los siguientes aminoácidos puede tener un valor de pKR = 12,5?",
+      "image": "64e4e071-9663-451a-9f2f-54c93aa72a7f.avif",
+      "options": [
+        {
+          "id": "d93dd485-8b41-4b48-aa5e-e3ebdb2ab2ff",
+          "text": "Arginina.",
+          "correct": true
+        },
+        {
+          "id": "c927a292-6a35-4bb5-aa6f-624be3317bc5",
+          "text": "Alanina."
+        },
+        {
+          "id": "95db28e7-8961-46a0-b7ab-a71f3faba090",
+          "text": "Fenilalanina."
+        },
+        {
+          "id": "02e088fb-3fd4-47f3-8061-bcdc79720ab3",
+          "text": "Glutamato."
+        },
+        {
+          "id": "3c6e51bd-f6f2-4072-ba39-f4481040754a",
+          "text": "Valina."
+        }
+      ]
+    },
+    {
+      "id": "95916c15-688f-42be-a895-b27625c59990",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "La siguiente figura muestra un grupo de aminoácidos. ¿Qué tipo de interacción débil puede establecerse entre los grupos R de los aminoácidos valina y alanina, tal como están representados en la figura?",
+      "image": "95916c15-688f-42be-a895-b27625c59990.avif",
+      "options": [
+        {
+          "id": "92493ce9-e5f0-4113-b75a-cb047b2b6635",
+          "text": "Hidrofóbica.",
+          "correct": true
+        },
+        {
+          "id": "53c2f02d-99c7-441a-b7ff-560d59a91f8d",
+          "text": "Electrostática (o iónica)."
+        },
+        {
+          "id": "e56e7ed9-8605-4b68-bb29-ebb0b5e00b4c",
+          "text": "Enlace disulfuro."
+        },
+        {
+          "id": "2281fe68-c350-4eed-aa82-fd648db15af1",
+          "text": "Enlace peptídico."
+        },
+        {
+          "id": "15d0c148-71e7-44f9-bf66-5f7a45dc6633",
+          "text": "Puente de hidrógeno."
+        }
+      ]
+    },
+    {
+      "id": "af28c3cd-a355-4935-98d4-9a895980d46a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "Las hojas plegadas beta son un tipo de estructura muy común en las proteínas. Indique qué tipo de interacciones la estabilizan.",
+      "options": [
+        {
+          "id": "7491c833-83dd-4ff8-a159-ebbbe999c7d0",
+          "text": "Enlaces de hidrógeno entre átomos del enlace peptídico.",
+          "correct": true
+        },
+        {
+          "id": "df3ff2b3-dd53-4b7c-bc8a-be020bd93906",
+          "text": "Enlaces de hidrógeno entre átomos de los grupos de la cadena lateral o R."
+        },
+        {
+          "id": "889b7238-6117-435c-b3ea-de57aba09c2f",
+          "text": "Enlaces disulfuros."
+        },
+        {
+          "id": "cd1d4c28-7c42-4428-83d1-cf24efa5f25c",
+          "text": "Enlaces iónicos o electrostáticos."
+        },
+        {
+          "id": "25891661-b884-47a6-af61-7ae6b1e771ba",
+          "text": "Enlaces peptídicos."
+        }
+      ]
+    },
+    {
+      "id": "aae142fb-8c8b-45db-8e5d-9596a08ce946",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "Si a una proteína se le agrega un agente desnaturalizante, ¿qué nivel de su estructura se va a perder?",
+      "options": [
+        {
+          "id": "57347849-e9e0-4bf1-badc-dab171d1692f",
+          "text": "Estructura secundaria y terciaria.",
+          "correct": true
+        },
+        {
+          "id": "35cef64f-2d32-45bd-a8c7-9dbf27f26e9b",
+          "text": "Estructura primaria, secundaria y terciaria."
+        },
+        {
+          "id": "f1ff0222-3887-438e-9d43-07f13700ac94",
+          "text": "Estructura primaria."
+        },
+        {
+          "id": "6754b94e-e305-4d84-afec-e869aabb7575",
+          "text": "Estructura secundaria."
+        },
+        {
+          "id": "d32bc159-ebf5-46eb-955f-5f064c4c5805",
+          "text": "Estructura terciaria."
+        }
+      ]
+    },
+    {
+      "id": "4dd2e310-e2e0-4e68-a9aa-2bdbbcbd77ee",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "Si una célula humana se cultiva en presencia de desoxirribonucleótidos radiactivos en G1, cuando llegue a la metafase mitótica podrá detectarse radiactividad en:k",
+      "options": [
+        {
+          "id": "b790dc49-c761-4568-86f1-c708adde3755",
+          "text": "Ambas cromátidas hermanas de cada uno de los 46 cromosomas.",
+          "correct": true
+        },
+        {
+          "id": "1cf3c299-49a2-443f-b49b-398cbfa910fc",
+          "text": "Ambas cromátidas hermanas de solo uno de los cromosomas de cada par homólogo."
+        },
+        {
+          "id": "2b0fc1f7-e869-41a6-ae81-d588d8bbeb16",
+          "text": "Una de las dos cromátidas de solo uno de los cromosomas de cada par de homólogos."
+        },
+        {
+          "id": "c4b321cb-c8fe-4614-bf1d-b94f91e5cccc",
+          "text": "Una de las dos cromátidas hermanas de cada uno de los 46 cromosomas."
+        }
+      ]
+    },
+    {
+      "id": "642fe6b5-29e4-4c30-ade9-33591ad2745a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "Si una célula se divide por mitosis se obtendrán:",
+      "options": [
+        {
+          "id": "3c74ffc5-2484-4a6a-8882-90d59c94833e",
+          "text": "2 células hijas con la misma información genética que tenía la célula madre en G1.",
+          "correct": true
+        },
+        {
+          "id": "2db2929b-363c-4c25-9fe3-1bd6e208f344",
+          "text": "2 células hijas con el doble de la información genética que tenía la célula madre en G1."
+        },
+        {
+          "id": "35b95b59-7bec-444a-9b54-fc69e5712ddf",
+          "text": "2 células hijas con la mitad de la información genética que tenía la célula madre en G1."
+        },
+        {
+          "id": "fe0094b5-1536-4c5c-a461-15fd9d31a26a",
+          "text": "4 células hijas con la misma información genética que tenía la célula madre en G1."
+        }
+      ]
+    },
+    {
+      "id": "ce94463d-cf9e-4523-9f0e-17841bcc3171",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "Una célula haploide n = 12 puede provenir de una célula:",
+      "options": [
+        {
+          "id": "cfc5aca9-db7a-4c32-afa5-5be8bb1bfad3",
+          "text": "Diploide 2n = 24 que sufre meiosis.",
+          "correct": true
+        },
+        {
+          "id": "330d1115-dc77-4e59-959f-877ee776042e",
+          "text": "Diploide 2n = 12 que sufre mitosis."
+        },
+        {
+          "id": "f103ef02-f985-4453-b351-f26e68d81df8",
+          "text": "Haploide n = 12 que sufre meiosis."
+        },
+        {
+          "id": "9210fee5-1076-438b-93c2-d0fb10cff46b",
+          "text": "Haploide n = 24 que sufre mitosis."
+        }
+      ]
+    },
+    {
+      "id": "527a52a0-cc64-48db-9592-59912979a3ec",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "¿Cuál es el nombre abreviado del siguiente ácido graso?",
+      "image": "527a52a0-cc64-48db-9592-59912979a3ec.avif",
+      "options": [
+        {
+          "id": "b9549d6f-a8fd-445e-8e08-28659a718379",
+          "text": "16:1 cΔ9.",
+          "correct": true
+        },
+        {
+          "id": "e028f14a-c01a-4c20-b56f-a9c5a835d4cc",
+          "text": "16:0 ω-3."
+        },
+        {
+          "id": "c83d4305-889e-42f3-ac1f-8b1e2f20a02d",
+          "text": "16:0."
+        },
+        {
+          "id": "0133b2aa-175c-406c-8a7e-2c3f05449ed6",
+          "text": "16:1 cΔ7."
+        },
+        {
+          "id": "7adc93a2-8867-42a7-9c2f-9776a2e76398",
+          "text": "16:2 cΔ9,10."
+        }
+      ]
+    },
+    {
+      "id": "107a29a7-014b-4720-8eef-147c334c6fbd",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "¿Cuál son las características de la replicación del ADN?",
+      "options": [
+        {
+          "id": "aa59413e-f0c9-4aa2-b38e-39747ba0fbdd",
+          "text": "Complementaria, antiparalela, semiconservativa.",
+          "correct": true
+        },
+        {
+          "id": "da838da1-ef40-473a-8f5f-e1b1dfb3c0df",
+          "text": "Complementaria, antiparalela, conservativa."
+        },
+        {
+          "id": "0672a85b-04e3-4373-8f2b-341cd2d298b3",
+          "text": "Complementaria, paralela, conservativa."
+        },
+        {
+          "id": "0c6e6bfa-18c2-431b-9c55-1e8bfc5108fe",
+          "text": "Complementaria, paralela, semiconservativa."
+        }
+      ]
+    },
+    {
+      "id": "12dd2e87-75a4-476b-b53b-f428c3e5b82f",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "¿Cómo clasificaría el cromosoma de la imagen adjunta?",
+      "image": "12dd2e87-75a4-476b-b53b-f428c3e5b82f.avif",
+      "options": [
+        {
+          "id": "ac9f2e16-a635-4b67-aab3-37a80feede30",
+          "text": "Cromosoma metacéntrico.",
+          "correct": true
+        },
+        {
+          "id": "fc566835-b27d-4f96-9c80-54eda980bf45",
+          "text": "Cromosoma acrocéntrico."
+        },
+        {
+          "id": "0504e36a-4e81-45fc-8ec5-d244df3afab4",
+          "text": "Cromosoma submetacéntrico."
+        },
+        {
+          "id": "1296216e-5501-44ba-9d79-120022c34b2f",
+          "text": "Cromosoma telocéntrico."
+        }
+      ]
+    },
+    {
       "id": "261b48f6-65cf-491c-a107-ee1c42fbc21f",
       "evaluation": "parcial_1",
       "source": "partial",
