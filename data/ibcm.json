@@ -5,7 +5,7 @@
     "ibcm",
     "biologia"
   ],
-  "image": "ibcm.webp",
+  "image": "ibcm.avif",
   "year": 1,
   "order": 1,
   "questions": [
@@ -53,12 +53,12 @@
           "correct": true
         },
         {
-          "id": "d70f6d78-52a3-4aa6-a778-bada5e8d4050",
-          "text": "La reacción es termodinámicamente favorable en condiciones reales."
-        },
-        {
           "id": "87443627-296c-46e4-b072-51ac348734db",
           "text": "El ∆G°' es igual al ∆G real."
+        },
+        {
+          "id": "d70f6d78-52a3-4aa6-a778-bada5e8d4050",
+          "text": "La reacción es termodinámicamente favorable en condiciones reales."
         },
         {
           "id": "f98cf339-7130-433c-954f-8b21a0d25303",
@@ -380,20 +380,20 @@
           "correct": true
         },
         {
-          "id": "60149de0-56db-4465-9fe0-ce01056f8f9f",
-          "text": "Buffer C."
-        },
-        {
-          "id": "4305f060-0d17-4201-b506-89c1c0d7fe38",
-          "text": "Buffer F."
-        },
-        {
           "id": "01ae5e35-1d01-459c-864c-5892206f1e42",
           "text": "Buffer B."
         },
         {
+          "id": "60149de0-56db-4465-9fe0-ce01056f8f9f",
+          "text": "Buffer C."
+        },
+        {
           "id": "6bcd1b77-df9b-4462-8ad5-781a874a1633",
           "text": "Buffer E."
+        },
+        {
+          "id": "4305f060-0d17-4201-b506-89c1c0d7fe38",
+          "text": "Buffer F."
         }
       ]
     },
@@ -411,16 +411,16 @@
           "correct": true
         },
         {
-          "id": "f94613bc-dd53-4ead-9d4a-58ea0c29a1ed",
-          "text": "La velocidad de la reacción es 5 mM/min."
-        },
-        {
           "id": "a6d8c30a-47f1-4836-a7ff-c0811bae43fe",
           "text": "En el gráfico se mide la concentración del reactivo A en el tiempo."
         },
         {
           "id": "07e61c6b-8c2e-4244-886b-6eaf5aab6fee",
           "text": "La velocidad de la reacción es 0,5 M/min."
+        },
+        {
+          "id": "f94613bc-dd53-4ead-9d4a-58ea0c29a1ed",
+          "text": "La velocidad de la reacción es 5 mM/min."
         },
         {
           "id": "89b1df70-ff72-41fb-805b-e122517ec87e",
@@ -472,16 +472,16 @@
           "correct": true
         },
         {
-          "id": "a4f90b98-f9f2-41a2-8268-0fec02842fb6",
-          "text": "Las bases nitrogenadas son un componente esencial de las membranas plasmáticas."
-        },
-        {
           "id": "b3a620b4-b31d-4ce1-b559-589b9aa5a39f",
           "text": "El colesterol forma parte de la estructura secundaria de proteínas."
         },
         {
           "id": "0d1c84e2-2095-4489-b5c7-9c880bd40f72",
           "text": "La desoxiribosa es un lípido de membrana anfipático."
+        },
+        {
+          "id": "a4f90b98-f9f2-41a2-8268-0fec02842fb6",
+          "text": "Las bases nitrogenadas son un componente esencial de las membranas plasmáticas."
         },
         {
           "id": "992e253c-ec80-42fa-9e94-47a8e0f2c04a",
@@ -655,16 +655,16 @@
           "correct": true
         },
         {
-          "id": "2f2c7b55-128a-4afd-8131-e3173af23e70",
-          "text": "La proteína B no presenta estructuras secundarias."
-        },
-        {
           "id": "67c9d67b-5d35-4324-a487-a66fe96a43bc",
           "text": "La proteína A no presenta estructura cuaternaria."
         },
         {
           "id": "b6524a11-fdef-430b-be9d-38ccc36b45d3",
           "text": "La proteína A presenta solo hojas beta."
+        },
+        {
+          "id": "2f2c7b55-128a-4afd-8131-e3173af23e70",
+          "text": "La proteína B no presenta estructuras secundarias."
         },
         {
           "id": "1a690e2f-0595-455b-b00b-57e0f480bf1d",
@@ -806,12 +806,12 @@
           "correct": true
         },
         {
-          "id": "fbde1dc5-3aec-4e8f-a112-39e3c113ece7",
-          "text": "10,0."
-        },
-        {
           "id": "4f7f2ebf-10c7-467a-91e0-831516413aa9",
           "text": "0,3."
+        },
+        {
+          "id": "fbde1dc5-3aec-4e8f-a112-39e3c113ece7",
+          "text": "10,0."
         },
         {
           "id": "984b609b-dc00-452e-b502-d5dedadb23b4",
@@ -836,10 +836,6 @@
           "correct": true
         },
         {
-          "id": "484c089a-1f9a-4d17-9d22-c78641c7a3d6",
-          "text": "1 x 10^4 M."
-        },
-        {
           "id": "ab9d887a-d3e2-4921-899c-28ee73172334",
           "text": "1 x 10^-14 M."
         },
@@ -850,6 +846,10 @@
         {
           "id": "80008b8a-6cb5-44ac-83c4-d4bca303af39",
           "text": "1 x 10^12 M."
+        },
+        {
+          "id": "484c089a-1f9a-4d17-9d22-c78641c7a3d6",
+          "text": "1 x 10^4 M."
         }
       ]
     },
@@ -870,12 +870,12 @@
           "text": "142%."
         },
         {
-          "id": "b961a746-07e8-49b5-9cb5-62e980a8c065",
-          "text": "86.8%."
-        },
-        {
           "id": "c68a28eb-e67a-4026-a2b1-d97e0647b88c",
           "text": "42%."
+        },
+        {
+          "id": "b961a746-07e8-49b5-9cb5-62e980a8c065",
+          "text": "86.8%."
         },
         {
           "id": "78a1cd0b-5820-4e75-9b23-f478da0cf04f",
