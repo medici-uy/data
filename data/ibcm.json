@@ -1,0 +1,923 @@
+{
+  "name": "Introducción a la Biología Celular y Molecular",
+  "short_name": "IBCM",
+  "aliases": [
+    "ibcm",
+    "biologia"
+  ],
+  "image": "ibcm.webp",
+  "year": 1,
+  "order": 1,
+  "questions": [
+    {
+      "id": "5eb3585f-1adb-41bd-9634-cd7514f79627",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-29",
+      "text": "Considerando las interacciones polares que puedan establecer los siguientes aminoácidos con el agua y la hidrofobicidad de su cadena lateral, marque la opción correcta de acuerdo a su tendencia a interaccionar con el agua:",
+      "image": "5eb3585f-1adb-41bd-9634-cd7514f79627.avif",
+      "options": [
+        {
+          "id": "53458a24-0c77-4e54-b13b-6f4db7d07607",
+          "text": "D establece menos interacciones con el agua que F.",
+          "correct": true
+        },
+        {
+          "id": "f0443577-dde5-4673-a0a8-48bb3e221438",
+          "text": "A establece menos interacciones con el agua que B."
+        },
+        {
+          "id": "49cb49ac-9789-464f-9fc1-2a9f89c57b00",
+          "text": "A establece menos interacciones con el agua que D."
+        },
+        {
+          "id": "a6a9d0b7-e23b-4cc6-bedd-c4dacd1d2ff2",
+          "text": "C establece menos interacciones con el agua que F."
+        },
+        {
+          "id": "bcec5181-cc53-46de-a294-3c5cdeb9560f",
+          "text": "E establece menos interacciones con el agua que D."
+        }
+      ]
+    },
+    {
+      "id": "8ceba5d9-3cf0-4246-8365-1df9ec38aa20",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-29",
+      "text": "Dada la reacción: A + B → C, ∆G°' = +62 KJ/mol, y siendo las concentraciones de reactivos y productos: [A] = 1 x 10^-3 M, [B] = 10 x 10^-3 M, [C] = 1 x 10^-3 M. RT = 2.479 kJ/mol. Indique cuál de las afirmaciones referidas a la reacción y su ∆G en las condiciones planteadas es correcta:",
+      "options": [
+        {
+          "id": "f8ed17ec-ee7a-4490-a638-760bdf9983fd",
+          "text": "En condiciones estándar la energía libre de los reactivos es menor que la energía libre de los productos.",
+          "correct": true
+        },
+        {
+          "id": "d70f6d78-52a3-4aa6-a778-bada5e8d4050",
+          "text": "La reacción es termodinámicamente favorable en condiciones reales."
+        },
+        {
+          "id": "87443627-296c-46e4-b072-51ac348734db",
+          "text": "El ∆G°' es igual al ∆G real."
+        },
+        {
+          "id": "f98cf339-7130-433c-954f-8b21a0d25303",
+          "text": "La reacción es termodinámicamente favorable o espontánea en condiciones estándar."
+        },
+        {
+          "id": "6f0bcd38-b5d6-4a6e-8641-a9a3090d68d2",
+          "text": "La relación de acción de masas (Q) es igual a 0.1."
+        }
+      ]
+    },
+    {
+      "id": "b3e0d8f2-6290-4704-a13f-3fc27b650e26",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-29",
+      "text": "Dadas las siguientes reacciones con sus respectivas constantes de equilibrio (Keq): 1: A → Y + B Keq = 1.77 x10⁻². 2: X + Y → C Keq = 3.19 x10³. RT = 2.479 kJ/mol. Marque la opción correcta",
+      "options": [
+        {
+          "id": "6a459596-a3cb-4538-81a9-381cb961944a",
+          "text": "El ∆G°' de la reacción 2 es -20 kJ/mol.",
+          "correct": true
+        },
+        {
+          "id": "37149f3d-abaa-4fae-83ca-75a6c7017833",
+          "text": "El ∆G°' de la reacción acoplada es mayor a 0."
+        },
+        {
+          "id": "68371fef-22e5-46d4-b081-ce706434efad",
+          "text": "La reacción 2 es endergónica (no espontánea) en condiciones estándar."
+        },
+        {
+          "id": "bff61339-1cab-4ee1-b75c-200ba5d8235f",
+          "text": "La reacción acoplada corresponde a la ecuación: A + Y → B + C."
+        },
+        {
+          "id": "34b08475-de63-495c-916c-df9d4fe4168b",
+          "text": "Para calcular el ∆G°' de la reacción acoplada, se dividen los ∆G°' de las reacciones 1 y 2."
+        }
+      ]
+    },
+    {
+      "id": "784ce50e-15d9-4a01-a4d0-ea70ecc07f88",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-29",
+      "text": "Dado los siguientes pares de soluciones marque la opción correcta. Proteína fluorescente verde 0.3 M y NaHCO₃ 0.15 M.",
+      "options": [
+        {
+          "id": "648b8682-e7bf-4809-8ad8-77a8e0da4234",
+          "text": "La osmolaridad de una solución de proteína fluorescente verde 0.3 M + NaHCO₃ 0.15 M es 0.6 Osm.",
+          "correct": true
+        },
+        {
+          "id": "58ddb369-c0d1-4df5-8e6a-427ad6fa1d19",
+          "text": "La osmolaridad de una solución de NaHCO₃ 0.15 M es menor que la de la proteína fluorescente verde 0.3 M."
+        },
+        {
+          "id": "da3146d5-753e-42e3-b295-fc968e460daa",
+          "text": "Los glóbulos rojos se lisarán si se les agrega una solución de proteína fluorescente verde 0.3 M."
+        },
+        {
+          "id": "3c88d770-4f76-4904-b809-341061d8020a",
+          "text": "Una solución de NaHCO₃ 0.15 M es hipertónica respecto al plasma."
+        },
+        {
+          "id": "ffeeaef9-c41f-4690-9795-b1c5be3a7d3f",
+          "text": "Una solución de proteína fluorescente verde 0.3 M + NaHCO₃ 0.15 M es isotónica respecto al plasma."
+        }
+      ]
+    },
+    {
+      "id": "b02103bf-cefc-4045-acc7-01333331ff1f",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-29",
+      "text": "Determine el valor de pH de una solución 0,0025 M de ácido peroxinitroso (ONOOH), sabiendo que su pKa es 6,8 y su Ka es 1,58 x 10^-7.",
+      "options": [
+        {
+          "id": "4b90af53-7820-470f-a98a-70b522b1fb41",
+          "text": "4,7.",
+          "correct": true
+        },
+        {
+          "id": "98374840-e427-41e2-863b-205b94ed2397",
+          "text": "2,5."
+        },
+        {
+          "id": "86f5dfff-1f22-4124-a9b1-fe987ba3ddd6",
+          "text": "3,9."
+        },
+        {
+          "id": "360f0482-1e13-4bd7-89ba-84cd374694d4",
+          "text": "6,8."
+        },
+        {
+          "id": "b689bb5b-4a86-4732-bec5-0f2a911bbea7",
+          "text": "8,0."
+        }
+      ]
+    },
+    {
+      "id": "1937e72d-0e40-4a35-b648-2dfa6f1c40c4",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-29",
+      "text": "Durante el proceso evolutivo se ha seleccionado al ADN como molécula para guardar nuestra información genética, la selección de esta podría haber sido favorecida porque:",
+      "options": [
+        {
+          "id": "864820bc-c3c9-4293-8817-7c0fb283a290",
+          "text": "La desoxirribosa que conforma cada nucleótido y su estructura en forma de doble hélice le dan estabilidad frente a la molécula de ARN.",
+          "correct": true
+        },
+        {
+          "id": "a784f498-63bc-474a-8dec-2989a2606158",
+          "text": "La desoxirribosa que conforma cada nucleótido y su estructura en forma de cadena simple le dan estabilidad frente a la molécula de ARN."
+        },
+        {
+          "id": "b920258a-7f1d-460f-ae4e-ce07f1423828",
+          "text": "La ribosa que conforma cada nucleótido y su estructura en forma de cadena simple le dan estabilidad frente a la molécula de ARN."
+        },
+        {
+          "id": "66cbbec2-0017-4492-85c1-4e8d48c660ce",
+          "text": "La ribosa que conforma cada nucleótido y su estructura en forma de doble hélice le dan estabilidad frente a la molécula de ARN."
+        }
+      ]
+    },
+    {
+      "id": "e6ae82ef-dcd5-4eb6-93c8-a3f79f47ecbd",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-29",
+      "text": "Durante la replicación la generación del enlace fosfodiéster requiere que el último nucleótido incorporado presente un grupo:",
+      "options": [
+        {
+          "id": "41aef422-18ca-4ff2-9556-d2ba44f1ce8b",
+          "text": "Hidroxilo en el carbono 3' de la desoxirribosa.",
+          "correct": true
+        },
+        {
+          "id": "5880cfc5-3352-49bc-8552-16b3ee37be4b",
+          "text": "Fosfato en el carbono 5' de la desoxirribosa."
+        },
+        {
+          "id": "a1e6ef25-11f0-4ac9-b500-3c237c5bbf56",
+          "text": "Fosfato en el carbono 5' de la ribosa."
+        },
+        {
+          "id": "f21d109a-337d-4d0f-bbb3-15ae051603f8",
+          "text": "Hidroxilo en el carbono 3' de la ribosa."
+        }
+      ]
+    },
+    {
+      "id": "b1fe151d-b820-48b3-8fd6-b09c6736af11",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-29",
+      "text": "En cuanto al plegamiento de las proteínas en su estructura nativa, indique cual es la opción correcta:",
+      "options": [
+        {
+          "id": "140665ce-603b-443e-82ee-1d8d179a1054",
+          "text": "Las proteínas fibrosas cuentan con un solo tipo de estructura secundaria.",
+          "correct": true
+        },
+        {
+          "id": "dbfb73ae-2a58-45bc-868c-f487a9b08b99",
+          "text": "Cualquier secuencia de aminoácidos puede formar una hélice alfa."
+        },
+        {
+          "id": "70576396-4e9f-41aa-8861-5e749775b4ca",
+          "text": "La conformación nativa es aquella que posee mayor energía."
+        },
+        {
+          "id": "902c9bb0-0016-40aa-a05e-0dbb93299a57",
+          "text": "Todas las proteínas son capaces de plegarse espontáneamente por sí mismas en las células."
+        },
+        {
+          "id": "ad7ce41d-8419-4344-b0c7-0c054a2484de",
+          "text": "Todos los enlaces que forman los péptidos giran libremente."
+        }
+      ]
+    },
+    {
+      "id": "fe71f148-cfa7-4010-9d79-a4b4e5c9b600",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-29",
+      "text": "En la figura la flecha que se señala con la letra A muestra:",
+      "image": "fe71f148-cfa7-4010-9d79-a4b4e5c9b600.avif",
+      "options": [
+        {
+          "id": "6b8ac32e-e11c-45e6-ac87-222a8350491a",
+          "text": "El N-glicosídicos entre la desoxirribosa y una pirimidina.",
+          "correct": true
+        },
+        {
+          "id": "1a66a105-aecb-4408-973e-2ce47160506b",
+          "text": "El enlace N-glicosídico entre la desoxirribosa y una purina."
+        },
+        {
+          "id": "483a1ea2-7175-436f-ab3f-5588f30acaa6",
+          "text": "El enlace N-glicosídico entre la ribosa y una pirimidina."
+        },
+        {
+          "id": "e186f956-17d7-475a-953c-bd875041e2c7",
+          "text": "El enlace N-glicosídico entre la ribosa y una purina."
+        },
+        {
+          "id": "069b840e-4fd3-43dd-9932-6e218b1093cf",
+          "text": "Los puentes de hidrógeno entre las bases nitrogenadas."
+        }
+      ]
+    },
+    {
+      "id": "6201fc0b-12ed-44dc-9e42-97e23fc7a52c",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-29",
+      "text": "En la figura pueden observar la curva de titulación de un aminoácido cuyos pkas son: pKa1 = 2.0; pKaR = 3.9; pKa2 = 9.8. Marque la opción correcta.",
+      "image": "6201fc0b-12ed-44dc-9e42-97e23fc7a52c.avif",
+      "options": [
+        {
+          "id": "1f98a841-0247-4873-9ae2-9f705d92c59a",
+          "text": "En el punto C se ubica el punto isoeléctrico del aminoácido.",
+          "correct": true
+        },
+        {
+          "id": "4fc00c3d-44e0-4743-9b1b-7d9e388727ce",
+          "text": "El punto E es el punto final de la titulación del protón del grupo amino unido al carbono alfa."
+        },
+        {
+          "id": "52923ae2-a9c6-4b48-87c0-43ca9d11f799",
+          "text": "En el punto D el pH es igual a pKa1, y es el punto final de la titulación del protón del carboxilo unido al carbono alfa."
+        },
+        {
+          "id": "b3d5c9b4-fbd7-4abd-b65d-7842f872748e",
+          "text": "En el punto F se encuentra el aminoácido 100% como ion dipolar o zwitterión."
+        },
+        {
+          "id": "ab7936db-5540-4350-b2ca-f2598af9b594",
+          "text": "Entre los puntos A y B predomina la forma totalmente desprotonada del aminoácido."
+        }
+      ]
+    },
+    {
+      "id": "895f186c-7f78-4973-a186-061b65e4123d",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-29",
+      "text": "En la figura se representa la curva de titulación de un ácido triprótico H₃A. Indique la opción correcta:",
+      "image": "895f186c-7f78-4973-a186-061b65e4123d.avif",
+      "options": [
+        {
+          "id": "caf7103d-24d1-4e22-bbcf-78e5b3373174",
+          "text": "El punto B corresponde al valor de pKa1.",
+          "correct": true
+        },
+        {
+          "id": "cdb23bbf-99e4-4c08-ad84-2c6859ca764f",
+          "text": "A pH 11.0 se encuentra el punto final de la titulación."
+        },
+        {
+          "id": "b3635991-ba7a-439d-b062-b68f2d8e9d38",
+          "text": "El punto E corresponde al valor de pKa3."
+        },
+        {
+          "id": "aa47f295-ec24-4374-a5ce-56b98689cae5",
+          "text": "En el punto C, [H₃A] > [H₂A⁻]."
+        },
+        {
+          "id": "0f120571-7733-44c7-aecc-6bb01cadb5a5",
+          "text": "En el punto E, [A³⁻] > [HA²⁻]."
+        }
+      ]
+    },
+    {
+      "id": "544685ee-e1b0-4fd1-b2d5-dae23799e2da",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-29",
+      "text": "En la siguiente figura se representa una molécula aislada de membranas celulares. Indique la opción correcta:",
+      "image": "544685ee-e1b0-4fd1-b2d5-dae23799e2da.avif",
+      "options": [
+        {
+          "id": "7dfed88f-4e8c-4e3f-91d2-c00d3e14263e",
+          "text": "La molécula es un glicerofosfolípido.",
+          "correct": true
+        },
+        {
+          "id": "429d1ab1-6e14-4dd9-a809-b409fdd570a2",
+          "text": "La molécula es el colesterol."
+        },
+        {
+          "id": "61e1919f-7772-46fb-a400-885062f1aae1",
+          "text": "La molécula es un esfingolípido."
+        },
+        {
+          "id": "8ec301c5-7062-4df9-9a2e-69be79684354",
+          "text": "La molécula es un glucoesfingolípido."
+        },
+        {
+          "id": "6d53fbfc-b924-474e-afa5-1a6d24b86fab",
+          "text": "La molécula es un triacilglicérido."
+        }
+      ]
+    },
+    {
+      "id": "a5487431-6fc5-48b8-bdae-3ac667ace365",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-29",
+      "text": "En la tabla se presentan 6 soluciones amortiguadoras (buffers). Los buffers A y B fueron preparados con una mezcla de un ácido débil (pKa 2,5) y su base conjugada. Los buffers C y D con una mezcla de otro ácido débil (pKa 4,8) y su base conjugada. Los buffers E y F con una mezcla de un ácido débil (pKa 7,6) y su base conjugada. Indique cuál de los buffers tiene mayor capacidad para amortiguar el pH de una reacción que tiene lugar a pH 2,5:",
+      "image": "a5487431-6fc5-48b8-bdae-3ac667ace365.avif",
+      "options": [
+        {
+          "id": "c082ade7-e59e-4046-a1e0-fb1411055faa",
+          "text": "Buffer A.",
+          "correct": true
+        },
+        {
+          "id": "60149de0-56db-4465-9fe0-ce01056f8f9f",
+          "text": "Buffer C."
+        },
+        {
+          "id": "4305f060-0d17-4201-b506-89c1c0d7fe38",
+          "text": "Buffer F."
+        },
+        {
+          "id": "01ae5e35-1d01-459c-864c-5892206f1e42",
+          "text": "Buffer B."
+        },
+        {
+          "id": "6bcd1b77-df9b-4462-8ad5-781a874a1633",
+          "text": "Buffer E."
+        }
+      ]
+    },
+    {
+      "id": "b19f78b0-3657-4d67-a504-8a27626c5d25",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-29",
+      "text": "En relación a la cinética química, consideremos una reacción hipotética de transformación del reactivo A en el producto B. A → B. La velocidad de esta reacción se determinó de forma experimental y se obtuvo el resultado que se indica en la siguiente figura:",
+      "image": "b19f78b0-3657-4d67-a504-8a27626c5d25.avif",
+      "options": [
+        {
+          "id": "ec5b82ca-cced-4b37-9088-6ed0eb6f5b5d",
+          "text": "La velocidad de la reacción es 5 M/s.",
+          "correct": true
+        },
+        {
+          "id": "f94613bc-dd53-4ead-9d4a-58ea0c29a1ed",
+          "text": "La velocidad de la reacción es 5 mM/min."
+        },
+        {
+          "id": "a6d8c30a-47f1-4836-a7ff-c0811bae43fe",
+          "text": "En el gráfico se mide la concentración del reactivo A en el tiempo."
+        },
+        {
+          "id": "07e61c6b-8c2e-4244-886b-6eaf5aab6fee",
+          "text": "La velocidad de la reacción es 0,5 M/min."
+        },
+        {
+          "id": "89b1df70-ff72-41fb-805b-e122517ec87e",
+          "text": "La velocidad de la reacción es 50 mM/s."
+        }
+      ]
+    },
+    {
+      "id": "d6a36d00-9379-4486-83f2-7987c871830a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-29",
+      "text": "En relación a las características estructurales de los glúcidos y de acuerdo a la siguiente figura, indique la opción correcta:",
+      "image": "d6a36d00-9379-4486-83f2-7987c871830a.avif",
+      "options": [
+        {
+          "id": "635b33dd-5dd3-437f-be4b-43bd61a7b590",
+          "text": "Todos los monosacáridos representados en la figura tienen la misma fórmula general (CH2O)6.",
+          "correct": true
+        },
+        {
+          "id": "51f1b271-73a3-4757-ac14-78a0732a094d",
+          "text": "El monosacárido E es una cetopentosa y no se puede ciclar."
+        },
+        {
+          "id": "36ee26a7-3b41-4945-ba20-847cd4d99f74",
+          "text": "El monosacárido E no presenta carbonos asimétricos."
+        },
+        {
+          "id": "dfc71e4c-e162-4801-bf70-e9a7be764238",
+          "text": "Los monosacáridos A y B se ciclan en forma de furano (anillos de cinco eslabones)."
+        },
+        {
+          "id": "6610c9d9-23ab-4045-b0ba-a06dd70f8244",
+          "text": "Los monosacáridos A, B, C y D son D-cetosas."
+        }
+      ]
+    },
+    {
+      "id": "28ddedd1-6c07-4dd9-a0a8-b4a04bf09880",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-29",
+      "text": "En relación a los tipos de biomoléculas y su función, indique la opción correcta:",
+      "options": [
+        {
+          "id": "0c56b290-f93f-4344-a807-fe9cb2afebb0",
+          "text": "Los fosfolípidos son componentes estructurales de las membranas plasmáticas.",
+          "correct": true
+        },
+        {
+          "id": "a4f90b98-f9f2-41a2-8268-0fec02842fb6",
+          "text": "Las bases nitrogenadas son un componente esencial de las membranas plasmáticas."
+        },
+        {
+          "id": "b3a620b4-b31d-4ce1-b559-589b9aa5a39f",
+          "text": "El colesterol forma parte de la estructura secundaria de proteínas."
+        },
+        {
+          "id": "0d1c84e2-2095-4489-b5c7-9c880bd40f72",
+          "text": "La desoxiribosa es un lípido de membrana anfipático."
+        },
+        {
+          "id": "992e253c-ec80-42fa-9e94-47a8e0f2c04a",
+          "text": "Los triacilgliceroles son precursores de las proteínas."
+        }
+      ]
+    },
+    {
+      "id": "a1914a57-3895-458d-87cc-d8052a24cb31",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-29",
+      "text": "En una solución de buffer fosfato y teniendo en cuenta los valores del pKa del ácido fosfórico (H₃PO₄), ¿cuál(es) de las especies encontrará a pH 6,8 y en qué proporción? Datos: pKa1 = 2,12; pKa2 = 6,8; pKa3 = 12,31.",
+      "options": [
+        {
+          "id": "5c86ae75-ccb5-4aec-b4cb-6038d5626ae3",
+          "text": "50% de [H₂PO₄⁻] y 50% de [HPO₄²⁻].",
+          "correct": true
+        },
+        {
+          "id": "7a4f832f-d750-4e4a-94fc-b3a53eb1e87f",
+          "text": "100% de [H₂PO₄⁻]."
+        },
+        {
+          "id": "addf4ab7-effd-4b1f-9a67-3f6b3caf2ae8",
+          "text": "100% de [PO₄³⁻]."
+        },
+        {
+          "id": "3e3155cd-fcdf-4ac3-a39d-7a78f95c955f",
+          "text": "25% de [H₂PO₄⁻] y 75% de [HPO₄²⁻]."
+        },
+        {
+          "id": "4e7ce086-ea64-4bf2-88e1-32f5c6a96480",
+          "text": "50% de [HPO₄²⁻] y 50% de [PO₄³⁻]."
+        }
+      ]
+    },
+    {
+      "id": "c8f54743-7b02-46cb-83c6-d0d50102e874",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-29",
+      "text": "Indique cuál es el valor de pH de una solución que contiene ácido benzoico (C₆H₅COOH) 80 mM y benzoato de sodio (C₆H₅COO⁻) 120 mM. Dato: el valor de pKa es 4,18 y Ka = 6,6x10⁻⁵.",
+      "options": [
+        {
+          "id": "17359b97-3f12-4d6c-afe2-54c3e6dbe8e4",
+          "text": "4,36.",
+          "correct": true
+        },
+        {
+          "id": "3e4faa9d-a0a1-4b24-b5c1-ab24895540d3",
+          "text": "3,73."
+        },
+        {
+          "id": "9103cb06-01fe-4ba4-8178-49d8d7c7d7b5",
+          "text": "5,18."
+        },
+        {
+          "id": "68e1e31f-cf9e-419c-8ba2-6b2177a17105",
+          "text": "6,80."
+        },
+        {
+          "id": "ed7cff0c-575f-489b-a0f7-87abd739d06e",
+          "text": "7,35."
+        }
+      ]
+    },
+    {
+      "id": "70b364fb-4f22-4755-ba89-6d0989f74f5a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-29",
+      "text": "Indique la secuencia de ARN complementaria a 5'-TAGGCTAGC-3':",
+      "options": [
+        {
+          "id": "dd205e48-cc15-4edd-9565-4ef7a661124f",
+          "text": "5'-GCUAGCCUA-3'.",
+          "correct": true
+        },
+        {
+          "id": "c3bfbe99-29ba-4e38-ad74-f2132b954485",
+          "text": "5'-ATCCGATCG-3'."
+        },
+        {
+          "id": "837f8f4c-b916-46e6-9050-362944f10d8f",
+          "text": "5'-AUCCGAUCG-3'."
+        },
+        {
+          "id": "9784590b-6c17-448e-a10b-4752a403e622",
+          "text": "5'-GCTAGCCTA-3'."
+        },
+        {
+          "id": "60062a47-1f47-40a7-bd57-fe7fa7ce014c",
+          "text": "5'-TAGGCTAGC-3'."
+        }
+      ]
+    },
+    {
+      "id": "b0d7c9bc-8c3a-4293-a261-ee212463ad33",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-29",
+      "text": "Marque la opción correcta acerca del péptido de la figura:",
+      "image": "b0d7c9bc-8c3a-4293-a261-ee212463ad33.avif",
+      "options": [
+        {
+          "id": "8b0c5d89-8598-430a-8a83-5e4627d31281",
+          "text": "El aminoácido carboxilo terminal es un aminoácido que pertenece al grupo de aminoácidos polares con carga positiva.",
+          "correct": true
+        },
+        {
+          "id": "e09423d5-a010-41a3-b9a7-4372b5f4e145",
+          "text": "4 de los aminoácidos pertenecen al grupo de aminoácidos polares con carga."
+        },
+        {
+          "id": "79d1f2a3-4c15-422c-a59b-f26e8beeac8d",
+          "text": "El enlace que une los aminoácidos es un enlace O- glucosídico."
+        },
+        {
+          "id": "a034ec9d-05c4-4d4e-87ae-079d553e65ec",
+          "text": "Este péptido no presenta extremo carboxilo terminal."
+        },
+        {
+          "id": "42321ea0-04c8-4fdc-b99f-d7474ca946ac",
+          "text": "Está formado por 5 aminoácidos unidos por 5 enlaces peptídicos."
+        }
+      ]
+    },
+    {
+      "id": "0ae8d92a-0fce-4407-9759-7d8f5a941680",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-29",
+      "text": "Marque la opción correcta acerca del péptido que esta dibujado. Datos: pKa N-terminal = 10, pKa C-terminal = 2.2, pKa R-lisina = 10.8, pKa R-aspártico = 3.9, pKa R-histidina = 6.0.",
+      "image": "0ae8d92a-0fce-4407-9759-7d8f5a941680.avif",
+      "options": [
+        {
+          "id": "c01ded79-e74a-4c39-a34b-210727de93fd",
+          "text": "La carga del péptido entre pH 4-5 es +1.",
+          "correct": true
+        },
+        {
+          "id": "86d270b9-fe6f-47b2-9291-043c06fed220",
+          "text": "El grupo R de la histidina se encuentra protonado a pH 8."
+        },
+        {
+          "id": "f53487d7-662d-48d8-8408-17845b41055c",
+          "text": "El péptido representado se encuentra a pH 7."
+        },
+        {
+          "id": "d0dd8d8a-3e7f-43e6-9363-b4d40ecf09f3",
+          "text": "La carga del péptido a pH 2 es +1."
+        },
+        {
+          "id": "fdf21006-a36d-442e-a64f-e4527b0c9976",
+          "text": "La carga del péptido en el rango de pH entre 7-9 es -1."
+        }
+      ]
+    },
+    {
+      "id": "cb5c87b2-81d2-40ec-985c-217e7ff697b2",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-29",
+      "text": "Marque la opción correcta sobre la estructura de las proteínas A y B.",
+      "image": "cb5c87b2-81d2-40ec-985c-217e7ff697b2.avif",
+      "options": [
+        {
+          "id": "c3cf38ea-ad2b-4de9-8f74-d457bd297718",
+          "text": "La proteína B no presenta estructura cuaternaria.",
+          "correct": true
+        },
+        {
+          "id": "2f2c7b55-128a-4afd-8131-e3173af23e70",
+          "text": "La proteína B no presenta estructuras secundarias."
+        },
+        {
+          "id": "67c9d67b-5d35-4324-a487-a66fe96a43bc",
+          "text": "La proteína A no presenta estructura cuaternaria."
+        },
+        {
+          "id": "b6524a11-fdef-430b-be9d-38ccc36b45d3",
+          "text": "La proteína A presenta solo hojas beta."
+        },
+        {
+          "id": "1a690e2f-0595-455b-b00b-57e0f480bf1d",
+          "text": "La proteína B presenta solo hélices alfa."
+        }
+      ]
+    },
+    {
+      "id": "29d4d872-d288-42d1-930f-f2182cb6e546",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-29",
+      "text": "Respecto a la siguiente molécula y de acuerdo a sus grupos funcionales tal como se presentan en la figura, indique la opción correcta:",
+      "image": "29d4d872-d288-42d1-930f-f2182cb6e546.avif",
+      "options": [
+        {
+          "id": "2656e18c-bf79-42a8-a072-912f70a17263",
+          "text": "El grupo funcional D puede establecer una interacción de tipo carga-dipolo con el agua.",
+          "correct": true
+        },
+        {
+          "id": "7cee8327-e963-4e4f-b9df-45994c46a916",
+          "text": "El grupo funcional B puede formar puentes de hidrógeno solo como dador de H."
+        },
+        {
+          "id": "623066f1-07d3-49fe-bf2e-b8fba3984721",
+          "text": "El grupo funcional B puede formar una interacción iónica o electrostática de atracción con otro grupo funcional con carga negativa."
+        },
+        {
+          "id": "fa579aca-1ddc-4aa2-9b6b-2e7aae6ad193",
+          "text": "El grupo funcional C puede formar puentes de hidrógeno."
+        },
+        {
+          "id": "e00a51b9-7d3f-44f6-b929-3f06461d171b",
+          "text": "Los grupos funcionales A, B y D son apolares o hidrofóbicos."
+        }
+      ]
+    },
+    {
+      "id": "ee1cc776-c007-4618-bd8d-b8bf10a0dc1b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-29",
+      "text": "Respecto a los enlaces de hidrógeno, indique la opción correcta:",
+      "options": [
+        {
+          "id": "50abc2a0-244c-4e5d-9acb-8162ed3f0208",
+          "text": "El átomo electronegativo al cual el hidrógeno está unido covalentemente, es el átomo dador de hidrógeno.",
+          "correct": true
+        },
+        {
+          "id": "96666b24-2ffb-431c-bc7a-4b27b4e50cd2",
+          "text": "El enlace C-H favorece la formación de enlaces de hidrógeno."
+        },
+        {
+          "id": "793f61f0-b064-45d7-a94a-07c075365694",
+          "text": "Es un enlace covalente que se forma entre dos moléculas polares."
+        },
+        {
+          "id": "00733b42-fde8-489d-87b1-ab52c4835664",
+          "text": "Se forman entre grupos apolares."
+        },
+        {
+          "id": "7964f781-71f1-4659-ac3c-54f83574b4b3",
+          "text": "Se forman exclusivamente entre moléculas de agua."
+        }
+      ]
+    },
+    {
+      "id": "f84f183d-2746-4bd9-a5af-70742b6600b0",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-29",
+      "text": "Respecto al agua y sus propiedades, indique la opción correcta:",
+      "options": [
+        {
+          "id": "62be3e7f-b4ba-4e67-82c4-3d99306ffdc0",
+          "text": "En el agua, la concentración de H+ es igual a la de OH-.",
+          "correct": true
+        },
+        {
+          "id": "61b23053-7a1b-4b22-8ed6-052d498c5a3d",
+          "text": "El enlace iónico es el responsable de mantener la asociación entre las moléculas de agua en el agua líquida."
+        },
+        {
+          "id": "daf4e6de-9bf1-4419-8777-b966a447a3a1",
+          "text": "La molécula de agua es de naturaleza apolar."
+        },
+        {
+          "id": "e2c37295-9cb0-49ca-bfe6-b9ddaa40cd15",
+          "text": "La molécula de agua establece puentes de hidrógeno solo como aceptor de H."
+        },
+        {
+          "id": "d62616b9-45ff-45ee-b80e-c3aa497b636a",
+          "text": "Las moléculas de agua interaccionan entre si a través de enlaces covalentes."
+        }
+      ]
+    },
+    {
+      "id": "ec2f0b45-ef52-460b-ab88-e58f5328d121",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-29",
+      "text": "Se realiza una electroforesis a pH 6 de una mezcla de aminoácidos: glicina (PI 5,97), valina (PI 5,96), tirosina (PI 5,66), aspartato (PI 2,77), glutamato (PI 3,22), arginina (PI 10,76). Indique cuál de los siguientes se acercará más al cátodo (-):",
+      "options": [
+        {
+          "id": "5e0f10db-4cc4-4176-84fc-b679a236c5c0",
+          "text": "Arginina.",
+          "correct": true
+        },
+        {
+          "id": "8de36514-e0f8-453a-9594-68d2379dc485",
+          "text": "Glicina."
+        },
+        {
+          "id": "f6ba3d66-fe29-446e-9dfb-3f1ad47ef58a",
+          "text": "Glutamato."
+        },
+        {
+          "id": "f755a796-574c-41b6-bddc-ad6e3b795bfb",
+          "text": "Tirosina."
+        },
+        {
+          "id": "2b6d1e22-324b-417f-94fa-1406d4b9ca9c",
+          "text": "Valina."
+        }
+      ]
+    },
+    {
+      "id": "c39d4eef-031f-4b79-aedc-5865b205f9a7",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-29",
+      "text": "¿Cuál es el valor de pH de una solución de base fuerte NaOH de concentración 0,5 M?",
+      "options": [
+        {
+          "id": "7fef4a01-2959-45fb-8c7b-25d4ef6e958f",
+          "text": "13,7.",
+          "correct": true
+        },
+        {
+          "id": "fbde1dc5-3aec-4e8f-a112-39e3c113ece7",
+          "text": "10,0."
+        },
+        {
+          "id": "4f7f2ebf-10c7-467a-91e0-831516413aa9",
+          "text": "0,3."
+        },
+        {
+          "id": "984b609b-dc00-452e-b502-d5dedadb23b4",
+          "text": "2,5."
+        },
+        {
+          "id": "60058b66-5aa1-43ce-a16f-916aff345821",
+          "text": "7,0."
+        }
+      ]
+    },
+    {
+      "id": "fd83413e-07c9-4e1e-9822-f7c9b9e419bf",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-29",
+      "text": "¿Cuál es la concentración de hidroxilos [OH⁻] de una solución que tiene un valor de pH de 2,0?",
+      "options": [
+        {
+          "id": "71ce7dd7-a090-4f83-9d70-0c56ef8f8e7e",
+          "text": "1 x 10^-12 M.",
+          "correct": true
+        },
+        {
+          "id": "484c089a-1f9a-4d17-9d22-c78641c7a3d6",
+          "text": "1 x 10^4 M."
+        },
+        {
+          "id": "ab9d887a-d3e2-4921-899c-28ee73172334",
+          "text": "1 x 10^-14 M."
+        },
+        {
+          "id": "57f0e5d2-b962-421c-b944-f69258a52ee2",
+          "text": "1 x 10^-2 M."
+        },
+        {
+          "id": "80008b8a-6cb5-44ac-83c4-d4bca303af39",
+          "text": "1 x 10^12 M."
+        }
+      ]
+    },
+    {
+      "id": "c51ad7d7-11fb-4fec-bac7-ad3a3d4aff09",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-29",
+      "text": "¿Cuál es la concentración en g% (m/v) de una solución preparada con 86.8 g de LiBr en 1 L de solución? PM: 86.8 g/mol.",
+      "options": [
+        {
+          "id": "c88c5815-db93-4301-9289-ded50f445979",
+          "text": "8.68%.",
+          "correct": true
+        },
+        {
+          "id": "a58af344-5668-4eee-b590-32325416b301",
+          "text": "142%."
+        },
+        {
+          "id": "b961a746-07e8-49b5-9cb5-62e980a8c065",
+          "text": "86.8%."
+        },
+        {
+          "id": "c68a28eb-e67a-4026-a2b1-d97e0647b88c",
+          "text": "42%."
+        },
+        {
+          "id": "78a1cd0b-5820-4e75-9b23-f478da0cf04f",
+          "text": "868%."
+        }
+      ]
+    },
+    {
+      "id": "050b6d9a-d430-4a9e-a2b1-c2bab1529814",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-29",
+      "text": "¿Cuál es la concentración en molaridad de una solución en la que se disuelven 7.1 g de Na₂SO₄ en 1 L de solución? Dato: peso molar de Na₂SO₄ = 142 g/mol.",
+      "options": [
+        {
+          "id": "8dd47113-c031-4fee-b62f-98b826959301",
+          "text": "0.05 M.",
+          "correct": true
+        },
+        {
+          "id": "e6aecc79-a9c8-4268-8329-a28321a67d83",
+          "text": "0.2 M."
+        },
+        {
+          "id": "c0783e4c-f565-483d-96f4-709cdd4bbe58",
+          "text": "0.5 M."
+        },
+        {
+          "id": "ac181db7-873d-4d66-b71c-b356dc7a94b6",
+          "text": "1 M."
+        },
+        {
+          "id": "ac664a65-edee-401d-ae85-246f7775ce11",
+          "text": "20 M."
+        }
+      ]
+    }
+  ],
+  "evaluations": [
+    {
+      "key": "parcial_1",
+      "name": "1° parcial"
+    }
+  ]
+}
