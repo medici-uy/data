@@ -12,6 +12,806 @@
   "order": 1,
   "questions": [
     {
+      "id": "e9b60cd9-fb75-4b3f-b71e-d05b9530f4b4",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "Cuando una proteína es desnaturalizada:",
+      "options": [
+        {
+          "id": "81c80ff8-b1ad-4a57-9a26-b0435856c2d2",
+          "text": "Pierde la estructura secundaria, terciaria y cuaternaria, manteniendo la estructura primaria.",
+          "correct": true
+        },
+        {
+          "id": "7e44bdfc-249f-4612-be74-203ec76e2c62",
+          "text": "Pierde la estructura primaria y secundaria manteniendo la estructura terciaria y cuaternaria."
+        },
+        {
+          "id": "db94baf4-21d4-473c-98d3-034eb117234d",
+          "text": "Pierde la estructura primaria, secundaria, terciaria y cuaternaria."
+        },
+        {
+          "id": "8afaa078-25d6-4381-83ab-74123661fa0d",
+          "text": "Pierde la estructura terciaria y cuaternaria, manteniendo la estructura primaria y secundaria."
+        }
+      ]
+    },
+    {
+      "id": "9fbf865a-d5ad-4f85-9f23-589483f2d006",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "Cuál es la normalidad de una solución de H2SO4 20 g/L? Dato: peso molecular del H2SO4 es 98 g/mol.",
+      "options": [
+        {
+          "id": "6085d581-7bae-4fec-bdf9-4a9a53bb8eeb",
+          "text": "0,4 N.",
+          "correct": true
+        },
+        {
+          "id": "c2a0fea1-1096-4a45-89e2-d9a9b5a00099",
+          "text": "0,2 N."
+        },
+        {
+          "id": "d8d5df77-fe20-4296-9a11-cfffeb96206d",
+          "text": "1,2 N."
+        },
+        {
+          "id": "d153c9bf-787b-48e1-b0a2-1ea23dfbc4d9",
+          "text": "2,0 N."
+        }
+      ]
+    },
+    {
+      "id": "e577a7d1-3ae6-4872-9cc0-6be891c9d7b3",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "El enlace peptídico es un enlace del tipo:",
+      "options": [
+        {
+          "id": "814f3864-1436-4cc7-b37e-5392be1cac74",
+          "text": "C-N.",
+          "correct": true
+        },
+        {
+          "id": "7b78236b-6270-4e14-847c-2a784bd28001",
+          "text": "C-C."
+        },
+        {
+          "id": "f88c3f5b-5a31-48b3-983d-14406b4906cc",
+          "text": "C-H."
+        },
+        {
+          "id": "cde4a305-3448-433b-bd19-5284eceec57c",
+          "text": "C-O."
+        },
+        {
+          "id": "cfdfaa26-d99e-4a20-a76b-d5675244f517",
+          "text": "N-H."
+        }
+      ]
+    },
+    {
+      "id": "16b571ac-40a4-487c-9cb4-ac9ed6f99329",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "El ácido glutámico (a través de su grupo R) es más probable que interaccione con un aminoácido con grupo R:",
+      "image": "16b571ac-40a4-487c-9cb4-ac9ed6f99329.avif",
+      "options": [
+        {
+          "id": "71a4df83-0d38-46b3-84a3-cc17fbc91432",
+          "text": "Polar con carga positiva.",
+          "correct": true
+        },
+        {
+          "id": "9797b6df-233b-454d-a00d-28f8e2839e17",
+          "text": "Apolar."
+        },
+        {
+          "id": "97e7b30a-b548-4db0-8133-79c1efe6cf99",
+          "text": "Aromático."
+        },
+        {
+          "id": "e6a0425c-f1f0-465b-bea0-0e065189a812",
+          "text": "Polar con carga negativa."
+        },
+        {
+          "id": "b977aec9-177e-471d-8d1c-c182147c9fcb",
+          "text": "Polar sin carga."
+        }
+      ]
+    },
+    {
+      "id": "9dd1e378-0cc5-434d-879d-f88633558d23",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "En un sistema amortiguador (buffer) fosfato, indique cuál es la proporción de las especies HPO4 2- : H2PO4- a pH 8,8. H3PO4 ⇌ H2PO4- + H+, pKa1 = 2.2; H2PO4- ⇌ HPO4 2- + H+, pKa2 = 6.8; HPO4 2- ⇌ PO4 3- + H+, pKa3 = 12.7.",
+      "options": [
+        {
+          "id": "4ff98daa-45d0-48d3-8d35-152b0791d96e",
+          "text": "100:1.",
+          "correct": true
+        },
+        {
+          "id": "1e5d7271-8d42-4674-b279-2e4d80372f38",
+          "text": "10:1."
+        },
+        {
+          "id": "ed6a0a06-ff3f-408b-89a8-c2de9903ae96",
+          "text": "1:1."
+        },
+        {
+          "id": "3a29b3a5-f059-4ce6-b3cd-ca7282e37509",
+          "text": "1:10."
+        },
+        {
+          "id": "8a500e0c-d262-4770-a298-d146d69cdcb4",
+          "text": "1:100."
+        }
+      ]
+    },
+    {
+      "id": "8bab827a-7db6-4612-8be8-5220f9db74e1",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "Indique el valor de pH de una solución 0.1 M de ácido propiónico siendo su Ka de 1 x 10^-5 M y su pKa = 5.0.",
+      "options": [
+        {
+          "id": "aa1db164-fdc8-44b1-ad0f-97c56226e7f2",
+          "text": "3.",
+          "correct": true
+        },
+        {
+          "id": "0ba4a27f-147a-498c-9a44-d69fa86f7881",
+          "text": "0.001."
+        },
+        {
+          "id": "ac0fd59c-9af3-4f00-9e32-4075637a119e",
+          "text": "1 x 10^-6."
+        },
+        {
+          "id": "f4c1fb14-e21b-4219-9fee-942c104df7a2",
+          "text": "1."
+        },
+        {
+          "id": "344aa10f-0bef-432b-af32-e4f608a40f90",
+          "text": "6."
+        }
+      ]
+    },
+    {
+      "id": "310f1869-ea8c-4b54-8cca-009e8b698cae",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "La estructura terciaria de las proteínas:",
+      "options": [
+        {
+          "id": "9be04555-0fa6-4d03-95f5-782b2eb4cdeb",
+          "text": "Se forma a partir de las interacciones entre aminoácidos alejados entre sí en la secuencia de la cadena polipeptídica.",
+          "correct": true
+        },
+        {
+          "id": "ccf6c0ff-22a7-4331-8cfd-b4ed4846cdc2",
+          "text": "Es el resultado del plegamiento local de los aminoácidos adyacentes en la estructura primaria."
+        },
+        {
+          "id": "b5c91d4c-67ad-44f6-aaf0-662d43d3cfc4",
+          "text": "Se define como la secuencia de aminoácidos de la cadena polipeptídica."
+        },
+        {
+          "id": "2df8d82f-39e2-40db-9b26-37415903d81a",
+          "text": "Sólo está presente en las proteínas que están formadas por más de una cadena polipeptídica."
+        }
+      ]
+    },
+    {
+      "id": "fce4edc6-a390-4ad3-ae8b-4ac82fc808dd",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "La figura muestra grupos funcionales de las moléculas A y B. Indique cuál de las siguientes grupos funcionales puede actuar como aceptor en un enlace o puente de hidrógeno:",
+      "image": "fce4edc6-a390-4ad3-ae8b-4ac82fc808dd.avif",
+      "options": [
+        {
+          "id": "9cb0912e-308d-48b1-a7e5-b63db2110f55",
+          "text": "El grupo carbonilo de la molécula B.",
+          "correct": true
+        },
+        {
+          "id": "e8c37b18-3332-46ae-a6bc-d4b19ee4bc02",
+          "text": "El grupo metilo de la molécula A."
+        },
+        {
+          "id": "1b672400-45a2-4144-b460-eb5e96f80025",
+          "text": "El grupo metilo de la molécula B."
+        }
+      ]
+    },
+    {
+      "id": "dd274d3a-9c19-4b00-a4a5-1cbbcbcca9e6",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "La figura muestra grupos funcionales de las moléculas A y B. Indique cuál de los siguientes grupos funcionales puede actuar como dador en un enlace o puente de hidrógeno:",
+      "image": "dd274d3a-9c19-4b00-a4a5-1cbbcbcca9e6.avif",
+      "options": [
+        {
+          "id": "42542daa-da71-4c9b-9515-019b69e43dfe",
+          "text": "El grupo amino de la molécula B.",
+          "correct": true
+        },
+        {
+          "id": "88c05bf7-bc31-43e6-8962-15abbbef6448",
+          "text": "El grupo carbonilo de la molécula B."
+        },
+        {
+          "id": "d36474fb-3342-4c66-91ca-09f74580cbe8",
+          "text": "El grupo metilo de la molécula A."
+        }
+      ]
+    },
+    {
+      "id": "b0aebb22-cd09-4206-8f5d-11d1d9471f52",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "La figura muestra grupos funcionales de las moléculas A y B. Si disolvemos ambas moléculas en una solución acuosa, indique cuáles de los grupos funcionales podrían interaccionar mediante la formación de un enlace iónico al pH adecuado:",
+      "image": "b0aebb22-cd09-4206-8f5d-11d1d9471f52.avif",
+      "options": [
+        {
+          "id": "18955881-b1c3-4c15-af5d-da511d9382c0",
+          "text": "El grupo carboxilo de la molécula A con el grupo amino de la molécula B.",
+          "correct": true
+        },
+        {
+          "id": "8baaf838-7a78-4905-9d1f-527392158de2",
+          "text": "El grupo carboxilo de la molécula A con el grupo carbonilo de la molécula B."
+        },
+        {
+          "id": "e22640ba-ca04-4653-a57a-9d7494f8bbb0",
+          "text": "El grupo metilo de la molécula A con el grupo amino de la molécula B."
+        },
+        {
+          "id": "f8bd729f-e307-45b4-9444-cc13913e8eb1",
+          "text": "El grupo metilo de la molécula A con el grupo carbonilo de la molécula B."
+        },
+        {
+          "id": "12239b35-c39d-4095-95c6-014b62c0e976",
+          "text": "El grupo metilo de la molécula A con el grupo metilo de la molécula B."
+        }
+      ]
+    },
+    {
+      "id": "8eee3046-44d6-412b-bf9b-b6b5f4f7c68d",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "La figura muestra la estructura y curva de titulación de la histidina. El punto isoeléctrico de la histidina es:",
+      "image": "8eee3046-44d6-412b-bf9b-b6b5f4f7c68d.avif",
+      "options": [
+        {
+          "id": "9572cf11-84d4-40ae-8197-7f604251af6e",
+          "text": "7,58.",
+          "correct": true
+        },
+        {
+          "id": "d2a97d9c-6644-4120-91fa-7148eb5a8880",
+          "text": "3,91."
+        },
+        {
+          "id": "e5421cf9-a34c-4a73-9c76-8c520abfc6cf",
+          "text": "5,66."
+        },
+        {
+          "id": "193a9843-e15a-4a01-8046-1e05ba5796e6",
+          "text": "6,0."
+        },
+        {
+          "id": "b7f8f575-4f36-46e2-992c-c625c823fcfd",
+          "text": "9,17."
+        }
+      ]
+    },
+    {
+      "id": "58a699cd-4de6-44dd-bcce-d3451a1c0818",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "La figura muestra la estructura y curva de titulación de la histidina. Indique la afirmación correcta referida a los puntos indicados de A hasta E en la curva de titulación.",
+      "image": "58a699cd-4de6-44dd-bcce-d3451a1c0818.avif",
+      "options": [
+        {
+          "id": "df4d154e-b02e-4096-a4b5-27c83b335e39",
+          "text": "En el punto C la carga neta de la histidina es +1.",
+          "correct": true
+        },
+        {
+          "id": "30499625-762a-449e-81e1-31062ce60091",
+          "text": "En el punto A la histidina se encuentra totalmente desprotonada."
+        },
+        {
+          "id": "80c9984f-90d5-41d1-b39f-8ab812eb24b8",
+          "text": "En el punto B la mitad de los grupos amino se encuentran protonados."
+        },
+        {
+          "id": "b96d9112-dd5a-4483-9b5b-ed8f69e16500",
+          "text": "En el punto C predomina la forma con carga neta 0 de la histidina."
+        },
+        {
+          "id": "a24c0251-d7e0-41c0-a578-891618d4fd1b",
+          "text": "En el punto D la histidina se encuentra totalmente titulada."
+        }
+      ]
+    },
+    {
+      "id": "75821fed-86ff-4a14-a6fa-c0bfb767d7cf",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "La figura muestra la estructura y curva de titulación de la histidina. ¿A cuál de los siguientes valores de pH espera encontrar la histidina con carga neta negativa?",
+      "image": "75821fed-86ff-4a14-a6fa-c0bfb767d7cf.avif",
+      "options": [
+        {
+          "id": "4fa12cf1-6f54-4e6d-8435-da3ee5e772ee",
+          "text": "pH 10.",
+          "correct": true
+        },
+        {
+          "id": "13cf1a6b-d28a-4796-ae34-eefb1988eea3",
+          "text": "pH 1,82."
+        },
+        {
+          "id": "cdbf656f-43e8-4800-8443-48ee785f3633",
+          "text": "pH 1."
+        },
+        {
+          "id": "f21cf932-3080-4870-a0c8-211526ee452e",
+          "text": "pH 4."
+        },
+        {
+          "id": "f39059ae-3f60-4912-bbea-8b58cfbacc95",
+          "text": "pH 6."
+        }
+      ]
+    },
+    {
+      "id": "fb5bea16-e1cb-4e35-bb19-aab45069c324",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "La figura muestra la estructura y curva de titulación de la histidina. ¿Cómo se clasifica la histidina según su grupo R?",
+      "image": "fb5bea16-e1cb-4e35-bb19-aab45069c324.avif",
+      "options": [
+        {
+          "id": "231635f0-2a75-4eab-a3ea-9749fcba90aa",
+          "text": "Polar con carga positiva.",
+          "correct": true
+        },
+        {
+          "id": "22f47c57-cdc8-423b-8625-d4a40316e4a8",
+          "text": "Apolar."
+        },
+        {
+          "id": "f77bb0a6-96c2-446b-970c-67d649535192",
+          "text": "Aromático."
+        },
+        {
+          "id": "10facf29-8f84-482c-817b-a25c98e4389b",
+          "text": "Polar con carga negativa."
+        },
+        {
+          "id": "05593be0-903b-45f6-9909-c34f447d65d5",
+          "text": "Polar sin carga."
+        }
+      ]
+    },
+    {
+      "id": "44db332c-e85d-4c6d-962b-2a91a50235fe",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "La osmolaridad de una solución de NaCl 0,155 M es:",
+      "options": [
+        {
+          "id": "8c240ff9-b250-4bc6-b493-18f4132e7a46",
+          "text": "0,310 Osm.",
+          "correct": true
+        },
+        {
+          "id": "ee6cbb4e-f857-49a7-9654-151848329e56",
+          "text": "0,0775 Osm."
+        },
+        {
+          "id": "cba679b1-5fb5-4d5e-b456-5a38d76f9330",
+          "text": "0,155 Osm."
+        },
+        {
+          "id": "638197ed-08cf-42ed-9a62-d53025a1f276",
+          "text": "0,620 Osm."
+        }
+      ]
+    },
+    {
+      "id": "abcdf622-34e4-4036-afb4-4175e57ecc7f",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "Observe la figura. ¿Cuál será la secuencia de la hebra polinucleotídica que está siendo sintetizada?",
+      "image": "abcdf622-34e4-4036-afb4-4175e57ecc7f.avif",
+      "options": [
+        {
+          "id": "b3842a81-bfe1-4a0f-9842-91dcef40709b",
+          "text": "CCUGAAA.",
+          "correct": true
+        },
+        {
+          "id": "ea4ac8b7-9af3-4d12-8ff4-1adf97a9f8d8",
+          "text": "AAAGTCC."
+        },
+        {
+          "id": "618f77fd-190d-45f6-9639-23aaeb321f5e",
+          "text": "AAAGUCC."
+        },
+        {
+          "id": "90cfe8ae-d8a8-4e8d-8668-dacf32f50aa6",
+          "text": "CCTGAAA."
+        }
+      ]
+    },
+    {
+      "id": "e3cf6923-b2be-4070-b426-a34e5088593a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "Observe la figura. ¿Qué base nitrogenada contiene el desoxinucleótido que se encuentra en el extremo 5´ de la hebra molde?",
+      "image": "e3cf6923-b2be-4070-b426-a34e5088593a.avif",
+      "options": [
+        {
+          "id": "f10f2cb8-9b62-4d63-b101-dff70cb83e85",
+          "text": "T.",
+          "correct": true
+        },
+        {
+          "id": "4b7028ba-7ea1-4aad-a06e-30c2d724b1ee",
+          "text": "A."
+        },
+        {
+          "id": "5bc45f24-72b2-4403-9321-b0621a1660c0",
+          "text": "C."
+        },
+        {
+          "id": "d33e0e8f-609f-4506-bdae-3072970be385",
+          "text": "G."
+        }
+      ]
+    },
+    {
+      "id": "df404740-3016-4a2e-ab9a-b4b85955366d",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "Observe la figura. ¿Qué pentosa contienen los nucleótidos de la hebra que está siendo sintetizada?",
+      "image": "df404740-3016-4a2e-ab9a-b4b85955366d.avif",
+      "options": [
+        {
+          "id": "0e239f72-2b03-4c7f-b046-a4eb2ddd6e88",
+          "text": "Ribosa.",
+          "correct": true
+        },
+        {
+          "id": "ec6d0221-d89c-4d5b-8c60-6a8dddccdc9f",
+          "text": "Desoxiribosa."
+        },
+        {
+          "id": "6604c22d-574b-4513-8306-84c8f26e9d24",
+          "text": "Fructosa."
+        },
+        {
+          "id": "5c70e9ec-ce77-41f8-9379-27fc543166dc",
+          "text": "Glucosa."
+        },
+        {
+          "id": "6e7e4418-8df9-41f9-9d23-5493d70e665d",
+          "text": "Ribulosa."
+        }
+      ]
+    },
+    {
+      "id": "e61b66a8-6955-4091-9790-99d6156b881f",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "Se prepara una solución agregando 9 g de glucosa (PM 180 g/mol) en un volumen final de 200 mL. La forma de expresar la concentración de glucosa en esta solución es:",
+      "options": [
+        {
+          "id": "99d674b9-4589-4b81-a030-42ac4956a8bc",
+          "text": "0.25 M.",
+          "correct": true
+        },
+        {
+          "id": "d4575702-981b-4b0a-8176-c718313907c1",
+          "text": "0.05 M."
+        },
+        {
+          "id": "fc8bbad8-fb1d-43c4-9e7e-e78dadef4157",
+          "text": "0.5 OsM."
+        },
+        {
+          "id": "13d0dcd5-25f6-4dcf-8476-286a490ebf1f",
+          "text": "18 % (m/v)."
+        },
+        {
+          "id": "045fa6e0-f85d-44d9-a35f-effbe095d63b",
+          "text": "9 % (m/v)."
+        }
+      ]
+    },
+    {
+      "id": "9d80bdd3-ae44-45da-a43d-d25e94d11fc6",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "Se prepara una solución mezclando 100 mM de acetato de sodio (CH3COONa) y 1 mM de ácido acético (CH3COOH). Datos: pKa = 4,75 y Ka = 1,79x10^-5. Indique cuál es el rango de amortiguación de pH de una solución preparada con acetato de sodio y ácido acético.",
+      "options": [
+        {
+          "id": "ab830acb-6103-4fa8-bcb6-46137a4324a0",
+          "text": "4.75 ± 1.",
+          "correct": true
+        },
+        {
+          "id": "f8f23ff1-ad4e-4734-b332-61fbdef6a656",
+          "text": "2,75 ± 1."
+        },
+        {
+          "id": "9ad1c38a-c4e6-4858-8839-b54351b0e373",
+          "text": "3 ± 1."
+        },
+        {
+          "id": "3dc71d8a-aca0-40df-ab00-bc0db834062d",
+          "text": "5,75 ± 1."
+        },
+        {
+          "id": "4db0c9af-737e-45d4-80e7-6d2e6b186f95",
+          "text": "6,75 ± 1."
+        }
+      ]
+    },
+    {
+      "id": "13281fd0-a86e-4f35-b0fa-fac7634e2b83",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "Se prepara una solución mezclando 100 mM de acetato de sodio (CH3COONa) y 1 mM de ácido acético (CH3COOH). Datos: pKa = 4,75 y Ka = 1,79x10^-5. ¿Cuál será el pH de esa solución?",
+      "options": [
+        {
+          "id": "ec784450-6ad2-46f5-98ea-df50d0c61ed9",
+          "text": "6.75.",
+          "correct": true
+        },
+        {
+          "id": "c450ab2a-e514-4e97-a92d-1242bd4c8479",
+          "text": "2.75."
+        },
+        {
+          "id": "ba0ac375-c9a9-46af-acae-5ca14a7e199c",
+          "text": "3."
+        },
+        {
+          "id": "c48a60b9-ecc1-4513-aa54-938c6b2f1d51",
+          "text": "4.75."
+        },
+        {
+          "id": "150bbebb-419f-44b7-aff6-d7d13b246089",
+          "text": "5.75."
+        }
+      ]
+    },
+    {
+      "id": "a3a15234-7930-4e5a-bbec-8a5cf5d76ada",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "Una de las características de la hélice alfa en las proteínas es que:",
+      "options": [
+        {
+          "id": "c79cd4d6-1573-4f83-8bce-e07647cddc14",
+          "text": "Se forma un puente de hidrógeno entre el grupo carbonilo del aminoácido 1 y el grupo amino del aminoácido 4.",
+          "correct": true
+        },
+        {
+          "id": "9a9138ab-5fe8-4e76-8216-701306552037",
+          "text": "Contienen muchos residuos de prolina."
+        },
+        {
+          "id": "a956113f-21dd-44eb-96f4-21040928d58d",
+          "text": "Los grupos R de los aminoácidos se orientan hacia el interior de la hélice."
+        },
+        {
+          "id": "ffde99a0-c0e5-41cf-83fd-54269baed52f",
+          "text": "Puede ser levógira o dextrógira."
+        }
+      ]
+    },
+    {
+      "id": "37e81e18-ba91-49c0-942e-6d9d0f8e5b1d",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "¿Cuál de las siguientes soluciones tiene mayor osmolaridad?",
+      "options": [
+        {
+          "id": "712fb9e7-211b-415a-8817-2b4a8d13925f",
+          "text": "Ácido clorhídrico, HCl 2 M",
+          "correct": true
+        },
+        {
+          "id": "f4089b15-5821-4683-979a-24096805e0b9",
+          "text": "Citrato trisódico, (Na3(C3H5O(COO)3), 0.5 M."
+        },
+        {
+          "id": "57b06511-0537-4b32-9ae5-236bc278b6eb",
+          "text": "Cloruro de magnesio, MgCl2 0.5 mM."
+        },
+        {
+          "id": "577cae03-b7c7-4dfc-8f1c-b0a2e5867426",
+          "text": "Hidróxido de sodio, NaOH 1 M."
+        },
+        {
+          "id": "9a2bd397-71dc-4d47-8e05-acbaabbab733",
+          "text": "Sacarosa, (C12H22O11), 2 M"
+        }
+      ]
+    },
+    {
+      "id": "a51be722-a451-4ac1-ab96-b177514110a3",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "¿Cuál es la concentración de hidrogeniones (H+) en una solución de HCl cuyo valor de pOH es 10?",
+      "options": [
+        {
+          "id": "5672efe0-a05b-481e-852f-cfd972117ea9",
+          "text": "1 x 10^-4 M.",
+          "correct": true
+        },
+        {
+          "id": "879ea204-339c-482f-a6a4-a5e9d30db130",
+          "text": "1 x 10^-10 M."
+        },
+        {
+          "id": "b7907098-0fb1-4338-b3d0-e3251aef780b",
+          "text": "1 x 10^4 M."
+        },
+        {
+          "id": "991ac53f-fa9d-47aa-a115-aa05dcecbdbb",
+          "text": "3,16 x 10^-4 M."
+        }
+      ]
+    },
+    {
+      "id": "7a0f318d-26a5-4e6b-93e6-97936c52e9aa",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "¿Cuál es la relación de concentración de hidrogeniones (H+) entre una solución A de pH 6,5 y una solución B de pH 7,5?",
+      "options": [
+        {
+          "id": "6a432030-e20c-48a9-9d6b-7690c2759257",
+          "text": "La solución A tiene 10 veces más H+ que la solución B.",
+          "correct": true
+        },
+        {
+          "id": "21cb022f-7978-456a-b4cc-50a57bb4309c",
+          "text": "La solución A tiene 10 veces menos H+ que la solución B."
+        },
+        {
+          "id": "ccacfa28-6eee-458e-97c2-12030d2b1fed",
+          "text": "La solución A tiene 100 veces más H+ que la solución B."
+        },
+        {
+          "id": "2fd01762-69d6-4cb4-80d4-01b303f3ba67",
+          "text": "La solución A tiene el doble de H+ que la solución B."
+        },
+        {
+          "id": "34abf13f-cebb-417e-8641-5395e5396227",
+          "text": "La solución A tiene la mitad de H+ que la solución B."
+        }
+      ]
+    },
+    {
+      "id": "333df82e-ab55-4b80-99f6-435fdb741810",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "¿Cuál será la carga neta del siguiente péptido a pH 7?",
+      "image": "333df82e-ab55-4b80-99f6-435fdb741810.avif",
+      "options": [
+        {
+          "id": "466811e8-ef32-4835-8f35-375713bf9b61",
+          "text": "+1.",
+          "correct": true
+        },
+        {
+          "id": "c1ddc5f3-ebc8-4758-8bf5-eee87d734434",
+          "text": "+2."
+        },
+        {
+          "id": "e577f7c7-5005-4da4-ae79-259e507ef015",
+          "text": "-1."
+        },
+        {
+          "id": "f81bf01a-46eb-4515-aafb-f9537fefb6df",
+          "text": "-2."
+        },
+        {
+          "id": "0d05730f-9f33-4d32-a57d-7aa37015fd29",
+          "text": "0."
+        }
+      ]
+    },
+    {
+      "id": "d49e4aef-a53f-4a0e-8f4c-b6d07c838dce",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "¿Cuántos gramos de NaCl se deben disolver en un volumen final de 500 mL para obtener una solución 1% m/v? Dato: peso molecular del NaCl es 58,5 g/mol.",
+      "options": [
+        {
+          "id": "5bd00654-2e2a-4fa0-80b5-5ba1a2360376",
+          "text": "5,0 g.",
+          "correct": true
+        },
+        {
+          "id": "b337d336-ff4d-49f8-a74a-4723a7d7793a",
+          "text": "0,5 g."
+        },
+        {
+          "id": "f5a6f7da-f6a9-4206-812e-535ca168f209",
+          "text": "1,0 g."
+        },
+        {
+          "id": "ec05cd38-abf9-48d3-affd-5483faa8d5ea",
+          "text": "10,0 g."
+        },
+        {
+          "id": "312fa382-ff60-4e17-be30-2146c0874bda",
+          "text": "25,0 g."
+        }
+      ]
+    },
+    {
+      "id": "1913e588-86a9-4b63-b253-e635a01f5d4e",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "¿En qué volumen se deben disolver 5 g de NaOH para obtener una solución 5 M? Dato: peso molecular del NaOH es 40 g/mol.",
+      "options": [
+        {
+          "id": "e26a6d56-e897-4a84-83c1-9c3917cbcd1e",
+          "text": "25 mL.",
+          "correct": true
+        },
+        {
+          "id": "b0f20735-9642-4a20-a239-750761aed655",
+          "text": "100 mL."
+        },
+        {
+          "id": "87c72705-42f7-44fb-8a1f-b7f285797bfb",
+          "text": "400 mL."
+        },
+        {
+          "id": "87cfdb6b-df21-44a5-87e3-1550046d70ab",
+          "text": "50 mL."
+        }
+      ]
+    },
+    {
       "id": "ad63bb94-8471-4b08-90e7-a1250d25d44b",
       "evaluation": "parcial_1",
       "source": "partial",
