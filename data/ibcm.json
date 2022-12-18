@@ -12,6 +12,562 @@
   "order": 1,
   "questions": [
     {
+      "id": "592d89ab-8749-4432-b8e6-70fe969622c9",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "La figura muestra 3 moléculas. Las proteínas son polímeros de moléculas similares a la:",
+      "image": "592d89ab-8749-4432-b8e6-70fe969622c9.avif",
+      "options": [
+        {
+          "id": "b7289009-d922-4d96-af6f-bcef17fda4ff",
+          "text": "A.",
+          "correct": true
+        },
+        {
+          "id": "70d3e983-694e-41d1-9e03-4e09b3a141ab",
+          "text": "B."
+        },
+        {
+          "id": "68755da1-9761-411c-a6f9-2d066979b16d",
+          "text": "C."
+        }
+      ]
+    },
+    {
+      "id": "f9b063bc-9202-4912-ac1e-1f47a455e28c",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "La figura muestra 3 moléculas. Los glúcidos de almacenamiento están compuestas por polímeros de moléculas similares a la:",
+      "image": "f9b063bc-9202-4912-ac1e-1f47a455e28c.avif",
+      "options": [
+        {
+          "id": "aab47f60-0f23-422b-98b0-5a7a2e2f19fd",
+          "text": "B.",
+          "correct": true
+        },
+        {
+          "id": "24f840bc-343e-4e7b-ba61-75ad6c786f74",
+          "text": "A."
+        },
+        {
+          "id": "a80dc3b4-5d9f-4166-b3ad-8ccba69b58cf",
+          "text": "C."
+        }
+      ]
+    },
+    {
+      "id": "f88d7904-1f4b-45d0-a7a9-e7fc29342f6f",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "La figura muestra 3 moléculas. ¿Cuál de las moléculas representadas en la figura es la más hidrofóbica?",
+      "image": "f88d7904-1f4b-45d0-a7a9-e7fc29342f6f.avif",
+      "options": [
+        {
+          "id": "8bedb79e-20ac-4f11-9256-74ce73c42b81",
+          "text": "C.",
+          "correct": true
+        },
+        {
+          "id": "4671192d-60fb-4865-9cf3-7e21870348bf",
+          "text": "A."
+        },
+        {
+          "id": "0a2b1861-ba78-4e93-92c6-b69d9eba6ee9",
+          "text": "B."
+        }
+      ]
+    },
+    {
+      "id": "450e54bb-bfd4-4957-adf0-7223ece6a625",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "La figura muestra 3 moléculas. ¿El hidrógeno de la molécula A que está señalado con un asterisco puede formar puentes de hidrógeno?",
+      "image": "450e54bb-bfd4-4957-adf0-7223ece6a625.avif",
+      "options": [
+        {
+          "id": "50159165-7210-4d21-ba65-4b04fd9780b7",
+          "text": "No, no puede formar puentes de hidrógeno.",
+          "correct": true
+        },
+        {
+          "id": "55d0db21-5eda-4710-97cf-8aa62b9b3dda",
+          "text": "Sí, con el nitrógeno de un grupo amino."
+        },
+        {
+          "id": "40de0305-310d-4af7-a06a-368b5cc25a37",
+          "text": "Sí, con el oxígeno de una molécula de agua."
+        },
+        {
+          "id": "71c4175d-6485-460a-a356-af90b4f26b68",
+          "text": "Sí, con un hidrógeno de un grupo amino."
+        },
+        {
+          "id": "fc56b459-7bae-4ddf-8dde-acb96eebde67",
+          "text": "Sí, con un hidrógeno de una molécula de agua."
+        }
+      ]
+    },
+    {
+      "id": "cde75223-a817-4bb2-a5c7-387d3a1b100a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "La figura muestra la curva de titulación de un ácido diprótico (AH2) cuyos valores de pKa son 4,8 y 8,9. Indique cuál es el pH en el punto B:",
+      "image": "cde75223-a817-4bb2-a5c7-387d3a1b100a.avif",
+      "options": [
+        {
+          "id": "fa54745f-c4cb-4db3-b29e-b482ce6d7cb3",
+          "text": "4,8.",
+          "correct": true
+        },
+        {
+          "id": "b8e12faf-b167-437f-85c1-36c83a134931",
+          "text": "2,5."
+        },
+        {
+          "id": "230e67d3-28d5-4266-90f4-baef2cd36a6e",
+          "text": "6,5."
+        },
+        {
+          "id": "12c29ff8-9a97-4198-b7f4-2995cebe7adb",
+          "text": "8,9."
+        }
+      ]
+    },
+    {
+      "id": "a044182a-7788-4569-b1f7-d7aed6d8a740",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "La figura muestra la curva de titulación de un ácido diprótico (AH2) cuyos valores de pKa son 4,8 y 8,9. Indique en cuál de los puntos indicados en la gráfica la molécula se encuentra mayoritariamente en la forma AH-:",
+      "image": "a044182a-7788-4569-b1f7-d7aed6d8a740.avif",
+      "options": [
+        {
+          "id": "7aa631ca-2ac1-47b2-9bf9-acac2b68c0b5",
+          "text": "En el punto C.",
+          "correct": true
+        },
+        {
+          "id": "47d01e8c-2de0-4006-9cac-572a27b06d41",
+          "text": "En el punto A."
+        },
+        {
+          "id": "611dda16-eb7c-4f43-ab5e-ed9edf7df637",
+          "text": "En el punto B."
+        },
+        {
+          "id": "0166e9a3-e35b-4482-9948-3af38e31468f",
+          "text": "En el punto D."
+        },
+        {
+          "id": "81abff0b-04c1-4950-a1a7-43a220e20af6",
+          "text": "En el punto E."
+        }
+      ]
+    },
+    {
+      "id": "42ee493a-719e-496f-bb48-2ef2f755de52",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "La figura muestra la curva de titulación de un ácido diprótico (AH2) cuyos valores de pKa son 4,8 y 8,9. Se preparan dos soluciones amortiguadoras usando las mismas cantidades de las especies AH2 y AH-. La solución 1 tiene una concentración total de 500 mM y la solución 2 una concentración de 5 mM. Se agrega una gota de un indicador de pH con las siguientes características: a pH menor a 4 color amarillo, a pH igual o mayor que 4 color verde. Con el agregado de HCl 5 mM final, se podrá observar el siguiente resultado:",
+      "image": "42ee493a-719e-496f-bb48-2ef2f755de52.avif",
+      "options": [
+        {
+          "id": "207271e6-7e38-4769-a9ee-128c8d2efa6b",
+          "text": "El buffer 1 (500 mM) queda verde y el 2 (5 mM) de color amarillo.",
+          "correct": true
+        },
+        {
+          "id": "5806db4a-5e39-48de-9f56-c4127deb67c6",
+          "text": "El buffer 1 (500 mM) queda amarillo y el 2 (5 mM) de color verde."
+        },
+        {
+          "id": "e841c4a0-067d-4836-9f59-a77004829db0",
+          "text": "Los dos buffers quedan de color amarillo."
+        },
+        {
+          "id": "761a5a87-92ac-44fe-b1d9-6f87ed77126e",
+          "text": "Los dos buffers quedan de color verde."
+        }
+      ]
+    },
+    {
+      "id": "33134855-ae18-45d6-8071-dc897f3269f6",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "La figura muestra la curva de titulación de un ácido diprótico (AH2) cuyos valores de pKa son 4,8 y 8,9. Si queremos mantener el pH de una solución en el entorno de 8,9 debemos preparar una solución con la mezcla siguiente:",
+      "image": "33134855-ae18-45d6-8071-dc897f3269f6.avif",
+      "options": [
+        {
+          "id": "1847c388-baa9-4230-821d-004d891b64c0",
+          "text": "50% de AH- y 50% de A2-.",
+          "correct": true
+        },
+        {
+          "id": "e4f8fa4f-3de1-451b-bccb-eb6de5cd508a",
+          "text": "25% de AH2 y 75% de AH-."
+        },
+        {
+          "id": "b4aa7707-685d-44ca-838b-7aeede66b217",
+          "text": "50% de AH2 y 50% de AH-."
+        },
+        {
+          "id": "4c8f389a-f759-4952-ade3-3a0c808f046b",
+          "text": "75% de A2- y 25% de AH-."
+        },
+        {
+          "id": "3092bde3-8af3-427a-a076-66ccd09280fb",
+          "text": "75% de AH2 y 25% de AH-."
+        }
+      ]
+    },
+    {
+      "id": "471065a0-4819-4213-91b3-b4f4d1f5349b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "La molécula de agua tiene carácter dipolar dado que:",
+      "options": [
+        {
+          "id": "f321f3d5-5ba8-4c6a-b40a-0171500051f3",
+          "text": "La electronegatividad del oxígeno es mayor a la del hidrógeno.",
+          "correct": true
+        },
+        {
+          "id": "e497d17c-8dff-4853-b234-c6685e69ab1a",
+          "text": "El oxígeno y el hidrógeno tienen la misma electronegatividad."
+        },
+        {
+          "id": "860a2c94-a9f5-482f-b667-920ad9e8c341",
+          "text": "La electronegatividad del hidrógeno es mayor a la del oxígeno."
+        }
+      ]
+    },
+    {
+      "id": "4d8f559b-1bad-43a9-b127-d83964d3d329",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "La molécula representada en la siguiente figura pertenece al grupo de:",
+      "image": "4d8f559b-1bad-43a9-b127-d83964d3d329.avif",
+      "options": [
+        {
+          "id": "49d4383f-e40b-4c89-addd-79e337dae2be",
+          "text": "Nucleótidos y ácidos nucleicos.",
+          "correct": true
+        },
+        {
+          "id": "1804364e-7e3c-4b62-be11-f4e27e223dfb",
+          "text": "Glúcidos."
+        },
+        {
+          "id": "65af2bfa-1026-4aa3-a504-8c86e305f782",
+          "text": "Lípidos."
+        },
+        {
+          "id": "3ee601d5-9d90-4d6a-8d5e-90f302779538",
+          "text": "Péptidos y proteínas."
+        }
+      ]
+    },
+    {
+      "id": "5aee0827-9200-40d7-9f0a-63b426d2bb5d",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "¿Cuál de las siguientes soluciones presenta mayor osmolaridad?",
+      "options": [
+        {
+          "id": "b3894b72-4180-46b0-92d2-5b427ec306d3",
+          "text": "KCl 2 M.",
+          "correct": true
+        },
+        {
+          "id": "d6e9e9c2-ca0c-415c-ab80-bab9e9d8d5b4",
+          "text": "CuNO2 1 M."
+        },
+        {
+          "id": "d44ed8da-05e4-41e9-b415-bade6f6a3b13",
+          "text": "Glucosa (C6H12O6) 0,5 M."
+        },
+        {
+          "id": "a73f9882-0a96-4079-a0bd-e06564c6408e",
+          "text": "NaOH 1,5 M."
+        }
+      ]
+    },
+    {
+      "id": "6aea7c96-3c75-4886-ae9e-653801425113",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "¿Cuál es el pH de una solución de NaOH 0,5 mol/litro? Dato: el peso molecular del NaOH es 40 g/mol.",
+      "options": [
+        {
+          "id": "005017ce-9d89-4f4f-b80f-d9e83b994b22",
+          "text": "13,7.",
+          "correct": true
+        },
+        {
+          "id": "a00b8cb8-8e11-4d75-8154-57375e68d77b",
+          "text": "0,3."
+        },
+        {
+          "id": "0082ef4d-9ece-4cdc-b8d9-285f5bb4803a",
+          "text": "0,5."
+        },
+        {
+          "id": "2f6c7425-862b-4416-b835-246f7b540b9d",
+          "text": "10,5."
+        },
+        {
+          "id": "742c2705-ecb1-4b72-a759-a4f4e49b5928",
+          "text": "3,0."
+        }
+      ]
+    },
+    {
+      "id": "c82af4b6-7621-4f80-8253-b664931cf90e",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "¿Cuál es el pH de una solución de ácido acético (CH3COOH) 0,05 M? Ka = 1,75 x 10-5 y pKa = 4,76.",
+      "options": [
+        {
+          "id": "c0d96ab9-7ce3-41c8-8d82-5689e9df15d4",
+          "text": "3,0.",
+          "correct": true
+        },
+        {
+          "id": "c6d33403-0953-4adc-a56a-a7aee4ec2d8e",
+          "text": "0,6."
+        },
+        {
+          "id": "bdb4503a-cc9d-4eef-b514-cdd664f32704",
+          "text": "4,0."
+        },
+        {
+          "id": "94de2a01-1475-4c3c-beec-da5a3be8bcb7",
+          "text": "9,0."
+        }
+      ]
+    },
+    {
+      "id": "8e1b6f99-02e9-4ef8-a1e7-81f9be59f9ad",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "¿Cuál es la concentración de hidroxilos (OH-) de una solución que tiene un valor de pH de 5,5?",
+      "options": [
+        {
+          "id": "42b66609-e667-4461-aa8d-7d05cb829b34",
+          "text": "3,2 x 10^-9 M.",
+          "correct": true
+        },
+        {
+          "id": "2916b592-58a2-49b7-9cf7-e1a92d8ed3ea",
+          "text": "3,2 x 10^-6 M."
+        },
+        {
+          "id": "7715295e-653e-40ca-8850-623795782d3d",
+          "text": "3,2 x 10^5 M."
+        },
+        {
+          "id": "ea6ac6ee-9ae7-4a82-af94-2a7e9737d7b0",
+          "text": "3,2 x 10^8 M."
+        }
+      ]
+    },
+    {
+      "id": "2c41a9a0-8345-4e58-98cb-14b476a608c4",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "¿Cuál es la concentración normal de una solución de KOH 2 M?",
+      "options": [
+        {
+          "id": "c771eed6-10bd-4518-a1d4-4e9d173d9bcd",
+          "text": "2 N.",
+          "correct": true
+        },
+        {
+          "id": "dafb1a0d-f1af-4e21-a8b2-5f2033cc0ffd",
+          "text": "1 N."
+        },
+        {
+          "id": "6a7f2901-7943-43b9-9b3a-86bfb686160f",
+          "text": "4 N."
+        }
+      ]
+    },
+    {
+      "id": "f5950a6e-f69f-476c-975c-69b8b082308c",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "¿Cuál es la constante de disociación de un ácido débil HA cuyo pKa es 3,52?",
+      "options": [
+        {
+          "id": "d22092dd-89de-41d4-90ba-6095034f7808",
+          "text": "3 x 10^-4.",
+          "correct": true
+        },
+        {
+          "id": "237301a3-e85f-42dd-bac5-af90027412a7",
+          "text": "3,30 x 10^4."
+        },
+        {
+          "id": "2b1a1ee5-847e-470f-bb19-e6490491316f",
+          "text": "3,52."
+        },
+        {
+          "id": "65f16082-7cb1-4fb6-8889-7e756d4f588a",
+          "text": "5,50 x 10^-1."
+        }
+      ]
+    },
+    {
+      "id": "ead0c690-80c2-451b-9ef7-51ca158ed5b9",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "¿Cuál es la molaridad de una solución de KOH al 2% (peso/volumen)? Dato: el peso molecular del KOH de 56,1 g/mol.",
+      "options": [
+        {
+          "id": "2abb619a-03dd-4603-b2fe-193c2fced460",
+          "text": "0,36 M.",
+          "correct": true
+        },
+        {
+          "id": "68e717db-59b0-4deb-bc0a-3ef586c3fa54",
+          "text": "0,04 M."
+        },
+        {
+          "id": "4d1b51eb-c15c-43c0-b10d-a331e423a837",
+          "text": "2,00 M."
+        },
+        {
+          "id": "ea0a5fbf-5032-4421-b2a5-fc61118e37fd",
+          "text": "3,50 M."
+        }
+      ]
+    },
+    {
+      "id": "58c93f9b-3721-4b43-9a1b-fc4d79082902",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "¿Cuántos gramos de NaOH hay en 2 litros de solución 100 mM? Dato: el peso molecular del NaOH es 40 g/mol.",
+      "options": [
+        {
+          "id": "cf38d8f6-5d97-4927-9bb3-01cb480ac36b",
+          "text": "8,0 g.",
+          "correct": true
+        },
+        {
+          "id": "16ba4921-034e-4321-aa66-4f5ae7be274d",
+          "text": "0,8 g."
+        },
+        {
+          "id": "58b0659c-6c54-4eca-a391-188b1c6c10f4",
+          "text": "1,2 g."
+        },
+        {
+          "id": "ee994456-312c-4092-8254-d4f8d862c358",
+          "text": "12,5 g."
+        },
+        {
+          "id": "456d37d8-f265-48fe-a042-f20989e2a11b",
+          "text": "80,0 g."
+        }
+      ]
+    },
+    {
+      "id": "e837f5ea-b5e8-4410-bea0-30f4ed7ad431",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "¿El grupo carbonilo de una molécula puede formar puentes de hidrógeno?",
+      "image": "e837f5ea-b5e8-4410-bea0-30f4ed7ad431.avif",
+      "options": [
+        {
+          "id": "1c214f30-66dc-4b8e-8bde-d6845d4a6e00",
+          "text": "Sí, como aceptor de hidrógenos.",
+          "correct": true
+        },
+        {
+          "id": "cfcdd79e-1d7e-438f-bc18-8795ca1ea9cd",
+          "text": "No, no puede formar puentes de hidrógeno."
+        },
+        {
+          "id": "4f056756-2af5-4cd2-be8f-3846bdcb7e09",
+          "text": "Sí, como dador de hidrógenos."
+        },
+        {
+          "id": "560f9a61-7f0c-4c6b-8a83-41649f3fcb22",
+          "text": "Sí, tanto como aceptor o dador de hidrógenos."
+        }
+      ]
+    },
+    {
+      "id": "2b91319c-6b8b-4be4-8e0d-ed8a4027fe1f",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "¿En qué volumen debo disolver 5 g de NaCl para obtener una solución 2 M? Dato: el peso molecular de NaCl es 58,4 g/mol.",
+      "options": [
+        {
+          "id": "75113bae-cc0c-4fdf-b942-024e805a3515",
+          "text": "43 mL.",
+          "correct": true
+        },
+        {
+          "id": "b6f27c5d-2163-4ea7-9a60-b3b853abf730",
+          "text": "2 L."
+        },
+        {
+          "id": "5069c3c2-794d-4fb1-a11a-a6a51188ca7c",
+          "text": "4 L."
+        },
+        {
+          "id": "d5ce2c52-5630-4938-a1e6-6c26391ea6ef",
+          "text": "86 mL."
+        }
+      ]
+    },
+    {
+      "id": "fd4995d3-06d7-4a93-a51b-e912e3209acc",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "¿Qué molaridad tiene una solución de KCl preparada con 2 g en 250 mL? Dato: el KCl tiene un peso molecular de 74,6 g/mol.",
+      "options": [
+        {
+          "id": "b4d92d7a-e1e2-49f8-a5a5-59a1abc4d7a9",
+          "text": "0,11 M.",
+          "correct": true
+        },
+        {
+          "id": "7b269a99-f1fa-473b-b4eb-3994e9c7ca27",
+          "text": "0,03 M."
+        },
+        {
+          "id": "b3428daf-e278-4e0e-b3db-da567fba06b0",
+          "text": "2,00 M."
+        },
+        {
+          "id": "26dfa7d2-9d1c-4a7a-82ce-b213b435fbc7",
+          "text": "8,00 M."
+        }
+      ]
+    },
+    {
       "id": "e9b60cd9-fb75-4b3f-b71e-d05b9530f4b4",
       "evaluation": "parcial_1",
       "source": "partial",
