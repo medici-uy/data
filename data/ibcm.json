@@ -3981,12 +3981,729 @@
           "text": "20 M."
         }
       ]
+    },
+    {
+      "id": "6ab16856-316a-4a00-825f-887048b0b0e5",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Considerando la cadena epidemiológica de una enfermedad infecciosa que se trasmite por vía sexual, ¿cuál de las siguientes medidas de prevención actúa a nivel del hospedero susceptible?",
+      "options": [
+        {
+          "id": "ebfc6da5-2385-424e-99d8-a632d2675a30",
+          "text": "Vacunación.",
+          "correct": true
+        },
+        {
+          "id": "cb479a71-3eed-47d8-a22c-546ab0449c0c",
+          "text": "Diagnóstico precoz."
+        },
+        {
+          "id": "ff048ad8-d207-4ad8-967e-4b99e6508e71",
+          "text": "Uso de métodos de barrera."
+        }
+      ]
+    },
+    {
+      "id": "50d5619e-b4b9-4a8f-b380-7ff8fb2ae4e7",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Considere un organismo diploide con fórmula cromosómica 36, XY (macho) y 36, XX (hembra). Al igual que en humanos, las células de este organismo se dividen por mitosis y obtiene sus gametos por meiosis. Si observamos al microscopio 36 pares de cromátidas situadas en el ecuador del huso, ¿en qué fase de la división se encuentra la célula?",
+      "options": [
+        {
+          "id": "380eefb5-976d-44d2-9259-0323ff7196cd",
+          "text": "Metafase mitótica.",
+          "correct": true
+        },
+        {
+          "id": "5badcb8e-432f-447e-9e70-f29723a8319a",
+          "text": "Anafase I meiótica."
+        },
+        {
+          "id": "792be55b-f5d1-4cb5-85f2-711f8fb5d4c4",
+          "text": "Anafase mitótica."
+        },
+        {
+          "id": "6702f937-4037-440f-a8a5-bbb58672e593",
+          "text": "Metafase II meiótica."
+        }
+      ]
+    },
+    {
+      "id": "d19208f4-d3cc-4281-ab3f-2047d9e3122d",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Cuando un par de cromosomas homólogos se encuentra en la fase G2 estarán conformados por:",
+      "options": [
+        {
+          "id": "b31b9043-66dd-4c92-add3-68783c9cab4a",
+          "text": "Una molécula de ADN y su copia exacta en un cromosoma homólogo y otra molécula de ADN y su copia en el otro cromosoma del par.",
+          "correct": true
+        },
+        {
+          "id": "9aa3f85b-3429-43f3-a8ab-74de2d8f364d",
+          "text": "Cuatro moléculas distintas de ADN distintas una en cada cromátida de cada cromosoma homólogo del par."
+        },
+        {
+          "id": "76498182-9fca-414d-ba02-e8493760ce02",
+          "text": "Dos moléculas de ADN distintas, una en cada cromátida hermana de un cromosoma homólogo, y las mismas dos en las cromátidas hermanas del otro cromosoma homólogo."
+        },
+        {
+          "id": "0ee2eb5b-d0df-4a79-8370-ce445b9d483e",
+          "text": "Una molécula de ADN en un cromosoma homólogo y otra molécula de ADN distinta en el otro cromosoma homólogo del par."
+        }
+      ]
+    },
+    {
+      "id": "2205acdc-fbc7-4672-9bad-9648480ff855",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Durante el ciclo viral, el proceso en el que se producen copias del genoma viral se denomina:",
+      "options": [
+        {
+          "id": "12246a50-67eb-4f59-a514-357706820b88",
+          "text": "Replicación.",
+          "correct": true
+        },
+        {
+          "id": "ddab8cd6-bb13-470e-a317-3a41c8dea609",
+          "text": "Traducción."
+        },
+        {
+          "id": "3b16f0e1-e520-47ed-a3c1-d466cc287c61",
+          "text": "Transcripción."
+        }
+      ]
+    },
+    {
+      "id": "c0617d09-2d8e-4b43-a30b-a56d4a46e4b0",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "El daltonismo es una alteración en la capacidad para diferenciar el verde y el rojo que se debe a la presencia de un alelo recesivo en el cromosoma X. Un hombre daltónico y una mujer homocigota con visión normal, desearían saber qué probabilidad tienen de tener hijos varones daltónicos.",
+      "options": [
+        {
+          "id": "c713193d-bf3e-42ae-acb7-2223b8683acf",
+          "text": "0,00.",
+          "correct": true
+        },
+        {
+          "id": "c4d8a8f3-7f75-4f0f-98ed-1fd4014daba1",
+          "text": "0, 25."
+        },
+        {
+          "id": "6d047376-f6ac-4705-b0fe-3b9c7e8d9918",
+          "text": "0,50."
+        },
+        {
+          "id": "b1dc03a9-09d4-46f5-baf5-4c499dbe0a84",
+          "text": "1,00."
+        }
+      ]
+    },
+    {
+      "id": "f3dfb5c5-ba36-4633-bcbb-5e15d2595617",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "El genoma viral de un virus de ARN de polaridad positiva tiene:",
+      "options": [
+        {
+          "id": "c936cab4-f667-4a53-b9cb-326e7ba12cd7",
+          "text": "El mismo sentido de lectura que el ARN mensajero.",
+          "correct": true
+        },
+        {
+          "id": "7bc326a5-049c-4d12-aa36-5a8bd31a4a16",
+          "text": "El mismo sentido de lectura que el ADN celular."
+        },
+        {
+          "id": "305c5499-6026-4540-95f1-6aa2d39d56d6",
+          "text": "El sentido complementario al ADN celular."
+        },
+        {
+          "id": "095c420e-cba5-4cb2-9aee-cb06681ed55a",
+          "text": "El sentido de lectura complementario al ARN mensajero."
+        }
+      ]
+    },
+    {
+      "id": "2e77dc9b-9299-4d34-b578-a7f56c785f23",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "El lugar físico donde se encuentra un gen en el cromosoma se denomina:",
+      "options": [
+        {
+          "id": "927e1137-f7c3-4426-ada9-631fb3b9a29c",
+          "text": "Locus.",
+          "correct": true
+        },
+        {
+          "id": "61d03938-da35-4180-b74f-1ce4ba143c67",
+          "text": "Fenotipo."
+        },
+        {
+          "id": "cb868090-22a2-4575-b729-bbd26003df49",
+          "text": "Alelo."
+        },
+        {
+          "id": "70c963b9-f304-4b97-823b-9cbb41980e3a",
+          "text": "Genotipo."
+        },
+        {
+          "id": "2ba13fa3-268c-4eb5-a5e3-97defb91d9f2",
+          "text": "Haplotipo."
+        }
+      ]
+    },
+    {
+      "id": "00f54ca4-3cd4-4b05-bbe3-faaa75be7330",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "En el ciclo celular durante la etapa S (fase S) ocurre:",
+      "options": [
+        {
+          "id": "c779b8c5-01f0-42a7-b77f-8aaedd480b74",
+          "text": "La duplicación de todo contenido del ADN.",
+          "correct": true
+        },
+        {
+          "id": "6e891749-33e5-4c08-b1ce-221481f73d85",
+          "text": "Crecimiento celular y síntesis proteica."
+        },
+        {
+          "id": "761f6752-46e1-4ffe-9344-00ee48f587be",
+          "text": "La citocinesis."
+        },
+        {
+          "id": "d33e4c4c-47a0-467d-89b1-2ea963c1373e",
+          "text": "La división del núcleo."
+        }
+      ]
+    },
+    {
+      "id": "c3e5646a-4a56-4fb0-9e65-b92d11e4bd01",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "En la genealogía mostrada en la figura se presenta el patrón de herencia de dos patologías A y B en una familia. La patología A presenta un modo de herencia monogénica:",
+      "image": "c3e5646a-4a56-4fb0-9e65-b92d11e4bd01.avif",
+      "options": [
+        {
+          "id": "3c640998-9d52-4003-9247-90ea4333518e",
+          "text": "Ligada al X recesiva.",
+          "correct": true
+        },
+        {
+          "id": "296d30d6-09be-413d-9f34-dc605b844baa",
+          "text": "Ligada al X dominante."
+        },
+        {
+          "id": "936d661d-97f6-4432-a0ee-3f366984a33d",
+          "text": "Autosómica dominante."
+        },
+        {
+          "id": "a4e7b3e0-1bc9-4e13-8339-68ad6e4465c1",
+          "text": "Autosómica recesiva."
+        }
+      ]
+    },
+    {
+      "id": "9c3f86a7-b8fe-4c1f-a0da-cfcc4dff251f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "En la genealogía mostrada en la figura se presenta el patrón de herencia de dos patologías A y B en una familia. La patología B presenta un modo de herencia monogénica:",
+      "image": "9c3f86a7-b8fe-4c1f-a0da-cfcc4dff251f.avif",
+      "options": [
+        {
+          "id": "91948fe7-7d99-415e-8b69-d55f943b49eb",
+          "text": "Autosómica recesiva.",
+          "correct": true
+        },
+        {
+          "id": "f5664ceb-a739-4efe-9f45-5b98fc7dea99",
+          "text": "Autosómica dominante."
+        },
+        {
+          "id": "a2a5c982-dfc8-4ad3-b62f-5007a4413d6d",
+          "text": "Ligada al X dominante."
+        },
+        {
+          "id": "6a5f5886-044b-4499-8d7e-8e2e77fb6eb0",
+          "text": "Ligada al X recesiva."
+        }
+      ]
+    },
+    {
+      "id": "37f43d65-a920-4921-a6a0-fa83e9108f08",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "En la genealogía mostrada en la figura se presenta el patrón de herencia de dos patologías A y B en una familia. Si el gen A presenta dos variantes alélicas (A dominante y a recesiva) y el gen B también presenta dos variantes alélicas (B dominante y b recesiva), ¿cuáles son los gametos formados por la mujer IV 3 respecto a los genes A y B?",
+      "image": "37f43d65-a920-4921-a6a0-fa83e9108f08.avif",
+      "options": [
+        {
+          "id": "babfef51-bf33-4332-ad4f-b433c29d22b5",
+          "text": "XA b y Xa b.",
+          "correct": true
+        },
+        {
+          "id": "33548003-ad50-4594-95d7-1ba0f9c6ad3f",
+          "text": "A Xb, a XB, A XB y a Xb."
+        },
+        {
+          "id": "5f32aee1-6cc5-4f47-b428-72120e52db66",
+          "text": "AB y ab."
+        },
+        {
+          "id": "c0d3395e-c3dd-4691-8e92-176583683269",
+          "text": "Ab, aB, AB y ab."
+        },
+        {
+          "id": "20fb57af-0854-4d0c-b5a4-9d0f862fe3f4",
+          "text": "Xa B, Xa b, XA B y XA b."
+        }
+      ]
+    },
+    {
+      "id": "368f61cb-7ec7-4fef-acb2-f4ef6062abc6",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "En la genealogía mostrada en la figura se presenta el patrón de herencia de dos patologías A y B en una familia. Si la enfermedad A es debida a una mutación en el gen A y la enfermedad B es debida a una mutación en el gen B, ¿cuál es genotipo de la mujer IV 3 respecto a los genes A y B?",
+      "image": "368f61cb-7ec7-4fef-acb2-f4ef6062abc6.avif",
+      "options": [
+        {
+          "id": "07e15552-e4c8-4ed5-9a88-8f07b99b0f80",
+          "text": "Heterocigota para A y homocigota recesiva para B.",
+          "correct": true
+        },
+        {
+          "id": "f8ef9397-7c4c-4e56-9f8b-5b3be69cc07d",
+          "text": "Heterocigota para A y B."
+        },
+        {
+          "id": "5bcde1b8-e8fc-45aa-bf6f-c6a0eec3ed7f",
+          "text": "Homocigota dominante para A y heterocigota para B."
+        },
+        {
+          "id": "e3dd9d27-0765-4961-a532-81c570650f3a",
+          "text": "Homocigota dominante para A y homocigota recesiva para B."
+        }
+      ]
+    },
+    {
+      "id": "8705fdc5-a033-444b-a00b-3e427d330e60",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "En la genealogía mostrada en la figura se presenta el patrón de herencia de dos patologías A y B en una familia. ¿Qué probabilidad tenía la pareja IV 3 - IV 4 de tener un hijo varón con ambas patologías? Considere que el individuo IV 4 no presenta historia familiar de las patologías A y B.",
+      "image": "8705fdc5-a033-444b-a00b-3e427d330e60.avif",
+      "options": [
+        {
+          "id": "2bbfdede-8e92-41fd-8a35-11347d6df7af",
+          "text": "0,00.",
+          "correct": true
+        },
+        {
+          "id": "2f13f63b-06bc-4fa3-95f8-1c308405c8a7",
+          "text": "0,125."
+        },
+        {
+          "id": "b5e00b1d-a82a-4b30-8a4f-3efb0c41b6b3",
+          "text": "0,25."
+        },
+        {
+          "id": "b063b5ec-d5cb-48eb-8362-b6dce64893a0",
+          "text": "0,50."
+        },
+        {
+          "id": "eae5b963-0a30-4b84-8f8a-919e888b4889",
+          "text": "1,00."
+        }
+      ]
+    },
+    {
+      "id": "72dac5ee-1ea3-4b27-afdf-21dbdcdb41d4",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "La interacción entre los microorganismos patógenos y el hombre puede tener distintas características. Cuando un patógeno se establece en un tejido humano, como la piel o la mucosa y se multiplica sin llegar a causar síntomas corresponde a una:",
+      "options": [
+        {
+          "id": "642022cd-b3aa-4863-994b-5e6d2c10edaa",
+          "text": "Infección.",
+          "correct": true
+        },
+        {
+          "id": "afe8fbd8-1a90-445c-a9d2-a264f90b6d3d",
+          "text": "Colonización."
+        },
+        {
+          "id": "6109a387-91b4-4732-a512-df65b4c32115",
+          "text": "Enfermedad."
+        }
+      ]
+    },
+    {
+      "id": "1794e395-3cfa-45b3-bce2-c8f214621226",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "La siguiente figura esquematiza una célula de 2 cromosomas en división. La célula de la etapa C presenta:",
+      "image": "1794e395-3cfa-45b3-bce2-c8f214621226.avif",
+      "options": [
+        {
+          "id": "165870af-e231-4627-9811-34cd000df48f",
+          "text": "Igual valor n pero el doble del valor c que la célula de la etapa A.",
+          "correct": true
+        },
+        {
+          "id": "23770e15-f044-4837-a069-7ed96f79b383",
+          "text": "Igual valor n y c que la célula de la etapa A."
+        },
+        {
+          "id": "f8aaf6f3-e458-4779-8b2c-9fe74a0a1e58",
+          "text": "El doble del valor n pero igual valor c que la célula de la etapa A."
+        }
+      ]
+    },
+    {
+      "id": "455e46fe-6b57-439a-a110-849c0d76d511",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "La siguiente figura esquematiza una célula de 4 cromosomas en división. Las células generadas en la etapa G presentan:",
+      "image": "455e46fe-6b57-439a-a110-849c0d76d511.avif",
+      "options": [
+        {
+          "id": "f935c48a-e7c6-402e-913b-c8de236c8de0",
+          "text": "La mitad del valor n y 4 veces menos del valor c que la célula de la etapa B.",
+          "correct": true
+        },
+        {
+          "id": "6d6ddfef-8581-4c61-829d-4f83cb114aa1",
+          "text": "Igual valor n y c que la célula de la etapa B."
+        },
+        {
+          "id": "61762fe5-8e3d-421f-b560-355328ae920b",
+          "text": "La mitad de valor n pero igual valor c que la célula de la etapa B."
+        }
+      ]
+    },
+    {
+      "id": "a7e189e4-5472-4d15-9d72-8b0c768787a1",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "La siguiente imagen muestra un esquema de la estructura de una célula bacteriana. Identifique la opción correcta referida a las estructuras indicadas con flechas.",
+      "image": "a7e189e4-5472-4d15-9d72-8b0c768787a1.avif",
+      "options": [
+        {
+          "id": "8cc8ce85-4c4d-4e0b-be58-a6a5044947fd",
+          "text": "2 indica el ADN circular cerrado.",
+          "correct": true
+        },
+        {
+          "id": "ab3b6876-3952-4215-b6d7-f83b33731543",
+          "text": "1 indica la membrana celular."
+        },
+        {
+          "id": "a55f08ed-ff4b-4c96-8076-ee2fd80177e5",
+          "text": "4 indica los organelos como mitocondrias y retículo."
+        }
+      ]
+    },
+    {
+      "id": "191a19b2-006d-4f31-957b-9470ed0e4373",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Observe la siguiente imagen que corresponde a un frotis preparado a partir de una colonia bacteriana. ¿Cuál de las siguientes estructuras de superficie es específica del tipo de bacterias que se tiñen así al Gram?",
+      "image": "191a19b2-006d-4f31-957b-9470ed0e4373.avif",
+      "options": [
+        {
+          "id": "6c3bbcfa-6cda-4ee6-bf2c-6e380241a8d8",
+          "text": "Membrana externa.",
+          "correct": true
+        },
+        {
+          "id": "ee934af9-d3e0-4e8a-9d31-dc6541e5f111",
+          "text": "Cápsula."
+        },
+        {
+          "id": "0d3414bf-f452-49ef-89b3-01264f725a52",
+          "text": "Pared con ácidos teicoicos."
+        },
+        {
+          "id": "3c8c2561-e097-4d01-82cf-e15656d0be34",
+          "text": "Pared de peptidoglicano."
+        }
+      ]
+    },
+    {
+      "id": "23c9aba4-7044-4416-b009-e209870d99f7",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Según los experimentos de Mendel; cuando el 75% de la descendencia presenta el carácter dominante y el 25% restante presenta el carácter recesivo, se dio el cruce entre:",
+      "options": [
+        {
+          "id": "33447607-5d49-4002-a9b5-1e0e206f6333",
+          "text": "Dos individuos heterocigotas.",
+          "correct": true
+        },
+        {
+          "id": "ed37e2a5-5db2-4e4d-bd85-d8bad43fb2ea",
+          "text": "Dos individuos puros fenotípicamente distintos para un rasgo."
+        },
+        {
+          "id": "a6c5a52e-2e0c-4bc1-841b-d9d1d17ba4d5",
+          "text": "Un individuo heterocigota con otro homocigota dominantes."
+        },
+        {
+          "id": "1c0d8c14-9127-46e7-bf01-c5793ce1cba7",
+          "text": "Un individuo heterocigota con otro homocigota recesivo."
+        }
+      ]
+    },
+    {
+      "id": "3cb8fe32-d53d-4d8c-99b3-3f9e525c4739",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Un hombre doble heterocigota (AaBb) para dos genes que se localizan en el par cromosómico 4 a una distancia de 5 cM, que tiene un padre homocigoto dominante para un gen y homocigoto recesivo para el otro gen (AAbb), formará:",
+      "options": [
+        {
+          "id": "5c499730-306d-41a6-9944-6e540e9e436d",
+          "text": "47,5% gametos aB, 47,5% de Ab, 2,5% de AB y 2,5% de gametos ab.",
+          "correct": true
+        },
+        {
+          "id": "36f82d5c-f303-4367-8f04-a8d632951662",
+          "text": "47,5% gametos ab, 47,5% de AB, 2,5% de aB y 2,5% de gametos Ab."
+        },
+        {
+          "id": "fa9e4211-e393-46b9-ad6b-683dd9157ed5",
+          "text": "95% gametos aB y 5% de gametos Ab."
+        },
+        {
+          "id": "6ba5e9d4-cb0f-472b-9528-2a78cb255ea3",
+          "text": "95% gametos ab y 5% de gametos AB."
+        }
+      ]
+    },
+    {
+      "id": "487a231f-0d5d-41cf-bd11-1d20c738bb3b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Una bacteria que coloniza la piel de un ser humano y produce toxinas que pueden dañar la piel sana de un hospedador inmunocompetente, puede ser caracterizada como un:",
+      "options": [
+        {
+          "id": "6f67bd44-bafa-4e46-9ee1-043acb6c9378",
+          "text": "Patógeno primario.",
+          "correct": true
+        },
+        {
+          "id": "63d547d2-2c3e-4799-b433-e55cdf9a9256",
+          "text": "Comensal oportunista."
+        },
+        {
+          "id": "88df1563-913c-49ae-851a-942c22eb6db5",
+          "text": "Comensal primario."
+        },
+        {
+          "id": "a2bfe6a4-4f44-493b-876b-9f8aca69569f",
+          "text": "Patógeno oportunista."
+        }
+      ]
+    },
+    {
+      "id": "2dddc36d-f44b-4f4f-b02f-4170f23a9d5f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Una partícula viral compuesta por ácidos nucleicos y proteínas corresponde a la de un virus...",
+      "options": [
+        {
+          "id": "23cb9c85-fc3f-485e-aad8-ec303371256f",
+          "text": "Desnudo.",
+          "correct": true
+        },
+        {
+          "id": "65c766ab-6ebb-4e88-9aa6-6bce6485b406",
+          "text": "Envuelto."
+        },
+        {
+          "id": "aad73794-2d98-4769-8448-4416d1e46c63",
+          "text": "Tanto desnudo como envuelto."
+        }
+      ]
+    },
+    {
+      "id": "55c886b2-981b-4b22-8c52-137dda71e96b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "¿Cual de los siguientes sitios del aparato reproductor femenino presenta la mayor carga de microbiota?",
+      "options": [
+        {
+          "id": "208a7b5d-e5f7-4581-84c9-0fccec6d73f4",
+          "text": "Vagina.",
+          "correct": true
+        },
+        {
+          "id": "4d0e5db6-ba97-4ad0-8f00-121a3b86a9fa",
+          "text": "Ovarios."
+        },
+        {
+          "id": "8ac1d70e-4686-4fff-ba59-89c1c94870b7",
+          "text": "Trompas."
+        },
+        {
+          "id": "4149c9d5-2115-4396-b00d-f2d7ba162405",
+          "text": "Útero."
+        }
+      ]
+    },
+    {
+      "id": "a2239954-c427-4037-928d-d0fb88362374",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "¿Cuál de las siguientes es una característica de la microbiota intestinal humana que resulta esencial para cumplir eficientemente las funciones estructurales?",
+      "options": [
+        {
+          "id": "06d1926d-edd8-4892-9a11-27ff31ef6021",
+          "text": "La alta diversidad de microorganismos de grupos taxonómicos diversos.",
+          "correct": true
+        },
+        {
+          "id": "d9705c5d-5a0c-4a15-b316-d77cefa6fdcf",
+          "text": "La alta carga de microorganismos."
+        },
+        {
+          "id": "fa2dfe65-c89d-43e7-a272-f0577edccbac",
+          "text": "La predominancia de especies inductoras del desarrollo del sistema inmune."
+        }
+      ]
+    },
+    {
+      "id": "3ddaeabe-d4b3-4086-9448-ce102d0d5612",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "¿Cuál de las siguientes es una función metabólica reconocida para la microbiota intestinal?",
+      "options": [
+        {
+          "id": "c760e735-65ea-4e8b-abc1-2a6d80ff8a9e",
+          "text": "Producción de vitaminas.",
+          "correct": true
+        },
+        {
+          "id": "ecce45b0-7002-4206-acdc-4b89dd48cb04",
+          "text": "Producción de colesterol."
+        },
+        {
+          "id": "99edad59-66e2-4685-9708-8a8f9a560693",
+          "text": "Producción de estrógenos."
+        }
+      ]
+    },
+    {
+      "id": "accc2976-9852-4d8a-af0c-a08a0d011419",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "¿Qué función cumple el centrómero de un cromosoma metafásico?",
+      "options": [
+        {
+          "id": "03412425-86c9-42e0-8bfe-d4345da8314a",
+          "text": "Se une al huso mitótico durante la división celular.",
+          "correct": true
+        },
+        {
+          "id": "e4fc1f27-af7e-411c-98ee-0d5fe9047b3e",
+          "text": "Codifica para genes necesarios para la división celular."
+        },
+        {
+          "id": "f0e7b8ec-6d2b-41a1-a191-51e593e6fabf",
+          "text": "Estabiliza la estructura de los cromosomas."
+        },
+        {
+          "id": "b001d948-b49f-4fe6-bb7a-c8f4b098d0ad",
+          "text": "Mantiene unidos a los cromosomas homólogos."
+        }
+      ]
+    },
+    {
+      "id": "c1df12c1-c920-49df-afaf-a9cd1ca1d714",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "¿Qué gametos puede producir un individuo cuyo genotipo es aaBb?",
+      "options": [
+        {
+          "id": "472898f7-f86f-4f11-a977-88624c109c7b",
+          "text": "aB y ab.",
+          "correct": true
+        },
+        {
+          "id": "e12f5fbe-5e63-41af-aa1e-542c4c893002",
+          "text": "AB, Ab, aB y ab."
+        },
+        {
+          "id": "2dea99bf-1db1-447b-99e7-12562c986b49",
+          "text": "Solamente aaBb."
+        },
+        {
+          "id": "882db375-4e0b-4520-b944-c84da5206ad1",
+          "text": "aa y Bb."
+        }
+      ]
+    },
+    {
+      "id": "dc20cb10-2fa8-4761-b413-7e9b17f9d7bf",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "¿Qué tipo de cromosoma no se observa en el cariotipo humano normal?",
+      "options": [
+        {
+          "id": "d756a9ec-608e-479d-9768-b9abef9d706a",
+          "text": "Telocéntrico.",
+          "correct": true
+        },
+        {
+          "id": "c6a9f30f-6401-4a50-8c0d-058110470c40",
+          "text": "Acrocéntrico."
+        },
+        {
+          "id": "ae816015-9853-45d7-825f-33f55306c0a9",
+          "text": "Metacéntrico."
+        },
+        {
+          "id": "72565806-ce93-4808-95f3-0ac5d30f4cee",
+          "text": "Submetacéntrico."
+        }
+      ]
     }
   ],
   "evaluations": [
     {
       "key": "parcial_1",
       "name": "1° parcial"
+    },
+    {
+      "key": "parcial_2",
+      "name": "2° parcial"
     }
   ]
 }
