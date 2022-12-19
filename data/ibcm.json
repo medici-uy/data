@@ -3983,6 +3983,802 @@
       ]
     },
     {
+      "id": "13ae8241-e7cd-45d7-8d7e-9e15ed7f10e9",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "Cuando aislamos Staphylococcus aureus de la nasofaringe de una persona sana, interpretamos este hallazgo como:",
+      "options": [
+        {
+          "id": "51fafb3b-2760-4dbb-9dc9-3a9e1492b1a1",
+          "text": "S. aureus es parte de su microbiota nasal.",
+          "correct": true
+        },
+        {
+          "id": "dfc03a18-da9d-43eb-be86-94a98da61536",
+          "text": "Comenzará una enfermedad infecciosa causada por S. aureus."
+        },
+        {
+          "id": "dbfbb598-828c-477e-8b00-9beb238bb433",
+          "text": "Está cursando una infección por S. aureus."
+        },
+        {
+          "id": "49205c08-367a-436f-8d0a-3c21d595cc09",
+          "text": "La cepa de S. aureus se trata de un contaminante ambiental."
+        }
+      ]
+    },
+    {
+      "id": "0e10c6c6-529b-4239-ac95-72afe475c25b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "De las siguientes biomoléculas que pueden formar parte de la estructura de una partícula viral, ¿cuál es de origen celular?",
+      "options": [
+        {
+          "id": "3ae4f4b6-bec8-43b0-9ee0-820d5c005819",
+          "text": "Lípidos.",
+          "correct": true
+        },
+        {
+          "id": "db54cc6d-a3a6-49cd-b6ee-f163d438b541",
+          "text": "Glicoproteínas."
+        },
+        {
+          "id": "6b6a0008-7de8-470a-8152-ae862395bee4",
+          "text": "Proteínas."
+        },
+        {
+          "id": "7c7a36ae-4f51-47fe-8662-b32b07938ab2",
+          "text": "Ácidos nucleicos."
+        }
+      ]
+    },
+    {
+      "id": "01a8e5f6-4439-4227-88ed-e4d02a7964f0",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "Durante la coloración de Gram, luego de la etapa de decoloración con alcohol-acetona y antes de agregar el colorante de contraste (safranina), las bacterias Gram negativas se observan:",
+      "options": [
+        {
+          "id": "a465513b-1f9c-48a2-84de-4f6439d55cf8",
+          "text": "Incoloras.",
+          "correct": true
+        },
+        {
+          "id": "a36a6db6-57f9-4ad8-b67d-53e4287524de",
+          "text": "Rosadas."
+        },
+        {
+          "id": "b97f40d1-d756-4d01-910e-7bd2fea3ecba",
+          "text": "Violetas."
+        }
+      ]
+    },
+    {
+      "id": "1df24bb2-de07-4f99-a04a-4fea93b1e5fb",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "El término hemicigota en un individuos sin alteraciones cromosómicas hace referencia a:",
+      "options": [
+        {
+          "id": "c3632e9a-9144-4b9f-b34d-1bc4f43257ad",
+          "text": "Una variante alélica en el cromosoma X.",
+          "correct": true
+        },
+        {
+          "id": "067c72c1-e91f-4821-84aa-4642a8bd9c3e",
+          "text": "Dos variantes alélicas en el par de cromosomas X."
+        },
+        {
+          "id": "37f179a2-570d-4c66-aed8-359387f69501",
+          "text": "Dos variantes alélicas en un par de cromosomas autosómicos."
+        },
+        {
+          "id": "cebf1ef3-e033-4cd0-a5d2-371e975fef08",
+          "text": "Una variante alélica en un cromosoma autosómico."
+        }
+      ]
+    },
+    {
+      "id": "82824baa-e0d1-4b9b-975d-7c277156a89c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "En la genealogía de la familia García se observan dos enfermedades monogénicas cuyos locus segregan de manera independiente. La fenilcetonuria es debida a una mutación en el gen PAH, y el raquitismo hipofosfatémico es debido a una mutación en el gen PHEX. ¿Cuál es el genotipo del caso índice (individuo IV7)?",
+      "image": "82824baa-e0d1-4b9b-975d-7c277156a89c.avif",
+      "options": [
+        {
+          "id": "a44b1e70-13ea-4c47-8c0b-2b4073d51e09",
+          "text": "Homocigota para PAH y heterocigota para PHEX.",
+          "correct": true
+        },
+        {
+          "id": "d3cf14ee-fd75-407d-901a-1c4acf8a5084",
+          "text": "Heterocigota para PAH y homocigota para PHEX."
+        },
+        {
+          "id": "4af69841-3e7c-437e-84b7-5d284b237ef5",
+          "text": "Heterocigota para ambos genes."
+        },
+        {
+          "id": "8005751d-f140-4402-8218-a638d78aa7b0",
+          "text": "Homocigota para ambos genes."
+        }
+      ]
+    },
+    {
+      "id": "eaee40df-656f-4c10-8c22-9a9bcbbedbb2",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "En la genealogía de la familia García se observan dos enfermedades monogénicas cuyos locus segregan de manera independiente. La fenilcetonuria es debida a una mutación en el gen PAH, y el raquitismo hipofosfatémico es debido a una mutación en el gen PHEX. ¿Cuál es el modo de herencia más probable de la fenilcetonuria?",
+      "image": "eaee40df-656f-4c10-8c22-9a9bcbbedbb2.avif",
+      "options": [
+        {
+          "id": "44ec6ded-67a6-457f-ac32-8c9873da4dee",
+          "text": "Monogénico autosómico recesivo.",
+          "correct": true
+        },
+        {
+          "id": "03dd354f-5839-4bb5-bfad-e3b59a49351f",
+          "text": "Monogénico autosómico dominante."
+        },
+        {
+          "id": "b77e97f3-312b-4f02-aef6-31a3958e0e9f",
+          "text": "Monogénico ligado al X dominante."
+        },
+        {
+          "id": "42c44e7a-e3b2-4b21-9205-c97a2701e79c",
+          "text": "Monogénico ligado al X recesivo."
+        }
+      ]
+    },
+    {
+      "id": "ece60e4e-c901-4aa5-a661-0b8670081b05",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "En la genealogía de la familia García se observan dos enfermedades monogénicas cuyos locus segregan de manera independiente. La fenilcetonuria es debida a una mutación en el gen PAH, y el raquitismo hipofosfatémico es debido a una mutación en el gen PHEX. ¿Cuál es el modo de herencia más probable del raquitismo hipofosfatémico?",
+      "image": "ece60e4e-c901-4aa5-a661-0b8670081b05.avif",
+      "options": [
+        {
+          "id": "b9c5732f-50f9-4e0d-9f7a-73cea2833672",
+          "text": "Monogénico ligado al X dominante.",
+          "correct": true
+        },
+        {
+          "id": "bce40e9a-becd-4874-baa4-95b6ed177217",
+          "text": "Monogénico autosómico dominante."
+        },
+        {
+          "id": "c76639c0-41ab-45e2-a67d-856db22a9bfe",
+          "text": "Monogénico autosómico recesivo."
+        },
+        {
+          "id": "35c7bca0-2fcf-49a4-ab41-48178461e4eb",
+          "text": "Monogénico ligado al X recesivo."
+        }
+      ]
+    },
+    {
+      "id": "0e423b3a-57a6-4f88-a99c-14d924f2cf9b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "En la genealogía de la familia García se observan dos enfermedades monogénicas cuyos locus segregan de manera independiente. La fenilcetonuria es debida a una mutación en el gen PAH, y el raquitismo hipofosfatémico es debido a una mutación en el gen PHEX. ¿Cuál es la probabilidad que tiene la pareja IV9 - IV10 de tener descendencia afectada con ambas patologías?",
+      "image": "0e423b3a-57a6-4f88-a99c-14d924f2cf9b.avif",
+      "options": [
+        {
+          "id": "f14ce918-c269-4dd9-a5e8-d4e62a13d511",
+          "text": "1/8.",
+          "correct": true
+        },
+        {
+          "id": "0bd91904-a85b-4906-b192-28c8f74d6d50",
+          "text": "0."
+        },
+        {
+          "id": "1c83aa90-b8f8-4f39-aa80-efaada8d9ef7",
+          "text": "1/16."
+        },
+        {
+          "id": "a04dd272-9e8d-44f7-99c3-d32df3d0b86f",
+          "text": "1/2."
+        },
+        {
+          "id": "5dcf0bd7-48ea-466d-836f-75c39797ab66",
+          "text": "1/4."
+        }
+      ]
+    },
+    {
+      "id": "a3c0903d-e39b-4ccc-9c01-cb95cac78f64",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "La estructura básica de un virus desnudo consiste en los siguientes componentes:",
+      "options": [
+        {
+          "id": "7358db1c-9ab9-4f6e-9dc4-2de5e84b36fb",
+          "text": "ADN o ARN contenido en una cápside proteica.",
+          "correct": true
+        },
+        {
+          "id": "a2548a4a-28e9-4b9e-b022-835483eeb10d",
+          "text": "ADN o ARN contenido en una envoltura lipídica."
+        },
+        {
+          "id": "c463ab14-9309-47cd-8034-bb80cc967ea8",
+          "text": "ADN y ARN contenido en una cápsula glicoprotéica."
+        },
+        {
+          "id": "d0418492-a2c2-4459-994e-747cfa37e12b",
+          "text": "ADN y ARN contenido en una cápsula proteica."
+        }
+      ]
+    },
+    {
+      "id": "a8f608d8-7b43-4621-bbae-2f9eca250497",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "La microbiota intestinal humana cumple importantes funciones para nuestra salud participando por ejemplo en:",
+      "options": [
+        {
+          "id": "519795df-0308-4bd4-acaa-d5eca526c54c",
+          "text": "Producción de vitaminas, desarrollo del sistema inmune y protección frente a patógenos.",
+          "correct": true
+        },
+        {
+          "id": "c8c16b1e-6eeb-4706-9331-fdf5ac6f58c7",
+          "text": "Producción de calcio, desarrollo del sistema nervioso y protección térmica."
+        },
+        {
+          "id": "1301cdb1-1ee3-47e1-8535-21279d7db935",
+          "text": "Producción de metales, desarrollo del sistema circulatorio y protección a los cambios osmóticos."
+        }
+      ]
+    },
+    {
+      "id": "a6d4c8f9-109d-4272-ab5f-ba12b85488b3",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "La microbiota intestinal humana está compuesta por:",
+      "options": [
+        {
+          "id": "d289937c-840b-479d-9893-8f830d458954",
+          "text": "Bacterias, virus y otros organismos procariotas y eucariotas.",
+          "correct": true
+        },
+        {
+          "id": "545306ac-bd7b-4a03-9323-06e5b112bc3d",
+          "text": "Bacterias, sus genes y metabolitos así como los del humano."
+        },
+        {
+          "id": "105984db-751c-429f-bdb5-929981e2ed91",
+          "text": "Bacterias, sus genes y metabolitos."
+        }
+      ]
+    },
+    {
+      "id": "632c52f1-5de2-49dd-8042-41f96f26dacf",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "La neurofibromatosis es una enfermedad que se encuentra determinada por un locus localizado en el cromosoma 17, con dos variante alélicas, donde el alelo dominante es el mutado. Este gen segrega de forma independiente del locus del gen de la fibrosis quística, cuyo modo de herencia es autosómico recesivo. ¿Cuál es el genotipo de un individuo que padece únicamente neurofibromatosis, cuya madre presenta únicamente fibrosis quística y su padre solo neurofibromatosis?",
+      "options": [
+        {
+          "id": "d4e299ec-14b0-49f7-ae01-dba6b2d69c4a",
+          "text": "Heterocigota para ambos genes.",
+          "correct": true
+        },
+        {
+          "id": "98857e06-ec96-49df-8e46-4607b9992b4f",
+          "text": "Homocigota para ambos genes."
+        },
+        {
+          "id": "aa56baa0-e52b-4a50-a49e-de92748cabc8",
+          "text": "Homocigota para un gen y heterocigota para el otro."
+        }
+      ]
+    },
+    {
+      "id": "8301c87d-059e-4200-b687-7b87e00abd30",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "La proporción fenotípica esperada en un cruzamiento de dos individuos doble heterocigotas (dihíbrido) es:",
+      "options": [
+        {
+          "id": "fcb2efcb-2290-4c00-b3ba-2944af541b0c",
+          "text": "9:3:3:1.",
+          "correct": true
+        },
+        {
+          "id": "7744c478-5ebd-4109-9484-8c0a4516c356",
+          "text": "2:1:1."
+        },
+        {
+          "id": "77060884-8772-41a2-9d03-2d0f3b81d283",
+          "text": "3:1."
+        },
+        {
+          "id": "964e9da5-e8d4-4c98-b4b1-8ac34c09f5d5",
+          "text": "9:3:2:2."
+        },
+        {
+          "id": "3e0dce4f-4de3-4ca0-a543-7e1e12c85e48",
+          "text": "9:4:2:1."
+        }
+      ]
+    },
+    {
+      "id": "f14a3ccf-9213-4379-91f7-3d05f02ef0fa",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "La segunda ley de Mendel se cumple para dos genes que se encuentran en un mismo cromosoma cuando sus loci están:",
+      "options": [
+        {
+          "id": "4a3d93e3-6e67-4e50-bfb9-a4db85738e38",
+          "text": "Muy alejados en el cromosoma.",
+          "correct": true
+        },
+        {
+          "id": "df466ac2-791f-42ed-83c6-2761b805d38c",
+          "text": "Muy próximos en el cromosoma."
+        },
+        {
+          "id": "1cc4e847-f507-4f12-9848-e82297911123",
+          "text": "Uno en cada cromosoma homólogo."
+        }
+      ]
+    },
+    {
+      "id": "d7f2e15d-42c4-4de3-a6d5-77ee368d7f80",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "Los procesos de replicación bacteriana y de recombinación genética entre bacterias son entre sí procesos:",
+      "options": [
+        {
+          "id": "c58233ad-7fec-4da0-8bc6-064f94bf292c",
+          "text": "Totalmente independientes, puesto que las bacterias se replican por fisión binaria.",
+          "correct": true
+        },
+        {
+          "id": "9a3d2c0f-197e-4eb6-96bd-94dafdf86908",
+          "text": "Que pueden estar asociados u ocurrir independientemente ya que tanto pueden replicarse sexuada o asexuadamente."
+        },
+        {
+          "id": "081d2cd2-b3dc-4445-8a49-254ff8aef06c",
+          "text": "Totalmente asociados puesto que se requiere replicarse para recombinar."
+        }
+      ]
+    },
+    {
+      "id": "127dfce5-251f-4058-a07f-1af8e279f7c6",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "Ordene las etapas del ciclo de replicación viral en orden cronológico: 1: penetración; 2: adsorción; 3: replicación y expresión génica; 4: liberación; 5: ensamblaje; 6: desnudamiento.",
+      "options": [
+        {
+          "id": "7f1f76dd-1ca1-45af-8ee2-bbf14ae30902",
+          "text": "2, 1, 6, 3, 5, 4.",
+          "correct": true
+        },
+        {
+          "id": "dbab5e2a-d70e-452b-8aea-45598de133bc",
+          "text": "1, 2, 3, 5, 6, 4."
+        },
+        {
+          "id": "2326f247-a08e-4ad9-8813-c9f3594e18e5",
+          "text": "1, 2, 6, 5, 3, 4."
+        },
+        {
+          "id": "13500788-7ccf-4091-a70a-c831be267264",
+          "text": "2, 5, 1, 6, 3, 4."
+        }
+      ]
+    },
+    {
+      "id": "c6086636-2c6e-4037-a0df-a7b145b23372",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "Para que ocurra una enfermedad infecciosa es necesario que:",
+      "options": [
+        {
+          "id": "53ed4292-af0a-4bb9-be3b-37e8c2f9f087",
+          "text": "Existan síntomas que se expliquen por la infección causada por determinado microorganismo.",
+          "correct": true
+        },
+        {
+          "id": "5f9c1f3a-39c9-4d90-9089-8e3b013ca619",
+          "text": "Existan síntomas de enfermedad aunque no se correlacionen con la presencia de un microorganismo si existe inflamación."
+        },
+        {
+          "id": "2357ca32-4c1e-423a-b027-afc3434b1567",
+          "text": "Se demuestre la presencia de un agente infeccioso, aunque no se detecten síntomas."
+        },
+        {
+          "id": "66a05943-67b2-469b-b233-70ccc8b22ccb",
+          "text": "Se demuestre la presencia de un microorganismo en el sitio afectado, independientemente de cuál sea la localización."
+        }
+      ]
+    },
+    {
+      "id": "02eb2d1c-aa30-4680-bc39-6c863ed36068",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "S. aureus es un microorganismo que en cuanto a su velocidad de crecimiento y sus requerimientos nutricionales es de:",
+      "options": [
+        {
+          "id": "8e1f2319-b500-4d21-9118-105b779a54c7",
+          "text": "Crecimiento rápido y no exigente nutricionalmente.",
+          "correct": true
+        },
+        {
+          "id": "bf1e2a34-1f41-46ea-875b-37b8d78c2c35",
+          "text": "Crecimiento lento y exigente nutricionalmente."
+        },
+        {
+          "id": "9fe3fd02-e1b1-4ab6-8ab7-4ed9318c5d2d",
+          "text": "Crecimiento lento y no exigente nutricionalmente."
+        },
+        {
+          "id": "65829f1c-9279-4548-a88b-99e27ad776f8",
+          "text": "Crecimiento rápido y exigente nutricionalmente."
+        }
+      ]
+    },
+    {
+      "id": "52a10ad2-0144-42f4-a944-6daa117f0b76",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "Si preparamos un frotis a partir de una de las estructuras redondeadas que se observan a simple vista en un cultivo, luego de teñir con Gram ese cultivo, observaremos al microscopio:",
+      "options": [
+        {
+          "id": "dd6142b1-04e5-49e4-a89b-e27271445d46",
+          "text": "Cocos o bacilos.",
+          "correct": true
+        },
+        {
+          "id": "6763839e-6f34-4aaa-b43b-d44afb33f35f",
+          "text": "Cadenas y racimos."
+        },
+        {
+          "id": "3deb4680-ea46-4f2d-8fe7-617aa2d0a274",
+          "text": "Cocos y bacilos."
+        },
+        {
+          "id": "75f96049-94cc-49a3-bb60-724a4c321ee4",
+          "text": "Cocos."
+        },
+        {
+          "id": "cc61df40-f5a8-4d41-b525-678b82540b47",
+          "text": "Colonias."
+        }
+      ]
+    },
+    {
+      "id": "e0268287-cae9-4e42-bc7a-665d3649a5aa",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "Si se detecta S. aureus en las fosas nasales de una persona que no presenta ninguna manifestación clínica, usted considera que esa persona:",
+      "options": [
+        {
+          "id": "50279f15-784b-4ee5-abfa-2fad5ade0d2f",
+          "text": "Es portadora sana de S. aureus.",
+          "correct": true
+        },
+        {
+          "id": "3bf87f63-a8f4-4fde-b483-57ed8e2a064c",
+          "text": "Está infectada por S. aureus."
+        },
+        {
+          "id": "1020cb84-6a2f-4669-a09b-a01ed7bf02a2",
+          "text": "Tiene una enfermedad causada por S. aureus."
+        },
+        {
+          "id": "b335a841-27fa-4280-bb0a-fd9bd796fa1e",
+          "text": "Va a cursar una enfermedad causada por S. aureus."
+        }
+      ]
+    },
+    {
+      "id": "e71d05c2-0a2e-472e-830b-37ad0521b585",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "Una mujer portadora de una enfermedad ligada al X recesiva está esperando un varón. ¿Cuál es la probabilidad de que el hijo padezca la enfermedad?",
+      "options": [
+        {
+          "id": "77983b34-758c-419d-9b70-c3c1dec60974",
+          "text": "1/2.",
+          "correct": true
+        },
+        {
+          "id": "54557064-050e-4ee4-ae99-6b94e0f1cf15",
+          "text": "0."
+        },
+        {
+          "id": "1f48afd3-4b8c-4ff1-bd83-7b40d143da2d",
+          "text": "1."
+        },
+        {
+          "id": "8bb3fbec-5bae-423f-bac2-d109a65f7b1d",
+          "text": "1/4."
+        },
+        {
+          "id": "7365aa55-ca40-48eb-b3e5-60343e9d44cc",
+          "text": "3/4."
+        }
+      ]
+    },
+    {
+      "id": "7e673130-7eff-4a41-8c8b-441326fcfbd7",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "¿Cuál de las siguientes estructuras celulares se encuentran en una célula bacteriana pero no en una célula humana?",
+      "options": [
+        {
+          "id": "08e06083-f704-4d29-bc0b-2e32fc9e6ef1",
+          "text": "Peptidoglicano.",
+          "correct": true
+        },
+        {
+          "id": "ab433b03-f0ae-4588-97c3-321059a5cb83",
+          "text": "Genoma de ADN."
+        },
+        {
+          "id": "5b957150-edb2-4ade-8680-ee1a73c21087",
+          "text": "Membrana celular."
+        },
+        {
+          "id": "4ca4529f-85d3-4472-b2fd-efd7fc7e9dbd",
+          "text": "Mitocondrias."
+        },
+        {
+          "id": "3899c8d4-8ef3-4d5f-b838-8ba3792991ac",
+          "text": "Ribosomas."
+        }
+      ]
+    },
+    {
+      "id": "b733f727-ad92-4609-83f7-4cc23fee330d",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "¿Cuál de las siguientes estructuras celulares se encuentran en una célula eucariota pero no en una procariota?",
+      "options": [
+        {
+          "id": "5b67ad91-6c3a-425b-a3e5-019033aa81cc",
+          "text": "Mitocondrias.",
+          "correct": true
+        },
+        {
+          "id": "920901c8-ab1b-430a-919e-66d899ce2398",
+          "text": "Genoma de ADN."
+        },
+        {
+          "id": "2d2cbf55-72a0-4ad6-96b8-4efb45d9e026",
+          "text": "Membrana celular."
+        },
+        {
+          "id": "ef2d5dbf-4852-477a-a860-b573f698fd9d",
+          "text": "Peptidoglicano."
+        },
+        {
+          "id": "584922c0-af7f-414f-bbb9-1fd8b6a85359",
+          "text": "Ribosomas."
+        }
+      ]
+    },
+    {
+      "id": "552cef80-3d3a-47dd-a272-0a5919ba0947",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "¿Cuál de las siguientes estructuras se encuentra en un virus envuelto pero no en un virus desnudo?",
+      "options": [
+        {
+          "id": "cc2b3eb0-8e2f-4947-9a86-dbccc472f937",
+          "text": "Membrana.",
+          "correct": true
+        },
+        {
+          "id": "597f39c3-6887-4e5f-a42c-5169c5d81f89",
+          "text": "Cápside."
+        },
+        {
+          "id": "22b36700-99dd-49e7-945a-70e3fbaafef5",
+          "text": "Cápsula."
+        },
+        {
+          "id": "56790a73-ca94-42cf-a8ba-5b456edf879d",
+          "text": "Nucleocápside."
+        }
+      ]
+    },
+    {
+      "id": "b5ddcd10-6b5a-4f45-bef4-2bd0ecd48a8e",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "¿Cuál de los siguientes mecanismos explica en parte la variabilidad genética en las bacterias?",
+      "options": [
+        {
+          "id": "e7b395c5-8aa3-44c2-a082-f9263e6b255f",
+          "text": "Adquisición de material genético del medio ambiente.",
+          "correct": true
+        },
+        {
+          "id": "2d28675e-6601-40eb-ae37-8976bce05165",
+          "text": "Meiosis con intercambio de fragmentos de ADN."
+        },
+        {
+          "id": "ff508818-46d0-49e1-8b12-65d2e58395b5",
+          "text": "Mutaciones en secuencias nucleotídica a nivel de los intrones."
+        },
+        {
+          "id": "fd823327-2bb9-459d-b8b1-d2b3226602a3",
+          "text": "Pasaje del plastoma a las bacterias."
+        }
+      ]
+    },
+    {
+      "id": "b58eccd1-de4e-44bc-ad6f-91bea183eb81",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "¿Cuál es la probabilidad que tiene un individuo no afectado de transmitir una patología monogénica autosómica dominante?",
+      "options": [
+        {
+          "id": "d98b7a58-f84d-4878-8f69-9a46cf8a149c",
+          "text": "0.",
+          "correct": true
+        },
+        {
+          "id": "f0194b0a-9929-4d9e-a9ff-c9e77cba3127",
+          "text": "1."
+        },
+        {
+          "id": "80698e8a-1091-4ad7-9a9c-7d8f16fd3eb8",
+          "text": "1/2."
+        },
+        {
+          "id": "23225e2a-69eb-49ba-8d29-51029a0a7376",
+          "text": "1/4."
+        },
+        {
+          "id": "daa38703-65fb-4b25-b4e3-1aeafb334398",
+          "text": "3/4."
+        }
+      ]
+    },
+    {
+      "id": "f674450f-eaf0-42e9-b4cd-ca31defa6bda",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "¿Cómo se denomina a la fase del ciclo viral en la que el genoma del virus es liberado de la cápside dentro de la célula hospedadora?",
+      "options": [
+        {
+          "id": "00c74752-a38e-484e-abcc-c89f7db0d362",
+          "text": "Desnudación.",
+          "correct": true
+        },
+        {
+          "id": "2b5c4377-de7a-4684-8c74-fce00399e8e8",
+          "text": "Adsorción."
+        },
+        {
+          "id": "e0f23f37-533b-404f-ba60-2c69bb9a6c4c",
+          "text": "Maduración."
+        },
+        {
+          "id": "199286bf-8ba0-4bd7-97f7-504e35cdfb39",
+          "text": "Penetración."
+        }
+      ]
+    },
+    {
+      "id": "d1c100b8-00e2-4023-8cc1-500ad8a9c513",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "¿Cómo se observa al microscopio óptico un frotis preparado a partir de una colonia de S. aureus teñido con Gram?",
+      "options": [
+        {
+          "id": "495be9ae-7730-4927-a709-89a530e372c2",
+          "text": "Cocos gram positivos en racimos.",
+          "correct": true
+        },
+        {
+          "id": "50009fdf-aa26-4f92-a2e5-128f94b95872",
+          "text": "Bacilos gram negativos en cadenas."
+        },
+        {
+          "id": "6b0c0aec-34ca-4ef1-8818-4a9650d5ef95",
+          "text": "Bacilos gram positivos en cadenas."
+        },
+        {
+          "id": "c216ebf4-24a6-4001-82ba-c37c676d3bb1",
+          "text": "Cocos gram negativos en racimos."
+        }
+      ]
+    },
+    {
+      "id": "3fbcc57a-3f87-458b-874f-9127ad05cd41",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "¿Por qué las bacterias Gram positivas se tiñen de violeta con la coloración de Gram?",
+      "options": [
+        {
+          "id": "0c5b80f8-4cfb-4586-aaae-9651f24f9fa7",
+          "text": "Porque tienen una gruesa capa de peptidoglicano.",
+          "correct": true
+        },
+        {
+          "id": "fb6e7c6a-e20b-4027-bf70-b1081875ae92",
+          "text": "Porque presentan membrana externa."
+        },
+        {
+          "id": "7b620d3b-1365-40e7-a4ea-2e947a60c34a",
+          "text": "Porque presentan una pared celular delgada."
+        },
+        {
+          "id": "3de6f0f0-078d-4f25-a9d5-272e6cf10d3b",
+          "text": "Porque se tiñen con la safranina usada como colorante de contraste."
+        },
+        {
+          "id": "ad8109a9-42fc-4f31-8d6d-47d38db5c4e8",
+          "text": "Porque tienen lipopolisacárido (LPS)."
+        }
+      ]
+    },
+    {
+      "id": "22fd70be-fdd5-4be3-bfc1-2fec896d1a06",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "¿Qué es lo que se observa a simple vista en un cultivo bacteriano como el que observamos en clase?",
+      "options": [
+        {
+          "id": "d2b6b04b-7a23-4d57-a34b-5d2eec62d140",
+          "text": "Colonias.",
+          "correct": true
+        },
+        {
+          "id": "426ea13c-ca54-4679-b151-7791d88ca395",
+          "text": "Cadenas y racimos."
+        },
+        {
+          "id": "09e5121a-1554-4a22-b5d0-3ba113b11d5b",
+          "text": "Cocos o bacilos."
+        },
+        {
+          "id": "f2a086bb-8c97-41ea-9532-cb6e51b7d366",
+          "text": "Cocos y bacilos."
+        },
+        {
+          "id": "15d2d299-ada4-4bf1-8cfa-5ecc3cf62e3e",
+          "text": "Cocos."
+        }
+      ]
+    },
+    {
       "id": "ba31f6a2-56b8-4141-90e6-6838644b0689",
       "evaluation": "parcial_2",
       "source": "partial",
