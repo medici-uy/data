@@ -3983,6 +3983,645 @@
       ]
     },
     {
+      "id": "7937e117-28c4-4e8c-9d2f-7546d6255831",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Al finalizar la meiosis I una célula con 12 pares de cromosomas homólogos generará dos células con:",
+      "options": [
+        {
+          "id": "07dcd7d5-7c34-41d7-a5ca-256303819539",
+          "text": "n = 12 y un total de 24 moléculas de ADN.",
+          "correct": true
+        },
+        {
+          "id": "ee3dd446-eb30-48eb-9f43-bf9e23c11dcb",
+          "text": "n = 12 y un total de 12 moléculas de ADN."
+        },
+        {
+          "id": "7aa98d0a-032d-4014-811b-3cdcc4abc0d6",
+          "text": "n = 24 y un total de 12 moléculas de ADN."
+        },
+        {
+          "id": "e4fcd75c-d8ff-4ad8-bda2-637e8687e807",
+          "text": "n = 24 y un total de 24 moléculas de ADN."
+        }
+      ]
+    },
+    {
+      "id": "efdf9489-c7df-4724-b95a-b539b407ec31",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "El 30 % de las muestras de exudados nasales tomadas a estudiantes voluntarios durante los talleres, resultaron positivas para Staphylococcus aureus. Este hallazgo implica probablemente que estos estudiantes:",
+      "options": [
+        {
+          "id": "90b1d0e8-0bd8-436d-a01b-c4a7801c723a",
+          "text": "Son portadores nasales de S. aureus.",
+          "correct": true
+        },
+        {
+          "id": "42ccfeee-872c-4f76-b167-2a286840aa90",
+          "text": "Están colonizados y sufrirán una enfermedad por S. aureus."
+        },
+        {
+          "id": "45f44edb-2670-4d04-8cd1-634b6fdae1a9",
+          "text": "Están infectados por S. aureus."
+        },
+        {
+          "id": "4b9d1dfb-c728-44d2-8641-864984ff0dea",
+          "text": "Están sufriendo una enfermedad causada por S. aureus."
+        }
+      ]
+    },
+    {
+      "id": "0aa9440b-cdcf-450b-9df2-843e98fd13b3",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "El genoma bacteriano está compuesto en general por:",
+      "options": [
+        {
+          "id": "01026008-f1e1-4b72-a6da-cf36c4d523cf",
+          "text": "Dos hebras de ADN circular, compactado por superenrollamiento.",
+          "correct": true
+        },
+        {
+          "id": "c4d26885-8cbf-4f6f-9f8b-1faf3284a7d0",
+          "text": "Dos hebras de ADN circular, compactada en nucleosomas."
+        },
+        {
+          "id": "ac3b78e4-da6d-4821-986c-843c57b109b7",
+          "text": "Dos hebras de ADN lineal, compactado en nucleosomas."
+        },
+        {
+          "id": "39875733-92f2-45d2-8edb-550562a6b939",
+          "text": "Una única hebra de ADN circular, compactado por superenrollamiento."
+        },
+        {
+          "id": "8c98bec3-e01f-408c-bc31-ab46aa57c49a",
+          "text": "Una única hebra de ADN lineal, compactado en nucleosomas."
+        }
+      ]
+    },
+    {
+      "id": "641c88f7-fab7-49ca-bfe4-8bba3dcd2a80",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "El octámero de histonas nucleosomales se une al ADN en una región:",
+      "options": [
+        {
+          "id": "07772413-4e7d-46bd-bb28-889fb86ad2e8",
+          "text": "Independientemente del contenido G-C.",
+          "correct": true
+        },
+        {
+          "id": "d60e7936-0657-4761-8ab1-a9cdc7cf562b",
+          "text": "Con un alto contenido de bases G-C."
+        },
+        {
+          "id": "04394726-7723-44ed-8119-0a87f0927ae3",
+          "text": "Con un bajo contenido de bases G-C."
+        }
+      ]
+    },
+    {
+      "id": "4cd6eb39-3006-4ac6-a242-601d717acd3f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "El virus de VIH, posee una polimerasa de ácidos nucleicos que no se encuentra presente en las células humanas. Esta enzima es capaz de sintetizar:",
+      "options": [
+        {
+          "id": "6e74d762-8370-490c-9060-95c1d779709e",
+          "text": "ADN utilizando como molde una hebra de ARN.",
+          "correct": true
+        },
+        {
+          "id": "4b9a7db1-6de0-4173-8c54-ae2dfa78e5f4",
+          "text": "ADN utilizando como molde otra hebra de ADN."
+        },
+        {
+          "id": "758d9da7-84fd-477b-ba12-04fb40269b21",
+          "text": "ARN utilizando como molde otra hebra de ARN."
+        },
+        {
+          "id": "0e90c00d-85fe-45d9-a104-000a9bc75ca9",
+          "text": "ARN utilizando como molde una hebra de ADN."
+        }
+      ]
+    },
+    {
+      "id": "632a2d58-d007-4ba6-9f26-06cb03f33953",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "En la profase mitótica:",
+      "options": [
+        {
+          "id": "8ebb2bcc-8045-4323-b28a-5fd25f86c720",
+          "text": "Cada cromosoma está constituido por 2 cromátides hermanas.",
+          "correct": true
+        },
+        {
+          "id": "ea3ffed6-d08f-42b1-9c10-e22965953a23",
+          "text": "Los bivalentes se encuentran en el plano ecuatorial."
+        },
+        {
+          "id": "fe090f5c-8889-45d1-a211-08130e84eca2",
+          "text": "Los cromosomas homólogos están apareados formando bivalentes."
+        },
+        {
+          "id": "1090b16b-db7c-40ed-8674-ebfee2ff3839",
+          "text": "Se produce el crossingover o entrecruzamiento."
+        }
+      ]
+    },
+    {
+      "id": "6a2af5e2-5140-4e7d-9e93-8da0f817237d",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "En un frotis preparado a partir del exudado vaginal de una mujer joven y sana, se observan células epiteliales y abundantes bacterias que corresponden a bacilos gram positivos. Estas bacterias muy probablemente:",
+      "options": [
+        {
+          "id": "d395f1d4-75ed-4be6-9078-994c22ba3a69",
+          "text": "Forman parte de la microbiota y establecen una relación de simbiosis con su hospedador.",
+          "correct": true
+        },
+        {
+          "id": "23511fad-ecd7-441c-b61f-8a1746f6d963",
+          "text": "Están infectando la mucosa vaginal y establecen una relación de parasitismo con su hospedador."
+        },
+        {
+          "id": "48079fe3-6ec9-4557-852c-d6f78954b24a",
+          "text": "Están infectando la mucosa vaginal y pueden establecer una relación de simbiosis o de parasitismo."
+        },
+        {
+          "id": "2c1dca22-9eea-4e2e-bc34-c4819483e787",
+          "text": "Forman parte de la microbiota y pueden establecer una relación de simbiosis o de parasitismo."
+        }
+      ]
+    },
+    {
+      "id": "3124e805-918d-4d09-9dcb-04acc24b0b31",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "La máxima condensación de la cromatina durante el ciclo celular se alcanza en la:",
+      "options": [
+        {
+          "id": "a7987f2a-3fee-4e19-83db-951916360ab4",
+          "text": "Etapa de metafase de la mitosis.",
+          "correct": true
+        },
+        {
+          "id": "17012dce-c763-498b-8aa8-3116c5a2b206",
+          "text": "Etapa de telofase de la mitosis."
+        },
+        {
+          "id": "13f30a42-ddbb-4031-ab36-49683dcd2941",
+          "text": "Fase G1 del ciclo celular."
+        },
+        {
+          "id": "288a3d1c-893f-4a33-8773-0ff3105eb4fc",
+          "text": "Fase S del ciclo celular."
+        }
+      ]
+    },
+    {
+      "id": "27df4d2a-c240-487a-8c93-fa2a6a13ce99",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "La siguiente figura representa la estructura general de un virus envuelto. En el virus VIH, la estructura representada con el número 4 está formada por:",
+      "image": "27df4d2a-c240-487a-8c93-fa2a6a13ce99.avif",
+      "options": [
+        {
+          "id": "6190e09e-ec9a-440a-b03c-936ac8c25cff",
+          "text": "ARN simple cadena.",
+          "correct": true
+        },
+        {
+          "id": "88e6a6ea-be98-41f8-b40d-657620f87f24",
+          "text": "ADN doble cadena."
+        },
+        {
+          "id": "e4267f22-48c5-4150-b692-0202b2dbbcdc",
+          "text": "ADN simple cadena."
+        },
+        {
+          "id": "59db85dd-0c6a-4f94-8915-85ce271b2c79",
+          "text": "ARN doble cadena."
+        }
+      ]
+    },
+    {
+      "id": "5d7389b4-4a96-49aa-ba67-3abd1002b905",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "La siguiente figura representa la estructura general de un virus envuelto. La estructura representada con el número 1...",
+      "image": "5d7389b4-4a96-49aa-ba67-3abd1002b905.avif",
+      "options": [
+        {
+          "id": "957d4ca0-255f-411b-9584-d0304d06d360",
+          "text": "Está codificada por el genoma del virus y se inserta en la membrana de la célula hospedadora.",
+          "correct": true
+        },
+        {
+          "id": "f631aa1b-3799-466b-9fa6-d5bcfc869bb3",
+          "text": "Está codificada por el genoma de la célula hospedadora y se inserta en la envoltura del virus."
+        },
+        {
+          "id": "b4daac4b-689e-4db3-bf6c-47e2e90668a0",
+          "text": "Está codificada por el genoma de otro virus que infectó la misma célula anteriormente."
+        }
+      ]
+    },
+    {
+      "id": "c37db0f3-8465-42f1-bcf7-9d26324ea64c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "La siguiente figura representa la estructura general de un virus envuelto. La estructura representada con el número 2 en la figura, está compuesta por:",
+      "image": "c37db0f3-8465-42f1-bcf7-9d26324ea64c.avif",
+      "options": [
+        {
+          "id": "3e570698-0fef-4cf0-8bfe-7119336543c2",
+          "text": "Lípidos.",
+          "correct": true
+        },
+        {
+          "id": "45c8b396-5e93-46dc-bd2b-93ed0c2c4a70",
+          "text": "Polisacáridos."
+        },
+        {
+          "id": "b397847e-381e-46e4-b3b7-96a71c080485",
+          "text": "Proteínas."
+        },
+        {
+          "id": "8f5f988d-b737-472c-9a44-e56df3bedaee",
+          "text": "Ácidos nucleicos."
+        }
+      ]
+    },
+    {
+      "id": "c86def37-770d-4d1d-b29d-65b1a39d2c64",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "La siguiente figura representa la estructura general de un virus envuelto. La estructura representada con el número 3 en la figura, está compuesta por:",
+      "image": "c86def37-770d-4d1d-b29d-65b1a39d2c64.avif",
+      "options": [
+        {
+          "id": "566622e9-180b-419b-9145-2e3d013cc8d6",
+          "text": "Proteínas.",
+          "correct": true
+        },
+        {
+          "id": "9e1f62f9-07c0-4429-add6-189f07d18de1",
+          "text": "Lípidos."
+        },
+        {
+          "id": "3fcda125-7019-4ea5-b4c1-bb91fd5be4ef",
+          "text": "Polisacáridos."
+        },
+        {
+          "id": "52fa095f-4ea2-4484-ba1b-29365bbe61b3",
+          "text": "Ácidos nucleicos."
+        }
+      ]
+    },
+    {
+      "id": "f40ed61d-1a6a-4748-b50f-f4dbfa55ae77",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "La siguiente figura representa la estructura general de un virus envuelto. ¿Cuáles de las estructuras representadas se encuentran en todos los virus, sean estos envueltos o desnudos?",
+      "image": "f40ed61d-1a6a-4748-b50f-f4dbfa55ae77.avif",
+      "options": [
+        {
+          "id": "856df4fa-5892-4448-90a7-24ef8b535ccd",
+          "text": "3 y 4.",
+          "correct": true
+        },
+        {
+          "id": "06b80e15-5198-4405-b96c-d3eca7c0362a",
+          "text": "1, 2 y 3."
+        },
+        {
+          "id": "0dd45198-824b-492e-9d25-c12cae645bc1",
+          "text": "1, 2, 3 y 4."
+        },
+        {
+          "id": "5991bd21-abed-45ae-92c4-a208e8314baf",
+          "text": "2, 3 y 4."
+        },
+        {
+          "id": "5e5240eb-64c9-4018-9aad-499165f672e4",
+          "text": "4."
+        }
+      ]
+    },
+    {
+      "id": "04dbfdea-5e11-46ff-9982-27c4ff6a13b6",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Las bacterias se replican generalmente mediante un proceso de reproducción:",
+      "options": [
+        {
+          "id": "08e22b1d-4b06-423c-9a83-4fd97d3b8f2a",
+          "text": "Asexuada, en el que una célula replica su material genético y se divide en dos.",
+          "correct": true
+        },
+        {
+          "id": "e8d36c06-2833-490d-9f6f-d2b0c53260bd",
+          "text": "Asexuada, en el que intervienen 2 células bacterianas pero no hay intercambio genético."
+        },
+        {
+          "id": "6480091e-7e88-4919-b4b5-83aeff9bdd22",
+          "text": "Sexuada, en el que intervienen 2 células bacterianas que intercamban material genético."
+        }
+      ]
+    },
+    {
+      "id": "1b079cc5-6c5d-4405-a413-037aff6c1075",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Las células bacterianas que se encuentran constituyendo una única colonia bacteriana, fueron originadas a partir de:",
+      "options": [
+        {
+          "id": "c7972bb2-89a4-4975-9976-af6f7a034017",
+          "text": "Una única célula que da lugar a muchas todas idénticas.",
+          "correct": true
+        },
+        {
+          "id": "a4d7ab70-f766-4f78-ae07-cb5531cf646a",
+          "text": "Dos células que recombinan dando lugar a un nuevo tipo bacteriano."
+        },
+        {
+          "id": "8932db2b-f1bd-4c7d-bbfa-6304f40de88f",
+          "text": "Tres o más células bacterianas que se multiplican originando diversos tipos."
+        }
+      ]
+    },
+    {
+      "id": "72cb6027-87cf-46cc-a87d-621e617f5ea9",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Los dos cromosomas 1 de un ser humano tienen:",
+      "options": [
+        {
+          "id": "79bbe897-79c8-4eac-ab23-979802eb887c",
+          "text": "El mismo patrón de bandas en el cariotipo.",
+          "correct": true
+        },
+        {
+          "id": "c76c3ee6-2734-4a6c-b22e-e1ae11160f21",
+          "text": "La misma secuencia de ADN en los genes que porta."
+        },
+        {
+          "id": "c3d049f1-0109-4193-a1f5-df60fede8ba6",
+          "text": "Los mismos alelos en los mismo loci."
+        }
+      ]
+    },
+    {
+      "id": "000a551f-d936-4ba6-8150-5fb6ccb62971",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Si en anafase mitótica dos cromátidas hermanas migran juntas hacia el mismo polo, las células hijas tendrán:",
+      "options": [
+        {
+          "id": "cc57b3c9-720a-4fa1-8ea6-2b6b5455fe9e",
+          "text": "Diferente número de genes entre sí y diferente al de la madre.",
+          "correct": true
+        },
+        {
+          "id": "5990e368-bc4f-4409-8b66-ba225efe4e8a",
+          "text": "Diferente número de genes entre sí, pero igual al de la madre."
+        },
+        {
+          "id": "ba8d8304-ced7-42a3-9fea-e6ebd71257d2",
+          "text": "Igual número de genes entre si e igual a la célula madre."
+        },
+        {
+          "id": "f2dad911-f941-48a0-af7f-ee02ccd5dee3",
+          "text": "Igual número de genes entre sí, pero diferente al de la madre."
+        }
+      ]
+    },
+    {
+      "id": "155e5746-228e-4191-8f93-788e92b4b001",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Si preparamos un frotis a partir de una colonia de S. aureus, lo teñimos con Gram y lo miramos al microscopio, deberíamos observar:",
+      "options": [
+        {
+          "id": "8b490e34-3dbc-40fc-8d51-e81d35f72d60",
+          "text": "Células de forma redondeada gram positivas.",
+          "correct": true
+        },
+        {
+          "id": "443a0706-c2fc-4591-a325-bd0614df1cc3",
+          "text": "Células de forma alargada gram negativas."
+        },
+        {
+          "id": "fbb941f9-66d1-4085-8cd6-5b0771549eb3",
+          "text": "Células de forma alargada gram positivas."
+        },
+        {
+          "id": "d459ff58-1cf0-4ba8-8f40-ebf61ce01d9e",
+          "text": "Células de forma redondeada gram negativas."
+        }
+      ]
+    },
+    {
+      "id": "4ac2fef3-88f2-449e-a8ec-3c5801e65274",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Si quisiéramos conocer a cada uno de los integrantes de la microbiota intestinal, sería indicado a partir de una muestra por ejemplo de materia fecal identificar la composición del microbioma. Para eso, deberíamos:",
+      "options": [
+        {
+          "id": "6edf405f-4e15-4375-b229-612741df728a",
+          "text": "Extraer ácidos nucleicos totales y obtener las secuencias totales para conocer los genes y obtener información de los microorganismos presentes.",
+          "correct": true
+        },
+        {
+          "id": "4223c7c3-30da-454f-9c1c-3367957d1af5",
+          "text": "Cultivar en distintos medios de cultivo para luego identificar con pruebas bioquímicas cada tipo de colonias."
+        },
+        {
+          "id": "124aea2a-644c-4a2b-acdc-ea89ea1fea85",
+          "text": "Cultivar en un medio muy rico en diferentes condiciones atmosféricas e identificar cada tipo de colonias con pruebas genéticas."
+        }
+      ]
+    },
+    {
+      "id": "268dadc2-c7cc-4abd-b13d-4215c3b66282",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Si se expone a la célula a un inhibidor de la ADN polimerasa (enzima que sintetiza el ADN), ¿qué etapa del ciclo celular se verá afectada?",
+      "options": [
+        {
+          "id": "e311ca07-bf2a-4e8d-91fc-cf45a04afa41",
+          "text": "S.",
+          "correct": true
+        },
+        {
+          "id": "267540ae-20c5-4456-bbda-1e8bccb4eb12",
+          "text": "G1."
+        },
+        {
+          "id": "fff9aa8a-40d4-4ee3-92ee-d7b0cb6126ee",
+          "text": "G2."
+        },
+        {
+          "id": "1bb83009-4a51-42b7-88a5-63dee34d88ad",
+          "text": "M."
+        }
+      ]
+    },
+    {
+      "id": "10ee904c-0707-4140-9ba9-b9efaf5bedaf",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Un individuo heterocigota:",
+      "options": [
+        {
+          "id": "9b6fee70-7a53-4fe0-a459-5004be1f0a74",
+          "text": "Presenta dos alelos diferentes para un gen.",
+          "correct": true
+        },
+        {
+          "id": "2bfbdbc8-efb3-4cd5-a3b6-b325ea45e892",
+          "text": "Presenta dos alelos iguales para un gen."
+        },
+        {
+          "id": "a20e7b14-63a6-4d75-bee3-2528934c25c5",
+          "text": "Presenta dos loci diferentes para un gen."
+        },
+        {
+          "id": "eb897e5c-9a5b-4947-bdeb-c94270379684",
+          "text": "Presenta dos loci iguales para un gen."
+        }
+      ]
+    },
+    {
+      "id": "a76bdc7b-1c95-40c2-a148-61ce4f392f2a",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "¿Cuál de las siguientes estructuras celulares se encuentra en una bacteria gram negativa pero no en una gram positiva?",
+      "options": [
+        {
+          "id": "fd11ab02-ae7f-4708-a9f0-f80c7aeefc27",
+          "text": "Lipopolisacárido.",
+          "correct": true
+        },
+        {
+          "id": "8517b154-c63a-424b-82e1-5491a0b6df61",
+          "text": "Peptidoglicano."
+        },
+        {
+          "id": "9357c3e0-cbdc-4141-a348-6732f075e58d",
+          "text": "Retículo endoplásmico."
+        },
+        {
+          "id": "d22779dd-c4e4-491c-a896-4670df9e3cb2",
+          "text": "Ácidos teicoicos."
+        }
+      ]
+    },
+    {
+      "id": "2f7b34e9-493d-4326-bb37-9880f88116f9",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "¿Cuál de las siguientes estructuras celulares se encuentra tanto en las bacterias gram negativas como en las gram positivas?",
+      "options": [
+        {
+          "id": "c6339123-a7ef-43cf-a06c-7edc3dc02b43",
+          "text": "Peptidoglicano.",
+          "correct": true
+        },
+        {
+          "id": "a11924c4-4ab2-47d7-82e7-d00ac081448b",
+          "text": "Lipopolisacárido."
+        },
+        {
+          "id": "350cb6a9-a2b3-4616-82e4-f5c3fcd755c2",
+          "text": "Retículo endoplásmico."
+        },
+        {
+          "id": "025f39a7-d5cd-4b5a-8a4e-32db62f0d2e6",
+          "text": "Ácidos teicoicos."
+        }
+      ]
+    },
+    {
+      "id": "498834cd-fb4a-4f08-86db-427259e825d9",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "¿Cuál de las siguientes estructuras se encuentran en una célula bacteriana pero no en una célula humana?",
+      "options": [
+        {
+          "id": "ecab1ccc-e4e9-4249-8f66-8fb868e741ac",
+          "text": "Pared celular.",
+          "correct": true
+        },
+        {
+          "id": "958ec1e5-670a-4126-a0e1-43bf71d27568",
+          "text": "Membrana celular."
+        },
+        {
+          "id": "ca749143-947f-441e-836f-145e0e646057",
+          "text": "Mitocondrias."
+        },
+        {
+          "id": "e05a8b05-9ffe-4ecb-b3c4-7e1129f4b16b",
+          "text": "Ribosomas."
+        }
+      ]
+    },
+    {
+      "id": "282970c6-4391-428d-a080-f4bd3f75a8f1",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "¿Cuál de las siguientes estructuras se encuentran en una célula humana pero no en una célula bacteriana?",
+      "options": [
+        {
+          "id": "55fe92f5-eabe-4fb9-98b9-042887c60748",
+          "text": "Mitocondrias.",
+          "correct": true
+        },
+        {
+          "id": "19250771-506c-4dd9-981d-4af00a7ce2f2",
+          "text": "Membrana celular."
+        },
+        {
+          "id": "8ba96cde-97dc-4ee5-8040-2db42fd6c4af",
+          "text": "Pared celular."
+        },
+        {
+          "id": "62483e20-5e6c-4cae-a34a-f13997459a5d",
+          "text": "Ribosomas."
+        }
+      ]
+    },
+    {
       "id": "13ae8241-e7cd-45d7-8d7e-9e15ed7f10e9",
       "evaluation": "parcial_2",
       "source": "partial",
