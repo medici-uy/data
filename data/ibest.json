@@ -1,0 +1,2047 @@
+{
+  "name": "Introducción a la Bioestadística",
+  "short_name": "IBEst",
+  "aliases": [
+    "ibest",
+    "bioestadistica",
+    "estadistica"
+  ],
+  "image": "ibest.avif",
+  "year": 1,
+  "order": 3,
+  "questions": [
+    {
+      "id": "40d6c509-7b0b-4609-bdc9-fd6bc50af567",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "Clasifique la variable \"cáncer de pulmón\" según la función que cumple en la siguiente proposición: \"La condición de fumador es un factor de riesgo para el cáncer de pulmón\".",
+      "options": [
+        {
+          "id": "578f7484-6723-4bb7-b436-6b9d903a0467",
+          "text": "Variable dependiente.",
+          "correct": true
+        },
+        {
+          "id": "c251ce4c-fc5d-47c6-b42c-e9d4f9343598",
+          "text": "Variable cualitativa nominal."
+        },
+        {
+          "id": "244d33f7-4b2a-4e81-b4ba-f1a9ebe4b86c",
+          "text": "Variable cualitativa ordinal."
+        },
+        {
+          "id": "a2b76755-f2fb-4659-89e6-ae531cd12570",
+          "text": "Variable independiente."
+        }
+      ]
+    },
+    {
+      "id": "11a8539d-aa9d-4155-8aeb-197b32fbe2a4",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "Clasifique la variable \"saturación de oxígeno en sangre\" (leve/moderada/grave).",
+      "options": [
+        {
+          "id": "71deb8bd-0619-4c69-9a74-b88eeb8bcbd3",
+          "text": "Cualitativa. Escala ordinal.",
+          "correct": true
+        },
+        {
+          "id": "dc11fc38-5759-4eca-a210-6f2d3553e697",
+          "text": "Cualitativa. Escala nominal."
+        },
+        {
+          "id": "a122c58e-c0cb-4960-a480-a4c288bea51d",
+          "text": "Cuantitativa continua. Escala de razón."
+        },
+        {
+          "id": "7c9a6751-fdd5-487a-b8a8-c4fc3bf69b5c",
+          "text": "Cuantitativa discreta. Escala ordinal."
+        }
+      ]
+    },
+    {
+      "id": "60381e48-b99d-4a66-967b-15c79c76aeff",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "El concepto de variable refiere a:",
+      "options": [
+        {
+          "id": "7839d92b-4f83-4a1f-8288-a31637eecf7f",
+          "text": "Una cantidad o una cualidad de cada elemento observado.",
+          "correct": true
+        },
+        {
+          "id": "57f878a6-d0c0-42b9-b463-16cfe456bba4",
+          "text": "Una característica única de cada elemento medido."
+        },
+        {
+          "id": "4301f43f-c390-4d4b-829b-726f4321ad93",
+          "text": "Una condición observable que debe ser discreta o continua."
+        },
+        {
+          "id": "0ca440b5-3e2e-4301-8031-e2a5f18b7ca8",
+          "text": "Una medición que debe ser diferente en todos los elementos observados."
+        }
+      ]
+    },
+    {
+      "id": "d644f0d9-fa8a-48e4-a400-30247a784d23",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "El gráfico representado se conoce como:",
+      "image": "d644f0d9-fa8a-48e4-a400-30247a784d23.avif",
+      "options": [
+        {
+          "id": "f466749c-b68f-4e92-8763-228cc38c6a02",
+          "text": "Ojiva.",
+          "correct": true
+        },
+        {
+          "id": "1ff1f5bb-d281-498d-9d40-f369fb34759f",
+          "text": "Dispersograma."
+        },
+        {
+          "id": "99b95923-6edd-455d-ba67-bc66869e7468",
+          "text": "Histograma."
+        },
+        {
+          "id": "94a0b4f7-e668-44ec-8784-3f682f08c219",
+          "text": "Polígono de frecuencia."
+        }
+      ]
+    },
+    {
+      "id": "036a5946-0e5d-45ff-8bd3-67655e7e97d2",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "El gráfico siguiente muestra los datos de un estudio que busca analizar cómo varía el nivel de ingresos de las personas en función a la cantidad de años que estudiaron. Del gráfico se desprende la siguiente conclusión:",
+      "image": "036a5946-0e5d-45ff-8bd3-67655e7e97d2.avif",
+      "options": [
+        {
+          "id": "9fe9bd45-418b-4391-9992-c82796573087",
+          "text": "A mayor cantidad de años de estudio, aumenta el % de personas con ingresos altos.",
+          "correct": true
+        },
+        {
+          "id": "20d44cb9-a8c9-4429-b59f-eeaae9546304",
+          "text": "A mayor nivel de ingresos, aumenta el % de personas con menos de 6 años de estudio."
+        },
+        {
+          "id": "50f17418-d31d-4bba-a4cb-e7b0cb04130a",
+          "text": "A menor cantidad de años de estudio, aumenta el % de personas con ingresos altos."
+        },
+        {
+          "id": "693b4ac4-cf5e-4541-aba0-db00f1de3b68",
+          "text": "Ninguna de las otras opciones es correcta."
+        }
+      ]
+    },
+    {
+      "id": "ba31a493-e9ae-4146-9623-ae0f6d4e62d8",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "El gráfico siguiente muestra los datos de un estudio que busca analizar cómo varía el nivel de ingresos de las personas en función a la cantidad de años que estudiaron. El gráfico corresponde a un:",
+      "image": "ba31a493-e9ae-4146-9623-ae0f6d4e62d8.avif",
+      "options": [
+        {
+          "id": "ba9194ca-5b11-439b-b182-13b8cb652121",
+          "text": "Diagrama de barras estratificados.",
+          "correct": true
+        },
+        {
+          "id": "765cab3e-1011-4e25-bade-9c519b71c6f0",
+          "text": "Diagrama de barras agrupados."
+        },
+        {
+          "id": "a8d49e0c-0026-467f-b40c-024498f4b4a5",
+          "text": "Histograma."
+        },
+        {
+          "id": "a2013f4e-5aff-4be3-9a70-47c73d8f3e2f",
+          "text": "Polígono de densidad."
+        }
+      ]
+    },
+    {
+      "id": "5ae057e3-eb27-451e-a9a6-7577ecc03ae1",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "El gráfico siguiente muestra los datos de un estudio que busca analizar cómo varía el nivel de ingresos de las personas en función a la cantidad de años que estudiaron. La variable \"Nivel de ingresos\" (alto/medio/bajo), puede clasificarse como:",
+      "image": "5ae057e3-eb27-451e-a9a6-7577ecc03ae1.avif",
+      "options": [
+        {
+          "id": "534ad94c-daa3-42b7-ae12-31b9f126d36f",
+          "text": "Cualitativa. Escala ordinal.",
+          "correct": true
+        },
+        {
+          "id": "45f4b273-ce9b-4f8f-b4a2-c83a02152112",
+          "text": "Cualitativa. Escala nominal."
+        },
+        {
+          "id": "570cea4c-ca00-4fd7-8fac-88f767247d8b",
+          "text": "Cuantitativa continua. Escala de razón."
+        },
+        {
+          "id": "bfb51237-97e3-4232-93b6-9fc0ecf84241",
+          "text": "Cuantitativa discreta. Escala ordinal."
+        }
+      ]
+    },
+    {
+      "id": "7588fb1f-47a6-4375-9523-536615e7e60d",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "En relación a las medidas de posición, indique lo correcto:",
+      "options": [
+        {
+          "id": "d644b94c-030d-4201-aa6a-84568db92337",
+          "text": "El primer cuartil coincide con el percentil 25.",
+          "correct": true
+        },
+        {
+          "id": "e7132b06-455e-41e0-8466-25b81c312291",
+          "text": "El percentil 20 siempre tendrá un valor superior a la mediana."
+        },
+        {
+          "id": "c0ebcb72-24db-4d77-a120-92e2b6e9aff0",
+          "text": "Entre el primer y el tercer cuartil se encuentra el 75% central de la distribución."
+        },
+        {
+          "id": "3a488eb3-1005-4446-80ae-a6795fdbf241",
+          "text": "La diferencia entre el percentil 80 y el tercer cuartil es 15%."
+        }
+      ]
+    },
+    {
+      "id": "1dfd5ace-2bb2-4aa7-810b-00db0006fa40",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "Indique la opción correcta en relación a los histogramas:",
+      "options": [
+        {
+          "id": "3f414f5d-ea7a-4685-bb76-764b29c4ea80",
+          "text": "El área total del histograma encierra el 100% de la distribución.",
+          "correct": true
+        },
+        {
+          "id": "4972617e-f2b6-4f35-b652-75d04bc594dc",
+          "text": "El eje de las abscisas (x) representa la frecuencia relativa acumulada."
+        },
+        {
+          "id": "6596f84a-bdd6-4ae9-b9d2-dad37020a1ac",
+          "text": "Es un gráfico de barras adecuado para graficar una variable cualitativa ordinal."
+        },
+        {
+          "id": "ee19b412-dd73-44c7-a056-18331fb009e1",
+          "text": "Los intervalos de clase deben siempre tener la misma amplitud."
+        }
+      ]
+    },
+    {
+      "id": "00273f6a-e99e-4e3d-a2e5-11cd6763e2b4",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "La siguiente curva representa los percentiles de crecimiento de las niñas entre 0 y 24 meses de una determinada población. El trazo grueso central del gráfico corresponde a la unión de:",
+      "image": "00273f6a-e99e-4e3d-a2e5-11cd6763e2b4.avif",
+      "options": [
+        {
+          "id": "c711d6b6-af0a-4984-9d80-10686fa46480",
+          "text": "Las medianas para cada edad.",
+          "correct": true
+        },
+        {
+          "id": "76d41cf6-1ed3-40fd-8b65-00c0580f5cf2",
+          "text": "Los 1eros cuartiles para cada edad."
+        },
+        {
+          "id": "df534ce5-9e4e-4a5f-96fc-3248033fae6e",
+          "text": "Los 3eros cuartiles para cada edad."
+        },
+        {
+          "id": "e172a566-f4c2-419a-88b6-8445ae14adc6",
+          "text": "Los desvíos para cada edad."
+        }
+      ]
+    },
+    {
+      "id": "804468ad-f875-47be-9a28-b37d3d69e912",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "La siguiente curva representa los percentiles de crecimiento de las niñas entre 0 y 24 meses de una determinada población. La diferencia entre el percentil 3 y el percentil 97 para las niñas de 13 meses corresponde a:",
+      "image": "804468ad-f875-47be-9a28-b37d3d69e912.avif",
+      "options": [
+        {
+          "id": "bcc6f1c7-b989-4b7d-acb4-e2a9f1fb10d7",
+          "text": "10.",
+          "correct": true
+        },
+        {
+          "id": "26db68a0-7274-42f9-9930-653fdafa7c7b",
+          "text": "3."
+        },
+        {
+          "id": "fec6321a-7466-4267-8297-ce3eaf592e7a",
+          "text": "5."
+        },
+        {
+          "id": "66040f8b-4032-4dcc-8dba-6df3fa5e39f4",
+          "text": "7."
+        }
+      ]
+    },
+    {
+      "id": "388e6b86-5f48-4efc-b608-510ec7f90abb",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "La siguiente curva representa los percentiles de crecimiento de las niñas entre 0 y 24 meses de una determinada población. La mediana de longitud (en cm) para una niña de 9 meses es:",
+      "image": "388e6b86-5f48-4efc-b608-510ec7f90abb.avif",
+      "options": [
+        {
+          "id": "6e5131dd-8a8a-4e95-b79d-106a652cf81b",
+          "text": "50.",
+          "correct": true
+        },
+        {
+          "id": "1aaaee24-ac9a-4e26-bdce-2c9ee2c974c3",
+          "text": "65."
+        },
+        {
+          "id": "1b521365-2221-4c30-baae-9d15ffe70440",
+          "text": "70."
+        },
+        {
+          "id": "7b323a1a-617f-4735-9cfe-3f4e46ea7020",
+          "text": "75."
+        }
+      ]
+    },
+    {
+      "id": "41570f97-e707-4350-991a-d9cb8b607ebd",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "La siguiente curva representa los percentiles de crecimiento de las niñas entre 0 y 24 meses de una determinada población. Una niña con una longitud de 70 cm se ubica en el percentil 97. ¿A qué edad (en meses) corresponde?",
+      "image": "41570f97-e707-4350-991a-d9cb8b607ebd.avif",
+      "options": [
+        {
+          "id": "4553aca7-8535-4688-babd-e3c6f2da3e8f",
+          "text": "6.",
+          "correct": true
+        },
+        {
+          "id": "d4124d11-4924-4205-a2dd-d6b764f86c69",
+          "text": "12."
+        },
+        {
+          "id": "d543ff0a-d7cd-4b3f-bf98-b8743334ddb2",
+          "text": "3."
+        },
+        {
+          "id": "37b564bd-2cf8-40ee-b5ae-258d54c2f014",
+          "text": "9."
+        }
+      ]
+    },
+    {
+      "id": "930aa325-fe90-45fa-b658-b0b2d40cd4ae",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "La siguiente curva representa los percentiles de crecimiento de las niñas entre 0 y 24 meses de una determinada población. Una niña de 24 meses de edad concurre a su control pediátrico de rutina. El médico informa que la longitud se ubica sobre el carril del percentil 50. Entonces podemos afirmar que presenta una longitud:",
+      "image": "930aa325-fe90-45fa-b658-b0b2d40cd4ae.avif",
+      "options": [
+        {
+          "id": "3969e871-ecce-49d3-8021-1334b5e0939e",
+          "text": "Superior a 85.",
+          "correct": true
+        },
+        {
+          "id": "7cd66ce0-47b5-498d-927d-74270acc5a46",
+          "text": "Igual a 85."
+        },
+        {
+          "id": "712b7dc8-07ca-4ca0-8dfa-671663c97795",
+          "text": "Igual a 90."
+        },
+        {
+          "id": "1040dfec-375a-458f-9635-808cd8ec5b65",
+          "text": "Inferior a 85."
+        }
+      ]
+    },
+    {
+      "id": "8808dbae-5010-471d-b18d-366971394ee6",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "La siguiente curva representa los percentiles de crecimiento de las niñas entre 0 y 24 meses de una determinada población. ¿Qué valor de longitud es superado por el 3% de las niñas a los 17 meses de edad?",
+      "image": "8808dbae-5010-471d-b18d-366971394ee6.avif",
+      "options": [
+        {
+          "id": "c1801bed-7c1f-44dd-9416-537cbf6de848",
+          "text": "85.",
+          "correct": true
+        },
+        {
+          "id": "f57ac9c3-4281-4df3-9ead-02d231d8df63",
+          "text": "50."
+        },
+        {
+          "id": "4911b297-a1dc-49a3-9af9-87531f515a63",
+          "text": "80."
+        },
+        {
+          "id": "7af7be84-b741-49ed-b9c3-acc7b9e5d93b",
+          "text": "97."
+        }
+      ]
+    },
+    {
+      "id": "669d8085-bf88-4c85-af4d-0ce590ebd30c",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "La siguiente tabla corresponde a 8 niños ingresados con diagnóstico de patologías respiratorias graves asociadas a hipertensión pulmonar (HP), en un CTI pediátrico. Los datos fueron recabados por estudiantes de medicina durante una pasantía por dicho servicio. El desvío estándar de la edad en meses es (redondeo mediante):",
+      "image": "669d8085-bf88-4c85-af4d-0ce590ebd30c.avif",
+      "options": [
+        {
+          "id": "6fc11f69-5826-43a6-b30c-9e719f7a18be",
+          "text": "7.",
+          "correct": true
+        },
+        {
+          "id": "31046687-17d1-4a78-9c2d-8a12dc2022a7",
+          "text": "4."
+        },
+        {
+          "id": "cf15cdf2-a1db-4879-a39f-2feb47b338e9",
+          "text": "5."
+        },
+        {
+          "id": "c0bc27fc-d1f2-4ff3-8955-6ed75e248e5e",
+          "text": "6."
+        }
+      ]
+    },
+    {
+      "id": "f335e33e-cce3-4ff9-9b2d-02bf014926d7",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "La siguiente tabla corresponde a 8 niños ingresados con diagnóstico de patologías respiratorias graves asociadas a hipertensión pulmonar (HP), en un CTI pediátrico. Los datos fueron recabados por estudiantes de medicina durante una pasantía por dicho servicio. El rango de días de asistencia ventilatoria mecánica (AVM) es:",
+      "image": "f335e33e-cce3-4ff9-9b2d-02bf014926d7.avif",
+      "options": [
+        {
+          "id": "951f8d51-08b0-4974-ab96-23aaeca7b321",
+          "text": "18.",
+          "correct": true
+        },
+        {
+          "id": "dbcd3782-d4da-4990-8552-5bc38bd6eac1",
+          "text": "1."
+        },
+        {
+          "id": "3432bb87-6c1b-42cc-b6a5-df0b5660678d",
+          "text": "10."
+        },
+        {
+          "id": "e2a1f381-8bb4-472b-ab1d-c9a3ec0d5181",
+          "text": "19."
+        }
+      ]
+    },
+    {
+      "id": "6ee87b74-2f22-407d-83cd-02e5d3dabad0",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "La siguiente tabla corresponde a 8 niños ingresados con diagnóstico de patologías respiratorias graves asociadas a hipertensión pulmonar (HP), en un CTI pediátrico. Los datos fueron recabados por estudiantes de medicina durante una pasantía por dicho servicio. En relación a la distribución de la variable días de hipertensión pulmonar (HP) indique la opción correcta:",
+      "image": "6ee87b74-2f22-407d-83cd-02e5d3dabad0.avif",
+      "options": [
+        {
+          "id": "7630f28e-93d3-4bcc-ab06-e31fcb6eb509",
+          "text": "Es una distribución bimodal con modas de 4 y 5 días.",
+          "correct": true
+        },
+        {
+          "id": "822a2f27-ba90-4cd1-916e-dadf4a857ed5",
+          "text": "Es una distribución bimodal con modas de 1 y 19 días."
+        },
+        {
+          "id": "ad65176b-1bcc-496a-b903-07d9df237b06",
+          "text": "Es una distribución multimodal con modas de 2, 3 y 19 días."
+        },
+        {
+          "id": "503e0403-201d-4256-93bf-f473db65f06a",
+          "text": "Es una distribución unimodal cuya moda es 19 días."
+        }
+      ]
+    },
+    {
+      "id": "5511e0be-efba-4402-8760-c8e1dba141a3",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "La siguiente tabla corresponde a 8 niños ingresados con diagnóstico de patologías respiratorias graves asociadas a hipertensión pulmonar (HP), en un CTI pediátrico. Los datos fueron recabados por estudiantes de medicina durante una pasantía por dicho servicio. La media de la edad en meses es:",
+      "image": "5511e0be-efba-4402-8760-c8e1dba141a3.avif",
+      "options": [
+        {
+          "id": "114222e1-33f2-406d-822e-1d90b16e6c5c",
+          "text": "9,5.",
+          "correct": true
+        },
+        {
+          "id": "1e0475db-11fc-4a3f-8a91-2bbba1b545b9",
+          "text": "11,5."
+        },
+        {
+          "id": "f400487e-81c7-41e5-9ad9-27c5e44467f5",
+          "text": "13."
+        },
+        {
+          "id": "544b6962-d87b-4b82-b4d8-44b1c7494a14",
+          "text": "48."
+        }
+      ]
+    },
+    {
+      "id": "26b18526-31ef-4057-aff5-38926a2558ad",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "La siguiente tabla corresponde a 8 niños ingresados con diagnóstico de patologías respiratorias graves asociadas a hipertensión pulmonar (HP), en un CTI pediátrico. Los datos fueron recabados por estudiantes de medicina durante una pasantía por dicho servicio. La mediana de días de internación es:",
+      "image": "26b18526-31ef-4057-aff5-38926a2558ad.avif",
+      "options": [
+        {
+          "id": "9cefbb62-8f93-4a5d-be4a-af02f27da9d4",
+          "text": "15,5.",
+          "correct": true
+        },
+        {
+          "id": "fee4e70b-534f-4c1d-ae84-f2a786dffa22",
+          "text": "13."
+        },
+        {
+          "id": "9d7df6bd-45cc-49c6-931e-5b187c9b661b",
+          "text": "18."
+        },
+        {
+          "id": "5175dcae-9fbe-4171-881e-286ab5652b7f",
+          "text": "19."
+        }
+      ]
+    },
+    {
+      "id": "d2ef7f71-9be9-4a69-8490-3189e4780afe",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "La siguiente tabla corresponde a 8 niños ingresados con diagnóstico de patologías respiratorias graves asociadas a hipertensión pulmonar (HP), en un CTI pediátrico. Los datos fueron recabados por estudiantes de medicina durante una pasantía por dicho servicio. La variable \"días de asistencia ventilatoria mecánica\" es una variable:",
+      "image": "d2ef7f71-9be9-4a69-8490-3189e4780afe.avif",
+      "options": [
+        {
+          "id": "48607732-f3f2-4b10-8029-e9280f3588d8",
+          "text": "Ninguna de las otras opciones son correctas.",
+          "correct": true
+        },
+        {
+          "id": "da28f80a-6f36-4beb-8faa-348f0c83b5ba",
+          "text": "Cualitativa nominal."
+        },
+        {
+          "id": "7d18250e-5aae-4c39-905d-866b3362c5cc",
+          "text": "Cualitativa ordinal."
+        },
+        {
+          "id": "16f98478-5096-4468-8e62-27dc31f070c1",
+          "text": "Cuantitativa continua escala de intervalo."
+        }
+      ]
+    },
+    {
+      "id": "c1220412-4c5b-43be-b3f6-778fe96d4cee",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "La tabla muestra los datos colectados en el marco de un trabajo de investigación que analiza la cantidad de hijos de las mujeres que concurren a determinadas policlínicas barriales del oeste de Montevideo. El porcentaje de mujeres que tienen 4 hijos es:",
+      "image": "c1220412-4c5b-43be-b3f6-778fe96d4cee.avif",
+      "options": [
+        {
+          "id": "172c3c7e-d6e6-49e8-a6b4-afc0d4b49bb2",
+          "text": "11.9.",
+          "correct": true
+        },
+        {
+          "id": "82c97a8b-a64b-49e8-a9f8-20e2db9facbc",
+          "text": "0.119."
+        },
+        {
+          "id": "f855906a-6ac3-47a2-b6ad-1649f22dad8f",
+          "text": "1.19."
+        },
+        {
+          "id": "c5ff1ad5-0133-4e96-85dc-02302052912b",
+          "text": "19.1."
+        }
+      ]
+    },
+    {
+      "id": "2ca32246-4839-4f5c-98e7-0114c88c71e7",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "La tabla muestra los datos colectados en el marco de un trabajo de investigación que analiza la cantidad de hijos de las mujeres que concurren a determinadas policlínicas barriales del oeste de Montevideo. La frecuencia absoluta de las mujeres que tienen un hijo es:",
+      "image": "2ca32246-4839-4f5c-98e7-0114c88c71e7.avif",
+      "options": [
+        {
+          "id": "b786662d-77ca-4816-9b17-272033400282",
+          "text": "36.",
+          "correct": true
+        },
+        {
+          "id": "d326f2e5-b084-480a-92a9-0325f3fff7c6",
+          "text": "22."
+        },
+        {
+          "id": "6f6adec2-a66d-4e97-9a35-f5b2256ba44d",
+          "text": "31."
+        },
+        {
+          "id": "2b5def86-a611-49be-a7b2-51d028ac96cf",
+          "text": "41."
+        }
+      ]
+    },
+    {
+      "id": "8cf73284-40e7-4b37-9d63-281d2b892561",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "La tabla muestra los datos colectados en el marco de un trabajo de investigación que analiza la cantidad de hijos de las mujeres que concurren a determinadas policlínicas barriales del oeste de Montevideo. La frecuencia relativa acumulada para las mujeres que tienen hasta 4 hijos es:",
+      "image": "8cf73284-40e7-4b37-9d63-281d2b892561.avif",
+      "options": [
+        {
+          "id": "2fea16e5-b7ad-45c0-ac9f-7253c9dc3f89",
+          "text": "0.938.",
+          "correct": true
+        },
+        {
+          "id": "36ff88da-42e4-4741-9ce8-7329cf179bdb",
+          "text": "0.319."
+        },
+        {
+          "id": "f675bd64-3b77-4abd-b189-08e6091b52b5",
+          "text": "0.382."
+        },
+        {
+          "id": "3cfe5612-40dd-4ece-aa18-42aaec111819",
+          "text": "0.968."
+        }
+      ]
+    },
+    {
+      "id": "82631ed0-9d4c-4245-8ec4-b10c1d531c2e",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "La tabla muestra los datos colectados en el marco de un trabajo de investigación que analiza la cantidad de hijos de las mujeres que concurren a determinadas policlínicas barriales del oeste de Montevideo. La variable estudiada se clasifica como:",
+      "image": "82631ed0-9d4c-4245-8ec4-b10c1d531c2e.avif",
+      "options": [
+        {
+          "id": "c3028ad6-b411-423b-b74a-b3f6ae76c440",
+          "text": "Cuantitativa discreta.",
+          "correct": true
+        },
+        {
+          "id": "6f6d88cb-7f3d-4aa3-b543-78ff8c720869",
+          "text": "Cualitativa nominal."
+        },
+        {
+          "id": "3d51d817-96ab-4b5e-9b10-fa2fd62e935f",
+          "text": "Cualitativa ordinal."
+        },
+        {
+          "id": "78724ff8-49d8-4157-b77f-d5ecc683201e",
+          "text": "Cuantitativa continua."
+        }
+      ]
+    },
+    {
+      "id": "4cb63213-1a25-431d-b639-97251a081eae",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "La varianza es una medida de:",
+      "options": [
+        {
+          "id": "c6279908-ad71-4790-87b8-8db6b9bf4413",
+          "text": "Dispersión o variabilidad.",
+          "correct": true
+        },
+        {
+          "id": "6c092019-a3cf-4494-bc00-2758450df029",
+          "text": "Asimetría."
+        },
+        {
+          "id": "25b94b03-7b17-471a-9604-2b1154069e27",
+          "text": "Posición."
+        },
+        {
+          "id": "d901d34a-3079-4608-89d2-8ddf5b594649",
+          "text": "Tendencia central."
+        }
+      ]
+    },
+    {
+      "id": "5442feba-6762-4d33-ae10-d58809ed5cc7",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "Observando el gráfico, ¿qué porcentaje de niños tiene entre 13 y 16 años?",
+      "image": "5442feba-6762-4d33-ae10-d58809ed5cc7.avif",
+      "options": [
+        {
+          "id": "b9831cec-4d64-4d52-ac52-ca98f33ab47b",
+          "text": "25.",
+          "correct": true
+        },
+        {
+          "id": "637b511e-8b13-420b-a16c-7bf23a7f4a0d",
+          "text": "40."
+        },
+        {
+          "id": "548e6a92-664b-47c7-aac5-20c00d201f6f",
+          "text": "50."
+        },
+        {
+          "id": "f6fc1488-0929-47b9-af4f-8a2dc97fb707",
+          "text": "75."
+        }
+      ]
+    },
+    {
+      "id": "db79f43e-af6b-4cb7-8a9f-9b862775fe37",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "Observando el gráfico, ¿qué porcentaje de niños tiene más de 16 años?",
+      "image": "db79f43e-af6b-4cb7-8a9f-9b862775fe37.avif",
+      "options": [
+        {
+          "id": "6a6db4b4-6b9d-4ddf-ba43-de2f4517b9a9",
+          "text": "50.",
+          "correct": true
+        },
+        {
+          "id": "a402a4d8-7ae4-4578-96e9-cdfd1f581d6e",
+          "text": "17."
+        },
+        {
+          "id": "84c7c767-4215-413a-9ebb-8a00d19b0bfd",
+          "text": "25."
+        },
+        {
+          "id": "7ce82112-1ecd-4683-b8bc-a13ce81372d1",
+          "text": "33."
+        }
+      ]
+    },
+    {
+      "id": "6c38c7ed-01f3-4efb-ab3f-464c0c238dd1",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "Observe el gráfico. Si la base de datos utilizada contaba con 572 registros, ¿cuántos niños tienen más de 14 años?",
+      "image": "6c38c7ed-01f3-4efb-ab3f-464c0c238dd1.avif",
+      "options": [
+        {
+          "id": "42497fd4-6c09-473f-b58d-fae592af2ffd",
+          "text": "373.",
+          "correct": true
+        },
+        {
+          "id": "9d13c4e7-26aa-4e7f-9c1e-2268f917df47",
+          "text": "143."
+        },
+        {
+          "id": "89801d81-4cc9-43f7-aea6-f0e77e665306",
+          "text": "286."
+        },
+        {
+          "id": "a752c190-b4a6-4d45-95ed-dd67ef694759",
+          "text": "429."
+        }
+      ]
+    },
+    {
+      "id": "acde5cee-1cdd-4961-8473-ac6cd080ac1b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "¿Cuáles son todas las posibles operaciones aritméticas a realizar con una variable cualitativa ordinal?",
+      "options": [
+        {
+          "id": "10627091-9f06-411c-bb81-3b5f5dcca951",
+          "text": "Mayor que, menor que, igualdad o desigualdad.",
+          "correct": true
+        },
+        {
+          "id": "8968912a-d6f4-4101-b821-9ae92ed9ea64",
+          "text": "Igualdad o desigualdad."
+        },
+        {
+          "id": "6581efda-7a7f-4033-b1bc-609d69f9b4a2",
+          "text": "Igualdad, desigualdad, mayor que, menor que o suma."
+        },
+        {
+          "id": "e358b19b-5255-48a0-9376-7e1602cd4539",
+          "text": "Ninguna de las otras opciones es correcta."
+        }
+      ]
+    },
+    {
+      "id": "988b304d-950a-41cc-a60d-c32de2507d53",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "El diagrama de caja y líneas es apropiado para representar:",
+      "options": [
+        {
+          "id": "25d11404-9348-49ac-ae4d-4e3ffeaf9e4c",
+          "text": "Una variable cuantitativa y una cualitativa.",
+          "correct": true
+        },
+        {
+          "id": "e46bb175-1d41-4b9d-b658-f0cf936fbcd1",
+          "text": "Dos variables cualitativas."
+        },
+        {
+          "id": "2178399e-dd24-47d5-8d76-bacfd96d5cdb",
+          "text": "Dos variables cuantitativas."
+        },
+        {
+          "id": "ff5766fb-5a05-4ab7-82f4-fa026f1204cb",
+          "text": "Más de dos variables cuantitativas."
+        }
+      ]
+    },
+    {
+      "id": "44b8a137-f1fa-4a1b-b282-89f67724bd0b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "El escafoides es un hueso de la mano, cuya fractura no siempre logra evidenciarse mediante la radiografía. La demora diagnóstica puede conducir a un defecto en la consolidación denominado \"pseudoartrosis\". Los siguientes datos corresponden al tiempo de demora diagnóstica medido en meses, en un grupo de 9 pacientes: 8 5 13 7 15 9 6 7 8. El desvío estándar (redondeando a 2 decimales) es:",
+      "options": [
+        {
+          "id": "f0c6a8c3-e79e-43b3-8e90-181108c41475",
+          "text": "3,28 meses.",
+          "correct": true
+        },
+        {
+          "id": "022425c8-e729-45b0-b317-54cfb0d69290",
+          "text": "10,75 meses^2."
+        },
+        {
+          "id": "c8c8b22b-5c62-4496-bdd1-4d3e349e4379",
+          "text": "7,88 meses."
+        },
+        {
+          "id": "b60b187c-660b-447c-bccb-e13645079ff9",
+          "text": "8,67 meses^2."
+        }
+      ]
+    },
+    {
+      "id": "065ab528-98bf-484c-9193-83bf865cb81f",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "El escafoides es un hueso de la mano, cuya fractura no siempre logra evidenciarse mediante la radiografía. La demora diagnóstica puede conducir a un defecto en la consolidación denominado \"pseudoartrosis\". Los siguientes datos corresponden al tiempo de demora diagnóstica medido en meses, en un grupo de 9 pacientes: 8 5 13 7 15 9 6 7 8. El rango es:",
+      "options": [
+        {
+          "id": "594a435e-321c-45e8-87cb-54f5294c238d",
+          "text": "10 meses.",
+          "correct": true
+        },
+        {
+          "id": "40701fda-0c6e-44d9-8944-67c87d4c5e7d",
+          "text": "15 meses."
+        },
+        {
+          "id": "1e791e94-400c-4ff1-a222-9c5dbd8724bb",
+          "text": "5 meses."
+        },
+        {
+          "id": "cf67362f-d007-4eef-a24d-1a390f1b42c6",
+          "text": "8 meses."
+        }
+      ]
+    },
+    {
+      "id": "8b40e47d-ce8c-4379-b78c-113bf62d3480",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "El escafoides es un hueso de la mano, cuya fractura no siempre logra evidenciarse mediante la radiografía. La demora diagnóstica puede conducir a un defecto en la consolidación denominado \"pseudoartrosis\". Los siguientes datos corresponden al tiempo de demora diagnóstica medido en meses, en un grupo de 9 pacientes: 8 5 13 7 15 9 6 7 8. La media (redondeando a 2 decimales) es:",
+      "options": [
+        {
+          "id": "4abbd14f-ac06-4002-9b88-7ab2b8f395f7",
+          "text": "8,67 meses.",
+          "correct": true
+        },
+        {
+          "id": "d886637c-f56d-414a-90bc-42f114196e7b",
+          "text": "6,66 meses."
+        },
+        {
+          "id": "e6fd2792-41fa-4ade-8576-018e9e70c3f7",
+          "text": "6,86 meses."
+        },
+        {
+          "id": "9a038785-9e23-4a44-9dee-e05f448b7c05",
+          "text": "7,88 meses."
+        }
+      ]
+    },
+    {
+      "id": "dfe22cc9-1708-4298-b3cf-cbd7a383bb6a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "El escafoides es un hueso de la mano, cuya fractura no siempre logra evidenciarse mediante la radiografía. La demora diagnóstica puede conducir a un defecto en la consolidación denominado \"pseudoartrosis\". Los siguientes datos corresponden al tiempo de demora diagnóstica medido en meses, en un grupo de 9 pacientes: 8 5 13 7 15 9 6 7 8. La mediana es:",
+      "options": [
+        {
+          "id": "9c0be4e1-04b1-4b2f-8795-7b46b0abe1e9",
+          "text": "8 meses.",
+          "correct": true
+        },
+        {
+          "id": "d519da58-7efe-4058-b431-d8bb5786736b",
+          "text": "13 meses."
+        },
+        {
+          "id": "c4844d68-f0c0-4993-b073-7cdc1944797c",
+          "text": "15 meses."
+        },
+        {
+          "id": "caaae314-f26d-4fbd-bb6f-9667a6bc6db7",
+          "text": "5 meses."
+        }
+      ]
+    },
+    {
+      "id": "894f1e62-b019-4381-85bf-85c9329c6e56",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "El escafoides es un hueso de la mano, cuya fractura no siempre logra evidenciarse mediante la radiografía. La demora diagnóstica puede conducir a un defecto en la consolidación denominado \"pseudoartrosis\". Los siguientes datos corresponden al tiempo de demora diagnóstica medido en meses, en un grupo de 9 pacientes: 8 5 13 7 15 9 6 7 8. Respecto a la moda, se trata de una distribución:",
+      "options": [
+        {
+          "id": "4fc33f1c-e762-4ced-857b-584b74ca21d9",
+          "text": "Bimodal.",
+          "correct": true
+        },
+        {
+          "id": "be43d6ef-e2b8-47a8-afd8-90346cae47ab",
+          "text": "Multimodal."
+        },
+        {
+          "id": "e4c10bd0-dc80-4f35-8ef9-bb0c2a08f29a",
+          "text": "No es posible calcular la moda."
+        },
+        {
+          "id": "3b5ea909-ba8c-4e14-81f2-057ff69e3a30",
+          "text": "Unimodal."
+        }
+      ]
+    },
+    {
+      "id": "267299ce-d3be-438c-8d6b-d3e564540226",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "El escafoides es un hueso de la mano, cuya fractura no siempre logra evidenciarse mediante la radiografía. La demora diagnóstica puede conducir a un defecto en la consolidación denominado \"pseudoartrosis\". Los siguientes datos corresponden al tiempo de demora diagnóstica medido en meses, en un grupo de 9 pacientes: 8 5 13 7 15 9 6 7 8. ¿Cuál de las siguientes medidas NO es una medida de posición?",
+      "options": [
+        {
+          "id": "74e20642-64e6-4046-b01c-ab2cc2c27a7d",
+          "text": "Rango intercuartílico.",
+          "correct": true
+        },
+        {
+          "id": "14349214-0323-40a5-9411-e3ca76140d40",
+          "text": "Cuartiles."
+        },
+        {
+          "id": "417a0ebd-829e-4ba2-a641-3dc076b3f645",
+          "text": "Deciles."
+        },
+        {
+          "id": "0f1a49c5-09c6-4476-b18f-18a2459ab315",
+          "text": "Percentiles."
+        }
+      ]
+    },
+    {
+      "id": "945ab760-dc7b-4910-93a9-41286a6cd423",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "El siguiente gráfico muestra la relación entre la edad y el peso de 109 pacientes que ingresaron a sala de internación en un centro de tercer nivel de nuestro país. Identifique en el gráfico la observación marcada con la flecha e indique lo correcto:",
+      "image": "945ab760-dc7b-4910-93a9-41286a6cd423.avif",
+      "options": [
+        {
+          "id": "57b8e492-b6c9-4015-92f9-bb85d11d435a",
+          "text": "Corresponde a un paciente con peso superior que el resto de los de su edad.",
+          "correct": true
+        },
+        {
+          "id": "0cb87c6c-34f0-4bd9-a944-3759e88594e9",
+          "text": "Corresponde a un paciente con peso inferior que el resto de los de su edad."
+        },
+        {
+          "id": "d31aae77-6d15-4c12-a268-5f45cad21e41",
+          "text": "Corresponde a un paciente de 15 años y 5 kg de peso."
+        },
+        {
+          "id": "ea3d4d78-3e2a-41b3-93cf-56756eb593dc",
+          "text": "Corresponde a un paciente de 35 años y 1 kg de peso."
+        }
+      ]
+    },
+    {
+      "id": "716118fb-8ad2-4ebe-98e7-344b330b3483",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "El siguiente gráfico muestra la relación entre la edad y el peso de 109 pacientes que ingresaron a sala de internación en un centro de tercer nivel de nuestro país. ¿Cómo se denomina el gráfico?",
+      "image": "716118fb-8ad2-4ebe-98e7-344b330b3483.avif",
+      "options": [
+        {
+          "id": "fb4ecb60-8f8d-4d59-9170-c90c958f0a8c",
+          "text": "Diagrama de dispersión.",
+          "correct": true
+        },
+        {
+          "id": "d061c4b1-34f1-4bca-92f6-2f5e0f7c6602",
+          "text": "Caja y línea (boxplot)."
+        },
+        {
+          "id": "1a60ab9a-04bd-4150-845a-e0cc6bb77995",
+          "text": "Ojiva."
+        }
+      ]
+    },
+    {
+      "id": "bfe2ba5f-ca24-495a-9bdc-83b57db553bc",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "El siguiente gráfico muestra la relación entre la edad y el peso de 109 pacientes que ingresaron a sala de internación en un centro de tercer nivel de nuestro país. ¿Qué tipo de variables representa el gráfico?",
+      "image": "bfe2ba5f-ca24-495a-9bdc-83b57db553bc.avif",
+      "options": [
+        {
+          "id": "f70e0fec-b45c-4764-83ad-ba4020cfea75",
+          "text": "Dos variables cuantitativas continuas.",
+          "correct": true
+        },
+        {
+          "id": "c284fd9a-c52e-4176-8715-e5b738b2b42e",
+          "text": "Dos variables cualitativas nominales."
+        },
+        {
+          "id": "17a3444f-f000-4daa-ac0c-11553cfb6dc1",
+          "text": "Dos variables cualitativas ordinales."
+        },
+        {
+          "id": "980d4cea-bf67-4ebc-a347-979c2c6fca8a",
+          "text": "Una variable cualitativa y otra cuantitativa."
+        }
+      ]
+    },
+    {
+      "id": "4368e966-b7b7-4ff2-a167-619ea879aae8",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "El siguiente gráfico representa la distribución de la tensión arterial sistólica en una muestra de adolescentes de 16 años de Montevideo. El rango intercuartílico:",
+      "image": "4368e966-b7b7-4ff2-a167-619ea879aae8.avif",
+      "options": [
+        {
+          "id": "5cb453d2-3168-4bda-b878-23113e788752",
+          "text": "Es menor en el grupo femenino que en el masculino.",
+          "correct": true
+        },
+        {
+          "id": "9bd57689-29c9-42a4-abdc-c0ae2223b18c",
+          "text": "Es mayor en el grupo femenino que en el masculino."
+        },
+        {
+          "id": "121d65f3-739b-4d46-95dd-cb0795811c87",
+          "text": "No puedo saberlo a partir de este gráfico."
+        },
+        {
+          "id": "94abd4a4-5048-4750-a6b8-b136c73b78f0",
+          "text": "Son similares en ambos sexos."
+        }
+      ]
+    },
+    {
+      "id": "56729f52-9a45-4e88-a5fd-7109dcc561df",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "El siguiente gráfico representa la distribución de la tensión arterial sistólica en una muestra de adolescentes de 16 años de Montevideo. El valor aproximado del percentil 25 en el grupo de mujeres es:",
+      "image": "56729f52-9a45-4e88-a5fd-7109dcc561df.avif",
+      "options": [
+        {
+          "id": "2f7dee3d-342a-48f2-a53d-dd87f5c757f9",
+          "text": "98,00 mmHg.",
+          "correct": true
+        },
+        {
+          "id": "d67907e6-838e-45bf-9d20-068f8e618770",
+          "text": "00,25 mmHg."
+        },
+        {
+          "id": "837c1b29-e623-455c-9cda-19d5b7713f58",
+          "text": "25,00 mmHg."
+        },
+        {
+          "id": "1464d5a7-726c-4d11-8b24-6cd7f411be3f",
+          "text": "78,00 mmHg."
+        }
+      ]
+    },
+    {
+      "id": "415c08e8-8302-4c43-8661-12e2ce55467a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "El siguiente gráfico representa la distribución de la tensión arterial sistólica en una muestra de adolescentes de 16 años de Montevideo. La línea horizontal dentro de las cajas refiere a:",
+      "image": "415c08e8-8302-4c43-8661-12e2ce55467a.avif",
+      "options": [
+        {
+          "id": "3914a0d5-c1cb-454f-bfd6-8bfb8afa641c",
+          "text": "La mediana de los datos.",
+          "correct": true
+        },
+        {
+          "id": "a6bd21a9-e2c0-417a-8011-c0afee84c3cb",
+          "text": "El rango intercuartílico de los datos."
+        },
+        {
+          "id": "72cf46d7-6535-4072-8c98-7c3bf1427c9f",
+          "text": "La media de los datos."
+        },
+        {
+          "id": "c56850e4-c4f3-4cad-8553-22a14c4e7869",
+          "text": "La moda de los datos."
+        }
+      ]
+    },
+    {
+      "id": "c244daf0-e1cf-4563-92c4-acd088d8184d",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "El siguiente gráfico representa la distribución de la tensión arterial sistólica en una muestra de adolescentes de 16 años de Montevideo. La mediana aproximada de presión arterial en el grupo de varones es:",
+      "image": "c244daf0-e1cf-4563-92c4-acd088d8184d.avif",
+      "options": [
+        {
+          "id": "5e13be7f-ec4b-45ea-bfd9-05c5a1810f96",
+          "text": "116,0 mmHg.",
+          "correct": true
+        },
+        {
+          "id": "b35371b1-069d-4c79-8626-c116c2515fa6",
+          "text": "111,5 mmHg."
+        },
+        {
+          "id": "3db148f9-4d86-4ba9-9bd2-820f7ab432e0",
+          "text": "119,0 mmHg."
+        },
+        {
+          "id": "a1bfe0c8-67a4-4dc0-8a28-616e4fa383f9",
+          "text": "No puedo determinarlo a partir de los datos disponibles."
+        }
+      ]
+    },
+    {
+      "id": "e43c9cd7-a451-4f32-9861-f19a46ba5149",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "El siguiente gráfico representa la distribución de la tensión arterial sistólica en una muestra de adolescentes de 16 años de Montevideo. ¿Cuántas variables hay representadas en este gráfico?",
+      "image": "e43c9cd7-a451-4f32-9861-f19a46ba5149.avif",
+      "options": [
+        {
+          "id": "a7cdcc10-10d4-464d-815a-a3aab4e01d03",
+          "text": "2.",
+          "correct": true
+        },
+        {
+          "id": "19e72f85-77bb-426f-9d91-198dbc60420c",
+          "text": "1."
+        },
+        {
+          "id": "ab469df6-c5fd-46fa-a692-e817a32f8001",
+          "text": "3."
+        },
+        {
+          "id": "e824025f-94d9-419c-8bc4-a20a40c74396",
+          "text": "4."
+        }
+      ]
+    },
+    {
+      "id": "d4a267ca-338b-43ba-a84f-80a4141e1a97",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "En la muestra (0, 1, 2, 3, 2, 1, 4, 3, 2, 2, 1, 3, 0, 81, 92, 97), para describir la tendencia central de estos datos, ¿qué medida sería más adecuada?",
+      "options": [
+        {
+          "id": "e6fa053d-fb8a-4a9d-a61d-4e2dcc4e9a95",
+          "text": "La mediana.",
+          "correct": true
+        },
+        {
+          "id": "9c23a3de-0573-4af7-80eb-471c2364522f",
+          "text": "El coeficiente de variación."
+        },
+        {
+          "id": "6239374a-ca34-44ab-a239-82a0f075d187",
+          "text": "El primer cuartil."
+        },
+        {
+          "id": "4e217e68-94d2-48b5-b310-ab68768cb355",
+          "text": "La media."
+        }
+      ]
+    },
+    {
+      "id": "398d0e08-bc09-4e7e-8a84-9d01d238a8ed",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "En la muestra (0, 1, 2, 97):",
+      "options": [
+        {
+          "id": "f6994db2-a2bb-421e-b761-afeb25cda87d",
+          "text": "El rango es 97.",
+          "correct": true
+        },
+        {
+          "id": "acc892d7-d189-40be-8b4e-417696b584b2",
+          "text": "La desviación estándar es 0."
+        },
+        {
+          "id": "15580c37-21ec-4ec5-bdf6-5a080d5f7539",
+          "text": "La media es 1.5."
+        },
+        {
+          "id": "6e8bc927-57f2-4415-a38a-f75d44f9bbee",
+          "text": "La mediana es 25."
+        }
+      ]
+    },
+    {
+      "id": "65fed1a5-a070-4c06-841e-ed1966f7bfc8",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "En las muestras: (1, 2, 3, 4) y (5, 6, 7, 8):",
+      "options": [
+        {
+          "id": "cc010bd5-fc88-4960-8eba-c713d39764e4",
+          "text": "Las desviaciones estándar son iguales.",
+          "correct": true
+        },
+        {
+          "id": "c76fbb92-76fc-4dc8-a331-fd86f7d300cb",
+          "text": "Las medianas son iguales."
+        },
+        {
+          "id": "b3c0a691-3b66-429b-86a4-8a882e08c62d",
+          "text": "Las medias son iguales."
+        },
+        {
+          "id": "6dfcf599-d64e-4282-ae74-650d43ae904d",
+          "text": "Los percentiles 25 son iguales."
+        }
+      ]
+    },
+    {
+      "id": "4bae4ec0-065d-4493-8ef8-185f6abb2416",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "Investigadores interesados en explicar la variable Control del embarazo (adecuado, inadecuado), plantean como posible variable explicativa el nivel educativo de la embarazada (primario, secundario y terciario). Para realizar el estudio recaban información sobre ambas variables. Se obtuvo información sobre 71 mujeres, de las cuales 30 tenían nivel educativo primario, 12 secundario y el resto terciario. Un total de 30 mujeres tuvo un control inadecuado del embarazo, de estas, 5 tenían nivel terciario y 5 nivel secundario. Con los datos relevados para las variables de interés se realizó el siguiente gráfico. ¿A qué conclusión llegaron los investigadores?",
+      "image": "4bae4ec0-065d-4493-8ef8-185f6abb2416.avif",
+      "options": [
+        {
+          "id": "9a15721a-b254-4489-8b9a-743044752d0d",
+          "text": "A mayor nivel educativo, las mujeres emabarazadas tienen un mayor control de su embarazo (representado como adecuado) en comparación con un nivel educativo menor.",
+          "correct": true
+        },
+        {
+          "id": "f8e33d92-0e42-48f8-970e-fb31f53a8a30",
+          "text": "A mayor nivel educativo, las mujeres embarazadas tienen un menor control del embarazo (representado como inadecuado)."
+        },
+        {
+          "id": "530d9296-2a9e-4bc1-bdaf-bbcce7d75c52",
+          "text": "El control de embarazo (inadecuado, adecuado) es la variable independiente, ya que está influyendo sobre el nivel educativo de las mujeres embarazadas."
+        },
+        {
+          "id": "6a8ac30e-0d89-415c-95ee-d788551f6c17",
+          "text": "El nivel educativo y el control del embarazo no están relacionados, ya que no se encuentran diferencias entre las distintas categorías."
+        }
+      ]
+    },
+    {
+      "id": "b0ff275a-9040-42dd-86a4-a057fda84473",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "Investigadores interesados en explicar la variable Control del embarazo (adecuado, inadecuado), plantean como posible variable explicativa el nivel educativo de la embarazada (primario, secundario y terciario). Para realizar el estudio recaban información sobre ambas variables. Se obtuvo información sobre 71 mujeres, de las cuales 30 tenían nivel educativo primario, 12 secundario y el resto terciario. Un total de 30 mujeres tuvo un control inadecuado del embarazo, de estas, 5 tenían nivel terciario y 5 nivel secundario. Con los datos relevados para las variables de interés se realizó el siguiente gráfico. ¿Cuál es el nombre del gráfico?",
+      "image": "b0ff275a-9040-42dd-86a4-a057fda84473.avif",
+      "options": [
+        {
+          "id": "487ab0a9-f4ab-48ec-8214-8b8a5f5327f8",
+          "text": "Gráfico de barras apiladas.",
+          "correct": true
+        },
+        {
+          "id": "e7053891-d1b3-4402-94f6-48fa843294dd",
+          "text": "Gráfico de barras."
+        },
+        {
+          "id": "9c6e8afe-7a36-473d-816e-e6865438a9ee",
+          "text": "Histograma."
+        },
+        {
+          "id": "bf199b4f-ee23-4f54-b6f2-2ff701979418",
+          "text": "Pictograma."
+        }
+      ]
+    },
+    {
+      "id": "1eb8b3e7-dcb0-495c-9961-2b4e83dbcf7f",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "La siguiente imagen muestra con las letras a, b, c y d histogramas de una cierta variable X, mientras que abajo se encuentran enumerados con 1, 2, 3 y 4 gráficos de caja y línea (box plot) para la misma variable (se omitió títulos y rótulos de los ejes de forma intencional). Cada uno de los histogramas (a, b, c, d) se corresponde con uno de los gráficos de caja y línea (1, 2, 3, 4). ¿Cuál es la correspondencia correcta?",
+      "image": "1eb8b3e7-dcb0-495c-9961-2b4e83dbcf7f.avif",
+      "options": [
+        {
+          "id": "5a0d90bb-beb8-46b1-995c-ed9bccbf42a1",
+          "text": "[a-4], [b-2], [c-1] y [d-3].",
+          "correct": true
+        },
+        {
+          "id": "f1420c0f-ed62-4e34-b911-7ab7930272cf",
+          "text": "[a-1], [b-4], [c-2] y [d-3]."
+        },
+        {
+          "id": "6544fffb-8e03-4ee3-95d1-01499062c105",
+          "text": "[a-3], [b-1], [c-2] y [d-4]."
+        },
+        {
+          "id": "8f49d1cd-96d1-4bc0-b172-c3725512eb8f",
+          "text": "[a-3], [b-2], [c-1] y [d-4]."
+        }
+      ]
+    },
+    {
+      "id": "00f9ffc4-b416-4e4f-b7e1-92e8b7611412",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "Para comparar la dispersión de las siguientes variables: presión arterial en mm/Hg y la talla en cm, ¿cuál es una medida adecuada?",
+      "options": [
+        {
+          "id": "a65d5399-c147-4caa-93ee-2620080c6825",
+          "text": "El coeficiente de variación.",
+          "correct": true
+        },
+        {
+          "id": "094d6364-8a30-4528-b8d3-fa947fb61355",
+          "text": "El desvío estándar."
+        },
+        {
+          "id": "10c937b0-4796-4c09-a554-e20b9ee978ff",
+          "text": "El rango intercuartílico."
+        },
+        {
+          "id": "981d90af-6498-429c-a5e0-69967518011b",
+          "text": "El rango."
+        }
+      ]
+    },
+    {
+      "id": "24259013-6dbd-4036-8f61-064aabc860b4",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "Responda a partir del gráfico. Para niños de 3 años de edad, ¿entre qué valores se ubica el 94% central de la distribución de estaturas en cm?",
+      "image": "24259013-6dbd-4036-8f61-064aabc860b4.avif",
+      "options": [
+        {
+          "id": "2452f260-f259-4fe9-9d02-5c67eafda06a",
+          "text": "89 cm y 103 cm.",
+          "correct": true
+        },
+        {
+          "id": "a3043996-7923-4242-99b0-99644340f061",
+          "text": "3 cm y 94 cm."
+        },
+        {
+          "id": "ebaf0de2-e5c7-46b6-a16f-6fb654a29372",
+          "text": "92 cm y 100 cm."
+        },
+        {
+          "id": "9006593d-0ac7-495f-b2d0-37e6221578b8",
+          "text": "95 cm y 111 cm."
+        }
+      ]
+    },
+    {
+      "id": "9e74a623-4054-4995-8fed-7ad008878e3c",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "Responda a partir del gráfico. Para un niño que tiene 2 años y 7 meses, ¿cuál es la estatura que deja por debajo el 85% de la distribución de estaturas en cm?",
+      "image": "9e74a623-4054-4995-8fed-7ad008878e3c.avif",
+      "options": [
+        {
+          "id": "87dfea0e-b4e9-4a7b-9f7e-d4fbfe816c6b",
+          "text": "96 cm.",
+          "correct": true
+        },
+        {
+          "id": "e1fdbae5-0aea-497a-85ae-c42e7348e82f",
+          "text": "100 cm."
+        },
+        {
+          "id": "7b2f72a1-f2b6-4955-8393-45e3bdbbc787",
+          "text": "85 cm."
+        },
+        {
+          "id": "ae3fc53c-4156-46d2-b076-efaf75900c86",
+          "text": "92 cm."
+        }
+      ]
+    },
+    {
+      "id": "bbfe8864-8a27-4a13-99eb-8868fade7221",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "Responda a partir del gráfico. Si el P50 corresponde a 105 cm de estatura, ¿cuál es la edad del niño?",
+      "image": "bbfe8864-8a27-4a13-99eb-8868fade7221.avif",
+      "options": [
+        {
+          "id": "ee6d2b6c-611e-4c61-a9b4-8a821408f587",
+          "text": "4 años y 3 meses.",
+          "correct": true
+        },
+        {
+          "id": "9ab30ac1-620c-4227-b62f-7cfa081b769c",
+          "text": "4 años y 1 mes."
+        },
+        {
+          "id": "75a242d9-37b9-4107-8167-4b118f967da3",
+          "text": "4 años y 5 meses."
+        },
+        {
+          "id": "e6a5fdca-c75f-4486-83da-d88ee337f6bc",
+          "text": "4 años."
+        }
+      ]
+    },
+    {
+      "id": "570bc5a3-515f-4d5b-a6f4-4b0752ec2493",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "Responda a partir del gráfico. Una madre lleva a consulta a su hijo que tiene 3 años y 10 meses de edad. El pediatra anota en el carné del niño que se encuentra en el P97, ¿cuál es la estatura de ese niño?",
+      "image": "570bc5a3-515f-4d5b-a6f4-4b0752ec2493.avif",
+      "options": [
+        {
+          "id": "1513e38c-6614-41ea-b66c-1814905c39c9",
+          "text": "110 cm.",
+          "correct": true
+        },
+        {
+          "id": "068eefb4-6632-4acc-a494-c6f106c71129",
+          "text": "100 cm."
+        },
+        {
+          "id": "e506f0bf-8beb-4402-9416-3dd8bc17e5e9",
+          "text": "102 cm."
+        },
+        {
+          "id": "d40a32c4-0b43-4631-a8f5-582c38206991",
+          "text": "115 cm."
+        }
+      ]
+    },
+    {
+      "id": "31575217-a569-40d4-b93c-6ddf927e2e85",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "¿Cuál de las siguientes afirmaciones es FALSA?",
+      "options": [
+        {
+          "id": "3df646e8-e19e-43b8-ab01-01582ea9e53b",
+          "text": "La mediana y la media aritmética nunca coinciden, pero aportan información complementaria de la distribución.",
+          "correct": true
+        },
+        {
+          "id": "2ae20ad9-d009-4de6-94af-c4e4b7160272",
+          "text": "El valor de la media aritmética siempre está comprendido entre el menor y el mayor valor observado."
+        },
+        {
+          "id": "f5f8f8d3-e4ae-4c91-98b3-0cc11376347d",
+          "text": "La media aritmética es más sensible a los valores extremos o anómalos que la mediana."
+        },
+        {
+          "id": "afcfdfe6-3b46-430f-a29f-b3649cddb848",
+          "text": "La media aritmética es una medida de posición central y en su cálculo interviene toda la información muestral."
+        }
+      ]
+    },
+    {
+      "id": "4ea8b91d-3c67-4ce9-9516-e02cc45e976a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "¿Cuál de las siguientes afirmaciones es correcta?",
+      "options": [
+        {
+          "id": "6a35c3b7-2422-4558-93dc-eb7cd712a9d6",
+          "text": "El rango siempre es mayor o igual al rango intercuartílico.",
+          "correct": true
+        },
+        {
+          "id": "f1f43ed7-d87b-4fc4-b9a2-53199203aca5",
+          "text": "El rango siempre es mayor que el rango intercuartílico."
+        },
+        {
+          "id": "db055489-5740-48da-9f79-23233d565821",
+          "text": "La desviación estándar puede ser negativa."
+        },
+        {
+          "id": "95eb70fe-0527-479f-b351-0a8c7c912ded",
+          "text": "La media muestral siempre es mayor que la mediana."
+        }
+      ]
+    },
+    {
+      "id": "110e5311-5fa0-4803-b1b1-81f2f9ba364b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2018-05-26",
+      "text": "¿Cuál de las siguientes medidas no calcula variación en torno a la media?",
+      "options": [
+        {
+          "id": "c4a71047-4b81-4136-b8c3-028b7ac3b37d",
+          "text": "Rango intercuartílico.",
+          "correct": true
+        },
+        {
+          "id": "0924d909-ad61-483c-b0ad-4fa588eafa32",
+          "text": "Coeficiente de variación."
+        },
+        {
+          "id": "707fc8cb-ac1f-478a-9146-d4b7f092c331",
+          "text": "Desvío."
+        },
+        {
+          "id": "3c84c4d7-a43f-4762-bd54-b7b020ce0b67",
+          "text": "Varianza."
+        }
+      ]
+    },
+    {
+      "id": "14dd1802-38ce-4a54-b970-c73baea65f7e",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "El gráfico muestra el peso de cuatro grupos de recién nacidos (se omiten los títulos por razones didácticas). ¿A qué percentil corresponde un peso de 1560 gramos en el grupo 2?",
+      "image": "14dd1802-38ce-4a54-b970-c73baea65f7e.avif",
+      "options": [
+        {
+          "id": "e7f056b2-3365-45ec-984a-e704a4f73ed9",
+          "text": "Percentil 50.",
+          "correct": true
+        },
+        {
+          "id": "d77d2840-6c0d-43fe-a6d6-3845c4839008",
+          "text": "Percentil 100."
+        },
+        {
+          "id": "c14c3cd8-a8bc-4801-865a-e12680f94962",
+          "text": "Percentil 25."
+        },
+        {
+          "id": "fa2a44c8-8ca9-4abb-932a-40a71ff486d1",
+          "text": "Percentil 75."
+        }
+      ]
+    },
+    {
+      "id": "f6cabefa-b6a6-4ec2-a1fc-429b879c304b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "El gráfico muestra el peso de cuatro grupos de recién nacidos (se omiten los títulos por razones didácticas). ¿Cuál de los grupos tiene mayor mediana?",
+      "image": "f6cabefa-b6a6-4ec2-a1fc-429b879c304b.avif",
+      "options": [
+        {
+          "id": "69837e8e-b03c-448a-8702-14835cc06996",
+          "text": "Grupo 2.",
+          "correct": true
+        },
+        {
+          "id": "1fe341b9-0c52-4d67-8a1e-4ca510fd1ffb",
+          "text": "Grupo 1."
+        },
+        {
+          "id": "40f1fac1-3629-4937-b21d-adc292344824",
+          "text": "Grupo 3."
+        },
+        {
+          "id": "469c9c43-39c9-4c20-af6d-614c9d711fd5",
+          "text": "Grupo 4."
+        },
+        {
+          "id": "0951281a-01d2-4406-998a-527e89e4bb6d",
+          "text": "No se puede saber."
+        }
+      ]
+    },
+    {
+      "id": "465c88f2-6a5c-409c-b3a5-b1d8cd665636",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "El gráfico muestra el peso de cuatro grupos de recién nacidos (se omiten los títulos por razones didácticas). ¿Cuál es el valor de la media en el grupo 2?",
+      "image": "465c88f2-6a5c-409c-b3a5-b1d8cd665636.avif",
+      "options": [
+        {
+          "id": "5fbb31bd-4f60-47f8-95b5-55194cff11cd",
+          "text": "No se puede obtener del gráfico.",
+          "correct": true
+        },
+        {
+          "id": "a99c8f83-4eeb-4796-88a5-927879188466",
+          "text": "1220 gramos."
+        },
+        {
+          "id": "782cb07a-24a6-4492-9f4a-4c899b760e35",
+          "text": "1560 gramos."
+        },
+        {
+          "id": "88750607-0f53-4bf0-8c96-00705b4292e8",
+          "text": "1620 gramos."
+        },
+        {
+          "id": "5cd0c90a-de5d-4832-ac48-3e77c293504b",
+          "text": "880 gramos."
+        }
+      ]
+    },
+    {
+      "id": "35728b26-2bd7-4696-86d1-821009c7768e",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "El gráfico muestra el peso de cuatro grupos de recién nacidos (se omiten los títulos por razones didácticas). ¿Cuál es el valor del percentil 75 en el grupo 3?",
+      "image": "35728b26-2bd7-4696-86d1-821009c7768e.avif",
+      "options": [
+        {
+          "id": "8a6c05f1-608a-4a8d-b2ef-0e1fdcbb14c5",
+          "text": "1600 gramos.",
+          "correct": true
+        },
+        {
+          "id": "badfc746-7d80-45e5-8104-0af8b7a3385d",
+          "text": "1480 gramos."
+        },
+        {
+          "id": "8ef6b0d1-dad1-46b0-837b-5aa624215051",
+          "text": "1620 gramos."
+        },
+        {
+          "id": "60bf1d25-9038-4682-b3ca-3514ec874752",
+          "text": "No se puede obtener del gráfico."
+        }
+      ]
+    },
+    {
+      "id": "1ea5e417-d4b2-41e9-b98f-176c4d48ffc1",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "El gráfico muestra el peso de cuatro grupos de recién nacidos (se omiten los títulos por razones didácticas). ¿Qué nombre recibe este tipo de gráfico?",
+      "image": "1ea5e417-d4b2-41e9-b98f-176c4d48ffc1.avif",
+      "options": [
+        {
+          "id": "0cf28703-c3fb-4242-80a1-9d4f92b22732",
+          "text": "Gráfico de caja y bigote (boxplot).",
+          "correct": true
+        },
+        {
+          "id": "40c018d1-f822-4cb7-a3b8-b7222b23a5b3",
+          "text": "Diagrama en escalera."
+        },
+        {
+          "id": "301a9623-2c62-4f0b-8a35-f6c8901ba8ff",
+          "text": "Gráfico de barras."
+        },
+        {
+          "id": "cad17674-eebb-4d51-aeea-8b8e59f6bed1",
+          "text": "Histograma."
+        },
+        {
+          "id": "33651553-ef57-4bd3-8f17-3789ff1a804d",
+          "text": "Polígono de densidad."
+        }
+      ]
+    },
+    {
+      "id": "b07192df-86ab-4a15-ae14-657db34a1f96",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "La creatinina es un compuesto orgánico generado a partir de la degradación de la creatina. Se trata de un producto de desecho del metabolismo normal de los músculos que habitualmente produce el cuerpo en una tasa muy constante, se transporta en la sangre y normalmente es filtrada en los riñones, excretándose en la orina. La determinación de la creatininemia (concentración de creatinina en sangre) es una prueba de laboratorio que se solicita con frecuencia para evaluar la función renal. La figura resume los datos de creatininemia en mg/dL de las 400 determinaciones realizadas en un mes por el laboratorio de cierto hospital. ¿Cuál es el primer intervalo que tiene frecuencia distinta de cero?",
+      "image": "b07192df-86ab-4a15-ae14-657db34a1f96.avif",
+      "options": [
+        {
+          "id": "02b168a3-b83d-41bb-9748-1657fc208a5e",
+          "text": "De 0.6 a 1.0 mg/dL.",
+          "correct": true
+        },
+        {
+          "id": "1facf6d3-22f1-4a0e-b24a-00514a0f8867",
+          "text": "De 0.0 a 0.4 mg/dL."
+        },
+        {
+          "id": "d93bb802-cdf6-4f21-b259-3e0add5e87c8",
+          "text": "De 0.4 a 0.8 mg/dL."
+        },
+        {
+          "id": "0908707a-3624-415c-99e5-e6a423cbfd3d",
+          "text": "De 0.8 a 1.2 mg/dL."
+        }
+      ]
+    },
+    {
+      "id": "9c1e4bba-3181-4fd0-b3a4-d1d0155a69fc",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "La creatinina es un compuesto orgánico generado a partir de la degradación de la creatina. Se trata de un producto de desecho del metabolismo normal de los músculos que habitualmente produce el cuerpo en una tasa muy constante, se transporta en la sangre y normalmente es filtrada en los riñones, excretándose en la orina. La determinación de la creatininemia (concentración de creatinina en sangre) es una prueba de laboratorio que se solicita con frecuencia para evaluar la función renal. La figura resume los datos de creatininemia en mg/dL de las 400 determinaciones realizadas en un mes por el laboratorio de cierto hospital. ¿Cuál es la frecuencia acumulada correspondiente a 5 mg/dL?",
+      "image": "9c1e4bba-3181-4fd0-b3a4-d1d0155a69fc.avif",
+      "options": [
+        {
+          "id": "ad578df5-670f-418f-aaa7-ed04f4e5e768",
+          "text": "1.00.",
+          "correct": true
+        },
+        {
+          "id": "de7c64e7-6b8a-4838-b24a-e297cc7abbde",
+          "text": "0.08."
+        },
+        {
+          "id": "9a6398cf-d271-479c-bc2a-2629d2dd1bc3",
+          "text": "0.92."
+        },
+        {
+          "id": "cd994530-a4db-4683-b75a-ff55fbbdcb69",
+          "text": "0.96."
+        }
+      ]
+    },
+    {
+      "id": "c340b871-23c9-4fa6-9f6b-cdc4eb58b205",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "La creatinina es un compuesto orgánico generado a partir de la degradación de la creatina. Se trata de un producto de desecho del metabolismo normal de los músculos que habitualmente produce el cuerpo en una tasa muy constante, se transporta en la sangre y normalmente es filtrada en los riñones, excretándose en la orina. La determinación de la creatininemia (concentración de creatinina en sangre) es una prueba de laboratorio que se solicita con frecuencia para evaluar la función renal. La figura resume los datos de creatininemia en mg/dL de las 400 determinaciones realizadas en un mes por el laboratorio de cierto hospital. ¿Cuál es la frecuencia relativa en el segundo intervalo que tiene observaciones?",
+      "image": "c340b871-23c9-4fa6-9f6b-cdc4eb58b205.avif",
+      "options": [
+        {
+          "id": "babb18d6-3b57-4244-bf09-8238abd1c5ed",
+          "text": "0.24.",
+          "correct": true
+        },
+        {
+          "id": "9a2d04aa-6ed2-4ff0-9aec-98ea01b77578",
+          "text": "0.40."
+        },
+        {
+          "id": "298d1d31-b235-4eb2-b70b-ec247ecbdbe0",
+          "text": "0.60."
+        },
+        {
+          "id": "18c3350f-ed3d-4573-a293-d5dabeeb9584",
+          "text": "1.00."
+        }
+      ]
+    },
+    {
+      "id": "db196666-0828-40f0-8f76-f7be10ad37cd",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "La creatinina es un compuesto orgánico generado a partir de la degradación de la creatina. Se trata de un producto de desecho del metabolismo normal de los músculos que habitualmente produce el cuerpo en una tasa muy constante, se transporta en la sangre y normalmente es filtrada en los riñones, excretándose en la orina. La determinación de la creatininemia (concentración de creatinina en sangre) es una prueba de laboratorio que se solicita con frecuencia para evaluar la función renal. La figura resume los datos de creatininemia en mg/dL de las 400 determinaciones realizadas en un mes por el laboratorio de cierto hospital. ¿Qué nombre recibe este tipo de gráfico?",
+      "image": "db196666-0828-40f0-8f76-f7be10ad37cd.avif",
+      "options": [
+        {
+          "id": "6c5432af-2367-4c05-be57-ef4c7fd08315",
+          "text": "Polígono de densidad.",
+          "correct": true
+        },
+        {
+          "id": "d787f4da-e227-4dc4-b334-cdc52c475d70",
+          "text": "Centellograma."
+        },
+        {
+          "id": "2798ecbd-110d-40d4-92f4-756d76f4c6c5",
+          "text": "Gráfico de caja y bigote (boxplot)."
+        },
+        {
+          "id": "d9ad2895-e97c-470e-adae-7dd76dd7995a",
+          "text": "Histograma."
+        },
+        {
+          "id": "4ccff254-2197-4e6b-ade2-a925fa58208e",
+          "text": "Ojiva de densidad de frecuencia."
+        }
+      ]
+    },
+    {
+      "id": "0f7b6901-aaf7-42cf-9b5e-c6f50be7c7c1",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Los gráficos A y B muestran la distribución de edades de dos grupos de estudiantes de secundaria de 100 individuos cada uno. De la comparación de las distribuciones A y B surge que:",
+      "image": "0f7b6901-aaf7-42cf-9b5e-c6f50be7c7c1.avif",
+      "options": [
+        {
+          "id": "fe13f06f-ad2f-4d9b-9e26-7f8eb739ea3e",
+          "text": "La media de A es menor que la de B.",
+          "correct": true
+        },
+        {
+          "id": "93a8ccc3-f725-48d8-b88d-65d71531f743",
+          "text": "La media de A es igual a la de B."
+        },
+        {
+          "id": "97ebae42-76f6-4bd4-afd9-bce7c7a59b38",
+          "text": "La media de A es mayor que la de B."
+        }
+      ]
+    },
+    {
+      "id": "59690ea1-e4d2-48ed-a547-35e67799b313",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Los gráficos A y B muestran la distribución de edades de dos grupos de estudiantes de secundaria de 100 individuos cada uno. De la comparación de las distribuciones A y B surge que:",
+      "image": "59690ea1-e4d2-48ed-a547-35e67799b313.avif",
+      "options": [
+        {
+          "id": "6ebb220c-f395-4e5c-932d-690a8fa5ed10",
+          "text": "El rango de A es menor que el de B.",
+          "correct": true
+        },
+        {
+          "id": "80bec42c-8391-43bb-bea4-29f27a7003a2",
+          "text": "El rango de A es igual al de B."
+        },
+        {
+          "id": "174f1181-5f85-4187-b2fb-0464930dd0d6",
+          "text": "El rango de A es mayor que el de B."
+        }
+      ]
+    },
+    {
+      "id": "9db263cb-f997-4615-afe4-c6643b155a3b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Los gráficos A y B muestran la distribución de edades de dos grupos de estudiantes de secundaria de 100 individuos cada uno. De la comparación de las distribuciones A y B surge que:",
+      "image": "9db263cb-f997-4615-afe4-c6643b155a3b.avif",
+      "options": [
+        {
+          "id": "9ec49cb6-2f2b-42af-a5f0-a8da1b98dbc4",
+          "text": "La mediana de A es igual a la de B.",
+          "correct": true
+        },
+        {
+          "id": "bce80c9e-04d2-407d-b5a9-a1be6a4d4260",
+          "text": "La mediana de A es mayor que la de B."
+        },
+        {
+          "id": "c008d5d5-1b74-4cae-87c8-911f42673e13",
+          "text": "La mediana de A es menor que la de B."
+        },
+        {
+          "id": "a41a1aa7-5fc2-4c87-9190-5ed3d6b880d8",
+          "text": "No se puede deducir nada acerca de la mediana."
+        }
+      ]
+    },
+    {
+      "id": "4063f862-e05c-47c1-b9b1-a1e312d5a83b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Los gráficos A y B muestran la distribución de edades de dos grupos de estudiantes de secundaria de 100 individuos cada uno. La media de B es:",
+      "image": "4063f862-e05c-47c1-b9b1-a1e312d5a83b.avif",
+      "options": [
+        {
+          "id": "82dc480e-3598-4db8-b3ad-f9303fd1ae26",
+          "text": "12.24.",
+          "correct": true
+        },
+        {
+          "id": "65c31134-c471-44da-ab40-fe2d297820a8",
+          "text": "11.50."
+        },
+        {
+          "id": "e1b9241b-49ec-4fce-b218-e53f5adddc5b",
+          "text": "12.00."
+        },
+        {
+          "id": "e948a246-e9e4-4882-8b18-26e4b5bad99c",
+          "text": "13.00."
+        }
+      ]
+    },
+    {
+      "id": "afa7f2d9-557b-4f47-b974-31fee4e9896c",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Se quiere poner a prueba un nuevo método para detectar cierto tóxico en orina. Para ello se recluta una muestra aleatoria de 10 pacientes en los que se sospecha intoxicación por el tóxico y se dosifica. Los resultados (expresados en mg/L) se muestran a continuación: 7.3 2.4 6.6 8.5 7.2 5.5 7.6 8.4 9.0 5.3. La media de los datos es:",
+      "options": [
+        {
+          "id": "d97e79e7-96bc-49d2-b911-900e0bbe4d12",
+          "text": "6.78.",
+          "correct": true
+        },
+        {
+          "id": "25d29c4f-1b01-476d-970f-3865de1adf5e",
+          "text": "5.50."
+        },
+        {
+          "id": "e8cd3629-47d6-4e05-883a-a36801328aad",
+          "text": "6.35."
+        },
+        {
+          "id": "6d28ae80-153d-4256-841a-ad9573670c99",
+          "text": "7.25."
+        }
+      ]
+    },
+    {
+      "id": "7829c14b-15cc-4bd3-aebd-a6a7afc2fcb7",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Se quiere poner a prueba un nuevo método para detectar cierto tóxico en orina. Para ello se recluta una muestra aleatoria de 10 pacientes en los que se sospecha intoxicación por el tóxico y se dosifica. Los resultados (expresados en mg/L) se muestran a continuación: 7.3 2.4 6.6 8.5 7.2 5.5 7.6 8.4 9.0 5.3. La mediana de los datos es:",
+      "options": [
+        {
+          "id": "71e93ca5-c7a9-413b-834e-d58aa0473867",
+          "text": "7.25.",
+          "correct": true
+        },
+        {
+          "id": "6d5ea7a8-3f84-4884-977b-ec9bc875248a",
+          "text": "5.50."
+        },
+        {
+          "id": "d0c4c46b-7e12-43ae-b667-7608a8ad1f01",
+          "text": "6.35."
+        },
+        {
+          "id": "d7b1eb78-4df2-4ef7-9a68-432c72ea8861",
+          "text": "6.78."
+        }
+      ]
+    },
+    {
+      "id": "1497288a-be74-4cec-9743-419fc52ae44c",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Se quiere poner a prueba un nuevo método para detectar cierto tóxico en orina. Para ello se recluta una muestra aleatoria de 10 pacientes en los que se sospecha intoxicación por el tóxico y se dosifica. Los resultados (expresados en mg/L) se muestran a continuación: 7.3 2.4 6.6 8.5 7.2 5.5 7.6 8.4 9.0 5.3. La varianza de los datos es:",
+      "options": [
+        {
+          "id": "60746924-8c07-48b6-b4eb-f560515da137",
+          "text": "3.85.",
+          "correct": true
+        },
+        {
+          "id": "21250efa-5672-47c0-8e2f-5c98d3b60bcf",
+          "text": "1.96."
+        },
+        {
+          "id": "0ee47bc9-efbd-4383-8261-420d58dc7df6",
+          "text": "34.7."
+        },
+        {
+          "id": "0a8047fc-3b45-460d-84d2-7dd9a3e32cbc",
+          "text": "5.31."
+        }
+      ]
+    },
+    {
+      "id": "58a786e0-1c8a-492f-bd2c-7667a173ba8d",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Se quiere poner a prueba un nuevo método para detectar cierto tóxico en orina. Para ello se recluta una muestra aleatoria de 10 pacientes en los que se sospecha intoxicación por el tóxico y se dosifica. Los resultados (expresados en mg/L) se muestran a continuación: 7.3 2.4 6.6 8.5 7.2 5.5 7.6 8.4 9.0 5.3. ¿Qué tipo de variable se está estudiando?",
+      "options": [
+        {
+          "id": "4b74fa26-eb38-435c-9a12-765325d50d55",
+          "text": "Cuantitativa continua.",
+          "correct": true
+        },
+        {
+          "id": "9af59828-7938-4386-a8d6-fca99ea2d99d",
+          "text": "Cualitativa."
+        },
+        {
+          "id": "698750e5-512d-4fbb-8a8a-5c48f37c3876",
+          "text": "Cuantitativa discreta."
+        }
+      ]
+    }
+  ],
+  "evaluations": [
+    {
+      "key": "parcial_1",
+      "name": "1° parcial"
+    }
+  ]
+}

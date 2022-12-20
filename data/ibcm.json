@@ -6034,32 +6034,6 @@
       ]
     },
     {
-      "id": "9453aacc-ea3a-4db3-bbe4-a1887b557559",
-      "evaluation": "parcial_2",
-      "source": "partial",
-      "asked_at": "2020-07-11",
-      "text": ". De los siguientes mecanismos que permiten generar variabilidad genética en la célula bacteriana, ¿cuál implica el salto de segmentos de ADN de un sitio a otro del genoma?",
-      "options": [
-        {
-          "id": "3e0c3829-9e21-4e56-9127-381e19e1ec13",
-          "text": "Transposición.",
-          "correct": true
-        },
-        {
-          "id": "bffe238f-79c2-489a-931c-853390ededd3",
-          "text": "Conjugación."
-        },
-        {
-          "id": "94d32b61-1c92-42c8-9869-6bb1ef4f7a27",
-          "text": "Transducción."
-        },
-        {
-          "id": "e16b13b5-9616-48a9-9d66-8c9fd8a61bbe",
-          "text": "Transformación."
-        }
-      ]
-    },
-    {
       "id": "d7ebf1ec-c102-4e64-af48-dc62f5494c81",
       "evaluation": "parcial_2",
       "source": "partial",
@@ -6104,6 +6078,32 @@
         {
           "id": "1c5de17f-c615-4915-89dc-7d2b149aecfb",
           "text": "Microbiota basal."
+        }
+      ]
+    },
+    {
+      "id": "9453aacc-ea3a-4db3-bbe4-a1887b557559",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-07-11",
+      "text": "De los siguientes mecanismos que permiten generar variabilidad genética en la célula bacteriana, ¿cuál implica el salto de segmentos de ADN de un sitio a otro del genoma?",
+      "options": [
+        {
+          "id": "3e0c3829-9e21-4e56-9127-381e19e1ec13",
+          "text": "Transposición.",
+          "correct": true
+        },
+        {
+          "id": "bffe238f-79c2-489a-931c-853390ededd3",
+          "text": "Conjugación."
+        },
+        {
+          "id": "94d32b61-1c92-42c8-9869-6bb1ef4f7a27",
+          "text": "Transducción."
+        },
+        {
+          "id": "e16b13b5-9616-48a9-9d66-8c9fd8a61bbe",
+          "text": "Transformación."
         }
       ]
     },
