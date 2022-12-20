@@ -11,6 +11,681 @@
   "order": 3,
   "questions": [
     {
+      "id": "26a88b17-f623-435c-8a6b-7f78b3b0231d",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "El siguiente histograma muestra la distribución de edades maternas (en años) de una serie de casos de aborto espontáneo (Trichopoulos et al., 1976). El desvío estándar de la distribución de edad materna (en años) es:",
+      "image": "26a88b17-f623-435c-8a6b-7f78b3b0231d.avif",
+      "options": [
+        {
+          "id": "279298c1-aacc-4f24-8c7d-3a122d557fa6",
+          "text": "5,3.",
+          "correct": true
+        },
+        {
+          "id": "7e0c9d8e-ffce-44d7-91e1-3b720ad43cb8",
+          "text": "10,0."
+        },
+        {
+          "id": "aa4fdf01-a4e0-409f-9b04-ca751324bd6a",
+          "text": "28,5."
+        },
+        {
+          "id": "0f852982-3cc0-4c1f-815c-2b22f658a77f",
+          "text": "7,3."
+        }
+      ]
+    },
+    {
+      "id": "400474c8-2178-4bb2-8087-b52a41aa0eab",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "El siguiente histograma muestra la distribución de edades maternas (en años) de una serie de casos de aborto espontáneo (Trichopoulos et al., 1976). El intervalo de edad materna con mayor frecuencia relativa es:",
+      "image": "400474c8-2178-4bb2-8087-b52a41aa0eab.avif",
+      "options": [
+        {
+          "id": "dbf08984-a5b5-48cb-84cd-5501be85bc93",
+          "text": "[30; 40).",
+          "correct": true
+        },
+        {
+          "id": "6ca58cef-d42c-42a0-8313-a5d97ce1bcc5",
+          "text": "[20; 25)."
+        },
+        {
+          "id": "bbdc9dcc-c7f1-4783-b7cc-6410768afe34",
+          "text": "[25; 30)."
+        },
+        {
+          "id": "cab811c0-9a70-4434-81c3-1aebc4e3e665",
+          "text": "[40; 50)."
+        }
+      ]
+    },
+    {
+      "id": "c52a0d07-67a9-4e3b-a489-75857dc36f88",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "El siguiente histograma muestra la distribución de edades maternas (en años) de una serie de casos de aborto espontáneo (Trichopoulos et al., 1976). La frecuencia relativa de la clase modal es aproximadamente:",
+      "image": "c52a0d07-67a9-4e3b-a489-75857dc36f88.avif",
+      "options": [
+        {
+          "id": "ea3a5fc1-cd71-4d45-b33a-116b8df11724",
+          "text": "0,340.",
+          "correct": true
+        },
+        {
+          "id": "971de402-0281-4375-824d-86e55119fa60",
+          "text": "0,050."
+        },
+        {
+          "id": "6f552b62-497d-4263-838a-913199909721",
+          "text": "0,068."
+        },
+        {
+          "id": "85e16a54-a935-474f-b686-b858448726cc",
+          "text": "0,550."
+        }
+      ]
+    },
+    {
+      "id": "1b5ad24c-ef4b-4828-bd16-060dd93c0435",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "El siguiente histograma muestra la distribución de edades maternas (en años) de una serie de casos de aborto espontáneo (Trichopoulos et al., 1976). La media de la distribución de edad materna (en años) es aproximadamente:",
+      "image": "1b5ad24c-ef4b-4828-bd16-060dd93c0435.avif",
+      "options": [
+        {
+          "id": "8baf4448-ec77-4124-b103-9656a6176ec3",
+          "text": "31,4.",
+          "correct": true
+        },
+        {
+          "id": "45848a60-eecf-4cee-a0cb-dab7b22e89c0",
+          "text": "30,0."
+        },
+        {
+          "id": "ab3f47d1-6cfc-4266-b1e8-116695d605ce",
+          "text": "30,8."
+        },
+        {
+          "id": "2d8d45dd-0280-4451-a65d-be5051efac69",
+          "text": "35,0."
+        }
+      ]
+    },
+    {
+      "id": "98fa376e-d24d-465e-8322-fabf725c6015",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "El siguiente histograma muestra la distribución de edades maternas (en años) de una serie de casos de aborto espontáneo (Trichopoulos et al., 1976). La mediana de la distribución de edad materna (en años) es:",
+      "image": "98fa376e-d24d-465e-8322-fabf725c6015.avif",
+      "options": [
+        {
+          "id": "a40b2d53-533b-457a-bebb-5ef9a091227d",
+          "text": "30,8.",
+          "correct": true
+        },
+        {
+          "id": "bf0f8b2d-2eb3-43bf-ad32-400155dab432",
+          "text": "27,5."
+        },
+        {
+          "id": "d8db35b2-e22a-42c9-bd7e-ad0f218637ea",
+          "text": "30,0."
+        },
+        {
+          "id": "af3aa80c-b4a2-42be-9924-f9701fa1005e",
+          "text": "40,0."
+        }
+      ]
+    },
+    {
+      "id": "ead1235d-5f8f-4a88-8c85-b6f7bb84ec04",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "El siguiente histograma muestra la distribución de edades maternas (en años) de una serie de casos de aborto espontáneo (Trichopoulos et al., 1976). La moda de la edad materna (en años) es:",
+      "image": "ead1235d-5f8f-4a88-8c85-b6f7bb84ec04.avif",
+      "options": [
+        {
+          "id": "09ea4dbf-5096-40c3-944a-c626d5fa2d6d",
+          "text": "27,5.",
+          "correct": true
+        },
+        {
+          "id": "6b9a2eef-1300-4944-881f-8c85eeda65a5",
+          "text": "25,0."
+        },
+        {
+          "id": "e196fc43-8457-42d4-aa7a-380a7ba0de63",
+          "text": "30,0."
+        },
+        {
+          "id": "e2b88ed5-3836-4450-adb8-5ef9f37b2455",
+          "text": "35,0."
+        }
+      ]
+    },
+    {
+      "id": "2de4996a-b2e0-4aba-9575-dd101ceab43f",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "La siguiente tabla muestra la distribución de edades (en años) para los fallecidos en siniestros de tránsito en 2015, discriminando de acuerdo al rol, entre peatones y conductores (UNASEV, 2016). El rol de la persona en el siniestro (conductor o peatón) es una variable de tipo:",
+      "image": "2de4996a-b2e0-4aba-9575-dd101ceab43f.avif",
+      "options": [
+        {
+          "id": "f1a42f6e-e672-42ca-8c6f-0a61657a55fe",
+          "text": "Cualitativa nominal.",
+          "correct": true
+        },
+        {
+          "id": "8d3b1b33-6ba4-4ef9-8f91-f3b4b43e36b1",
+          "text": "Cualitativa ordinal."
+        },
+        {
+          "id": "afe4f3f3-8a4f-4ed1-a53a-9f86cd66ba8c",
+          "text": "Cuantitativa de intervalo."
+        },
+        {
+          "id": "9a2b1e44-f008-4e37-997e-fbf332b80e4a",
+          "text": "Cuantitativa de razón."
+        }
+      ]
+    },
+    {
+      "id": "24e2f9f1-db5a-4fc5-8847-ece4b3f324f1",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "La siguiente tabla muestra la distribución de edades (en años) para los fallecidos en siniestros de tránsito en 2015, discriminando de acuerdo al rol, entre peatones y conductores (UNASEV, 2016). El valor más aproximado del percentil 50 de la edad (en años) de los peatones fallecidos corresponde a:",
+      "image": "24e2f9f1-db5a-4fc5-8847-ece4b3f324f1.avif",
+      "options": [
+        {
+          "id": "5a4ff4fd-6068-4510-81d5-76d176e54c83",
+          "text": "50,0.",
+          "correct": true
+        },
+        {
+          "id": "d46a0230-5921-49d9-9300-39426396ca57",
+          "text": "45,7."
+        },
+        {
+          "id": "a4d8ffe8-2d5a-4ee2-add6-4123bbdee3e7",
+          "text": "52,7."
+        },
+        {
+          "id": "07387593-793c-4543-a1f0-aa463cda9765",
+          "text": "55,7."
+        }
+      ]
+    },
+    {
+      "id": "3817d39e-a1af-462c-8202-332af7ff55ab",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "La siguiente tabla muestra la distribución de edades (en años) para los fallecidos en siniestros de tránsito en 2015, discriminando de acuerdo al rol, entre peatones y conductores (UNASEV, 2016). El valor más aproximado del percentil 75 de la edad (en años) de los peatones fallecidos corresponde a:",
+      "image": "3817d39e-a1af-462c-8202-332af7ff55ab.avif",
+      "options": [
+        {
+          "id": "1ba2257f-54fe-4c35-b48b-0e2a513b0f0d",
+          "text": "65.",
+          "correct": true
+        },
+        {
+          "id": "426d5064-a4b7-4a3d-be2d-c0e4ec99f9a4",
+          "text": "56."
+        },
+        {
+          "id": "ff7a12ef-4a54-4d3a-b33a-0926335f3fed",
+          "text": "74."
+        },
+        {
+          "id": "532fb761-670b-4279-b960-afb6a108e320",
+          "text": "84."
+        }
+      ]
+    },
+    {
+      "id": "0a8ba2c9-ba33-4b23-a83e-ddb76b968518",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "La siguiente tabla muestra la distribución de edades (en años) para los fallecidos en siniestros de tránsito en 2015, discriminando de acuerdo al rol, entre peatones y conductores (UNASEV, 2016). En la distribución de edades de los conductores, la edad de 80 años corresponde aproximadamente al percentil:",
+      "image": "0a8ba2c9-ba33-4b23-a83e-ddb76b968518.avif",
+      "options": [
+        {
+          "id": "1dda948e-2547-419f-a690-4fb0b7c1fec0",
+          "text": "98.",
+          "correct": true
+        },
+        {
+          "id": "ca397011-59e0-44de-9464-8c9a1d058f42",
+          "text": "23."
+        },
+        {
+          "id": "a014cdf8-0909-4537-a1fc-abaaddc1484e",
+          "text": "75."
+        },
+        {
+          "id": "fd43bdea-18c0-4864-8e33-8c2f269b8b0b",
+          "text": "88."
+        }
+      ]
+    },
+    {
+      "id": "1706d7a3-7554-4513-b747-40d8ffdcc9fe",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "La siguiente tabla muestra la distribución de edades (en años) para los fallecidos en siniestros de tránsito en 2015, discriminando de acuerdo al rol, entre peatones y conductores (UNASEV, 2016). En la distribución de edades de los peatones, la edad de 80 años corresponde aproximadamente al percentil:",
+      "image": "1706d7a3-7554-4513-b747-40d8ffdcc9fe.avif",
+      "options": [
+        {
+          "id": "462f72d7-995f-41ed-812c-bf4b84660686",
+          "text": "98.",
+          "correct": true
+        },
+        {
+          "id": "2e829a13-5bd1-45c2-b6b5-e905b9e48477",
+          "text": "42."
+        },
+        {
+          "id": "abbb244a-f261-4502-86f9-b236467df64c",
+          "text": "66."
+        },
+        {
+          "id": "7ce3396c-259b-4e01-b233-b185364caf07",
+          "text": "84."
+        }
+      ]
+    },
+    {
+      "id": "381506c1-be96-4a15-b9e0-23f233ad5a8b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "La siguiente tabla muestra la distribución de edades (en años) para los fallecidos en siniestros de tránsito en 2015, discriminando de acuerdo al rol, entre peatones y conductores (UNASEV, 2016). La edad de los fallecidos en siniestros de tránsito es una variable de tipo:",
+      "image": "381506c1-be96-4a15-b9e0-23f233ad5a8b.avif",
+      "options": [
+        {
+          "id": "85da550e-3e6c-462c-8b8f-c951cd3af02b",
+          "text": "Cuantitativa de razón.",
+          "correct": true
+        },
+        {
+          "id": "bc52954a-31ca-42d1-8c6e-b769ec15048b",
+          "text": "Cualitativa nominal."
+        },
+        {
+          "id": "170edda1-cfb5-4722-b67f-46cb2f1d016f",
+          "text": "Cualitativa ordinal."
+        },
+        {
+          "id": "caccf64c-893c-444c-8d2f-28599b37c107",
+          "text": "Cuantitativa de intervalo."
+        }
+      ]
+    },
+    {
+      "id": "d5c088a3-5916-40a9-8fc6-35f06c375650",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "La siguiente tabla muestra la distribución de edades (en años) para los fallecidos en siniestros de tránsito en 2015, discriminando de acuerdo al rol, entre peatones y conductores (UNASEV, 2016). La mediana de la edad (en años) de los conductores fallecidos es:",
+      "image": "d5c088a3-5916-40a9-8fc6-35f06c375650.avif",
+      "options": [
+        {
+          "id": "23085af3-0727-486f-a273-7065443c7b72",
+          "text": "32,7.",
+          "correct": true
+        },
+        {
+          "id": "b6170a82-dbcc-4dd4-9169-4fe8b768f925",
+          "text": "12,7."
+        },
+        {
+          "id": "0191f91f-d8f2-4b1f-8536-f2907cc9bf83",
+          "text": "30,0."
+        },
+        {
+          "id": "c8dde503-432a-47dc-a4f4-3f064bb4f700",
+          "text": "40,0."
+        }
+      ]
+    },
+    {
+      "id": "45897d7a-6594-48db-a306-95735bef0255",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "La siguiente tabla muestra la distribución de edades (en años) para los fallecidos en siniestros de tránsito en 2015, discriminando de acuerdo al rol, entre peatones y conductores (UNASEV, 2016). La moda de la edad (en años) de los conductores fallecidos es:",
+      "image": "45897d7a-6594-48db-a306-95735bef0255.avif",
+      "options": [
+        {
+          "id": "8da55fe6-0d37-4554-8fdd-8a10231c5809",
+          "text": "15.",
+          "correct": true
+        },
+        {
+          "id": "0a9d9161-33f8-4fc4-962e-7ff5b7c9c63c",
+          "text": "30."
+        },
+        {
+          "id": "4a6ae9d3-56cf-4b98-841c-3166afdb01b4",
+          "text": "45."
+        },
+        {
+          "id": "36bb5aa5-751a-4678-9d92-9f5b97ec57b7",
+          "text": "85."
+        }
+      ]
+    },
+    {
+      "id": "17c97c05-3982-4aed-988e-a9a0daa73dbd",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "La siguiente tabla muestra la distribución de edades (en años) para los fallecidos en siniestros de tránsito en 2015, discriminando de acuerdo al rol, entre peatones y conductores (UNASEV, 2016). La moda de la edad (en años) de los peatones fallecidos es:",
+      "image": "17c97c05-3982-4aed-988e-a9a0daa73dbd.avif",
+      "options": [
+        {
+          "id": "e5b5ce27-eb6c-46fe-b8c1-bb56eede9f35",
+          "text": "65.",
+          "correct": true
+        },
+        {
+          "id": "37270508-329f-453e-b653-4f0597d396f0",
+          "text": "15."
+        },
+        {
+          "id": "4ddd8026-2477-47c2-b1d5-ae26f0e3a746",
+          "text": "30."
+        },
+        {
+          "id": "09933738-ee06-4662-a12f-8f59c15bb30a",
+          "text": "85."
+        }
+      ]
+    },
+    {
+      "id": "9d2a9ae0-d1d8-4451-a3c4-366689fa63c9",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "La siguiente tabla muestra la distribución de edades (en años) para los fallecidos en siniestros de tránsito en 2015, discriminando de acuerdo al rol, entre peatones y conductores (UNASEV, 2016). Si se quisiera representar ambas variables estudiadas en un mismo gráfico, la mejor opción de gráfico sería:",
+      "image": "9d2a9ae0-d1d8-4451-a3c4-366689fa63c9.avif",
+      "options": [
+        {
+          "id": "e22751d8-9cb8-4aac-ad3e-e78453c49039",
+          "text": "Gráfico de cajas y líneas.",
+          "correct": true
+        },
+        {
+          "id": "0aafdb09-f3c3-4bbe-8e5c-d673f7ef7ef1",
+          "text": "Diagrama de barras."
+        },
+        {
+          "id": "beea555a-e84b-4d80-87eb-eb915ead9ff6",
+          "text": "Diagrama de dispersión."
+        },
+        {
+          "id": "40522dab-09c0-4d64-916d-0a4fb51820ff",
+          "text": "Histograma."
+        }
+      ]
+    },
+    {
+      "id": "76fde32e-9847-4092-9c80-68c9efc2b357",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "La tabla siguiente fue extraída de un trabajo realizado por el equipo de Ortopedia y Traumatología Pediátrica de un centro de tercer nivel de asistencia de nuestro país en el año 2014. Allí se muestran las características de pacientes con dismetrías de miembro inferior sometidos a tratamiento de alargamiento óseo mediante un sistema mecánico de fijadores externos a nivel de la tibia. El rango de la dismetría es:",
+      "image": "76fde32e-9847-4092-9c80-68c9efc2b357.avif",
+      "options": [
+        {
+          "id": "a42bfd37-13c8-45fc-87c3-b0ceb2685a61",
+          "text": "8,5.",
+          "correct": true
+        },
+        {
+          "id": "900d0bb6-81cf-49c4-98d8-47d11de7d150",
+          "text": "11,5."
+        },
+        {
+          "id": "e6db3fb6-dc95-455c-9149-2027195ca9c0",
+          "text": "3,0."
+        },
+        {
+          "id": "305e8be1-a330-4a1a-9b86-28ca1ecf6d42",
+          "text": "7,0."
+        }
+      ]
+    },
+    {
+      "id": "106b6230-2448-4530-8604-54752bafa96b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "La tabla siguiente fue extraída de un trabajo realizado por el equipo de Ortopedia y Traumatología Pediátrica de un centro de tercer nivel de asistencia de nuestro país en el año 2014. Allí se muestran las características de pacientes con dismetrías de miembro inferior sometidos a tratamiento de alargamiento óseo mediante un sistema mecánico de fijadores externos a nivel de la tibia. El rango es una medida de resumen de:",
+      "image": "106b6230-2448-4530-8604-54752bafa96b.avif",
+      "options": [
+        {
+          "id": "4f7cebeb-547b-487b-b6fd-7ef3ca1179fc",
+          "text": "Dispersión o variabilidad.",
+          "correct": true
+        },
+        {
+          "id": "85a11da2-2091-4a49-a733-53793c641ee8",
+          "text": "Asimetría."
+        },
+        {
+          "id": "fcd70104-227e-4333-8a56-832deaa98465",
+          "text": "Posición."
+        },
+        {
+          "id": "189ec8ac-4406-4a2c-9a92-812c06f8fd9b",
+          "text": "Tendencia central."
+        }
+      ]
+    },
+    {
+      "id": "8375e9f8-e242-415c-952a-d1fc455f4766",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "La tabla siguiente fue extraída de un trabajo realizado por el equipo de Ortopedia y Traumatología Pediátrica de un centro de tercer nivel de asistencia de nuestro país en el año 2014. Allí se muestran las características de pacientes con dismetrías de miembro inferior sometidos a tratamiento de alargamiento óseo mediante un sistema mecánico de fijadores externos a nivel de la tibia. La frecuencia absoluta de infección para la variable etiología es:",
+      "image": "8375e9f8-e242-415c-952a-d1fc455f4766.avif",
+      "options": [
+        {
+          "id": "ccc5237f-aa10-4ae4-a97c-4dc41482041d",
+          "text": "4.",
+          "correct": true
+        },
+        {
+          "id": "0d9839e6-2196-4ba2-9739-e7bdfb082cc5",
+          "text": "2."
+        },
+        {
+          "id": "1825b497-ca2e-4a8a-aa9a-7f320a77b95b",
+          "text": "3."
+        },
+        {
+          "id": "55d0c568-0c1e-41d5-9cc6-58641c7da55a",
+          "text": "5."
+        }
+      ]
+    },
+    {
+      "id": "227379e7-09de-499a-9cf5-e1b54a321ccd",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "La tabla siguiente fue extraída de un trabajo realizado por el equipo de Ortopedia y Traumatología Pediátrica de un centro de tercer nivel de asistencia de nuestro país en el año 2014. Allí se muestran las características de pacientes con dismetrías de miembro inferior sometidos a tratamiento de alargamiento óseo mediante un sistema mecánico de fijadores externos a nivel de la tibia. La media de la variable dismetría (en cm) es:",
+      "image": "227379e7-09de-499a-9cf5-e1b54a321ccd.avif",
+      "options": [
+        {
+          "id": "9e4a29b5-d8ef-4728-ba39-a9aebdf11ddc",
+          "text": "6,025.",
+          "correct": true
+        },
+        {
+          "id": "8c664336-908a-4c12-acb3-5f4530e4d7ee",
+          "text": "4,030."
+        },
+        {
+          "id": "f0d01804-4911-4bf3-a96a-13e8cb7f67c4",
+          "text": "8,025."
+        },
+        {
+          "id": "2a07333a-6487-4809-80b0-3d316d551ab2",
+          "text": "9,200."
+        }
+      ]
+    },
+    {
+      "id": "0c257396-59d5-4617-ac1d-5a15aa9395fd",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "La tabla siguiente fue extraída de un trabajo realizado por el equipo de Ortopedia y Traumatología Pediátrica de un centro de tercer nivel de asistencia de nuestro país en el año 2014. Allí se muestran las características de pacientes con dismetrías de miembro inferior sometidos a tratamiento de alargamiento óseo mediante un sistema mecánico de fijadores externos a nivel de la tibia. La mediana de la variable dismetría (en cm) es:",
+      "image": "0c257396-59d5-4617-ac1d-5a15aa9395fd.avif",
+      "options": [
+        {
+          "id": "f0826e80-d28a-4769-965b-a55d0f9a3825",
+          "text": "5,6.",
+          "correct": true
+        },
+        {
+          "id": "d9f715ed-38ec-43eb-a71c-4a9cff51961f",
+          "text": "4,8."
+        },
+        {
+          "id": "da7bc1b2-b9da-4da8-be59-c0e187be3da9",
+          "text": "5,2."
+        },
+        {
+          "id": "fe6d179e-aed8-4df4-bef8-d49b4ca49240",
+          "text": "6,0."
+        }
+      ]
+    },
+    {
+      "id": "3f21794f-6131-4b09-b1b4-cb6d59367e0d",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "La tabla siguiente fue extraída de un trabajo realizado por el equipo de Ortopedia y Traumatología Pediátrica de un centro de tercer nivel de asistencia de nuestro país en el año 2014. Allí se muestran las características de pacientes con dismetrías de miembro inferior sometidos a tratamiento de alargamiento óseo mediante un sistema mecánico de fijadores externos a nivel de la tibia. La variable etiología se clasifica como:",
+      "image": "3f21794f-6131-4b09-b1b4-cb6d59367e0d.avif",
+      "options": [
+        {
+          "id": "2003e5d2-0566-451a-a661-bbe345b9f63a",
+          "text": "Cualitativa, escala nominal.",
+          "correct": true
+        },
+        {
+          "id": "3e8b78ef-36b6-44e1-a4ab-50bdbb7cc9e3",
+          "text": "Cualitativa, escala ordinal."
+        },
+        {
+          "id": "1c69dcfd-fe6b-4f7d-ac9c-9449389626da",
+          "text": "Cuantitativa continua, escala de razón."
+        },
+        {
+          "id": "75b1625d-9753-4bad-a737-ad582219ecc5",
+          "text": "Cuantitativa discreta, escala de intervalo."
+        }
+      ]
+    },
+    {
+      "id": "0d080fb9-6758-40de-97e1-fa9d1349c5f1",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "La tabla siguiente fue extraída de un trabajo realizado por el equipo de Ortopedia y Traumatología Pediátrica de un centro de tercer nivel de asistencia de nuestro país en el año 2014. Allí se muestran las características de pacientes con dismetrías de miembro inferior sometidos a tratamiento de alargamiento óseo mediante un sistema mecánico de fijadores externos a nivel de la tibia. Según los datos de la variable sexo en la tabla, podemos afirmar que la frecuencia relativa:",
+      "image": "0d080fb9-6758-40de-97e1-fa9d1349c5f1.avif",
+      "options": [
+        {
+          "id": "1e5907f4-e276-483b-9451-8a947a3b7992",
+          "text": "De varones es mayor que la de mujeres.",
+          "correct": true
+        },
+        {
+          "id": "27ae602a-8e02-46d1-b667-191a3bad0783",
+          "text": "De mujeres es 6,00."
+        },
+        {
+          "id": "c87edc55-b13e-4998-bb66-2b4a9d527399",
+          "text": "De mujeres y varones es la misma."
+        },
+        {
+          "id": "691e42e1-a334-40aa-8339-41feb4d01e75",
+          "text": "De varones es 0,25."
+        }
+      ]
+    },
+    {
+      "id": "aac56e6f-1c31-490c-a0d8-f2c1dd8f990a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "La tabla siguiente fue extraída de un trabajo realizado por el equipo de Ortopedia y Traumatología Pediátrica de un centro de tercer nivel de asistencia de nuestro país en el año 2014. Allí se muestran las características de pacientes con dismetrías de miembro inferior sometidos a tratamiento de alargamiento óseo mediante un sistema mecánico de fijadores externos a nivel de la tibia. Si se pretende graficar la distribución conjunta de las variables \"alargamiento planificado\" y \"alargamiento logrado\" deberíamos realizar un diagrama:",
+      "image": "aac56e6f-1c31-490c-a0d8-f2c1dd8f990a.avif",
+      "options": [
+        {
+          "id": "b9f6739c-481c-4fce-8db9-7f0f953563bf",
+          "text": "De dispersión.",
+          "correct": true
+        },
+        {
+          "id": "d780d86d-703b-455c-adb7-589ae913104b",
+          "text": "De barras apiladas."
+        },
+        {
+          "id": "e7e1a4b1-dc59-437e-b9f0-5106363fd694",
+          "text": "De tallo y hoja."
+        },
+        {
+          "id": "1f2d6cb7-bef9-4bfc-9cac-7d27d613a355",
+          "text": "Sectorial."
+        }
+      ]
+    },
+    {
+      "id": "c1c993b5-7b1c-4e4a-b442-f54592130276",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "La tabla siguiente fue extraída de un trabajo realizado por el equipo de Ortopedia y Traumatología Pediátrica de un centro de tercer nivel de asistencia de nuestro país en el año 2014. Allí se muestran las características de pacientes con dismetrías de miembro inferior sometidos a tratamiento de alargamiento óseo mediante un sistema mecánico de fijadores externos a nivel de la tibia. Un gráfico adecuado para representar la variable etiología sería:",
+      "image": "c1c993b5-7b1c-4e4a-b442-f54592130276.avif",
+      "options": [
+        {
+          "id": "e4d40ed8-6768-468c-ba0f-137d64f3ec94",
+          "text": "Diagrama de barras.",
+          "correct": true
+        },
+        {
+          "id": "1de2815a-1471-40b3-94ba-8e04ad2c8f51",
+          "text": "Diagrama de caja y línea (box plot)."
+        },
+        {
+          "id": "eb683f5f-7c16-4678-8eaf-5afcfe38d216",
+          "text": "Histograma."
+        },
+        {
+          "id": "ba48f4ee-cdaa-4cce-b700-423c0b4dea03",
+          "text": "Ojiva."
+        }
+      ]
+    },
+    {
       "id": "40d6c509-7b0b-4609-bdc9-fd6bc50af567",
       "evaluation": "parcial_1",
       "source": "partial",
