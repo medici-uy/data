@@ -2713,6 +2713,1671 @@
       ]
     },
     {
+      "id": "13ba67fb-d891-4ba0-9c8b-f161a97d15ab",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "Con el fin de estudiar la eventual asociación entre la presencia de esquistocitosis en sangre periférica y el desarrollo de una pre-eclampsia en la mujer embarazada, fueron incluidas en un estudio 46 mujeres con diagnóstico de preeclampsia y 8 mujeres sin dicha patología. Para las mujeres de ambos grupos, se investigó en la historia clínica el resultado del frotis de sangre en búsqueda de la presencia de esquistocitos. Se obtuvieron los siguientes resultados. De acuerdo al tipo de estudio realizado, la medida de estimación del riesgo más adecuada para evaluar el rol de la presencia de esquistocitos como desencadenante de una pre-eclampsia es:",
+      "image": "13ba67fb-d891-4ba0-9c8b-f161a97d15ab.avif",
+      "options": [
+        {
+          "id": "3d3c98a6-06b0-40fb-befa-8f62a9540793",
+          "text": "Odds ratio.",
+          "correct": true
+        },
+        {
+          "id": "a3c54633-3f85-4445-a24e-9257164a9d41",
+          "text": "Razón de incidencias."
+        },
+        {
+          "id": "92aa3481-bc79-4169-b26e-5aee6db9992a",
+          "text": "Razón de prevalencias."
+        },
+        {
+          "id": "dbd3faa5-2981-48bf-9789-d77c2eb13c3c",
+          "text": "Riesgo relativo."
+        }
+      ]
+    },
+    {
+      "id": "5221b2ac-bde7-4ca2-87d3-22e611497bdf",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "Con el fin de estudiar la eventual asociación entre la presencia de esquistocitosis en sangre periférica y el desarrollo de una pre-eclampsia en la mujer embarazada, fueron incluidas en un estudio 46 mujeres con diagnóstico de preeclampsia y 8 mujeres sin dicha patología. Para las mujeres de ambos grupos, se investigó en la historia clínica el resultado del frotis de sangre en búsqueda de la presencia de esquistocitos. Se obtuvieron los siguientes resultados. El valor del odds ratio (OR) para este estudio es:",
+      "image": "5221b2ac-bde7-4ca2-87d3-22e611497bdf.avif",
+      "options": [
+        {
+          "id": "001246fb-1332-4225-a73d-e1d1cdd2bec2",
+          "text": "66,00.",
+          "correct": true
+        },
+        {
+          "id": "83bd64f2-cbeb-4ff0-8361-e0c63b6b096c",
+          "text": "0,05."
+        },
+        {
+          "id": "2ae316b9-9712-417d-b34d-873d1f35f72b",
+          "text": "1,25."
+        },
+        {
+          "id": "7fcf29c3-10f6-413d-949e-b182865442b9",
+          "text": "3,80."
+        }
+      ]
+    },
+    {
+      "id": "de963a77-3952-434b-a702-14b43103ff75",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "Con el fin de evaluar la capacidad diagnóstica de una prueba para detectar una determinada enfermedad renal, se realizó un estudio con 670 pacientes que consultaron consecutivamente en una policlínica de nefrología por cualquier motivo. El test resultó positivo en 573 pacientes; de los 483 pacientes que se sabía contaban con dicha enfermedad renal, 30 fueron falsos negativos. En este grupo de pacientes, ¿cuál es la probabilidad de que un individuo no padezca la enfermedad renal si la prueba resulta negativa?",
+      "options": [
+        {
+          "id": "1246207e-26fb-4180-8b66-5ca57d53569e",
+          "text": "0,69.",
+          "correct": true
+        },
+        {
+          "id": "0df49f9f-5e84-42bb-8da3-6bd2bcc136e7",
+          "text": "0,21."
+        },
+        {
+          "id": "5bc04bdf-f3ef-48e7-bf44-a836880852b5",
+          "text": "0,36."
+        },
+        {
+          "id": "b43df7e1-362b-4193-9ad0-d28c1810cc87",
+          "text": "0,79."
+        }
+      ]
+    },
+    {
+      "id": "88791c53-1190-4938-a00e-ca19ba609003",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "Con el fin de evaluar la capacidad diagnóstica de una prueba para detectar una determinada enfermedad renal, se realizó un estudio con 670 pacientes que consultaron consecutivamente en una policlínica de nefrología por cualquier motivo. El test resultó positivo en 573 pacientes; de los 483 pacientes que se sabía contaban con dicha enfermedad renal, 30 fueron falsos negativos. ¿Cuál es la especificidad de esta prueba?",
+      "options": [
+        {
+          "id": "46a08f72-677c-4237-9334-c5ba7e8208dd",
+          "text": "0,36.",
+          "correct": true
+        },
+        {
+          "id": "c3b8e129-7b67-4cab-9afb-5c1741d75c46",
+          "text": "0,64."
+        },
+        {
+          "id": "39ac0533-fc8c-4f59-a12f-15bf4c49f696",
+          "text": "0,69."
+        },
+        {
+          "id": "1ebdf28d-de7a-4ee5-bcb4-b8d7bb10fbd3",
+          "text": "0,79."
+        }
+      ]
+    },
+    {
+      "id": "c9d7e376-b806-46bd-b2c3-48e42077c128",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "Con el fin de evaluar la capacidad diagnóstica de una prueba para detectar una determinada enfermedad renal, se realizó un estudio con 670 pacientes que consultaron consecutivamente en una policlínica de nefrología por cualquier motivo. El test resultó positivo en 573 pacientes; de los 483 pacientes que se sabía contaban con dicha enfermedad renal, 30 fueron falsos negativos. ¿Cuál es la sensibilidad de esta prueba?",
+      "options": [
+        {
+          "id": "dba4a7ae-a083-4ce3-9b98-ab80d129abaa",
+          "text": "0,94.",
+          "correct": true
+        },
+        {
+          "id": "286586df-44e6-4774-ad39-6a25941ddeb4",
+          "text": "0,20."
+        },
+        {
+          "id": "ffee0952-9969-47dd-865d-9dd0e1159a61",
+          "text": "0,36."
+        },
+        {
+          "id": "6d95bae4-76ab-4313-b642-a49baa7d09a1",
+          "text": "0,70."
+        }
+      ]
+    },
+    {
+      "id": "9ce92ffb-b2db-43d3-828f-9607dfb8e161",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "Con la intención de evaluar si la lactancia materna (LM) protege contra la aparición de infecciones en el lactante (niño menor de un año), se realizó un estudio de casos y controles, seleccionando de entre las madres que traían a control o consulta a sus hijos, 48 niños que presentaban infección y 96 niños que no la presentaban. A las respectivas madres de ambos grupos, se les interrogaba respecto a la presencia/ausencia de lactancia materna del niño. Los resultados del estudio se muestran en la tabla a continuación. El valor de la medida de riesgo más adecuada para este estudio es:",
+      "image": "9ce92ffb-b2db-43d3-828f-9607dfb8e161.avif",
+      "options": [
+        {
+          "id": "2869a105-a9e0-4d9b-804f-951bad6b489c",
+          "text": "1,24.",
+          "correct": true
+        },
+        {
+          "id": "4f745040-0b28-4a1d-9f2b-de18e26825a2",
+          "text": "0,81."
+        },
+        {
+          "id": "7727e74d-91f3-4fca-bb1b-f16559c0fa32",
+          "text": "0,93."
+        },
+        {
+          "id": "7ec58fc8-df25-4b8d-98f5-d9c2bc8b6545",
+          "text": "1,15."
+        }
+      ]
+    },
+    {
+      "id": "61c31fb2-b335-4887-aa3f-1745310f3ea8",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "Con la intención de evaluar si la lactancia materna (LM) protege contra la aparición de infecciones en el lactante (niño menor de un año), se realizó un estudio de casos y controles, seleccionando de entre las madres que traían a control o consulta a sus hijos, 48 niños que presentaban infección y 96 niños que no la presentaban. A las respectivas madres de ambos grupos, se les interrogaba respecto a la presencia/ausencia de lactancia materna del niño. Los resultados del estudio se muestran en la tabla a continuación. La medida de estimación del riesgo de presentar infección más adecuada para este tipo de estudio es:",
+      "image": "61c31fb2-b335-4887-aa3f-1745310f3ea8.avif",
+      "options": [
+        {
+          "id": "e51fc717-9fad-4f03-b915-e9ed839847e4",
+          "text": "Odds ratio.",
+          "correct": true
+        },
+        {
+          "id": "7a738134-8cbd-43fe-bc3b-fd2bafddd7bb",
+          "text": "Razón de prevalencia."
+        },
+        {
+          "id": "c99bdae0-1ef9-4ca4-a56e-4bbef61bd106",
+          "text": "Riesgo relativo."
+        },
+        {
+          "id": "174c75a7-78ed-4ae9-8677-4b631e462cb1",
+          "text": "Riesgo total."
+        }
+      ]
+    },
+    {
+      "id": "b763bbbc-b87f-4751-b6f2-26d996df648c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "Con la intención de evaluar si la lactancia materna (LM) protege contra la aparición de infecciones en el lactante (niño menor de un año), se realizó un estudio de casos y controles, seleccionando de entre las madres que traían a control o consulta a sus hijos, 48 niños que presentaban infección y 96 niños que no la presentaban. A las respectivas madres de ambos grupos, se les interrogaba respecto a la presencia/ausencia de lactancia materna del niño. Los resultados del estudio se muestran en la tabla a continuación. Si eligiéramos un niño de entre los seleccionados para este estudio, sabiendo que el mismo recibe lactancia materna, ¿cuál sería la probabilidad de que este no presente infección?",
+      "image": "b763bbbc-b87f-4751-b6f2-26d996df648c.avif",
+      "options": [
+        {
+          "id": "bc93eb60-ebed-40c6-9b3c-b144db8296dd",
+          "text": "0,69.",
+          "correct": true
+        },
+        {
+          "id": "ff086ced-52d0-4cd2-9e50-55932f20f8e6",
+          "text": "0,33."
+        },
+        {
+          "id": "2447d6e8-9989-4ce7-9560-9b87f5fb3003",
+          "text": "0,45."
+        },
+        {
+          "id": "c8fada32-6c55-44f4-842e-670799f7d698",
+          "text": "0,67."
+        }
+      ]
+    },
+    {
+      "id": "a12d0bc5-98c6-46c0-8508-f7a387053011",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "Con la intención de evaluar si la lactancia materna (LM) protege contra la aparición de infecciones en el lactante (niño menor de un año), se realizó un estudio de casos y controles, seleccionando de entre las madres que traían a control o consulta a sus hijos, 48 niños que presentaban infección y 96 niños que no la presentaban. A las respectivas madres de ambos grupos, se les interrogaba respecto a la presencia/ausencia de lactancia materna del niño. Los resultados del estudio se muestran en la tabla a continuación. Si se eligiera al azar un niño de entre los seleccionados para este estudio, ¿cuál sería la probabilidad de que éste presente infección?",
+      "image": "a12d0bc5-98c6-46c0-8508-f7a387053011.avif",
+      "options": [
+        {
+          "id": "4adb360f-0b0c-4ddd-9833-f3f15b2cc99a",
+          "text": "0,33.",
+          "correct": true
+        },
+        {
+          "id": "14bcd21d-539a-4db4-aee4-7d335e31a21f",
+          "text": "0,55."
+        },
+        {
+          "id": "2529d6a0-2960-4c8e-ab53-c5ba28c93167",
+          "text": "0,58."
+        },
+        {
+          "id": "fa4e31e6-884d-49e8-b9ee-3780676cd4ff",
+          "text": "0,67."
+        }
+      ]
+    },
+    {
+      "id": "cb7b0b3d-db00-4e74-9149-fbbab39e9652",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "El valor predictivo positivo (VPP) de una prueba diagnóstica corresponde a la probabilidad de:",
+      "options": [
+        {
+          "id": "13674e8b-0aca-44c9-8e79-f2015dee195a",
+          "text": "Presentar la enfermedad cuando la prueba dio \"positiva\".",
+          "correct": true
+        },
+        {
+          "id": "6df13429-b669-45ca-8fb3-e81d8563c9de",
+          "text": "No presentar la enfermedad cuando la prueba dio \"positiva\"."
+        },
+        {
+          "id": "b8715246-5a76-443e-9deb-53757b77d5f5",
+          "text": "Obtener un resultado positivo de la prueba para un sujeto \"enfermo\"."
+        },
+        {
+          "id": "02ce1b0a-a91c-44de-bbb1-a405684cec3b",
+          "text": "Obtener un resultado positivo de la prueba para un sujeto \"no enfermo\"."
+        }
+      ]
+    },
+    {
+      "id": "f9a6c444-9a83-4160-a154-28a74431b8cb",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "En relación al odds ratio (OR):",
+      "options": [
+        {
+          "id": "7b3fed47-b145-44ad-b18f-1dd2f36848ec",
+          "text": "Es una medida relativa de estimación del riesgo.",
+          "correct": true
+        },
+        {
+          "id": "8007ea1c-3f9e-4c1f-ba9a-b41a6a9ba904",
+          "text": "Corresponde al cociente entre incidencias acumuladas entre grupos de exposición."
+        },
+        {
+          "id": "951463c6-b61b-4acd-805f-ab132d262b61",
+          "text": "Corresponde al cociente entre la incidencia y la prevalencia."
+        },
+        {
+          "id": "d02cad61-5c89-4322-b31c-0ea5beb33653",
+          "text": "No debe ser utilizado en estudios de casos y controles."
+        }
+      ]
+    },
+    {
+      "id": "f2e0b492-ae0b-4e01-9688-a84082a7842c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "En relación al riesgo relativo (RR):",
+      "options": [
+        {
+          "id": "774b2a97-46a9-42df-aaae-6665f39a91a7",
+          "text": "Corresponde al cociente entre incidencias acumuladas entre grupos de exposición.",
+          "correct": true
+        },
+        {
+          "id": "b915ccf3-b1cf-45c5-8420-bd9db1313adc",
+          "text": "Corresponde al cociente entre la incidencia y la prevalencia."
+        },
+        {
+          "id": "a80a916e-48d7-46d1-9e17-13cadbe4d6ad",
+          "text": "Es una medida absoluta de estimación del riesgo."
+        },
+        {
+          "id": "2f55963d-7efd-4923-b7bb-4604d11baf12",
+          "text": "No debe ser utilizado en estudios de cohorte."
+        }
+      ]
+    },
+    {
+      "id": "654aa041-9624-4822-92fd-7bd99e1ec61a",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "En un test para determinar la infección faríngea por el germen \"Streptococcus pyogenes\" (SP) se sabe que su sensibilidad es 0,86 y su especificidad 0,95. Por otra parte se sabe que la proporción de personas afectadas por dicho germen en la población general es de 0,21. Si se realizara el test a una persona \"no infectada\", la probabilidad de que el test resulte positivo es:",
+      "options": [
+        {
+          "id": "2837c70f-ff82-4093-ba18-68e072462b57",
+          "text": "0,050.",
+          "correct": true
+        },
+        {
+          "id": "81b221f7-3a00-484c-8730-ace4a4e024f3",
+          "text": "0,140."
+        },
+        {
+          "id": "8d7962c9-63b9-4206-8f5d-b4fdfb7aa657",
+          "text": "0,820."
+        },
+        {
+          "id": "ce129528-f379-4636-98e3-697ca5957d90",
+          "text": "0,860."
+        }
+      ]
+    },
+    {
+      "id": "02ea428a-2936-4f83-b837-3d3ef6ec5513",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "En un test para determinar la infección faríngea por el germen \"Streptococcus pyogenes\" (SP) se sabe que su sensibilidad es 0,86 y su especificidad 0,95. Por otra parte se sabe que la proporción de personas afectadas por dicho germen en la población general es de 0,21. ¿Cuál es la probabilidad de que la persona tenga SP si el test resulta positivo?",
+      "options": [
+        {
+          "id": "84ef7af7-302a-44f1-ba33-5dd46624d52d",
+          "text": "0,82.",
+          "correct": true
+        },
+        {
+          "id": "a617b59c-52df-4a36-be0b-5763716dd4d4",
+          "text": "0,05."
+        },
+        {
+          "id": "9b8b8881-0045-4b9d-ad3f-bc57f468d396",
+          "text": "0,14."
+        },
+        {
+          "id": "cf50fc32-6671-41ec-8d0c-d672015da6d3",
+          "text": "0,86."
+        }
+      ]
+    },
+    {
+      "id": "9b8f8fa5-34e9-4f9c-aa93-1adabf27d7e1",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "En un test para determinar la infección faríngea por el germen \"Streptococcus pyogenes\" (SP) se sabe que su sensibilidad es 0,86 y su especificidad 0,95. Por otra parte se sabe que la proporción de personas afectadas por dicho germen en la población general es de 0,21. ¿Qué sucedería con el valor predictivo negativo (VPN) del test si se utilizara en una población con mayor cantidad de enfermos?",
+      "options": [
+        {
+          "id": "014a84bd-89bb-4725-b8b9-0bc67ae87eeb",
+          "text": "Disminuye.",
+          "correct": true
+        },
+        {
+          "id": "3c6553ca-0848-453f-8ab1-b9af24f5efc9",
+          "text": "Aumenta."
+        },
+        {
+          "id": "aef2985a-6615-4e2e-b83a-59e8d55923f5",
+          "text": "Es más sensible."
+        },
+        {
+          "id": "7b9b62f7-934f-44c9-8356-b1e4f8c2d1e7",
+          "text": "No varía, mantiene su valor."
+        }
+      ]
+    },
+    {
+      "id": "4436d9cd-cfce-4526-bff3-f1e5940a6eea",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "En una clínica de diagnóstico por imagen, un médico dispone de tres equipos para realizar ecografías. Por día, el equipo 1 se utiliza el 25% del tiempo, el equipo 2 el 35% y el equipo 3 el 40%. Se sabe que los aparatos tienen un porcentaje de error del 1%, 2% y 3% respectivamente. Eligiendo un equipo al azar, ¿cuál es la probabilidad de que el resultado presente error?",
+      "options": [
+        {
+          "id": "f2f9e5ed-4f82-4829-abb8-45b3e3c59877",
+          "text": "0,0215.",
+          "correct": true
+        },
+        {
+          "id": "6a570ba2-9b3e-4654-8f9c-bb94d9ca1cd3",
+          "text": "0,0006."
+        },
+        {
+          "id": "78f760ee-ab68-4dac-995e-9e02210d6068",
+          "text": "0,0600."
+        },
+        {
+          "id": "8501b2ee-f02c-4b28-aac0-e7674aeacca2",
+          "text": "1,0000."
+        }
+      ]
+    },
+    {
+      "id": "60b76b14-94ac-4398-a751-d0c6a772e38c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "En una clínica de diagnóstico por imagen, un médico dispone de tres equipos para realizar ecografías. Por día, el equipo 1 se utiliza el 25% del tiempo, el equipo 2 el 35% y el equipo 3 el 40%. Se sabe que los aparatos tienen un porcentaje de error del 1%, 2% y 3% respectivamente. Suponiendo que el resultado de la ecografía presenta error, ¿cuál sería la probabilidad de que se haya utilizado el equipo 1?",
+      "options": [
+        {
+          "id": "b6e35cb4-8332-4fdf-973b-78e1e7c3bd8f",
+          "text": "0,1200.",
+          "correct": true
+        },
+        {
+          "id": "d54339ec-3ccd-45c9-91fc-8dce2e388ebb",
+          "text": "0,0025."
+        },
+        {
+          "id": "92ccce87-74df-4213-9fff-fabb48154e63",
+          "text": "0,0100."
+        },
+        {
+          "id": "8bccac91-56a1-4e07-baae-ed6ad8087cdf",
+          "text": "0,0150."
+        }
+      ]
+    },
+    {
+      "id": "c070a441-8321-44bf-aad2-76dca2d7c2d8",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "La incidencia acumulada corresponde a:",
+      "options": [
+        {
+          "id": "57a9d0ff-e2a8-44c4-9794-7c6639191837",
+          "text": "La proporción de sanos que contraen la enfermedad a lo largo de cierto período.",
+          "correct": true
+        },
+        {
+          "id": "b491720f-7e94-4fab-b53e-801635cec17d",
+          "text": "La proporción de personas que padece la enfermedad en un momento dado."
+        },
+        {
+          "id": "4a9c0e71-0eeb-4a50-b3b8-93760a4a1cd2",
+          "text": "La tasa de incidencia de la enfermedad."
+        },
+        {
+          "id": "0c07c2f5-17a9-402c-b5eb-23d7098a8407",
+          "text": "Una razón entre los odds de exposición de los casos y los controles."
+        }
+      ]
+    },
+    {
+      "id": "13a88c8e-9538-441a-bfe9-b42a129ce15c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "La letalidad es una:",
+      "options": [
+        {
+          "id": "cb2c42ed-2a04-4bcb-aaf5-4a946f963b53",
+          "text": "Proporción.",
+          "correct": true
+        },
+        {
+          "id": "0b6afbab-c748-4407-b2d8-b271c6a5aaa9",
+          "text": "Probabilidad condicionada."
+        },
+        {
+          "id": "5471d73f-e344-4713-98cc-7e0270525d74",
+          "text": "Razón."
+        }
+      ]
+    },
+    {
+      "id": "c1ee0ec8-0419-4b6d-b3ae-6e0fa7191824",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "Se quiere valorar el rol del vendaje de cuello de pie como factor protector para el esguince de tobillo. Durante dos años se realizó un seguimiento a algunos jugadores del campeonato uruguayo en categorías juveniles y se registró quienes presentaron esguince de tobillo. Los resultados se resumen en la siguiente tabla. De acuerdo al valor de la medida de riesgo más adecuada para este estudio, se podría decir que:",
+      "image": "c1ee0ec8-0419-4b6d-b3ae-6e0fa7191824.avif",
+      "options": [
+        {
+          "id": "1af01cdc-c596-4828-ab73-f6c8ae08e507",
+          "text": "El vendaje de cuello de pie disminuye el riesgo de presentar esguince.",
+          "correct": true
+        },
+        {
+          "id": "60a347d4-85d1-4703-acbe-87c2a5ebfe2a",
+          "text": "El estudio no permite concluir."
+        },
+        {
+          "id": "b289fc1a-c074-46b3-a00b-f3984618655c",
+          "text": "El vendaje de cuello de pie aumenta el riesgo de presentar esguince."
+        },
+        {
+          "id": "0fdccff6-826f-4777-9169-d3f23f7f8607",
+          "text": "El vendaje de cuello de pie no modifica el riesgo de presentar esguince."
+        }
+      ]
+    },
+    {
+      "id": "14905967-1da2-44ab-b79b-1d861cc73d72",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "Se quiere valorar el rol del vendaje de cuello de pie como factor protector para el esguince de tobillo. Durante dos años se realizó un seguimiento a algunos jugadores del campeonato uruguayo en categorías juveniles y se registró quienes presentaron esguince de tobillo. Los resultados se resumen en la siguiente tabla. El valor de la medida de riesgo más adecuada para este estudio es:",
+      "image": "14905967-1da2-44ab-b79b-1d861cc73d72.avif",
+      "options": [
+        {
+          "id": "03cd874d-b19a-473f-97cf-674c957dafca",
+          "text": "0,78.",
+          "correct": true
+        },
+        {
+          "id": "ee1ea1ca-18ba-46d4-bb40-3b3cb6b18ee2",
+          "text": "0,69."
+        },
+        {
+          "id": "bcc000c8-b9cd-46f8-bb30-b705a02eb1bf",
+          "text": "0,81."
+        },
+        {
+          "id": "530877ca-9911-4a79-9101-0cf7cd7ddfcb",
+          "text": "1,13."
+        }
+      ]
+    },
+    {
+      "id": "89b75282-b067-470b-9c44-4766035ea161",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "Se quiere valorar el rol del vendaje de cuello de pie como factor protector para el esguince de tobillo. Durante dos años se realizó un seguimiento a algunos jugadores del campeonato uruguayo en categorías juveniles y se registró quienes presentaron esguince de tobillo. Los resultados se resumen en la siguiente tabla. La medida de estimación del riesgo más adecuada en este estudio es:",
+      "image": "89b75282-b067-470b-9c44-4766035ea161.avif",
+      "options": [
+        {
+          "id": "a7d43768-367e-478d-9004-d0676c8d5283",
+          "text": "Riesgo relativo.",
+          "correct": true
+        },
+        {
+          "id": "077dad90-1925-41b2-973d-0e7b2a13dbff",
+          "text": "Odds ratio."
+        },
+        {
+          "id": "4e5d2b11-aa7a-476c-832e-cf8f1b1af39c",
+          "text": "Razón de prevalencia."
+        }
+      ]
+    },
+    {
+      "id": "37fb8a92-0d06-4514-b014-b249fc34afaa",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "Si durante el período de estudio aparecen 45 nuevos casos de una determinada enfermedad entre 1.000 sujetos sanos que lo iniciaron, ¿cuál de las siguientes afirmaciones es correcta?",
+      "options": [
+        {
+          "id": "ea7bc42d-41b2-49a3-8486-e6947bd1dc09",
+          "text": "La incidencia acumulada de la enfermedad es de 45 enfermos por cada 1.000 sujetos sanos durante el período de estudio.",
+          "correct": true
+        },
+        {
+          "id": "a385811b-753a-451d-b8aa-0014ca1421b4",
+          "text": "La prevalencia de la enfermedad es de 45 enfermos por cada 1.000 sujetos sanos durante el período de estudio."
+        },
+        {
+          "id": "54ccbf7b-5542-4a33-9016-aa972ff89c56",
+          "text": "No se puede estimar la incidencia acumulada."
+        },
+        {
+          "id": "28abceb1-8acb-49c0-9856-7f9526e20c53",
+          "text": "No se puede estimar la prevalencia."
+        }
+      ]
+    },
+    {
+      "id": "416c743e-5da0-46c8-849f-4f80cf25c6b4",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "Un estudio buscó establecer el riesgo de enfermar de tuberculosis en una región de 4.800.000 habitantes, considerando varios factores de exposición. El mismo utilizó los datos del año anterior, relevados por un programa nacional para el control de la tuberculosis y otros datos estadísticos. Uno de los potenciales factores de riesgo evaluados fue la presencia de VIH (constatada en 18.800 casos en la región). Un 0,3724% de las personas con VIH+ y 5.738 personas VIH- presentaron tuberculosis. El riesgo de enfermar de tuberculosis entre las personas VIH+ (respecto a las VIH-) es de:",
+      "options": [
+        {
+          "id": "a92c7f9d-b280-456f-869f-c60a89630f51",
+          "text": "3,100.",
+          "correct": true
+        },
+        {
+          "id": "489bb322-c88a-48b9-ad1b-91e8a4d85ec0",
+          "text": "0,310."
+        },
+        {
+          "id": "fa0ddaa9-c27b-4123-9cf8-81c54fe15d50",
+          "text": "0,322."
+        },
+        {
+          "id": "65841950-8297-4c84-96b4-b5453ad4e4fb",
+          "text": "1,220."
+        }
+      ]
+    },
+    {
+      "id": "88c29f45-6a1a-4164-ac7b-7f37ba27b066",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "Un estudio buscó establecer el riesgo de enfermar de tuberculosis en una región de 4.800.000 habitantes, considerando varios factores de exposición. El mismo utilizó los datos del año anterior, relevados por un programa nacional para el control de la tuberculosis y otros datos estadísticos. Uno de los potenciales factores de riesgo evaluados fue la presencia de VIH (constatada en 18.800 casos en la región). Un 0,3724% de las personas con VIH+ y 5.738 personas VIH- presentaron tuberculosis. La prevalencia de VIH en esta población es:",
+      "options": [
+        {
+          "id": "676d9b8a-17ee-45a9-ae44-c0b937827817",
+          "text": "0,0039.",
+          "correct": true
+        },
+        {
+          "id": "a640a410-f73f-4edd-83dc-05025a0b8669",
+          "text": "0,0011."
+        },
+        {
+          "id": "ea9dbd0d-c375-4482-888c-c5ddb3d15f8f",
+          "text": "0,0012."
+        },
+        {
+          "id": "03d35079-ca55-4d7d-bea8-dfa80acb8f86",
+          "text": "0,0372."
+        }
+      ]
+    },
+    {
+      "id": "b170f5ab-b39a-4e25-8a93-302e16ff6f72",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "Un estudio buscó establecer el riesgo de enfermar de tuberculosis en una región de 4.800.000 habitantes, considerando varios factores de exposición. El mismo utilizó los datos del año anterior, relevados por un programa nacional para el control de la tuberculosis y otros datos estadísticos. Uno de los potenciales factores de riesgo evaluados fue la presencia de VIH (constatada en 18.800 casos en la región). Un 0,3724% de las personas con VIH+ y 5.738 personas VIH- presentaron tuberculosis. La probabilidad de presentar tuberculosis en esa población es de:",
+      "options": [
+        {
+          "id": "f729c8cf-1be6-4e9c-902c-9dc5fa225fea",
+          "text": "0,0012.",
+          "correct": true
+        },
+        {
+          "id": "a45e9655-4886-4566-b688-92f4aec44809",
+          "text": "0,0001."
+        },
+        {
+          "id": "9e568f8e-907e-493a-b755-59dfbe729dda",
+          "text": "0,0037."
+        },
+        {
+          "id": "7ddc812d-221d-4e4c-b9b2-b1ee8fb9d17a",
+          "text": "0,3724."
+        }
+      ]
+    },
+    {
+      "id": "0f9d1f64-5526-40d3-b0dd-dda0c772f033",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "Un estudio buscó establecer el riesgo de enfermar de tuberculosis en una región de 4.800.000 habitantes, considerando varios factores de exposición. El mismo utilizó los datos del año anterior, relevados por un programa nacional para el control de la tuberculosis y otros datos estadísticos. Uno de los potenciales factores de riesgo evaluados fue la presencia de VIH (constatada en 18.800 casos en la región). Un 0,3724% de las personas con VIH+ y 5.738 personas VIH- presentaron tuberculosis. La probabilidad de que una persona de esta población tenga VIH o tuberculosis es:",
+      "options": [
+        {
+          "id": "675895b2-aef4-4adb-afc9-45c2e5602d32",
+          "text": "0,00510.",
+          "correct": true
+        },
+        {
+          "id": "cdf2b15e-6c00-4106-9d82-02b89f2b462b",
+          "text": "0,00001."
+        },
+        {
+          "id": "732259a5-d205-467a-82ec-f5684d6e256a",
+          "text": "0,00120."
+        },
+        {
+          "id": "0c3f0c7e-8d6e-49d7-9b0e-7edf782207e9",
+          "text": "0,05100."
+        }
+      ]
+    },
+    {
+      "id": "53890202-b329-4e82-a328-a9578bd935b0",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "Un estudio buscó establecer el riesgo de enfermar de tuberculosis en una región de 4.800.000 habitantes, considerando varios factores de exposición. El mismo utilizó los datos del año anterior, relevados por un programa nacional para el control de la tuberculosis y otros datos estadísticos. Uno de los potenciales factores de riesgo evaluados fue la presencia de VIH (constatada en 18.800 casos en la región). Un 0,3724% de las personas con VIH+ y 5.738 personas VIH- presentaron tuberculosis. La razón \"presencia de tuberculosis : ausencia de tuberculosis\" dentro de las personas VIH- es:",
+      "options": [
+        {
+          "id": "69b5dc7e-0e45-486a-aea2-08ef38a12160",
+          "text": "1,2 personas con tuberculosis por cada 1000 personas sin tuberculosis.",
+          "correct": true
+        },
+        {
+          "id": "bd2e0164-6eee-4803-a87c-d937b04c9f3d",
+          "text": "1,2 personas VIH- por cada 1000 personas con tuberculosis."
+        },
+        {
+          "id": "dbe5d87d-e60a-44c4-8bf9-1b20d438379e",
+          "text": "1,2 personas con tuberculosis por cada 1000 personas VIH-."
+        },
+        {
+          "id": "1c54cc31-399e-4c64-975d-9038400271ff",
+          "text": "1,2 personas sin tuberculosis por cada 1000 personas con tuberculosis."
+        }
+      ]
+    },
+    {
+      "id": "8d0464fb-f4e5-4c4d-bcb6-78b58eede47c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "Un estudio buscó establecer el riesgo de enfermar de tuberculosis en una región de 4.800.000 habitantes, considerando varios factores de exposición. El mismo utilizó los datos del año anterior, relevados por un programa nacional para el control de la tuberculosis y otros datos estadísticos. Uno de los potenciales factores de riesgo evaluados fue la presencia de VIH (constatada en 18.800 casos en la región). Un 0,3724% de las personas con VIH+ y 5.738 personas VIH- presentaron tuberculosis. Los eventos \"presentar tuberculosis\" y \"presencia de VIH\" son:",
+      "options": [
+        {
+          "id": "3cc54406-c8c0-4850-990a-ccf54d2ec9cd",
+          "text": "Dependientes y no excluyentes.",
+          "correct": true
+        },
+        {
+          "id": "c02fcf96-ba74-4cac-80ef-4aeb94f35752",
+          "text": "Dependientes y mutuamente excluyentes."
+        },
+        {
+          "id": "eb65ea98-c414-4f9a-9a87-87ecadac6271",
+          "text": "Independientes y mutuamente excluyentes."
+        },
+        {
+          "id": "c4e7ac5a-a353-4878-91ba-467eb9db45aa",
+          "text": "Independientes y no excluyentes."
+        }
+      ]
+    },
+    {
+      "id": "89e5e753-2cdc-433d-bbe6-18a24ca76119",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2018-07-07",
+      "text": "Un estudio buscó establecer el riesgo de enfermar de tuberculosis en una región de 4.800.000 habitantes, considerando varios factores de exposición. El mismo utilizó los datos del año anterior, relevados por un programa nacional para el control de la tuberculosis y otros datos estadísticos. Uno de los potenciales factores de riesgo evaluados fue la presencia de VIH (constatada en 18.800 casos en la región). Un 0,3724% de las personas con VIH+ y 5.738 personas VIH- presentaron tuberculosis. Siendo el sujeto VIH-, la probabilidad de presentar tuberculosis es de:",
+      "options": [
+        {
+          "id": "eae5c40e-ec7f-4f79-b09b-5845510953b1",
+          "text": "0,0012.",
+          "correct": true
+        },
+        {
+          "id": "04f5d634-b54d-48b8-b3a9-75b9309d6647",
+          "text": "0,0001."
+        },
+        {
+          "id": "aff528cf-de88-4700-8599-3702bb82fc2c",
+          "text": "0,0037."
+        },
+        {
+          "id": "27d713e2-971e-41e4-8fb4-cd7424946c06",
+          "text": "0,3724."
+        }
+      ]
+    },
+    {
+      "id": "fad6fae8-567e-4562-a16d-dc6407eedb6a",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Dos sucesos A y B son independientes si:",
+      "options": [
+        {
+          "id": "28d894d4-5d6c-4f65-87bb-b0dd0d765210",
+          "text": "P(A | B) = P(A).",
+          "correct": true
+        },
+        {
+          "id": "bcfb4111-30e4-4cf7-b57c-7d2569b1ea76",
+          "text": "P(A | B) = P(A ∩ B) / P(B)."
+        },
+        {
+          "id": "017f1bfc-c703-4100-b24a-e4c1d493cf6f",
+          "text": "P(A | B) = P(B | A)."
+        },
+        {
+          "id": "e71381ee-c228-4882-8c20-1d5e2c518218",
+          "text": "P(A ∩ B) = 0."
+        },
+        {
+          "id": "7110fb41-a891-4376-93c1-0d39ac26ab02",
+          "text": "P(A ∩ B) = P(A) + P(B)."
+        }
+      ]
+    },
+    {
+      "id": "68f759fd-fc28-4b76-b115-7be9c9c9f779",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Dos sucesos A y B son mutuamente excluyentes si:",
+      "options": [
+        {
+          "id": "616bbe29-f4e5-4309-8e80-b8c4826bb95e",
+          "text": "P(A ∩ B) = 0.",
+          "correct": true
+        },
+        {
+          "id": "01bd3515-fb98-4393-a736-975d5bca05d3",
+          "text": "La probabilidad de la unión P(A ∪ B) es cero."
+        },
+        {
+          "id": "302c8f2b-ffc0-4fae-9a88-3798d15d317a",
+          "text": "P(A ∩ B) = P(A) x P(B)."
+        },
+        {
+          "id": "17d36c68-de43-4c43-8236-00594dd70108",
+          "text": "Tienen lugar simultáneamente."
+        }
+      ]
+    },
+    {
+      "id": "105ebd02-f472-458f-90f7-87e75c78cd02",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "En un estudio publicado en la Revista \"Anales de Pediatría\" por A. Comas Vivesa, I. Polanco Allué (2005), se intentó identificar factores de riesgo asociados al estreñimiento en la población infantil. Para ello se evaluaron dos grupos de niños: con estreñimiento (GE) y sin estreñimiento (GSE). Se incluyeron en el estudio 898 niños, 408 (45,4 %) pertenecían al GE y 490 (54,5 %) al GSE. Se recabaron los antecedentes de la historia clínica. El 53,7 % de los niños del GE presentaban antecedentes maternos de estreñimiento, frente al 21,4 % del GSE. El diseño de este estudio según el criterio temporal es:",
+      "options": [
+        {
+          "id": "334090d8-b974-4026-8d84-0e7e31340a55",
+          "text": "Longitudinal retrospectivo.",
+          "correct": true
+        },
+        {
+          "id": "f9b805c7-d2d2-4e2e-bfff-a38a3badb4a2",
+          "text": "Analítico."
+        },
+        {
+          "id": "51102802-5ca2-4ee6-a3e4-973f4e3f5a6d",
+          "text": "Longitudinal prospectivo."
+        },
+        {
+          "id": "5d2881da-092e-49a1-8c9b-e119e903014a",
+          "text": "Transversal."
+        }
+      ]
+    },
+    {
+      "id": "eb02b947-345e-4474-aadf-0ed5050961cf",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "En un estudio publicado en la Revista \"Anales de Pediatría\" por A. Comas Vivesa, I. Polanco Allué (2005), se intentó identificar factores de riesgo asociados al estreñimiento en la población infantil. Para ello se evaluaron dos grupos de niños: con estreñimiento (GE) y sin estreñimiento (GSE). Se incluyeron en el estudio 898 niños, 408 (45,4 %) pertenecían al GE y 490 (54,5 %) al GSE. Se recabaron los antecedentes de la historia clínica. El 53,7 % de los niños del GE presentaban antecedentes maternos de estreñimiento, frente al 21,4 % del GSE. Este tipo de estudio recibe el nombre de:",
+      "options": [
+        {
+          "id": "f666bb81-0389-4823-a3ec-f37aef31ba93",
+          "text": "Estudio de caso-control.",
+          "correct": true
+        },
+        {
+          "id": "1fdb0159-899a-4411-bca1-de216339d83b",
+          "text": "Ensayo clínico."
+        },
+        {
+          "id": "2e318972-9681-434c-9398-873174f1b48c",
+          "text": "Estudio de cohortes."
+        },
+        {
+          "id": "49d424d2-2dbb-45b5-8939-4b36504245ef",
+          "text": "Estudio ecológico."
+        }
+      ]
+    },
+    {
+      "id": "b0869776-32ea-49a3-9048-bfb9770bf933",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "En un estudio publicado en la Revista \"Anales de Pediatría\" por A. Comas Vivesa, I. Polanco Allué (2005), se intentó identificar factores de riesgo asociados al estreñimiento en la población infantil. Para ello se evaluaron dos grupos de niños: con estreñimiento (GE) y sin estreñimiento (GSE). Se incluyeron en el estudio 898 niños, 408 (45,4 %) pertenecían al GE y 490 (54,5 %) al GSE. Se recabaron los antecedentes de la historia clínica. El 53,7 % de los niños del GE presentaban antecedentes maternos de estreñimiento, frente al 21,4 % del GSE. Si en este estudio se quiere evaluar el riesgo de presentar estreñimiento en niños con antecedentes maternos de estreñimiento respecto a los que no tienen antecedentes maternos, ¿qué medida de riesgo se debe utilizar?",
+      "options": [
+        {
+          "id": "4d3c2a45-c709-415d-86ae-2ef2a29e53e2",
+          "text": "Odds ratio.",
+          "correct": true
+        },
+        {
+          "id": "04b7db4e-951c-4036-bf8c-bab865fd9164",
+          "text": "Razón de prevalencias."
+        },
+        {
+          "id": "b16da067-c695-4454-ae7e-5b722aaec92f",
+          "text": "Riesgo relativo."
+        }
+      ]
+    },
+    {
+      "id": "26d38a81-eed4-4330-9288-30de45b9767c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "En un estudio publicado en la Revista \"Anales de Pediatría\" por A. Comas Vivesa, I. Polanco Allué (2005), se intentó identificar factores de riesgo asociados al estreñimiento en la población infantil. Para ello se evaluaron dos grupos de niños: con estreñimiento (GE) y sin estreñimiento (GSE). Se incluyeron en el estudio 898 niños, 408 (45,4 %) pertenecían al GE y 490 (54,5 %) al GSE. Se recabaron los antecedentes de la historia clínica. El 53,7 % de los niños del GE presentaban antecedentes maternos de estreñimiento, frente al 21,4 % del GSE. ¿Cuál es el valor de la medida de riesgo adecuada para este estudio?",
+      "options": [
+        {
+          "id": "f9d01b66-bdfd-41a5-9407-16ff322f03e0",
+          "text": "4,25.",
+          "correct": true
+        },
+        {
+          "id": "20d248ed-665e-4cce-86bf-4f3030002b7e",
+          "text": "0,24."
+        },
+        {
+          "id": "1ff10af5-a094-47d7-820c-61513891ffa4",
+          "text": "1,38."
+        },
+        {
+          "id": "dd44996e-e45f-40a2-b9cb-a4f918d74608",
+          "text": "2,50."
+        }
+      ]
+    },
+    {
+      "id": "ddc63049-b2d4-4ff3-b4ba-09d1d57f34f1",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Se está investigando la utilidad de la dosificación de alanina transaminasa (ALT) para el diagnóstico de hepatitis viral. Se considerará que el test es positivo si se detectan valores de ALT mayores a 60 U/L. Se reclutaron 20 pacientes con fiebre e ictericia (coloración amarilla de piel y mucosas) y se realizó la dosificación de ALT. Simultáneamente se realizaron exámenes serológicos para detectar virus, cuyo resultado (positivo/negativo) fue considerado \"patrón oro\". La tabla muestra el valor de ALT (U/L) observado en los individuos según se haya confirmado o no la hepatitis viral. El porcentaje de individuos con hepatitis o valores de ALT mayores a 60 U/L se puede interpretar como una probabilidad...",
+      "image": "ddc63049-b2d4-4ff3-b4ba-09d1d57f34f1.avif",
+      "options": [
+        {
+          "id": "c5715d04-8c3d-40e1-87e6-255d37e25191",
+          "text": "De un suceso unión.",
+          "correct": true
+        },
+        {
+          "id": "3eea9210-73eb-41c9-a6bf-84f2706e0210",
+          "text": "A posteriori."
+        },
+        {
+          "id": "d36f4e4e-3e84-4a71-9900-fd4570bd0060",
+          "text": "Condicionada."
+        },
+        {
+          "id": "1a5a10bb-bd47-4cec-b199-d6cd565e68be",
+          "text": "De un suceso intersección."
+        }
+      ]
+    },
+    {
+      "id": "6d1a444e-a07c-4ced-87cc-6bccff136fbc",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Se está investigando la utilidad de la dosificación de alanina transaminasa (ALT) para el diagnóstico de hepatitis viral. Se considerará que el test es positivo si se detectan valores de ALT mayores a 60 U/L. Se reclutaron 20 pacientes con fiebre e ictericia (coloración amarilla de piel y mucosas) y se realizó la dosificación de ALT. Simultáneamente se realizaron exámenes serológicos para detectar virus, cuyo resultado (positivo/negativo) fue considerado \"patrón oro\". La tabla muestra el valor de ALT (U/L) observado en los individuos según se haya confirmado o no la hepatitis viral. Si se considerara \"resultado del test positivo\" únicamente a los valores de ALT mayores a 70U/L, ¿cómo sería la sensibilidad del test con respecto a la utilización del punto de corte 60 U/L?",
+      "image": "6d1a444e-a07c-4ced-87cc-6bccff136fbc.avif",
+      "options": [
+        {
+          "id": "0541bc69-f496-4f9c-b89b-4508716fb063",
+          "text": "Menor.",
+          "correct": true
+        },
+        {
+          "id": "d8942636-5ae1-48c4-a962-b43413b4e465",
+          "text": "Igual."
+        },
+        {
+          "id": "126ac578-48cd-49c3-8e32-da488de89730",
+          "text": "Mayor."
+        },
+        {
+          "id": "55194cb9-6ee2-45d2-a977-549a3d64d805",
+          "text": "No se puede predecir."
+        }
+      ]
+    },
+    {
+      "id": "97b1d1b8-c107-48ee-81f1-e3543c8565e4",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Se está investigando la utilidad de la dosificación de alanina transaminasa (ALT) para el diagnóstico de hepatitis viral. Se considerará que el test es positivo si se detectan valores de ALT mayores a 60 U/L. Se reclutaron 20 pacientes con fiebre e ictericia (coloración amarilla de piel y mucosas) y se realizó la dosificación de ALT. Simultáneamente se realizaron exámenes serológicos para detectar virus, cuyo resultado (positivo/negativo) fue considerado \"patrón oro\". La tabla muestra el valor de ALT (U/L) observado en los individuos según se haya confirmado o no la hepatitis viral. Una persona que ha estado recientemente en contacto con un niño con hepatitis viral se presenta a la consulta con fiebre. La probabilidad a priori de que tenga hepatitis viral es de 70%. ¿Cuál es la probabilidad de que el diagnóstico correcto sea de hepatitis viral si el resultado de la dosificación de ALT es mayor a 60 U/L?",
+      "image": "97b1d1b8-c107-48ee-81f1-e3543c8565e4.avif",
+      "options": [
+        {
+          "id": "bceea760-8d3b-4c49-a88c-2bd76802d358",
+          "text": "0.79.",
+          "correct": true
+        },
+        {
+          "id": "a11c6633-7972-4bfd-9d64-4e20f4f15ba1",
+          "text": "0.60."
+        },
+        {
+          "id": "87005fbf-4f26-4243-83be-9a36a0ce5014",
+          "text": "0.70."
+        },
+        {
+          "id": "1eb0b30c-e5bc-464b-9f1c-46bf0aa035b8",
+          "text": "0.89."
+        }
+      ]
+    },
+    {
+      "id": "304a6ed0-b4f7-4c14-9ee7-b6eb1289b936",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Se está investigando la utilidad de la dosificación de alanina transaminasa (ALT) para el diagnóstico de hepatitis viral. Se considerará que el test es positivo si se detectan valores de ALT mayores a 60 U/L. Se reclutaron 20 pacientes con fiebre e ictericia (coloración amarilla de piel y mucosas) y se realizó la dosificación de ALT. Simultáneamente se realizaron exámenes serológicos para detectar virus, cuyo resultado (positivo/negativo) fue considerado \"patrón oro\". La tabla muestra el valor de ALT (U/L) observado en los individuos según se haya confirmado o no la hepatitis viral. ¿Cuál es la probabilidad de que un individuo tomado al azar en esta muestra de 20 pacientes tenga valores de ALT mayores a 60 U/L y tenga hepatitis?",
+      "image": "304a6ed0-b4f7-4c14-9ee7-b6eb1289b936.avif",
+      "options": [
+        {
+          "id": "6d2315f0-bd19-47ce-9f52-1efafd9de85e",
+          "text": "0,50.",
+          "correct": true
+        },
+        {
+          "id": "c1938e58-f188-49e9-8385-4b4bbdb2ea6a",
+          "text": "0,60."
+        },
+        {
+          "id": "2915d0b3-b46f-4d9b-841d-f8da5349615f",
+          "text": "0,70."
+        },
+        {
+          "id": "d8bb77a7-4d12-4796-8b97-4246eef12348",
+          "text": "0,75."
+        },
+        {
+          "id": "832e57e5-77be-43d0-b7fb-99b7e3f1a682",
+          "text": "0,83."
+        }
+      ]
+    },
+    {
+      "id": "52afce1d-71a1-4fb2-82ae-5f6d8d61df94",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Se está investigando la utilidad de la dosificación de alanina transaminasa (ALT) para el diagnóstico de hepatitis viral. Se considerará que el test es positivo si se detectan valores de ALT mayores a 60 U/L. Se reclutaron 20 pacientes con fiebre e ictericia (coloración amarilla de piel y mucosas) y se realizó la dosificación de ALT. Simultáneamente se realizaron exámenes serológicos para detectar virus, cuyo resultado (positivo/negativo) fue considerado \"patrón oro\". La tabla muestra el valor de ALT (U/L) observado en los individuos según se haya confirmado o no la hepatitis viral. ¿Cuál es la probabilidad de que un individuo tomado al azar en esta muestra de 20 pacientes tenga valores de ALT mayores a 60 U/L?",
+      "image": "52afce1d-71a1-4fb2-82ae-5f6d8d61df94.avif",
+      "options": [
+        {
+          "id": "30bb7b8e-3087-4083-8bb3-2723985eede2",
+          "text": "0,70.",
+          "correct": true
+        },
+        {
+          "id": "a5087338-e9bc-467e-a1ba-c3e84459d850",
+          "text": "0,60."
+        },
+        {
+          "id": "97b3cc31-42e4-44ad-9e94-531778c6f100",
+          "text": "0,75."
+        },
+        {
+          "id": "82cfc1a1-c9fa-4fea-b9a9-e625625b745f",
+          "text": "0,83."
+        }
+      ]
+    },
+    {
+      "id": "5550addd-c72b-4256-9270-7386bcf64dbc",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Se está investigando la utilidad de la dosificación de alanina transaminasa (ALT) para el diagnóstico de hepatitis viral. Se considerará que el test es positivo si se detectan valores de ALT mayores a 60 U/L. Se reclutaron 20 pacientes con fiebre e ictericia (coloración amarilla de piel y mucosas) y se realizó la dosificación de ALT. Simultáneamente se realizaron exámenes serológicos para detectar virus, cuyo resultado (positivo/negativo) fue considerado \"patrón oro\". La tabla muestra el valor de ALT (U/L) observado en los individuos según se haya confirmado o no la hepatitis viral. ¿Cuál es la sensibilidad de la dosificación de ALT para el diagnóstico de hepatitis viral?",
+      "image": "5550addd-c72b-4256-9270-7386bcf64dbc.avif",
+      "options": [
+        {
+          "id": "19d22bcb-8f0a-4fcc-b583-d433e6c8c9d0",
+          "text": "0,83.",
+          "correct": true
+        },
+        {
+          "id": "fbe9700d-3f68-47df-a190-b49a52e466dc",
+          "text": "0,17."
+        },
+        {
+          "id": "60b879ce-f477-4bf7-a87c-15427a18bb5a",
+          "text": "0,50."
+        },
+        {
+          "id": "51898aa5-6b17-4e5d-8d9f-2aa7e5b9b974",
+          "text": "0,75."
+        }
+      ]
+    },
+    {
+      "id": "d8ce5788-0f91-4d2f-9dca-b7572926060e",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Se quiere investigar si un nuevo medicamento permite detener la evolución de la esclerosis múltiple. Para ello se reclutan simultáneamente 50 pacientes con esclerosis múltiple y se les asigna aleatoriamente tratamiento con el fármaco estudiado o con placebo. Al cabo de un año se observa que de los 20 pacientes asignados al grupo que recibió el fármaco 10 habían detenido la progresión, mientras que en el grupo de 30 pacientes que recibieron placebo la enfermedad se había detenido en 5 casos. Además, en el grupo que recibió el fármaco, 4 pacientes habían muerto (a los 4, 6, 7 y 9 meses de comenzado el tratamiento), mientras que en el grupo con placebo no se observaron muertes. El indicador de riesgo relativo más adecuado para evaluar si el fármaco es efectivo para detener la progresión de la enfermedad en este estudio es:",
+      "options": [
+        {
+          "id": "6ea3c8ae-538e-401c-8de6-a87c2a1cc3bd",
+          "text": "El riesgo relativo.",
+          "correct": true
+        },
+        {
+          "id": "b1d4f289-5021-4154-9364-0d71df02e204",
+          "text": "El odds ratio (OR)."
+        },
+        {
+          "id": "6872e80e-a0e5-4432-a1cf-6a1c569297e8",
+          "text": "El riesgo atribuible."
+        },
+        {
+          "id": "91159533-2885-43a3-8dea-ad3c3cadee8e",
+          "text": "La razón de prevalencias."
+        }
+      ]
+    },
+    {
+      "id": "7290e85b-e9ae-4a1b-82e0-6c0c1ced9ade",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Se quiere investigar si un nuevo medicamento permite detener la evolución de la esclerosis múltiple. Para ello se reclutan simultáneamente 50 pacientes con esclerosis múltiple y se les asigna aleatoriamente tratamiento con el fármaco estudiado o con placebo. Al cabo de un año se observa que de los 20 pacientes asignados al grupo que recibió el fármaco 10 habían detenido la progresión, mientras que en el grupo de 30 pacientes que recibieron placebo la enfermedad se había detenido en 5 casos. Además, en el grupo que recibió el fármaco, 4 pacientes habían muerto (a los 4, 6, 7 y 9 meses de comenzado el tratamiento), mientras que en el grupo con placebo no se observaron muertes. El riesgo de que la enfermedad progrese en quienes recibieron el fármaco con respecto a quienes recibieron placebo es:",
+      "options": [
+        {
+          "id": "c2cf6822-36d8-4e9e-8576-9628ffb34f17",
+          "text": "0,60.",
+          "correct": true
+        },
+        {
+          "id": "48f11588-796a-44b0-b7f0-8c761fe3a93b",
+          "text": "0,50."
+        },
+        {
+          "id": "becbfa4b-90f7-4bec-a565-af9c61d2b87e",
+          "text": "0,75."
+        },
+        {
+          "id": "2c992df5-ed51-49d6-8e4d-7755db29b08a",
+          "text": "1,66."
+        },
+        {
+          "id": "d661081c-4e23-454d-920b-2cdcce4f1653",
+          "text": "2,00."
+        }
+      ]
+    },
+    {
+      "id": "a4a697d3-06a2-4b85-bd2c-d7d78564b28b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Se quiere investigar si un nuevo medicamento permite detener la evolución de la esclerosis múltiple. Para ello se reclutan simultáneamente 50 pacientes con esclerosis múltiple y se les asigna aleatoriamente tratamiento con el fármaco estudiado o con placebo. Al cabo de un año se observa que de los 20 pacientes asignados al grupo que recibió el fármaco 10 habían detenido la progresión, mientras que en el grupo de 30 pacientes que recibieron placebo la enfermedad se había detenido en 5 casos. Además, en el grupo que recibió el fármaco, 4 pacientes habían muerto (a los 4, 6, 7 y 9 meses de comenzado el tratamiento), mientras que en el grupo con placebo no se observaron muertes. En este estudio, la razón de pacientes tratados con el fármaco respecto al placebo es:",
+      "options": [
+        {
+          "id": "f879977a-3645-4a23-b281-0a725cf6cc46",
+          "text": "2:3.",
+          "correct": true
+        },
+        {
+          "id": "df48acdd-67fc-4e22-ad8f-29e90404587b",
+          "text": "0,5."
+        },
+        {
+          "id": "7eff7d31-b02e-4cdb-a350-d0ccfb52b3b6",
+          "text": "2,3."
+        },
+        {
+          "id": "5ae18a05-94e8-437a-90d2-7d10f728dd9c",
+          "text": "3,2."
+        },
+        {
+          "id": "1269b3c6-cea1-41a7-b79b-121d7da4c21a",
+          "text": "3:2."
+        }
+      ]
+    },
+    {
+      "id": "d2ef28ee-2356-4612-b9da-e5e0516e3da8",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Se quiere investigar si un nuevo medicamento permite detener la evolución de la esclerosis múltiple. Para ello se reclutan simultáneamente 50 pacientes con esclerosis múltiple y se les asigna aleatoriamente tratamiento con el fármaco estudiado o con placebo. Al cabo de un año se observa que de los 20 pacientes asignados al grupo que recibió el fármaco 10 habían detenido la progresión, mientras que en el grupo de 30 pacientes que recibieron placebo la enfermedad se había detenido en 5 casos. Además, en el grupo que recibió el fármaco, 4 pacientes habían muerto (a los 4, 6, 7 y 9 meses de comenzado el tratamiento), mientras que en el grupo con placebo no se observaron muertes. La mortalidad acumulada en el grupo que recibió el fármaco fue:",
+      "options": [
+        {
+          "id": "bbd22837-29c9-47f9-8a19-9ac95edfaa1b",
+          "text": "20 muertes/100 pacientes.",
+          "correct": true
+        },
+        {
+          "id": "3c9de578-27b9-4ae5-a9e6-3df94c86747c",
+          "text": "18 muertes/100 pacientes."
+        },
+        {
+          "id": "dbcd991c-8fc7-423c-a86e-1bfac56cb84a",
+          "text": "18 muertes/1000 pacientes-mes."
+        },
+        {
+          "id": "060f13a0-044f-4373-9d8c-376e42d680c3",
+          "text": "20 muertes/1000 pacientes-mes."
+        },
+        {
+          "id": "65969cc3-5eef-43bc-84f9-fe40279703e7",
+          "text": "4 muertes."
+        }
+      ]
+    },
+    {
+      "id": "a7653768-0ece-4f08-8310-b6198a5f142b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Se quiere investigar si un nuevo medicamento permite detener la evolución de la esclerosis múltiple. Para ello se reclutan simultáneamente 50 pacientes con esclerosis múltiple y se les asigna aleatoriamente tratamiento con el fármaco estudiado o con placebo. Al cabo de un año se observa que de los 20 pacientes asignados al grupo que recibió el fármaco 10 habían detenido la progresión, mientras que en el grupo de 30 pacientes que recibieron placebo la enfermedad se había detenido en 5 casos. Además, en el grupo que recibió el fármaco, 4 pacientes habían muerto (a los 4, 6, 7 y 9 meses de comenzado el tratamiento), mientras que en el grupo con placebo no se observaron muertes. La tasa de mortalidad en el grupo que recibió el fármaco fue:",
+      "options": [
+        {
+          "id": "3be5d2aa-bd9c-4354-bdb8-185d69e13639",
+          "text": "18,3 muertes/1000 pacientes-mes.",
+          "correct": true
+        },
+        {
+          "id": "c10c5f61-953b-482b-85e4-de82704079b1",
+          "text": "16,7 muertes/1000 pacientes-mes."
+        },
+        {
+          "id": "fb817382-8746-4eb7-9df5-bff97ce98f20",
+          "text": "18,3 muertes/100 pacientes-mes."
+        },
+        {
+          "id": "4d9b27c8-2a37-4dbd-80d3-95fdb2b7f450",
+          "text": "20,0 muertes/100 pacientes."
+        },
+        {
+          "id": "ed1653ce-458b-4c5c-a7ac-50366f17e361",
+          "text": "20,0 muertes/1000 pacientes-mes."
+        }
+      ]
+    },
+    {
+      "id": "5d1c53be-c15f-48c2-a716-e9393f8fa62b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Se quiere investigar si un nuevo medicamento permite detener la evolución de la esclerosis múltiple. Para ello se reclutan simultáneamente 50 pacientes con esclerosis múltiple y se les asigna aleatoriamente tratamiento con el fármaco estudiado o con placebo. Al cabo de un año se observa que de los 20 pacientes asignados al grupo que recibió el fármaco 10 habían detenido la progresión, mientras que en el grupo de 30 pacientes que recibieron placebo la enfermedad se había detenido en 5 casos. Además, en el grupo que recibió el fármaco, 4 pacientes habían muerto (a los 4, 6, 7 y 9 meses de comenzado el tratamiento), mientras que en el grupo con placebo no se observaron muertes. Según el objetivo de esta investigación, este es un diseño:",
+      "options": [
+        {
+          "id": "d2ddfb02-c98b-4ba8-af12-c1a08e043834",
+          "text": "Analítico.",
+          "correct": true
+        },
+        {
+          "id": "6a997076-7fa7-497c-9903-229d9f3612e9",
+          "text": "Descriptivo."
+        },
+        {
+          "id": "1b25f41e-d2e4-4a26-a3ab-a49fff6933fa",
+          "text": "Longitudinal."
+        },
+        {
+          "id": "0323d0ad-c20e-4ed9-9732-3c2650c189d2",
+          "text": "Observacional."
+        }
+      ]
+    },
+    {
+      "id": "625185d5-b664-40d4-9771-b7d1fe8ef524",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "Se quiere investigar si un nuevo medicamento permite detener la evolución de la esclerosis múltiple. Para ello se reclutan simultáneamente 50 pacientes con esclerosis múltiple y se les asigna aleatoriamente tratamiento con el fármaco estudiado o con placebo. Al cabo de un año se observa que de los 20 pacientes asignados al grupo que recibió el fármaco 10 habían detenido la progresión, mientras que en el grupo de 30 pacientes que recibieron placebo la enfermedad se había detenido en 5 casos. Además, en el grupo que recibió el fármaco, 4 pacientes habían muerto (a los 4, 6, 7 y 9 meses de comenzado el tratamiento), mientras que en el grupo con placebo no se observaron muertes. ¿Qué nombre recibe el diseño del estudio?",
+      "options": [
+        {
+          "id": "07c95acd-f695-4cad-8125-88ff54263707",
+          "text": "Ensayo clínico.",
+          "correct": true
+        },
+        {
+          "id": "3320e5d2-9d28-4ee8-bdd0-424200c35bfb",
+          "text": "Estudio de caso-control."
+        },
+        {
+          "id": "0968a7e6-e4b1-4026-88c7-b59f33636df0",
+          "text": "Estudio de cohortes."
+        },
+        {
+          "id": "18cff5fa-0597-432e-9a75-53217b265c80",
+          "text": "Estudio ecológico."
+        }
+      ]
+    },
+    {
+      "id": "39b69e45-1adf-4144-8ea6-d22c077d70b6",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2019-01-01",
+      "text": "¿Para cuál de las siguientes situaciones sería correcto diseñar un estudio de tipo experimental?",
+      "options": [
+        {
+          "id": "1889fcf2-5533-4f0c-a398-0dbeaf5fdc75",
+          "text": "Comparar el efecto de la hipnosis con el de la sedación farmacológica para evitar el dolor durante la reducción de fracturas en niños.",
+          "correct": true
+        },
+        {
+          "id": "e803aef8-7a60-4814-aac2-43a2541963e5",
+          "text": "Comparar el pronóstico de una enfermedad neurodegenerativa en hombres y mujeres."
+        },
+        {
+          "id": "14856400-167c-48ff-8db0-b9c4c4912800",
+          "text": "Comparar la incidencia de dengue en la costa y en la montaña en cierta región."
+        },
+        {
+          "id": "5bcd3829-2359-4dcb-a821-81d3ca58d4b3",
+          "text": "Investigar si el desarrollo de cierto cáncer se asocia a la exposición laboral a asbesto."
+        }
+      ]
+    },
+    {
+      "id": "761f0a45-8725-4d29-b3ae-17dbf2274134",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-01-01",
+      "text": "En cierta región se llevó adelante un estudio para evaluar la presencia de parasitosis intestinales en preescolares. Con esa finalidad realizó el análisis de una muestra de materia fecal por cada niño incluido en el estudio. Fueron evaluados 1500 niños y niñas encontrándose que el 66% no presentaba parasitosis. Se detectaron 260 varones con parásitos y 550 niñas sin parásitos. El test utilizado para la detección de parásitos intestinales tiene una sensibilidad de 55% y especificidad de 97%. A partir de la aplicación de dicho test, ¿qué tantas veces más probable es tener resultados positivos en niños y niñas con parasitosis, que obtener resultados positivos en niños y niñas sin parasitosis?",
+      "options": [
+        {
+          "id": "345470d8-6a75-45af-b5f6-bb003916bbfe",
+          "text": "18,33.",
+          "correct": true
+        },
+        {
+          "id": "b6ab619a-32e0-4c4d-998d-729d0a35963b",
+          "text": "0,57."
+        },
+        {
+          "id": "48ea037e-2066-4401-9542-1a67d09893bb",
+          "text": "1,76."
+        },
+        {
+          "id": "aeaae92a-2d6b-4aeb-992f-9788d30ab578",
+          "text": "2,16."
+        }
+      ]
+    },
+    {
+      "id": "760855b6-98c0-4cec-87f1-bc41a8652291",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-01-01",
+      "text": "En cierta región se llevó adelante un estudio para evaluar la presencia de parasitosis intestinales en preescolares. Con esa finalidad realizó el análisis de una muestra de materia fecal por cada niño incluido en el estudio. Fueron evaluados 1500 niños y niñas encontrándose que el 66% no presentaba parasitosis. Se detectaron 260 varones con parásitos y 550 niñas sin parásitos. La prevalencia de parasitosis encontrada fue de:",
+      "options": [
+        {
+          "id": "6cb25272-1766-46b2-8538-c5a3eb727867",
+          "text": "0,34.",
+          "correct": true
+        },
+        {
+          "id": "2f413fe6-60ee-4b4c-a4b9-6a446a9a54dc",
+          "text": "0,31."
+        },
+        {
+          "id": "5889c4ae-0976-43e4-9136-c327f641e9cd",
+          "text": "0,37."
+        },
+        {
+          "id": "2a26b31b-a3af-4f9c-8454-d3d68121e80c",
+          "text": "0,66."
+        }
+      ]
+    },
+    {
+      "id": "6b216dab-9d0d-4cd0-bee0-5a3bf874a1ce",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-01-01",
+      "text": "En cierta región se llevó adelante un estudio para evaluar la presencia de parasitosis intestinales en preescolares. Con esa finalidad realizó el análisis de una muestra de materia fecal por cada niño incluido en el estudio. Fueron evaluados 1500 niños y niñas encontrándose que el 66% no presentaba parasitosis. Se detectaron 260 varones con parásitos y 550 niñas sin parásitos. La proporción de niñas con parasitosis en el total de la muestra es:",
+      "options": [
+        {
+          "id": "5dc3cb09-9308-462a-9513-8cab1ba79f0e",
+          "text": "0,17.",
+          "correct": true
+        },
+        {
+          "id": "e60688ef-7020-420f-be5a-7e63f2aaa83a",
+          "text": "0,31."
+        },
+        {
+          "id": "b9da47ed-f67f-435a-9c43-ad2581ccf825",
+          "text": "0,34."
+        },
+        {
+          "id": "47a356a0-ee1d-403d-ae12-07d847ce993c",
+          "text": "0,49."
+        },
+        {
+          "id": "2aa0b23a-624b-4e4c-992a-d8ea150a5369",
+          "text": "0,53."
+        }
+      ]
+    },
+    {
+      "id": "d64f11a1-10cc-4d2f-9521-87aff08d950f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-01-01",
+      "text": "En cierta región se llevó adelante un estudio para evaluar la presencia de parasitosis intestinales en preescolares. Con esa finalidad realizó el análisis de una muestra de materia fecal por cada niño incluido en el estudio. Fueron evaluados 1500 niños y niñas encontrándose que el 66% no presentaba parasitosis. Se detectaron 260 varones con parásitos y 550 niñas sin parásitos. La razón parasitosis/no parasitosis entre las niñas es de:",
+      "options": [
+        {
+          "id": "44c3f579-80f2-4b15-ba64-872bd4bee51a",
+          "text": "0,45.",
+          "correct": true
+        },
+        {
+          "id": "6f09526b-b6f7-42b9-8361-6788d1c29376",
+          "text": "0,52."
+        },
+        {
+          "id": "7823c57d-5403-4b47-a8e6-0da8f80c125b",
+          "text": "1,08."
+        },
+        {
+          "id": "2079c7a8-aaf7-4d40-b804-2c6475c359a6",
+          "text": "1,94."
+        }
+      ]
+    },
+    {
+      "id": "fb63cf83-4c84-4d55-b48f-de141f40e02d",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-01-01",
+      "text": "En cierta región se llevó adelante un estudio para evaluar la presencia de parasitosis intestinales en preescolares. Con esa finalidad realizó el análisis de una muestra de materia fecal por cada niño incluido en el estudio. Fueron evaluados 1500 niños y niñas encontrándose que el 66% no presentaba parasitosis. Se detectaron 260 varones con parásitos y 550 niñas sin parásitos. Según los objetivos, este estudio puede clasificarse como:",
+      "options": [
+        {
+          "id": "f08ad481-17fb-46ce-a901-17f5d64044c1",
+          "text": "Descriptivo.",
+          "correct": true
+        },
+        {
+          "id": "bd2613bf-fcd7-4bc2-b5b4-203a1950246d",
+          "text": "Analítico."
+        },
+        {
+          "id": "9d6f5711-86a9-4bc2-a004-3e34e3ae639f",
+          "text": "Experimental."
+        },
+        {
+          "id": "dec20ed2-238d-40bb-b538-b67e451d9e81",
+          "text": "Observacional."
+        }
+      ]
+    },
+    {
+      "id": "88c72e25-07a3-4b6f-8587-8363ec72f82f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-01-01",
+      "text": "La probabilidad de que un paciente elegido al azar sea hipertenso (HTA) o diabético (DM) es:",
+      "options": [
+        {
+          "id": "6ef383a7-96ac-4bcc-9bda-846979239624",
+          "text": "P(HTA ∪ DM).",
+          "correct": true
+        },
+        {
+          "id": "6b7ebae2-1893-4f0b-93bf-408378ad7678",
+          "text": "P(DM | HTA)."
+        },
+        {
+          "id": "d2ba9f89-4290-4bfe-bb1a-b4c0e23e93d1",
+          "text": "P(HTA | DM)."
+        },
+        {
+          "id": "48227e05-4314-43c0-b8ca-a779e67767cc",
+          "text": "P(HTA ∩ DM)."
+        }
+      ]
+    },
+    {
+      "id": "d71f6313-111c-4671-abe9-7c6647ae6e77",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-01-01",
+      "text": "La probabilidad de que una persona esté enferma si el resultado del procedimiento diagnóstico es positivo es:",
+      "options": [
+        {
+          "id": "f930624f-64a3-444b-a00e-a423998469e1",
+          "text": "Valor predictivo positivo.",
+          "correct": true
+        },
+        {
+          "id": "94b0232e-205f-410f-80e7-4d969a4ca338",
+          "text": "Coeficiente falso positivo."
+        },
+        {
+          "id": "5fa7e189-f743-4d12-86bd-8fba19d4f198",
+          "text": "Especificidad."
+        },
+        {
+          "id": "e9a777e3-d2ea-495f-a570-50c9febcdd8a",
+          "text": "Sensibilidad."
+        }
+      ]
+    },
+    {
+      "id": "495a9d9b-ab5e-43f0-af07-3f3ad3b05a0d",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-01-01",
+      "text": "Si la exposición a un determinado factor no afecta la probabilidad de desarrollar la enfermedad, la medida de riesgo relativo tomando como referencia a los no expuestos es:",
+      "options": [
+        {
+          "id": "91d1c248-c18a-49ad-827a-f78257be0a81",
+          "text": "Igual a 1.",
+          "correct": true
+        },
+        {
+          "id": "c67422e3-9fb4-40d3-85f5-cb1f56c22132",
+          "text": "Mayor a 1."
+        },
+        {
+          "id": "b1c4f63b-25df-4101-b941-a4bd51080339",
+          "text": "Menor a 1."
+        }
+      ]
+    },
+    {
+      "id": "13643b92-dd55-48e8-bf9b-95a98822aed2",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-01-01",
+      "text": "Una investigación buscó encontrar si el consumo excesivo de carnes rojas puede ser un factor de riesgo para el cáncer de colon. Para realizarlo, se eligieron dos grupos de personas: uno con cáncer de colon y otro con otras patologías y se indagó sobre el consumo de este alimento antes de desarrollar la enfermedad. De las 500 personas con cáncer, se detectó que 200 habían tenido un consumo excesivo de carnes rojas. En el otro grupo, de tamaño 1000, el 25% de las personas consumían de forma excesiva el alimento. Se quiere calcular una medida de riesgo, ¿cuál de las siguientes es correcto utilizar?",
+      "options": [
+        {
+          "id": "c1afb59b-fd36-4189-b529-ec8e66942d0a",
+          "text": "Odds ratio.",
+          "correct": true
+        },
+        {
+          "id": "d9588ca1-2344-4481-af9a-8d4f41867c9f",
+          "text": "Razón de prevalencias."
+        },
+        {
+          "id": "8c06e957-0ea5-4db3-b9e2-80414e1a5ff4",
+          "text": "Riesgo relativo."
+        }
+      ]
+    },
+    {
+      "id": "3d9d25de-2376-462e-b2a4-978c16b92fb4",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-01-01",
+      "text": "Una investigación buscó encontrar si el consumo excesivo de carnes rojas puede ser un factor de riesgo para el cáncer de colon. Para realizarlo, se eligieron dos grupos de personas: uno con cáncer de colon y otro con otras patologías y se indagó sobre el consumo de este alimento antes de desarrollar la enfermedad. De las 500 personas con cáncer, se detectó que 200 habían tenido un consumo excesivo de carnes rojas. En el otro grupo, de tamaño 1000, el 25% de las personas consumían de forma excesiva el alimento. Según la participación del investigador, este estudio puede clasificarse como:",
+      "options": [
+        {
+          "id": "c73d59fe-829e-4d5e-aa35-bda403bf8c87",
+          "text": "Observacional.",
+          "correct": true
+        },
+        {
+          "id": "38363d14-5b6e-457a-8209-a196d959cee3",
+          "text": "Analítico."
+        },
+        {
+          "id": "0f168f9f-c804-43fb-a6e8-7bfe6c4ab7a6",
+          "text": "Descriptivo."
+        },
+        {
+          "id": "0f3fcee1-c520-4261-8252-a0edd77fbca3",
+          "text": "Experimental."
+        }
+      ]
+    },
+    {
+      "id": "978ee44d-1b7d-4fda-b4be-6759a8dba11c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-01-01",
+      "text": "Una investigación buscó encontrar si el consumo excesivo de carnes rojas puede ser un factor de riesgo para el cáncer de colon. Para realizarlo, se eligieron dos grupos de personas: uno con cáncer de colon y otro con otras patologías y se indagó sobre el consumo de este alimento antes de desarrollar la enfermedad. De las 500 personas con cáncer, se detectó que 200 habían tenido un consumo excesivo de carnes rojas. En el otro grupo, de tamaño 1000, el 25% de las personas consumían de forma excesiva el alimento. Si se quiere evaluar el riesgo de desarrollar cáncer de colon de quienes consumen carne en forma excesiva respecto de quienes no lo hacen, ¿cuál es el valor de la medida de riesgo?",
+      "options": [
+        {
+          "id": "83d1dac3-bc92-4efc-9ca6-60512f7292b8",
+          "text": "2,00.",
+          "correct": true
+        },
+        {
+          "id": "26578f47-1b37-44de-9e85-980fb5e03537",
+          "text": "0,50."
+        },
+        {
+          "id": "c59d6165-cf68-451c-be98-ae8690e70c5d",
+          "text": "1,56."
+        },
+        {
+          "id": "040788b0-9385-4eb7-b544-f1159135f5bc",
+          "text": "1,60."
+        },
+        {
+          "id": "01faa691-1183-4b32-9869-1f9c2690ec01",
+          "text": "12500000,00."
+        }
+      ]
+    },
+    {
+      "id": "2d44016c-130d-41fd-94dd-e3157d2f009b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-01-01",
+      "text": "Una investigación buscó encontrar si el consumo excesivo de carnes rojas puede ser un factor de riesgo para el cáncer de colon. Para realizarlo, se eligieron dos grupos de personas: uno con cáncer de colon y otro con otras patologías y se indagó sobre el consumo de este alimento antes de desarrollar la enfermedad. De las 500 personas con cáncer, se detectó que 200 habían tenido un consumo excesivo de carnes rojas. En el otro grupo, de tamaño 1000, el 25% de las personas consumían de forma excesiva el alimento. ¿Cuántas eran las personas sin cáncer de colon que no habían consumido carne en forma excesiva?",
+      "options": [
+        {
+          "id": "50a6a2a2-99ea-470e-9f2c-c973fe27a56a",
+          "text": "750.",
+          "correct": true
+        },
+        {
+          "id": "a7e144a2-1d74-411f-a1c5-37f52d025aee",
+          "text": "250."
+        },
+        {
+          "id": "d258b478-85db-4cbb-be74-da6e3445edd4",
+          "text": "300."
+        },
+        {
+          "id": "0c51e02f-9feb-4e11-b418-546a1d840b1e",
+          "text": "75."
+        }
+      ]
+    },
+    {
+      "id": "c882f03c-223a-4bb3-8011-dbe051a0dfb2",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2020-01-01",
+      "text": "Una investigación buscó encontrar si el consumo excesivo de carnes rojas puede ser un factor de riesgo para el cáncer de colon. Para realizarlo, se eligieron dos grupos de personas: uno con cáncer de colon y otro con otras patologías y se indagó sobre el consumo de este alimento antes de desarrollar la enfermedad. De las 500 personas con cáncer, se detectó que 200 habían tenido un consumo excesivo de carnes rojas. En el otro grupo, de tamaño 1000, el 25% de las personas consumían de forma excesiva el alimento. ¿Qué tipo de estudio se realizó?",
+      "options": [
+        {
+          "id": "5f5e74d8-2e9f-4d14-ad55-54371e605260",
+          "text": "Estudio caso-control.",
+          "correct": true
+        },
+        {
+          "id": "7f61493b-b753-49d7-8d1f-6351d2671e52",
+          "text": "Ensayo clínico controlado."
+        },
+        {
+          "id": "7de642e5-5943-4572-a26c-5df32422e942",
+          "text": "Estudio de cohortes."
+        },
+        {
+          "id": "43ff0740-a2ba-46ac-acf0-3938e20178ed",
+          "text": "Estudio de prevalencia."
+        }
+      ]
+    },
+    {
       "id": "ace8c380-12c3-4394-a348-48cc2529ca8e",
       "evaluation": "parcial_2",
       "source": "partial",
@@ -2807,16 +4472,16 @@
           "correct": true
         },
         {
-          "id": "835cd93e-7191-4fa5-a087-361b94040f86",
-          "text": "0,29."
-        },
-        {
           "id": "0a4a9f9e-7cf2-4dd5-bda8-64a521f99f7d",
           "text": "0,06."
         },
         {
           "id": "21c38ff5-05fc-462b-b080-391ad8797ff5",
           "text": "0,08."
+        },
+        {
+          "id": "835cd93e-7191-4fa5-a087-361b94040f86",
+          "text": "0,29."
         }
       ]
     },
