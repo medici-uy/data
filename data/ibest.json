@@ -2711,12 +2711,586 @@
           "text": "Cuantitativa discreta."
         }
       ]
+    },
+    {
+      "id": "ace8c380-12c3-4394-a348-48cc2529ca8e",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Dados dos sucesos A y B, tales que P(A) > 0 y P(B) > 0, señala cuál de las siguientes proposiciones es verdadera:",
+      "options": [
+        {
+          "id": "eb9598b2-40ee-4e2d-80ba-0a3f01234510",
+          "text": "P(A ∩ B) = P(B | A) x P(A).",
+          "correct": true
+        },
+        {
+          "id": "c68acc5f-11f3-40a4-96d2-85ca6258ddfa",
+          "text": "P(A | B) = P(A), si A y B son mutuamente excluyentes."
+        },
+        {
+          "id": "4ef57b8e-2527-47ca-9daf-62a9748b5def",
+          "text": "P(A ∩ B) = P(A) + P(B) + P(A ∪ B)."
+        },
+        {
+          "id": "30193b23-aa9d-4b8d-8480-f847479681c8",
+          "text": "P(A ∩ B) = P(A) x P(B)."
+        }
+      ]
+    },
+    {
+      "id": "bdf97eac-f7b3-4604-b898-1f95a5811eca",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "En la sala de espera hay pacientes fumadores (F), diabéticos (D) e hipertiroideos (H). ¿Cuál de las siguientes proposiciones describe la probabilidad de ser diabético, fumador o hipertiroideo pero no las tres cosas a la vez?",
+      "options": [
+        {
+          "id": "d1db4e45-78ac-4904-bff6-cd5004f3f9cc",
+          "text": "P(F ∪ H ∪ D) - P(F ∩ H ∩ D).",
+          "correct": true
+        },
+        {
+          "id": "e2626e84-2949-4333-b64d-84f2587ffae3",
+          "text": "P(F ∩ H ∩ D) - P(F ∪ H ∪ D)."
+        },
+        {
+          "id": "275b926c-7a54-4da8-befc-2085c8240b22",
+          "text": "P(F ∪ D ∪ H)."
+        },
+        {
+          "id": "eb2bf93b-7b36-41e7-a9dc-481cee580df9",
+          "text": "P(F ∪ H ∪ D) - P(F) x P(H) x P(D)."
+        },
+        {
+          "id": "06ee68c3-7a0b-4860-a357-a936f00347f2",
+          "text": "P(F) + P(H) + P(D)"
+        }
+      ]
+    },
+    {
+      "id": "8bf6a051-e818-40c8-ada5-be2a165371ed",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Para estudiar la efectividad de cierta vacuna contra el SARS-CoV-2, sus desarrolladores compararon la presencia de síntomas de COVID-19 en un grupo de 2000 personas a las que se había aplicado la vacuna y 6000 individuos que vivían en la misma zona pero no habían sido vacunados, en un período de 6 meses. En el primer grupo 40 personas presentaron síntomas de COVID-19, mientras que en el segundo grupo fueron 500 los que tuvieron síntomas. Según el criterio temporal, este estudio puede clasificarse como:",
+      "options": [
+        {
+          "id": "2e16ff87-ca11-45b2-ba53-4ab49944e1c0",
+          "text": "Longitudinal prospectivo.",
+          "correct": true
+        },
+        {
+          "id": "99d845fe-c91b-4ba5-98ee-f93ea848a128",
+          "text": "Longitudinal retrospectivo."
+        },
+        {
+          "id": "d99f090d-fe7a-4cea-b282-44343967d63d",
+          "text": "Retro-prospectivo."
+        },
+        {
+          "id": "e660ca1a-5c72-4e4d-92f4-ab9a982ec21e",
+          "text": "Transversal."
+        }
+      ]
+    },
+    {
+      "id": "c078b667-2d17-46d3-8942-d3d95651b400",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Para estudiar la efectividad de cierta vacuna contra el SARS-CoV-2, sus desarrolladores compararon la presencia de síntomas de COVID-19 en un grupo de 2000 personas a las que se había aplicado la vacuna y 6000 individuos que vivían en la misma zona pero no habían sido vacunados, en un período de 6 meses. En el primer grupo 40 personas presentaron síntomas de COVID-19, mientras que en el segundo grupo fueron 500 los que tuvieron síntomas. ¿Cuál es el valor de la medida de riesgo relativo más adecuada para este estudio, si se quiere evaluar el beneficio de la vacuna respecto a la población sin vacunar?",
+      "options": [
+        {
+          "id": "1581289b-297d-40c7-a078-76f1a069c7bd",
+          "text": "0,24.",
+          "correct": true
+        },
+        {
+          "id": "835cd93e-7191-4fa5-a087-361b94040f86",
+          "text": "0,29."
+        },
+        {
+          "id": "0a4a9f9e-7cf2-4dd5-bda8-64a521f99f7d",
+          "text": "0,06."
+        },
+        {
+          "id": "21c38ff5-05fc-462b-b080-391ad8797ff5",
+          "text": "0,08."
+        }
+      ]
+    },
+    {
+      "id": "07b2e81b-a12b-4468-9da7-3671af84bf95",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Para estudiar la efectividad de cierta vacuna contra el SARS-CoV-2, sus desarrolladores compararon la presencia de síntomas de COVID-19 en un grupo de 2000 personas a las que se había aplicado la vacuna y 6000 individuos que vivían en la misma zona pero no habían sido vacunados, en un período de 6 meses. En el primer grupo 40 personas presentaron síntomas de COVID-19, mientras que en el segundo grupo fueron 500 los que tuvieron síntomas. ¿Cuál es la probabilidad de que al elegir un participante al azar en este estudio esté vacunado y haya presentado síntomas en el período de estudio?",
+      "options": [
+        {
+          "id": "03738926-bcf7-46b5-bea7-6bb314389bda",
+          "text": "0,005.",
+          "correct": true
+        },
+        {
+          "id": "7d4785a6-fde2-47af-b1cf-82001c052db9",
+          "text": "0,020."
+        },
+        {
+          "id": "d1446cc2-615c-4a01-b665-ffd2f792d85b",
+          "text": "0,062."
+        },
+        {
+          "id": "71c05136-85f8-41a2-841c-84ef65037232",
+          "text": "0,074."
+        },
+        {
+          "id": "040ca7ca-e87a-4866-afd6-ac52431ec697",
+          "text": "0,250."
+        }
+      ]
+    },
+    {
+      "id": "abd2ee8a-df63-4eee-92e1-b99b419b319a",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Para estudiar la efectividad de cierta vacuna contra el SARS-CoV-2, sus desarrolladores compararon la presencia de síntomas de COVID-19 en un grupo de 2000 personas a las que se había aplicado la vacuna y 6000 individuos que vivían en la misma zona pero no habían sido vacunados, en un período de 6 meses. En el primer grupo 40 personas presentaron síntomas de COVID-19, mientras que en el segundo grupo fueron 500 los que tuvieron síntomas. ¿Cuál es la probabilidad de que al elegir un participante al azar en este estudio esté vacunado y haya presentado síntomas en el período de estudio?",
+      "options": [
+        {
+          "id": "f425097f-fc95-475f-9401-0e15be4b5a81",
+          "text": "0,074.",
+          "correct": true
+        },
+        {
+          "id": "db407e87-f108-4d0e-82c5-e26878cdde92",
+          "text": "0,005."
+        },
+        {
+          "id": "ffe36e32-2874-44ed-a597-593a6b573437",
+          "text": "0,020."
+        },
+        {
+          "id": "7db2e34e-cdd8-4b7e-bf6c-56dad3494923",
+          "text": "0.000."
+        }
+      ]
+    },
+    {
+      "id": "fe415de9-34c6-494a-b51b-28c67420a4d8",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Para estudiar la efectividad de cierta vacuna contra el SARS-CoV-2, sus desarrolladores compararon la presencia de síntomas de COVID-19 en un grupo de 2000 personas a las que se había aplicado la vacuna y 6000 individuos que vivían en la misma zona pero no habían sido vacunados, en un período de 6 meses. En el primer grupo 40 personas presentaron síntomas de COVID-19, mientras que en el segundo grupo fueron 500 los que tuvieron síntomas. ¿Cuál fue la razón de vacunados : no vacunados en este estudio?",
+      "options": [
+        {
+          "id": "c8c0442b-0c54-4c3d-a88a-9a629788dc5d",
+          "text": "1:3.",
+          "correct": true
+        },
+        {
+          "id": "908ab2d5-c4cb-4aac-9989-1f23915d69fe",
+          "text": "1:4."
+        },
+        {
+          "id": "c59cc055-b3da-47a8-82b6-859f4a05d4d8",
+          "text": "1:7."
+        },
+        {
+          "id": "5bec55fe-16c1-48f0-92e4-00d5a49a42e2",
+          "text": "3:1."
+        },
+        {
+          "id": "307ef5a7-d4d9-4ada-9932-f1be3dc0e790",
+          "text": "4:1."
+        }
+      ]
+    },
+    {
+      "id": "136f90d7-bf1d-4113-b795-9b211cc8990d",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Para estudiar la efectividad de cierta vacuna contra el SARS-CoV-2, sus desarrolladores compararon la presencia de síntomas de COVID-19 en un grupo de 2000 personas a las que se había aplicado la vacuna y 6000 individuos que vivían en la misma zona pero no habían sido vacunados, en un período de 6 meses. En el primer grupo 40 personas presentaron síntomas de COVID-19, mientras que en el segundo grupo fueron 500 los que tuvieron síntomas. ¿Qué nombre recibe este tipo de estudios?",
+      "options": [
+        {
+          "id": "4592f59b-ffcc-4355-be28-9d49b22e8a6f",
+          "text": "Estudio de cohortes.",
+          "correct": true
+        },
+        {
+          "id": "561c76be-f58e-4928-89f5-3403cb0b85ec",
+          "text": "Estudio de caso control."
+        },
+        {
+          "id": "09506b13-0651-42c0-97f7-8d8887e08d69",
+          "text": "Estudio de prevalencia."
+        },
+        {
+          "id": "812b8477-6a56-4c82-9dd5-aca3e4d2802d",
+          "text": "Evaluación de procedimiento diagnóstico."
+        }
+      ]
+    },
+    {
+      "id": "3f556feb-e035-4719-a974-955bd4f7983d",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Se estima que la población de Uruguay es de aproximadamente 3.5 millones de habitantes. Se considera que la pandemia de COVID-19 en Uruguay comenzó el 13 de marzo de 2020. De acuerdo a las cifras publicadas por el Ministerio de Salud Pública, el día 13 del mes 3 de 2021, se diagnosticaron 1062 nuevos casos, y murieron 9 personas por la enfermedad. De esta forma, al 13/3/2021 se contabilizaban 9896 casos activos, la cantidad de casos que se habían diagnosticado en el país era de 70133 y la cantidad de muertos desde el comienzo de la pandemia era 698. Entre el 13/3/2020 y el 13/3/2021, ¿cuál fue la letalidad por 1000 del COVID-19 en nuestro país?",
+      "options": [
+        {
+          "id": "8fd50f39-2e1e-4c59-bcbb-eab573f18a6b",
+          "text": "9,95.",
+          "correct": true
+        },
+        {
+          "id": "28073eb1-45ed-4a17-b5e9-83728821857d",
+          "text": "0,20."
+        },
+        {
+          "id": "fb4d290f-8478-45f7-9825-43d74777e53c",
+          "text": "0,70."
+        },
+        {
+          "id": "bfd15e49-7bf1-420d-b655-523b8a792541",
+          "text": "0,91."
+        },
+        {
+          "id": "02699c5a-e02b-44be-af4b-4ea18f570b4b",
+          "text": "8,47."
+        }
+      ]
+    },
+    {
+      "id": "5059a53c-5b22-4a58-a833-427fcbd8e4c3",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Se estima que la población de Uruguay es de aproximadamente 3.5 millones de habitantes. Se considera que la pandemia de COVID-19 en Uruguay comenzó el 13 de marzo de 2020. De acuerdo a las cifras publicadas por el Ministerio de Salud Pública, el día 13 del mes 3 de 2021, se diagnosticaron 1062 nuevos casos, y murieron 9 personas por la enfermedad. De esta forma, al 13/3/2021 se contabilizaban 9896 casos activos, la cantidad de casos que se habían diagnosticado en el país era de 70133 y la cantidad de muertos desde el comienzo de la pandemia era 698. ¿Cuál era la prevalencia por millón de población el día 13/3/2021?",
+      "options": [
+        {
+          "id": "61d80797-094f-4d0c-a0bd-dbf3225399ab",
+          "text": "2827.",
+          "correct": true
+        },
+        {
+          "id": "0919d223-8a96-4272-83d1-7c3a11d894e9",
+          "text": "20038."
+        },
+        {
+          "id": "572a12c2-9119-4413-af21-4f6f58d908f7",
+          "text": "303."
+        },
+        {
+          "id": "6d288a6c-d384-4d1e-a9d4-70a6b33d71c1",
+          "text": "9896."
+        }
+      ]
+    },
+    {
+      "id": "6207ab68-0d91-44ae-8d18-e0916190fae5",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Se estima que la población de Uruguay es de aproximadamente 3.5 millones de habitantes. Se considera que la pandemia de COVID-19 en Uruguay comenzó el 13 de marzo de 2020. De acuerdo a las cifras publicadas por el Ministerio de Salud Pública, el día 13 del mes 3 de 2021, se diagnosticaron 1062 nuevos casos, y murieron 9 personas por la enfermedad. De esta forma, al 13/3/2021 se contabilizaban 9896 casos activos, la cantidad de casos que se habían diagnosticado en el país era de 70133 y la cantidad de muertos desde el comienzo de la pandemia era 698. ¿Cuál es la mortalidad acumulada por COVID-19 cada 100.000 habitantes en Uruguay al 13/3/2021?",
+      "options": [
+        {
+          "id": "9ba7037e-43b5-4159-b32b-c8322993d757",
+          "text": "19,9.",
+          "correct": true
+        },
+        {
+          "id": "1382876f-4f6c-4044-8306-54d991f84d44",
+          "text": "0,0."
+        },
+        {
+          "id": "824b863e-95c1-4b5f-97c3-fa536f7006de",
+          "text": "0,1."
+        },
+        {
+          "id": "af71c58b-5163-48c5-85a8-5e48e3405359",
+          "text": "1,7."
+        },
+        {
+          "id": "63766577-9b69-4899-98d6-bfdc8564b3bd",
+          "text": "698."
+        }
+      ]
+    },
+    {
+      "id": "27643f94-8dad-4b15-a4d2-c8ccef3e0ddc",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Se estima que la población de Uruguay es de aproximadamente 3.5 millones de habitantes. Se considera que la pandemia de COVID-19 en Uruguay comenzó el 13 de marzo de 2020. De acuerdo a las cifras publicadas por el Ministerio de Salud Pública, el día 13 del mes 3 de 2021, se diagnosticaron 1062 nuevos casos, y murieron 9 personas por la enfermedad. De esta forma, al 13/3/2021 se contabilizaban 9896 casos activos, la cantidad de casos que se habían diagnosticado en el país era de 70133 y la cantidad de muertos desde el comienzo de la pandemia era 698. ¿Cuál es la tasa de incidencia cada 100.000 habitantes-mes desde el comienzo de la pandemia?",
+      "options": [
+        {
+          "id": "45d124ad-2214-4b88-82f9-827c713321cd",
+          "text": "167.",
+          "correct": true
+        },
+        {
+          "id": "2cb312fa-61e0-4ced-b0a9-3cfa320de26d",
+          "text": "10."
+        },
+        {
+          "id": "768716e5-3328-472f-9722-acc5df131f7a",
+          "text": "2004."
+        },
+        {
+          "id": "790e6b5c-d289-48b3-8742-c7d30083fc10",
+          "text": "70133."
+        }
+      ]
+    },
+    {
+      "id": "14282b54-393b-4f7c-8fe1-958e3286c49e",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Se está planificando un estudio acerca de la afección oftalmológica conocida como \"cataratas\". El mismo tendrá una duración de 5 años y abarcará a una población de 2000 personas de 60 años o más. Sabemos por los datos del censo que el 40% de esta población tiene 60 años o más pero menos de 70, el 30% tiene 70 años o más pero menos de 80 y el resto tiene 80 años o más. También sabemos que el 5%, 10% y 15% de las personas en estos grupos de edad respectivos desarrollarán cataratas durante los próximos 5 años. ¿Cuál es la probabilidad de que un individuo tomado al azar en la población en estudio tenga menos de 80 años?",
+      "options": [
+        {
+          "id": "f7d68c5d-cffd-4b3b-8f05-71325f4e1fa0",
+          "text": "0,70.",
+          "correct": true
+        },
+        {
+          "id": "9c50694e-afe3-4eb4-bcc9-84e8c1f51101",
+          "text": "0,12."
+        },
+        {
+          "id": "963d5af2-23b0-4620-a609-e5febdc0dd63",
+          "text": "0,30."
+        },
+        {
+          "id": "d163e1f2-a9f6-434e-8b49-94a69368139c",
+          "text": "0,85."
+        }
+      ]
+    },
+    {
+      "id": "137abf86-a443-4761-938e-6e2316cbff08",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Se está planificando un estudio acerca de la afección oftalmológica conocida como \"cataratas\". El mismo tendrá una duración de 5 años y abarcará a una población de 2000 personas de 60 años o más. Sabemos por los datos del censo que el 40% de esta población tiene 60 años o más pero menos de 70, el 30% tiene 70 años o más pero menos de 80 y el resto tiene 80 años o más. También sabemos que el 5%, 10% y 15% de las personas en estos grupos de edad respectivos desarrollarán cataratas durante los próximos 5 años. ¿Qué porcentaje de la población en estudio desarrollará cataratas durante los próximos 5 años?",
+      "options": [
+        {
+          "id": "ad945bfe-cef9-4340-aad1-5580f656a2d0",
+          "text": "9,5.",
+          "correct": true
+        },
+        {
+          "id": "8636aa1c-0893-42bf-a4e4-2032e5444cb3",
+          "text": "10,0."
+        },
+        {
+          "id": "7459eb32-8d89-4d1a-b4d7-cb27d0a48fa4",
+          "text": "5,0."
+        },
+        {
+          "id": "93da47a9-0bd0-49b7-a3d3-16ba5df7ac02",
+          "text": "7,5."
+        }
+      ]
+    },
+    {
+      "id": "cd06ecac-029e-412f-b932-afcf476bd4d4",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Un grupo de investigadores sospechaba que el grado de desmineralización ósea que sucede normalmente con la edad es distinto en fumadoras y no fumadoras. Para contrastar esta hipótesis diseñaron un estudio en el que seleccionaron 600 mujeres de 50 a 60 años pertenecientes a dos grupos: un grupo de 200 mujeres con densidad ósea disminuida (osteopenia) y el otro con densidad ósea normal para la edad. Se les aplicó un cuestionario en el que se indagaba el consumo de tabaco, lo que permitió catalogar a las mujeres como fumadoras o no fumadoras. El 40% de las mujeres con osteopenia eran fumadoras, y el 15% de las mujeres sin osteopenia lo eran. Según la participación del investigador, este estudio puede clasificarse como:",
+      "options": [
+        {
+          "id": "e39e7df1-a1bd-4697-b5fc-2903950a2b4c",
+          "text": "Observacional.",
+          "correct": true
+        },
+        {
+          "id": "33ce5edb-bcb9-4848-ba75-0bc22febbc57",
+          "text": "Analítico."
+        },
+        {
+          "id": "9d1afb66-6097-4611-aba6-88330bfd057c",
+          "text": "Descriptivo."
+        },
+        {
+          "id": "2aab06d5-e8f3-4ad4-a352-408698596a5e",
+          "text": "Experimental."
+        }
+      ]
+    },
+    {
+      "id": "94047e1f-42d1-4c0d-8afd-eb48d98eecc4",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Un grupo de investigadores sospechaba que el grado de desmineralización ósea que sucede normalmente con la edad es distinto en fumadoras y no fumadoras. Para contrastar esta hipótesis diseñaron un estudio en el que seleccionaron 600 mujeres de 50 a 60 años pertenecientes a dos grupos: un grupo de 200 mujeres con densidad ósea disminuida (osteopenia) y el otro con densidad ósea normal para la edad. Se les aplicó un cuestionario en el que se indagaba el consumo de tabaco, lo que permitió catalogar a las mujeres como fumadoras o no fumadoras. El 40% de las mujeres con osteopenia eran fumadoras, y el 15% de las mujeres sin osteopenia lo eran. Si el odds ratio fuera 3,78, se podría concluír que fumar es un factor...",
+      "options": [
+        {
+          "id": "9190654c-89a4-494f-8211-a17d24d79fdc",
+          "text": "De riesgo para la osteopenia.",
+          "correct": true
+        },
+        {
+          "id": "cec33e10-7e5b-43e3-a1d6-319a54c0e2a1",
+          "text": "Protector para la osteopenia."
+        },
+        {
+          "id": "9efb241f-40e8-4d91-a88d-73986194b0f4",
+          "text": "Que no influye sobre la densidad mineral ósea."
+        }
+      ]
+    },
+    {
+      "id": "e6801c64-62aa-4d97-ab00-5a3a734bc21b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Un grupo de investigadores sospechaba que el grado de desmineralización ósea que sucede normalmente con la edad es distinto en fumadoras y no fumadoras. Para contrastar esta hipótesis diseñaron un estudio en el que seleccionaron 600 mujeres de 50 a 60 años pertenecientes a dos grupos: un grupo de 200 mujeres con densidad ósea disminuida (osteopenia) y el otro con densidad ósea normal para la edad. Se les aplicó un cuestionario en el que se indagaba el consumo de tabaco, lo que permitió catalogar a las mujeres como fumadoras o no fumadoras. El 40% de las mujeres con osteopenia eran fumadoras, y el 15% de las mujeres sin osteopenia lo eran. ¿Cuál es el valor de la medida de riesgo relativo adecuada para este estudio, si se quiere evaluar el riesgo de osteopenia en fumadoras?",
+      "options": [
+        {
+          "id": "6aadc4b1-ed22-4dda-94c9-4ac8a3674a5a",
+          "text": "3,78.",
+          "correct": true
+        },
+        {
+          "id": "b5219b78-bc0f-489b-88e6-b8ecb36ee67d",
+          "text": "0,25."
+        },
+        {
+          "id": "71ed5ab0-9993-40d6-8937-e82001a05298",
+          "text": "0,26."
+        },
+        {
+          "id": "13636f5d-5e0e-4317-b0cc-054b26ef5baa",
+          "text": "1.00."
+        },
+        {
+          "id": "80808cc7-114a-43cc-9177-4a71583f9c20",
+          "text": "2,67."
+        }
+      ]
+    },
+    {
+      "id": "5ebac8bb-0dc8-4cbf-ac50-2a81772228cd",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Un grupo de investigadores sospechaba que el grado de desmineralización ósea que sucede normalmente con la edad es distinto en fumadoras y no fumadoras. Para contrastar esta hipótesis diseñaron un estudio en el que seleccionaron 600 mujeres de 50 a 60 años pertenecientes a dos grupos: un grupo de 200 mujeres con densidad ósea disminuida (osteopenia) y el otro con densidad ósea normal para la edad. Se les aplicó un cuestionario en el que se indagaba el consumo de tabaco, lo que permitió catalogar a las mujeres como fumadoras o no fumadoras. El 40% de las mujeres con osteopenia eran fumadoras, y el 15% de las mujeres sin osteopenia lo eran. ¿Cuál es la medida de riesgo relativo adecuada para este tipo de estudio?",
+      "options": [
+        {
+          "id": "a0128173-e200-421a-8664-4af14397e437",
+          "text": "Odds ratio.",
+          "correct": true
+        },
+        {
+          "id": "6aba1fc4-ce17-4bae-b576-a4b3f9ed5e42",
+          "text": "Razón de prevalencias."
+        },
+        {
+          "id": "8d410f90-61b4-4c68-810d-2fb798687f56",
+          "text": "Riesgo absoluto."
+        },
+        {
+          "id": "244490b4-d288-482f-954e-a66048b53b42",
+          "text": "Riesgo relativo."
+        }
+      ]
+    },
+    {
+      "id": "bf790e5d-9060-41ed-b663-7fb5d84f55c9",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Un grupo de investigadores sospechaba que el grado de desmineralización ósea que sucede normalmente con la edad es distinto en fumadoras y no fumadoras. Para contrastar esta hipótesis diseñaron un estudio en el que seleccionaron 600 mujeres de 50 a 60 años pertenecientes a dos grupos: un grupo de 200 mujeres con densidad ósea disminuida (osteopenia) y el otro con densidad ósea normal para la edad. Se les aplicó un cuestionario en el que se indagaba el consumo de tabaco, lo que permitió catalogar a las mujeres como fumadoras o no fumadoras. El 40% de las mujeres con osteopenia eran fumadoras, y el 15% de las mujeres sin osteopenia lo eran. ¿Cuál es la probabilidad de que una mujer fumadora tenga osteopenia?",
+      "options": [
+        {
+          "id": "435115fe-8a3c-411d-8699-b4553614493c",
+          "text": "0,571.",
+          "correct": true
+        },
+        {
+          "id": "af5857b1-589f-4b65-832b-b526e5b98209",
+          "text": "0,133."
+        },
+        {
+          "id": "d307b567-474c-42a2-9a90-ae20c3c07b26",
+          "text": "0,233."
+        },
+        {
+          "id": "ed11d129-3095-460d-b8dd-64050a522c88",
+          "text": "0,333."
+        },
+        {
+          "id": "db654c04-ea99-4ef0-a3d3-3f404ea36c61",
+          "text": "0,400."
+        }
+      ]
+    },
+    {
+      "id": "ae02860d-aa80-486e-a84b-5b228f4a6669",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Un grupo de investigadores sospechaba que el grado de desmineralización ósea que sucede normalmente con la edad es distinto en fumadoras y no fumadoras. Para contrastar esta hipótesis diseñaron un estudio en el que seleccionaron 600 mujeres de 50 a 60 años pertenecientes a dos grupos: un grupo de 200 mujeres con densidad ósea disminuida (osteopenia) y el otro con densidad ósea normal para la edad. Se les aplicó un cuestionario en el que se indagaba el consumo de tabaco, lo que permitió catalogar a las mujeres como fumadoras o no fumadoras. El 40% de las mujeres con osteopenia eran fumadoras, y el 15% de las mujeres sin osteopenia lo eran. ¿Cuál es la proporción de fumadoras en la totalidad de las mujeres que participaron del estudio?",
+      "options": [
+        {
+          "id": "b41fe95b-fe45-44b6-8c60-7e8b2c92247a",
+          "text": "0,233.",
+          "correct": true
+        },
+        {
+          "id": "8a5b53c3-60c4-44ba-9962-3ece035bd071",
+          "text": "0,333."
+        },
+        {
+          "id": "26403969-630d-45a1-b156-a9c462608cac",
+          "text": "0,400."
+        },
+        {
+          "id": "2049b52c-bcce-42d0-87a6-5fa330108cd1",
+          "text": "0,571."
+        }
+      ]
+    },
+    {
+      "id": "4cbbdf1a-fa9e-468d-ac6d-a666b4578d61",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Un grupo de investigadores sospechaba que el grado de desmineralización ósea que sucede normalmente con la edad es distinto en fumadoras y no fumadoras. Para contrastar esta hipótesis diseñaron un estudio en el que seleccionaron 600 mujeres de 50 a 60 años pertenecientes a dos grupos: un grupo de 200 mujeres con densidad ósea disminuida (osteopenia) y el otro con densidad ósea normal para la edad. Se les aplicó un cuestionario en el que se indagaba el consumo de tabaco, lo que permitió catalogar a las mujeres como fumadoras o no fumadoras. El 40% de las mujeres con osteopenia eran fumadoras, y el 15% de las mujeres sin osteopenia lo eran. ¿Qué nombre recibe este tipo de estudio?",
+      "options": [
+        {
+          "id": "cb2ff49c-9872-4fd2-87fb-3572b57a29ac",
+          "text": "Estudio de caso control.",
+          "correct": true
+        },
+        {
+          "id": "3c592eb3-2174-43c0-8866-fe7d5343d532",
+          "text": "Ensayo clínico aleatorizado."
+        },
+        {
+          "id": "01f0fa44-7a7d-452c-9936-44b14240addd",
+          "text": "Estudio de cohortes."
+        },
+        {
+          "id": "acc1c916-9931-4805-86de-54971c61819a",
+          "text": "Estudio de prevalencia."
+        }
+      ]
     }
   ],
   "evaluations": [
     {
       "key": "parcial_1",
       "name": "1° parcial"
+    },
+    {
+      "key": "parcial_2",
+      "name": "2° parcial"
     }
   ]
 }
