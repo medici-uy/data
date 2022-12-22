@@ -1,0 +1,718 @@
+{
+  "name": "Salud Pública y Humanidades",
+  "short_name": "Salud Pública",
+  "aliases": [
+    "publica",
+    "humanidades",
+    "bioetica",
+    "etica"
+  ],
+  "image": "spyh.avif",
+  "year": 1,
+  "order": 2,
+  "questions": [
+    {
+      "id": "92b9529f-f5ea-4f28-b351-278dc0e27885",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "A continuación, se presenta una pirámide de población. Esta es la representación gráfica de la distribución por edad y sexo de la población. ¿A qué tipo de pirámide poblacional corresponde la gráfica presentada?",
+      "image": "92b9529f-f5ea-4f28-b351-278dc0e27885.avif",
+      "options": [
+        {
+          "id": "79f16557-80f6-4f22-8d44-7bb6d829cb36",
+          "text": "Bulbo.",
+          "correct": true
+        },
+        {
+          "id": "c6575d0e-c166-4a91-b558-9327fd1133c2",
+          "text": "Campana."
+        },
+        {
+          "id": "fb35bfb5-f3cd-48c3-a940-45e2fa22b7b6",
+          "text": "Otra."
+        },
+        {
+          "id": "61b3bdf6-5238-4582-991e-77799461f835",
+          "text": "Pagoda."
+        }
+      ]
+    },
+    {
+      "id": "18e30941-164f-4f44-8749-8de2e18dd6b7",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Considerar a los determinantes sociales de la salud implica tomar en cuenta:",
+      "options": [
+        {
+          "id": "12e8ac87-ed6b-4f9f-8455-515b86a74562",
+          "text": "Que los estilos de vida de las personas y las condiciones en las que viven y trabajan influyen fuertemente en su salud y longevidad.",
+          "correct": true
+        },
+        {
+          "id": "4296188b-2183-4554-b8f1-a34d6c0cd970",
+          "text": "La estacionalidad de algunas enfermedades infecciosas, como por ejemplo la gripe."
+        },
+        {
+          "id": "c007ce8d-a253-48c6-b3b0-b837d563b9ff",
+          "text": "Que la edad y el sexo son atributos importantes en la definición del perfil epidemiológico de una población."
+        }
+      ]
+    },
+    {
+      "id": "8c1de653-4a17-48af-84f9-fc977ba18f9f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Cuando se realiza un ASIS en una población de pequeño tamaño, los indicadores utilizados deben asociarse a:",
+      "options": [
+        {
+          "id": "3a7a95fc-a35f-48b8-9700-96b8c730ad10",
+          "text": "Los números absolutos.",
+          "correct": true
+        },
+        {
+          "id": "5791e688-af11-488d-a14e-0c00b31e070e",
+          "text": "Las proporciones."
+        },
+        {
+          "id": "9c9cc477-8c3f-4516-ad56-4c79b1df613b",
+          "text": "Las tasas."
+        }
+      ]
+    },
+    {
+      "id": "82558043-1daa-4edd-b5a6-20dacbb2f80e",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Durante la relación clínica interacciona el equipo de salud, el paciente y la sociedad. ¿Qué principio ético toma jerarquía desde el punto de vista del paciente?",
+      "options": [
+        {
+          "id": "e96d4b81-ecf9-4e62-a711-7b78c3531d76",
+          "text": "Autonomía.",
+          "correct": true
+        },
+        {
+          "id": "2d931601-28ba-4369-afe6-1e446a39f4d6",
+          "text": "Beneficencia."
+        },
+        {
+          "id": "203e263a-b1ce-4692-9279-f70c51c17810",
+          "text": "Justicia."
+        }
+      ]
+    },
+    {
+      "id": "c95e0a1d-0767-41a0-a82e-13261522e460",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "El método de las necesidades básicas permite medir la pobreza clasificando a la población en función de:",
+      "options": [
+        {
+          "id": "16ad1282-f4d3-4160-af20-db882d222b97",
+          "text": "El acceso a salud, educación, vivienda, agua potable, energía eléctrica y otras necesidades consideradas básicas.",
+          "correct": true
+        },
+        {
+          "id": "7bd4f483-d842-470d-a601-af1272ae9120",
+          "text": "El acceso a los servicios del Sistema Nacional Integrado de Salud."
+        },
+        {
+          "id": "9a09db6e-0023-47d0-8f5a-38016a8a23b4",
+          "text": "La percepción de las personas sobre cuáles son sus necesidades insatisfechas en relación a el nivel de vida predominante."
+        }
+      ]
+    },
+    {
+      "id": "ac07ae17-e4ea-4a00-b67f-15c1393b9674",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "El proceso de medicalización de la sociedad refiere:",
+      "options": [
+        {
+          "id": "d0b242c0-03dd-40d5-bb59-90d0f549250c",
+          "text": "A la intervención creciente de la medicina en la vida privada y cotidiana de las personas.",
+          "correct": true
+        },
+        {
+          "id": "ff5187d4-5a55-4308-8efe-7b6cf7fe6ed2",
+          "text": "A la consolidación de un modelo asistencial tecnologizado y hospitalocéntrico."
+        },
+        {
+          "id": "3e0ddcb7-7926-43b4-ae10-7f6a6c50a37c",
+          "text": "A la creciente diversificación de las especialidades médicas en las sociedades actuales."
+        }
+      ]
+    },
+    {
+      "id": "8bede43a-9ce5-4f29-a6ca-f9b545a8385c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "El rol que cumple el médico según Ezequiel Emanuel en una relación médico - paciente según el modelo informativo es de:",
+      "options": [
+        {
+          "id": "00a1d244-c102-4816-b4ae-ef5653219c44",
+          "text": "Técnico.",
+          "correct": true
+        },
+        {
+          "id": "0e84df18-1136-4aa1-8d13-f1a526990146",
+          "text": "Consejero."
+        },
+        {
+          "id": "d2e7a09f-c2c9-45b5-8dab-ec442b9ce3a8",
+          "text": "Tutor."
+        }
+      ]
+    },
+    {
+      "id": "f4009fb7-1ed9-4faf-b8fe-e46906f491eb",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "En cuanto a la relación clínica, el modelo que más se adecua a las situaciones de emergencia es el:",
+      "options": [
+        {
+          "id": "71a736df-84e9-4dea-b59e-0d10ad46ab29",
+          "text": "Paternalista.",
+          "correct": true
+        },
+        {
+          "id": "9b48e49f-65d1-495f-80fe-7eb2bfc0a5e7",
+          "text": "Deliberativo."
+        },
+        {
+          "id": "c792d5dc-a8fe-43bc-be98-0446d6ba3777",
+          "text": "Informativo."
+        }
+      ]
+    },
+    {
+      "id": "557576e9-5b96-497b-9c69-36694ac5199d",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "En cuanto a la valoración de las investigaciones epidemiológicas:",
+      "options": [
+        {
+          "id": "20f2867b-b817-4889-b0fe-95bf8b89c78b",
+          "text": "Siempre se debe valorar su difusión por los riesgos morales que pueden surgir.",
+          "correct": true
+        },
+        {
+          "id": "c4e8a4cd-3a92-439f-ab3c-f006ca9c13fb",
+          "text": "Si los resultados están anonimizados no hay riesgos para la población, por lo que se pueden difundir sin valoración previa."
+        },
+        {
+          "id": "a929055a-fa6b-4fea-8f5b-906f03c9e75e",
+          "text": "Si son estudios que utilizan historia clínicas no necesitan aprobación de un comité de ética en investigación."
+        }
+      ]
+    },
+    {
+      "id": "678d67d7-efcd-4658-b3e4-c4549b5585a9",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "En los modelos de relación clínica de E. Emanuel, los valores del paciente en el modelo informativo se consideran:",
+      "options": [
+        {
+          "id": "ae849ce6-6f73-4385-aed7-4ff6f6e18af1",
+          "text": "Definidos y conocidos por el paciente.",
+          "correct": true
+        },
+        {
+          "id": "39526afb-5e25-40e5-97eb-5321898a6c40",
+          "text": "Conflictivos y poco definidos por el paciente."
+        },
+        {
+          "id": "94108d78-3599-47ea-831b-0e4510119367",
+          "text": "Objetivos y compartidos por el médico y el paciente."
+        }
+      ]
+    },
+    {
+      "id": "83042f0d-0898-4366-9d61-c4d0ff14de9e",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "En los siniestros de transito es correcto afirmar que:",
+      "options": [
+        {
+          "id": "b3e97f84-99ed-48fa-8b49-010e15532606",
+          "text": "La carga de las lesiones producidas en el tránsito afectan desproporcionadamente a los pobres.",
+          "correct": true
+        },
+        {
+          "id": "4ccbdb58-24fd-4abf-9be3-65f4bdab2061",
+          "text": "La carga de las lesiones producidas en el tránsito afectan principalmente a los adultos mayores."
+        },
+        {
+          "id": "ee75a3fe-56c4-499d-8374-415b22aa4ae8",
+          "text": "Los fallecidos aumentan proporcionalmente al nivel de ingresos que tienen un país."
+        },
+        {
+          "id": "ae0069f7-76b5-4555-ab43-6a6167cead8f",
+          "text": "Los traumatismos por siniestros de tránsito en las últimas décadas no han presentado cambios en relación a la carga mundial de morbilidad."
+        }
+      ]
+    },
+    {
+      "id": "4691728c-dcdb-456f-b538-25aeee43f64f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "En una población para asegurarse el reemplazo generacional el Índice Sintético de Fecundidad debe ser mayor de:",
+      "options": [
+        {
+          "id": "8f34b316-7a01-4885-b4f8-57bdf9017b04",
+          "text": "2.1.",
+          "correct": true
+        },
+        {
+          "id": "6e713734-53e1-4c39-a1fa-2d5ba3f25d4e",
+          "text": "1.5."
+        },
+        {
+          "id": "ce728be4-b975-409e-bcbd-86c2d1d9d8af",
+          "text": "1.8."
+        }
+      ]
+    },
+    {
+      "id": "6f6c64e5-1e37-43cc-9ac1-3d6d94799ff9",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Entre los valores de la atención primaria de salud se encuentran la:",
+      "options": [
+        {
+          "id": "1ce61aab-e071-4d4f-ba80-28fd83650d4b",
+          "text": "Derecho a la salud, solidaridad y equidad.",
+          "correct": true
+        },
+        {
+          "id": "fcaf0087-f2d9-4aa9-bb76-eab44d3e5e28",
+          "text": "Derecho a la salud, sostenibilidad y justicia social."
+        },
+        {
+          "id": "2c572358-e7fc-4591-aff2-342478c9a3c4",
+          "text": "Equidad, sostenibilidad y solidaridad."
+        }
+      ]
+    },
+    {
+      "id": "84873e34-7d8e-4978-89db-6f26bfd0f9ad",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Las poblaciones de los países en vías de desarrollo que presentan una pirámide poblacional tipo pagoda se caracterizan por presentar:",
+      "options": [
+        {
+          "id": "26c687c9-10ed-4e3a-b28e-6dd5b8860209",
+          "text": "Alta tasa de natalidad y alta tasa de mortalidad.",
+          "correct": true
+        },
+        {
+          "id": "d6860afd-a717-4d18-aa95-65ffabfe0888",
+          "text": "Alta tasa de natalidad y baja tasa de mortalidad."
+        },
+        {
+          "id": "df4fe9c1-be4b-4285-8f59-517f5d991fdf",
+          "text": "Baja tasa de natalidad y baja tasa de mortalidad."
+        }
+      ]
+    },
+    {
+      "id": "57a8d0f7-3ced-421f-be37-b87c6dd4eca7",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Los DDHH aportan al desarrollo de políticas públicas debido a que:",
+      "options": [
+        {
+          "id": "714005b8-17ad-43f1-81d4-461a01fb9958",
+          "text": "Son un marco normativo internacional al cual los estados deben responder.",
+          "correct": true
+        },
+        {
+          "id": "8c6a3978-d291-4397-9d4d-6d3813fb9c6e",
+          "text": "Marcan límites claros del alcance del derecho a la salud."
+        },
+        {
+          "id": "b97dbd72-800e-4f5a-b3e1-bed53096217e",
+          "text": "Son un estándar ideal y poco posible, cada estado se normatizará según sus valores."
+        }
+      ]
+    },
+    {
+      "id": "5e37efd2-b73d-4ac4-b3aa-6509023e70cd",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Los derechos humanos se caracterizan por ser:",
+      "options": [
+        {
+          "id": "4c33fabd-4f0a-484c-8b17-592d03f108c3",
+          "text": "Indivisibles.",
+          "correct": true
+        },
+        {
+          "id": "09cbda74-9874-4b97-aeed-cfe8c3a543c6",
+          "text": "Jerarquizables."
+        },
+        {
+          "id": "34df359e-2a10-4d78-bd8d-5428c58cc556",
+          "text": "Relativos."
+        }
+      ]
+    },
+    {
+      "id": "f4d64c0b-5ad5-44dc-be29-62ac80d57cff",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Los principales problemas de salud a que se enfrentan las personas mayores son las enfermedades no transmisibles. Los efectos de esas enfermedades en la población de edad avanzada son dos o tres veces mayores en los países de ingresos:",
+      "options": [
+        {
+          "id": "feb29877-197b-468c-8958-731422236952",
+          "text": "Altos.",
+          "correct": true
+        },
+        {
+          "id": "bafd82ce-e468-43bb-a229-563f5d714499",
+          "text": "Bajos y medianos."
+        },
+        {
+          "id": "bacc9ccf-6377-460a-ae80-8f4232010ec4",
+          "text": "Es independiente de los ingresos."
+        }
+      ]
+    },
+    {
+      "id": "55793160-7d43-45ee-be6c-5b18cc8d8ca7",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Los principios que entran en conflicto con más frecuencia en la investigación epidemiológica son:",
+      "options": [
+        {
+          "id": "64208e5c-417b-4bf8-ae88-913596ad09a1",
+          "text": "Autonomía y justicia.",
+          "correct": true
+        },
+        {
+          "id": "e3ddb5f5-6289-4a4a-8b6a-5646a9162046",
+          "text": "Beneficencia y autonomía."
+        },
+        {
+          "id": "a01975e2-f7b9-4d33-a476-ef9ec0924ef0",
+          "text": "Justicia y no maleficencia."
+        }
+      ]
+    },
+    {
+      "id": "0b652626-4c66-4c7e-b702-040b58986b03",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Los riesgos más frecuentes en las investigaciones epidemiológicas son de tipo:",
+      "options": [
+        {
+          "id": "96b4d339-b771-494c-860d-7c6d89e4587a",
+          "text": "Morales.",
+          "correct": true
+        },
+        {
+          "id": "6bf5bc5e-c89d-4a14-b0a4-740f3a988957",
+          "text": "Económicos."
+        },
+        {
+          "id": "308dad6a-67c5-48f0-8b10-50755428c8e4",
+          "text": "Físicos."
+        }
+      ]
+    },
+    {
+      "id": "85b0712e-2e99-4ab7-b106-a85dec540d30",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Los sistemas de salud basados en la APS hacen énfasis en la:",
+      "options": [
+        {
+          "id": "854e8f2b-6e97-40d7-abc6-a41faf83c8c7",
+          "text": "Cobertura universal y satisfacción del usuario.",
+          "correct": true
+        },
+        {
+          "id": "99e3decf-a791-4f37-b92d-b7b0cd57d293",
+          "text": "Atención integral pero no integrada."
+        },
+        {
+          "id": "1665cb7d-6e6e-44d1-a606-69840414bf79",
+          "text": "Tecnología de última generación."
+        }
+      ]
+    },
+    {
+      "id": "1bc77e62-c9c8-4bda-b700-1c9f5e9cee67",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Respecto a la cadena epidemiológica: ¿qué eslabón se sitúa entre el agente y la puerta de salida?",
+      "options": [
+        {
+          "id": "4ad7ef32-ce16-4ebb-8886-ed2ac0b0d817",
+          "text": "Fuente de infección.",
+          "correct": true
+        },
+        {
+          "id": "ba933571-b3da-4059-a027-47d183f54540",
+          "text": "Huésped."
+        },
+        {
+          "id": "73c22ab2-211d-4c80-827b-f5a63439b250",
+          "text": "Mecanismo de transmisión."
+        },
+        {
+          "id": "ff1b056c-958b-404a-aa30-fb4c31415d73",
+          "text": "Puerta de entrada."
+        }
+      ]
+    },
+    {
+      "id": "ca720c48-22c0-4637-b875-500be9aec612",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Respecto a los componentes del ASIS, las redes de comunicación se incluyen dentro de los factores:",
+      "options": [
+        {
+          "id": "5dbe468b-bf9b-4f36-a32e-4e87b359b1b9",
+          "text": "Estructurales.",
+          "correct": true
+        },
+        {
+          "id": "77576ece-e82c-4cda-887c-b3cf2fe43033",
+          "text": "Ambientales."
+        },
+        {
+          "id": "cdf926c2-5f91-426b-8c06-cce41ee7a058",
+          "text": "Demo-epidemiológicos."
+        }
+      ]
+    },
+    {
+      "id": "621aa618-9075-4708-927a-b1bb72ab9873",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Una actividad en el medio tiene como objetivo:",
+      "options": [
+        {
+          "id": "85c2b9ee-7f10-4ef7-a65f-e5e6d57acd64",
+          "text": "Dar respuesta a demandas puntuales de la comunidad.",
+          "correct": true
+        },
+        {
+          "id": "6d1e2c42-8b8f-42f1-a3b7-a52de20bcf0f",
+          "text": "Resolver problemas sociales."
+        },
+        {
+          "id": "b6ebdbc9-65d6-41e7-b4ca-1ec8cb7928b7",
+          "text": "Ser un proceso educativo transformador."
+        }
+      ]
+    },
+    {
+      "id": "58046b80-51ff-4300-8679-21763b7ddf13",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "¿Cuál es el método oficial de medición de pobreza de nuestro país proporcionado por el Instituto Nacional de Estadística?",
+      "options": [
+        {
+          "id": "8cc9f70c-4f18-42c9-baa7-a1c0151697f1",
+          "text": "El que compara los ingresos de las personas y los hogares con los valores de una canasta básica de alimentos y otros servicios considerados esenciales.",
+          "correct": true
+        },
+        {
+          "id": "fd3c8dc4-8a6c-4df1-8806-36fcd3f8f5fc",
+          "text": "El que consulta a las personas si se consideran o no pobres en función del nivel de confort y bienestar que entienden deberían tener en comparación con el resto de la sociedad (pobreza subjetiva)."
+        },
+        {
+          "id": "b4714bd3-1a9f-4768-8e3e-55cd2001b949",
+          "text": "El que define las necesidades básicas (en vivienda, educación, salud, acceso a servicios esenciales) y clasifica a los hogares en función de las mismas."
+        }
+      ]
+    },
+    {
+      "id": "e8844da1-3992-40f0-a3fd-5d659c83b049",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "¿Cuáles son las enfermedades crónicas no transmisibles que producen mayor mortalidad en nuestro país?",
+      "options": [
+        {
+          "id": "ffba4806-822b-45b4-b5df-305f1327af3a",
+          "text": "Las enfermedades cardiovasculares.",
+          "correct": true
+        },
+        {
+          "id": "e4f7fcc7-ef94-440e-9638-8e1b50b9756c",
+          "text": "Las enfermedades crónicas de las vías respiratorias."
+        },
+        {
+          "id": "3d8790e5-ce87-4a1c-b530-3019cf9994e6",
+          "text": "Las enfermedades endócrinas y metabólicas."
+        },
+        {
+          "id": "d61b803b-d8eb-440d-b12d-19e3c513ee82",
+          "text": "Los tumores malignos."
+        }
+      ]
+    },
+    {
+      "id": "8892f8a3-b482-41ec-ac0d-da975268a0a7",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "¿Cuáles son los factores que causan más siniestros de tránsito en el Uruguay?",
+      "options": [
+        {
+          "id": "00ac7bb3-de7d-45b9-bf65-a89570ca6c62",
+          "text": "Factores humanos, por ejemplo, la imprudencia.",
+          "correct": true
+        },
+        {
+          "id": "77cac1d4-7b52-4d8a-8da7-6dff4fc0887f",
+          "text": "Factores dependientes del vehículo."
+        },
+        {
+          "id": "ceef2e14-e037-43ca-83c4-4ae2a1155fb9",
+          "text": "Factores vinculados a falta de regulación y control."
+        },
+        {
+          "id": "372e47d1-da91-4c09-8182-dc146ded5e7e",
+          "text": "Factores vinculados a un entorno ambiental adverso."
+        }
+      ]
+    },
+    {
+      "id": "5a55d0a0-0836-4745-be20-dcbaa5a9187b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "¿Por qué motivo las enfermedades transmisibles continúan siendo un problema de salud pública en Uruguay?",
+      "options": [
+        {
+          "id": "9fab803e-e174-468d-b02f-919c6685f48f",
+          "text": "Por presentar alta morbilidad e impacto socioeconómico.",
+          "correct": true
+        },
+        {
+          "id": "87509e81-85bb-4de1-800d-d995b0e1c85a",
+          "text": "Por carecer de medidas preventivas eficaces y aplicables."
+        },
+        {
+          "id": "fc3044dc-e526-45b4-b771-35938bc95ea8",
+          "text": "Por la imposibilidad de controlarlas, eliminarlas o erradicarlas."
+        },
+        {
+          "id": "60c5b724-7e23-416d-a5aa-95aa3dead25d",
+          "text": "Por tener alta mortalidad en todas las etapas de la vida."
+        }
+      ]
+    },
+    {
+      "id": "24edb50a-7f6a-48e2-aed1-da0a0cac0016",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "¿Qué nivel de desarrollo socioeconómico es esperable en una población que posee una pirámide tipo bulbo?",
+      "options": [
+        {
+          "id": "90c289d2-2293-4fda-b6d8-5eb88f9fbed7",
+          "text": "Alto.",
+          "correct": true
+        },
+        {
+          "id": "a29e48bc-bec5-44b3-91e9-6480d3853aff",
+          "text": "Bajo."
+        },
+        {
+          "id": "b9ae48ae-84db-44b4-8115-f4c9d2d9c388",
+          "text": "Medio."
+        },
+        {
+          "id": "8ae2fb70-8b16-49ff-8c94-a23fc9793705",
+          "text": "Muy bajo."
+        }
+      ]
+    },
+    {
+      "id": "60284d69-0c7c-41c6-9b61-f34c592aedef",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "¿Qué tipo de enfermedad transmisible es la pediculosis?",
+      "options": [
+        {
+          "id": "4c0b0f5a-bc11-4521-8c69-4051eb91a9f5",
+          "text": "Infestación.",
+          "correct": true
+        },
+        {
+          "id": "31e58c5d-fb1a-4f7f-88c4-f94782904c89",
+          "text": "Colonización."
+        },
+        {
+          "id": "511bd655-e2d7-4893-9313-f3ac3c2347a1",
+          "text": "Infección."
+        },
+        {
+          "id": "7a9df1a2-5e7d-4801-844e-0032681fc9d4",
+          "text": "Otra."
+        }
+      ]
+    },
+    {
+      "id": "1cba3455-de46-4813-9245-317b74a6cddf",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "¿Qué vehículo es el más frecuente en los siniestros de tránsito con lesionados en el Uruguay?",
+      "options": [
+        {
+          "id": "11af9631-d18c-4265-9823-38e0c7ed1360",
+          "text": "Moto.",
+          "correct": true
+        },
+        {
+          "id": "5e92fe08-62e6-4125-a7fd-dfe32e04af5f",
+          "text": "Auto."
+        },
+        {
+          "id": "b58d59ea-cc41-4b74-8107-d3d89b67289a",
+          "text": "Bicicleta."
+        },
+        {
+          "id": "0279ced7-a59b-4901-bcce-79f3df8011d8",
+          "text": "Ómnibus."
+        }
+      ]
+    }
+  ],
+  "evaluations": [
+    {
+      "key": "parcial_2",
+      "name": "2° parcial"
+    }
+  ]
+}
