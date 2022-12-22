@@ -2713,6 +2713,673 @@
       ]
     },
     {
+      "id": "99b5a61d-fcaa-4be7-aa96-c5504a2d52e0",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "En términos generales, si la exposición a un determinado factor no afectase la probabilidad de desarrollar una determinada enfermedad, el resultado de la medida relativa de estimación del riesgo sería:",
+      "options": [
+        {
+          "id": "e68518c7-b499-4452-9168-2ec56010aa7f",
+          "text": "Igual a 1.",
+          "correct": true
+        },
+        {
+          "id": "8d9ff5d4-3ef0-4bd0-8af6-97237c81ad6b",
+          "text": "Mayor a 1."
+        },
+        {
+          "id": "275eb42f-b728-4dac-b3e4-70bee99ae70d",
+          "text": "Menor a 1."
+        }
+      ]
+    },
+    {
+      "id": "6e39c097-74a7-4153-845a-a37e523ab73d",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Hace unos años atrás, un grupo de investigadores se propuso analizar la eventual asociación entre la presencia de niveles elevados de colesterol en sangre (hipercolesterolemia) y el desarrollo de cardiopatía isquémica (CI). Para ello, se realizó un estudio incluyendo 250 individuos con CI confirmada y 250 pacientes sin antecedentes de la misma. En ambos grupos de individuos se investigó el antecedente de haber presentado hipercolesterolemia en algún momento de su historia clínica. Los datos extraídos del estudio fueron resumidos en la siguiente tabla. Con un odds ratio de 3,20, los investigadores concluyeron que la presencia de hipercolesterolemia:",
+      "image": "6e39c097-74a7-4153-845a-a37e523ab73d.avif",
+      "options": [
+        {
+          "id": "aaca246c-88f6-435d-850e-acd77d09a276",
+          "text": "Aumenta el riesgo de presentar CI.",
+          "correct": true
+        },
+        {
+          "id": "f9abf877-4d04-46e4-900b-9f6eb604f388",
+          "text": "Disminuye el riesgo de presentar CI."
+        },
+        {
+          "id": "1c82d912-9318-4567-ad21-56ec25494398",
+          "text": "No altera el riesgo de presentar CI."
+        }
+      ]
+    },
+    {
+      "id": "7abce021-5ea0-41ca-8d47-9f9fb60477fc",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Hace unos años atrás, un grupo de investigadores se propuso analizar la eventual asociación entre la presencia de niveles elevados de colesterol en sangre (hipercolesterolemia) y el desarrollo de cardiopatía isquémica (CI). Para ello, se realizó un estudio incluyendo 250 individuos con CI confirmada y 250 pacientes sin antecedentes de la misma. En ambos grupos de individuos se investigó el antecedente de haber presentado hipercolesterolemia en algún momento de su historia clínica. Los datos extraídos del estudio fueron resumidos en la siguiente tabla. De acuerdo al diseño, se trata de un estudio:",
+      "image": "7abce021-5ea0-41ca-8d47-9f9fb60477fc.avif",
+      "options": [
+        {
+          "id": "1492b8a4-471a-4246-8449-3ed011c5ee55",
+          "text": "Caso-control.",
+          "correct": true
+        },
+        {
+          "id": "137ed274-3961-43a4-b021-90ea583e3b7f",
+          "text": "De cohortes."
+        },
+        {
+          "id": "aed7882e-bcaf-4837-acbe-08288dbe5094",
+          "text": "Ensayo clínico."
+        }
+      ]
+    },
+    {
+      "id": "83e573ad-6d52-479c-833c-dacac2b48025",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Hace unos años atrás, un grupo de investigadores se propuso analizar la eventual asociación entre la presencia de niveles elevados de colesterol en sangre (hipercolesterolemia) y el desarrollo de cardiopatía isquémica (CI). Para ello, se realizó un estudio incluyendo 250 individuos con CI confirmada y 250 pacientes sin antecedentes de la misma. En ambos grupos de individuos se investigó el antecedente de haber presentado hipercolesterolemia en algún momento de su historia clínica. Los datos extraídos del estudio fueron resumidos en la siguiente tabla. El valor calculado de la medida de riesgo más adecuada para este estudio es:",
+      "image": "83e573ad-6d52-479c-833c-dacac2b48025.avif",
+      "options": [
+        {
+          "id": "db23cc06-0a17-4dbc-b8e2-486c2053707c",
+          "text": "3,20.",
+          "correct": true
+        },
+        {
+          "id": "f43a57df-87ce-4f9f-ade0-f28f143847d4",
+          "text": "0,37."
+        },
+        {
+          "id": "b278385b-b07d-482a-b7fd-418dfe0080b1",
+          "text": "2,21."
+        }
+      ]
+    },
+    {
+      "id": "f2814e65-efc1-45ed-be1a-f1d44afddf72",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Hace unos años atrás, un grupo de investigadores se propuso analizar la eventual asociación entre la presencia de niveles elevados de colesterol en sangre (hipercolesterolemia) y el desarrollo de cardiopatía isquémica (CI). Para ello, se realizó un estudio incluyendo 250 individuos con CI confirmada y 250 pacientes sin antecedentes de la misma. En ambos grupos de individuos se investigó el antecedente de haber presentado hipercolesterolemia en algún momento de su historia clínica. Los datos extraídos del estudio fueron resumidos en la siguiente tabla. En este caso, la medida de riesgo que corresponde calcular es:",
+      "image": "f2814e65-efc1-45ed-be1a-f1d44afddf72.avif",
+      "options": [
+        {
+          "id": "992ee830-92cf-4436-a0ff-6e06823fe494",
+          "text": "Odds ratio.",
+          "correct": true
+        },
+        {
+          "id": "01e8c85b-1d84-471e-a96c-5a5ef65ef48d",
+          "text": "Razón de prevalencias."
+        },
+        {
+          "id": "88bb5144-0e9d-4313-9bd9-837e80493429",
+          "text": "Riesgo relativo."
+        }
+      ]
+    },
+    {
+      "id": "fc3910d2-a41d-4e0d-bc9a-73cbae799571",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "La definición clínica de dengue sugerida por la OMS establece que el paciente debe presentar fiebre asociada a 2 o más de las siguientes manifestaciones: cefalea, dolor retroocular, mialgias, artralgias, exantema, manifestaciones hemorrágicas y leucopenia. Un estudio llevado a cabo para determinar las medidas de validez interna y externa de dicha definición clínica como prueba diagnóstica, mostró que la misma tiene una sensibilidad del 99%, una especificidad del 1% y un valor predictivo positivo del 50%. Considerando los valores de sensibilidad y especificidad obtenidos, la definición clínica de la OMS como prueba diagnóstica resultaría adecuada para ser utilizada como:",
+      "options": [
+        {
+          "id": "3cdd7c5b-78b8-4165-a1e6-b416ab01dc62",
+          "text": "Test de tamizaje (1ra prueba).",
+          "correct": true
+        },
+        {
+          "id": "f225c904-610b-4e39-9d2f-bbcd66f14a11",
+          "text": "Test confirmatorio (2da prueba)."
+        },
+        {
+          "id": "627ed2c7-b295-411a-8b88-381cd70ae47d",
+          "text": "Test único (prueba única)."
+        }
+      ]
+    },
+    {
+      "id": "cbe21995-9480-485d-8730-c2b296400f23",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "La definición clínica de dengue sugerida por la OMS establece que el paciente debe presentar fiebre asociada a 2 o más de las siguientes manifestaciones: cefalea, dolor retroocular, mialgias, artralgias, exantema, manifestaciones hemorrágicas y leucopenia. Un estudio llevado a cabo para determinar las medidas de validez interna y externa de dicha definición clínica como prueba diagnóstica, mostró que la misma tiene una sensibilidad del 99%, una especificidad del 1% y un valor predictivo positivo del 50%. El coeficiente falso-negativo es:",
+      "options": [
+        {
+          "id": "1055e870-803a-4af2-b8f9-5f088636c5cc",
+          "text": "0,01.",
+          "correct": true
+        },
+        {
+          "id": "36957d83-7d19-45fe-9edc-747a496df8c0",
+          "text": "0,53."
+        },
+        {
+          "id": "362d046b-8751-4d3e-9f69-ad7c40a3d468",
+          "text": "0,99."
+        }
+      ]
+    },
+    {
+      "id": "2cd8c7ee-5c9a-4a37-a44e-d8359633dc92",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "La definición clínica de dengue sugerida por la OMS establece que el paciente debe presentar fiebre asociada a 2 o más de las siguientes manifestaciones: cefalea, dolor retroocular, mialgias, artralgias, exantema, manifestaciones hemorrágicas y leucopenia. Un estudio llevado a cabo para determinar las medidas de validez interna y externa de dicha definición clínica como prueba diagnóstica, mostró que la misma tiene una sensibilidad del 99%, una especificidad del 1% y un valor predictivo positivo del 50%. El coeficiente falso-positivo es:",
+      "options": [
+        {
+          "id": "862f4de8-c8d7-41c3-bd1b-5a544333158d",
+          "text": "0,99.",
+          "correct": true
+        },
+        {
+          "id": "289f2019-6964-4be1-9ce2-2ccf7b2b741a",
+          "text": "0,01."
+        },
+        {
+          "id": "e9a2674d-b567-416c-aec0-fee73e26a9a4",
+          "text": "0,53."
+        }
+      ]
+    },
+    {
+      "id": "bde05c62-2010-4ccf-a0b7-40163d147f8a",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "La definición clínica de dengue sugerida por la OMS establece que el paciente debe presentar fiebre asociada a 2 o más de las siguientes manifestaciones: cefalea, dolor retroocular, mialgias, artralgias, exantema, manifestaciones hemorrágicas y leucopenia. Un estudio llevado a cabo para determinar las medidas de validez interna y externa de dicha definición clínica como prueba diagnóstica, mostró que la misma tiene una sensibilidad del 99%, una especificidad del 1% y un valor predictivo positivo del 50%. Si la prevalencia de dengue en la población en la que fue realizado el estudio fuera mayor, ¿qué pasaría con el valor predictivo negativo de la prueba?",
+      "options": [
+        {
+          "id": "e5c7639d-8fa2-4d81-b18d-9fcc183facbb",
+          "text": "Disminuiría.",
+          "correct": true
+        },
+        {
+          "id": "202d4ca6-1bba-4908-a459-a951fc9ff818",
+          "text": "Aumentaría."
+        },
+        {
+          "id": "1068793d-c6c3-49a8-8f49-f64f79f29a6a",
+          "text": "No cambiaría."
+        }
+      ]
+    },
+    {
+      "id": "5b383aaf-6320-47d9-b772-9002b9cbaf0c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "La definición clínica de dengue sugerida por la OMS establece que el paciente debe presentar fiebre asociada a 2 o más de las siguientes manifestaciones: cefalea, dolor retroocular, mialgias, artralgias, exantema, manifestaciones hemorrágicas y leucopenia. Un estudio llevado a cabo para determinar las medidas de validez interna y externa de dicha definición clínica como prueba diagnóstica, mostró que la misma tiene una sensibilidad del 99%, una especificidad del 1% y un valor predictivo positivo del 50%. Suponiendo una prevalencia de dengue del 30%, ¿cuál sería la probabilidad de que un paciente no esté enfermo si según la definición clínica de la OMS el paciente no presenta signos ni síntomas de dengue?",
+      "options": [
+        {
+          "id": "472cd567-8d67-4857-bb5a-1d9163e09e4c",
+          "text": "0,70.",
+          "correct": true
+        },
+        {
+          "id": "5a66becf-12ce-4a64-9ab8-057b52ffba59",
+          "text": "0,01."
+        },
+        {
+          "id": "fe9f9286-0f20-4ff4-bff9-908589d28197",
+          "text": "0,47."
+        }
+      ]
+    },
+    {
+      "id": "9868de5a-7438-43d0-b9fd-b152ec845003",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "La definición clínica de dengue sugerida por la OMS establece que el paciente debe presentar fiebre asociada a 2 o más de las siguientes manifestaciones: cefalea, dolor retroocular, mialgias, artralgias, exantema, manifestaciones hemorrágicas y leucopenia. Un estudio llevado a cabo para determinar las medidas de validez interna y externa de dicha definición clínica como prueba diagnóstica, mostró que la misma tiene una sensibilidad del 99%, una especificidad del 1% y un valor predictivo positivo del 50%. ¿Cuál es la prevalencia de la enfermedad en la población donde se evaluó la definición de la OMS?",
+      "options": [
+        {
+          "id": "e6cc6308-5ddc-450f-9c8b-d97f110e89f0",
+          "text": "50%.",
+          "correct": true
+        },
+        {
+          "id": "52ec2584-296d-4e34-b1df-119c0e2cbdcc",
+          "text": "40%."
+        },
+        {
+          "id": "27d94237-38c1-4acf-b3d4-9eb11ba5677f",
+          "text": "64%."
+        }
+      ]
+    },
+    {
+      "id": "e31a1d41-4dca-45a4-a14d-84a6cd14d036",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "La siguiente tabla muestra la distribución de edad de fallecidos en siniestros de tránsito durante el año 2015, según el rol de la persona al momento del siniestro (peatón o conductor/acompañante). Datos de UNASEV, publicados en 2016. Considerando para el Uruguay una población de 3.286.314 habitantes y suponiendo que todos los fallecimientos se produjeron a la mitad del período de observación, ¿cuál fue la tasa de mortalidad debido a siniestros de tránsito durante 2015 (expresada en \"fallecidos cada 100.000 personas-año\")?",
+      "image": "e31a1d41-4dca-45a4-a14d-84a6cd14d036.avif",
+      "options": [
+        {
+          "id": "d32bf7f7-88d0-468f-9d63-9884e9de5307",
+          "text": "12,8.",
+          "correct": true
+        },
+        {
+          "id": "b2c44328-03d5-46dc-82c1-7bde135d08b5",
+          "text": "2,20."
+        },
+        {
+          "id": "c411ff7a-883f-4294-b37e-38875c6a1037",
+          "text": "22,0."
+        }
+      ]
+    },
+    {
+      "id": "1a1fc22c-26bf-42ff-aff5-1ac8b379b644",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "La siguiente tabla muestra la distribución de edad de fallecidos en siniestros de tránsito durante el año 2015, según el rol de la persona al momento del siniestro (peatón o conductor/acompañante). Datos de UNASEV, publicados en 2016. Si seleccionamos al azar un individuo de esta muestra, ¿cuál es la probabilidad de que el mismo sea peatón y tenga una edad menor o igual a 20 años?",
+      "image": "1a1fc22c-26bf-42ff-aff5-1ac8b379b644.avif",
+      "options": [
+        {
+          "id": "3fd8d999-b875-4cc8-a61d-1dfad8f59fd8",
+          "text": "0,03.",
+          "correct": true
+        },
+        {
+          "id": "f6384321-ef02-4b09-8dee-4df3f69aac44",
+          "text": "0,18."
+        },
+        {
+          "id": "86129e88-49f0-4e2c-9d3d-87a8936d1586",
+          "text": "0,28."
+        }
+      ]
+    },
+    {
+      "id": "96a209cc-b60f-47a0-a5f9-4a52b414f46c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "La siguiente tabla muestra la distribución de edad de fallecidos en siniestros de tránsito durante el año 2015, según el rol de la persona al momento del siniestro (peatón o conductor/acompañante). Datos de UNASEV, publicados en 2016. ¿Cuál es la probabilidad de elegir al azar una persona con edad mayor a 20 años de entre los peatones?",
+      "image": "96a209cc-b60f-47a0-a5f9-4a52b414f46c.avif",
+      "options": [
+        {
+          "id": "e524e81b-7975-4018-bcde-470d98710a2d",
+          "text": "0,82.",
+          "correct": true
+        },
+        {
+          "id": "1bb71b07-8472-4638-9cde-e6aee7f6c544",
+          "text": "0,71."
+        },
+        {
+          "id": "93f04ab0-ce03-4f80-88dc-1cf4e956f6c3",
+          "text": "0,96."
+        }
+      ]
+    },
+    {
+      "id": "184492aa-5bc5-4c19-a510-6a078d2957da",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Los estudios de casos y controles, según los objetivos y la postura del investigador, pueden clasificarse como:",
+      "options": [
+        {
+          "id": "965cc6ac-cad6-4ded-965a-f64cd4b9577e",
+          "text": "Analíticos y observacionales.",
+          "correct": true
+        },
+        {
+          "id": "81057125-29bd-472c-9031-e854074c66ad",
+          "text": "Analíticos y experimentales."
+        },
+        {
+          "id": "00ee6a3d-d358-4dee-aca0-6b4f337ce02a",
+          "text": "Descriptivos y experimentales."
+        }
+      ]
+    },
+    {
+      "id": "32611bd9-47f4-4468-9ea5-b513c433cfdb",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Los estudios de cohorte permiten:",
+      "options": [
+        {
+          "id": "1792e42a-dc56-42a4-8655-4520f2fe3f65",
+          "text": "Estimar la incidencia de la enfermedad en estudio.",
+          "correct": true
+        },
+        {
+          "id": "52abc740-14b6-4d70-b1fa-8ae575230c2e",
+          "text": "Concluir con el mismo nivel de evidencia que los ensayos clínicos."
+        },
+        {
+          "id": "b797678f-dc5c-4d51-b4b3-caff9c375533",
+          "text": "Controlar la exposición a un determinado factor por parte del investigador."
+        }
+      ]
+    },
+    {
+      "id": "21b4c563-6833-4b4b-a78e-95d2a0f0dcd3",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Los estudios de tipo transversal permiten:",
+      "options": [
+        {
+          "id": "f88cfbe3-1c81-4cf5-9544-9d6439bc87f7",
+          "text": "Estimar la prevalencia de la enfermedad en estudio.",
+          "correct": true
+        },
+        {
+          "id": "96f9af1e-ed4d-4189-8f6c-7d5dcdb7b2a0",
+          "text": "Establecer la relación causal entre una determinada exposición y la enfermedad en estudio."
+        },
+        {
+          "id": "62e0c3f1-6ac0-43a9-8395-53e9a3cb0139",
+          "text": "Estimar la incidencia de la enfermedad en estudio."
+        }
+      ]
+    },
+    {
+      "id": "8fa02236-3800-40a5-bb7e-342a19efb4d4",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Se realizó una investigación para evaluar la eventual asociación entre el consumo de antiinflamatorios no esteroideos (AINE) y episodios de síndrome coronario agudo (SCA) en la región de Castilla, La Mancha (España) durante el periodo 2008-2012. Se seleccionó a todos los habitantes mayores de 18 años, obteniendo una muestra de 116.686 individuos (59,74% de la población). De éstos, 64.167 habían consumido AINE. A su vez, de acuerdo a los registros de hospitalización, fueron identificados 1.317 pacientes con SCA, de los cuales 1.090 habían consumido AINE previamente y 227 no. Entre los consumidores de AINE, se encontraron 4.107 sujetos con diabetes, mientras que entre los no consumidores de AINE hubo 3.308 diabéticos (datos modificados de Sánchez Serrano et al., 2015). Asumiendo que al inicio del estudio ningún participante padecía SCA, ¿cuál es el riesgo relativo del consumo de AINE para padecer SCA?",
+      "options": [
+        {
+          "id": "bb720d6c-2caa-40df-ad20-89f2b45e14b5",
+          "text": "3,93.",
+          "correct": true
+        },
+        {
+          "id": "2ae5bae5-24c4-4729-a431-21baf7118002",
+          "text": "0,24."
+        },
+        {
+          "id": "9c9438bb-a47f-438e-870d-8b3ac381309d",
+          "text": "1,51."
+        }
+      ]
+    },
+    {
+      "id": "091094b9-7d3c-4e26-8623-128e432c8592",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Se realizó una investigación para evaluar la eventual asociación entre el consumo de antiinflamatorios no esteroideos (AINE) y episodios de síndrome coronario agudo (SCA) en la región de Castilla, La Mancha (España) durante el periodo 2008-2012. Se seleccionó a todos los habitantes mayores de 18 años, obteniendo una muestra de 116.686 individuos (59,74% de la población). De éstos, 64.167 habían consumido AINE. A su vez, de acuerdo a los registros de hospitalización, fueron identificados 1.317 pacientes con SCA, de los cuales 1.090 habían consumido AINE previamente y 227 no. Entre los consumidores de AINE, se encontraron 4.107 sujetos con diabetes, mientras que entre los no consumidores de AINE hubo 3.308 diabéticos (datos modificados de Sánchez Serrano et al., 2015). Eligiendo una persona del estudio al azar, ¿cuál es la probabilidad de que la misma haya presentado un SCA y sea consumidora de AINEs?",
+      "options": [
+        {
+          "id": "3749dce1-cc3f-4c3f-93a0-923073ddeb6c",
+          "text": "0,009.",
+          "correct": true
+        },
+        {
+          "id": "9f416998-b9be-49e6-be8a-d915ec247f08",
+          "text": "0,035."
+        },
+        {
+          "id": "b9657868-ce30-472b-ba7b-3e885c1f4923",
+          "text": "0,828."
+        }
+      ]
+    },
+    {
+      "id": "811c9d68-02f3-40cf-82f6-a9bab0ca22a6",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Se realizó una investigación para evaluar la eventual asociación entre el consumo de antiinflamatorios no esteroideos (AINE) y episodios de síndrome coronario agudo (SCA) en la región de Castilla, La Mancha (España) durante el periodo 2008-2012. Se seleccionó a todos los habitantes mayores de 18 años, obteniendo una muestra de 116.686 individuos (59,74% de la población). De éstos, 64.167 habían consumido AINE. A su vez, de acuerdo a los registros de hospitalización, fueron identificados 1.317 pacientes con SCA, de los cuales 1.090 habían consumido AINE previamente y 227 no. Entre los consumidores de AINE, se encontraron 4.107 sujetos con diabetes, mientras que entre los no consumidores de AINE hubo 3.308 diabéticos (datos modificados de Sánchez Serrano et al., 2015). Eligiendo una persona del estudio al azar, ¿cuál es la probabilidad de que la misma sea consumidora de AINEs, sabiendo que presenta diabetes?",
+      "options": [
+        {
+          "id": "3ea501e9-d7a5-4668-aa0f-1ac6b4b3f74b",
+          "text": "0,554.",
+          "correct": true
+        },
+        {
+          "id": "cb572bb2-ffb8-4090-a729-fa30e1968997",
+          "text": "0,054."
+        },
+        {
+          "id": "4a29f763-5eaa-4fee-9f55-0dd2832e6068",
+          "text": "0,064."
+        }
+      ]
+    },
+    {
+      "id": "787abe57-741e-4bec-846b-ca96e4872f2c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Se realizó una investigación para evaluar la eventual asociación entre el consumo de antiinflamatorios no esteroideos (AINE) y episodios de síndrome coronario agudo (SCA) en la región de Castilla, La Mancha (España) durante el periodo 2008-2012. Se seleccionó a todos los habitantes mayores de 18 años, obteniendo una muestra de 116.686 individuos (59,74% de la población). De éstos, 64.167 habían consumido AINE. A su vez, de acuerdo a los registros de hospitalización, fueron identificados 1.317 pacientes con SCA, de los cuales 1.090 habían consumido AINE previamente y 227 no. Entre los consumidores de AINE, se encontraron 4.107 sujetos con diabetes, mientras que entre los no consumidores de AINE hubo 3.308 diabéticos (datos modificados de Sánchez Serrano et al., 2015). Suponiendo un seguimiento de 5 años para todos los pacientes y que los episodios de SCA se presentaron a la mitad del seguimiento, ¿cuál es la tasa de incidencia del SCA (expresada en \"número de casos de SCA cada 1000 personas-año\" y suponiendo que cada caso de SCA se presenta una única vez)?",
+      "options": [
+        {
+          "id": "b1d60f61-a28c-4624-a00d-1e4937f947a8",
+          "text": "2,27.",
+          "correct": true
+        },
+        {
+          "id": "26878545-c9ba-4a10-a566-aff2e33f7c61",
+          "text": "1,25."
+        },
+        {
+          "id": "f2bcde15-d6e7-4699-813a-197fc5b17e8c",
+          "text": "11,29."
+        }
+      ]
+    },
+    {
+      "id": "ccfe1d94-1dd8-4f96-a586-6db573fbfc9d",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Se realizó una investigación para evaluar la eventual asociación entre el consumo de antiinflamatorios no esteroideos (AINE) y episodios de síndrome coronario agudo (SCA) en la región de Castilla, La Mancha (España) durante el periodo 2008-2012. Se seleccionó a todos los habitantes mayores de 18 años, obteniendo una muestra de 116.686 individuos (59,74% de la población). De éstos, 64.167 habían consumido AINE. A su vez, de acuerdo a los registros de hospitalización, fueron identificados 1.317 pacientes con SCA, de los cuales 1.090 habían consumido AINE previamente y 227 no. Entre los consumidores de AINE, se encontraron 4.107 sujetos con diabetes, mientras que entre los no consumidores de AINE hubo 3.308 diabéticos (datos modificados de Sánchez Serrano et al., 2015). ¿Cuál es la incidencia acumulada de SCA en el grupo de no consumidores de AINEs?",
+      "options": [
+        {
+          "id": "a3b09f29-2d47-4068-bdb8-2e3fe715972c",
+          "text": "0,004.",
+          "correct": true
+        },
+        {
+          "id": "0d099011-9105-4f2a-b01f-4e4cff57523d",
+          "text": "0,017."
+        },
+        {
+          "id": "41437163-601c-481b-b0ef-3d2cde7d652d",
+          "text": "0,828."
+        }
+      ]
+    },
+    {
+      "id": "d29fae3d-541e-4c06-9da2-0ce2710b7d8e",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Se realizó una investigación para evaluar la eventual asociación entre el consumo de antiinflamatorios no esteroideos (AINE) y episodios de síndrome coronario agudo (SCA) en la región de Castilla, La Mancha (España) durante el periodo 2008-2012. Se seleccionó a todos los habitantes mayores de 18 años, obteniendo una muestra de 116.686 individuos (59,74% de la población). De éstos, 64.167 habían consumido AINE. A su vez, de acuerdo a los registros de hospitalización, fueron identificados 1.317 pacientes con SCA, de los cuales 1.090 habían consumido AINE previamente y 227 no. Entre los consumidores de AINE, se encontraron 4.107 sujetos con diabetes, mientras que entre los no consumidores de AINE hubo 3.308 diabéticos (datos modificados de Sánchez Serrano et al., 2015). ¿Cuál es la prevalencia (expresada en número de casos cada 100 personas) de diabetes en la muestra estudiada?",
+      "options": [
+        {
+          "id": "ff049007-0183-4cae-8b97-08ac2e61b430",
+          "text": "6,4.",
+          "correct": true
+        },
+        {
+          "id": "f7070026-b078-46a0-915b-2a0bdc8b4222",
+          "text": "5,5."
+        },
+        {
+          "id": "ed664276-d80f-4ac1-a075-bfaf5947ed4a",
+          "text": "55,0."
+        }
+      ]
+    },
+    {
+      "id": "129e3de6-9ec7-4d11-992b-66b48be580d5",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Se realizó una investigación para evaluar la eventual asociación entre el consumo de antiinflamatorios no esteroideos (AINE) y episodios de síndrome coronario agudo (SCA) en la región de Castilla, La Mancha (España) durante el periodo 2008-2012. Se seleccionó a todos los habitantes mayores de 18 años, obteniendo una muestra de 116.686 individuos (59,74% de la población). De éstos, 64.167 habían consumido AINE. A su vez, de acuerdo a los registros de hospitalización, fueron identificados 1.317 pacientes con SCA, de los cuales 1.090 habían consumido AINE previamente y 227 no. Entre los consumidores de AINE, se encontraron 4.107 sujetos con diabetes, mientras que entre los no consumidores de AINE hubo 3.308 diabéticos (datos modificados de Sánchez Serrano et al., 2015). ¿Cómo clasificaría el estudio desde el punto de vista de sus objetivos y de la participación del investigador?",
+      "options": [
+        {
+          "id": "054d1905-66c9-4358-92c3-46f5898b4873",
+          "text": "Observacional y analítico.",
+          "correct": true
+        },
+        {
+          "id": "65a48767-62be-41b4-b68f-02f8953ac4dc",
+          "text": "Experimental y analítico."
+        },
+        {
+          "id": "1e1c579b-13f2-4188-bd75-9994464983bb",
+          "text": "Observacional y descriptivo."
+        }
+      ]
+    },
+    {
+      "id": "63ac8c89-e2ea-4a4d-82dc-9ee473acfc8a",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Un grupo de investigadores diseñó un estudio para estimar la incidencia y mortalidad por infarto agudo de miocardio (IAM) en la población de mayores de 60 años de la región de Tarragona (España). Fueron incluidas todas las personas mayores de 60 años que no habían sufrido IAM. Un total de 27.204 personas fueron incluidas y seguidas desde el inicio del estudio (01/12/2008) hasta la presentación de un primer IAM o su traslado a otra área o su muerte o hasta la finalización del estudio (30/11/2011). El seguimiento promedio para los integrantes de la cohorte fue de 34 meses, registrándose al final del estudio 359 sujetos que presentaron IAM (datos modificados de Vila-Córcoles et al., 2015). Desde el punto de vista del criterio temporal, ¿cómo clasificaría este estudio?",
+      "options": [
+        {
+          "id": "5c80c898-b4c7-49b4-9652-96313cab33af",
+          "text": "Longitudinal prospectivo.",
+          "correct": true
+        },
+        {
+          "id": "8500a906-c6ab-4bf0-8e41-4c688ff9c2ea",
+          "text": "Longitudinal retrospectivo."
+        },
+        {
+          "id": "04b44504-2c5c-4df6-92de-61a61c68ff60",
+          "text": "Transversal."
+        }
+      ]
+    },
+    {
+      "id": "7e01c3ea-1f67-4447-b719-7eaa7c47685e",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Un grupo de investigadores diseñó un estudio para estimar la incidencia y mortalidad por infarto agudo de miocardio (IAM) en la población de mayores de 60 años de la región de Tarragona (España). Fueron incluidas todas las personas mayores de 60 años que no habían sufrido IAM. Un total de 27.204 personas fueron incluidas y seguidas desde el inicio del estudio (01/12/2008) hasta la presentación de un primer IAM o su traslado a otra área o su muerte o hasta la finalización del estudio (30/11/2011). El seguimiento promedio para los integrantes de la cohorte fue de 34 meses, registrándose al final del estudio 359 sujetos que presentaron IAM (datos modificados de Vila-Córcoles et al., 2015). Sabiendo que el 55% de los integrantes de la cohorte eran mujeres y que se observaron 255 casos de IAM en los hombres, ¿cuál es la probabilidad de no haber padecido IAM, siendo mujer?",
+      "options": [
+        {
+          "id": "b7b33ba1-1845-49b5-9244-054cb74139e7",
+          "text": "0,99.",
+          "correct": true
+        },
+        {
+          "id": "08957e9a-7f42-49c6-ae2d-a2ede1f9decb",
+          "text": "0,54."
+        },
+        {
+          "id": "65ba1b01-4369-4dbe-bbdd-bb89a247d565",
+          "text": "0,55."
+        }
+      ]
+    },
+    {
+      "id": "45a5403e-1bb8-41a5-b300-2fb4c3098144",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Un grupo de investigadores diseñó un estudio para estimar la incidencia y mortalidad por infarto agudo de miocardio (IAM) en la población de mayores de 60 años de la región de Tarragona (España). Fueron incluidas todas las personas mayores de 60 años que no habían sufrido IAM. Un total de 27.204 personas fueron incluidas y seguidas desde el inicio del estudio (01/12/2008) hasta la presentación de un primer IAM o su traslado a otra área o su muerte o hasta la finalización del estudio (30/11/2011). El seguimiento promedio para los integrantes de la cohorte fue de 34 meses, registrándose al final del estudio 359 sujetos que presentaron IAM (datos modificados de Vila-Córcoles et al., 2015). Sabiendo que el 55% de los integrantes de la cohorte eran mujeres y que se observaron 255 casos de IAM en los hombres, ¿cuál es la probabilidad de que tomando un participante al azar, el mismo sea hombre y no haya padecido IAM durante el período de estudio?",
+      "options": [
+        {
+          "id": "54bc32bd-ab57-4509-8edc-a53a4f010595",
+          "text": "0,44.",
+          "correct": true
+        },
+        {
+          "id": "ff534b09-6e27-49cf-97f9-e0767d4824d9",
+          "text": "0,96."
+        },
+        {
+          "id": "d27d0054-92ce-4778-a196-c0186d103928",
+          "text": "1,32."
+        }
+      ]
+    },
+    {
+      "id": "c5635103-bf6e-4372-9da1-d5500635d9c8",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Un grupo de investigadores diseñó un estudio para estimar la incidencia y mortalidad por infarto agudo de miocardio (IAM) en la población de mayores de 60 años de la región de Tarragona (España). Fueron incluidas todas las personas mayores de 60 años que no habían sufrido IAM. Un total de 27.204 personas fueron incluidas y seguidas desde el inicio del estudio (01/12/2008) hasta la presentación de un primer IAM o su traslado a otra área o su muerte o hasta la finalización del estudio (30/11/2011). El seguimiento promedio para los integrantes de la cohorte fue de 34 meses, registrándose al final del estudio 359 sujetos que presentaron IAM (datos modificados de Vila-Córcoles et al., 2015). Si todos los casos se hubiesen presentado el último día del estudio, ¿cuál hubiese sido la prevalencia de IAM ese día (expresada en \"casos cada 1.000 personas\")?",
+      "options": [
+        {
+          "id": "c32c743b-a9f2-4094-93ef-11c74938e47d",
+          "text": "13,2.",
+          "correct": true
+        },
+        {
+          "id": "86d9f55f-d594-44e2-b9f3-ffcd7724f04b",
+          "text": "44,0."
+        },
+        {
+          "id": "179644c2-ad19-4099-8f64-c925c2a19a64",
+          "text": "48,0."
+        }
+      ]
+    },
+    {
+      "id": "45ad7c54-dc38-461c-9225-d861e9ba2211",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Un grupo de investigadores diseñó un estudio para estimar la incidencia y mortalidad por infarto agudo de miocardio (IAM) en la población de mayores de 60 años de la región de Tarragona (España). Fueron incluidas todas las personas mayores de 60 años que no habían sufrido IAM. Un total de 27.204 personas fueron incluidas y seguidas desde el inicio del estudio (01/12/2008) hasta la presentación de un primer IAM o su traslado a otra área o su muerte o hasta la finalización del estudio (30/11/2011). El seguimiento promedio para los integrantes de la cohorte fue de 34 meses, registrándose al final del estudio 359 sujetos que presentaron IAM (datos modificados de Vila-Córcoles et al., 2015). ¿Cuál fue la incidencia acumulada de IAM (expresada en \"casos cada 1.000 personas\") en esa población durante el estudio?",
+      "options": [
+        {
+          "id": "c1768bc8-e3e5-4301-ba59-aea2947f8fa3",
+          "text": "13,2.",
+          "correct": true
+        },
+        {
+          "id": "14cbba2e-dc96-4bcf-b5f2-86d22dadcaf3",
+          "text": "44,0."
+        },
+        {
+          "id": "7448171e-cd34-4326-8765-ad0de4895b32",
+          "text": "48,0."
+        }
+      ]
+    },
+    {
+      "id": "faff1a80-c7a8-4158-8c6d-49cfbcc126d0",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2017-07-15",
+      "text": "Un grupo de investigadores diseñó un estudio para estimar la incidencia y mortalidad por infarto agudo de miocardio (IAM) en la población de mayores de 60 años de la región de Tarragona (España). Fueron incluidas todas las personas mayores de 60 años que no habían sufrido IAM. Un total de 27.204 personas fueron incluidas y seguidas desde el inicio del estudio (01/12/2008) hasta la presentación de un primer IAM o su traslado a otra área o su muerte o hasta la finalización del estudio (30/11/2011). El seguimiento promedio para los integrantes de la cohorte fue de 34 meses, registrándose al final del estudio 359 sujetos que presentaron IAM (datos modificados de Vila-Córcoles et al., 2015). ¿Cuál fue la tasa de incidencia de IAM en la población en estudio (expresada en \"casos cada 100.000 personas-año\")?",
+      "options": [
+        {
+          "id": "65b90933-0c91-436c-bcce-8d1e18bbc0b4",
+          "text": "466.",
+          "correct": true
+        },
+        {
+          "id": "295a68a9-9cc2-466d-ab78-ee7cd77a13d4",
+          "text": "38,8."
+        },
+        {
+          "id": "14d99cad-e3f3-4b22-9cac-aa9218f4ca95",
+          "text": "46,6."
+        }
+      ]
+    },
+    {
       "id": "13ba67fb-d891-4ba0-9c8b-f161a97d15ab",
       "evaluation": "parcial_2",
       "source": "partial",
