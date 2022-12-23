@@ -12,6 +12,682 @@
   "order": 2,
   "questions": [
     {
+      "id": "ad061ba6-5f87-49a9-bb6c-2be277c3c0e0",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-21",
+      "text": "A partir del momento en el que cada persona pasa a asumir las decisiones que le afectan, bajo su propio sistema de valores, el paciente pasa a considerarse:",
+      "options": [
+        {
+          "id": "878a5eaf-a7fe-4afc-a667-857942b35795",
+          "text": "Agente.",
+          "correct": true
+        },
+        {
+          "id": "30d93ca8-3291-4916-9443-bd6fdbf46137",
+          "text": "Simétrico al médico."
+        },
+        {
+          "id": "389aba67-87da-402b-9f83-164fe249eb1f",
+          "text": "Usuario."
+        }
+      ]
+    },
+    {
+      "id": "25a6e4d3-2380-4a27-b6c3-6e6d5f8968de",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-21",
+      "text": "Arleen Salles, en \"Enfoques éticos alternativos\", define a la ética aristotélica como teleológica. Esto responde a que allí:",
+      "options": [
+        {
+          "id": "7258b05e-0c4d-49f9-b92e-095d1f0db71e",
+          "text": "Las acciones están orientadas a fines.",
+          "correct": true
+        },
+        {
+          "id": "8d3159ed-caf0-4afe-83c1-3ad93555b9dd",
+          "text": "Las acciones están orientadas a normas."
+        },
+        {
+          "id": "bbf63a21-8ebb-483e-a75e-71fca84e4c9f",
+          "text": "Las acciones están orientadas por valores."
+        }
+      ]
+    },
+    {
+      "id": "59acf46c-5808-4c43-b478-ef126fa47c2c",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-21",
+      "text": "Conocemos la siguiente información sociodemográficas a tener en cuenta en el contexto de la pandemia COVID-19:",
+      "options": [
+        {
+          "id": "c74aadb0-a410-4f4e-bb3c-f1649aef0101",
+          "text": "La distribución espacial de los hogares unipersonales es heterogénea.",
+          "correct": true
+        },
+        {
+          "id": "4c197ee4-5fe4-4a47-96c7-8ad595e559da",
+          "text": "La distribución espacial de los hogares unipersonales es homogénea."
+        },
+        {
+          "id": "5bb83b81-665a-49f3-b135-255a67a95083",
+          "text": "La distribución espacial de los hogares unipersonales es uniforme."
+        }
+      ]
+    },
+    {
+      "id": "bce0a8c0-99d3-48e6-a69d-5f8ead278620",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-21",
+      "text": "Cuando Virchow dijo que lo que les pasaba era porque \"Esta población no tenía idea de que el empobrecimiento material y mental al que se le había permitido llegar era la causa principal de su hambre y enfermedad...\" aludía a un problema de:",
+      "options": [
+        {
+          "id": "8e4eb084-f5b6-4a40-b500-f0662939f097",
+          "text": "Salud pública.",
+          "correct": true
+        },
+        {
+          "id": "c57c1b1d-068e-4e3e-afc1-6260b07b6a67",
+          "text": "Dinero público."
+        },
+        {
+          "id": "c2803f5a-83f5-45e4-8bba-71d40d0fdc15",
+          "text": "Educación pública."
+        }
+      ]
+    },
+    {
+      "id": "73cf95d0-9157-470b-bffb-830cf91e2b32",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-21",
+      "text": "De acuerdo a lo planteado por Susana Vidal la bioética puede ser conceptualizada como:",
+      "options": [
+        {
+          "id": "7bfb31aa-d8ac-492e-9f48-6f605569a689",
+          "text": "Nueva disciplina académica y como nuevo discurso.",
+          "correct": true
+        },
+        {
+          "id": "28d695aa-353b-40ba-a57d-7b23a8ce019f",
+          "text": "Nueva disciplina académica y como cuerpo normativo procedimental."
+        },
+        {
+          "id": "1d634165-37f3-4fef-a44c-76ab9056b0fb",
+          "text": "Nuevo discurso y como conjunto de reglas para la investigación."
+        }
+      ]
+    },
+    {
+      "id": "6e6112d4-9ccc-42b3-ab84-b12002a43adf",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-21",
+      "text": "Dentro de las lesiones, el mayor número de muertes se da por:",
+      "options": [
+        {
+          "id": "08c8703d-3ab7-4c08-a09d-b6e13c0c8949",
+          "text": "Accidentes de tránsito.",
+          "correct": true
+        },
+        {
+          "id": "804ff9a5-dcae-42be-aad2-070af0f24e6b",
+          "text": "Ahogamientos."
+        },
+        {
+          "id": "5540f0aa-4f66-408a-b507-af387025a628",
+          "text": "Suicidios."
+        }
+      ]
+    },
+    {
+      "id": "4d2b372c-63b4-4628-83c2-b02138c589f9",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-21",
+      "text": "En Uruguay, las enfermedades no trasmisibles constituyen el porcentaje más alto de:",
+      "options": [
+        {
+          "id": "0befa7a9-dcb5-4fff-9bfb-cf3795929101",
+          "text": "Carga global de enfermedad en la población.",
+          "correct": true
+        },
+        {
+          "id": "7aff8946-3165-4bde-8d05-3a885c1d22b5",
+          "text": "Indicadores de sobrevida."
+        },
+        {
+          "id": "8b53239d-c789-450d-ba98-ae63ff821ce0",
+          "text": "Información recabada."
+        }
+      ]
+    },
+    {
+      "id": "55132e63-1a50-4084-b2dc-977ba92a531f",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-21",
+      "text": "En el caso de la cadena epidemiológica de la enfermedad COVID-19, ¿cuál es la puerta de entrada?",
+      "options": [
+        {
+          "id": "14a1ad08-ee51-4611-9bad-f98d4b3e6787",
+          "text": "Aparato respiratorio.",
+          "correct": true
+        },
+        {
+          "id": "a678c953-9bfc-44c3-8287-16a4104da2bc",
+          "text": "Aparato digestivo."
+        },
+        {
+          "id": "95f06f05-b6a2-48a7-91e1-4194dbdcc21b",
+          "text": "Barrera cutánea."
+        }
+      ]
+    },
+    {
+      "id": "02ef0184-11b2-48ef-a26b-efaaa44a0489",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-21",
+      "text": "En el siglo XX se introducen como valor y principios nucleares de la relación asistencial:",
+      "options": [
+        {
+          "id": "0e1ea1b4-ce97-4ea8-af9a-e7f621cf714c",
+          "text": "La autonomía y la justicia.",
+          "correct": true
+        },
+        {
+          "id": "49780f65-06f5-463c-8c00-fd08d754e6b7",
+          "text": "La autonomía y la beneficencia."
+        },
+        {
+          "id": "663e0271-fe00-4245-b87d-7100b25d1313",
+          "text": "La beneficencia y la justicia."
+        }
+      ]
+    },
+    {
+      "id": "ff3eef44-d616-43dd-967a-442bb9f3b374",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-21",
+      "text": "En los niños que nacen con malformaciones congénitas, ¿qué determinante del modelo de Lalonde se pone de manifiesto?",
+      "options": [
+        {
+          "id": "9215ae09-432d-4625-8db0-b40b23553fbb",
+          "text": "Biología humana.",
+          "correct": true
+        },
+        {
+          "id": "90112bc4-3c11-4c10-b8ae-8e90483c71b3",
+          "text": "Ambiental."
+        },
+        {
+          "id": "a66a4533-1c61-4ef9-bd6d-3fa04d058867",
+          "text": "Estilo de vida."
+        },
+        {
+          "id": "51ae3305-a311-4f45-91c1-836b9f8011fd",
+          "text": "Sistema de Salud."
+        }
+      ]
+    },
+    {
+      "id": "74986a8a-c9dc-42c0-8776-a086aecb5ca2",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-21",
+      "text": "En relación a la infestación:",
+      "options": [
+        {
+          "id": "f2a2d80b-60df-4d97-87e3-bc13d7dcf6c4",
+          "text": "La pediculosis en un ejemplo de infestación.",
+          "correct": true
+        },
+        {
+          "id": "90a68525-dbbb-4314-a470-8a39e0f6c642",
+          "text": "El agente ingresa al organismo."
+        },
+        {
+          "id": "1cd671c9-0a8d-4042-8c9b-ba2f4d81a624",
+          "text": "No se producen manifestaciones clínicas."
+        }
+      ]
+    },
+    {
+      "id": "cb947476-3894-42db-9de1-fef1775f6638",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-21",
+      "text": "En su artículo \"Planteos clásicos y teoría de los Principios\", Florencia Luna explica que para Kant, las acciones humanas pueden estar determinadas por la razón o por la sensibilidad. En este sentido, los actos moralmente correctos serían aquellos que:",
+      "options": [
+        {
+          "id": "8966c0f2-8320-4609-876b-5dbf2e4fd801",
+          "text": "Se ajustan a lo que nos indica la razón.",
+          "correct": true
+        },
+        {
+          "id": "792701fa-6ef1-47d6-8e0a-1edf945381af",
+          "text": "Consideran especialmente a esa sensibilidad humana."
+        },
+        {
+          "id": "cd42a2f7-8483-4f60-a14a-67e2f78294e8",
+          "text": "Logran conciliar ambas dimensiones del ser."
+        }
+      ]
+    },
+    {
+      "id": "2e3bbb99-fd26-4de2-ad78-c9b08cae2c7d",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-21",
+      "text": "Indique la corriente de la bioética que pone énfasis en consideraciones específicas de casos paradigmáticos, captando la forma en que las personas razonan moralmente en la práctica.",
+      "options": [
+        {
+          "id": "eb9fda8a-58c1-4bf4-9744-7ff701f8e3c5",
+          "text": "La casuística.",
+          "correct": true
+        },
+        {
+          "id": "fd58f033-9cef-42cd-b328-77a88740be87",
+          "text": "El principialismo."
+        },
+        {
+          "id": "01c4a305-7712-4493-9b85-208175e0a1f8",
+          "text": "La narrativa."
+        }
+      ]
+    },
+    {
+      "id": "0fcd33ef-3ee7-4de8-864d-f4d8be4d3eb3",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-21",
+      "text": "José que es médico está viendo a María en la policlínica y sospecha que puede tener hepatitis. ¿En qué momento Jose debe realizar la notificación al Ministerio de Salud Publica?",
+      "options": [
+        {
+          "id": "9d426fca-9fe0-446d-a39a-615b314d57bd",
+          "text": "Dentro de la primer semana de la sospecha la enfermedad.",
+          "correct": true
+        },
+        {
+          "id": "17db1b17-7b95-48bc-a30d-28c40cce71b0",
+          "text": "Dentro de la primera semana de la confirmación por laboratorio."
+        },
+        {
+          "id": "76bb6cdf-a1de-440c-ae27-255273aebcc0",
+          "text": "Dentro de las 24 horas de la confirmación por laboratorio."
+        },
+        {
+          "id": "0bd9416c-ea6e-4bae-95c0-57a795affe6d",
+          "text": "Dentro de las 24 horas desde que sospecha la enfermedad."
+        }
+      ]
+    },
+    {
+      "id": "d8046bb7-4ed7-4d1b-98b2-f6c5405aaae5",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-21",
+      "text": "La bioética propuesta por Van Rensselaer Potter se basa en una concepción global centrada en:",
+      "options": [
+        {
+          "id": "9426934c-8a17-4648-91d9-eae328bdc460",
+          "text": "Los problemas ambientales.",
+          "correct": true
+        },
+        {
+          "id": "c98f16a2-2835-4751-a4a0-de5b29a84709",
+          "text": "Los problemas de investigación."
+        },
+        {
+          "id": "f0e47df1-ce1f-40b2-bbc6-994f77feccea",
+          "text": "Los problemas en la clínica."
+        }
+      ]
+    },
+    {
+      "id": "6971e42a-1053-4969-8b5f-b0f9e1728b33",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-21",
+      "text": "La campaña de vacunación antigripal que ya comenzó y se realiza anualmente corresponde a una medida de prevención...",
+      "options": [
+        {
+          "id": "02c0cc11-c96a-474c-954a-9ddf0694c3a4",
+          "text": "Primaria.",
+          "correct": true
+        },
+        {
+          "id": "3a26e4d8-c2d5-4e40-b275-ef6bea651c2d",
+          "text": "Secundaria."
+        },
+        {
+          "id": "7718f2e4-aa85-464b-8439-cb89148bde0c",
+          "text": "Terciaria."
+        }
+      ]
+    },
+    {
+      "id": "22b5dc6f-3448-4630-be00-7452df74a6fc",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-21",
+      "text": "La realización de charlas a las madres, para informar acerca de los beneficios de la lactancia materna, es una acción de:",
+      "options": [
+        {
+          "id": "06f48cc5-63a1-4c7b-8189-c72bdf99c16c",
+          "text": "Promoción de salud.",
+          "correct": true
+        },
+        {
+          "id": "f3e0b661-11fa-41b6-8e33-9be013a69b3a",
+          "text": "Prevención cuaternaria."
+        },
+        {
+          "id": "3c90133d-6f51-44a0-aad5-e5eb9aca2744",
+          "text": "Prevención secundaria."
+        },
+        {
+          "id": "18d6bd5c-4ce6-46c9-9f5e-ed9f45893e43",
+          "text": "Prevención terciaria."
+        }
+      ]
+    },
+    {
+      "id": "ecf462e5-1f1a-4d8e-9835-d858a04550c8",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-21",
+      "text": "La regla de privacidad en el contexto de una relación clínica implica:",
+      "options": [
+        {
+          "id": "e982d9c4-b0dd-40db-9d1f-05f0b8aa0304",
+          "text": "Que no se pueda acceder a información de los usuarios sin su consentimiento.",
+          "correct": true
+        },
+        {
+          "id": "1db7ab1c-a515-4d61-88d7-c73b1234e939",
+          "text": "Que no se pueda revelar información de los usuarios a terceros sin su consentimiento."
+        },
+        {
+          "id": "34780803-beae-4f09-9c98-cd499678ae6b",
+          "text": "Que no se pueda revelar información de los usuarios al ministerio de salud pública."
+        }
+      ]
+    },
+    {
+      "id": "3ff67013-d64f-4202-97ef-0dcabc33273c",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-21",
+      "text": "La relación médico-paciente es convertida en un fin en sí mismo por el beneficio inherente del elemento:",
+      "options": [
+        {
+          "id": "da46cb43-476e-4a22-ae8b-256ea3f6ba77",
+          "text": "Relacional.",
+          "correct": true
+        },
+        {
+          "id": "937b43de-f7b0-4244-a350-b6120d87c550",
+          "text": "Científico."
+        },
+        {
+          "id": "cbd46b86-b640-4860-aaab-845e7ca31a45",
+          "text": "Deontológico."
+        }
+      ]
+    },
+    {
+      "id": "49968148-8772-4def-82b1-a4f20e403ba8",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-21",
+      "text": "Las personas somos capaces de poder reflexionar y argumentar por qué creemos que algunas cosas sean preferibles sobre otras. El campo de saber que se encarga de esta reflexión corresponde a:",
+      "options": [
+        {
+          "id": "4f10e031-8e77-4bcf-bbfe-cf63df7cd358",
+          "text": "La ética.",
+          "correct": true
+        },
+        {
+          "id": "1a933074-da6f-49d0-8c8e-c4db682a4bd5",
+          "text": "La ley."
+        },
+        {
+          "id": "553a1df5-30e0-4ad1-a619-bfbc89679004",
+          "text": "La moral."
+        }
+      ]
+    },
+    {
+      "id": "6b73a38a-1bf2-4943-91d3-941f8a7fe074",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-21",
+      "text": "Lucía es una médica recientemente recibida que trabaja en una policlínica municipal de Casavalle, vinculandose con usuarios del barrio que no tienen sus necesidades básicas satisfechas. Indique qué opción de las corrientes de la bioética serán un insumo necesario para el trabajo de Lucía.",
+      "options": [
+        {
+          "id": "f623d282-1bab-487a-96f2-e87949f11dce",
+          "text": "El principialismo y la ética del cuidado.",
+          "correct": true
+        },
+        {
+          "id": "a4c54119-7ea2-4f09-82c0-cccc36fc06fb",
+          "text": "Solamente el principialismo."
+        },
+        {
+          "id": "b9e3c513-2575-420b-812d-0a051f8132de",
+          "text": "Solamente la ética del cuidado."
+        }
+      ]
+    },
+    {
+      "id": "311c7e14-d627-4cb2-8fff-6f98420e5720",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-21",
+      "text": "María es una vecina del barrio referente dentro de la comunidad. Juan es un vecino nuevo que le preguntó dónde podía consultar porque estaba con malestar. Ella le comentó que a dos cuadras había una policlínica y si quería, también allí lo podían vacunar. De paso lo invitó a reunirse con otros vecinos para conversar sobre los problemas del barrio. De todas éstas actividades, ¿cuál es la de promoción de salud?",
+      "options": [
+        {
+          "id": "1f3aae00-d246-49ed-a352-313dd2f97688",
+          "text": "La reunión de los vecinos para conversar los problemas del barrio.",
+          "correct": true
+        },
+        {
+          "id": "f1c686ef-6211-4ced-b44e-77bb139582e1",
+          "text": "Administración de una vacuna en el vacunatorio."
+        },
+        {
+          "id": "62772594-3cdb-4d17-88ad-6dee7c8b3984",
+          "text": "Consulta médica precoz en la policlínica por el malestar."
+        }
+      ]
+    },
+    {
+      "id": "0234ccd4-3e37-48c3-b1fa-994623b26183",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-21",
+      "text": "Pamela tiene 23 años y consulta con su ginecólogo porque hace mucho tiempo tiene la idea de realizarse ligadura de trompas uterinas porque no desea tener hijos en ningún momento de su vida, y varios ginecólogos con los que consultó previamente se negaron a realizarle la ligadura por ser muy joven. La opción más acertada sería que:",
+      "options": [
+        {
+          "id": "fc02768a-3774-498c-b0a3-93387a075925",
+          "text": "Los profesionales anteriores actuaron violando el principio de autonomía.",
+          "correct": true
+        },
+        {
+          "id": "d05b267d-6941-4b22-a7dc-ff8050549511",
+          "text": "Los profesionales anteriores actuaron respetando el principio de beneficencia."
+        },
+        {
+          "id": "a90a7b59-be9a-4a99-99f3-54315be74167",
+          "text": "Los profesionales anteriores actuaron violando el principio de justicia."
+        }
+      ]
+    },
+    {
+      "id": "46ffaeca-3437-4fcb-b735-15de74ac06e8",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-21",
+      "text": "Pamela tiene 45 años y es asmática y está internada en el hospital de clínicas por una neumonía adquirida en la comunidad que descompensó su enfermedad de base. Los médicos creen que debería estar internado durante 2 semanas más, pero Raul refiere tener que irse del hospital porque tiene que trabajar para alimentar a su familia. Según la situación:",
+      "options": [
+        {
+          "id": "db1b2828-686f-42c3-90ab-d384a3c3c180",
+          "text": "Raul podría irse según el principio de justicia.",
+          "correct": true
+        },
+        {
+          "id": "140ef4fd-12ea-4a4e-bde3-33be43d3fefb",
+          "text": "Raul debería quedarse según el principio de no maleficencia."
+        },
+        {
+          "id": "082ed2ac-4348-4704-affc-a0c305f2a099",
+          "text": "Raul podría irse basado en el principio de autonomía."
+        }
+      ]
+    },
+    {
+      "id": "25773f43-f563-48b3-95fa-7bf4e9598a37",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-21",
+      "text": "Para el cálculo de la tasa de mortalidad infantil se toma en cuenta las defunciones de todos los niños nacidos vivos menores de...",
+      "options": [
+        {
+          "id": "7b1eaded-db87-4d76-9c7a-bed284e6bcb4",
+          "text": "1 año en un período determinado (1 año calendario).",
+          "correct": true
+        },
+        {
+          "id": "f577e02d-0a6b-49eb-bf10-8af624063ad0",
+          "text": "10 años en un período determinado (1 año calendario)."
+        },
+        {
+          "id": "a8d0cd2e-25f0-4af5-93b1-706d5bbab322",
+          "text": "5 años en un período determinado (1 año calendario)."
+        }
+      ]
+    },
+    {
+      "id": "0f7d47b1-0f5a-46f6-8750-1f57a241828c",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-21",
+      "text": "Para obtener el carné de salud se debe determinar el nivel de glucosa en sangre. ¿A qué nivel de prevención corresponde?",
+      "options": [
+        {
+          "id": "757f1319-e752-4d28-9297-7987705d6774",
+          "text": "Segundo nivel.",
+          "correct": true
+        },
+        {
+          "id": "71487972-f576-490b-aea7-e5833d54dc0a",
+          "text": "Primer nivel."
+        },
+        {
+          "id": "674524c2-6380-46bf-9af5-e0bafadb171d",
+          "text": "Tercer nivel."
+        }
+      ]
+    },
+    {
+      "id": "33829f9a-f3f4-47ad-bfba-48ea3942dc20",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-21",
+      "text": "Según Marc Lalonde los factores determinantes de la salud se clasifican en:",
+      "options": [
+        {
+          "id": "c44b517e-f97b-415f-a1e8-7193ffb0ca59",
+          "text": "Biología humana, sistema de salud, estilo de vida y medio ambiente.",
+          "correct": true
+        },
+        {
+          "id": "a1bfe31b-25d2-4430-940f-7f742d7254a7",
+          "text": "Demografía, biología humana, sistema de salud y estratificación social."
+        },
+        {
+          "id": "483495bc-089d-462d-9a43-b7ac4d21e613",
+          "text": "Genoma humano, estilo de vida, población y medio ambiente."
+        },
+        {
+          "id": "2697e712-0bfa-4786-a5ae-ff93fc1e94cb",
+          "text": "Redes sociales, trabajo, estilo de vida y sistema de salud."
+        }
+      ]
+    },
+    {
+      "id": "d032398e-ea2e-4e38-bf4b-35df4bf8e9bc",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-21",
+      "text": "Si planteamos como método de análisis un método que inicia con los casos particulares terminando en las teorías éticas, hablamos de:",
+      "options": [
+        {
+          "id": "73268566-2c45-4839-95dd-c93580137778",
+          "text": "Método inductivo.",
+          "correct": true
+        },
+        {
+          "id": "84374eb0-2b1a-4353-8d94-5242df96746f",
+          "text": "Método deductivo."
+        },
+        {
+          "id": "26f9483f-3297-4d43-a1ed-195428563278",
+          "text": "Método deliberativo."
+        }
+      ]
+    },
+    {
+      "id": "6925e264-e92b-4a41-8967-faf258821534",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-21",
+      "text": "¿Cuál de los autores integra el factor social y ecológico en su definición de salud?",
+      "options": [
+        {
+          "id": "74811d45-9ef3-48c9-9545-15db44e17605",
+          "text": "Salleras Sanmarti.",
+          "correct": true
+        },
+        {
+          "id": "e4cffc23-9a9e-4f24-8cfb-33ed79396d66",
+          "text": "Milton Terris."
+        },
+        {
+          "id": "778eac65-225a-474a-a180-d539fc81dc69",
+          "text": "OMS 1946."
+        }
+      ]
+    },
+    {
+      "id": "61d18e5a-1366-49b3-bc44-54bbf4be93d6",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2021-05-21",
+      "text": "¿Cómo denomina Aristóteles al equilibrio entre los excesos y los defectos de las virtudes morales?",
+      "options": [
+        {
+          "id": "a8464213-44ff-4668-8bb6-a94095f5b106",
+          "text": "Justo medio.",
+          "correct": true
+        },
+        {
+          "id": "8dd1ac3b-7a73-4482-987e-0b1a22b0272d",
+          "text": "Eudaimonía."
+        },
+        {
+          "id": "2aea3b6c-c14a-4f6c-b04f-fcab97900c0e",
+          "text": "Prudencia."
+        }
+      ]
+    },
+    {
       "id": "92b9529f-f5ea-4f28-b351-278dc0e27885",
       "evaluation": "parcial_2",
       "source": "partial",
@@ -710,6 +1386,10 @@
     }
   ],
   "evaluations": [
+    {
+      "key": "parcial_1",
+      "name": "1° parcial"
+    },
     {
       "key": "parcial_2",
       "name": "2° parcial"
