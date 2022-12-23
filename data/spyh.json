@@ -12,6 +12,948 @@
   "order": 2,
   "questions": [
     {
+      "id": "196fda85-5339-4cec-9cd2-e9ca31aee8d2",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "Considerar a los determinantes sociales de la salud implica tomar en cuenta:",
+      "options": [
+        {
+          "id": "7a8fa73b-c079-4e2e-a26c-cd6c35517d8f",
+          "text": "Que los estilos de vida de las personas y las condiciones en las que viven y trabajan influyen fuertemente en su salud y longevidad.",
+          "correct": true
+        },
+        {
+          "id": "742129b3-4202-4103-8149-356a1416a9c3",
+          "text": "Que el perfil epidemiológico de una población se realiza en función de atributos como la edad y el sexo de las personas."
+        },
+        {
+          "id": "2f033bc7-ff9e-4877-88f0-b8af41b71a17",
+          "text": "Que las nociones sobre la salud y la enfermedad son construcciones sociales que han ido variando en el transcurso de la historia y entre las diferentes sociedades."
+        },
+        {
+          "id": "de5b0330-b3a2-4696-a7c1-61314f79e1f6",
+          "text": "Que los problemas de salud pública están focalizados en la población indigente."
+        }
+      ]
+    },
+    {
+      "id": "601ca555-2592-4e28-bf09-d2e54d258b6c",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "Cuando Virchow dijo que lo que les pasaba era porque \"Esta población no tenía idea de que el empobrecimiento material y mental al que se le había permitido llegar era la causa principal de su hambre y enfermedad ...\" aludía a un problema de:",
+      "options": [
+        {
+          "id": "efd3f0a4-ae68-451a-8723-713d6e8f047c",
+          "text": "Salud pública.",
+          "correct": true
+        },
+        {
+          "id": "27f2e8f9-bfca-42ef-a35c-9807b5877d58",
+          "text": "Dinero público."
+        },
+        {
+          "id": "500f20bd-5a62-4216-be13-7dac4e3bfc79",
+          "text": "Educación pública."
+        }
+      ]
+    },
+    {
+      "id": "360e62a3-5ea0-4102-930a-fd0ecdf67783",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "Cuando se habla de la Atención Primaria de Salud se alude a:",
+      "options": [
+        {
+          "id": "fbec624c-11ad-467e-b313-2ecad3f45b84",
+          "text": "La estrategia del sistema de salud.",
+          "correct": true
+        },
+        {
+          "id": "da48102b-fa4e-4f66-9cab-439c47b55ef5",
+          "text": "Al primer nivel de atención en el hospital."
+        },
+        {
+          "id": "e9fc6253-4a49-4def-8af3-17e439f91fc6",
+          "text": "La prevención primaria en la policlínica."
+        }
+      ]
+    },
+    {
+      "id": "167cfe87-c9fa-4892-b922-95e9c2267e46",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "El Sistema Nacional Integrado de Salud (SNIS) plantea un conjunto de principios rectores entre los cuales se encuentra la:",
+      "options": [
+        {
+          "id": "922de780-6426-4ad0-85c4-341dac1044e3",
+          "text": "Participación social de trabajadores y usuarios.",
+          "correct": true
+        },
+        {
+          "id": "f34e822c-5173-4f9d-bf52-72de9643057c",
+          "text": "Cobertura a nivel privado."
+        },
+        {
+          "id": "2f587967-0cec-4b99-9be3-3f4e93a9fca1",
+          "text": "Igualdad en la atención médica."
+        },
+        {
+          "id": "87fa67d7-4200-4057-b353-1a222b6bec48",
+          "text": "Utilización de tecnología compleja."
+        }
+      ]
+    },
+    {
+      "id": "c1e80dbc-a542-4055-8f0f-39d30e3ce837",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "El Sistema Nacional Integrado de Salud incorpora el modelo:",
+      "options": [
+        {
+          "id": "b572e3ac-a34a-4352-b90b-28c03ab7a714",
+          "text": "De atención integral a la salud.",
+          "correct": true
+        },
+        {
+          "id": "d12544db-696c-4a87-a923-76e90fd8b31f",
+          "text": "De financiamiento igualitario."
+        },
+        {
+          "id": "0f9402da-3132-40f9-bec0-fb50cb11446d",
+          "text": "De gestión por el Ministerio de Salud Publica."
+        },
+        {
+          "id": "a383446c-7739-4351-bd03-916e2cc8cebd",
+          "text": "De satisfacción del cliente."
+        }
+      ]
+    },
+    {
+      "id": "de939639-8e66-4687-975b-90b4cc1db9d4",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "El concepto de Calidad de Vida Relacionada con la Salud de la OMS (CVRS), utiliza como uno de sus fundamentos la diferencia entre:",
+      "options": [
+        {
+          "id": "d5c2415e-cb4a-4a43-baaf-9f75f229241c",
+          "text": "La percepción de enfermedad y la enfermedad misma.",
+          "correct": true
+        },
+        {
+          "id": "1796b7ec-ffad-4780-bbd6-da4b9df28f6a",
+          "text": "El diagnóstico precoz y el tratamiento oportuno."
+        },
+        {
+          "id": "fe977755-67e1-4809-88e3-84aabd92ad8d",
+          "text": "La disponibilidad y el acceso a la asistencia."
+        }
+      ]
+    },
+    {
+      "id": "c5cc32c9-680d-40ae-982d-ff63494551a7",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "El empoderamiento es:",
+      "options": [
+        {
+          "id": "b8efbf99-50a8-42a0-89bd-6064385aba11",
+          "text": "Un proceso que promueve la autonomía personal y el desarrollo de habilidades para decidir sobre la salud de la persona, de la familia y/o comunidad.",
+          "correct": true
+        },
+        {
+          "id": "ade7ff67-f25b-4873-b2bc-576666166638",
+          "text": "El conjunto de intervenciones coordinadas para promover soluciones definitivas a las problemáticas en salud comunitarias."
+        },
+        {
+          "id": "d5971bfa-59e2-4888-89b9-102c64eacf45",
+          "text": "Una estrategia de generación de poder para el manejo oportuno de problemas de salud en la comunidad."
+        }
+      ]
+    },
+    {
+      "id": "cce0f1c4-6cb2-489f-9ad1-5255bb363e87",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "El estrato social al que pertenecen las personas no influye en el aumento de la morbi-mortalidad de la población. Tomando el concepto de prevención, podemos decir que:",
+      "options": [
+        {
+          "id": "db81046a-2eb2-428e-b85f-50f41cdead19",
+          "text": "La prevención primaria intenta disminuir la prevalencia de la enfermedad actuando en el periodo prepatogénico.",
+          "correct": true
+        },
+        {
+          "id": "524fdd3f-beed-425c-9af7-db5536a46c89",
+          "text": "La prevención secundaria intenta disminuir la incidencia de la enfermedad, evitando el progreso de la misma en pacientes asintomáticos o con sintomatología precoz."
+        },
+        {
+          "id": "2aa589fd-b1f6-4e0b-b4c3-6ec82d9ca2b9",
+          "text": "La prevención secundaria y terciaria no se realiza en el primer nivel de atención."
+        }
+      ]
+    },
+    {
+      "id": "5588ff03-d356-41ac-86eb-29dc5651b92b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "El método para la toma de decisiones en bioética es:",
+      "options": [
+        {
+          "id": "17d18b21-6aba-4464-80a9-0331f6977e37",
+          "text": "La deliberación.",
+          "correct": true
+        },
+        {
+          "id": "52b804d8-83fa-403e-8f26-070932e0007d",
+          "text": "El método científico."
+        },
+        {
+          "id": "5b342e1c-a0fb-4a25-946e-648630df8b3c",
+          "text": "La contemplación."
+        },
+        {
+          "id": "2f4fb72f-3d12-4454-b976-4585134c3a45",
+          "text": "La disertación."
+        }
+      ]
+    },
+    {
+      "id": "e7a6f510-e8f4-4276-bacd-9310ba60bd8a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "El pago a los prestadores del Sistema Nacional Integrado de Salud se hace por:",
+      "options": [
+        {
+          "id": "31d64dbb-3f19-4be7-9563-400993d884d5",
+          "text": "Cápita.",
+          "correct": true
+        },
+        {
+          "id": "dc966ce2-2759-43b2-b925-68f224457caa",
+          "text": "Acuerdo."
+        },
+        {
+          "id": "5a5ddae9-0c40-4ec8-9b68-e87e282ad2d2",
+          "text": "Bolsillo."
+        }
+      ]
+    },
+    {
+      "id": "9d0d1d2a-3deb-4bbc-b3f5-2f289a7836a7",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "El paradigma mecanicista de la salud alude a la época:",
+      "options": [
+        {
+          "id": "649e8228-c56c-4650-94b8-3a32c861d5b2",
+          "text": "De la revolución industrial, asemejando al cuerpo con una máquina.",
+          "correct": true
+        },
+        {
+          "id": "65772cf9-9be2-4a76-b4bf-43d683c14834",
+          "text": "Actual, utilizando las tecnologías para conocer al cuerpo como por ejemplo tomografías y resonancias."
+        },
+        {
+          "id": "8f224309-348d-44d6-b621-725b3ea707c7",
+          "text": "Contemporánea, comparando el desarrollo neuronal con el desarrollo de motores más seguros y eficientes."
+        }
+      ]
+    },
+    {
+      "id": "0cfc6008-a803-4125-a41f-64fdd60cc031",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "En cuanto a los determinantes de la salud, puede afirmar que:",
+      "options": [
+        {
+          "id": "7ea4798b-6206-48b7-a510-efcb5fe84c82",
+          "text": "Si bien los estilos de vida influyen en la salud, estos están determinados por las condiciones de vida y la estructura social en el que están sumergidas las personas.",
+          "correct": true
+        },
+        {
+          "id": "556d047b-25e7-45fe-9786-0dc11f949e81",
+          "text": "La clasificación de Lalonde sobre los determinantes de la salud es un modelo que se adapta hoy en día al entender la salud como un asunto individual marcado por nuestra biología y nuestro comportamiento."
+        },
+        {
+          "id": "1fe357a5-2806-4761-b042-7d7b3ca1d880",
+          "text": "Los determinantes sociales de la salud no influyen en el estilo de vida de las personas."
+        }
+      ]
+    },
+    {
+      "id": "2db0f7a3-4856-4ff7-bc4e-f071ae0a9bc0",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "Existen diferentes métodos de medición de la pobreza, en nuestro país el oficial es el método del ingreso, a cargo del Instituto Nacional de Estadística. Este método consiste en:",
+      "options": [
+        {
+          "id": "0b84ac5f-548e-454c-8462-b2580bf144b0",
+          "text": "Comparar los ingresos de las personas y los hogares con los valores de una canasta básica de alimentos y otros servicios considerados esenciales.",
+          "correct": true
+        },
+        {
+          "id": "52bbffe0-b479-4b0e-bc8f-b6536b1eda41",
+          "text": "Clasificar a las personas y hogares como pobres o no pobres en función del salario mínimo nacional."
+        },
+        {
+          "id": "d54a6508-bcc4-4962-8ff5-e39b0a729064",
+          "text": "Consultar a las personas si se consideran o no pobres en función del nivel de confort y bienestar que entienden deberían tener en comparación con el resto de la sociedad."
+        },
+        {
+          "id": "b5ebf235-d6f1-489b-aa7f-14c3e46cf77d",
+          "text": "Definir necesidades básicas (en vivienda, educación, salud, acceso a servicios esenciales) y clasificar a los hogares en función de si las tienen o no satisfechas."
+        }
+      ]
+    },
+    {
+      "id": "40c63f9e-bbab-472b-a4a9-064d420d52ae",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "Guille sufrió un grave accidente con quemaduras extensas en todo el cuerpo. ¿En qué nivel de atención debería asistirse?",
+      "options": [
+        {
+          "id": "62932908-0174-4c8a-9e34-4b6759578db4",
+          "text": "Tercer nivel.",
+          "correct": true
+        },
+        {
+          "id": "8c0e52e6-00cd-4fff-8a36-64298e054d0a",
+          "text": "Primer nivel."
+        },
+        {
+          "id": "014db929-ed72-45b6-a0bf-4e9e6eccd773",
+          "text": "Segundo nivel."
+        }
+      ]
+    },
+    {
+      "id": "51372b0d-f506-419a-915c-63080cacd34d",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "Haciendo referencia al concepto de salud podemos decir que es un concepto:",
+      "options": [
+        {
+          "id": "296b3851-9244-46d2-856d-6143ba045202",
+          "text": "Que se construye socialmente y que ha ido cambiando a lo largo de la historia.",
+          "correct": true
+        },
+        {
+          "id": "b5b15945-cee1-47cf-a7ab-5f306ab0cd0d",
+          "text": "Estático donde el personal médico es el que identifica la salud por ausencia de la enfermedad."
+        },
+        {
+          "id": "adf3c70e-2b44-4f59-a024-b8c0ebe399bd",
+          "text": "Que ha ido variando a lo largo de los años pero siempre ha sido definido por los médicos."
+        },
+        {
+          "id": "d54f7c3e-f0fd-4f6d-9e6e-0598edd013d8",
+          "text": "Universal que no varía a lo largo de los años, dado que el mismo es pautado por la Organización Mundial de la Salud (OMS)."
+        }
+      ]
+    },
+    {
+      "id": "e67236ac-ae9b-4dc1-9a1e-4d456fe8ceea",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "Indique cuál de estos ejemplos refleja el concepto de construcción social de la salud y la enfermedad:",
+      "options": [
+        {
+          "id": "18543353-079a-45b7-b984-b2729d0aeb04",
+          "text": "Hace ya más de un siglo que la obesidad dejó de ser considerada sinónimo de belleza y plenitud física.",
+          "correct": true
+        },
+        {
+          "id": "f55032d8-6436-4dcc-93c5-9bc34fac47b9",
+          "text": "Ante la necesidad de aconsejar a un paciente sobre la posible internación de su padre en una casa de salud, la doctora tiene en cuenta que éste último tiene 80 años y es viudo."
+        },
+        {
+          "id": "0bca1695-af2d-40c2-a7fe-df467a7db7a3",
+          "text": "Ante un cuadro de vómitos y diarrea del niño, el doctor aconseja a la madre un tratamiento estricto en las comidas."
+        },
+        {
+          "id": "b9e066b6-70ba-4060-b404-27925d75a898",
+          "text": "El uso de vitaminas durante el embarazo permite en gran medida que las mujeres puedan continuar normalmente con su actividad profesional."
+        }
+      ]
+    },
+    {
+      "id": "60642749-22b7-49e6-bb90-54c75d1b72b1",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "Indique cuál de estos ejemplos refleja el concepto de medicina como institución de control social:",
+      "options": [
+        {
+          "id": "645ab5e9-b8f7-4a81-8936-f36a5c1c2c61",
+          "text": "A principios del siglo XX, los médicos tuvieron un rol central en trasmitir la idea de que la \"higiene personal\" y la \"limpieza\" formaban parte de los \"valores morales\" de la época.",
+          "correct": true
+        },
+        {
+          "id": "d74f09fc-f8ed-4f38-ad6a-22b2d69ee7dc",
+          "text": "Las políticas relacionadas a la salud sexual y reproductiva tienden a concentrarse en aquellas poblaciones femeninas de contexto socio-económico desfavorable."
+        },
+        {
+          "id": "41ca7a7d-d3ff-41c1-a51f-93d858196c16",
+          "text": "Según datos recientes, la mayoría de las personas que padecen esquizofrenia no encuentran oportunidades para insertarse en el mundo laboral, aunque estén debidamente tratados por su enfermedad."
+        }
+      ]
+    },
+    {
+      "id": "26d2f36a-ad6f-41e9-8824-e9bafd0ad25d",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "La Declaración Universal de Derechos Humanos es:",
+      "options": [
+        {
+          "id": "b0f00cff-7d37-4f3b-8154-d2da03100912",
+          "text": "Un consenso entre los estados sobre la inviolabilidad de derechos.",
+          "correct": true
+        },
+        {
+          "id": "b857c982-c666-46f1-9edf-3a4836d4dfe3",
+          "text": "Un documento vinculante, con poder legal."
+        },
+        {
+          "id": "3698ca94-02f9-4de5-ba8f-50f434e77681",
+          "text": "Una carta internacional de los derechos humanos."
+        },
+        {
+          "id": "4a5482fb-5e01-4144-a32c-b92aff22658a",
+          "text": "Una convención de derechos económicos, culturales y sociales."
+        }
+      ]
+    },
+    {
+      "id": "1243efc7-bf2c-4304-ba02-ee55fce29b9b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "La creación de las Redes Integradas de los Servicios de salud es para prestar servicios:",
+      "options": [
+        {
+          "id": "46e10782-d714-4663-84fb-6759f067406d",
+          "text": "Equitativos.",
+          "correct": true
+        },
+        {
+          "id": "8b91d122-e74b-4e7b-8298-f7780843483d",
+          "text": "Dependientes."
+        },
+        {
+          "id": "d4675aad-0923-48f2-a055-153c8a616c48",
+          "text": "Igualitarios."
+        },
+        {
+          "id": "2e214c9b-0cd3-48f2-aa27-84073de36636",
+          "text": "Parciales."
+        }
+      ]
+    },
+    {
+      "id": "e9b5cbeb-fc92-44ce-ab72-dec7cc6c6cf1",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "La definición de Milton Terris agrega a la definición de la Salud de la OMS la capacidad de:",
+      "options": [
+        {
+          "id": "29ed127c-f4bc-47a9-a888-a9b76c2c94ff",
+          "text": "Funcionamiento.",
+          "correct": true
+        },
+        {
+          "id": "6a6a3fd8-aa4e-41c7-82d6-3004e1c29191",
+          "text": "Desplazamiento."
+        },
+        {
+          "id": "1036dea7-51cc-4ae6-911e-a8bc3b90320b",
+          "text": "Mantenimiento."
+        }
+      ]
+    },
+    {
+      "id": "6278e43c-0c9c-4ca4-b86d-5c58677ff99f",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "La evaluación de la salud mental positiva en las poblaciones supone incorporar indicadores de:",
+      "options": [
+        {
+          "id": "bdbcf2a1-997a-4611-b7e6-31fce066dc50",
+          "text": "Resiliencia comunitaria.",
+          "correct": true
+        },
+        {
+          "id": "69456465-2309-413f-95b7-f01d72e3f122",
+          "text": "Factores de riesgo psicosocial."
+        },
+        {
+          "id": "76e9aa7e-833d-43f6-af0f-6949f88d3863",
+          "text": "Trastornos mentales."
+        }
+      ]
+    },
+    {
+      "id": "69e57c03-ace6-4202-b04c-0260c77d9e8c",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "La extensión universitaria, implica un proceso de comunicación en el que:",
+      "options": [
+        {
+          "id": "aff63c15-638b-479d-8290-dd1bedffb68c",
+          "text": "Prima el diálogo horizontal entre el educador y el educando.",
+          "correct": true
+        },
+        {
+          "id": "eda4e7d5-3a18-4aae-bec5-46583cb1cab2",
+          "text": "Los educadores depositan el conocimiento en sus educandos."
+        },
+        {
+          "id": "123c3ad9-47de-4793-8e95-f5b17ca38405",
+          "text": "Los universitarios imparten conocimiento hacia el resto de la población."
+        }
+      ]
+    },
+    {
+      "id": "1512a7db-70ce-46ba-941d-fbe6e5b1f26c",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "La participación comunitaria en salud es importante porque:",
+      "options": [
+        {
+          "id": "33d719ed-b2f0-4b5c-b1a8-9989bb9c3b60",
+          "text": "Cuando las comunidades identifican sus necesidades y problemas, aportan a la planificación de las acciones que promuevan su salud.",
+          "correct": true
+        },
+        {
+          "id": "327f4b01-24d4-4d89-9127-ce897182b836",
+          "text": "Cuantas más personas de la comunidad asistan a un taller de promoción de salud más validez tendrá este."
+        },
+        {
+          "id": "58ec223e-fb28-4232-a987-68b48fa11084",
+          "text": "Hace a los individuos concientes de que su estado de salud depende solo de si mismos."
+        },
+        {
+          "id": "01eaa86c-07db-4670-949f-76f4dfb8b05f",
+          "text": "Le confiere a los miembros de la comunidad participación en las últimas etapas de un proyecto de extensión Universitario."
+        }
+      ]
+    },
+    {
+      "id": "9594d39a-0b33-4dc4-a1ff-b5b6ced76e83",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "La ética es:",
+      "options": [
+        {
+          "id": "c1e9f77b-ddab-4efb-9657-75a27d381682",
+          "text": "El análisis intelectual en toda su complejidad de la moral.",
+          "correct": true
+        },
+        {
+          "id": "f9c39737-d7f5-436b-b3af-e668dcadb26c",
+          "text": "Aquello que crea moral y comportamientos morales."
+        },
+        {
+          "id": "d21c92c2-fd87-43e6-a300-a32b03ef77bb",
+          "text": "El conjunto de comportamientos, actitudes y valores."
+        },
+        {
+          "id": "14332304-be64-4a40-bc7c-34bcfcc0085a",
+          "text": "El puente entre los hechos y los valores."
+        }
+      ]
+    },
+    {
+      "id": "e759e325-9de6-4958-9686-1a3a727eb8c4",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "Las teorías éticas deontológicas fundamentan la moralidad de una acción basándose en:",
+      "options": [
+        {
+          "id": "44e90b59-b2fb-49a1-ad2f-cd69a2c8112f",
+          "text": "El acto.",
+          "correct": true
+        },
+        {
+          "id": "39b671a6-0795-4a8f-ba7c-40f57eb45628",
+          "text": "El agente."
+        },
+        {
+          "id": "a673fd08-5030-4668-992c-9b46dfc65e58",
+          "text": "El efecto."
+        },
+        {
+          "id": "de8e3356-c838-488f-89cc-3ed6cfc7ed6a",
+          "text": "La acción completa."
+        }
+      ]
+    },
+    {
+      "id": "67cf80f3-76d8-4fe0-8159-84667bd3c64b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "Las teorías éticas teleológicas o consecuencialistas fundamentan la moralidad de una acción basándose en:",
+      "options": [
+        {
+          "id": "92783d96-f39c-4ab2-995c-b3cb3a5fc784",
+          "text": "El efecto.",
+          "correct": true
+        },
+        {
+          "id": "aea4d994-226d-4483-bafb-9bab69394713",
+          "text": "El acto."
+        },
+        {
+          "id": "7e4f15a6-73a5-4295-8e4a-8b041ec1f55a",
+          "text": "El agente."
+        },
+        {
+          "id": "2bdf1941-09b6-4e2a-a7c1-95b990484bf9",
+          "text": "La acción completa."
+        }
+      ]
+    },
+    {
+      "id": "b3a25734-0901-42f7-aa66-fbb71a38f661",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "Los abordajes de los determinantes de la salud según la clasificación de Lalonde son:",
+      "options": [
+        {
+          "id": "4ad2285a-1ae1-43ca-b8a7-7226136fb1e9",
+          "text": "Biología humana, medioambiente, estilos de vida.",
+          "correct": true
+        },
+        {
+          "id": "c826b342-ef29-4f15-beaa-39f9200110e8",
+          "text": "Biología humana, medioambiente, sistema de financiamiento."
+        },
+        {
+          "id": "c0765178-86d0-41d9-8a03-bb4de7e1b306",
+          "text": "Medioambiente, estilo de vida, sistema de financiamiento."
+        }
+      ]
+    },
+    {
+      "id": "b5a698ea-ebf6-4ae3-9b84-2350bb3c8871",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "Los derechos de igualdad, en donde se enmarcan los derechos económicos, sociales y culturales, corresponden a los derechos de la:",
+      "options": [
+        {
+          "id": "d5260e7f-5971-4a5b-a285-1b4529571365",
+          "text": "Segunda generación.",
+          "correct": true
+        },
+        {
+          "id": "96bfcf74-f8b6-4e6e-924e-196cdf7c4292",
+          "text": "Cuarta generación."
+        },
+        {
+          "id": "d1b1151c-0d62-4227-aa6d-932a772283b6",
+          "text": "Primera generación."
+        },
+        {
+          "id": "1438e816-5f73-4c1c-adc6-3c5128cb891a",
+          "text": "Tercera generación."
+        }
+      ]
+    },
+    {
+      "id": "d4d86056-9c47-4c81-84db-1ee741b9bde3",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "Los derechos de libertad, en donde se enmarcan los derechos civiles y políticos, corresponden a los derechos de la:",
+      "options": [
+        {
+          "id": "fd86ebfb-d18b-414a-9412-540c1dc67ae8",
+          "text": "Primera generación.",
+          "correct": true
+        },
+        {
+          "id": "5a389dcd-005a-4f4e-bc7e-f330d03c7cbf",
+          "text": "Cuarta generación."
+        },
+        {
+          "id": "e19f5379-bd00-4658-adfa-abf50e71384f",
+          "text": "Segunda generación."
+        },
+        {
+          "id": "bd89e622-1458-4e03-9d59-25a38ba58bfa",
+          "text": "Tercera generación."
+        }
+      ]
+    },
+    {
+      "id": "d3944cf2-648e-4279-a0c2-a2ecbf181f1c",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "Matilde recién se entera que está embarazada. ¿En qué nivel de atención debería controlarse?",
+      "options": [
+        {
+          "id": "59b27020-a9f7-4fd0-82aa-d1f6492ad05a",
+          "text": "Primer nivel.",
+          "correct": true
+        },
+        {
+          "id": "35180151-06ea-44cf-8023-a737e5cf0496",
+          "text": "Segundo nivel."
+        },
+        {
+          "id": "39cba64e-557a-422e-8807-74431127d69b",
+          "text": "Tercer nivel."
+        }
+      ]
+    },
+    {
+      "id": "94e32e0d-2c03-4b93-a15b-0c553067ba38",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "Para conocer las condiciones y medioambiente de trabajo a usted como médico le basta saber:",
+      "options": [
+        {
+          "id": "41e55370-ed76-4514-a124-87ace615da74",
+          "text": "Todas las situaciones vividas por el trabajador.",
+          "correct": true
+        },
+        {
+          "id": "cbe3144d-8802-4c3e-92c8-965d77b6fcfe",
+          "text": "El lugar, horario y el tipo de trabajo."
+        },
+        {
+          "id": "4e29d421-3059-4721-8705-c1787821c349",
+          "text": "La historia personal y familiar del trabajador."
+        }
+      ]
+    },
+    {
+      "id": "b967ee86-730f-46ca-a92d-7c6e78fcd115",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "Para el abordaje de Frenk, la población es un determinante:",
+      "options": [
+        {
+          "id": "9110a189-04af-40d6-ae65-acb3c6852e8d",
+          "text": "Básico.",
+          "correct": true
+        },
+        {
+          "id": "1b1d0055-355a-4824-aea6-064891bc05de",
+          "text": "Estructural."
+        },
+        {
+          "id": "9a4b5f3a-69b4-48fe-b3a9-3bbf993e54c6",
+          "text": "Próximo."
+        }
+      ]
+    },
+    {
+      "id": "49cb0e48-d057-46cc-b1e8-b58ad03ff50f",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "Podemos hablar de salud mental positiva cuando las personas:",
+      "options": [
+        {
+          "id": "4be406de-9311-4191-966c-9ccb5bb59810",
+          "text": "Resuelven sus contradicciones internas y con el entorno.",
+          "correct": true
+        },
+        {
+          "id": "e6585361-88f2-4b54-a772-8930f206fbbc",
+          "text": "Evitan tener contradicciones internas y con el entorno."
+        },
+        {
+          "id": "75aca454-5be2-4fc3-b195-468f140fe3fa",
+          "text": "No tienen contradicciones internas ni con el entorno."
+        }
+      ]
+    },
+    {
+      "id": "e19bd315-b024-4417-9f76-cf418e690f0d",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "Según María L. Pfeiffer, la bioética debe ocuparse de la salud como:",
+      "options": [
+        {
+          "id": "f62f9fa6-1aec-4a91-ac46-9a1b5239dbc3",
+          "text": "Un reclamo de la gente que debe ser acompañado y sostenido.",
+          "correct": true
+        },
+        {
+          "id": "12418fed-6a4c-473f-ad38-221c6a692255",
+          "text": "Un derecho individual y negativo."
+        },
+        {
+          "id": "d4b168b8-801d-4751-996c-990bc2dd1e97",
+          "text": "Un derecho variable y alienable."
+        },
+        {
+          "id": "28bff30d-81b2-4c6b-b052-e0a8e35b6ca4",
+          "text": "Una exigencia que cada hombre no puede hacer a la sociedad."
+        }
+      ]
+    },
+    {
+      "id": "96caefd7-2c96-4fc9-8b1d-29010dc3af22",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "Una de las raíces socioculturales o principal determinante del surgimiento de la bioética fue:",
+      "options": [
+        {
+          "id": "d9837fde-bfeb-4432-b77d-02c7b204b18c",
+          "text": "El avance tecnocientífico.",
+          "correct": true
+        },
+        {
+          "id": "575ff7db-11df-4cd4-ae79-c526dbec3514",
+          "text": "La Declaración Universal sobre Bioética y Derechos Humanos."
+        },
+        {
+          "id": "09834c38-c85b-45d6-80e2-61b7a5b30b47",
+          "text": "La Revolución Francesa."
+        },
+        {
+          "id": "4f1c2f38-df9a-4eb2-902d-163cfd90e2a5",
+          "text": "La revolución industrial."
+        }
+      ]
+    },
+    {
+      "id": "5d3bac8f-8fc2-44a9-8363-e283a84f71bb",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "¿Cuál de las siguientes constituye una medida de promoción de salud?",
+      "options": [
+        {
+          "id": "f1800532-1f62-489b-8fbb-f9cdda7f1149",
+          "text": "Lactancia materna.",
+          "correct": true
+        },
+        {
+          "id": "0c4b9d94-3550-4d38-83c1-2d6d080c4453",
+          "text": "Atención en policlínica."
+        },
+        {
+          "id": "68ebe62c-1f49-46d6-ae50-4c058d1a54f0",
+          "text": "Autoexamen de mama."
+        },
+        {
+          "id": "d31c4924-0a47-484f-a246-e1225028fbf8",
+          "text": "Diagnóstico médico."
+        }
+      ]
+    },
+    {
+      "id": "34ce6903-e81c-47ae-9a51-7f328a0971f5",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "¿En qué ámbito se debe aplicar la atención primaria en salud?",
+      "options": [
+        {
+          "id": "7083587c-b5b4-473c-82a0-caeeda2ccd9a",
+          "text": "En todos los efectores del sistema de salud del país.",
+          "correct": true
+        },
+        {
+          "id": "8968b742-9e26-4ea7-9cb6-4dc63f826e26",
+          "text": "En las policlínicas de las comunidades de bajos ingresos."
+        },
+        {
+          "id": "7db3a2c3-1d6c-4c43-8ad1-c7b5002ac57c",
+          "text": "En los efectores de salud del primer nivel de atención."
+        },
+        {
+          "id": "9e1410af-61c4-471d-8d79-9033d913a4ad",
+          "text": "En los hospitales públicos con gran demanda de servicios."
+        }
+      ]
+    },
+    {
+      "id": "06b420c3-bdd6-4d56-99ed-8df29351833e",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "¿Qué nivel de prevención se aplica cuando a Francisco lo envían a fisioterapia porque se fracturo el brazo y el doctor le sacó el yeso?",
+      "options": [
+        {
+          "id": "974d55f9-4576-4bbe-8fa9-893e5ca58628",
+          "text": "Terciaria.",
+          "correct": true
+        },
+        {
+          "id": "8b5a34bc-3045-409d-9c5d-a3c16f0444b0",
+          "text": "Cuaternaria."
+        },
+        {
+          "id": "4fa11120-e8d3-47d7-bfb3-0bee66165213",
+          "text": "Primaria."
+        },
+        {
+          "id": "18c24928-fb27-4221-b7fc-39e49e585701",
+          "text": "Secundaria."
+        }
+      ]
+    },
+    {
+      "id": "f81ff26f-4d8a-44b8-9620-18d6d8c5381d",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2015-05-16",
+      "text": "¿Qué nivel de prevención se aplica cuando se aprueba una ley para el control del tabaco en Uruguay?",
+      "options": [
+        {
+          "id": "b8133357-17a1-47f2-bfd4-6d43ac4637b3",
+          "text": "Primaria.",
+          "correct": true
+        },
+        {
+          "id": "dcdcd575-0ed5-47d9-8c3a-daa1b22595d3",
+          "text": "Cuaternaria."
+        },
+        {
+          "id": "d8f205ab-dc7d-44c1-9bbc-7a60a23f1995",
+          "text": "Secundaria."
+        },
+        {
+          "id": "f925f6c8-8c7e-4fa8-955d-47a14f00a974",
+          "text": "Terciaria."
+        }
+      ]
+    },
+    {
       "id": "ca7d9816-c5b3-42e1-ad6d-1512f3312243",
       "evaluation": "parcial_1",
       "source": "partial",
@@ -1852,6 +2794,914 @@
       ]
     },
     {
+      "id": "73d3a1ca-fe54-46a9-af8e-c6678f157c94",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "De acuerdo a la Encuesta de Violencia Doméstica en mujeres usuarias de los servicios de salud (Uruguay, 2011/2013), la forma de violencia más frecuente es:",
+      "options": [
+        {
+          "id": "8fc95679-c50e-4375-8c49-ce27ec27e99f",
+          "text": "La violencia psicológica.",
+          "correct": true
+        },
+        {
+          "id": "f2f7f08b-1b65-4b58-8684-f73d28484fb9",
+          "text": "La violencia física."
+        },
+        {
+          "id": "af367d49-f055-4f62-afa0-c029cd70c768",
+          "text": "La violencia sexual."
+        }
+      ]
+    },
+    {
+      "id": "5eedb34c-eb94-4e22-a65c-08dc73e67354",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "Durante la relación clínica interacciona el equipo de salud, el paciente y la sociedad. ¿Qué principio ético toma jerarquía desde el punto de vista del paciente?",
+      "options": [
+        {
+          "id": "a7b2d0c7-4469-434d-9ec2-9c166c4939e2",
+          "text": "Autonomía.",
+          "correct": true
+        },
+        {
+          "id": "5d7015d7-8dab-409d-ae42-c8384f545b37",
+          "text": "Beneficencia."
+        },
+        {
+          "id": "f227fdd0-0eab-473a-867b-77af3f02cdae",
+          "text": "Justicia."
+        }
+      ]
+    },
+    {
+      "id": "336ed169-2789-4181-b041-e4cf896ea4d6",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "El Fondo Nacional de Salud (FONASA) es el responsable de pagar a los prestadores integrales según:",
+      "options": [
+        {
+          "id": "9578f4c6-aa1e-48c0-b7ea-de317553da79",
+          "text": "La cápita según edad y sexo del usuario, y el cumplimiento de metas asistenciales.",
+          "correct": true
+        },
+        {
+          "id": "fa410952-3170-483f-ae71-73028e807131",
+          "text": "El gasto generado por el usuario al utilizar los servicios que brinda el prestador integral."
+        },
+        {
+          "id": "af0173d7-6664-40de-835a-dca324996b83",
+          "text": "El nivel de ingresos del usuario que aporta el 3%, 4, 5% o 6% según corresponda."
+        },
+        {
+          "id": "d0cbaa42-b67f-4bb0-949f-66352d12dbac",
+          "text": "El tipo de contrato de gestión suscripto entre el prestador y la Junta Nacional de Salud (JUNASA)."
+        }
+      ]
+    },
+    {
+      "id": "e95b13bd-b90a-4e5f-a338-c6897062a2ae",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "El proceso de medicalización de la sociedad refiere:",
+      "options": [
+        {
+          "id": "e32a035c-3ad0-4d57-b6bc-f0db92536138",
+          "text": "A la intervención creciente de la medicina en la vida privada y cotidiana de las personas.",
+          "correct": true
+        },
+        {
+          "id": "b63f05c3-23b4-42fe-aa7a-90cada313897",
+          "text": "A la consolidación de un modelo asistencial tecnologizado y hospitalocéntrico."
+        },
+        {
+          "id": "e41a0df2-f9ec-447f-9a40-6322c2a2dafa",
+          "text": "A la creciente diversificación de las especialidades médicas en las sociedades actuales."
+        }
+      ]
+    },
+    {
+      "id": "d3aedb72-216d-4ee1-9879-2042f6e8967c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "El tipo de pirámide poblacional que describe una población caracterizada por tener una estructura etárea envejecida, con una disminución sostenida de la natalidad y un aumento marcado en la esperanza de vida, es:",
+      "options": [
+        {
+          "id": "7493b5f9-cb45-4170-8010-ccd821751a26",
+          "text": "Bulbo.",
+          "correct": true
+        },
+        {
+          "id": "790317dd-0c26-4ce9-9de4-108f6fff80df",
+          "text": "Campana."
+        },
+        {
+          "id": "70396608-927f-4ccc-8973-85e1f13094b5",
+          "text": "Pagoda."
+        }
+      ]
+    },
+    {
+      "id": "af3dfdb3-790a-4868-b199-cf4f5cf304a5",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "En el Uruguay se implementa el Sistema Nacional Integrado de Salud para:",
+      "options": [
+        {
+          "id": "83f4b4e3-cd83-49bf-8c04-2b8ad806a07b",
+          "text": "Asegurar la equidad en el acceso a servicios de calidad.",
+          "correct": true
+        },
+        {
+          "id": "157fac5e-a60d-474c-a1a0-e77c45d5f4a8",
+          "text": "Asegurar la segmentación de los servicios especializados."
+        },
+        {
+          "id": "0ee55496-2504-4eb6-aa0b-6d49292ce27e",
+          "text": "Mantener el aseguramiento y cobertura en salud."
+        },
+        {
+          "id": "5b3b088a-bd0f-4d8b-8a67-0f10c6879e5c",
+          "text": "Mantener las funciones de conducción y rectoría del Estado."
+        }
+      ]
+    },
+    {
+      "id": "5d52bc94-c090-448a-83e7-2636299021d1",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "En la resolución de conflictos la bioética es una disciplina:",
+      "options": [
+        {
+          "id": "08cab4f8-ff07-4a99-be55-83bf9e1357d7",
+          "text": "Reflexiva.",
+          "correct": true
+        },
+        {
+          "id": "e10845a2-f03a-480c-8828-557872399eed",
+          "text": "Coercitiva."
+        },
+        {
+          "id": "c728b7bb-ae8d-4ce6-bac2-10eaa76d4b78",
+          "text": "Dogmática."
+        }
+      ]
+    },
+    {
+      "id": "6fe818ea-cd35-482a-a1f8-dfa3ce6f7a60",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "En referencia al cálculo de los indicadores demográficos, ¿cuál de los siguientes enunciado es correcto?",
+      "options": [
+        {
+          "id": "e34a1f63-3dff-478a-9847-eb78cfadc32f",
+          "text": "La tasa de mortalidad infantil considera los nacimientos y defunciones de todos los niños menores de 1 año en un período determinado.",
+          "correct": true
+        },
+        {
+          "id": "4fe52bda-05dc-454d-8ef0-966a54d09c14",
+          "text": "La esperanza de vida considera la edad promedio en que fallecen los adultos mayores."
+        },
+        {
+          "id": "1a5b5ba3-5305-4077-a526-cdb856b2d3f4",
+          "text": "La tasa global de fecundidad considera el total de nacimientos y el total de la población en un período determinado."
+        }
+      ]
+    },
+    {
+      "id": "5b6b6ecb-b118-41a4-a1b2-53552d5a9859",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "Indique cuál de los siguientes enunciados se corresponde con una definición absoluta de familia:",
+      "options": [
+        {
+          "id": "a1a5a4fb-fa78-4d8e-bbb5-b74eaa1fe743",
+          "text": "Es una comunidad de personas que residen bajo el mismo techo, comparten un fondo común de alimentación y tienen lazos afectivos y/o de consanguinidad.",
+          "correct": true
+        },
+        {
+          "id": "fc89bbbe-d427-4bb3-b9cc-be5a35399d88",
+          "text": "Es una comunidad conformada por una pareja heterosexual y la necesaria presencia de hijos."
+        },
+        {
+          "id": "7bd9afe2-b528-4fa6-a856-e54056fee0b0",
+          "text": "Es una comunidad de personas enlazadas por consanguinidad que hayan o no tenido algún tipo de vínculo entre sí durante sus vidas."
+        }
+      ]
+    },
+    {
+      "id": "28136259-efdd-4e38-bcae-c17287dc5795",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "Kottow y Schramm plantean como principio para la salud pública:",
+      "options": [
+        {
+          "id": "4cb2a7cf-6e44-4c5a-96d6-8768fb583dd9",
+          "text": "Protección.",
+          "correct": true
+        },
+        {
+          "id": "f38ad350-662b-4cfb-a994-9a79c37f72a7",
+          "text": "Autonomía."
+        },
+        {
+          "id": "505195db-3807-435c-9915-6a37f1a5315b",
+          "text": "Solidaridad."
+        }
+      ]
+    },
+    {
+      "id": "57d6886e-d6ac-4197-bad1-6e7545150c48",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "La \"responsabilidad\" humana sobre la naturaleza, desde una perspectiva deontológica, sobre la que el ser humano tiene una obligación de \"cuidado\", se justifica:",
+      "options": [
+        {
+          "id": "962a6f96-6aff-4230-a89d-4790c3e89e81",
+          "text": "Desde visiones religiosas y laicas.",
+          "correct": true
+        },
+        {
+          "id": "419ae314-e089-4efd-8bc7-0a386599efc1",
+          "text": "Desde las visiones religiosas."
+        },
+        {
+          "id": "b865da68-631c-429b-8d18-e9c994ac6221",
+          "text": "Desde visiones religiosas orientales."
+        }
+      ]
+    },
+    {
+      "id": "5747f6a1-9b46-41cb-8fd6-903c706a0d94",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "La Atención Primaria en Salud es una estrategia diseñada para:",
+      "options": [
+        {
+          "id": "b2c21c86-1c65-4f38-a3f4-2ee89829d1f6",
+          "text": "Lograr la salud para el conjunto de la población.",
+          "correct": true
+        },
+        {
+          "id": "1bec19e9-9162-443a-b696-371ec381fe35",
+          "text": "Mejorar el uso de la tecnología en el diagnóstico precoz."
+        },
+        {
+          "id": "8795da0b-d051-4f93-85bc-14ee92f15af5",
+          "text": "Mejorar la atención a la salud de la población vulnerable."
+        },
+        {
+          "id": "48888a6f-500a-4411-9e85-1125b5135551",
+          "text": "Optimizar el primer nivel de atención."
+        }
+      ]
+    },
+    {
+      "id": "82a89842-4a8c-43c9-845b-4b4c79639c84",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "La familia es la institución en la que transcurre la procreación, crianza y socialización de las nuevas generaciones y se caracteriza en la actualidad por un descenso de los hogares:",
+      "options": [
+        {
+          "id": "04e3117c-ee0a-4ad5-bf4e-d72337ddb532",
+          "text": "Nucleares biparentales.",
+          "correct": true
+        },
+        {
+          "id": "c09e8ffa-c74c-42f8-8f48-2bad135db470",
+          "text": "Monoparentales."
+        },
+        {
+          "id": "50f92cb3-82dc-460e-8666-6d58a8e4c8ec",
+          "text": "Nucleares sin hijos."
+        },
+        {
+          "id": "a9c9c907-4eca-4054-bb7c-0ad2c7a954ca",
+          "text": "Unipersonales."
+        }
+      ]
+    },
+    {
+      "id": "36ab10f8-3024-43ef-8fee-a167c74c5424",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "La información brindada a los sujetos que participarán en una investigación debe incluir:",
+      "options": [
+        {
+          "id": "039f3dad-890b-43fa-bd70-dd1c011fd465",
+          "text": "Propósito de la investigación, riesgos y beneficios, garantía de confidencialidad.",
+          "correct": true
+        },
+        {
+          "id": "e83fbe48-bb90-41bf-9173-5740dfcb04ed",
+          "text": "Resultados esperados, beneficios, responsabilidad de los sujetos de investigación."
+        },
+        {
+          "id": "2dd9f168-b40b-4d2e-a5c4-4b150ec8b6e6",
+          "text": "Riesgos físicos, emocionales o sociales siempre que existan beneficios probables."
+        }
+      ]
+    },
+    {
+      "id": "580157c1-a058-411a-9e96-35f4599b8d7e",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "La siguiente pregunta refiere a la nota periodística a continuación: \"LAS FORMAS DE NACER: Cada vez se busca humanizar más el parto. Una vuelta a lo natural y a escuchar a la madre. Según la Organización Mundial de la Salud (OMS), más de 80% de los partos son normales y sin complicaciones. Sin embargo, en Uruguay todavía es frecuente que en la sala de partos se administren medicamentos como la oxitocina (hormona para estimular las contracciones), se hagan episiotomías (incisión en el periné), se monitoreen los latidos del bebé y se ofrezca la anestesia epidural como única alternativa para aliviar el dolor\". ¿Qué concepto permite analizar el fragmento de la nota periodística?",
+      "options": [
+        {
+          "id": "ce83d9fa-be9e-46d6-8f7f-89a5cfb4c07e",
+          "text": "Medicalización de la vida cotidiana.",
+          "correct": true
+        },
+        {
+          "id": "3d3662fd-7eaf-4bd7-9be1-86e7dc0bea98",
+          "text": "Determinantes sociales de la salud."
+        },
+        {
+          "id": "ef937475-c924-46bb-88d0-b21d33cc6081",
+          "text": "Equidad en salud."
+        },
+        {
+          "id": "3db995a7-8ef0-4fd0-bc65-00cb0746ff74",
+          "text": "Exclusión social."
+        }
+      ]
+    },
+    {
+      "id": "f874d53a-7ef1-4f61-a99a-7ab59b0aa216",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "La teoría utilitarista se puede clasificar como:",
+      "options": [
+        {
+          "id": "efa2fb01-09da-4d74-ae8b-560dd6224d17",
+          "text": "Teleológica.",
+          "correct": true
+        },
+        {
+          "id": "fe55b15e-bcf4-4e1a-b0d7-4216202746ae",
+          "text": "Deontológica."
+        },
+        {
+          "id": "9351cc2d-79e3-45e2-bf40-46138bf2024c",
+          "text": "Teológica."
+        }
+      ]
+    },
+    {
+      "id": "05bb3f01-5912-4578-b158-a975ab07b238",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "La teoría ética más utilizada en salud pública es la:",
+      "options": [
+        {
+          "id": "ad350a8d-2e23-4885-b92f-b8be3841106d",
+          "text": "Consecuencialista.",
+          "correct": true
+        },
+        {
+          "id": "75571361-eb6a-4cbf-83e7-6b61ac4ea188",
+          "text": "De las virtudes."
+        },
+        {
+          "id": "af7d1ef3-5e78-47f5-80b4-cb55abc2679c",
+          "text": "Deontológica."
+        }
+      ]
+    },
+    {
+      "id": "a7d1c740-81b9-4609-ac76-c53f04ec3637",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "La violencia doméstica es considerada un problema de salud pública debido a que:",
+      "options": [
+        {
+          "id": "6bc79ce3-2e4b-4ba2-b819-dce387ec2891",
+          "text": "El número de casos y defunciones es de magnitud importante así como la trascendencia de sus consecuencias para los afectados directa o indirectamente.",
+          "correct": true
+        },
+        {
+          "id": "f41c2bb9-9121-4f2c-bab9-f5440b482fe5",
+          "text": "En la enorme mayoría de los casos las víctimas son mujeres, niños y/o adultos mayores y los agresores son varones."
+        },
+        {
+          "id": "c56be423-6229-4732-aaf1-b48f67aceed0",
+          "text": "Es un fenómeno que ha sido visibilizado en los últimos años por distintos movimientos de colectivos sociales."
+        }
+      ]
+    },
+    {
+      "id": "8296e0b8-d254-4906-9b12-1640786bd14e",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "Las crisis familiares que tienen relación con el ciclo vital familiar se denominan:",
+      "options": [
+        {
+          "id": "6918172b-94d6-4fa8-8e2c-177cc42591de",
+          "text": "Normativas.",
+          "correct": true
+        },
+        {
+          "id": "0211e73e-42a0-430a-9f78-c164281c1c0a",
+          "text": "Estructurales."
+        },
+        {
+          "id": "be87c3cc-b3f7-4e63-81c5-4f4fee1df553",
+          "text": "Paranormativas."
+        }
+      ]
+    },
+    {
+      "id": "c822c4ee-e79a-4fe0-ad36-6d55e3e95d50",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "Las teorías teleológicas valoran las cualidades morales de:",
+      "options": [
+        {
+          "id": "8c0cc341-eba6-4533-a19a-84c51cb28470",
+          "text": "Las consecuencias.",
+          "correct": true
+        },
+        {
+          "id": "3c22e1b3-a93f-40e3-af4c-2f8a7e19f7d7",
+          "text": "Las acciones."
+        },
+        {
+          "id": "0b38b227-5187-4373-9dd2-fc367fd4a909",
+          "text": "Los individuos."
+        }
+      ]
+    },
+    {
+      "id": "26f593db-efca-472c-8a2e-22f7690a00a4",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "Los Comités de ética de la investigación en seres humanos son:",
+      "options": [
+        {
+          "id": "c42b5793-9473-47ec-8986-4f3b9eaa1a37",
+          "text": "Herramientas de carácter resolutivo, consultivo y educativo.",
+          "correct": true
+        },
+        {
+          "id": "4e975f96-f950-4dc0-88c9-23d27ed37549",
+          "text": "Tribunales que juzgan el comportamiento de los investigadores."
+        },
+        {
+          "id": "8bd8a735-b30c-4ea1-8ecf-ee279263d637",
+          "text": "Órganos que pueden evaluar sin posibilidad de acciones coercitivas."
+        }
+      ]
+    },
+    {
+      "id": "1eff20de-75ad-4d76-90b6-dd79df9f170d",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "Los derechos humanos se caracterizan por ser:",
+      "options": [
+        {
+          "id": "4f12f038-9332-407b-862c-417ba91b3196",
+          "text": "Indivisibles.",
+          "correct": true
+        },
+        {
+          "id": "747e756c-13f4-4725-adc7-e27173c6c4e6",
+          "text": "Jerarquizables."
+        },
+        {
+          "id": "046bc1e6-149a-478b-9fe2-4338ce4b687b",
+          "text": "Relativos."
+        }
+      ]
+    },
+    {
+      "id": "a3628da9-3798-4856-a93a-65dd85bbd1bf",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "Los derechos sexuales se vulneran cuando no se garantiza:",
+      "options": [
+        {
+          "id": "4ccb171b-43f5-48cf-b545-47a230eaca4a",
+          "text": "El acceso a métodos anticonceptivos seguros y confiables.",
+          "correct": true
+        },
+        {
+          "id": "67446ad3-22d6-41cb-bce2-b631865a4262",
+          "text": "El ejercicio libre y autónomo de la maternidad/paternidad, incluyendo la decisión de tener o no hijos."
+        },
+        {
+          "id": "ff774b6b-3d43-488e-878f-d3e9bf6ab122",
+          "text": "Una atención integral y de calidad a la salud por causas relacionadas con el embarazo y parto."
+        }
+      ]
+    },
+    {
+      "id": "882f6c07-2efd-48b7-accd-d66058783205",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "Los patrones familiares repetitivos son:",
+      "options": [
+        {
+          "id": "365328e1-51e8-422c-9380-6235120bf0e3",
+          "text": "Pautas de comportamiento.",
+          "correct": true
+        },
+        {
+          "id": "abdee22b-d921-475c-ad13-c2559c9ca0f0",
+          "text": "Mandatos sociales."
+        },
+        {
+          "id": "7584180c-82dc-4554-a003-8c8650dca375",
+          "text": "Rasgos temperamentales."
+        }
+      ]
+    },
+    {
+      "id": "56e3cee1-bbee-4748-b530-6c6281bbbde1",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "Los principios bioéticos planteados por Beauchamp y Childress son obligatorios \"prima facie\", lo cual significa que:",
+      "options": [
+        {
+          "id": "dc4dcf1b-b11d-407f-8d29-b1160cfc8d14",
+          "text": "Estamos obligados a respetarlos a menos que entren en conflicto entre ellos.",
+          "correct": true
+        },
+        {
+          "id": "d60f0c2f-5b02-46f8-ab36-cb585d524546",
+          "text": "Existe un orden jerárquico entre ellos que debemos respetar imparcialmente."
+        },
+        {
+          "id": "aae16eee-f7de-4b47-a402-204455d7a577",
+          "text": "Vulnerarlos implicaría una sanción moral y legal para el profesional involucrado."
+        }
+      ]
+    },
+    {
+      "id": "6f014ce9-9ee9-4853-a46c-083deb9ca047",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "Para Aristoteles el fin último del hombre es:",
+      "options": [
+        {
+          "id": "98851caa-7348-4d3f-95e0-3fa28f510d84",
+          "text": "La felicidad.",
+          "correct": true
+        },
+        {
+          "id": "04dede42-fd5a-4505-8c09-cc6c25d746a2",
+          "text": "El deber."
+        },
+        {
+          "id": "6f872367-0b53-43f8-8d83-39f91b036802",
+          "text": "La razón."
+        }
+      ]
+    },
+    {
+      "id": "4a7a09e4-cf69-461c-8b3c-9fbf654a76d9",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "Para Aristoteles el justo medio se aplica a las virtudes:",
+      "options": [
+        {
+          "id": "e28f1ef5-2af1-4885-b9d1-b2bd23df37c9",
+          "text": "Morales.",
+          "correct": true
+        },
+        {
+          "id": "9224dbe0-e144-44f0-a8ba-630c4f49948c",
+          "text": "Intelectuales."
+        },
+        {
+          "id": "3c34ac1f-fd45-47da-9121-2a80d23291f6",
+          "text": "Políticas."
+        }
+      ]
+    },
+    {
+      "id": "277af691-be6f-4963-8657-41b9c8dfa6a4",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "Según la propuesta de Adela Cortina, la ética de mínimos hace referencia a mínimos relacionados con el principio de:",
+      "options": [
+        {
+          "id": "601bf3b8-800d-4eea-8429-8ad1fbbe9324",
+          "text": "Autonomía.",
+          "correct": true
+        },
+        {
+          "id": "6b3b9921-c631-4cfd-9f0f-b06b6e9873d7",
+          "text": "Beneficencia."
+        },
+        {
+          "id": "9f097336-2cb2-40f6-9d68-7d376826e740",
+          "text": "Justicia."
+        }
+      ]
+    },
+    {
+      "id": "c0937358-8392-4f0f-aff3-289b6c0abd5a",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "Según la teoría Kantiana, los actos moralmente correctos son aquellos:",
+      "options": [
+        {
+          "id": "39099f18-1eca-4fb4-b9ab-29eb1da1911d",
+          "text": "Por deber.",
+          "correct": true
+        },
+        {
+          "id": "804ee731-2d47-4396-bb11-b1533f5efed4",
+          "text": "Acordes al deber."
+        },
+        {
+          "id": "02ae1c61-2b01-4e3d-a148-9733c62cdbe4",
+          "text": "Conformes al deber."
+        }
+      ]
+    },
+    {
+      "id": "6c651ec4-a042-40c7-b42e-24e7eb4bde8f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "Sobre la integración de la Junta Nacional de Salud:",
+      "options": [
+        {
+          "id": "d8054d78-e426-443f-85b9-0b6c161530a4",
+          "text": "Su directorio cuenta con un representante de los trabajadores y otro de los usuarios.",
+          "correct": true
+        },
+        {
+          "id": "a539a1e9-49fb-4a67-9522-4afd8cbdddfd",
+          "text": "El Banco de Seguros del Estado es miembro del directorio."
+        },
+        {
+          "id": "16bb9eb2-cc69-4e49-b3bf-92fb763288d5",
+          "text": "Está conformado únicamente por autoridades del Ministerio de Salud Pública."
+        }
+      ]
+    },
+    {
+      "id": "11417703-06ce-45ae-b422-daf50533a30f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "Un conflicto central en ética de la salud pública involucra el principio de:",
+      "options": [
+        {
+          "id": "145e1fd3-7467-4a49-a9da-a2be1a077131",
+          "text": "Autonomía.",
+          "correct": true
+        },
+        {
+          "id": "1bac5f6a-efb2-4776-8ced-3fc8b2561135",
+          "text": "Beneficencia."
+        },
+        {
+          "id": "d6f9a16a-bbb4-4d0f-ab7e-57fe995bbcdd",
+          "text": "No maleficencia."
+        }
+      ]
+    },
+    {
+      "id": "e2bb4e52-7d43-4635-974e-b8a903c2620f",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "Un grupo de aprendizaje en territorio se propone realizar un Análisis de Situación de Salud (ASIS) en una localidad rural, para lo que utilizan datos del CENSO de población realizado por el INE (Instituto Nacional de Estadística). Sobre esta fuente de datos podemos afirmar que:",
+      "options": [
+        {
+          "id": "6465b7f8-ffef-4b4b-b750-9579d03d18be",
+          "text": "Es una fuente de información secundaria.",
+          "correct": true
+        },
+        {
+          "id": "48ef45a2-9db8-4169-9943-ca20352a5c50",
+          "text": "Brinda todos los datos necesarios para realizar un ASIS."
+        },
+        {
+          "id": "5be0078d-a010-4258-8388-00c7b0b566c8",
+          "text": "Es una fuente de información primaria."
+        },
+        {
+          "id": "15e3bc6b-f57e-4c9f-b1dc-7d0b598dc06b",
+          "text": "No debe ser considerada para realizar un ASIS."
+        }
+      ]
+    },
+    {
+      "id": "2f41ee48-6d87-4d05-96e8-0f071a69df42",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "Una de las justificaciones limitantes de la regla de veracidad podría ser:",
+      "options": [
+        {
+          "id": "6cc60928-6da3-461b-8c78-7b690d7b081b",
+          "text": "El privilegio terapéutico.",
+          "correct": true
+        },
+        {
+          "id": "bfc02843-d275-4a18-8a4a-4ef9d92d7894",
+          "text": "El peligro de muerte inminente."
+        },
+        {
+          "id": "760aa447-3a7d-4799-96c5-e9a47e20f63d",
+          "text": "La negativa a un tratamiento."
+        }
+      ]
+    },
+    {
+      "id": "e249f1cb-1967-463e-9c67-52bf6832bd27",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "Uno de los cambios en la composición de las familias de los estratos sociales medios y altos es el aumento de los hogares:",
+      "options": [
+        {
+          "id": "aa15fb65-8a95-41c4-8592-9179bd506c15",
+          "text": "Nucleares sin hijos.",
+          "correct": true
+        },
+        {
+          "id": "b3e9f6b9-89d8-4c2d-836e-692d09999e16",
+          "text": "Biparentales."
+        },
+        {
+          "id": "abb7c968-9cb5-4777-bd7d-ae8287928757",
+          "text": "Monoparentales."
+        }
+      ]
+    },
+    {
+      "id": "22afbc38-7622-4f54-ac63-2092a5c8348b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "¿Cuál es la principal causa de muerte entre las personas menores de 30 años en el Uruguay?",
+      "options": [
+        {
+          "id": "5b238ae2-98d0-4e26-8b2f-83b67642620e",
+          "text": "Los siniestros de tránsito.",
+          "correct": true
+        },
+        {
+          "id": "17ab0dc2-9161-49ae-9379-99b60ca03e2c",
+          "text": "El consumo excesivo de drogas psico-activas."
+        },
+        {
+          "id": "acba35d4-7a60-4ede-8c85-fecd9c47480b",
+          "text": "Las enfermedades cardiovasculares."
+        }
+      ]
+    },
+    {
+      "id": "e2454d8f-0f05-46de-93e7-a6e5240338fe",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "¿Cuáles de las siguientes opciones corresponde a un factor de riesgo para la violencia doméstica?",
+      "options": [
+        {
+          "id": "2b5e9d3d-aced-4a28-a2d6-9e05375cb60c",
+          "text": "La pertenencia a un género.",
+          "correct": true
+        },
+        {
+          "id": "99e2ede1-67b5-4936-aa4f-a98bdc336a02",
+          "text": "El estrato social de la familia."
+        },
+        {
+          "id": "c9535fd8-a70b-4873-bf5f-ff23f9906b2c",
+          "text": "La composición del hogar."
+        }
+      ]
+    },
+    {
+      "id": "34c86aa0-3edb-41db-b06c-c2cb91554b56",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "¿Cómo se denomina al conjunto de todas las organizaciones, instituciones y recursos cuyo objetivo principal consiste en mejorar la salud de la población?",
+      "options": [
+        {
+          "id": "3b6bae84-88d0-488b-9a93-9f652e7702ae",
+          "text": "Sistema de salud.",
+          "correct": true
+        },
+        {
+          "id": "ba4c954c-e360-45fb-958c-b1400c8602b9",
+          "text": "Atención Primaria en Salud."
+        },
+        {
+          "id": "8317f32e-1dd9-4f81-b471-9322d8033857",
+          "text": "Cuarto nivel de atención."
+        },
+        {
+          "id": "52c10a32-bb08-4de3-b86b-026a1d7c15f1",
+          "text": "Primer nivel de atención."
+        }
+      ]
+    },
+    {
+      "id": "3e938f0b-06d5-4ac4-b170-8052a8e7f6ab",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "¿En qué modelo de relación clínica los valores del paciente se consideran objetivos y no se toman en cuenta para la toma de decisiones?",
+      "options": [
+        {
+          "id": "aa565a84-88ab-4dad-a3cb-19e09de5f829",
+          "text": "Paternalista.",
+          "correct": true
+        },
+        {
+          "id": "f567fe62-9454-4f8f-b1d6-46b74487ac9b",
+          "text": "Informativo."
+        },
+        {
+          "id": "cedb6625-b2d6-4739-abe6-f3af6d8294fd",
+          "text": "Interpretativo."
+        }
+      ]
+    },
+    {
+      "id": "06894f9e-65d7-447e-b0bc-9e4fdc020b22",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "¿Qué método de reflexión parte de las teorías éticas y finaliza con el analisis del caso particular?",
+      "options": [
+        {
+          "id": "5524c346-fb97-48be-95e9-b353b8a6f5c9",
+          "text": "Deductivo.",
+          "correct": true
+        },
+        {
+          "id": "6f59f95b-85e3-4ec0-ba72-ceccd83b3e74",
+          "text": "Deliberativo."
+        },
+        {
+          "id": "1b7a876b-1f9b-4f67-bf16-0a90f3657732",
+          "text": "Inductivo."
+        }
+      ]
+    },
+    {
+      "id": "67eda664-e405-4c2f-aa63-632c59cf56f8",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2016-07-07",
+      "text": "¿Qué rol cumple el médico en una relación médico - paciente según el modelo informativo?",
+      "options": [
+        {
+          "id": "a08b44a2-5399-4702-a69d-bfd2fc805bcd",
+          "text": "Técnico.",
+          "correct": true
+        },
+        {
+          "id": "c58f76b2-c9cd-40da-990c-b14f8cabfbe6",
+          "text": "Consejero."
+        },
+        {
+          "id": "0f45c4f2-b2f8-495f-9b5b-f6e6452ba0e8",
+          "text": "Tutor."
+        }
+      ]
+    },
+    {
       "id": "92b9529f-f5ea-4f28-b351-278dc0e27885",
       "evaluation": "parcial_2",
       "source": "partial",
@@ -2545,6 +4395,630 @@
         {
           "id": "0279ced7-a59b-4901-bcce-79f3df8011d8",
           "text": "Ómnibus."
+        }
+      ]
+    },
+    {
+      "id": "5009f68b-1e7a-4bab-bd79-130b4dd92f23",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Cuando hablamos de género en las ciencias sociales aludimos a:",
+      "options": [
+        {
+          "id": "eff17a0c-7508-4685-aebc-0117ec62d5e1",
+          "text": "Un sistema simbólico que establece las diferencias de comportamiento y actuación de hombres o mujeres.",
+          "correct": true
+        },
+        {
+          "id": "1b4c9376-f650-4d37-bbeb-391197b6acb8",
+          "text": "Un sistema general de comportamiento humano naturalmente desarrollado desde la concepción."
+        },
+        {
+          "id": "95d5cb96-54af-4ba3-a17f-799ec5b605e9",
+          "text": "Una filosofía que sostiene la no existencia de una diferencia biológica entre hombres y mujeres."
+        }
+      ]
+    },
+    {
+      "id": "a42ab265-7b3a-4459-ae6a-f276fac912c9",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Cuando se diseña un poster los expertos aconsejan:",
+      "options": [
+        {
+          "id": "77f3805b-75d8-432a-8298-23d11c60e82f",
+          "text": "Fondos claros y letras oscuras.",
+          "correct": true
+        },
+        {
+          "id": "7f728c28-73b9-408a-ace8-1cb391140043",
+          "text": "10 tipos de colores máximo."
+        },
+        {
+          "id": "4877a2fd-6aaf-449d-be3b-ef712a41ac52",
+          "text": "Colores oscuros en el fondo."
+        }
+      ]
+    },
+    {
+      "id": "b293f211-ee9c-4300-a275-1f2372f1f93b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "De acuerdo a lo propuesto por María Luisa Pfeiffer, el primer llamado de atención bioética, es decir la primera consideración sobre el abuso de las personas por parte de la ciencia y especialmente de la ciencia médica fue/fueron:",
+      "options": [
+        {
+          "id": "744d177b-7e7c-4639-9bed-325363bf9d7f",
+          "text": "Los juicios de Nuremberg.",
+          "correct": true
+        },
+        {
+          "id": "ba960b83-2e77-4494-a873-9f29fcc01881",
+          "text": "El Informe Belmont."
+        },
+        {
+          "id": "df6add46-b357-410b-b7db-55f87783c0ba",
+          "text": "La Declaración de Derechos Humanos."
+        }
+      ]
+    },
+    {
+      "id": "e8f6d11b-8cd7-4672-a504-e765a990659b",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Dentro de la discusión acerca de las intervenciones comunitarias, Hugo Rodriguez Almada propone que la extensión universitaria puede adoptar como marco referencial al paradigma:",
+      "options": [
+        {
+          "id": "b33fd296-a717-413e-8eea-42f7cc55c1a3",
+          "text": "De los Derechos Humanos.",
+          "correct": true
+        },
+        {
+          "id": "1e44897f-52c4-4f33-9036-98c94e87c962",
+          "text": "De la bioética principialista."
+        },
+        {
+          "id": "9406c882-2f31-4f81-8490-cdd8968e7cf0",
+          "text": "Del positivismo."
+        }
+      ]
+    },
+    {
+      "id": "a38a172e-4856-489f-bdd6-aebada44ce0a",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "El principio de beneficencia es el más arraigado en la práctica médica, genera problemas y dificultades cuando:",
+      "options": [
+        {
+          "id": "b94d7401-92dd-4ac2-a720-7679fd327d2b",
+          "text": "Colisionan los intereses individuales del paciente con los generales de la sociedad.",
+          "correct": true
+        },
+        {
+          "id": "c23b2a2f-d69b-4ff9-b89e-777fbe57421d",
+          "text": "Colisiona la confidencialidad de la práctica asistencial con los intereses generales de la sociedad."
+        },
+        {
+          "id": "6b3b5270-b6da-4c8e-b7a9-cc9f27f74d28",
+          "text": "Colisiona la voluntad del paciente con los intereses generales de la sociedad."
+        }
+      ]
+    },
+    {
+      "id": "11aac64f-ce8e-46c2-9dce-a1e71e16e88c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "El sistema de salud se puede definir:",
+      "options": [
+        {
+          "id": "2e86eb67-05ac-438c-92cb-88e9c6baabbf",
+          "text": "Como una respuesta social organizada frente a los problemas de salud.",
+          "correct": true
+        },
+        {
+          "id": "3fa5703e-5b87-43dd-8236-564b927c819d",
+          "text": "Como el conjunto de prestadores de una región que brinda promoción, prevención y atención directa a las personas."
+        },
+        {
+          "id": "696a08e8-3b3d-4a21-af08-33c39256094e",
+          "text": "Como la respuesta del mercado a la demanda de atención."
+        }
+      ]
+    },
+    {
+      "id": "a5dce2a7-ca4f-4969-afad-ec773143c4a2",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "El término bioética fue acuñado en el libro \"Bridge to the Future\" que significa en español \"Puente hacia el Futuro\" escrito por:",
+      "options": [
+        {
+          "id": "f4fe7fdb-0b34-4b9a-bf34-d67e6c3bea13",
+          "text": "Van Rensselaer Potter.",
+          "correct": true
+        },
+        {
+          "id": "66c0343c-04c0-4a57-8308-6592e68a0c06",
+          "text": "Delia Outomuro."
+        },
+        {
+          "id": "944f0c99-5255-4ef9-be27-1b99f561c1ec",
+          "text": "Susana Vidal."
+        }
+      ]
+    },
+    {
+      "id": "14f09117-16f8-4653-852b-cee9a51258eb",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "En \"Consentimiento Informado Comunitario en investigación con seres humanos\", Barcia y colaboradores sostienen que una de las implicancias de no reconocer la comunidad es:",
+      "options": [
+        {
+          "id": "412ee545-7284-4756-8954-65b1a79c4e26",
+          "text": "Que se pueden imponer valores o intereses externos y generar fenómenos de discriminacion.",
+          "correct": true
+        },
+        {
+          "id": "4fc6444f-ff55-49bd-856e-0ab6dc97e0c8",
+          "text": "Que se puede imputar resultados a poblaciones diferentes de las investigadas."
+        },
+        {
+          "id": "4b3afa7d-df2f-4229-9142-af3ff6397adf",
+          "text": "Que se vuelven menos subjetivos los hallazgos de las investigaciones."
+        }
+      ]
+    },
+    {
+      "id": "ec9c49e0-c1be-41f0-92a4-c998f6f52c8d",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "En el modelo deliberativo se establece un auténtico diálogo entre médico y paciente que pretende servir de cauce para que este último llegue a la decisión que considere más adecuada en un clima de encuentro y colaboración se toman decisiones basadas en:",
+      "options": [
+        {
+          "id": "8b6ff4a7-47af-425f-b964-e794a4bda948",
+          "text": "De forma compartida profesional y paciente.",
+          "correct": true
+        },
+        {
+          "id": "f0b6bf27-6c06-4669-83be-b9349db60450",
+          "text": "La confianza en el profesional por parte del paciente."
+        },
+        {
+          "id": "8f6b80a5-603c-44de-8017-f8179b5f6acd",
+          "text": "La voluntad del paciente que reflexiona en soledad."
+        }
+      ]
+    },
+    {
+      "id": "c7e73c49-3bef-4ba5-91d9-944e7cc5ec60",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "En la atención médica se organizan los recursos de forma ordenada y estratificada en niveles de atención para dar respuesta a:",
+      "options": [
+        {
+          "id": "7374913e-9e5c-4176-9e41-289279e03882",
+          "text": "Las necesidades en salud de la población.",
+          "correct": true
+        },
+        {
+          "id": "99925c2d-a51c-4176-976c-22271c32653f",
+          "text": "Las necesidades de los prestadores de salud."
+        },
+        {
+          "id": "5a4c86c1-42f0-4bb3-a958-8a33eb697d6c",
+          "text": "Las necesidades del sistema de salud."
+        },
+        {
+          "id": "1c13ceac-1d6e-44d1-ac38-9b9f012780cf",
+          "text": "Las necesidades normativas."
+        }
+      ]
+    },
+    {
+      "id": "76b29cdb-ffe8-4ce5-9105-f04cd2b81d8c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "En los estudios de cohortes los participantes son seleccionados:",
+      "options": [
+        {
+          "id": "df2ca123-5ca4-4770-a5d6-60e1bdecfbb5",
+          "text": "Según tengan o no la exposición a estudiar.",
+          "correct": true
+        },
+        {
+          "id": "d00dfd37-5a63-42eb-a0bc-85b74408c9cf",
+          "text": "Según sean aleatorizados o no para recibir el tratamiento experimental."
+        },
+        {
+          "id": "1dd944a4-3a50-4bc7-91b3-5a5a16f8f765",
+          "text": "Según tengan o no la enfermedad a estudiar."
+        }
+      ]
+    },
+    {
+      "id": "712de497-2619-459a-a8e5-b23b4b6192ce",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Entre los factores estructurales del análisis de situación de salud se deben analizar:",
+      "options": [
+        {
+          "id": "452d4b5d-6242-4af3-9751-47d64d29f55c",
+          "text": "Las características culturales y geográficas.",
+          "correct": true
+        },
+        {
+          "id": "f916b876-1411-4d1a-807b-d1cf8b0e5ac9",
+          "text": "La organización del sistema de salud."
+        },
+        {
+          "id": "2fece5c0-f307-4ae8-b8dc-78e48ea16671",
+          "text": "Las características demo-epidemiológicos."
+        }
+      ]
+    },
+    {
+      "id": "cfe806af-0ac5-4f15-bd59-77c82494ea25",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "La financiación del Sistema Nacional Integrado de Salud está dado por aportes de:",
+      "options": [
+        {
+          "id": "19da75d1-6667-4911-9432-48ea9297dee2",
+          "text": "Los usuarios, el estado y las empresas.",
+          "correct": true
+        },
+        {
+          "id": "223e4a16-43a5-45cc-8644-e7d33ec3a6e7",
+          "text": "La intendencia, las empresas y los usuarios."
+        },
+        {
+          "id": "c917db03-9dd3-4de0-a8e9-e26603f2f2d0",
+          "text": "Los hogares, el estado y las empresas."
+        },
+        {
+          "id": "937381ef-61bf-497b-a813-479900c814ff",
+          "text": "Los hogares, las empresas y la intendencia."
+        }
+      ]
+    },
+    {
+      "id": "4b1c0fa4-ed98-4d07-9a3f-26a7f92bff9e",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "La violencia doméstica es considerada como un problema de salud pública porque:",
+      "options": [
+        {
+          "id": "75fcfad1-d582-4452-936d-18128e7d193d",
+          "text": "Es un problema que por su frecuencia y peligrosidad afecta a grupos poblacionales con mayor vulnerabilidad.",
+          "correct": true
+        },
+        {
+          "id": "9aeb081c-1b5d-4e29-b995-c00ce92f27d9",
+          "text": "Es un problema multicausal que requiere abordajes interdisciplinarios."
+        },
+        {
+          "id": "16eead18-fc89-408b-90d7-f3badce75823",
+          "text": "Es un problema que solo puede ser abordado por el personal de la salud."
+        }
+      ]
+    },
+    {
+      "id": "5a854a49-0093-4349-93d4-ee5873209998",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Las políticas públicas son el conjunto de objetivos, decisiones y acciones que lleva a cabo un gobierno para solucionar los problemas que en un momento determinado los ciudadanos y el propio gobierno consideran prioritarios. A consecuencia del SNIS se separa el Ministerio de Salud Pública del prestador público, la Administración de Servicios de Salud del Estado (ASSE). Esto se logró por:",
+      "options": [
+        {
+          "id": "74a01ecc-1160-4964-b255-e6766197f312",
+          "text": "La ley 18161/07.",
+          "correct": true
+        },
+        {
+          "id": "7154cabc-cac2-4a78-a848-649f820c9783",
+          "text": "El decreto 556/07 del MSP."
+        },
+        {
+          "id": "1cdb4a1f-2b6e-4b19-8f2e-c3c7d9fa0b57",
+          "text": "La Constitución de la Republica."
+        }
+      ]
+    },
+    {
+      "id": "273d84b8-c69b-4d88-9baa-2dbdc30e74da",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Los estudios caso control permiten:",
+      "options": [
+        {
+          "id": "9daa2087-6468-4fed-880c-397f93770bb9",
+          "text": "Evaluar la asociación entre dos o más variables.",
+          "correct": true
+        },
+        {
+          "id": "a34177ec-75d9-49ab-80d7-37778ee93c67",
+          "text": "Conocer la incidencia de una enfermedad."
+        },
+        {
+          "id": "ddd4b81d-2b30-4985-ad7c-df1a92e6e035",
+          "text": "Conocer la prevalencia de una enfermedad."
+        }
+      ]
+    },
+    {
+      "id": "d6fd3393-acb6-4d01-b3b9-b0a58fae6462",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "María Luisa Pfeiffer plantea que las diferentes declaraciones de Derechos Humanos:",
+      "options": [
+        {
+          "id": "4cc3d2a5-53ab-4fe8-922c-234182ab79ad",
+          "text": "No son universales ya que no podemos dejar de reconocer que los valores que formula tiene que ver con una cultura determinada.",
+          "correct": true
+        },
+        {
+          "id": "8322fd41-6e4f-4d8f-9dd6-6ab9f64da5ec",
+          "text": "Son universales porque confirman la voluntad de algunas naciones de considerar que todo hombre y fundamentalmente el estado, debe reconocer y valorar a cualquier hombre y respetarlo como tal."
+        },
+        {
+          "id": "e5c35bd0-b162-4b17-9917-95040ead82ea",
+          "text": "Son universales ya que reconocen consensuadamente la dignidad de las personas como un principio ético básico."
+        }
+      ]
+    },
+    {
+      "id": "758705e4-7534-4ec3-8c9d-b4922ebfbe6a",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Para Darras, ¿qué valor ético no puede separarse de la relación entre bioética y salud pública?",
+      "options": [
+        {
+          "id": "a33bb012-2ca5-489a-82e2-ab0d3453d15f",
+          "text": "Interculturalidad.",
+          "correct": true
+        },
+        {
+          "id": "933ebe27-3382-4356-8af0-13d2529b7672",
+          "text": "Legalidad."
+        }
+      ]
+    },
+    {
+      "id": "827627b2-d018-45a8-9a97-3663555c0945",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Roland Schramm y Miguel Kottow plantean que el estado debe asumir obligaciones sanitarias que implican una ética de la responsabilidad, correspondiente a:",
+      "options": [
+        {
+          "id": "2bd39a2d-3cd0-4dd8-a5b7-bee06028d610",
+          "text": "Una ética de la protección planteada por dichos autores.",
+          "correct": true
+        },
+        {
+          "id": "347164cb-b6ff-4f63-b95b-aa06d0401b60",
+          "text": "Una ética de la responsabilidad diacónica como la presenta Levinas."
+        },
+        {
+          "id": "260440ef-1888-4593-9a0b-34a41e6fe75d",
+          "text": "Una ética de la responsabilidad óntica como la presenta Jonas."
+        }
+      ]
+    },
+    {
+      "id": "9a14d636-c55d-4ac3-9bfc-b9b66b13d03c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Schramm y Kottow plantean al principio de protección para los programas de salud pública considerando:",
+      "options": [
+        {
+          "id": "c2f5de5c-3bd2-43e2-b206-8e12376c58e6",
+          "text": "La realidad latinoamericana en torno a injusticia y inequidades sociales.",
+          "correct": true
+        },
+        {
+          "id": "bcbf5811-3f09-414a-a477-a1911cadfe75",
+          "text": "La solidaridad como valor exigible para la aplicación de políticas públicas."
+        },
+        {
+          "id": "3f34af23-2d74-4133-8d9c-15f758a2c573",
+          "text": "Las reglas de la teoría principialista como herramienta principal."
+        }
+      ]
+    },
+    {
+      "id": "4660299c-c782-4350-a915-5c2191c7afe6",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Según Darras, ¿cuál es el aporte de la bioética en el establecimiento de una relación con la salud pública?",
+      "options": [
+        {
+          "id": "27be802e-ed9e-4588-a9c7-239fef4ae5f9",
+          "text": "La deliberación moral basada en valores plurales propuestos y consensuados.",
+          "correct": true
+        },
+        {
+          "id": "0acdabd8-4c20-46a8-82b8-b8f0f1d91010",
+          "text": "El análisis a través de los principios establecidos por Beauchamp y Childress."
+        },
+        {
+          "id": "f9f17d48-7240-4679-b49c-55cf9f64f6dc",
+          "text": "El enfoque comparable al que aportan el derecho y la religión en salud pública."
+        }
+      ]
+    },
+    {
+      "id": "44e44580-bb44-4edf-83fe-35a59a0fa73c",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Según M. Casado, en el artículo \"Bioética y Derechos humanos. Sobre la Bioética como herramienta para la democracia\": la bioética debe:",
+      "options": [
+        {
+          "id": "6dda8163-ae22-4be4-9b44-e4869e8e142b",
+          "text": "Defender rigurosamente la pluralidad de valores y principios.",
+          "correct": true
+        },
+        {
+          "id": "e67082c2-53fd-481f-bfff-6570425168d2",
+          "text": "Establecer principios y valores absolutos para dar una respuesta a los avances biotecnológicos."
+        },
+        {
+          "id": "7aab2306-4754-45a0-bf8c-bdc4a2fd1b31",
+          "text": "Predeterminar rígidamente como los distintos valores y principios han de convivir."
+        }
+      ]
+    },
+    {
+      "id": "42f89f2a-fc66-493b-bec3-41801e6cab81",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Sobre el concepto de Derechos Humanos, María Luisa Pfeiffer plantea que aquello que tiene valor, peso decisorio, a priori para todo hombre y mujer en todo lugar y tiempo, y bajo cualquier circunstancia es:",
+      "options": [
+        {
+          "id": "7e132901-035a-4d1f-8989-be1d7c7e92c7",
+          "text": "Universal.",
+          "correct": true
+        },
+        {
+          "id": "3f9e8220-eab2-4ebb-a460-544e3286bf69",
+          "text": "Imprescriptible."
+        },
+        {
+          "id": "1e0234e3-6888-46d2-adb4-38b9a9de06b9",
+          "text": "Inalienable."
+        }
+      ]
+    },
+    {
+      "id": "4e6d2173-1eb8-4753-ac65-7323de6aeec6",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Un grupo de Aprendizaje en Territorio se propone realizar un Análisis de Situación de Salud (ASIS). Para eso le piden una entrevista al entrenador de baby futbol del club del barrio. Sobre esta fuente de datos podemos afirmar que:",
+      "options": [
+        {
+          "id": "0259298a-ec5c-44a3-aa40-9919aed54818",
+          "text": "Es una fuente de información primaria.",
+          "correct": true
+        },
+        {
+          "id": "585665b5-0ef7-4860-88f0-c22d34907f6d",
+          "text": "Brinda todos los datos necesarios para realizar un ASIS."
+        },
+        {
+          "id": "be839fbc-cd2f-4b89-811c-7ad243e46ea9",
+          "text": "Es una fuente de información secundaria."
+        }
+      ]
+    },
+    {
+      "id": "8e89ece1-2ee6-4523-b7d2-0ea8e82d9f21",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "¿Cuáles de las siguientes es una fuente de información permanente que resulta útil para la elaboración de un Análisis de Situación de Salud?",
+      "options": [
+        {
+          "id": "63724d03-126f-40e4-a256-46d19be4c6a7",
+          "text": "Censo de población.",
+          "correct": true
+        },
+        {
+          "id": "34adce9f-70a8-4333-a049-9fa76ea9e4c0",
+          "text": "Encuesta Nacional de Salud."
+        },
+        {
+          "id": "656853bc-c1ff-49ee-a181-415160d6c244",
+          "text": "Registro Civil."
+        }
+      ]
+    },
+    {
+      "id": "deb7a745-5e71-4d48-a927-14249eb2df97",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "¿En que nivel de atención se debería atender Juan que hace dos días esta con tos y expectoración?",
+      "options": [
+        {
+          "id": "c0a56521-1610-4c68-bf09-77dd0cf32359",
+          "text": "Primer nivel de atención.",
+          "correct": true
+        },
+        {
+          "id": "2b52905c-4758-4770-b9eb-8869a493d061",
+          "text": "Segundo nivel de atención."
+        },
+        {
+          "id": "52d2c55a-d7a3-4fbe-9b87-d04506e2dfa3",
+          "text": "Tercer nivel de atención."
+        }
+      ]
+    },
+    {
+      "id": "398fac95-d49e-4602-9c24-3bdc793c65ef",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "¿En que porcentaje de los accidentes de transito con victimas mortales está involucrado el consumo de alcohol en alguno de los actores?",
+      "options": [
+        {
+          "id": "57e576a5-4938-46c8-86ab-1611a0e28612",
+          "text": "85%.",
+          "correct": true
+        },
+        {
+          "id": "ec5bef59-93cd-4c5a-b1ab-7489011ffbcb",
+          "text": "45%."
+        },
+        {
+          "id": "88105bef-14b3-40cf-ab37-b558508ea6b3",
+          "text": "55%."
+        },
+        {
+          "id": "cca83953-d7bb-4759-b8f7-064c9061b8be",
+          "text": "75%."
+        }
+      ]
+    },
+    {
+      "id": "a8acc683-e2da-43fc-8602-94dfd59afc0a",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "¿Qué quiere decir que un indicador de salud es válido?",
+      "options": [
+        {
+          "id": "9811510d-cc11-45de-88f8-08a75dbf9bf3",
+          "text": "Que mide el fenómeno que se pretende medir y no otro.",
+          "correct": true
+        },
+        {
+          "id": "910d4315-de0b-4fbf-b74c-81aa3e2cdfe9",
+          "text": "Que está correctamente calculado."
+        },
+        {
+          "id": "af8ff32f-6834-4993-9765-6851199df4de",
+          "text": "Que se recopila en el momento en el que se lo necesita."
         }
       ]
     }
