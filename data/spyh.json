@@ -4399,6 +4399,28 @@
       ]
     },
     {
+      "id": "b5687cea-3e6d-447b-bf2a-e955cda75dd7",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Conductas como conducir a alta velocidad o utilizar el celular mientras se conduce según la clasificación de Frenk corresponden a determinantes de tipo:",
+      "options": [
+        {
+          "id": "40648b43-aa63-4bab-90f2-02187cb03b11",
+          "text": "Próximos.",
+          "correct": true
+        },
+        {
+          "id": "65bb31f7-e29a-451a-9d64-d232294bd39d",
+          "text": "Básicos."
+        },
+        {
+          "id": "e093990e-2289-47f2-8e7a-1ac758bd2738",
+          "text": "Estructurales."
+        }
+      ]
+    },
+    {
       "id": "5009f68b-1e7a-4bab-bd79-130b4dd92f23",
       "evaluation": "parcial_2",
       "source": "partial",
@@ -4443,6 +4465,28 @@
       ]
     },
     {
+      "id": "91cfc1b6-61d8-4d4a-9a4d-7455b8733cfd",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Daniel es estudiante de medicina realizando prácticas en un hospital. Antes de ir a ver a un paciente, se dirige a la historia clínica para leerla previamente sin consultar. La docente observa lo que hizo y le dice que está mal hacer eso. ¿A qué ámbito corresponde la actitud de la docente con respecto a lo que hizo Daniel?",
+      "options": [
+        {
+          "id": "86804853-30dd-4ad2-ab81-49cdfe7644a2",
+          "text": "Moral.",
+          "correct": true
+        },
+        {
+          "id": "1ce694fd-3543-4306-bab0-c6711a14a8a8",
+          "text": "Médico."
+        },
+        {
+          "id": "57f6b355-71b8-4196-93d7-aa2e92cd3e03",
+          "text": "Ética."
+        }
+      ]
+    },
+    {
       "id": "b293f211-ee9c-4300-a275-1f2372f1f93b",
       "evaluation": "parcial_2",
       "source": "partial",
@@ -4483,6 +4527,50 @@
         {
           "id": "9406c882-2f31-4f81-8490-cdd8968e7cf0",
           "text": "Del positivismo."
+        }
+      ]
+    },
+    {
+      "id": "f1af87dd-4fe3-440c-b6b7-cc8159bf93b0",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Dentro de los actores principales de los sistemas de salud, se pueden distinguir tres roles básicos:",
+      "options": [
+        {
+          "id": "f17f9831-152e-49e2-bb41-e7b632e113e2",
+          "text": "ntermediarios, beneficiarios, proveedores.",
+          "correct": true
+        },
+        {
+          "id": "d1e32dd2-0e73-490f-8224-f2b8cf127ce1",
+          "text": "Clínicas de diagnóstico, instituciones de asistencia médica privada (IAMPP) y autoridad sanitaria."
+        },
+        {
+          "id": "5d5df85e-90b6-4ff3-9beb-c675f24c8fa3",
+          "text": "Intermediarios, Industria farmacéutica, hospitales."
+        }
+      ]
+    },
+    {
+      "id": "38e95cbf-7c45-4b35-afbf-23c477d8cbb9",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "El porcentaje de PBI que se gasta en salud es un indicador:",
+      "options": [
+        {
+          "id": "e6316d26-50d4-482c-91a9-bbe58432bd9f",
+          "text": "De política sanitaria.",
+          "correct": true
+        },
+        {
+          "id": "5f2b01e3-ea8e-4068-a254-46157914c5f4",
+          "text": "De atención médica."
+        },
+        {
+          "id": "b0516a1e-fa17-48ce-98e0-70879521a35a",
+          "text": "Socioeconómico."
         }
       ]
     },
@@ -4623,6 +4711,50 @@
       ]
     },
     {
+      "id": "e1919a1f-e53d-4559-89c4-5f1784af5d0a",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "En la puesta en marcha del Sistema Nacional Integrado de Salud se pone énfasis en que en el primer nivel de atención se:",
+      "options": [
+        {
+          "id": "7c359bc4-50ac-4447-ada9-0886734e259e",
+          "text": "Ejecute actividades de promoción de salud.",
+          "correct": true
+        },
+        {
+          "id": "5a4ed333-8749-4054-b2f8-991638908a5e",
+          "text": "Elabore políticas de salud."
+        },
+        {
+          "id": "237e6568-f0f5-4f5a-924c-058c4d4c49e2",
+          "text": "Utilice de forma intensiva la alta tecnología."
+        }
+      ]
+    },
+    {
+      "id": "5fb940e0-128c-4f29-b115-43c22f187769",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "En las sociedades occidentales cuando hablamos de género aludimos a:",
+      "options": [
+        {
+          "id": "bafbc551-5fb9-448b-8d9e-0d08acb1ffe1",
+          "text": "Atributos diferenciales que se asignan a varones y mujeres en cada sociedad.",
+          "correct": true
+        },
+        {
+          "id": "fb44a50d-5f21-433d-a766-55aa35df5661",
+          "text": "Las diferencias biológicas entre varones y mujeres en la sociedad."
+        },
+        {
+          "id": "a51b3f1d-c97c-49f3-9cab-4d0d9aa8b58b",
+          "text": "Una construcción sexual sobre la base de la identidad de género de varones y mujeres."
+        }
+      ]
+    },
+    {
       "id": "76b29cdb-ffe8-4ce5-9105-f04cd2b81d8c",
       "evaluation": "parcial_2",
       "source": "partial",
@@ -4663,6 +4795,54 @@
         {
           "id": "2fece5c0-f307-4ae8-b8dc-78e48ea16671",
           "text": "Las características demo-epidemiológicos."
+        }
+      ]
+    },
+    {
+      "id": "b4ee4775-f947-42ad-8814-518eba4df9c0",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Existen tres tipos de ASIS ellos son:",
+      "options": [
+        {
+          "id": "d5295a06-4311-4363-8840-9b5219b35d56",
+          "text": "Con participación comunitaria, institucional y mixto.",
+          "correct": true
+        },
+        {
+          "id": "9c959ba3-cb75-4133-9a87-cba9b804a362",
+          "text": "Nacional, institucional y mixto."
+        },
+        {
+          "id": "3cf78a57-bc8d-478b-be19-b71327b1e1cd",
+          "text": "Nacional, institucional y regional."
+        }
+      ]
+    },
+    {
+      "id": "e88e8f93-bc82-429f-8fcb-e962d8cfe5c3",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "La conformación de una red de servicios estructurada en niveles de atención:",
+      "options": [
+        {
+          "id": "ac03b334-5f01-49c3-a657-16977785383b",
+          "text": "Organiza el sistema de atención para cumplir con los atributos de la atención médica.",
+          "correct": true
+        },
+        {
+          "id": "184b8f93-553d-42c8-9fab-f42503d31b3d",
+          "text": "Es independiente de los procedimientos de atención que se desarrollan."
+        },
+        {
+          "id": "66483f22-b70e-413f-97f8-9c80ae55ea37",
+          "text": "Genera ahorro en los recursos humanos."
+        },
+        {
+          "id": "d1e5c7ee-716c-4d5b-963f-ca76a6ba56ec",
+          "text": "No toma en cuenta la complejidad de las prestaciones."
         }
       ]
     },
@@ -4759,6 +4939,28 @@
       ]
     },
     {
+      "id": "c1e6c5f3-935b-44b6-a7ee-8448bb9ecc11",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Los estudios descriptivos identifican variaciones en la distribución de las enfermedades. También son útiles para:",
+      "options": [
+        {
+          "id": "8c7af93c-0ca0-4afa-a67d-7a6da31169ff",
+          "text": "Sospechar causas de una enfermedad de causa desconocida.",
+          "correct": true
+        },
+        {
+          "id": "d7aa1bec-d6f5-486f-9020-5213f2ee4f52",
+          "text": "Establecer la relación costo-efectividad de una intervención de salud pública."
+        },
+        {
+          "id": "236602c0-ca8b-42ca-8eae-ed7643f814c8",
+          "text": "Estimar incidencia de una enfermedad."
+        }
+      ]
+    },
+    {
       "id": "d6fd3393-acb6-4d01-b3b9-b0a58fae6462",
       "evaluation": "parcial_2",
       "source": "partial",
@@ -4777,6 +4979,28 @@
         {
           "id": "e5c35bd0-b162-4b17-9917-95040ead82ea",
           "text": "Son universales ya que reconocen consensuadamente la dignidad de las personas como un principio ético básico."
+        }
+      ]
+    },
+    {
+      "id": "b7742093-69a7-45ab-959a-f0b61e99e573",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "María Luisa Pfeiffer propone que transformar en leyes positivas las leyes éticas universales, representa un proceso político que corresponde a:",
+      "options": [
+        {
+          "id": "b079516f-dffb-4560-aab7-034d93571ccf",
+          "text": "Cada nación.",
+          "correct": true
+        },
+        {
+          "id": "4ac266aa-70fa-454f-a67a-91a744096ffe",
+          "text": "Cada continente."
+        },
+        {
+          "id": "59967f18-b4e3-4330-8b80-71a2723475c3",
+          "text": "Cada individuo."
         }
       ]
     },
@@ -4839,6 +5063,28 @@
         {
           "id": "3f34af23-2d74-4133-8d9c-15f758a2c573",
           "text": "Las reglas de la teoría principialista como herramienta principal."
+        }
+      ]
+    },
+    {
+      "id": "3d449cf7-ee22-4b53-9e93-1fe4cef86508",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "Se ha producido una explosión en la vía publica, en la cual un joven se ha quemado gravemente y debió ser trasladado al Centro Nacional de Quemados para ser atendido. ¿A qué nivel de atención pertenece este centro?",
+      "options": [
+        {
+          "id": "5fa42dda-53d6-4483-85a7-646d6397e682",
+          "text": "Tercer nivel.",
+          "correct": true
+        },
+        {
+          "id": "2f834215-2825-46e6-a283-69addd93a268",
+          "text": "Primer nivel."
+        },
+        {
+          "id": "1dd5f4f9-a842-4072-841e-9aaeb6cbcb6d",
+          "text": "Segundo nivel."
         }
       ]
     },
@@ -4927,6 +5173,28 @@
         {
           "id": "be839fbc-cd2f-4b89-811c-7ad243e46ea9",
           "text": "Es una fuente de información secundaria."
+        }
+      ]
+    },
+    {
+      "id": "5c8b8b30-e526-4c63-b7fd-8eabc35eb795",
+      "evaluation": "parcial_2",
+      "source": "partial",
+      "asked_at": "2021-07-17",
+      "text": "¿Cuál es el tipo de estudio más adecuado para evaluar la eficacia de una nueva vacuna para prevenir la enfermedad COVID-19?",
+      "options": [
+        {
+          "id": "7f06324b-ae18-4d3c-886e-2eaecbdb88ae",
+          "text": "Un estudio clínico aleatorizado.",
+          "correct": true
+        },
+        {
+          "id": "6a9bbe71-3e00-4dd7-9d30-ede6f22ca768",
+          "text": "Un estudio caso-control."
+        },
+        {
+          "id": "afe2e722-7479-4ff0-862d-6bbb56e63001",
+          "text": "Un estudio de cohortes."
         }
       ]
     },
