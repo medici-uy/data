@@ -12,6 +12,698 @@
   "order": 2,
   "questions": [
     {
+      "id": "0942a488-b04a-4f72-aee0-44ceb2edff90",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "Cuando individuo accede a información sobre un usuario sin su consentimiento se está infringiendo la regla de:",
+      "options": [
+        {
+          "id": "ed63d0b7-0bb2-4776-a3b1-1b608afb91e7",
+          "text": "Privacidad.",
+          "correct": true
+        },
+        {
+          "id": "4b65dcfa-3342-40e3-8f1b-2f0f1f09985d",
+          "text": "Confidencialidad."
+        },
+        {
+          "id": "86e72e1f-585c-402d-8f72-84e4698b3f67",
+          "text": "Fidelidad."
+        },
+        {
+          "id": "fa0884d0-7cb1-46d4-9a8f-3221db6f605b",
+          "text": "Veracidad."
+        }
+      ]
+    },
+    {
+      "id": "dc356552-ffb1-40fa-b302-b4e346e33273",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "El atributo de la información personal que exige no revelar a terceros sin que haya un motivo suficiente corresponde a la regla de:",
+      "options": [
+        {
+          "id": "4339a76e-8626-46bc-a66e-bc1db7a5cde5",
+          "text": "Confidencialidad.",
+          "correct": true
+        },
+        {
+          "id": "1c8c53d7-132f-4a58-b6e8-64eda2cde5db",
+          "text": "Fidelidad."
+        },
+        {
+          "id": "1725a6be-b327-40fc-8db6-13c7ade5f717",
+          "text": "Privacidad."
+        },
+        {
+          "id": "7c0943e1-5caf-457d-a1aa-d4a88a1f4a9b",
+          "text": "Veracidad."
+        }
+      ]
+    },
+    {
+      "id": "850b4431-a791-440a-a34a-40769fa67a55",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "El correlato legal de la regla de confidencialidad es el/la:",
+      "options": [
+        {
+          "id": "e5bbf2dd-a6e6-4975-8cb4-741d6203a3ff",
+          "text": "Secreto médico.",
+          "correct": true
+        },
+        {
+          "id": "7ed0bc33-46be-4eaf-bb57-a220d49a25e3",
+          "text": "Consentimiento informado."
+        },
+        {
+          "id": "0c33acc8-7b5e-4eb1-a7c8-b0294198c2df",
+          "text": "Derecho a no saber."
+        },
+        {
+          "id": "72744838-2ae4-4dd5-a78c-0f82f0db667a",
+          "text": "Voluntad anticipada."
+        }
+      ]
+    },
+    {
+      "id": "f7b06fe8-27b4-40b4-a7c9-267cdc41931d",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "El dengue en las Américas actualmente es una enfermedad:",
+      "options": [
+        {
+          "id": "9946c109-f0b9-41a9-b08c-ad3a8c3800da",
+          "text": "Reemergente.",
+          "correct": true
+        },
+        {
+          "id": "62d74aa7-0b7f-4361-84c1-bf39ff094a49",
+          "text": "Emergente."
+        },
+        {
+          "id": "32e40814-ef3a-4ec7-857d-a7b4b067ae50",
+          "text": "Importada."
+        }
+      ]
+    },
+    {
+      "id": "7277b785-466a-4e6e-8570-7dfee68c2357",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "El privilegio terapéutico es una justificación limitante de la regla de:",
+      "options": [
+        {
+          "id": "2301f883-0923-40cf-a490-5974efc55968",
+          "text": "Veracidad.",
+          "correct": true
+        },
+        {
+          "id": "4f7aef25-8b84-4845-971b-920d8b849c8a",
+          "text": "Confidencialidad."
+        },
+        {
+          "id": "c9451ca0-7539-4890-9ab4-1bca4d1b60f8",
+          "text": "Fidelidad."
+        },
+        {
+          "id": "2b812bab-bd95-4442-bf92-c7924a47c422",
+          "text": "Privacidad."
+        }
+      ]
+    },
+    {
+      "id": "425287d9-8280-4479-91f2-fd16eef8b790",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "En el mes de abril comenzó la campaña de vacunación antigripal, la cual corresponde a una medida de prevención:",
+      "options": [
+        {
+          "id": "e7cced86-e859-48a8-b66b-32db014cb837",
+          "text": "Primaria.",
+          "correct": true
+        },
+        {
+          "id": "4d1301c5-9560-4bb4-b32d-1ad8aaeede84",
+          "text": "Secundaria."
+        },
+        {
+          "id": "5a22ae5c-29c5-4206-a765-524ce4457e34",
+          "text": "Terciaria."
+        }
+      ]
+    },
+    {
+      "id": "3580b3b2-2612-4818-8746-dd7939597522",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "En el modelo de determinantes sociales de la salud de Whitehead y Dalgren, las condiciones socioeconómicas, culturales y ambientales, son un determinante social:",
+      "options": [
+        {
+          "id": "768a4bc3-b31d-438d-af16-879fa45a3edd",
+          "text": "Distal.",
+          "correct": true
+        },
+        {
+          "id": "3ae735e7-e14f-42a4-8492-3ca72fcc74cc",
+          "text": "Intermedio."
+        },
+        {
+          "id": "8da309e0-de2b-4996-a533-7f571317355f",
+          "text": "Proximal."
+        }
+      ]
+    },
+    {
+      "id": "144efd7f-4380-44a6-a15a-93adcd3042a6",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "En la definición de salud de Milton Terris se considera:",
+      "options": [
+        {
+          "id": "8274bae8-86f3-4536-96bb-21e1bd5ae119",
+          "text": "La capacidad de funcionamiento del individuo.",
+          "correct": true
+        },
+        {
+          "id": "56c18ce6-f875-4b10-b7d2-4b2fed8709ad",
+          "text": "El factor ecológico ambiental."
+        },
+        {
+          "id": "6a9a6c44-3685-445e-9303-4ab543c680a9",
+          "text": "Los factores sociales de la comunidad."
+        }
+      ]
+    },
+    {
+      "id": "8ad08be4-4575-408a-8ffc-a2a2cbf266bb",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "En la etapa de formación de la pareja en el ciclo vital familiar...",
+      "options": [
+        {
+          "id": "aaf8b198-cbb9-466c-91cc-ae869e0e2f6b",
+          "text": "Se construye el nosotros discriminado.",
+          "correct": true
+        },
+        {
+          "id": "edf02e1e-ce94-4689-ba67-8e4d4bda2e94",
+          "text": "Continúa la misma relación con la familia de origen."
+        },
+        {
+          "id": "38448398-7859-46cd-9157-23cc1cc1b097",
+          "text": "Nace el sistema parental."
+        }
+      ]
+    },
+    {
+      "id": "9c0cff4e-16af-476a-9d62-fc3614fd7592",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "En la teoría Kantiana, las acciones que se realizan por deber son moralmente:",
+      "options": [
+        {
+          "id": "70ea6d9c-49db-454a-b74d-160cbbe70ae8",
+          "text": "Correctas.",
+          "correct": true
+        },
+        {
+          "id": "fa454502-79c8-4a4e-8593-29ecef17a31b",
+          "text": "Incorrectas."
+        },
+        {
+          "id": "79efcd2b-2aa0-4ecd-9061-d8b547339cb1",
+          "text": "Neutras."
+        }
+      ]
+    },
+    {
+      "id": "f653a0c1-3dc9-41d4-b4fe-02df578bbab6",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "Entre los principios de la atención primaria de Salud se encuentran la:",
+      "options": [
+        {
+          "id": "3929d696-70ad-44ef-913b-458dc18adb6d",
+          "text": "Participación, sostenibilidad y justicia social.",
+          "correct": true
+        },
+        {
+          "id": "035e27d7-b2b1-4a54-b338-bd830db95193",
+          "text": "Participación, solidaridad y justicia social."
+        },
+        {
+          "id": "421d638c-b6fc-4c3c-98a6-3631f2633adb",
+          "text": "Participación, sostenibilidad y solidaridad."
+        }
+      ]
+    },
+    {
+      "id": "6e8b5ecd-cd90-430f-a98a-26d7da78d3a1",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "La definición operativa de salud mental, incorpora cómo criterios para su definición el logro:",
+      "options": [
+        {
+          "id": "6e68ec54-201a-4ece-ada6-38a41029c221",
+          "text": "De las capacidades para funcionar en la vida.",
+          "correct": true
+        },
+        {
+          "id": "b990764f-685d-4235-9ca0-729dca0041b5",
+          "text": "De la eliminación de los conflictos internos y externos."
+        },
+        {
+          "id": "a9cb1206-58de-4ebd-8508-06e8c6308d13",
+          "text": "Del estado del bienestar."
+        }
+      ]
+    },
+    {
+      "id": "a756d76a-14bd-451f-ac35-002fc298c892",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "La reforma y creación del SNIS se sustenta en tres ejes:",
+      "options": [
+        {
+          "id": "65ce9843-0de5-4e94-b9ca-0f985ac9afa0",
+          "text": "Gestión, financiamiento y atención.",
+          "correct": true
+        },
+        {
+          "id": "063e2f3c-8d18-40e0-9728-065ef4ecf78a",
+          "text": "Atención, solidaridad y sustentabilidad."
+        },
+        {
+          "id": "5dc76272-7bd0-4fa4-a058-aff6d27c2f49",
+          "text": "Gestión, atención y equidad."
+        }
+      ]
+    },
+    {
+      "id": "046e6cc8-93c0-43f4-a51f-a82025653992",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "La teoría teleológica que plantea juzgar la moralidad de las acciones caso a caso atendiendo a las consecuencias previsibles de cada alternativa es:",
+      "options": [
+        {
+          "id": "2b54e533-4389-4f16-8da1-429703ce08a5",
+          "text": "El utilitarismo de acto.",
+          "correct": true
+        },
+        {
+          "id": "9180b4cc-85da-478d-a64f-82147787de89",
+          "text": "El utilitarismo de regla."
+        },
+        {
+          "id": "de3fadcf-3550-46e3-9398-dd595e79d741",
+          "text": "La virtud aristotélica."
+        }
+      ]
+    },
+    {
+      "id": "a1c98939-5040-4b4b-bd3f-4d0a05de7762",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "La ética aristotélica plantea que hay moral porque los seres humanos buscan:",
+      "options": [
+        {
+          "id": "c88f7e1f-38e6-41c6-a11d-d10bb9f9d1fa",
+          "text": "La felicidad.",
+          "correct": true
+        },
+        {
+          "id": "ceacfc93-7c78-447e-8046-4c5ced38067b",
+          "text": "El placer."
+        },
+        {
+          "id": "0d671c7e-940c-4bf7-94a0-59b8b58caa48",
+          "text": "La prudencia."
+        }
+      ]
+    },
+    {
+      "id": "2d68ef9a-6273-46cb-b4c8-46de59304b37",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "La ética de la protección hace referencia a:",
+      "options": [
+        {
+          "id": "358ee202-9d5b-47da-9382-4888d5e6d347",
+          "text": "La responsabilidad del Estado de asumir obligaciones sanitarias.",
+          "correct": true
+        },
+        {
+          "id": "46fde612-ac0d-4e4a-83b4-bb9c312f6298",
+          "text": "La adaptación del modelo principialista a la ética de la salud pública."
+        },
+        {
+          "id": "add05821-fe9b-4f00-a481-1bd0c5fb006d",
+          "text": "La obligación de comportarse solidariamente."
+        }
+      ]
+    },
+    {
+      "id": "6f5f25d1-c3b8-4c9e-8ee7-74205f41c5ff",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "Las críticas que le fueron realizadas al concepto de salud de la OMS de 1946, fueron:",
+      "options": [
+        {
+          "id": "a656ff00-c628-4500-8af7-8c7f623156b8",
+          "text": "Concebir a la salud como un concepto estático.",
+          "correct": true
+        },
+        {
+          "id": "66f695f2-c5be-438c-8c83-7e9c91cbd6cf",
+          "text": "Concebir un concepto demasiado realista de la salud."
+        },
+        {
+          "id": "90e8638d-6424-429e-a08d-aacc887053aa",
+          "text": "Pone énfasis en la salud física y no mental."
+        }
+      ]
+    },
+    {
+      "id": "cf7caad2-0ba5-44b3-8e0d-55b71a4a5b05",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "Lea el siguiente fragmento sobre una campaña que UNICEF realizó en Sierra Leona en el año 2014: Alrededor de 2,4 millones de personas recibirán medicamentos contra la malaria en una campaña apoyada por UNICEF que comienza hoy. En un momento en el que se acerca la época de mayor transmisión de malaria, esta maniobra pretende reducir los casos de malaria, aliviar la presión del sistema de salud y permitir que los casos reales de ébola sean identificados y tratados. \"La malaria es la primera causa de muerte en Sierra Leona, pero los pacientes que pueden haberse contagiado no buscan atención médica por miedo a ser rechazados en los centros de salud como sospechosos de tener ébola\", ha dicho Roeland Monash, representante de UNICEF en el país. \"La gente se muere en sus comunidades por la falta de diagnóstico y tratamiento. Esta campaña contribuirá a la lucha contras las dos enfermedades, la malaria y el ébola\". ¿Cuál de las opciones le parece la más adecuada para describir la situación que relata el texto?",
+      "options": [
+        {
+          "id": "609a6192-3238-43c3-8f1d-15a90fabf844",
+          "text": "Existen dimensiones históricas, sociales y culturales en la forma en que se construyen la salud y la enfermedad.",
+          "correct": true
+        },
+        {
+          "id": "6d77ac0f-0591-4465-a37a-a4f5b3ccd15f",
+          "text": "El avance científico amplía el conocimiento del que se dispone sobre las características de una enfermedad y elimina por sí solo las situaciones de discriminación que se pueden dar en una comunidad."
+        },
+        {
+          "id": "1901edf5-dcb8-42bd-8d86-ad957b01c5c0",
+          "text": "En la atención a enfermedades como el ébola o la malaria intervienen únicamente factores asociados a la biología."
+        }
+      ]
+    },
+    {
+      "id": "9694f88d-7641-438f-b723-2a16668c7a1a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "Lea el siguiente texto: \"La inversión en salud mental beneficia el desarrollo económico. Cada dólar invertido en la ampliación del tratamiento para la depresión y la ansiedad conduce a un retorno de 4 dólares en mejor salud y habilidad para trabajar. El tratamiento por lo general implica una psicoterapia o medicación antidepresiva o una combinación de los dos. Ambos enfoques pueden ser proporcionados por trabajadores de salud no especializados, siguiendo un curso corto de capacitación y utilizando la Guía de Intervención de mhGAP de la OMS\" (OPS, campaña anual de la OMS \"Depresión: hablemos\", abril de 2017). En relación al enunciado anterior podríamos afirmar que:",
+      "options": [
+        {
+          "id": "954f6f0a-2feb-4c3d-9a08-557d159787bd",
+          "text": "La relación entre el poder y el saber médico (representados por las directrices de la OMS) definen tanto a la depresión como a la ausencia de esta.",
+          "correct": true
+        },
+        {
+          "id": "8e178f5b-7a96-464e-a951-1747b3e4d240",
+          "text": "En el tratamiento y control de las enfermedades mentales, como la depresión, no existe relación entre los intereses de la economía y el control social ejercido desde las instituciones de salud."
+        },
+        {
+          "id": "0e17ba95-b0af-44f4-aaf4-5247998c56b8",
+          "text": "Resultaría más rentable castigar la depresión que vigilarla."
+        }
+      ]
+    },
+    {
+      "id": "eec93a89-70f9-4162-9846-11a0e1d5d1cb",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "Para la Organización Mundial de la Salud, la promoción de salud es:",
+      "options": [
+        {
+          "id": "5dbfcfc7-beea-4637-b0ae-0b7ea0b44a4e",
+          "text": "El proceso que permite a las personas incrementar el control sobre su salud para mejorarla.",
+          "correct": true
+        },
+        {
+          "id": "36a286b9-8ccd-4343-bcd1-def584166553",
+          "text": "El conjunto de acciones dirigidas para fortalecer económicamente al sector sanitario."
+        },
+        {
+          "id": "9eb7d835-c1a9-4a9f-8cc1-22afa25c9dd6",
+          "text": "La herramienta que permite incrementar el control sobre la salud para diagnosticar la enfermedad."
+        }
+      ]
+    },
+    {
+      "id": "ee854ccc-115a-4161-99cb-4699564707c7",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "Schramm y Kottow proponen que al tratar la ética de la salud pública se debe aplicar el principio de:",
+      "options": [
+        {
+          "id": "ce9593e9-d444-4335-b093-7980c2ef803b",
+          "text": "Protección.",
+          "correct": true
+        },
+        {
+          "id": "709cb2af-fd94-44a6-96c4-a2cd11887c6d",
+          "text": "Fraternidad."
+        },
+        {
+          "id": "26bc669d-9c91-448d-8749-ca56f0f8d4bd",
+          "text": "Solidaridad."
+        }
+      ]
+    },
+    {
+      "id": "8ae1d27f-f750-4804-aea5-b15927dd35c2",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "Según el modelo de determinantes de salud propuesto por Julio Frenk, ¿cuál de los siguientes corresponde a un determinante próximo?",
+      "options": [
+        {
+          "id": "37ff7428-07db-403b-b2c6-ec7680b03b59",
+          "text": "El sistema de salud.",
+          "correct": true
+        },
+        {
+          "id": "bb8d15c1-dd02-4c47-81a0-70be6199162d",
+          "text": "La población."
+        },
+        {
+          "id": "6da4ff52-89df-42a8-aa42-828380df316d",
+          "text": "El genoma."
+        },
+        {
+          "id": "e8833645-426c-4d78-8e9a-59fe8c4fdc03",
+          "text": "La estratificación social."
+        }
+      ]
+    },
+    {
+      "id": "a4a2b5a2-91f9-40c8-8633-8314287ae40b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "Según el paradigma de salud mágico - religioso, la pérdida de salud se debe a:",
+      "options": [
+        {
+          "id": "3e8ac857-1be6-4da5-b67a-34add1687b64",
+          "text": "El castigo de los dioses.",
+          "correct": true
+        },
+        {
+          "id": "236fae53-0a66-479d-a159-031e1a58ba34",
+          "text": "El desequilibrio energético."
+        },
+        {
+          "id": "8edbdaf1-d27a-4d64-9326-646ee838f558",
+          "text": "La alteración de los humores."
+        }
+      ]
+    },
+    {
+      "id": "88ceefcf-f32f-4367-bf9d-2322c52e7117",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "Una crisis paranormativa en una familia es:",
+      "options": [
+        {
+          "id": "2724be70-8bdf-4dca-a23c-0fd37b4b930e",
+          "text": "La enfermedad del perceptor de la familia.",
+          "correct": true
+        },
+        {
+          "id": "388e7fb8-f881-4747-b7c4-4931ca367ac0",
+          "text": "El nacimiento de un hijo."
+        },
+        {
+          "id": "bef36c93-3f01-4538-bcbc-df25e76fb8b3",
+          "text": "Que uno de los integrantes se jubile."
+        }
+      ]
+    },
+    {
+      "id": "e8cb7616-6764-4982-b633-905025d915cb",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "Una justificación para no cumplir con la regla de confidencialidad es el/la:",
+      "options": [
+        {
+          "id": "7d155270-641c-4916-9d98-bb4a75d56f99",
+          "text": "Riesgo para terceros.",
+          "correct": true
+        },
+        {
+          "id": "80b7c403-e6dc-465d-a9c8-60dc3532b571",
+          "text": "Certificado de enfermedad."
+        },
+        {
+          "id": "67e1eddd-6181-4f3f-8c99-14060186b008",
+          "text": "Investigación policial."
+        }
+      ]
+    },
+    {
+      "id": "21ca4521-ac43-4146-a313-a04ceba0bba5",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "¿Cuál de los niveles de prevención tiene como objetivo la recuperación y rehabilitación del individuo para que pueda vivir una vida satisfactoria y autosuficiente?",
+      "options": [
+        {
+          "id": "38739afe-f8ad-4d5b-b48d-0af23bc0b0fa",
+          "text": "Tercer.",
+          "correct": true
+        },
+        {
+          "id": "f35f73de-e0b6-44c8-895b-69582d03b0bb",
+          "text": "Primer."
+        },
+        {
+          "id": "83bc3caf-5f1b-4f8a-934b-c7b01fe558ab",
+          "text": "Primordial."
+        },
+        {
+          "id": "376aade5-9e02-40d0-94d9-d54b14f28703",
+          "text": "Segundo."
+        }
+      ]
+    },
+    {
+      "id": "01a747da-6b31-47f2-b990-a2ad778f1ed5",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "¿Cuál de los siguientes enunciados caracteriza más adecuadamente a la violencia doméstica?",
+      "options": [
+        {
+          "id": "5f313a21-3ea7-42d4-8370-d9ebac2bc207",
+          "text": "La violencia doméstica es una acción sistemática en el marco de una relación afectiva y asimétrica. Las acciones violentas se manifiestan de diferentes formas: física, psicológica, patrimonial, sexual.",
+          "correct": true
+        },
+        {
+          "id": "779705ff-6c14-4a7d-a2b6-6aba2fe003a0",
+          "text": "La violencia doméstica es un tipo de violencia física que se ejerce en el marco de un vínculo afectivo."
+        },
+        {
+          "id": "c8819f29-bc7e-4541-90cb-cad19ee64e02",
+          "text": "La violencia doméstica, la violencia hacia las mujeres y la violencia de género son sinónimos, son conceptos intercambiables que definen el mismo fenómeno."
+        }
+      ]
+    },
+    {
+      "id": "c526d411-8882-4753-a06c-2783fc6d7b6a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "¿Cuáles son las causas responsables del 62% de la mortalidad precoz en Uruguay, en la franja etaria de 30 a 69 años?",
+      "options": [
+        {
+          "id": "b815570b-09aa-4d33-80f1-dbf017ab65cb",
+          "text": "Enfermedades crónicas no transmisibles.",
+          "correct": true
+        },
+        {
+          "id": "cf463d3f-c272-421a-90be-66c5e542edee",
+          "text": "Enfermedades transmisibles."
+        },
+        {
+          "id": "e5448af7-3623-4605-ad2d-e762efefa024",
+          "text": "Lesiones de causa externa (accidentes suicidios y homicidios)."
+        }
+      ]
+    },
+    {
+      "id": "6da11bf3-9ddf-4d53-8f9e-b74b2fde08b9",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "¿En cuáles grupos clasificó Marc Lalonde los factores determinantes de la salud?",
+      "options": [
+        {
+          "id": "36d63dc4-922e-42a3-a4df-ff60653ddd9b",
+          "text": "Biología humana, sistema de salud, estilo de vida y medio ambiente.",
+          "correct": true
+        },
+        {
+          "id": "9e2bb3d9-9407-479d-b87e-275db69992b5",
+          "text": "Demografía, biología humana, sistema de salud y estratificación social."
+        },
+        {
+          "id": "1bbbdcb8-0d01-494d-bea3-706cac54399f",
+          "text": "Genoma humano, estilo de vida, población y medio ambiente."
+        },
+        {
+          "id": "4cedc1ce-aa6e-46b2-ac83-c6db43c0cac2",
+          "text": "Población, trabajo, estilo de vida y sistema de salud."
+        }
+      ]
+    },
+    {
+      "id": "712c9554-f324-46d5-8628-42c18f77b7c2",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2017-05-20",
+      "text": "¿En qué nivel de atención se deberá atender María cuando le informan en el carné de salud que tiene presión alta?",
+      "options": [
+        {
+          "id": "b4e27b88-0e66-4d3d-a359-228560f59c50",
+          "text": "Primer.",
+          "correct": true
+        },
+        {
+          "id": "9d5e7bcd-3589-4582-804c-2766287e146c",
+          "text": "Cuarto."
+        },
+        {
+          "id": "aba3dcc1-efb9-4348-89f9-755d13362fdb",
+          "text": "Segundo."
+        },
+        {
+          "id": "b228b912-a3ef-4bcf-9a34-08a0b4af8af6",
+          "text": "Tercer."
+        }
+      ]
+    },
+    {
       "id": "ad061ba6-5f87-49a9-bb6c-2be277c3c0e0",
       "evaluation": "parcial_1",
       "source": "partial",
