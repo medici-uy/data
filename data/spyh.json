@@ -12,6 +12,478 @@
   "order": 2,
   "questions": [
     {
+      "id": "ca7d9816-c5b3-42e1-ad6d-1512f3312243",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "Ante la aparición de un caso sospechoso de dengue debe realizarse la notificación al Departamento de Vigilancia en Salud del MSP en un plazo no mayor de:",
+      "options": [
+        {
+          "id": "dc9af24c-4b86-4279-86a9-a11b83f6b397",
+          "text": "24 horas.",
+          "correct": true
+        },
+        {
+          "id": "992b4db2-171f-442f-aff1-cb060311a674",
+          "text": "12 horas."
+        },
+        {
+          "id": "d1bd4c6f-7d38-441e-a312-51d4bbef4690",
+          "text": "48 horas."
+        },
+        {
+          "id": "c1372bd6-493d-475b-9d8b-854def43682e",
+          "text": "Una semana."
+        }
+      ]
+    },
+    {
+      "id": "1239ac9a-4672-40b0-bb92-c7a313a0e052",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "En el paradigma hombre-medio se cuida:",
+      "options": [
+        {
+          "id": "0aef9c9b-af27-4f88-9759-d375f6f4b93b",
+          "text": "El aire, las aguas y lugares.",
+          "correct": true
+        },
+        {
+          "id": "60fe4ae1-ecf6-43fa-9fee-c03cd3724047",
+          "text": "El cuerpo y el medio como una maquina."
+        },
+        {
+          "id": "ffc08fa1-3d7b-4d75-9a77-9be709057ec3",
+          "text": "La perfección y armonía de sí mismo."
+        }
+      ]
+    },
+    {
+      "id": "852e2696-0bbf-47d4-9f7e-46360aa3698b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "En un estudio sobre la salud de una población que ha sufrido recientemente una inundación se busca conocer indicadores positivos de salud mental. Desde esta perspectiva será importante indagar sobre la cantidad de:",
+      "options": [
+        {
+          "id": "91e65281-cb70-42e5-9f12-03d29e1a9e9e",
+          "text": "Personas resilientes dentro de los inundados.",
+          "correct": true
+        },
+        {
+          "id": "bb752f06-cae9-4038-96bb-8db10f1ac03b",
+          "text": "Medidas para el realojo de la población."
+        },
+        {
+          "id": "693a50ee-8cee-4537-bbe1-607049b3c9b9",
+          "text": "Personas que perciben daños irreparables."
+        },
+        {
+          "id": "80aecfb1-3f47-4a02-915b-334a7d71954c",
+          "text": "Trastornos mentales en la población."
+        }
+      ]
+    },
+    {
+      "id": "2e0ab472-5886-487a-b3fd-bdb3580372ad",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "En un estudio sobre la salud de una población que ha sufrido recientemente una inundación se busca evaluar el impacto de la inundación sobre la población utilizando el concepto de Calidad de Vida Relacionada con la Salud (CVRS, OMS). Desde esta perspectiva será importante indagar sobre la cantidad de:",
+      "options": [
+        {
+          "id": "5e7be446-34c8-4831-9ee7-1ac4790a26c3",
+          "text": "Personas que perciben daños irreparables.",
+          "correct": true
+        },
+        {
+          "id": "15281bbc-ac6a-4c37-b657-82defe89747c",
+          "text": "Medidas para el realojo de la población."
+        },
+        {
+          "id": "d51a88ac-4304-4bad-abae-1db617803a05",
+          "text": "Personas resilientes dentro de los inundados."
+        },
+        {
+          "id": "bd86f1b8-a5f5-43ab-87e1-37d3aea7cdf5",
+          "text": "Trastornos mentales en la población."
+        }
+      ]
+    },
+    {
+      "id": "188c0b48-6383-4774-85e2-df85e62f1fe0",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "Existen diferentes métodos de medición de la pobreza, la línea de pobreza es el método en el que:",
+      "options": [
+        {
+          "id": "492732fe-d4a7-4b39-a603-c12a80220b57",
+          "text": "Se contrastan los ingresos de las personas y los hogares con los valores de una canasta básica de alimentos y otros servicios esenciales (vivienda, vestimenta, educación).",
+          "correct": true
+        },
+        {
+          "id": "4ebf305b-adb1-48d7-a3a2-3b1886737d95",
+          "text": "Se consulta a las personas respecto a si se consideran o no pobres en función de los recursos que entienden deberían acceder para no serlo (pobreza subjetiva)."
+        },
+        {
+          "id": "af146175-b999-47ac-870b-24fc5411e31f",
+          "text": "Se definen necesidades básicas (en vivienda, educación, salud, entre otras) y se clasifican a los hogares en función de si las tienen o no satisfechas."
+        }
+      ]
+    },
+    {
+      "id": "2d27cc39-70ff-4f19-9404-8a8f8bc17d40",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "Indique cuál de los siguientes enunciados reflejan el concepto de \"medicina como institución de control social\".",
+      "options": [
+        {
+          "id": "1ae1ba5a-8efa-437a-8609-a9ecdceaa7e2",
+          "text": "A principios del siglo XX, los médicos tuvieron un rol central en trasmitir la idea de que la \"higiene personal\" y la \"limpieza\" formaban parte de los \"valores morales\" de la época.",
+          "correct": true
+        },
+        {
+          "id": "9e759a38-d8b3-4703-adf5-54069f569612",
+          "text": "En los últimos años se ha registrado un aumento importante de los partos por cesárea tanto en el sector de salud público como en el privado."
+        },
+        {
+          "id": "2a12019a-a154-4874-b206-a644b7b4e0f3",
+          "text": "Hoy en día, la salud es considerada un derecho para toda la población, independientemente de los ingresos que perciba una persona."
+        },
+        {
+          "id": "cbeb4cc8-4626-48a8-bf6e-1b519c5ea27f",
+          "text": "Según datos recientes, es más difícil para las personas con algún tipo de discapacidad insertarse en el mundo laboral, por lo que ciertas políticas públicas promueven activamente su inclusión."
+        }
+      ]
+    },
+    {
+      "id": "65045757-f842-4d8e-9153-3831cf59696b",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "Juan es un niño con tos y resfrió. ¿En qué nivel de atención debería consultar?",
+      "options": [
+        {
+          "id": "66c2f1ba-9e5b-4d17-88d6-4e7bce993de6",
+          "text": "En el primer nivel.",
+          "correct": true
+        },
+        {
+          "id": "fa1496c1-aac6-4f77-aa6a-d972b7cc919a",
+          "text": "En el segundo nivel."
+        },
+        {
+          "id": "de60f311-aec2-4605-896e-bb5b181e1372",
+          "text": "En el tercer nivel."
+        }
+      ]
+    },
+    {
+      "id": "47533172-e3e6-452b-9545-41e9843fd9f5",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "La construcción de la ciclovía que une la Facultad de Derecho con la de Ingeniería corresponde a una acción de:",
+      "options": [
+        {
+          "id": "2056f9a0-bef5-4cd0-8107-bbedd823fcb3",
+          "text": "Promoción de salud.",
+          "correct": true
+        },
+        {
+          "id": "401af2b0-c88a-4c39-a012-32d9d089803f",
+          "text": "Equidad en salud."
+        },
+        {
+          "id": "a3619ffb-9308-4c3e-a19a-14e23e535371",
+          "text": "Segundo nivel de prevención."
+        }
+      ]
+    },
+    {
+      "id": "2b98cf1e-3b77-4972-a21e-2b51291628bf",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "Las condiciones y medioambiente de trabajo, en el modelo de Frenk es un determinante:",
+      "options": [
+        {
+          "id": "da4d63c3-887e-4281-b443-ee7486958632",
+          "text": "Próximo.",
+          "correct": true
+        },
+        {
+          "id": "74edaba3-bc1a-4798-b863-29831804a56b",
+          "text": "Básico."
+        },
+        {
+          "id": "4cf0f549-57c7-46bc-b184-9638a92d03e0",
+          "text": "Estructural."
+        }
+      ]
+    },
+    {
+      "id": "2b84bacc-8428-4468-a8d6-116468b0b6a8",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "Lea atentamente el siguiente fragmento: \"Dolencia es una condición de falta de salud sentida por un individuo. La antropología sociocultural ha demostrado, por medio de numerosas investigaciones en diversos pueblos del planeta, que las percepciones de buena y mala salud, junto con las amenazas correspondientes, se encuentran culturalmente construidas\". Fuente: Revista Mad. No.10. Mayo 2004. Departamento de Antropología. Universidad de Chile. ¿Qué concepto resulta adecuado para analizarlo?",
+      "options": [
+        {
+          "id": "2071ccce-4f3d-4607-8bef-a76e0b16ff14",
+          "text": "Construcción social del proceso salud-enfermedad.",
+          "correct": true
+        },
+        {
+          "id": "f7354c3f-48bf-4c0c-af30-5140d848ac9c",
+          "text": "Atención medica."
+        },
+        {
+          "id": "f89c7195-5147-4819-8b93-a01dc7b1ba8a",
+          "text": "Medicalización de la sociedad."
+        },
+        {
+          "id": "a8c0080c-713a-49ab-8cb1-49804d1aaa66",
+          "text": "Promoción de salud y salud colectiva."
+        }
+      ]
+    },
+    {
+      "id": "508ac2ba-764e-4a53-8a67-7880ba635c16",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "Lea con atención el siguiente párrafo: \"Virchow... enfatizó las circunstancias históricas y materiales concretas en las cuales aparecía la enfermedad, las fuerzas sociales contradictorias que impedían la prevención, y el rol del investigador promoviendo las reformas. En el análisis de la etiología multifactorial, Virchow sostenía que los factores causales más importantes eran las condiciones materiales de la vida cotidiana de la gente. Esta mirada implicaba que un sistema de salud efectivo no podría limitarse al tratamiento de perturbaciones patofisiológicas de pacientes individuales\". Extraído de: Waitzkin, H. \"Un siglo y medio de olvidos y descubrimientos: las perdurables contribuciones de Vrichow a la medicina social\". Medicina Social. 2006, 1 (1): 5-10. A partir del párrafo anterior, podemos deducir que:",
+      "options": [
+        {
+          "id": "8c80c25c-fe30-45cf-b5fa-16943659e58c",
+          "text": "El concepto de salud es dinámico y ha cambiado en diversos contextos históricoculturales, abarcando dimensiones más allá de lo biológico.",
+          "correct": true
+        },
+        {
+          "id": "a03ca850-ad7b-4c48-9459-e000f3cfe78a",
+          "text": "Cuando se habla de \"etiología multifactorial\" se hace referencia a la diversidad de agentes biológicos que pueden causar enfermedades."
+        },
+        {
+          "id": "4f685edb-6d96-4d76-b568-55cc38a591b1",
+          "text": "El acceso igualitario a condiciones materiales que cubran las necesidades básicas equivale a tener un sistema de salud efectivo."
+        },
+        {
+          "id": "7e0d7a7a-d772-4f80-a505-9a915e0f452e",
+          "text": "El conocimiento y la intervención bio-médica es suficiente para entender los problemas de salud de la población."
+        }
+      ]
+    },
+    {
+      "id": "dfb4163d-9d14-40c0-b161-7806583fac2a",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "Para su evaluación del concepto de Calidad de Vida Relacionada con la Salud de la OMS (CVRS), se incorpora:",
+      "options": [
+        {
+          "id": "ad67ee3c-37b9-4a32-a8f2-201a129e3ff9",
+          "text": "La valoración subjetiva de la enfermedad y su impacto sobre la salud.",
+          "correct": true
+        },
+        {
+          "id": "c06b2ac8-1a5b-41b8-945a-34bb2c9ebd82",
+          "text": "La disponibilidad de asistencia y el acceso a las prestaciones de salud."
+        },
+        {
+          "id": "c9800021-24a7-4e89-83cd-b9a5794c4e87",
+          "text": "La evaluación del médico de la capacidad funcional de las personas."
+        }
+      ]
+    },
+    {
+      "id": "d7e1299c-632c-4199-9adf-30a85f8fadfa",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "Según Marc Lalonde los factores determinantes de la salud se clasifican en:",
+      "options": [
+        {
+          "id": "cad45b6c-198e-4351-b99b-8866c4c0eb3b",
+          "text": "Biología humana, sistema de salud, estilo de vida y medio ambiente.",
+          "correct": true
+        },
+        {
+          "id": "4adafd12-8372-4945-9db1-218e09331d17",
+          "text": "Demografía, biología humana, sistema de salud y estratificación social."
+        },
+        {
+          "id": "116f01ad-e2bc-4cdf-a3dc-403a8319cf2f",
+          "text": "Genoma humano, estilo de vida, población y medio ambiente."
+        },
+        {
+          "id": "5163e76c-2a54-4f39-8db1-de86ffa44ac9",
+          "text": "Redes sociales, trabajo, estilo de vida y sistema de salud."
+        }
+      ]
+    },
+    {
+      "id": "c92f8c9c-2338-477b-a303-e62f3cddff14",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "Sentirse bien, ser consciente de las propias capacidades, y tener capacidad para afrontar las tensiones de la vida cotidiana son dimensiones de la definición de:",
+      "options": [
+        {
+          "id": "380a41f6-97c6-4740-b49e-7c61dbc5cca9",
+          "text": "Salud mental.",
+          "correct": true
+        },
+        {
+          "id": "2205d01e-3756-4551-9b63-939e85b160d4",
+          "text": "Calidad de Vida Relacionada con la Salud (CVRS, OMS)."
+        },
+        {
+          "id": "7774f07e-8595-4250-af60-73026e0e1133",
+          "text": "Resiliencia."
+        }
+      ]
+    },
+    {
+      "id": "54cd5ba6-9e55-46f9-a27d-c11997adf2e6",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "Si analizamos el tornado ocurrido en la ciudad de Dolores considerando el modelo de Frenk: ¿a qué tipo de determinante de salud corresponde?",
+      "options": [
+        {
+          "id": "4e19242c-2591-43b7-a12e-dd970d51bde6",
+          "text": "Básico.",
+          "correct": true
+        },
+        {
+          "id": "03b85e2c-1688-4a56-a317-ae5a5a0ab4ad",
+          "text": "Estructural."
+        },
+        {
+          "id": "f0cfe8b6-c7b7-41fc-9d14-28979fad10cd",
+          "text": "Próximo."
+        }
+      ]
+    },
+    {
+      "id": "c2db9664-ba5b-446a-8c2d-43e6ba32da9e",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "¿A qué nivel de prevención corresponde la determinación de la glucosa en sangre para obtener el carné de salud?",
+      "options": [
+        {
+          "id": "e5e339a1-eec2-474b-b13f-8ff6f80b67c0",
+          "text": "Segundo nivel.",
+          "correct": true
+        },
+        {
+          "id": "d88fc4bf-d632-4271-a612-e33efb3910ee",
+          "text": "Primer nivel."
+        },
+        {
+          "id": "e18264ae-88e6-47ab-96cc-575375fa4804",
+          "text": "Tercer nivel."
+        }
+      ]
+    },
+    {
+      "id": "03a8611e-1bf3-4c7c-a432-6cf90e23ed70",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "¿Cuál de las siguientes opciones representa un aspecto positivo de la definición de Salud de la OMS de 1946?",
+      "options": [
+        {
+          "id": "31ddce76-0e41-4f22-9cb6-4957f92a4e2a",
+          "text": "La salud es de alcance universal.",
+          "correct": true
+        },
+        {
+          "id": "e1c35648-988e-46d0-880e-e1ace9cab0ff",
+          "text": "El bienestar equivale a la salud."
+        },
+        {
+          "id": "4798c0d7-9c4f-4340-8dd8-3d2443a1f509",
+          "text": "La noción de salud incorpora la capacidad funcional."
+        }
+      ]
+    },
+    {
+      "id": "02425988-efdb-4ccd-82a6-e734fd72b729",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "¿Cuál de los siguientes conceptos es uno de los valores en los que se basa de la Atención Primaria de Salud?",
+      "options": [
+        {
+          "id": "729b7180-5d83-4a6e-a992-34638f43d5cb",
+          "text": "Solidaridad.",
+          "correct": true
+        },
+        {
+          "id": "6b7c1784-0f74-408a-97f6-cfa89df69beb",
+          "text": "Cuidado apropiado."
+        },
+        {
+          "id": "56b1cc30-d362-4698-bcef-d6629214ce3e",
+          "text": "Sostenibilidad."
+        }
+      ]
+    },
+    {
+      "id": "b4797905-1b8a-4687-af83-84b0f460edc6",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "¿En qué porcentaje de los siniestros de tránsito con víctimas mortales, está involucrado el alcohol?",
+      "options": [
+        {
+          "id": "f3b71a6c-88ce-4e26-ba47-d42391ebd59a",
+          "text": "85%.",
+          "correct": true
+        },
+        {
+          "id": "fc8e2776-7396-4b42-bc90-c5688a041f49",
+          "text": "45%."
+        },
+        {
+          "id": "f6b7d9fc-2bc0-4da5-9314-babf12f0e7e1",
+          "text": "50%."
+        }
+      ]
+    },
+    {
+      "id": "fd7693a2-7b2b-45fc-a63d-37af91d09714",
+      "evaluation": "parcial_1",
+      "source": "partial",
+      "asked_at": "2016-05-14",
+      "text": "¿Qué concepto es el más adecuado para analizar el siguiente fragmento? \"Las parasitosis intestinales son enfermedades infecciosas desatendidas (EID) que afectan principalmente a las poblaciones que viven en condiciones socioeconómicas pobres, con bajos ingresos, bajo nivel educativo, vivienda precaria, carencia de acceso a servicios básicos como agua potable y saneamiento básico, en condiciones ambientales deterioradas, y con barreras en el acceso a los servicios de salud.\"",
+      "options": [
+        {
+          "id": "c6f4914c-0822-47e9-b1a6-b4c701af1899",
+          "text": "Determinantes sociales de la salud.",
+          "correct": true
+        },
+        {
+          "id": "121002c9-c673-48f2-8fa2-949e6d60f4ef",
+          "text": "Construcción social del proceso salud-enfermedad."
+        },
+        {
+          "id": "b8a95a43-0508-49fe-a294-b365b4fb4f48",
+          "text": "Enfoques metodológicos de medición de la pobreza."
+        },
+        {
+          "id": "fe713324-a9ab-434c-ad30-2062c50ed040",
+          "text": "Participación social en salud."
+        }
+      ]
+    },
+    {
       "id": "0942a488-b04a-4f72-aee0-44ceb2edff90",
       "evaluation": "parcial_1",
       "source": "partial",
@@ -502,16 +974,16 @@
           "correct": true
         },
         {
-          "id": "bb8d15c1-dd02-4c47-81a0-70be6199162d",
-          "text": "La población."
-        },
-        {
           "id": "6da4ff52-89df-42a8-aa42-828380df316d",
           "text": "El genoma."
         },
         {
           "id": "e8833645-426c-4d78-8e9a-59fe8c4fdc03",
           "text": "La estratificación social."
+        },
+        {
+          "id": "bb8d15c1-dd02-4c47-81a0-70be6199162d",
+          "text": "La población."
         }
       ]
     },
